@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 2,
+    "list" : [ {
+      "id" : 2492,
+      "name" : "网战尖兵",
+      "author" : "又墨",
+      "summary" : "一特种兵激战海外做特保，后转作网络高手并进入国安的故事。",
+      "updateStatus" : 1,
+      "catName" : "同人其他",
+      "capacity" : 2095335
+    }, {
+      "id" : 2140,
+      "name" : "傲剑江湖",
+      "author" : "大口斤",
+      "summary" : "他是独孤九剑传人令狐冲的爱子，又是曾被江湖人誉为武林神话的龙啸天之子，他英俊潇洒，气度不凡，他身负绝世神功，剑法出神入化，一次偶然的机会邂逅当朝公主慕蓉雪，二人相识相知相爱，生死相随，不离不弃，然而在",
+      "updateStatus" : 1,
+      "catName" : "仙侠修真",
+      "capacity" : 4283145
+    } ]
+  }
+}

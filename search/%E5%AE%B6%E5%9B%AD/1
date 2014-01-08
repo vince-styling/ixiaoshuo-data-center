@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 1,
+    "list" : [ {
+      "id" : 2355,
+      "name" : "五欢散之烈焰天下",
+      "author" : "狼宫子",
+      "summary" : "十六年前一个雨夜，一个刚出生的孩童遭遇遗弃，被苍古山长老收养，收为徒弟，唤名胡理智，寓意做任何事情都要三思后行，自此在苍古山庄生活。理智只在小事上胡作非为，大事上遵循师傅教诲：清正为人，救人于危难，释",
+      "updateStatus" : 1,
+      "catName" : "幻想耽美",
+      "capacity" : 4900734
+    } ]
+  }
+}

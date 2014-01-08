@@ -1,0 +1,150 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 35,
+    "list" : [ {
+      "id" : 1979,
+      "title" : "珠胎暗结1",
+      "capacity" : 4142
+    }, {
+      "id" : 1980,
+      "title" : "被驱出府！",
+      "capacity" : 9627
+    }, {
+      "id" : 1981,
+      "title" : "绝无生还",
+      "capacity" : 9961
+    }, {
+      "id" : 1982,
+      "title" : "沐家有女1",
+      "capacity" : 9451
+    }, {
+      "id" : 1983,
+      "title" : "沐家有女2",
+      "capacity" : 15748
+    }, {
+      "id" : 1984,
+      "title" : "你才重死了！",
+      "capacity" : 12609
+    }, {
+      "id" : 1985,
+      "title" : "吉祥赌坊",
+      "capacity" : 13878
+    }, {
+      "id" : 1986,
+      "title" : "不许哭了",
+      "capacity" : 12238
+    }, {
+      "id" : 1987,
+      "title" : "三少爷、四少爷来了",
+      "capacity" : 11009
+    }, {
+      "id" : 1988,
+      "title" : "看他们还敢不敢欺负人",
+      "capacity" : 11113
+    }, {
+      "id" : 1989,
+      "title" : "声名鹊起",
+      "capacity" : 9198
+    }, {
+      "id" : 1990,
+      "title" : "天恩的处女图",
+      "capacity" : 9296
+    }, {
+      "id" : 1991,
+      "title" : "玲珑阁1",
+      "capacity" : 9325
+    }, {
+      "id" : 1992,
+      "title" : "玲珑阁2",
+      "capacity" : 9104
+    }, {
+      "id" : 1993,
+      "title" : "冤家路窄！",
+      "capacity" : 9228
+    }, {
+      "id" : 1994,
+      "title" : "冤家路窄2",
+      "capacity" : 9043
+    }, {
+      "id" : 1995,
+      "title" : "冤家路窄3",
+      "capacity" : 9067
+    }, {
+      "id" : 1996,
+      "title" : "哥哥们集体逛青楼？",
+      "capacity" : 9628
+    }, {
+      "id" : 1997,
+      "title" : "哥哥们集体逛青楼！",
+      "capacity" : 9291
+    }, {
+      "id" : 1998,
+      "title" : "天黑好办事！",
+      "capacity" : 9176
+    }, {
+      "id" : 1999,
+      "title" : "大哥中毒！",
+      "capacity" : 9116
+    }, {
+      "id" : 2000,
+      "title" : "大哥中毒2",
+      "capacity" : 9159
+    }, {
+      "id" : 2001,
+      "title" : "半夜游魂",
+      "capacity" : 9338
+    }, {
+      "id" : 2002,
+      "title" : "你怎么会在这？",
+      "capacity" : 9542
+    }, {
+      "id" : 2003,
+      "title" : "高傲的小乞丐",
+      "capacity" : 9278
+    }, {
+      "id" : 2004,
+      "title" : "高傲的小乞丐2",
+      "capacity" : 9296
+    }, {
+      "id" : 2005,
+      "title" : "好人难做",
+      "capacity" : 9133
+    }, {
+      "id" : 2006,
+      "title" : "引老头现身",
+      "capacity" : 9108
+    }, {
+      "id" : 2007,
+      "title" : "引老头现身2",
+      "capacity" : 9334
+    }, {
+      "id" : 2008,
+      "title" : "引老头现身3",
+      "capacity" : 9085
+    }, {
+      "id" : 2009,
+      "title" : "雅间争夺战",
+      "capacity" : 9438
+    }, {
+      "id" : 2010,
+      "title" : "再上赌场",
+      "capacity" : 9233
+    }, {
+      "id" : 2011,
+      "title" : "赌场求输",
+      "capacity" : 9181
+    }, {
+      "id" : 2012,
+      "title" : "老头现身",
+      "capacity" : 9239
+    }, {
+      "id" : 2013,
+      "title" : "上架啦上架啦",
+      "capacity" : 2232
+    } ]
+  }
+}

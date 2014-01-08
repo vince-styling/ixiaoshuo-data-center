@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2571,
+      "name" : "弦断只影",
+      "updateStatus" : 1,
+      "distance" : 1459,
+      "memberId" : 7736
+    }, {
+      "id" : 3063,
+      "name" : "不负相思意",
+      "updateStatus" : 1,
+      "distance" : 7970,
+      "memberId" : 8352
+    }, {
+      "id" : 2423,
+      "name" : "天价前妻：绝情总裁的契约情人",
+      "updateStatus" : 1,
+      "distance" : 2138,
+      "memberId" : 1755
+    }, {
+      "id" : 2544,
+      "name" : "媚色倾城：溺宠蛇蝎毒妃",
+      "updateStatus" : 1,
+      "distance" : 2725,
+      "memberId" : 2032
+    }, {
+      "id" : 3659,
+      "name" : "回头，爱还在原地等你",
+      "updateStatus" : 1,
+      "distance" : 660,
+      "memberId" : 1401
+    }, {
+      "id" : 2676,
+      "name" : "君悦我心",
+      "updateStatus" : 1,
+      "distance" : 6979,
+      "memberId" : 7613
+    }, {
+      "id" : 3130,
+      "name" : "冷情总裁，我不爱",
+      "updateStatus" : 1,
+      "distance" : 3586,
+      "memberId" : 2014
+    }, {
+      "id" : 2349,
+      "name" : "不相信国",
+      "updateStatus" : 1,
+      "distance" : 4679,
+      "memberId" : 2269
+    }, {
+      "id" : 2626,
+      "name" : "花开画中花",
+      "updateStatus" : 1,
+      "distance" : 3330,
+      "memberId" : 7372
+    }, {
+      "id" : 3291,
+      "name" : "离离原上草",
+      "updateStatus" : 1,
+      "distance" : 4781,
+      "memberId" : 3751
+    }, {
+      "id" : 2641,
+      "name" : "倾城归来",
+      "updateStatus" : 1,
+      "distance" : 5562,
+      "memberId" : 1696
+    }, {
+      "id" : 2529,
+      "name" : "萝莉女警攻略：攻克冷面大叔",
+      "updateStatus" : 2,
+      "distance" : 5699,
+      "memberId" : 2865
+    }, {
+      "id" : 2064,
+      "name" : "百变夫君猎顽妻",
+      "updateStatus" : 2,
+      "distance" : 8804,
+      "memberId" : 4341
+    }, {
+      "id" : 3615,
+      "name" : "耀星",
+      "updateStatus" : 1,
+      "distance" : 4543,
+      "memberId" : 8654
+    }, {
+      "id" : 2435,
+      "name" : "绝世青龙王",
+      "updateStatus" : 1,
+      "distance" : 2228,
+      "memberId" : 6688
+    }, {
+      "id" : 2087,
+      "name" : "婳诡录",
+      "updateStatus" : 1,
+      "distance" : 9153,
+      "memberId" : 3799
+    }, {
+      "id" : 2431,
+      "name" : "你浓我浓",
+      "updateStatus" : 1,
+      "distance" : 2736,
+      "memberId" : 1304
+    }, {
+      "id" : 3529,
+      "name" : "黑道少女",
+      "updateStatus" : 1,
+      "distance" : 5359,
+      "memberId" : 8382
+    }, {
+      "id" : 2123,
+      "name" : "鬼歾",
+      "updateStatus" : 2,
+      "distance" : 8080,
+      "memberId" : 2147
+    }, {
+      "id" : 2577,
+      "name" : "恶少总裁：薄宠小娇妻",
+      "updateStatus" : 1,
+      "distance" : 7184,
+      "memberId" : 5015
+    } ]
+  }
+}

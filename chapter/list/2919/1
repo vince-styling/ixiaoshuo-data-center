@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 2476,
+      "title" : "柚子！0001",
+      "capacity" : 6218
+    }, {
+      "id" : 2477,
+      "title" : "诡异的图书馆",
+      "capacity" : 3831
+    }, {
+      "id" : 2478,
+      "title" : "柚子！0003",
+      "capacity" : 3237
+    }, {
+      "id" : 2479,
+      "title" : "0004普拉忆水晶！",
+      "capacity" : 3454
+    }, {
+      "id" : 2480,
+      "title" : "0005危险的黑森林",
+      "capacity" : 3315
+    }, {
+      "id" : 2481,
+      "title" : "0006",
+      "capacity" : 3306
+    }, {
+      "id" : 2482,
+      "title" : "0007诡异的爆炸！",
+      "capacity" : 3155
+    }, {
+      "id" : 2483,
+      "title" : "0008白色宫殿！",
+      "capacity" : 3184
+    } ]
+  }
+}

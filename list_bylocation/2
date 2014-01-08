@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2135,
+      "name" : "阵惊天下",
+      "updateStatus" : 2,
+      "distance" : 7919,
+      "memberId" : 7013
+    }, {
+      "id" : 3251,
+      "name" : "博宇睿",
+      "updateStatus" : 1,
+      "distance" : 4250,
+      "memberId" : 5648
+    }, {
+      "id" : 2325,
+      "name" : "彼岸花仙",
+      "updateStatus" : 1,
+      "distance" : 4806,
+      "memberId" : 4499
+    }, {
+      "id" : 2492,
+      "name" : "网战尖兵",
+      "updateStatus" : 1,
+      "distance" : 5399,
+      "memberId" : 7996
+    }, {
+      "id" : 2810,
+      "name" : "深爱不能醒",
+      "updateStatus" : 1,
+      "distance" : 5634,
+      "memberId" : 2662
+    }, {
+      "id" : 3447,
+      "name" : "魔幻情缘",
+      "updateStatus" : 1,
+      "distance" : 4619,
+      "memberId" : 2798
+    }, {
+      "id" : 3562,
+      "name" : "雨城",
+      "updateStatus" : 2,
+      "distance" : 3421,
+      "memberId" : 6266
+    }, {
+      "id" : 2235,
+      "name" : "空忆落花。",
+      "updateStatus" : 1,
+      "distance" : 2085,
+      "memberId" : 6221
+    }, {
+      "id" : 3151,
+      "name" : "神秘特务之炸弹小姐",
+      "updateStatus" : 1,
+      "distance" : 4446,
+      "memberId" : 7069
+    }, {
+      "id" : 3677,
+      "name" : "不要丢下我，好不好",
+      "updateStatus" : 1,
+      "distance" : 7462,
+      "memberId" : 6012
+    }, {
+      "id" : 2591,
+      "name" : "泪水飘落的日子",
+      "updateStatus" : 1,
+      "distance" : 6570,
+      "memberId" : 4398
+    }, {
+      "id" : 3730,
+      "name" : "美人殇之彼岸花开",
+      "updateStatus" : 1,
+      "distance" : 2202,
+      "memberId" : 3227
+    }, {
+      "id" : 2814,
+      "name" : "小市民",
+      "updateStatus" : 1,
+      "distance" : 3436,
+      "memberId" : 4010
+    }, {
+      "id" : 2774,
+      "name" : "穿越之农家女初长成",
+      "updateStatus" : 1,
+      "distance" : 5115,
+      "memberId" : 3413
+    }, {
+      "id" : 2678,
+      "name" : "柠檬微酸",
+      "updateStatus" : 1,
+      "distance" : 9028,
+      "memberId" : 1422
+    }, {
+      "id" : 3399,
+      "name" : "太子殿下，不爱请休妻",
+      "updateStatus" : 1,
+      "distance" : 5096,
+      "memberId" : 8176
+    }, {
+      "id" : 3474,
+      "name" : "穿越还珠之乾隆是我的",
+      "updateStatus" : 1,
+      "distance" : 1744,
+      "memberId" : 7937
+    }, {
+      "id" : 2378,
+      "name" : "千里背叛",
+      "updateStatus" : 1,
+      "distance" : 924,
+      "memberId" : 4191
+    }, {
+      "id" : 3498,
+      "name" : "浅夏未了",
+      "updateStatus" : 1,
+      "distance" : 5288,
+      "memberId" : 3841
+    }, {
+      "id" : 2418,
+      "name" : "鬼胎",
+      "updateStatus" : 1,
+      "distance" : 9242,
+      "memberId" : 7095
+    } ]
+  }
+}

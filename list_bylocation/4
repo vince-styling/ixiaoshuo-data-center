@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 4,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2263,
+      "name" : "冷酷王爷：我的心你敢要么",
+      "updateStatus" : 1,
+      "distance" : 2478,
+      "memberId" : 1632
+    }, {
+      "id" : 3092,
+      "name" : "哈利波特之魔法学院",
+      "updateStatus" : 2,
+      "distance" : 8690,
+      "memberId" : 3514
+    }, {
+      "id" : 2230,
+      "name" : "妖殇惑世",
+      "updateStatus" : 1,
+      "distance" : 7413,
+      "memberId" : 7630
+    }, {
+      "id" : 3618,
+      "name" : "蝶恋花：化蝶寻君",
+      "updateStatus" : 1,
+      "distance" : 3047,
+      "memberId" : 2633
+    }, {
+      "id" : 3465,
+      "name" : "凤皇",
+      "updateStatus" : 1,
+      "distance" : 3122,
+      "memberId" : 2949
+    }, {
+      "id" : 3674,
+      "name" : "爱上闷骚姐",
+      "updateStatus" : 1,
+      "distance" : 1994,
+      "memberId" : 8045
+    }, {
+      "id" : 3344,
+      "name" : "诀爱（乱世胧伊）",
+      "updateStatus" : 1,
+      "distance" : 1595,
+      "memberId" : 7665
+    }, {
+      "id" : 3423,
+      "name" : "其叶沃若",
+      "updateStatus" : 1,
+      "distance" : 3834,
+      "memberId" : 5612
+    }, {
+      "id" : 3044,
+      "name" : "异世王妃倾城",
+      "updateStatus" : 1,
+      "distance" : 5329,
+      "memberId" : 8595
+    }, {
+      "id" : 3737,
+      "name" : "忐忑修真路",
+      "updateStatus" : 1,
+      "distance" : 6274,
+      "memberId" : 3137
+    }, {
+      "id" : 2126,
+      "name" : "纯钧剑",
+      "updateStatus" : 1,
+      "distance" : 3964,
+      "memberId" : 6554
+    }, {
+      "id" : 2330,
+      "name" : "风雪情殇",
+      "updateStatus" : 1,
+      "distance" : 4998,
+      "memberId" : 6158
+    }, {
+      "id" : 2291,
+      "name" : "长脚丫的年轮",
+      "updateStatus" : 1,
+      "distance" : 4472,
+      "memberId" : 4459
+    }, {
+      "id" : 3641,
+      "name" : "绝代皇妃",
+      "updateStatus" : 1,
+      "distance" : 1139,
+      "memberId" : 3996
+    }, {
+      "id" : 3669,
+      "name" : "错位人生：我的公主",
+      "updateStatus" : 1,
+      "distance" : 5546,
+      "memberId" : 2178
+    }, {
+      "id" : 3638,
+      "name" : "青梅与竹马",
+      "updateStatus" : 1,
+      "distance" : 9448,
+      "memberId" : 7135
+    }, {
+      "id" : 2784,
+      "name" : "恶魔少爷伪天使",
+      "updateStatus" : 1,
+      "distance" : 3446,
+      "memberId" : 8960
+    }, {
+      "id" : 3359,
+      "name" : "遇见等于错过",
+      "updateStatus" : 1,
+      "distance" : 8864,
+      "memberId" : 8149
+    }, {
+      "id" : 2071,
+      "name" : "月落紫禁",
+      "updateStatus" : 2,
+      "distance" : 3659,
+      "memberId" : 3600
+    }, {
+      "id" : 2344,
+      "name" : "枫林残恋",
+      "updateStatus" : 1,
+      "distance" : 2901,
+      "memberId" : 3782
+    } ]
+  }
+}
