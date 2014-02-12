@@ -1,0 +1,126 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 29,
+    "list" : [ {
+      "id" : 2427,
+      "title" : "第一章 女人的幸福",
+      "capacity" : 7734
+    }, {
+      "id" : 2428,
+      "title" : "第二章 重回月宫",
+      "capacity" : 7513
+    }, {
+      "id" : 2429,
+      "title" : "第三章 初遇良人",
+      "capacity" : 10308
+    }, {
+      "id" : 2430,
+      "title" : "第四章 相府四小姐",
+      "capacity" : 6758
+    }, {
+      "id" : 2431,
+      "title" : "第五章 初起波澜",
+      "capacity" : 4849
+    }, {
+      "id" : 2432,
+      "title" : "第六章 我只要忠心的奴才",
+      "capacity" : 8350
+    }, {
+      "id" : 2433,
+      "title" : "第七章 了解真相",
+      "capacity" : 5116
+    }, {
+      "id" : 2434,
+      "title" : "第八章 求见双亲",
+      "capacity" : 6171
+    }, {
+      "id" : 2435,
+      "title" : "第九章 再见良人",
+      "capacity" : 5800
+    }, {
+      "id" : 2436,
+      "title" : "第十章 长相思",
+      "capacity" : 5866
+    }, {
+      "id" : 2437,
+      "title" : "第十一章 画惊四座",
+      "capacity" : 9577
+    }, {
+      "id" : 2438,
+      "title" : "第十二章 相府有女振京城",
+      "capacity" : 9272
+    }, {
+      "id" : 2439,
+      "title" : "第十三章 筹谋",
+      "capacity" : 8612
+    }, {
+      "id" : 2440,
+      "title" : "第十四章 惊梦",
+      "capacity" : 6926
+    }, {
+      "id" : 2441,
+      "title" : "第十五章 蜕变",
+      "capacity" : 7684
+    }, {
+      "id" : 2442,
+      "title" : "第十六章 节外生枝",
+      "capacity" : 7637
+    }, {
+      "id" : 2443,
+      "title" : "第十七章 以牙还牙",
+      "capacity" : 8113
+    }, {
+      "id" : 2444,
+      "title" : "第十八 媚毒 上",
+      "capacity" : 1772
+    }, {
+      "id" : 2445,
+      "title" : "第十八 媚毒 下",
+      "capacity" : 4815
+    }, {
+      "id" : 2446,
+      "title" : "第十九章 失身 上",
+      "capacity" : 1294
+    }, {
+      "id" : 2447,
+      "title" : "第十九章 失身 下",
+      "capacity" : 5952
+    }, {
+      "id" : 2448,
+      "title" : "第二十章 谋中谋",
+      "capacity" : 6478
+    }, {
+      "id" : 2449,
+      "title" : "第二十一章 曲动人心",
+      "capacity" : 3937
+    }, {
+      "id" : 2450,
+      "title" : "第二十二章 姐妹同嫁",
+      "capacity" : 6347
+    }, {
+      "id" : 2451,
+      "title" : "第二十三章 大婚",
+      "capacity" : 5768
+    }, {
+      "id" : 2452,
+      "title" : "第二十四章 洞房暴虐",
+      "capacity" : 6370
+    }, {
+      "id" : 2453,
+      "title" : "第二十五章 被贬",
+      "capacity" : 5228
+    }, {
+      "id" : 2454,
+      "title" : "第二十六章 杨柳院",
+      "capacity" : 6022
+    }, {
+      "id" : 2455,
+      "title" : "第二十六章 落难凤凰不如鸡",
+      "capacity" : 6494
+    } ]
+  }
+}

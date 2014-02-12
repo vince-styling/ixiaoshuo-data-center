@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 31,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3189,
+      "name" : "奴家不承欢：宁为王者不为妃",
+      "updateStatus" : 1,
+      "distance" : 7239,
+      "memberId" : 1829
+    }, {
+      "id" : 2647,
+      "name" : "冷少巧追豪门俏千金",
+      "updateStatus" : 1,
+      "distance" : 7362,
+      "memberId" : 2707
+    }, {
+      "id" : 2440,
+      "name" : "冰山首席：霸宠豪门养女",
+      "updateStatus" : 1,
+      "distance" : 2876,
+      "memberId" : 3153
+    }, {
+      "id" : 2787,
+      "name" : "本编等你来扑倒",
+      "updateStatus" : 1,
+      "distance" : 3617,
+      "memberId" : 1818
+    }, {
+      "id" : 3007,
+      "name" : "醉逍遥",
+      "updateStatus" : 1,
+      "distance" : 6359,
+      "memberId" : 6199
+    }, {
+      "id" : 3673,
+      "name" : "美男在侧:霸气男女",
+      "updateStatus" : 1,
+      "distance" : 9385,
+      "memberId" : 6881
+    }, {
+      "id" : 3492,
+      "name" : "清月",
+      "updateStatus" : 1,
+      "distance" : 7602,
+      "memberId" : 7448
+    }, {
+      "id" : 2530,
+      "name" : "半城烟雨",
+      "updateStatus" : 1,
+      "distance" : 3498,
+      "memberId" : 8436
+    }, {
+      "id" : 2039,
+      "name" : "羊入虎口：皇后，朕劫个色",
+      "updateStatus" : 2,
+      "distance" : 6177,
+      "memberId" : 2645
+    }, {
+      "id" : 2338,
+      "name" : "那一世,只因缘而穿",
+      "updateStatus" : 1,
+      "distance" : 9609,
+      "memberId" : 3702
+    }, {
+      "id" : 2324,
+      "name" : "一代平妃",
+      "updateStatus" : 2,
+      "distance" : 3836,
+      "memberId" : 8005
+    }, {
+      "id" : 2913,
+      "name" : "孤单的世界",
+      "updateStatus" : 1,
+      "distance" : 9029,
+      "memberId" : 8136
+    }, {
+      "id" : 2642,
+      "name" : "黑道特种部队",
+      "updateStatus" : 1,
+      "distance" : 3274,
+      "memberId" : 7906
+    }, {
+      "id" : 2314,
+      "name" : "白之纯水之澈",
+      "updateStatus" : 1,
+      "distance" : 2497,
+      "memberId" : 7592
+    }, {
+      "id" : 3735,
+      "name" : "穿越之修真吐槽娘",
+      "updateStatus" : 1,
+      "distance" : 1296,
+      "memberId" : 5323
+    }, {
+      "id" : 2170,
+      "name" : "轮回三生劫",
+      "updateStatus" : 1,
+      "distance" : 2628,
+      "memberId" : 3464
+    }, {
+      "id" : 2282,
+      "name" : "凤动九天：一等皇妃倾天下",
+      "updateStatus" : 1,
+      "distance" : 670,
+      "memberId" : 8093
+    }, {
+      "id" : 3459,
+      "name" : "红尘客栈",
+      "updateStatus" : 1,
+      "distance" : 9033,
+      "memberId" : 2099
+    }, {
+      "id" : 3029,
+      "name" : "双女穿越记",
+      "updateStatus" : 1,
+      "distance" : 1679,
+      "memberId" : 7036
+    }, {
+      "id" : 2870,
+      "name" : "爱情有多远",
+      "updateStatus" : 1,
+      "distance" : 3634,
+      "memberId" : 4867
+    } ]
+  }
+}

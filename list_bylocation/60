@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 60,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3473,
+      "name" : "素女劫",
+      "updateStatus" : 1,
+      "distance" : 1003,
+      "memberId" : 6721
+    }, {
+      "id" : 2741,
+      "name" : "三生回眸间，一念成魔时",
+      "updateStatus" : 1,
+      "distance" : 7811,
+      "memberId" : 4036
+    }, {
+      "id" : 3249,
+      "name" : "恋上花样天才美男",
+      "updateStatus" : 1,
+      "distance" : 9224,
+      "memberId" : 5881
+    }, {
+      "id" : 2893,
+      "name" : "曾经你还好么",
+      "updateStatus" : 1,
+      "distance" : 9707,
+      "memberId" : 4158
+    }, {
+      "id" : 2783,
+      "name" : "半夏",
+      "updateStatus" : 1,
+      "distance" : 7990,
+      "memberId" : 7650
+    }, {
+      "id" : 2755,
+      "name" : "大话漫游",
+      "updateStatus" : 1,
+      "distance" : 4663,
+      "memberId" : 3134
+    }, {
+      "id" : 3717,
+      "name" : "异界纵横",
+      "updateStatus" : 1,
+      "distance" : 5025,
+      "memberId" : 7055
+    }, {
+      "id" : 3471,
+      "name" : "你是我闪耀的星",
+      "updateStatus" : 1,
+      "distance" : 5579,
+      "memberId" : 6170
+    }, {
+      "id" : 2550,
+      "name" : "醉卧龙榻：刁王夫君你别拽",
+      "updateStatus" : 1,
+      "distance" : 3697,
+      "memberId" : 6149
+    }, {
+      "id" : 2949,
+      "name" : "流云蝶",
+      "updateStatus" : 1,
+      "distance" : 6014,
+      "memberId" : 6594
+    }, {
+      "id" : 2526,
+      "name" : "[网王]花菱の樱",
+      "updateStatus" : 1,
+      "distance" : 3263,
+      "memberId" : 3822
+    }, {
+      "id" : 3188,
+      "name" : "网王之锦绣时年",
+      "updateStatus" : 1,
+      "distance" : 5181,
+      "memberId" : 7714
+    }, {
+      "id" : 2601,
+      "name" : "倾城馨少桃花多",
+      "updateStatus" : 2,
+      "distance" : 9440,
+      "memberId" : 8689
+    }, {
+      "id" : 2660,
+      "name" : "败类黑道",
+      "updateStatus" : 1,
+      "distance" : 3834,
+      "memberId" : 6331
+    }, {
+      "id" : 3089,
+      "name" : "遇见青春时，我还是个胖子",
+      "updateStatus" : 1,
+      "distance" : 2330,
+      "memberId" : 1348
+    }, {
+      "id" : 2642,
+      "name" : "黑道特种部队",
+      "updateStatus" : 1,
+      "distance" : 8835,
+      "memberId" : 4543
+    }, {
+      "id" : 3160,
+      "name" : "小护士大明星",
+      "updateStatus" : 1,
+      "distance" : 7009,
+      "memberId" : 1581
+    }, {
+      "id" : 2295,
+      "name" : "未来帝国之战国春秋",
+      "updateStatus" : 1,
+      "distance" : 3581,
+      "memberId" : 3884
+    }, {
+      "id" : 2641,
+      "name" : "倾城归来",
+      "updateStatus" : 1,
+      "distance" : 7342,
+      "memberId" : 7567
+    }, {
+      "id" : 2898,
+      "name" : "天戒",
+      "updateStatus" : 1,
+      "distance" : 8062,
+      "memberId" : 1473
+    } ]
+  }
+}

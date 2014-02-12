@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 4078,
+      "title" : "五十一幕 旁者视角之白宿",
+      "capacity" : 6325
+    }, {
+      "id" : 4079,
+      "title" : "五十二幕 旁者视角之楠莫",
+      "capacity" : 6169
+    } ]
+  }
+}

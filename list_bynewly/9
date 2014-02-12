@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 9,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3088,
+      "name" : "神殊：幽冥",
+      "summary" : "传说，每隔百年，便会降下一位神殊。传说，若同时降下两位神殊，便会天下大乱...她，身负灭族之仇，誓要",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42301.jpg",
+      "updateStatus" : 1,
+      "capacity" : 441549,
+      "lastUpdateTime" : "2013-12-26 06:05:58"
+    }, {
+      "id" : 2416,
+      "name" : "临时情人",
+      "summary" : "吴峰在一次不慎的事件中遭到了陷阱，在好友王鹏的帮助下这些设置陷阱的人物逐渐浮出水面，在这段时间之中，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19859.jpg",
+      "updateStatus" : 2,
+      "capacity" : 2326645,
+      "lastUpdateTime" : "2013-12-26 05:53:02"
+    }, {
+      "id" : 3411,
+      "name" : "孽障情缘",
+      "summary" : "《孽障情缘》简介：一位貌美如仙的16岁高一女生姚莹，与一男同学相恋并互写情书，被老师发现，状告父母。",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 565415,
+      "lastUpdateTime" : "2013-12-26 05:16:07"
+    }, {
+      "id" : 2851,
+      "name" : "妃藏匈奴",
+      "summary" : "【欢脱版】：半路逃婚纯属意外，刁蛮任性那是秉性难移，苍天庇佑命中桃花却原来是朵奇葩，她不过就是借了他",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44686.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3548616,
+      "lastUpdateTime" : "2013-12-26 04:04:49"
+    }, {
+      "id" : 3436,
+      "name" : "《侦探日记》",
+      "summary" : "我的身份到底是谁？我与多少人换过身份？一片残页打破了原有的生活寂静。我的过去与未来都在这一刻改变。我",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41506.jpg",
+      "updateStatus" : 1,
+      "capacity" : 23089,
+      "lastUpdateTime" : "2013-12-26 03:51:07"
+    }, {
+      "id" : 2806,
+      "name" : "浮尘之爱",
+      "summary" : "「除了一纸婚书，你什么都不会缺。你还可以有我的孩子，放心我一定是个尽责的父亲。」他抓住她的手说道。「",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45745.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7352685,
+      "lastUpdateTime" : "2013-12-26 02:50:48"
+    }, {
+      "id" : 2160,
+      "name" : "修神传",
+      "summary" : "一手破苍穹，一怒为红颜。一人一龙，藐视修真者。沫沫，前世的遗憾；今生今世，我，楚凌天一定会珍惜！！！",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22451.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7864059,
+      "lastUpdateTime" : "2013-12-26 02:28:01"
+    }, {
+      "id" : 2591,
+      "name" : "泪水飘落的日子",
+      "summary" : "一段情，两行泪，能否缘定三生？一对孪生姊妹，一曲爱恨悲歌，诉不尽情途之坎坷……两行心酸泪，两情相悦难",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45739.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9581245,
+      "lastUpdateTime" : "2013-12-26 02:11:40"
+    }, {
+      "id" : 3689,
+      "name" : "让我爱你",
+      "summary" : "多年前让自己告白失败的校园王子变成相亲对象再次闯入生活，谈了一年多恋爱让自己付出真心却劈腿说分手的渣",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45443.jpg",
+      "updateStatus" : 1,
+      "capacity" : 612355,
+      "lastUpdateTime" : "2013-12-26 01:36:30"
+    }, {
+      "id" : 3727,
+      "name" : "繁华错",
+      "summary" : "",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44108.jpg",
+      "updateStatus" : 1,
+      "capacity" : 54591,
+      "lastUpdateTime" : "2013-12-25 21:25:34"
+    }, {
+      "id" : 3007,
+      "name" : "醉逍遥",
+      "summary" : "他，本是竹林溪居王祖师收下的一名弟子，十七岁，他决心闯荡江湖，行侠仗义。她，本是落月湖畔无名的乡村女",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 5619045,
+      "lastUpdateTime" : "2013-12-25 21:09:35"
+    }, {
+      "id" : 2535,
+      "name" : "素锦流年祭",
+      "summary" : "一个年华，是为了祭奠一个夏天。一个夏天，是为了埋葬一段流年。时光是一把刻刀，分割了青春的容颜。年少的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21602.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8955957,
+      "lastUpdateTime" : "2013-12-25 21:00:07"
+    }, {
+      "id" : 3404,
+      "name" : "妖魅公主爱上邪魅王子",
+      "summary" : "前世的爱，是今世她们和他们相遇的原因。圣尊学院是她们和他们相遇的起点，在这里，（她）他们是六大家族的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42181.jpg",
+      "updateStatus" : 1,
+      "capacity" : 374593,
+      "lastUpdateTime" : "2013-12-25 20:43:56"
+    }, {
+      "id" : 3684,
+      "name" : "云之月痕",
+      "summary" : "三国，对我这个三国迷来说并不陌生，只是，当我有一天突然穿越到三国时代，是否经得起考验？包括生死？三国",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 136899,
+      "lastUpdateTime" : "2013-12-25 20:34:45"
+    }, {
+      "id" : 3614,
+      "name" : "二八不婚",
+      "summary" : "新文，关于友情爱情。在你心中，到底友情和爱情孰轻孰重，这你知道吗？当你无比坚定的说出那个答案之后，当",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46898.jpg",
+      "updateStatus" : 1,
+      "capacity" : 189712,
+      "lastUpdateTime" : "2013-12-25 18:57:10"
+    }, {
+      "id" : 2589,
+      "name" : "弑神之巅",
+      "summary" : "画中有话亦真假，声中有生帘青遐；青终有情诱君嫁，人终有仁寻师葭。弑神之心念念在师，不管寒冰，铁马踏破",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 5378487,
+      "lastUpdateTime" : "2013-12-25 18:41:17"
+    }, {
+      "id" : 2461,
+      "name" : "我和僵尸有个约会",
+      "summary" : "僵尸，集天地怨气秽气而生，不老、不死、不灭，被天地人三界摒弃在众生六道之外，浪荡无依、流离失所，在人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44874.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7168915,
+      "lastUpdateTime" : "2013-12-25 18:18:50"
+    }, {
+      "id" : 2503,
+      "name" : "真实的选择",
+      "summary" : "被这个世界的规则选中，说什么拯救世界？可是我没这个想法！！！我不想背负什么人类的未来，我没那个自觉性",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46078.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7639647,
+      "lastUpdateTime" : "2013-12-25 17:12:52"
+    }, {
+      "id" : 2983,
+      "name" : "白衣赋之殇灵卷",
+      "summary" : "一个淡如梨花的琴师，一名放荡不驹的剑客。一段淡淡的交情，一份纯粹的相守。一把绝世的扶仙，一枝倾城的凤",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 3809644,
+      "lastUpdateTime" : "2013-12-25 17:04:46"
+    }, {
+      "id" : 2880,
+      "name" : "卿本红颜之妃常杀手",
+      "summary" : "这年头穿越成风，完成个特殊任务也会穿越只是穿越到了一个不受待见的皇后身上，她的穿越之旅注定坎坷。温柔",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45927.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8986045,
+      "lastUpdateTime" : "2013-12-25 17:00:32"
+    } ]
+  }
+}

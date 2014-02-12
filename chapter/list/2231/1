@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 3704,
+      "title" : "第一章 尚家",
+      "capacity" : 5309
+    }, {
+      "id" : 3705,
+      "title" : "第二章 报到",
+      "capacity" : 9250
+    }, {
+      "id" : 3706,
+      "title" : "第三章 红衣女子",
+      "capacity" : 6740
+    }, {
+      "id" : 3707,
+      "title" : "第四章 闹腾",
+      "capacity" : 9991
+    }, {
+      "id" : 3708,
+      "title" : "第五章 fuloyk",
+      "capacity" : 6421
+    }, {
+      "id" : 3709,
+      "title" : "第六章 误会",
+      "capacity" : 8668
+    }, {
+      "id" : 3710,
+      "title" : "第七章 发狂",
+      "capacity" : 6304
+    }, {
+      "id" : 3711,
+      "title" : "第八章 较量",
+      "capacity" : 8206
+    }, {
+      "id" : 3712,
+      "title" : "第九章 南城",
+      "capacity" : 8170
+    }, {
+      "id" : 3713,
+      "title" : "第十章 莫允的重生",
+      "capacity" : 6879
+    }, {
+      "id" : 3714,
+      "title" : "第十一章 见面",
+      "capacity" : 5171
+    }, {
+      "id" : 3715,
+      "title" : "第十二章 真相（一）",
+      "capacity" : 6131
+    }, {
+      "id" : 3716,
+      "title" : "第十三章 真相（二）",
+      "capacity" : 6485
+    }, {
+      "id" : 3717,
+      "title" : "第十四章 开始",
+      "capacity" : 6930
+    }, {
+      "id" : 3718,
+      "title" : "第十五章 同桌",
+      "capacity" : 6073
+    }, {
+      "id" : 3719,
+      "title" : "第十六章 心痛",
+      "capacity" : 6424
+    }, {
+      "id" : 3720,
+      "title" : "第十七章 家人",
+      "capacity" : 6217
+    }, {
+      "id" : 3721,
+      "title" : "第十八章 新生",
+      "capacity" : 6484
+    }, {
+      "id" : 3722,
+      "title" : "第十九章 新生2",
+      "capacity" : 6134
+    } ]
+  }
+}

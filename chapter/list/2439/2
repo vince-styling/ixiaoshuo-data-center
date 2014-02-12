@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 60,
+    "list" : [ {
+      "id" : 3128,
+      "title" : "chapter26",
+      "capacity" : 6091
+    }, {
+      "id" : 3129,
+      "title" : "chapter27",
+      "capacity" : 3081
+    }, {
+      "id" : 3130,
+      "title" : "chapter28",
+      "capacity" : 6018
+    }, {
+      "id" : 3131,
+      "title" : "chapter29",
+      "capacity" : 3104
+    }, {
+      "id" : 3132,
+      "title" : "chapter30",
+      "capacity" : 6046
+    }, {
+      "id" : 3133,
+      "title" : "chapter31",
+      "capacity" : 3050
+    }, {
+      "id" : 3134,
+      "title" : "chapter01",
+      "capacity" : 6075
+    }, {
+      "id" : 3135,
+      "title" : "chapter02",
+      "capacity" : 3062
+    }, {
+      "id" : 3136,
+      "title" : "chapter03",
+      "capacity" : 6039
+    }, {
+      "id" : 3137,
+      "title" : "澄文上架公告",
+      "capacity" : 1948
+    } ]
+  }
+}

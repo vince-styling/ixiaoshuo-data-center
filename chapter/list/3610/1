@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 4275,
+      "title" : "第一章 我只是喜欢你",
+      "capacity" : 10254
+    }, {
+      "id" : 4276,
+      "title" : "第二章 小雨",
+      "capacity" : 5898
+    }, {
+      "id" : 4277,
+      "title" : "第三章 为什么",
+      "capacity" : 4507
+    }, {
+      "id" : 4278,
+      "title" : "第四章 妈咪",
+      "capacity" : 9017
+    }, {
+      "id" : 4279,
+      "title" : "第五章 麻烦",
+      "capacity" : 4552
+    }, {
+      "id" : 4280,
+      "title" : "第六章 热不热",
+      "capacity" : 7187
+    }, {
+      "id" : 4281,
+      "title" : "第七章 要不要去",
+      "capacity" : 10347
+    }, {
+      "id" : 4282,
+      "title" : "第八章 无言",
+      "capacity" : 14093
+    } ]
+  }
+}

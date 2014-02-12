@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 1679,
+      "title" : "引子+第一章 历劫归来",
+      "capacity" : 5612
+    }, {
+      "id" : 1680,
+      "title" : "第二章 官方寡妇",
+      "capacity" : 5185
+    }, {
+      "id" : 1681,
+      "title" : "第三章 狐狸精",
+      "capacity" : 6006
+    }, {
+      "id" : 1682,
+      "title" : "第四章 家门不幸",
+      "capacity" : 5071
+    }, {
+      "id" : 1683,
+      "title" : "第五章 特殊爱好",
+      "capacity" : 5525
+    }, {
+      "id" : 1684,
+      "title" : "第六章 天帝喜做媒",
+      "capacity" : 5357
+    }, {
+      "id" : 1685,
+      "title" : "第七章 酒醉梧桐林",
+      "capacity" : 6071
+    }, {
+      "id" : 1686,
+      "title" : "第八章 换回扶摇？",
+      "capacity" : 4995
+    }, {
+      "id" : 1687,
+      "title" : "第九章 全是真的",
+      "capacity" : 5268
+    }, {
+      "id" : 1688,
+      "title" : "第十章 寻缘树",
+      "capacity" : 4843
+    }, {
+      "id" : 1689,
+      "title" : "第十一章 初入幻境",
+      "capacity" : 4989
+    }, {
+      "id" : 1690,
+      "title" : "第十二章 仙魔大战",
+      "capacity" : 5094
+    }, {
+      "id" : 1691,
+      "title" : "第十三章 怒打浮黎",
+      "capacity" : 5461
+    } ]
+  }
+}

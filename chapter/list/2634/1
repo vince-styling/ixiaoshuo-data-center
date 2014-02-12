@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 12,
+    "list" : [ {
+      "id" : 2948,
+      "title" : "揾工（1）",
+      "capacity" : 3598
+    }, {
+      "id" : 2949,
+      "title" : "搵工（2）",
+      "capacity" : 3371
+    }, {
+      "id" : 2950,
+      "title" : "揾工（3）",
+      "capacity" : 4033
+    }, {
+      "id" : 2951,
+      "title" : "实验（1）",
+      "capacity" : 3424
+    }, {
+      "id" : 2952,
+      "title" : "实验（2）",
+      "capacity" : 3335
+    }, {
+      "id" : 2953,
+      "title" : "实验（3）",
+      "capacity" : 3191
+    }, {
+      "id" : 2954,
+      "title" : "实验（4）",
+      "capacity" : 3225
+    }, {
+      "id" : 2955,
+      "title" : "实验（5）",
+      "capacity" : 3393
+    }, {
+      "id" : 2956,
+      "title" : "实验（6）",
+      "capacity" : 3715
+    }, {
+      "id" : 2957,
+      "title" : "变异（1）",
+      "capacity" : 3566
+    }, {
+      "id" : 2958,
+      "title" : "变异（2）",
+      "capacity" : 3462
+    }, {
+      "id" : 2959,
+      "title" : "变异（3）",
+      "capacity" : 3167
+    } ]
+  }
+}

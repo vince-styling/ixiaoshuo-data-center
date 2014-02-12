@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1559,
+      "title" : "第一话 灵靖下山，为寻夫婿",
+      "capacity" : 10343
+    }, {
+      "id" : 1560,
+      "title" : "第二话 出门早食 偶遇李沐",
+      "capacity" : 9694
+    }, {
+      "id" : 1561,
+      "title" : "第三话 无心提醒 惹祸上身",
+      "capacity" : 9443
+    } ]
+  }
+}

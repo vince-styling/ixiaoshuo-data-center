@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 12,
+    "totalPageCount" : 16,
+    "totalItemCount" : 304,
+    "list" : [ {
+      "id" : 2087,
+      "name" : "婳诡录",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19012.jpg",
+      "summary" : "那一日，我缓缓独行于风雪漫天的寂寥街上，却不曾想，又遇见了你。——题记通俗版：吴为善本以为自己就是一",
+      "updateStatus" : 1,
+      "capacity" : 8826618,
+      "readerCount" : 1204
+    }, {
+      "id" : 3190,
+      "name" : "仙侠之倾世绝恋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22061.jpg",
+      "summary" : "原来，自己的所有付出，都换不回他的一颗真心。曾今的朝夕相伴，点点滴滴，却被他一句话否决了。为了天下，",
+      "updateStatus" : 1,
+      "capacity" : 597588,
+      "readerCount" : 1192
+    }, {
+      "id" : 2761,
+      "name" : "德伯家的苔丝",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47522.jpg",
+      "summary" : "苔丝是德伯家的一个仆人，每天都努力的干活，十分的勤劳，也十分的能吃苦，他在德伯家里吃尽了苦头，觉得再",
+      "updateStatus" : 1,
+      "capacity" : 6513666,
+      "readerCount" : 1179
+    }, {
+      "id" : 3049,
+      "name" : "做什么公主，来做皇后吧",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47775.jpg",
+      "summary" : "谁说女子不如男，低调而已；谁说女子见识短，守拙而已。一个是侄子，从没叫过她姑姑。一个是如儿子般养大的",
+      "updateStatus" : 1,
+      "capacity" : 148898,
+      "readerCount" : 1179
+    }, {
+      "id" : 3119,
+      "name" : "还珠之浴火重生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47959.jpg",
+      "summary" : "大家好，我是小薇，这是我的新坑，希望大家能够支持，我的第一个坑还没填完，那篇“我们之间的爱情如空气”",
+      "updateStatus" : 1,
+      "capacity" : 98499,
+      "readerCount" : 1147
+    }, {
+      "id" : 3599,
+      "name" : "无声梦流水",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47446.jpg",
+      "summary" : "伴随着地狱之火，湮灭的一切，解开所有关于情的悲悯。岁月无声，掷地有声！",
+      "updateStatus" : 1,
+      "capacity" : 12877,
+      "readerCount" : 1129
+    }, {
+      "id" : 3052,
+      "name" : "林间季雨青冢",
+      "coverUrl" : "",
+      "summary" : "架空历史江湖情缘前世今生——————飞花缱绻，落叶缠绵。我愿与你相忘于江湖，便得此生不见。留我一人在",
+      "updateStatus" : 1,
+      "capacity" : 113765,
+      "readerCount" : 1115
+    }, {
+      "id" : 3683,
+      "name" : "梧桐花雨：亡颜劫",
+      "coverUrl" : "",
+      "summary" : "你说过我们要一直牵着对方的手走下去，可最终我们终究没能抓住彼此的手。不是你不信守承诺，而是我放手了！",
+      "updateStatus" : 1,
+      "capacity" : 155998,
+      "readerCount" : 998
+    }, {
+      "id" : 3668,
+      "name" : "鸳鸯何处绾红妆",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45001.jpg",
+      "summary" : "明熹宗年间，皇帝朱由校专心木艺，无心朝政，朝廷被两大乱党魏忠贤和客氏霸占，忠诚良将无不痛心疾首，其中",
+      "updateStatus" : 1,
+      "capacity" : 88058,
+      "readerCount" : 977
+    }, {
+      "id" : 3211,
+      "name" : "胭脂香味",
+      "coverUrl" : "",
+      "summary" : "他本是她的守护神，生就与她血脉相通。谁知一场天雷斩断了她与他的姻缘，却成就了另一个他对她的情缘。他是",
+      "updateStatus" : 1,
+      "capacity" : 63493,
+      "readerCount" : 958
+    }, {
+      "id" : 3726,
+      "name" : "君倾如月",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44336.jpg",
+      "summary" : "异世重生，是折磨，还是宿命？为什么？竟然会是你？冷酷凌厉的俊颜此刻布满了吃惊和惊痛，自己厌恶的女人竟",
+      "updateStatus" : 1,
+      "capacity" : 1061816,
+      "readerCount" : 938
+    }, {
+      "id" : 3116,
+      "name" : "乱剑源德之九狱之书",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47965.jpg",
+      "summary" : "在世界的某个角落，存在着这样一个大陆：源德大陆。这个角落无人知晓它的秘密，更无人知晓它的存在。他和她",
+      "updateStatus" : 1,
+      "capacity" : 211079,
+      "readerCount" : 911
+    }, {
+      "id" : 3538,
+      "name" : "满城烟雨繁花尽",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48059.jpg",
+      "summary" : "人人说戏子无情……可戏子心中苦谁人知？她有她的领地，他有他的领空……在梨花翻飞的季节相遇，又在梨花翻",
+      "updateStatus" : 2,
+      "capacity" : 87869,
+      "readerCount" : 908
+    }, {
+      "id" : 3048,
+      "name" : "白马枯叶总相依",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46155.jpg",
+      "summary" : "一次负伤，路遇若白和盛世康，待如烟伤复原后回城，却听得心爱之人婚事，他将另娶她人，如烟伤心离去，这时",
+      "updateStatus" : 1,
+      "capacity" : 675416,
+      "readerCount" : 899
+    }, {
+      "id" : 2586,
+      "name" : "半面仙",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47358.jpg",
+      "summary" : "她是豪门千金，亿万家产的指定继承人，却意外穿越到1000年前的大兴国，成为丞相之女。他出生皇族，长于",
+      "updateStatus" : 1,
+      "capacity" : 3614846,
+      "readerCount" : 894
+    }, {
+      "id" : 3370,
+      "name" : "唯妃做歹：帝后来看戏",
+      "coverUrl" : "",
+      "summary" : "--------------------------前缘简介-------------------轻",
+      "updateStatus" : 1,
+      "capacity" : 139019,
+      "readerCount" : 887
+    }, {
+      "id" : 3558,
+      "name" : "残疾王爷，暴力妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43800.jpg",
+      "summary" : "冷雪站在草地上对着天空喊道：“神啊！我上辈子没有惹你吧！老天啊！我上辈子也没有惹你吧！你们怎么能忍心",
+      "updateStatus" : 1,
+      "capacity" : 303056,
+      "readerCount" : 840
+    }, {
+      "id" : 3672,
+      "name" : "只愿得君心",
+      "coverUrl" : "",
+      "summary" : "一次意外，她险些摔下悬崖，稚嫩的呼救声，第一次见到了他。他面无表情的把她从死亡的边缘拉了上来，她已对",
+      "updateStatus" : 1,
+      "capacity" : 210678,
+      "readerCount" : 831
+    }, {
+      "id" : 2912,
+      "name" : "媚色重生：情挑尤物庶女",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46807.jpg",
+      "summary" : "带着前仇旧恨，百世机缘换来重生。苏樱樱回到了十七岁被囚禁在后院的日子，一切又开始轮回。抢了自己夫君的",
+      "updateStatus" : 1,
+      "capacity" : 5181278,
+      "readerCount" : 819
+    }, {
+      "id" : 3403,
+      "name" : "权倾凤妆",
+      "coverUrl" : "",
+      "summary" : "生死不负的誓言他拉着她的手，说道：后宫只有你一人，皇后是你，妃子是你，嫔也是你，都是虚的名头，我只爱",
+      "updateStatus" : 1,
+      "capacity" : 338866,
+      "readerCount" : 812
+    } ]
+  }
+}

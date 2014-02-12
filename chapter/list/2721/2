@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 58,
+    "list" : [ {
+      "id" : 3809,
+      "title" : "十七（上）",
+      "capacity" : 6347
+    }, {
+      "id" : 3810,
+      "title" : "十七（下）",
+      "capacity" : 5413
+    }, {
+      "id" : 3811,
+      "title" : "十八（上）",
+      "capacity" : 4410
+    }, {
+      "id" : 3812,
+      "title" : "十八（下）",
+      "capacity" : 5101
+    }, {
+      "id" : 3813,
+      "title" : "十九（上）",
+      "capacity" : 3625
+    }, {
+      "id" : 3814,
+      "title" : "十九（下）",
+      "capacity" : 4736
+    }, {
+      "id" : 3815,
+      "title" : "二十（上）",
+      "capacity" : 3019
+    }, {
+      "id" : 3816,
+      "title" : "二十（下）",
+      "capacity" : 5940
+    } ]
+  }
+}

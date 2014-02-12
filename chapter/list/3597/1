@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 2409,
+      "title" : "第一章 最后的任务",
+      "capacity" : 7030
+    }, {
+      "id" : 2410,
+      "title" : "第二章 我穿越啦",
+      "capacity" : 3554
+    }, {
+      "id" : 2411,
+      "title" : "第三章 一语惊人",
+      "capacity" : 3081
+    }, {
+      "id" : 2412,
+      "title" : "第四章 满月宴",
+      "capacity" : 5267
+    }, {
+      "id" : 2413,
+      "title" : "第五章 抓阄",
+      "capacity" : 6079
+    }, {
+      "id" : 2414,
+      "title" : "第六章 什么？成亲",
+      "capacity" : 7741
+    }, {
+      "id" : 2415,
+      "title" : "第七章 遇刺",
+      "capacity" : 10877
+    }, {
+      "id" : 2416,
+      "title" : "第八章 锋芒毕露",
+      "capacity" : 6007
+    } ]
+  }
+}

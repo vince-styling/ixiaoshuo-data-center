@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 12,
+    "list" : [ {
+      "id" : 2804,
+      "title" : "第一章 血雨腥风的开始",
+      "capacity" : 11737
+    }, {
+      "id" : 2805,
+      "title" : "第二章 童年的阴影",
+      "capacity" : 8576
+    }, {
+      "id" : 2806,
+      "title" : "第三章 无情帝王也多情",
+      "capacity" : 7213
+    }, {
+      "id" : 2807,
+      "title" : "第四章 安雄之死",
+      "capacity" : 6594
+    }, {
+      "id" : 2808,
+      "title" : "第五章 少女的心伤",
+      "capacity" : 8308
+    }, {
+      "id" : 2809,
+      "title" : "第六章 暧昧的兄妹情",
+      "capacity" : 6341
+    }, {
+      "id" : 2810,
+      "title" : "第七章 你是我的",
+      "capacity" : 7731
+    }, {
+      "id" : 2811,
+      "title" : "第八章 善良的小姐",
+      "capacity" : 8285
+    }, {
+      "id" : 2812,
+      "title" : "第九章 善良的小姐",
+      "capacity" : 6906
+    }, {
+      "id" : 2813,
+      "title" : "第十章 闹别扭",
+      "capacity" : 6420
+    }, {
+      "id" : 2814,
+      "title" : "第十一章 软禁",
+      "capacity" : 6516
+    }, {
+      "id" : 2815,
+      "title" : "第十二章 软禁",
+      "capacity" : 6253
+    } ]
+  }
+}

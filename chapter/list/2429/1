@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 4084,
+      "title" : "第一章 孤儿院",
+      "capacity" : 4276
+    }, {
+      "id" : 4085,
+      "title" : "第二章 从今天开始，我就是你爸爸",
+      "capacity" : 3441
+    }, {
+      "id" : 4086,
+      "title" : "第三章 丑陋的面容",
+      "capacity" : 3796
+    }, {
+      "id" : 4087,
+      "title" : "第四章 她是你妹妹",
+      "capacity" : 3571
+    }, {
+      "id" : 4088,
+      "title" : "第五章 送她去整容",
+      "capacity" : 3525
+    }, {
+      "id" : 4089,
+      "title" : "第四章 跟我一起睡",
+      "capacity" : 3193
+    }, {
+      "id" : 4090,
+      "title" : "第五章 训练结束",
+      "capacity" : 4088
+    }, {
+      "id" : 4091,
+      "title" : "第六章 初夜1",
+      "capacity" : 3112
+    }, {
+      "id" : 4092,
+      "title" : "第七章 初夜2",
+      "capacity" : 72
+    } ]
+  }
+}

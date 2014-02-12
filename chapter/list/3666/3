@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 104,
+    "list" : [ {
+      "id" : 2944,
+      "title" : "风雨前的宁静（4）",
+      "capacity" : 3371
+    }, {
+      "id" : 2945,
+      "title" : "风雨前的宁静（5）",
+      "capacity" : 3046
+    }, {
+      "id" : 2946,
+      "title" : "风雨前的宁静（6）",
+      "capacity" : 3162
+    }, {
+      "id" : 2947,
+      "title" : "毒蝶山庄（1）",
+      "capacity" : 3355
+    } ]
+  }
+}

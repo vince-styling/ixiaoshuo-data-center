@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 2798,
+    "name" : "随心而动",
+    "author" : "记忆初始",
+    "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46267.jpg",
+    "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容请在作者公告区域填写。",
+    "lastUpdateTime" : "2013-12-07 16:09:02",
+    "updateStatus" : 1,
+    "catId" : 130,
+    "catName" : "都市校园",
+    "capacity" : 3223793
+  }
+}

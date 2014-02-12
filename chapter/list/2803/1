@@ -1,0 +1,154 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 36,
+    "list" : [ {
+      "id" : 3723,
+      "title" : "第1章",
+      "capacity" : 9688
+    }, {
+      "id" : 3724,
+      "title" : "第2章",
+      "capacity" : 12915
+    }, {
+      "id" : 3725,
+      "title" : "第3章",
+      "capacity" : 9243
+    }, {
+      "id" : 3726,
+      "title" : "第4章",
+      "capacity" : 10959
+    }, {
+      "id" : 3727,
+      "title" : "第5章",
+      "capacity" : 9765
+    }, {
+      "id" : 3728,
+      "title" : "第6章",
+      "capacity" : 11609
+    }, {
+      "id" : 3729,
+      "title" : "第7章",
+      "capacity" : 13232
+    }, {
+      "id" : 3730,
+      "title" : "第8章",
+      "capacity" : 16814
+    }, {
+      "id" : 3731,
+      "title" : "第9章",
+      "capacity" : 6411
+    }, {
+      "id" : 3732,
+      "title" : "第10章",
+      "capacity" : 7644
+    }, {
+      "id" : 3733,
+      "title" : "第11章",
+      "capacity" : 6649
+    }, {
+      "id" : 3734,
+      "title" : "第12章",
+      "capacity" : 7655
+    }, {
+      "id" : 3735,
+      "title" : "第13章",
+      "capacity" : 6798
+    }, {
+      "id" : 3736,
+      "title" : "第14章",
+      "capacity" : 7584
+    }, {
+      "id" : 3737,
+      "title" : "第15章",
+      "capacity" : 6808
+    }, {
+      "id" : 3738,
+      "title" : "第16章",
+      "capacity" : 6940
+    }, {
+      "id" : 3739,
+      "title" : "第17章",
+      "capacity" : 7213
+    }, {
+      "id" : 3740,
+      "title" : "第18章",
+      "capacity" : 4607
+    }, {
+      "id" : 3741,
+      "title" : "第19章",
+      "capacity" : 8289
+    }, {
+      "id" : 3742,
+      "title" : "第20章",
+      "capacity" : 9992
+    }, {
+      "id" : 3743,
+      "title" : "第21章",
+      "capacity" : 9157
+    }, {
+      "id" : 3744,
+      "title" : "第 22章",
+      "capacity" : 9776
+    }, {
+      "id" : 3745,
+      "title" : "第23章",
+      "capacity" : 9413
+    }, {
+      "id" : 3746,
+      "title" : "第24章",
+      "capacity" : 9147
+    }, {
+      "id" : 3747,
+      "title" : "第25章",
+      "capacity" : 9415
+    }, {
+      "id" : 3748,
+      "title" : "第26章",
+      "capacity" : 9573
+    }, {
+      "id" : 3749,
+      "title" : "第27章",
+      "capacity" : 10035
+    }, {
+      "id" : 3750,
+      "title" : "第28章",
+      "capacity" : 9456
+    }, {
+      "id" : 3751,
+      "title" : "第29章",
+      "capacity" : 9481
+    }, {
+      "id" : 3752,
+      "title" : "第30章",
+      "capacity" : 9386
+    }, {
+      "id" : 3753,
+      "title" : "第31章",
+      "capacity" : 12178
+    }, {
+      "id" : 3754,
+      "title" : "第32章",
+      "capacity" : 9510
+    }, {
+      "id" : 3755,
+      "title" : "第33章",
+      "capacity" : 10717
+    }, {
+      "id" : 3756,
+      "title" : "第34章",
+      "capacity" : 11258
+    }, {
+      "id" : 3757,
+      "title" : "第35章",
+      "capacity" : 9701
+    }, {
+      "id" : 3758,
+      "title" : "作品上架通知",
+      "capacity" : 2232
+    } ]
+  }
+}

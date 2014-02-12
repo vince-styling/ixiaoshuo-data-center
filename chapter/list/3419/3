@@ -1,0 +1,142 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 133,
+    "list" : [ {
+      "id" : 4204,
+      "title" : "何来如果",
+      "capacity" : 2945
+    }, {
+      "id" : 4205,
+      "title" : "种族优势",
+      "capacity" : 3865
+    }, {
+      "id" : 4206,
+      "title" : "忠臣难缠",
+      "capacity" : 3703
+    }, {
+      "id" : 4207,
+      "title" : "所谓帝王",
+      "capacity" : 4516
+    }, {
+      "id" : 4208,
+      "title" : "所谓龙袍",
+      "capacity" : 3776
+    }, {
+      "id" : 4209,
+      "title" : "弥足珍贵",
+      "capacity" : 3235
+    }, {
+      "id" : 4210,
+      "title" : "惊艳四座",
+      "capacity" : 3301
+    }, {
+      "id" : 4211,
+      "title" : "兵法有云",
+      "capacity" : 6163
+    }, {
+      "id" : 4212,
+      "title" : "拭目以待",
+      "capacity" : 4299
+    }, {
+      "id" : 4213,
+      "title" : "画舞相融",
+      "capacity" : 3244
+    }, {
+      "id" : 4214,
+      "title" : "一舞倾城",
+      "capacity" : 3317
+    }, {
+      "id" : 4215,
+      "title" : "云雀苍鹰",
+      "capacity" : 4001
+    }, {
+      "id" : 4216,
+      "title" : "侯门似海",
+      "capacity" : 4840
+    }, {
+      "id" : 4217,
+      "title" : "一生一世",
+      "capacity" : 4009
+    }, {
+      "id" : 4218,
+      "title" : "曲终人散",
+      "capacity" : 6157
+    }, {
+      "id" : 4219,
+      "title" : "所谓回去",
+      "capacity" : 4411
+    }, {
+      "id" : 4220,
+      "title" : "帝王寡情",
+      "capacity" : 3313
+    }, {
+      "id" : 4221,
+      "title" : "谓凤求凰",
+      "capacity" : 3948
+    }, {
+      "id" : 4222,
+      "title" : "你是我的",
+      "capacity" : 5221
+    }, {
+      "id" : 4223,
+      "title" : "玫瑰蔷薇",
+      "capacity" : 5296
+    }, {
+      "id" : 4224,
+      "title" : "雪幽皇后",
+      "capacity" : 3730
+    }, {
+      "id" : 4225,
+      "title" : "好似发疯",
+      "capacity" : 5161
+    }, {
+      "id" : 4226,
+      "title" : "入宫初日",
+      "capacity" : 3573
+    }, {
+      "id" : 4227,
+      "title" : "冷静失控",
+      "capacity" : 4603
+    }, {
+      "id" : 4228,
+      "title" : "我喜欢你",
+      "capacity" : 6073
+    }, {
+      "id" : 4229,
+      "title" : "人走茶凉",
+      "capacity" : 4108
+    }, {
+      "id" : 4230,
+      "title" : "所谓后宫",
+      "capacity" : 2986
+    }, {
+      "id" : 4231,
+      "title" : "婉妃驾到",
+      "capacity" : 3916
+    }, {
+      "id" : 4232,
+      "title" : "装疯卖傻",
+      "capacity" : 3646
+    }, {
+      "id" : 4233,
+      "title" : "来个拥抱",
+      "capacity" : 4952
+    }, {
+      "id" : 4234,
+      "title" : "凶案现场",
+      "capacity" : 6681
+    }, {
+      "id" : 4235,
+      "title" : "谁予安定",
+      "capacity" : 6160
+    }, {
+      "id" : 4236,
+      "title" : "物是人非",
+      "capacity" : 3809
+    } ]
+  }
+}

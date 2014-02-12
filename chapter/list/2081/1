@@ -1,0 +1,98 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 22,
+    "list" : [ {
+      "id" : 4293,
+      "title" : "异瞳赋",
+      "capacity" : 515
+    }, {
+      "id" : 4294,
+      "title" : "第一章 天落红雨妖孽降",
+      "capacity" : 8950
+    }, {
+      "id" : 4295,
+      "title" : "第二章 尊主降驾访名楼",
+      "capacity" : 8711
+    }, {
+      "id" : 4296,
+      "title" : "第三章 千里明珠溅人血",
+      "capacity" : 8670
+    }, {
+      "id" : 4297,
+      "title" : "第四章 月色如水杀气凝",
+      "capacity" : 7851
+    }, {
+      "id" : 4298,
+      "title" : "第五章 芳华飘然离去时",
+      "capacity" : 5733
+    }, {
+      "id" : 4299,
+      "title" : "第六章 倾力缉凶路途漫",
+      "capacity" : 7982
+    }, {
+      "id" : 4300,
+      "title" : "第七章 红烛燃尽芳魂陨",
+      "capacity" : 3820
+    }, {
+      "id" : 4301,
+      "title" : "第八章 同是天涯无心人",
+      "capacity" : 7914
+    }, {
+      "id" : 4302,
+      "title" : "第九章 圣品幕后机关藏",
+      "capacity" : 6101
+    }, {
+      "id" : 4303,
+      "title" : "第十章 密室毒蛾惊魂曲",
+      "capacity" : 8592
+    }, {
+      "id" : 4304,
+      "title" : "第十一章 荒径古宅往事深",
+      "capacity" : 13041
+    }, {
+      "id" : 4305,
+      "title" : "第十二章 孤注一掷终脱险",
+      "capacity" : 7226
+    }, {
+      "id" : 4306,
+      "title" : "第十三章 紫竹白雕风华绽",
+      "capacity" : 10209
+    }, {
+      "id" : 4307,
+      "title" : "第十四章 初尝心动波澜时",
+      "capacity" : 10876
+    }, {
+      "id" : 4308,
+      "title" : "第十五章 乱舞渐雨迷人眼",
+      "capacity" : 9356
+    }, {
+      "id" : 4309,
+      "title" : "第十六章 科技轻功水上走",
+      "capacity" : 11787
+    }, {
+      "id" : 4310,
+      "title" : "第十七章 众人齐赴异雪山",
+      "capacity" : 5937
+    }, {
+      "id" : 4311,
+      "title" : "第十八章 双掌合并惊骇浪",
+      "capacity" : 8316
+    }, {
+      "id" : 4312,
+      "title" : "第十九章 渺无人烟救书生",
+      "capacity" : 7033
+    }, {
+      "id" : 4313,
+      "title" : "第二十章 奇村鬼屋魔医现",
+      "capacity" : 8364
+    }, {
+      "id" : 4314,
+      "title" : "第二十一章",
+      "capacity" : 3556
+    } ]
+  }
+}

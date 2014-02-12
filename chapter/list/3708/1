@@ -1,0 +1,74 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 16,
+    "list" : [ {
+      "id" : 1225,
+      "title" : "第一梦",
+      "capacity" : 9335
+    }, {
+      "id" : 1226,
+      "title" : "第二梦 上",
+      "capacity" : 11620
+    }, {
+      "id" : 1227,
+      "title" : "第二梦 下",
+      "capacity" : 11555
+    }, {
+      "id" : 1228,
+      "title" : "第三梦 上",
+      "capacity" : 12527
+    }, {
+      "id" : 1229,
+      "title" : "第三梦 中",
+      "capacity" : 10402
+    }, {
+      "id" : 1230,
+      "title" : "第三梦 下",
+      "capacity" : 7818
+    }, {
+      "id" : 1231,
+      "title" : "第四梦 上",
+      "capacity" : 11571
+    }, {
+      "id" : 1232,
+      "title" : "第四梦 中",
+      "capacity" : 9180
+    }, {
+      "id" : 1233,
+      "title" : "第四梦 下",
+      "capacity" : 10121
+    }, {
+      "id" : 1234,
+      "title" : "第五梦 上",
+      "capacity" : 6192
+    }, {
+      "id" : 1235,
+      "title" : "第五梦 中",
+      "capacity" : 7017
+    }, {
+      "id" : 1236,
+      "title" : "第五梦 下",
+      "capacity" : 12363
+    }, {
+      "id" : 1237,
+      "title" : "第六梦 上",
+      "capacity" : 6114
+    }, {
+      "id" : 1238,
+      "title" : "第六梦 中",
+      "capacity" : 7174
+    }, {
+      "id" : 1239,
+      "title" : "第六梦 下",
+      "capacity" : 11861
+    }, {
+      "id" : 1240,
+      "title" : "第七梦 上",
+      "capacity" : 6282
+    } ]
+  }
+}

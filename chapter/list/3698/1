@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 2588,
+      "title" : "序章",
+      "capacity" : 5130
+    }, {
+      "id" : 2589,
+      "title" : "梦境",
+      "capacity" : 5441
+    }, {
+      "id" : 2590,
+      "title" : "初次见面",
+      "capacity" : 5969
+    }, {
+      "id" : 2591,
+      "title" : "感觉",
+      "capacity" : 5132
+    }, {
+      "id" : 2592,
+      "title" : "踪迹",
+      "capacity" : 5470
+    }, {
+      "id" : 2593,
+      "title" : "失去记忆？",
+      "capacity" : 5147
+    }, {
+      "id" : 2594,
+      "title" : "相遇",
+      "capacity" : 4853
+    } ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1550,
+      "title" : "小1号 我魂穿了",
+      "capacity" : 4488
+    }, {
+      "id" : 1551,
+      "title" : "小2号 多了一个听众",
+      "capacity" : 4679
+    }, {
+      "id" : 1552,
+      "title" : "小3号 留言不可信",
+      "capacity" : 3698
+    } ]
+  }
+}

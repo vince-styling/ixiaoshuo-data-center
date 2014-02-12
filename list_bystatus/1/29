@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 29,
+    "totalPageCount" : 78,
+    "totalItemCount" : 1542,
+    "list" : [ {
+      "id" : 2697,
+      "name" : "堕世之瞳",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46910.jpg",
+      "summary" : "自天地始辟，混沌初开。逾万年，天地成，是生万物。世间万物皆有定数，此消彼长，轮转又回，而终欣欣向荣。",
+      "updateStatus" : 1,
+      "capacity" : 6929758,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2420,
+      "name" : "双生之恋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47160.jpg",
+      "summary" : "一个冷傲决然，一个温暖善良，因为上一代恩怨而纠葛在一起，可笑的兄妹关系。他当她是仇人，她当他是亲人。",
+      "updateStatus" : 1,
+      "capacity" : 8244314,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2930,
+      "name" : "向右转的温暖",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47192.jpg",
+      "summary" : "他是唐家独子，身世显赫，纵有万般荣耀，也逃不过命运被家族安排的宿命。她是被放弃的私生女，十岁以前也是",
+      "updateStatus" : 1,
+      "capacity" : 3495397,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2544,
+      "name" : "媚色倾城：溺宠蛇蝎毒妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46926.jpg",
+      "summary" : "一个现代的女杀手遭背叛，竟穿越成了宰相府不受宠的小女儿，她那无良老爹为了权势利益狠心将她嫁给了风国有",
+      "updateStatus" : 1,
+      "capacity" : 8356679,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2141,
+      "name" : "一梦入混元",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_1854.jpg",
+      "summary" : "狐不归本是洪荒中的小人物，他不想改变什么，他的目标只是能够活下去，然后回归自我。但是无数的波折，坎坷",
+      "updateStatus" : 1,
+      "capacity" : 8047247,
+      "catName" : "仙侠修真"
+    }, {
+      "id" : 2941,
+      "name" : "饿狼女扑羊记",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47441.jpg",
+      "summary" : "如果,时间可以治愈情伤，那只是因为，爱得不够深刻。------------她跌进他怀里，他情不自禁：",
+      "updateStatus" : 1,
+      "capacity" : 6186252,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2815,
+      "name" : "总裁挽爱：老婆，等你来罚",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47176.jpg",
+      "summary" : "A市季氏财团的总裁季清影死了，但是江氏那被顾氏总裁顾奇爵捉奸在床的懦弱三小姐江墨染却改变了，变得清冷",
+      "updateStatus" : 1,
+      "capacity" : 4588258,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2453,
+      "name" : "死亡七部曲",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44714.jpg",
+      "summary" : "七个不同的女孩，每一夜不同的惊魂故事，在追寻友谊，爱情的道路上，有过伤心，失落，有过伤害，血泪，最终",
+      "updateStatus" : 1,
+      "capacity" : 4811184,
+      "catName" : "灵异悬疑"
+    }, {
+      "id" : 2207,
+      "name" : "神鬼游戏",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46972.jpg",
+      "summary" : "秦舞阳是一个普通的不能在普通的人，而一款神秘的游戏的出现，改变了他，当他发现游戏的技能可以带进现实的",
+      "updateStatus" : 1,
+      "capacity" : 5482209,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 3588,
+      "name" : "红尘笑",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45843.jpg",
+      "summary" : "一个拥有优越生活的富家千金，每日过着无忧无虑的生活，可是，一场突来的灾难把一切都打断了，远离家乡，没",
+      "updateStatus" : 1,
+      "capacity" : 571267,
+      "catName" : "古代言情"
+    }, {
+      "id" : 2739,
+      "name" : "紫色涅槃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47961.jpg",
+      "summary" : "老天要不要这么对我，每十年让我痛一回吗？为什么这么对我呢？人家也是每月流血流泪的女儿身，要不要这么特",
+      "updateStatus" : 1,
+      "capacity" : 3716780,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 3475,
+      "name" : "冰王的傲娇妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44443.jpg",
+      "summary" : "她本是“白富美”女神，一朝穿越，却成“矮挫穷”丫头。那位拥有她美貌的余府小姐，是族谱上成为王妃的先人",
+      "updateStatus" : 1,
+      "capacity" : 181122,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2296,
+      "name" : "梦穿康熙换乾坤",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44362.jpg",
+      "summary" : "梦穿康熙朝，勉力换乾坤！一个普通的当代公务员，混迹职场，感悟爱情，却横遭变数——一场大梦，醒来被穿越",
+      "updateStatus" : 1,
+      "capacity" : 4303360,
+      "catName" : "历史架空"
+    }, {
+      "id" : 3267,
+      "name" : "穿越之花本纯粹",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45423.jpg",
+      "summary" : "在一次意外，我来到了一个陌生的国度，老天让我遇到了和你长相相同的男子，这是命运的抉择，还是老天又一次",
+      "updateStatus" : 1,
+      "capacity" : 241730,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2055,
+      "name" : "网王王子们的爱之不曾离开",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43918.jpg",
+      "summary" : "前世的情缘并没有结束……当她在现实世界失去一切时再度来到网王世界时，然而她发现自己依旧是多余的那个…",
+      "updateStatus" : 1,
+      "capacity" : 6885927,
+      "catName" : "同人其他"
+    }, {
+      "id" : 2176,
+      "name" : "重生之堕仙",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47155.jpg",
+      "summary" : "红尘三千，谁人渡我与苦海。碧落九天，谁人救我与慈航。在这八荒六合之间，无我相、无人相，无众生相。三相",
+      "updateStatus" : 1,
+      "capacity" : 4966205,
+      "catName" : "仙侠修真"
+    }, {
+      "id" : 2406,
+      "name" : "福尔马林的爱情",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46857.jpg",
+      "summary" : "表姐妹喜欢同一个人，真是狗血。作为特洛伊的首席法医，天天面对着各式各样的‘客户’，卓涣兮实在是埋汰了",
+      "updateStatus" : 1,
+      "capacity" : 2682906,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2612,
+      "name" : "女汉子成长史",
+      "coverUrl" : "",
+      "summary" : "现代宅女林妙一朝穿回古代学医术战争爆发学花木兰，进军营最终长成女汉子牌将军",
+      "updateStatus" : 1,
+      "capacity" : 8862370,
+      "catName" : "古代言情"
+    }, {
+      "id" : 2848,
+      "name" : "一路烟花美",
+      "coverUrl" : "",
+      "summary" : "自婚姻破碎以来，我就一直在想一个问题，为什么曾经那么相爱的人会分开，我一直想，一直以来都喜欢在网络上",
+      "updateStatus" : 1,
+      "capacity" : 7449276,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2240,
+      "name" : "一亿一剑一情绝",
+      "coverUrl" : "",
+      "summary" : "一个绝色少女为恨甘愿堕落成嗜血魔鬼一个清冷少年为情甘愿放弃注定的命运一切好像突如其来，却早已被安排。",
+      "updateStatus" : 1,
+      "capacity" : 3246227,
+      "catName" : "玄幻奇幻"
+    } ]
+  }
+}

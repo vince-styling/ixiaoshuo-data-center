@@ -1,0 +1,126 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 29,
+    "list" : [ {
+      "id" : 4558,
+      "title" : "云起",
+      "capacity" : 3774
+    }, {
+      "id" : 4559,
+      "title" : "一、落难贵族",
+      "capacity" : 10294
+    }, {
+      "id" : 4560,
+      "title" : "二、与子偕行",
+      "capacity" : 7489
+    }, {
+      "id" : 4561,
+      "title" : "三 绿衣",
+      "capacity" : 9654
+    }, {
+      "id" : 4562,
+      "title" : "番外一：龙女希嫆",
+      "capacity" : 4011
+    }, {
+      "id" : 4563,
+      "title" : "四、取财有道",
+      "capacity" : 9624
+    }, {
+      "id" : 4564,
+      "title" : "五、温暖",
+      "capacity" : 5812
+    }, {
+      "id" : 4565,
+      "title" : "六、赵府（上）",
+      "capacity" : 7270
+    }, {
+      "id" : 4566,
+      "title" : "七、赵府（中）",
+      "capacity" : 6046
+    }, {
+      "id" : 4567,
+      "title" : "八、赵府（下）",
+      "capacity" : 5726
+    }, {
+      "id" : 4568,
+      "title" : "九、意外逃逸（上）",
+      "capacity" : 7160
+    }, {
+      "id" : 4569,
+      "title" : "十、意外逃逸（下）",
+      "capacity" : 6180
+    }, {
+      "id" : 4570,
+      "title" : "十一、揭榜",
+      "capacity" : 7550
+    }, {
+      "id" : 4571,
+      "title" : "十二、诊脉（上）",
+      "capacity" : 3729
+    }, {
+      "id" : 4572,
+      "title" : "十三、诊脉（下）",
+      "capacity" : 3812
+    }, {
+      "id" : 4573,
+      "title" : "十四、卿兰",
+      "capacity" : 4841
+    }, {
+      "id" : 4574,
+      "title" : "十五、绿衣出岫",
+      "capacity" : 3766
+    }, {
+      "id" : 4575,
+      "title" : "十六、合谋",
+      "capacity" : 3643
+    }, {
+      "id" : 4576,
+      "title" : "十七、龙嫣然 番外（上）",
+      "capacity" : 6221
+    }, {
+      "id" : 4577,
+      "title" : "十八、龙嫣然 番外（下）",
+      "capacity" : 5989
+    }, {
+      "id" : 4578,
+      "title" : "十九",
+      "capacity" : 4366
+    }, {
+      "id" : 4579,
+      "title" : "二十、 姐妹相见",
+      "capacity" : 7220
+    }, {
+      "id" : 4580,
+      "title" : "二十一、插手",
+      "capacity" : 4078
+    }, {
+      "id" : 4581,
+      "title" : "二十二 窥探",
+      "capacity" : 5317
+    }, {
+      "id" : 4582,
+      "title" : "二十三 窥探（下）",
+      "capacity" : 4730
+    }, {
+      "id" : 4583,
+      "title" : "二十四 鲛珠",
+      "capacity" : 5576
+    }, {
+      "id" : 4584,
+      "title" : "二十五 运筹",
+      "capacity" : 4770
+    }, {
+      "id" : 4585,
+      "title" : "二十六 风起",
+      "capacity" : 6494
+    }, {
+      "id" : 4586,
+      "title" : "二十七 夜探",
+      "capacity" : 3915
+    } ]
+  }
+}

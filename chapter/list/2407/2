@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 3963,
+      "title" : "第五十章 打赌",
+      "capacity" : 3100
+    }, {
+      "id" : 3964,
+      "title" : "第五十一章 打架",
+      "capacity" : 3023
+    } ]
+  }
+}

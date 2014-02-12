@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 2851,
+      "title" : "第一章 东宫",
+      "capacity" : 5533
+    }, {
+      "id" : 2852,
+      "title" : "第二章 小流氓",
+      "capacity" : 4654
+    }, {
+      "id" : 2853,
+      "title" : "第三章 惹了我你就要饿着了",
+      "capacity" : 5043
+    } ]
+  }
+}

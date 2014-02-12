@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 4873,
+      "title" : "小序+第一章 阿乐挨骂心生仇恨",
+      "capacity" : 6372
+    }, {
+      "id" : 4874,
+      "title" : "第二章 遭邻里白眼 挨父亲暴打",
+      "capacity" : 72
+    }, {
+      "id" : 4875,
+      "title" : "第三章 王大富借高利贷 嗜赌如命",
+      "capacity" : 5153
+    }, {
+      "id" : 4876,
+      "title" : "第四章 阿乐勇伸援手反被污蔑",
+      "capacity" : 7690
+    }, {
+      "id" : 4877,
+      "title" : "第五章 阿乐被打起杀心",
+      "capacity" : 7415
+    }, {
+      "id" : 4878,
+      "title" : "第六章 王大富之死",
+      "capacity" : 4102
+    } ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 66,
+    "list" : [ {
+      "id" : 4666,
+      "title" : "第一章 相遇",
+      "capacity" : 7122
+    }, {
+      "id" : 4667,
+      "title" : "第二章 成为他的秘书",
+      "capacity" : 6157
+    }, {
+      "id" : 4668,
+      "title" : "第三章 办公室的吻",
+      "capacity" : 6714
+    }, {
+      "id" : 4669,
+      "title" : "第四章 红衣女郎",
+      "capacity" : 6434
+    }, {
+      "id" : 4670,
+      "title" : "第五章 宴会1",
+      "capacity" : 6249
+    }, {
+      "id" : 4671,
+      "title" : "第六张 宴会2",
+      "capacity" : 6336
+    }, {
+      "id" : 4672,
+      "title" : "第七章 不准放弃",
+      "capacity" : 6151
+    }, {
+      "id" : 4673,
+      "title" : "第八章 扑到",
+      "capacity" : 10008
+    }, {
+      "id" : 4674,
+      "title" : "第九章 左晨泽",
+      "capacity" : 9183
+    }, {
+      "id" : 4675,
+      "title" : "第十章 意外",
+      "capacity" : 9667
+    }, {
+      "id" : 4676,
+      "title" : "第十一章 真相",
+      "capacity" : 6805
+    }, {
+      "id" : 4677,
+      "title" : "第十二章 终相见",
+      "capacity" : 7973
+    }, {
+      "id" : 4678,
+      "title" : "第十三章 他的母亲",
+      "capacity" : 5790
+    }, {
+      "id" : 4679,
+      "title" : "第十四章 阴谋",
+      "capacity" : 5011
+    }, {
+      "id" : 4680,
+      "title" : "第十五章 继承前夕",
+      "capacity" : 4894
+    }, {
+      "id" : 4681,
+      "title" : "第十六章 继位大典",
+      "capacity" : 5061
+    }, {
+      "id" : 4682,
+      "title" : "第十七章 法律的修改1",
+      "capacity" : 5039
+    }, {
+      "id" : 4683,
+      "title" : "第十八章 法律的修改2",
+      "capacity" : 5144
+    }, {
+      "id" : 4684,
+      "title" : "第十九章 离开前夕",
+      "capacity" : 5099
+    }, {
+      "id" : 4685,
+      "title" : "第二十章 离开M国",
+      "capacity" : 5027
+    }, {
+      "id" : 4686,
+      "title" : "第二十一章 晴天霹雳",
+      "capacity" : 5047
+    }, {
+      "id" : 4687,
+      "title" : "第二十二章 分开",
+      "capacity" : 5004
+    }, {
+      "id" : 4688,
+      "title" : "第二十三章 车祸",
+      "capacity" : 5123
+    }, {
+      "id" : 4689,
+      "title" : "第二十四章 崩溃",
+      "capacity" : 5479
+    }, {
+      "id" : 4690,
+      "title" : "第二十五章 五年之后",
+      "capacity" : 5241
+    }, {
+      "id" : 4691,
+      "title" : "第二十七章 回忆2",
+      "capacity" : 4935
+    }, {
+      "id" : 4692,
+      "title" : "第二十六章 回忆1",
+      "capacity" : 4979
+    }, {
+      "id" : 4693,
+      "title" : "第二十八章 回忆3",
+      "capacity" : 5059
+    }, {
+      "id" : 4694,
+      "title" : "第二十九章 父女交锋",
+      "capacity" : 5043
+    }, {
+      "id" : 4695,
+      "title" : "第三十章 游乐园之行",
+      "capacity" : 5207
+    }, {
+      "id" : 4696,
+      "title" : "第三十一章 意外重逢",
+      "capacity" : 5105
+    }, {
+      "id" : 4697,
+      "title" : "第三十二章 疯狂对待",
+      "capacity" : 5046
+    }, {
+      "id" : 4698,
+      "title" : "第三十三章 惊人发现",
+      "capacity" : 5054
+    }, {
+      "id" : 4699,
+      "title" : "第三十四章 心痛的变化",
+      "capacity" : 5037
+    }, {
+      "id" : 4700,
+      "title" : "第三十五章 女儿的敌意",
+      "capacity" : 5007
+    }, {
+      "id" : 4701,
+      "title" : "第三十六章 心病心药医",
+      "capacity" : 5140
+    }, {
+      "id" : 4702,
+      "title" : "第三十七章 蓝仙瑶的到来",
+      "capacity" : 5067
+    }, {
+      "id" : 4703,
+      "title" : "第三十八章 谁上了谁的床",
+      "capacity" : 5184
+    }, {
+      "id" : 4704,
+      "title" : "第三十九章 偶然还是必然",
+      "capacity" : 5397
+    }, {
+      "id" : 4705,
+      "title" : "第四十章 乱掉的生活",
+      "capacity" : 5063
+    }, {
+      "id" : 4706,
+      "title" : "第四十一章 父女的谈话",
+      "capacity" : 5208
+    }, {
+      "id" : 4707,
+      "title" : "第四十二章 惊险碰碰车",
+      "capacity" : 5210
+    }, {
+      "id" : 4708,
+      "title" : "第四十三章 蓝彦博",
+      "capacity" : 5150
+    }, {
+      "id" : 4709,
+      "title" : "第四十四章 下雨天",
+      "capacity" : 5146
+    }, {
+      "id" : 4710,
+      "title" : "第四十五章 情不自已",
+      "capacity" : 5167
+    }, {
+      "id" : 4711,
+      "title" : "第四十六章 公司一游",
+      "capacity" : 5139
+    }, {
+      "id" : 4712,
+      "title" : "第四十七章 初露毛脚",
+      "capacity" : 5148
+    }, {
+      "id" : 4713,
+      "title" : "第四十八章 针锋相对",
+      "capacity" : 5144
+    }, {
+      "id" : 4714,
+      "title" : "第四十九章 危机出现",
+      "capacity" : 6057
+    }, {
+      "id" : 4715,
+      "title" : "第五十章 恢复记忆",
+      "capacity" : 5136
+    } ]
+  }
+}

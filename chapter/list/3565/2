@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 2361,
+      "title" : "五十章",
+      "capacity" : 6026
+    }, {
+      "id" : 2362,
+      "title" : "五十一章",
+      "capacity" : 4936
+    } ]
+  }
+}

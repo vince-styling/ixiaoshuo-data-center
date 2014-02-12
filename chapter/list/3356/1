@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 3594,
+      "title" : "001.波澜",
+      "capacity" : 7957
+    }, {
+      "id" : 3595,
+      "title" : "002.未央",
+      "capacity" : 8512
+    }, {
+      "id" : 3596,
+      "title" : "003.缺月",
+      "capacity" : 7519
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 16,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3266,
+      "name" : "候鸟归来",
+      "updateStatus" : 1,
+      "distance" : 6396,
+      "memberId" : 2647
+    }, {
+      "id" : 2576,
+      "name" : "四人行",
+      "updateStatus" : 1,
+      "distance" : 7318,
+      "memberId" : 5439
+    }, {
+      "id" : 2425,
+      "name" : "龙女在京",
+      "updateStatus" : 1,
+      "distance" : 6456,
+      "memberId" : 7164
+    }, {
+      "id" : 3352,
+      "name" : "沁语录",
+      "updateStatus" : 1,
+      "distance" : 6131,
+      "memberId" : 3483
+    }, {
+      "id" : 2215,
+      "name" : "诛仙凡尘",
+      "updateStatus" : 1,
+      "distance" : 2827,
+      "memberId" : 7041
+    }, {
+      "id" : 2633,
+      "name" : "三姐妹之抚顺顽皮小野猫",
+      "updateStatus" : 1,
+      "distance" : 5423,
+      "memberId" : 5859
+    }, {
+      "id" : 2290,
+      "name" : "菩提",
+      "updateStatus" : 1,
+      "distance" : 4936,
+      "memberId" : 7269
+    }, {
+      "id" : 3097,
+      "name" : "穿越之丑凤倾城",
+      "updateStatus" : 1,
+      "distance" : 4082,
+      "memberId" : 6410
+    }, {
+      "id" : 2700,
+      "name" : "狐舞倾城：姐的世界你不懂",
+      "updateStatus" : 1,
+      "distance" : 5203,
+      "memberId" : 4523
+    }, {
+      "id" : 2856,
+      "name" : "风诉",
+      "updateStatus" : 1,
+      "distance" : 8975,
+      "memberId" : 3501
+    }, {
+      "id" : 3240,
+      "name" : "打工江湖路",
+      "updateStatus" : 1,
+      "distance" : 7420,
+      "memberId" : 5916
+    }, {
+      "id" : 2154,
+      "name" : "寻仙问诱：美男不要逃",
+      "updateStatus" : 1,
+      "distance" : 9018,
+      "memberId" : 6729
+    }, {
+      "id" : 2475,
+      "name" : "鬼掌灯",
+      "updateStatus" : 1,
+      "distance" : 5306,
+      "memberId" : 6762
+    }, {
+      "id" : 2105,
+      "name" : "是谁弯下小蛮腰",
+      "updateStatus" : 1,
+      "distance" : 4006,
+      "memberId" : 3735
+    }, {
+      "id" : 3428,
+      "name" : "流年轻度鸳鸯浦",
+      "updateStatus" : 1,
+      "distance" : 9181,
+      "memberId" : 3218
+    }, {
+      "id" : 2892,
+      "name" : "因为，爱情",
+      "updateStatus" : 1,
+      "distance" : 2599,
+      "memberId" : 8354
+    }, {
+      "id" : 3418,
+      "name" : "虹杀手之赤燕",
+      "updateStatus" : 1,
+      "distance" : 1310,
+      "memberId" : 2929
+    }, {
+      "id" : 2143,
+      "name" : "重生修炼龙祖",
+      "updateStatus" : 2,
+      "distance" : 6074,
+      "memberId" : 8698
+    }, {
+      "id" : 3687,
+      "name" : "至尊天下：霸占绝色鬼颜妃",
+      "updateStatus" : 1,
+      "distance" : 1133,
+      "memberId" : 2317
+    }, {
+      "id" : 2204,
+      "name" : "穿越无门之门",
+      "updateStatus" : 1,
+      "distance" : 1944,
+      "memberId" : 5397
+    } ]
+  }
+}

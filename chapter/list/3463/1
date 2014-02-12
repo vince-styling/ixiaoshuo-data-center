@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 3490,
+      "title" : "Chapter1 中心",
+      "capacity" : 4413
+    }, {
+      "id" : 3491,
+      "title" : "Chapter2 不满",
+      "capacity" : 1716
+    }, {
+      "id" : 3492,
+      "title" : "Chapter3 夜祁",
+      "capacity" : 2371
+    }, {
+      "id" : 3493,
+      "title" : "Chapter4 任务",
+      "capacity" : 3100
+    }, {
+      "id" : 3494,
+      "title" : "Chapter5 芯片",
+      "capacity" : 4472
+    }, {
+      "id" : 3495,
+      "title" : "Chapter6 秘密",
+      "capacity" : 3541
+    }, {
+      "id" : 3496,
+      "title" : "Chapter 7 破解",
+      "capacity" : 3909
+    }, {
+      "id" : 3497,
+      "title" : "Chapter8 假名",
+      "capacity" : 2706
+    } ]
+  }
+}

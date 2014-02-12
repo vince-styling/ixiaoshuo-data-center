@@ -1,0 +1,110 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 125,
+    "list" : [ {
+      "id" : 3927,
+      "title" : "101",
+      "capacity" : 20355
+    }, {
+      "id" : 3928,
+      "title" : "102",
+      "capacity" : 18200
+    }, {
+      "id" : 3929,
+      "title" : "103",
+      "capacity" : 21500
+    }, {
+      "id" : 3930,
+      "title" : "104",
+      "capacity" : 13239
+    }, {
+      "id" : 3931,
+      "title" : "105",
+      "capacity" : 20949
+    }, {
+      "id" : 3932,
+      "title" : "106",
+      "capacity" : 17144
+    }, {
+      "id" : 3933,
+      "title" : "107",
+      "capacity" : 25478
+    }, {
+      "id" : 3934,
+      "title" : "108",
+      "capacity" : 26255
+    }, {
+      "id" : 3935,
+      "title" : "109",
+      "capacity" : 33377
+    }, {
+      "id" : 3936,
+      "title" : "110",
+      "capacity" : 35778
+    }, {
+      "id" : 3937,
+      "title" : "111",
+      "capacity" : 50308
+    }, {
+      "id" : 3938,
+      "title" : "112",
+      "capacity" : 43114
+    }, {
+      "id" : 3939,
+      "title" : "113",
+      "capacity" : 27261
+    }, {
+      "id" : 3940,
+      "title" : "114",
+      "capacity" : 47666
+    }, {
+      "id" : 3941,
+      "title" : "115",
+      "capacity" : 41025
+    }, {
+      "id" : 3942,
+      "title" : "116",
+      "capacity" : 32102
+    }, {
+      "id" : 3943,
+      "title" : "117",
+      "capacity" : 27460
+    }, {
+      "id" : 3944,
+      "title" : "118",
+      "capacity" : 38788
+    }, {
+      "id" : 3945,
+      "title" : "119",
+      "capacity" : 125705
+    }, {
+      "id" : 3946,
+      "title" : "120",
+      "capacity" : 25483
+    }, {
+      "id" : 3947,
+      "title" : "121",
+      "capacity" : 25339
+    }, {
+      "id" : 3948,
+      "title" : "122",
+      "capacity" : 29835
+    }, {
+      "id" : 3949,
+      "title" : "123",
+      "capacity" : 18664
+    }, {
+      "id" : 3950,
+      "title" : "124",
+      "capacity" : 15852
+    }, {
+      "id" : 3951,
+      "title" : "完",
+      "capacity" : 54548
+    } ]
+  }
+}

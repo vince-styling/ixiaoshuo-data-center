@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 4433,
+      "title" : "第五十一章 神明 巫婆",
+      "capacity" : 6095
+    }, {
+      "id" : 4434,
+      "title" : "第五十二章 三月暮",
+      "capacity" : 3684
+    } ]
+  }
+}

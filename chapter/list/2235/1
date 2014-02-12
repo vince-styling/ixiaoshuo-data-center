@@ -1,0 +1,70 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 15,
+    "list" : [ {
+      "id" : 4090,
+      "title" : "序。",
+      "capacity" : 11574
+    }, {
+      "id" : 4091,
+      "title" : "第一章",
+      "capacity" : 6184
+    }, {
+      "id" : 4092,
+      "title" : "第二章",
+      "capacity" : 8043
+    }, {
+      "id" : 4093,
+      "title" : "第三章。",
+      "capacity" : 9435
+    }, {
+      "id" : 4094,
+      "title" : "第四章。",
+      "capacity" : 6398
+    }, {
+      "id" : 4095,
+      "title" : "第五章。",
+      "capacity" : 7146
+    }, {
+      "id" : 4096,
+      "title" : "第六章。",
+      "capacity" : 7154
+    }, {
+      "id" : 4097,
+      "title" : "第七章。",
+      "capacity" : 6066
+    }, {
+      "id" : 4098,
+      "title" : "第八章。",
+      "capacity" : 7932
+    }, {
+      "id" : 4099,
+      "title" : "第九章。",
+      "capacity" : 7043
+    }, {
+      "id" : 4100,
+      "title" : "第十章。",
+      "capacity" : 6464
+    }, {
+      "id" : 4101,
+      "title" : "第十一章。",
+      "capacity" : 6261
+    }, {
+      "id" : 4102,
+      "title" : "第十二章。",
+      "capacity" : 6279
+    }, {
+      "id" : 4103,
+      "title" : "第十三章。",
+      "capacity" : 6363
+    }, {
+      "id" : 4104,
+      "title" : "第十四章。",
+      "capacity" : 6719
+    } ]
+  }
+}

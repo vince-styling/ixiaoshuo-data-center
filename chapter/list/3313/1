@@ -1,0 +1,118 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 27,
+    "list" : [ {
+      "id" : 3320,
+      "title" : "第一章 初来A市",
+      "capacity" : 3083
+    }, {
+      "id" : 3321,
+      "title" : "第二章 转学",
+      "capacity" : 3154
+    }, {
+      "id" : 3322,
+      "title" : "第三章 幼稚的三八线",
+      "capacity" : 3282
+    }, {
+      "id" : 3323,
+      "title" : "第四章 撞人",
+      "capacity" : 4493
+    }, {
+      "id" : 3324,
+      "title" : "第五章 放学",
+      "capacity" : 3101
+    }, {
+      "id" : 3325,
+      "title" : "第六章 公车意外",
+      "capacity" : 6063
+    }, {
+      "id" : 3326,
+      "title" : "第七章 漫画廊",
+      "capacity" : 5076
+    }, {
+      "id" : 3327,
+      "title" : "第八章 3000长跑",
+      "capacity" : 3527
+    }, {
+      "id" : 3328,
+      "title" : "第九章 雨夜暧昧",
+      "capacity" : 4081
+    }, {
+      "id" : 3329,
+      "title" : "第十章 尴尬",
+      "capacity" : 5293
+    }, {
+      "id" : 3330,
+      "title" : "第十一章 又遇顾亦辰",
+      "capacity" : 3760
+    }, {
+      "id" : 3331,
+      "title" : "第十二章 关于请客吃饭",
+      "capacity" : 3150
+    }, {
+      "id" : 3332,
+      "title" : "第十三章 饿",
+      "capacity" : 3042
+    }, {
+      "id" : 3333,
+      "title" : "第十四章 害怕",
+      "capacity" : 3018
+    }, {
+      "id" : 3334,
+      "title" : "第十五章 计划旅行",
+      "capacity" : 3708
+    }, {
+      "id" : 3335,
+      "title" : "第十六章 一起吃午饭",
+      "capacity" : 4091
+    }, {
+      "id" : 3336,
+      "title" : "第十七章 跑步的快乐",
+      "capacity" : 6481
+    }, {
+      "id" : 3337,
+      "title" : "第十八章 爱拍照的白翳",
+      "capacity" : 3805
+    }, {
+      "id" : 3338,
+      "title" : "第十九章 乘火车",
+      "capacity" : 3559
+    }, {
+      "id" : 3339,
+      "title" : "第二十章 yes，i do",
+      "capacity" : 4196
+    }, {
+      "id" : 3340,
+      "title" : "第二十一章 学接吻",
+      "capacity" : 4973
+    }, {
+      "id" : 3341,
+      "title" : "第二十二章 画画",
+      "capacity" : 3753
+    }, {
+      "id" : 3342,
+      "title" : "第二十三章 难舍难分",
+      "capacity" : 3936
+    }, {
+      "id" : 3343,
+      "title" : "第二十四章 回到A市",
+      "capacity" : 3223
+    }, {
+      "id" : 3344,
+      "title" : "第二十五章 白翳的约法三章",
+      "capacity" : 2894
+    }, {
+      "id" : 3345,
+      "title" : "第二十六章 李莉",
+      "capacity" : 4045
+    }, {
+      "id" : 3346,
+      "title" : "第二十七章 顾亦辰失踪了",
+      "capacity" : 9220
+    } ]
+  }
+}

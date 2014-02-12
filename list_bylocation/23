@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 23,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3259,
+      "name" : "静若安好愉怡一生",
+      "updateStatus" : 1,
+      "distance" : 5462,
+      "memberId" : 5693
+    }, {
+      "id" : 2322,
+      "name" : "异世至尊红颜",
+      "updateStatus" : 1,
+      "distance" : 3465,
+      "memberId" : 2113
+    }, {
+      "id" : 2290,
+      "name" : "菩提",
+      "updateStatus" : 1,
+      "distance" : 7731,
+      "memberId" : 8927
+    }, {
+      "id" : 3431,
+      "name" : "修真女配混末世",
+      "updateStatus" : 1,
+      "distance" : 5160,
+      "memberId" : 3707
+    }, {
+      "id" : 3525,
+      "name" : "枯时花笑",
+      "updateStatus" : 1,
+      "distance" : 1546,
+      "memberId" : 4352
+    }, {
+      "id" : 3591,
+      "name" : "小羊别闹，来吃草",
+      "updateStatus" : 2,
+      "distance" : 9023,
+      "memberId" : 1146
+    }, {
+      "id" : 3362,
+      "name" : "异界之重生随心乱",
+      "updateStatus" : 1,
+      "distance" : 3351,
+      "memberId" : 5806
+    }, {
+      "id" : 2635,
+      "name" : "剩女大作战",
+      "updateStatus" : 1,
+      "distance" : 8795,
+      "memberId" : 4640
+    }, {
+      "id" : 2908,
+      "name" : "红绳子",
+      "updateStatus" : 1,
+      "distance" : 5611,
+      "memberId" : 5184
+    }, {
+      "id" : 2814,
+      "name" : "小市民",
+      "updateStatus" : 1,
+      "distance" : 3667,
+      "memberId" : 6302
+    }, {
+      "id" : 2068,
+      "name" : "红妆无忧",
+      "updateStatus" : 1,
+      "distance" : 5384,
+      "memberId" : 8774
+    }, {
+      "id" : 3674,
+      "name" : "爱上闷骚姐",
+      "updateStatus" : 1,
+      "distance" : 6213,
+      "memberId" : 2910
+    }, {
+      "id" : 3553,
+      "name" : "堕妃：嗜血妖",
+      "updateStatus" : 1,
+      "distance" : 7732,
+      "memberId" : 4073
+    }, {
+      "id" : 3077,
+      "name" : "青春盛宴之青春貌似童话",
+      "updateStatus" : 1,
+      "distance" : 3606,
+      "memberId" : 8471
+    }, {
+      "id" : 3692,
+      "name" : "恶魔承传者",
+      "updateStatus" : 1,
+      "distance" : 9174,
+      "memberId" : 6747
+    }, {
+      "id" : 2130,
+      "name" : "文德皇后传",
+      "updateStatus" : 1,
+      "distance" : 1036,
+      "memberId" : 4343
+    }, {
+      "id" : 2799,
+      "name" : "雪寻雪见",
+      "updateStatus" : 1,
+      "distance" : 7306,
+      "memberId" : 6171
+    }, {
+      "id" : 3738,
+      "name" : "献青春：那些我们叛逆过的叛逆",
+      "updateStatus" : 1,
+      "distance" : 9781,
+      "memberId" : 5570
+    }, {
+      "id" : 2140,
+      "name" : "傲剑江湖",
+      "updateStatus" : 1,
+      "distance" : 5157,
+      "memberId" : 6971
+    }, {
+      "id" : 3714,
+      "name" : "王爷的仙妃",
+      "updateStatus" : 1,
+      "distance" : 3642,
+      "memberId" : 7209
+    } ]
+  }
+}

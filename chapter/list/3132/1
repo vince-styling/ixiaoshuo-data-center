@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 2387,
+      "title" : "三界-历史",
+      "capacity" : 3617
+    }, {
+      "id" : 2388,
+      "title" : "第一章 离别",
+      "capacity" : 3110
+    }, {
+      "id" : 2389,
+      "title" : "第二章 过往",
+      "capacity" : 2708
+    } ]
+  }
+}

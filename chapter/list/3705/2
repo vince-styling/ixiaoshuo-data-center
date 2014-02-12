@@ -1,0 +1,14 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 51,
+    "list" : [ {
+      "id" : 1425,
+      "title" : "免·番【三世缘：花·零·落】",
+      "capacity" : 4594
+    } ]
+  }
+}

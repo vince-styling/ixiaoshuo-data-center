@@ -1,0 +1,82 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 18,
+    "list" : [ {
+      "id" : 2523,
+      "title" : "关于作品",
+      "capacity" : 394
+    }, {
+      "id" : 2524,
+      "title" : "第一章：新帝上位◎懿旨",
+      "capacity" : 5955
+    }, {
+      "id" : 2525,
+      "title" : "第二章：进殿入选◎夙敌",
+      "capacity" : 3301
+    }, {
+      "id" : 2526,
+      "title" : "第三章：太后发怒◎计谋",
+      "capacity" : 4065
+    }, {
+      "id" : 2527,
+      "title" : "第四章：初入浣衣◎苦役",
+      "capacity" : 4193
+    }, {
+      "id" : 2528,
+      "title" : "第五章：处处刁难◎吉绣",
+      "capacity" : 3697
+    }, {
+      "id" : 2529,
+      "title" : "第六章：是敌是友◎转变",
+      "capacity" : 3062
+    }, {
+      "id" : 2530,
+      "title" : "第七章：贵人驾到◎不明",
+      "capacity" : 3733
+    }, {
+      "id" : 2531,
+      "title" : "第八章：华服宫宴◎设局",
+      "capacity" : 2524
+    }, {
+      "id" : 2532,
+      "title" : "第九章：衣里玄机◎糟糕",
+      "capacity" : 3727
+    }, {
+      "id" : 2533,
+      "title" : "第十章：想到主意◎缝字",
+      "capacity" : 3947
+    }, {
+      "id" : 2534,
+      "title" : "第十一章：宫宴前奏◎对视",
+      "capacity" : 3962
+    }, {
+      "id" : 2535,
+      "title" : "第十二章：宫宴开始◎目光",
+      "capacity" : 3347
+    }, {
+      "id" : 2536,
+      "title" : "第十三章：宫宴演绎◎冲动",
+      "capacity" : 4362
+    }, {
+      "id" : 2537,
+      "title" : "第十四章：出乎意料◎伺候",
+      "capacity" : 3689
+    }, {
+      "id" : 2538,
+      "title" : "第十五章：月黑风高◎凌乱",
+      "capacity" : 3016
+    }, {
+      "id" : 2539,
+      "title" : "第十六章：什么情况◎参观",
+      "capacity" : 3795
+    }, {
+      "id" : 2540,
+      "title" : "第十七章：睡得正香◎柔情",
+      "capacity" : 4407
+    } ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 16,
+    "list" : [ {
+      "id" : 1729,
+      "title" : "第一章 开学",
+      "capacity" : 4361
+    }, {
+      "id" : 1730,
+      "title" : "第二章 他是我表哥",
+      "capacity" : 3375
+    }, {
+      "id" : 1731,
+      "title" : "第三章 生日宴（上）",
+      "capacity" : 3043
+    }, {
+      "id" : 1732,
+      "title" : "第四章 生日宴（下）",
+      "capacity" : 2236
+    }, {
+      "id" : 1733,
+      "title" : "第五章 醉酒",
+      "capacity" : 4556
+    }, {
+      "id" : 1734,
+      "title" : "第六章 你是王九他哥哥",
+      "capacity" : 3217
+    }, {
+      "id" : 1735,
+      "title" : "第七章 小小生病",
+      "capacity" : 4629
+    }, {
+      "id" : 1736,
+      "title" : "第八章 小小的痛",
+      "capacity" : 4261
+    }, {
+      "id" : 1737,
+      "title" : "第九章 未母生病",
+      "capacity" : 4061
+    }, {
+      "id" : 1738,
+      "title" : "第十章",
+      "capacity" : 4436
+    }, {
+      "id" : 1739,
+      "title" : "第十一章 20岁生日",
+      "capacity" : 4747
+    }, {
+      "id" : 1740,
+      "title" : "第十二章 小小失踪",
+      "capacity" : 3360
+    }, {
+      "id" : 1741,
+      "title" : "第十三章 离校",
+      "capacity" : 3754
+    }, {
+      "id" : 1742,
+      "title" : "第十四章 未母去世",
+      "capacity" : 7164
+    }, {
+      "id" : 1743,
+      "title" : "第十五章 舔伤",
+      "capacity" : 7135
+    }, {
+      "id" : 1744,
+      "title" : "第十六章 见面",
+      "capacity" : 5805
+    } ]
+  }
+}

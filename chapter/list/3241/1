@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 4911,
+      "title" : "第1章 梦想成真",
+      "capacity" : 7022
+    }, {
+      "id" : 4912,
+      "title" : "第2章 我养你一辈子",
+      "capacity" : 7039
+    }, {
+      "id" : 4913,
+      "title" : "第3章 “面见”中兴王",
+      "capacity" : 6190
+    }, {
+      "id" : 4914,
+      "title" : "第4章 百里传香糕",
+      "capacity" : 6425
+    }, {
+      "id" : 4915,
+      "title" : "第5章 犯错了怎么办",
+      "capacity" : 6970
+    }, {
+      "id" : 4916,
+      "title" : "第6章 三小姐唐柔",
+      "capacity" : 7263
+    }, {
+      "id" : 4917,
+      "title" : "第7章 她是个怎样的人",
+      "capacity" : 6425
+    }, {
+      "id" : 4918,
+      "title" : "第8章 月黑风高救人夜",
+      "capacity" : 6380
+    }, {
+      "id" : 4919,
+      "title" : "第9章 宁愿毁容也不嫁",
+      "capacity" : 6185
+    } ]
+  }
+}

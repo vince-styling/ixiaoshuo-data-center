@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 55,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2382,
+      "name" : "同曾惶虑情难止",
+      "updateStatus" : 1,
+      "distance" : 6665,
+      "memberId" : 3878
+    }, {
+      "id" : 2254,
+      "name" : "小哥跟着姐，有肉吃",
+      "updateStatus" : 2,
+      "distance" : 3439,
+      "memberId" : 1613
+    }, {
+      "id" : 2978,
+      "name" : "妃宠不可",
+      "updateStatus" : 1,
+      "distance" : 9232,
+      "memberId" : 1700
+    }, {
+      "id" : 2708,
+      "name" : "风云破:逆转乾坤",
+      "updateStatus" : 1,
+      "distance" : 6188,
+      "memberId" : 5133
+    }, {
+      "id" : 2827,
+      "name" : "时光里的秘密",
+      "updateStatus" : 1,
+      "distance" : 536,
+      "memberId" : 4451
+    }, {
+      "id" : 2980,
+      "name" : "穿越做将军",
+      "updateStatus" : 1,
+      "distance" : 8885,
+      "memberId" : 6936
+    }, {
+      "id" : 3179,
+      "name" : "情深几许",
+      "updateStatus" : 1,
+      "distance" : 9968,
+      "memberId" : 5220
+    }, {
+      "id" : 3184,
+      "name" : "安歌陌上花",
+      "updateStatus" : 1,
+      "distance" : 8239,
+      "memberId" : 2418
+    }, {
+      "id" : 2921,
+      "name" : "豪门恩怨之吾爱未央",
+      "updateStatus" : 1,
+      "distance" : 9778,
+      "memberId" : 3948
+    }, {
+      "id" : 2986,
+      "name" : "错过的爱情：总裁放过我",
+      "updateStatus" : 1,
+      "distance" : 7102,
+      "memberId" : 8652
+    }, {
+      "id" : 3267,
+      "name" : "穿越之花本纯粹",
+      "updateStatus" : 1,
+      "distance" : 5302,
+      "memberId" : 3650
+    }, {
+      "id" : 2222,
+      "name" : "仙蝶穿越奇缘",
+      "updateStatus" : 1,
+      "distance" : 6996,
+      "memberId" : 4710
+    }, {
+      "id" : 3019,
+      "name" : "午后恋歌",
+      "updateStatus" : 1,
+      "distance" : 2446,
+      "memberId" : 5080
+    }, {
+      "id" : 3473,
+      "name" : "素女劫",
+      "updateStatus" : 1,
+      "distance" : 9813,
+      "memberId" : 4982
+    }, {
+      "id" : 3485,
+      "name" : "无良大盗：看好你丫的节操",
+      "updateStatus" : 1,
+      "distance" : 7856,
+      "memberId" : 7993
+    }, {
+      "id" : 3672,
+      "name" : "只愿得君心",
+      "updateStatus" : 1,
+      "distance" : 3864,
+      "memberId" : 7767
+    }, {
+      "id" : 3331,
+      "name" : "武警婚约之山东佳人",
+      "updateStatus" : 1,
+      "distance" : 1613,
+      "memberId" : 7935
+    }, {
+      "id" : 2527,
+      "name" : "火影同人暗夜帝国",
+      "updateStatus" : 1,
+      "distance" : 3901,
+      "memberId" : 8272
+    }, {
+      "id" : 2811,
+      "name" : "苍少的禁忌小老婆",
+      "updateStatus" : 1,
+      "distance" : 1245,
+      "memberId" : 4489
+    }, {
+      "id" : 3295,
+      "name" : "南追",
+      "updateStatus" : 1,
+      "distance" : 5577,
+      "memberId" : 2308
+    } ]
+  }
+}

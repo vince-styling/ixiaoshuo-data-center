@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 5,
+    "totalPageCount" : 7,
+    "totalItemCount" : 126,
+    "list" : [ {
+      "id" : 3276,
+      "name" : "宫心计续集",
+      "coverUrl" : "",
+      "summary" : "后宫——是女人之间的斗争，更是无休止的斗争，她们，为了争宠，尔虞我诈，明争暗斗，甚至不惜陷害自己的姐",
+      "updateStatus" : 1,
+      "capacity" : 392326,
+      "readerCount" : 3180
+    }, {
+      "id" : 2718,
+      "name" : "卿云意",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46971.jpg",
+      "summary" : "凤写意：“如果有一天，天下与我起了冲突，你会选什么？”听闻此言，那张倾城的脸上划过一抹苦涩，她原本以",
+      "updateStatus" : 1,
+      "capacity" : 8236255,
+      "readerCount" : 2796
+    }, {
+      "id" : 3699,
+      "name" : "莫问我是谁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44570.jpg",
+      "summary" : "从2001年穿越剧的鼻祖《寻秦记》，到现在TVB又推出《情逆三世缘》，看来穿越在很多心中是一个梦。那",
+      "updateStatus" : 1,
+      "capacity" : 208965,
+      "readerCount" : 2648
+    }, {
+      "id" : 3501,
+      "name" : "交易王妃初尝夜",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42821.jpg",
+      "summary" : "有没有搞错，一觉醒来居然成了赫赫有名的战王爷之女，这个不是应该很威风吗？为什么会被这个阴险的侧室一害",
+      "updateStatus" : 1,
+      "capacity" : 536254,
+      "readerCount" : 2447
+    }, {
+      "id" : 3620,
+      "name" : "傀儡王妃：不上君王榻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_13975.jpg",
+      "summary" : "她本是丞相府倾国倾城的二小姐她本不谙世事靠着一些小聪明在丞相府恃宠而骄直到那道圣旨传来，她也不曾知道",
+      "updateStatus" : 1,
+      "capacity" : 331949,
+      "readerCount" : 2445
+    }, {
+      "id" : 2284,
+      "name" : "梦游仙归",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17737.jpg",
+      "summary" : "古老的神话万年沧海成桑田情短忆甜岁月沉淀无期有几多遥远灿烂的星火勾勒静绽是湮灭寂凉凝烟花下缱绻莫问来",
+      "updateStatus" : 1,
+      "capacity" : 6512119,
+      "readerCount" : 2438
+    }, {
+      "id" : 2290,
+      "name" : "菩提",
+      "coverUrl" : "",
+      "summary" : "一串菩提，一地鲜血。静谧的雪中掩抑了一切，一切又在雪中滋生。是诉不尽的忧伤，还是，只是枝头的那一抹素",
+      "updateStatus" : 1,
+      "capacity" : 6848545,
+      "readerCount" : 2405
+    }, {
+      "id" : 3348,
+      "name" : "杀手王妃的花心王爷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45194.jpg",
+      "summary" : "她，黑道上令人闻风丧胆的杀手——鬼未，代号魅，没想在一次任务中被炸魂穿，一朝穿越，成为傲月王朝相府小",
+      "updateStatus" : 1,
+      "capacity" : 174135,
+      "readerCount" : 2282
+    }, {
+      "id" : 3694,
+      "name" : "笑傲倾情",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41300.jpg",
+      "summary" : "冤家？必须的。青梅竹马？算是吧。暧昧？很明显吗？青梅竹马双双穿越，帅哥靓女齐上阵，兜兜转转，阴谋阳谋",
+      "updateStatus" : 1,
+      "capacity" : 351944,
+      "readerCount" : 2255
+    }, {
+      "id" : 3571,
+      "name" : "小小侍女的灿烂时光",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47437.jpg",
+      "summary" : "麻雀变凤凰的过程也可以很简单，比如王宫里的两位当家主子争吵着......争吵着......就替她吵出",
+      "updateStatus" : 1,
+      "capacity" : 146617,
+      "readerCount" : 1975
+    }, {
+      "id" : 3542,
+      "name" : "洪流",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43538.jpg",
+      "summary" : "我们生于安稳现世。但没人知道是否下一秒，我们所熟知的这个世界就会被颠覆。所以我们用力地想要好好抓住我",
+      "updateStatus" : 1,
+      "capacity" : 101191,
+      "readerCount" : 1809
+    }, {
+      "id" : 2251,
+      "name" : "工科生三国行",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18305.jpg",
+      "summary" : "一个二十一世纪的工科屌丝，带着一件加八十五点武力值的软甲来到三国，利用工科知识开各种金手指，会有怎么",
+      "updateStatus" : 1,
+      "capacity" : 1408804,
+      "readerCount" : 1801
+    }, {
+      "id" : 2722,
+      "name" : "戏江山",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45978.jpg",
+      "summary" : "母亲的执念成就了我错乱国度的重生本只是笑看春秋细味寒暑不曾想---终是抵不过命运的摆布历劫最后的逢生",
+      "updateStatus" : 1,
+      "capacity" : 9418527,
+      "readerCount" : 1577
+    }, {
+      "id" : 3047,
+      "name" : "卿宸红颜相思锦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47286.jpg",
+      "summary" : "朱砂泪，相思尽，与君缠绵三世缘。孟婆汤，奈何桥，几许青丝结？她本是她的卿本佳人，安之若素。他本是他的",
+      "updateStatus" : 1,
+      "capacity" : 60620,
+      "readerCount" : 1492
+    }, {
+      "id" : 3397,
+      "name" : "红颜祸水：皇后潜潜水",
+      "coverUrl" : "",
+      "summary" : "古往今来，人生在世，都逃不过一个情字，无论是亲情亦或是爱情，春：是万物的复苏，夏：是桑拿的浴池；秋：",
+      "updateStatus" : 1,
+      "capacity" : 133513,
+      "readerCount" : 1459
+    }, {
+      "id" : 3246,
+      "name" : "到白首",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20899.jpg",
+      "summary" : "21世纪的富二代渣男苏锦与女博士月皎穿越到架空女尊国，分别附身在当朝丞相独子和女王爷的身上，由此引发",
+      "updateStatus" : 1,
+      "capacity" : 1506423,
+      "readerCount" : 1428
+    }, {
+      "id" : 3673,
+      "name" : "美男在侧:霸气男女",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42970.jpg",
+      "summary" : "跳个崖，竟然穿越了？那好吧，既来之则安之，低调不行，那就高调生活，美男成全群，只要一个足以，情敌众多",
+      "updateStatus" : 1,
+      "capacity" : 27374,
+      "readerCount" : 1419
+    }, {
+      "id" : 2256,
+      "name" : "穿越东宫之碟中谍",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14385.jpg",
+      "summary" : "倒霉女李楠自杀未遂，走上时下最潮的重生道路——穿越到五国割据的架空大陆，成为陈国太子妃。东宫之内的阴",
+      "updateStatus" : 2,
+      "capacity" : 7817731,
+      "readerCount" : 1418
+    }, {
+      "id" : 2952,
+      "name" : "沪城玦恋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22185.jpg",
+      "summary" : "一块明玦，两代恩仇。当真相浮出水面，当虐恋尚未成殇，当所有痴男怨女仍旧执着于本心不改，恍然一悟，浮生",
+      "updateStatus" : 1,
+      "capacity" : 9611518,
+      "readerCount" : 1354
+    }, {
+      "id" : 3287,
+      "name" : "垂帘锦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42790.jpg",
+      "summary" : "流离异国十二年，用十年时间来生存。他已有了足够强大的力量和足够高的地位，可以用来寻找和保护他最想要的",
+      "updateStatus" : 1,
+      "capacity" : 304848,
+      "readerCount" : 1252
+    } ]
+  }
+}

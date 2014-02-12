@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1898,
+      "title" : "第一章 你的好友已上线（上）",
+      "capacity" : 9972
+    }, {
+      "id" : 1899,
+      "title" : "第二章 你的好友已上线（中）",
+      "capacity" : 9367
+    }, {
+      "id" : 1900,
+      "title" : "第三章 你的好友已上线（下）",
+      "capacity" : 9813
+    } ]
+  }
+}

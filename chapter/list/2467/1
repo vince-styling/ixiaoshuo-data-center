@@ -1,0 +1,118 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 27,
+    "list" : [ {
+      "id" : 2336,
+      "title" : "第一章 祸起萧墙",
+      "capacity" : 13464
+    }, {
+      "id" : 2337,
+      "title" : "第二章 土窑村",
+      "capacity" : 13644
+    }, {
+      "id" : 2338,
+      "title" : "第三章 坟山墓海",
+      "capacity" : 13610
+    }, {
+      "id" : 2339,
+      "title" : "第四章 蓝袍恶鬼",
+      "capacity" : 13235
+    }, {
+      "id" : 2340,
+      "title" : "第五章 怪诞的肥蛙",
+      "capacity" : 13637
+    }, {
+      "id" : 2341,
+      "title" : "第六章 鬼上身",
+      "capacity" : 13068
+    }, {
+      "id" : 2342,
+      "title" : "第七章 神秘黑钻",
+      "capacity" : 13500
+    }, {
+      "id" : 2343,
+      "title" : "第八章 消失的疤痕",
+      "capacity" : 13219
+    }, {
+      "id" : 2344,
+      "title" : "第九章 事出反常",
+      "capacity" : 13093
+    }, {
+      "id" : 2345,
+      "title" : "第十章 无能和尚",
+      "capacity" : 13608
+    }, {
+      "id" : 2346,
+      "title" : "第十一章 天生鬼帅",
+      "capacity" : 13080
+    }, {
+      "id" : 2347,
+      "title" : "第十二章 滴血冤魂",
+      "capacity" : 12946
+    }, {
+      "id" : 2348,
+      "title" : "第十三章 鬼抓脚",
+      "capacity" : 12967
+    }, {
+      "id" : 2349,
+      "title" : "第十四章 阴魂不散",
+      "capacity" : 13000
+    }, {
+      "id" : 2350,
+      "title" : "第十五章 刘家惨案",
+      "capacity" : 12878
+    }, {
+      "id" : 2351,
+      "title" : "第十六章 恶梦惊魂",
+      "capacity" : 13150
+    }, {
+      "id" : 2352,
+      "title" : "第十七章 避难所",
+      "capacity" : 13432
+    }, {
+      "id" : 2353,
+      "title" : "第十八章 祸害全村",
+      "capacity" : 13295
+    }, {
+      "id" : 2354,
+      "title" : "第十九章 尖叫的女鬼",
+      "capacity" : 13179
+    }, {
+      "id" : 2355,
+      "title" : "第二十章 冤魂的控诉",
+      "capacity" : 13519
+    }, {
+      "id" : 2356,
+      "title" : "第二十一章 鬼遣符",
+      "capacity" : 13390
+    }, {
+      "id" : 2357,
+      "title" : "第二十二章 捉鬼化魂",
+      "capacity" : 13242
+    }, {
+      "id" : 2358,
+      "title" : "第二十三章 开宗立派",
+      "capacity" : 13041
+    }, {
+      "id" : 2359,
+      "title" : "第二十四章 神仙居所",
+      "capacity" : 25807
+    }, {
+      "id" : 2360,
+      "title" : "第二十五章 瘦猴的法事",
+      "capacity" : 12729
+    }, {
+      "id" : 2361,
+      "title" : "第二十六章 灵魂的苦楚",
+      "capacity" : 13237
+    }, {
+      "id" : 2362,
+      "title" : "第二十七章 收徒习武",
+      "capacity" : 12787
+    } ]
+  }
+}

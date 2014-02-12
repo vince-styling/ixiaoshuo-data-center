@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 30,
+    "totalPageCount" : 78,
+    "totalItemCount" : 1542,
+    "list" : [ {
+      "id" : 2829,
+      "name" : "女兽与美郎",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45673.jpg",
+      "summary" : "1、某女：嘿嘿嘿，美男纸你的嘴唇看上去很可口，姐决定把初吻献给你。某男扶额：我可以说不要么？某女：当",
+      "updateStatus" : 1,
+      "capacity" : 4781320,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3279,
+      "name" : "爱情决裂",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14956.jpg",
+      "summary" : "当面临爱情的十字路时，我们应选择何去何从？是摇摆不定，还是一言坚持走下去？当面临婚姻的混沌期时，我们",
+      "updateStatus" : 1,
+      "capacity" : 697046,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3545,
+      "name" : "泪痕",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16942.jpg",
+      "summary" : "她是沉浸在悲伤里高中少女，双重性格，是天使？还是恶魔？阴差阳错，他们相遇。学生会一连串的保护下，绑架",
+      "updateStatus" : 1,
+      "capacity" : 917403,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2732,
+      "name" : "至死不渝之搞怪王妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22830.jpg",
+      "summary" : "她，二十一世纪的超能才女，武术联盟的总冠军，竟在领奖时被一不明飞行物给砸穿越了，哎，叫她情以何堪不在",
+      "updateStatus" : 1,
+      "capacity" : 4336962,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2280,
+      "name" : "金玉奇缘：暴戾王爷的冷情妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20113.jpg",
+      "summary" : "欧阳雪琪因屡次相亲失败，被父亲逼迫嫁给了自己讨厌的对象，在结婚当天遭炸雷袭击，穿越到了古代，原以为可",
+      "updateStatus" : 1,
+      "capacity" : 9370555,
+      "catName" : "历史架空"
+    }, {
+      "id" : 2346,
+      "name" : "魔鬼佳肴",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43832.jpg",
+      "summary" : "你到底……想要什么？……狄恩……只求能呆在您身边！……王……我不需要！刹时抬目，狄恩的笑容消失了……",
+      "updateStatus" : 1,
+      "capacity" : 7830486,
+      "catName" : "幻想耽美"
+    }, {
+      "id" : 2932,
+      "name" : "肥妞翻身之痴心错付",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44964.jpg",
+      "summary" : "难道，我穿越了？站在铜镜前，我终于看到了那个叫“如春”的真身，FUCK，这尼妈是闹哪样？还让不让人接",
+      "updateStatus" : 1,
+      "capacity" : 3184432,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2682,
+      "name" : "心口不一",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47528.jpg",
+      "summary" : "这是一个三线小城市的故事，没有过多的波澜起伏。五年前，他负了她。她远走他乡。五年后再次回来，那些恨意",
+      "updateStatus" : 1,
+      "capacity" : 7943567,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3109,
+      "name" : "茹果",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42155.jpg",
+      "summary" : "人们总是说“如果”。如果没有怎么样，事情会变成怎么样。如果可以怎么样，事情又可以怎么样。然而，没有如",
+      "updateStatus" : 1,
+      "capacity" : 1164447,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2711,
+      "name" : "卿本佳人：第一女状元",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47200.jpg",
+      "summary" : "木婉清和父母在旅游的途中出了车祸，醒来之时发现自己已经成了将军的二小姐，而现在自己正要去见太子，因为",
+      "updateStatus" : 1,
+      "capacity" : 5966922,
+      "catName" : "历史架空"
+    }, {
+      "id" : 3208,
+      "name" : "冥铭之国",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16378.jpg",
+      "summary" : "从虚拟的人造世界，恍惚踏入真实的魔法世界；从认识虚拟的人物，到认识真实的朋友；从神秘阴森的森林走出，",
+      "updateStatus" : 1,
+      "capacity" : 810443,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2623,
+      "name" : "寻爱之雨过天晴",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46211.jpg",
+      "summary" : "“晴晴，记得一定要幸福&middot;&middot;&middot;&middot;&middot",
+      "updateStatus" : 1,
+      "capacity" : 4434304,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3402,
+      "name" : "情，似缘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43350.jpg",
+      "summary" : "一开始是一个误会，等到这个误会发展成爱的时候，两人都措手不及，而女仆的告白有扰乱了刚刚稳定的生活，这",
+      "updateStatus" : 1,
+      "capacity" : 1140376,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2042,
+      "name" : "一分钟追悔",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41845.jpg",
+      "summary" : "她，36岁却仍然独自一个人，只因年少时家庭的破碎，使得她的心再不相信婚姻，还有所谓的爱情，本打定主意",
+      "updateStatus" : 1,
+      "capacity" : 1101838,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2051,
+      "name" : "追忆我们的纯真年代",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47416.jpg",
+      "summary" : "易辛里用一星期完成了身份转变，用了八年的时间适应了成为李欣蒂的生活，家庭矛盾，爱情受阻，阴差阳错的遭",
+      "updateStatus" : 1,
+      "capacity" : 6786351,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2205,
+      "name" : "翠玉录",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46503.jpg",
+      "summary" : "他们会在更古之后，从冰川下，从火山里，从雷电风暴中再次降临，末日之门即将打开。来自亡灵之国的军队，会",
+      "updateStatus" : 1,
+      "capacity" : 8634555,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2164,
+      "name" : "碎玉满江湖",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17567.jpg",
+      "summary" : "我望这苍穹，湛蓝如梦一如当时，和那人观赏时的样子天若有情天亦老，可我却等不到了我俯瞰这风景，孤坟飘雪",
+      "updateStatus" : 1,
+      "capacity" : 6184755,
+      "catName" : "历史架空"
+    }, {
+      "id" : 2769,
+      "name" : "穿越清朝之蓦然回首",
+      "coverUrl" : "",
+      "summary" : "不经意间的穿越，演绎了一段让人心动的故事。生活在21世纪的栗夏儿,穿梭在茫茫人海之中,曾经对爱充满幻",
+      "updateStatus" : 1,
+      "capacity" : 1034754,
+      "catName" : "古代言情"
+    }, {
+      "id" : 2053,
+      "name" : "古堡游戏：吸血恶魔别过来",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16459.jpg",
+      "summary" : "她裴乐乐自问也没做过什么亏心事，好不容易活到这么大，怎么就莫名其妙的穿越了呢？谁来告诉她，为什么会有",
+      "updateStatus" : 1,
+      "capacity" : 3154949,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2178,
+      "name" : "穿越之朔月传奇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46270.jpg",
+      "summary" : "一场车祸就那样结束了云枫悲催的人生，在好心的鬼差的帮衬下她穿越来到了金盛帝国开始她新的生活。对于萧朔",
+      "updateStatus" : 1,
+      "capacity" : 1891698,
+      "catName" : "古代言情"
+    } ]
+  }
+}

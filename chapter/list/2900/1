@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 2020,
+      "title" : "第一章 楔子",
+      "capacity" : 8328
+    }, {
+      "id" : 2021,
+      "title" : "第二章 朱玉米",
+      "capacity" : 7726
+    }, {
+      "id" : 2022,
+      "title" : "第三章 回家",
+      "capacity" : 11983
+    }, {
+      "id" : 2023,
+      "title" : "第四章 莫楠",
+      "capacity" : 6259
+    }, {
+      "id" : 2024,
+      "title" : "第五章 夜谈",
+      "capacity" : 6233
+    }, {
+      "id" : 2025,
+      "title" : "第六章 大业",
+      "capacity" : 9849
+    }, {
+      "id" : 2026,
+      "title" : "第七章 初识",
+      "capacity" : 6332
+    }, {
+      "id" : 2027,
+      "title" : "第八章 下定决心",
+      "capacity" : 9367
+    }, {
+      "id" : 2028,
+      "title" : "第九章 火起",
+      "capacity" : 4742
+    }, {
+      "id" : 2029,
+      "title" : "第十章 议论",
+      "capacity" : 6483
+    }, {
+      "id" : 2030,
+      "title" : "十一章 悲伤",
+      "capacity" : 6733
+    }, {
+      "id" : 2031,
+      "title" : "十二章 更多的，是自责",
+      "capacity" : 9737
+    }, {
+      "id" : 2032,
+      "title" : "十三章 玉面小将",
+      "capacity" : 6316
+    } ]
+  }
+}

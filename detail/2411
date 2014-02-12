@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 2411,
+    "name" : "护理实验室的故事",
+    "author" : "护理学院李大爷",
+    "coverUrl" : "",
+    "summary" : "作者在学校里工作的奇闻异事。",
+    "lastUpdateTime" : "2013-12-06 02:32:27",
+    "updateStatus" : 1,
+    "catId" : 130,
+    "catName" : "都市校园",
+    "capacity" : 2727737
+  }
+}

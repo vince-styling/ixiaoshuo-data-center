@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 1140,
+      "title" : "第一节 相遇",
+      "capacity" : 5816
+    }, {
+      "id" : 1141,
+      "title" : "第二节 他是谁？",
+      "capacity" : 6057
+    }, {
+      "id" : 1142,
+      "title" : "第三节 神秘女人",
+      "capacity" : 3640
+    }, {
+      "id" : 1143,
+      "title" : "第四节 真相",
+      "capacity" : 5566
+    }, {
+      "id" : 1144,
+      "title" : "第五节 小三来啦",
+      "capacity" : 4579
+    }, {
+      "id" : 1145,
+      "title" : "第六节 三柳的选择",
+      "capacity" : 6588
+    }, {
+      "id" : 1146,
+      "title" : "第七节 三柳的遭遇",
+      "capacity" : 3808
+    }, {
+      "id" : 1147,
+      "title" : "第八节 重遇后的他",
+      "capacity" : 3605
+    }, {
+      "id" : 1148,
+      "title" : "第九节 利用与背叛",
+      "capacity" : 4680
+    } ]
+  }
+}

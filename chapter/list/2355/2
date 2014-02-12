@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 4025,
+      "title" : "第五十一章 敌意2",
+      "capacity" : 3855
+    }, {
+      "id" : 4026,
+      "title" : "第五十二章 敌意3",
+      "capacity" : 2420
+    }, {
+      "id" : 4027,
+      "title" : "第五十三章 敌意4",
+      "capacity" : 3489
+    }, {
+      "id" : 4028,
+      "title" : "第五十四章 敌意5",
+      "capacity" : 3227
+    } ]
+  }
+}

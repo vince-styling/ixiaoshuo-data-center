@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 61,
+    "list" : [ {
+      "id" : 5014,
+      "title" : "chapter.50",
+      "capacity" : 10028
+    }, {
+      "id" : 5015,
+      "title" : "chapter.51",
+      "capacity" : 11114
+    }, {
+      "id" : 5016,
+      "title" : "chapter.52",
+      "capacity" : 8756
+    }, {
+      "id" : 5017,
+      "title" : "温安集（特别番外）",
+      "capacity" : 4857
+    }, {
+      "id" : 5018,
+      "title" : "chapter.53",
+      "capacity" : 9151
+    }, {
+      "id" : 5019,
+      "title" : "chapter.54",
+      "capacity" : 9338
+    }, {
+      "id" : 5020,
+      "title" : "chapter.55",
+      "capacity" : 8707
+    }, {
+      "id" : 5021,
+      "title" : "chapter.56",
+      "capacity" : 8980
+    }, {
+      "id" : 5022,
+      "title" : "chapter.57",
+      "capacity" : 9038
+    }, {
+      "id" : 5023,
+      "title" : "chapter.58",
+      "capacity" : 8868
+    }, {
+      "id" : 5024,
+      "title" : "chapter.59",
+      "capacity" : 11948
+    } ]
+  }
+}

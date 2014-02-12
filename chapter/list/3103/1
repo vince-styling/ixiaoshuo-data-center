@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 4979,
+      "title" : "第一章 师傅给予的任务",
+      "capacity" : 3804
+    }, {
+      "id" : 4980,
+      "title" : "第二章 初遇司雪衣",
+      "capacity" : 2977
+    }, {
+      "id" : 4981,
+      "title" : "第三章 发光的玉笛【一】",
+      "capacity" : 3120
+    } ]
+  }
+}

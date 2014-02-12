@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 6,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2738,
+      "name" : "苦忘·浮生如梦",
+      "updateStatus" : 1,
+      "distance" : 7504,
+      "memberId" : 2207
+    }, {
+      "id" : 2799,
+      "name" : "雪寻雪见",
+      "updateStatus" : 1,
+      "distance" : 738,
+      "memberId" : 5781
+    }, {
+      "id" : 3063,
+      "name" : "不负相思意",
+      "updateStatus" : 1,
+      "distance" : 3182,
+      "memberId" : 8187
+    }, {
+      "id" : 3160,
+      "name" : "小护士大明星",
+      "updateStatus" : 1,
+      "distance" : 4608,
+      "memberId" : 7728
+    }, {
+      "id" : 2504,
+      "name" : "综主霹雳白鹿即吾心",
+      "updateStatus" : 1,
+      "distance" : 6729,
+      "memberId" : 2762
+    }, {
+      "id" : 3261,
+      "name" : "腐化了的灿烂年华",
+      "updateStatus" : 1,
+      "distance" : 5742,
+      "memberId" : 7630
+    }, {
+      "id" : 2350,
+      "name" : "蝶缘痴恋",
+      "updateStatus" : 1,
+      "distance" : 7955,
+      "memberId" : 7126
+    }, {
+      "id" : 2646,
+      "name" : "满园紫苏",
+      "updateStatus" : 1,
+      "distance" : 9490,
+      "memberId" : 3225
+    }, {
+      "id" : 3674,
+      "name" : "爱上闷骚姐",
+      "updateStatus" : 1,
+      "distance" : 4783,
+      "memberId" : 6116
+    }, {
+      "id" : 2803,
+      "name" : "幸好还有爱情",
+      "updateStatus" : 1,
+      "distance" : 3469,
+      "memberId" : 5871
+    }, {
+      "id" : 2652,
+      "name" : "墨世情缘对对碰",
+      "updateStatus" : 1,
+      "distance" : 8078,
+      "memberId" : 8831
+    }, {
+      "id" : 2661,
+      "name" : "复仇天使：你是我的蛊",
+      "updateStatus" : 1,
+      "distance" : 5054,
+      "memberId" : 5729
+    }, {
+      "id" : 3004,
+      "name" : "陪伴是最长情的告白",
+      "updateStatus" : 1,
+      "distance" : 8454,
+      "memberId" : 8283
+    }, {
+      "id" : 3525,
+      "name" : "枯时花笑",
+      "updateStatus" : 1,
+      "distance" : 5737,
+      "memberId" : 1554
+    }, {
+      "id" : 2216,
+      "name" : "欲之巅",
+      "updateStatus" : 1,
+      "distance" : 2948,
+      "memberId" : 8652
+    }, {
+      "id" : 2890,
+      "name" : "月沉沦",
+      "updateStatus" : 1,
+      "distance" : 1622,
+      "memberId" : 8531
+    }, {
+      "id" : 3060,
+      "name" : "问世间节操为何物",
+      "updateStatus" : 1,
+      "distance" : 8385,
+      "memberId" : 7006
+    }, {
+      "id" : 2512,
+      "name" : "SOUL神之作",
+      "updateStatus" : 2,
+      "distance" : 1341,
+      "memberId" : 5984
+    }, {
+      "id" : 3016,
+      "name" : "再见，宝贝",
+      "updateStatus" : 1,
+      "distance" : 2758,
+      "memberId" : 4825
+    }, {
+      "id" : 3211,
+      "name" : "胭脂香味",
+      "updateStatus" : 1,
+      "distance" : 3988,
+      "memberId" : 5406
+    } ]
+  }
+}

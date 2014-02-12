@@ -1,0 +1,94 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 21,
+    "list" : [ {
+      "id" : 1280,
+      "title" : "少时不懂你的情",
+      "capacity" : 4765
+    }, {
+      "id" : 1281,
+      "title" : "第一章 物是人非",
+      "capacity" : 21586
+    }, {
+      "id" : 1282,
+      "title" : "第二章 林卓栋",
+      "capacity" : 14475
+    }, {
+      "id" : 1283,
+      "title" : "第三章 去淘金？",
+      "capacity" : 13056
+    }, {
+      "id" : 1284,
+      "title" : "第四章 天生丽质难自弃",
+      "capacity" : 11810
+    }, {
+      "id" : 1285,
+      "title" : "第五章 命里自有定数",
+      "capacity" : 8668
+    }, {
+      "id" : 1286,
+      "title" : "第六章 资本家的明毒保身",
+      "capacity" : 11294
+    }, {
+      "id" : 1287,
+      "title" : "第七章 全是男人的奇怪村子",
+      "capacity" : 9457
+    }, {
+      "id" : 1288,
+      "title" : "第八章 从头到尾的欺骗",
+      "capacity" : 8016
+    }, {
+      "id" : 1289,
+      "title" : "第九章 等待戈多",
+      "capacity" : 6883
+    }, {
+      "id" : 1290,
+      "title" : "第十章 浅显易懂的道理",
+      "capacity" : 6675
+    }, {
+      "id" : 1291,
+      "title" : "第十一章 奥斯卡金马奖绝对是你的",
+      "capacity" : 7926
+    }, {
+      "id" : 1292,
+      "title" : "第十二章 别脱！再脱我跟你急！",
+      "capacity" : 7472
+    }, {
+      "id" : 1293,
+      "title" : "第十三章 留得青山在不愁没柴烧",
+      "capacity" : 7679
+    }, {
+      "id" : 1294,
+      "title" : "第十四章 我离不开你",
+      "capacity" : 6229
+    }, {
+      "id" : 1295,
+      "title" : "第十五章 威胁",
+      "capacity" : 6429
+    }, {
+      "id" : 1296,
+      "title" : "第十六章 轰人需要智取",
+      "capacity" : 6239
+    }, {
+      "id" : 1297,
+      "title" : "第十七章 挟持",
+      "capacity" : 9092
+    }, {
+      "id" : 1298,
+      "title" : "第十八章 螳螂捕蝉黄雀在后",
+      "capacity" : 6490
+    }, {
+      "id" : 1299,
+      "title" : "第十九章 前奏",
+      "capacity" : 6218
+    }, {
+      "id" : 1300,
+      "title" : "第二十章 小暧昧",
+      "capacity" : 6718
+    } ]
+  }
+}

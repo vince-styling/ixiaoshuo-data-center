@@ -1,0 +1,82 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 18,
+    "list" : [ {
+      "id" : 3615,
+      "title" : "第一章、 卧槽！什么鬼地方？",
+      "capacity" : 6166
+    }, {
+      "id" : 3616,
+      "title" : "第二章、黄朝女史",
+      "capacity" : 6258
+    }, {
+      "id" : 3617,
+      "title" : "第三章、美男请留步",
+      "capacity" : 5548
+    }, {
+      "id" : 3618,
+      "title" : "第四章、冤家结",
+      "capacity" : 7306
+    }, {
+      "id" : 3619,
+      "title" : "第五章、谣言什么的真心不好",
+      "capacity" : 5969
+    }, {
+      "id" : 3620,
+      "title" : "第六章、女史的职业操守",
+      "capacity" : 6246
+    }, {
+      "id" : 3621,
+      "title" : "第七章、一二三四五，五呢？",
+      "capacity" : 5156
+    }, {
+      "id" : 3622,
+      "title" : "第八章、老子不嫁！",
+      "capacity" : 6809
+    }, {
+      "id" : 3623,
+      "title" : "第九章、皇上有请",
+      "capacity" : 5571
+    }, {
+      "id" : 3624,
+      "title" : "第十章、皇上，小的不禁吓",
+      "capacity" : 6180
+    }, {
+      "id" : 3625,
+      "title" : "第十一章、国师口味好重",
+      "capacity" : 7096
+    }, {
+      "id" : 3626,
+      "title" : "第十二章、愿我如星君如月",
+      "capacity" : 6307
+    }, {
+      "id" : 3627,
+      "title" : "第十三章、夜夜流光相皎洁",
+      "capacity" : 6131
+    }, {
+      "id" : 3628,
+      "title" : "第十四章、穿越一家亲",
+      "capacity" : 9566
+    }, {
+      "id" : 3629,
+      "title" : "第十五章、没点心计怎么叫后宫",
+      "capacity" : 6742
+    }, {
+      "id" : 3630,
+      "title" : "第十六章、被阴了",
+      "capacity" : 5650
+    }, {
+      "id" : 3631,
+      "title" : "第十七章、怎么回事？",
+      "capacity" : 3543
+    }, {
+      "id" : 3632,
+      "title" : "第十八章、天机不可泄露",
+      "capacity" : 4692
+    } ]
+  }
+}

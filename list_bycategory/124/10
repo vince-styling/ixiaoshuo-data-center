@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 10,
+    "totalPageCount" : 16,
+    "totalItemCount" : 304,
+    "list" : [ {
+      "id" : 3292,
+      "name" : "菊之恋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18823.jpg",
+      "summary" : "她，阎小罗，是阎王爷的独女，阎王宠得紧，以至于她天不怕地不怕。为了逃避父亲指定的婚约。她生死簿上随手",
+      "updateStatus" : 1,
+      "capacity" : 1037598,
+      "readerCount" : 2187
+    }, {
+      "id" : 3277,
+      "name" : "七生七世之情坠轩辕",
+      "coverUrl" : "",
+      "summary" : "宿命流转纠缠轮回，年轮更替侵扰红尘，浩劫袭来激荡世间，赤贯妖星临，苍穹浩荡间，亘古传说念，上古神器现",
+      "updateStatus" : 1,
+      "capacity" : 484201,
+      "readerCount" : 2126
+    }, {
+      "id" : 2886,
+      "name" : "今生不做你的妾",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45451.jpg",
+      "summary" : "来生缘：今生不做你的妾在她的眼中，他是一个圣人，他可以为世人做任何事却独独给不了他的爱，他虽然得到了",
+      "updateStatus" : 1,
+      "capacity" : 6433826,
+      "readerCount" : 2122
+    }, {
+      "id" : 2990,
+      "name" : "薄情先生：炸弹绝妃哪里逃",
+      "coverUrl" : "",
+      "summary" : "她，一脸倾世，一笑倾城，理工学士，化学炸弹，轻松搞定。他——大明摄政王，传闻冷漠无情、心狠手辣，手握",
+      "updateStatus" : 1,
+      "capacity" : 7389453,
+      "readerCount" : 2113
+    }, {
+      "id" : 3055,
+      "name" : "双龙戏凤",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46957.jpg",
+      "summary" : "她，上官月不仅穿越了这次还重生了?宇国靖王为治心仪之人，逼得自己的结发妻身葬绝情崖下。在次穿越重生，",
+      "updateStatus" : 1,
+      "capacity" : 276653,
+      "readerCount" : 2102
+    }, {
+      "id" : 3455,
+      "name" : "蜜宠之今生只要你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46511.jpg",
+      "summary" : "在这个世界，不管是朝堂还是江湖，他只想把她眷宠在怀，疼宠在心，只因一眼万年。",
+      "updateStatus" : 1,
+      "capacity" : 301914,
+      "readerCount" : 2020
+    }, {
+      "id" : 3349,
+      "name" : "宁负苍天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46991.jpg",
+      "summary" : "她是前世的司神，他是前世的天帝之子，选定的御君候选者。她的赌约因他而生，转生，轮回于人间，他依旧为他",
+      "updateStatus" : 1,
+      "capacity" : 375313,
+      "readerCount" : 1988
+    }, {
+      "id" : 3477,
+      "name" : "穿越之千年缘",
+      "coverUrl" : "",
+      "summary" : "坠入凡尘历经千年，再续千年缘。",
+      "updateStatus" : 1,
+      "capacity" : 348052,
+      "readerCount" : 1981
+    }, {
+      "id" : 3021,
+      "name" : "千宠万爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45804.jpg",
+      "summary" : "她，要吃要睡不要美男。前世过着与继母继姐争夺的日子，却不失乐趣所在。一日睡醒，不知身在何处。前世无爱",
+      "updateStatus" : 1,
+      "capacity" : 5256209,
+      "readerCount" : 1944
+    }, {
+      "id" : 3593,
+      "name" : "锦春",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45558.jpg",
+      "summary" : "这注定是一个风起云涌的时代，他们的故事短暂而美丽。浮华与没落，喧嚣与沉积，在新旧文明交替的时代，在这",
+      "updateStatus" : 1,
+      "capacity" : 857362,
+      "readerCount" : 1912
+    }, {
+      "id" : 3547,
+      "name" : "寡仁寡义传",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43547.jpg",
+      "summary" : "一个助人逃婚，亡命天涯——寡义；一个出师不利，虎落平阳——寡仁。一朝王爷与属国公主相见有几种可能的情",
+      "updateStatus" : 1,
+      "capacity" : 503432,
+      "readerCount" : 1912
+    }, {
+      "id" : 3409,
+      "name" : "素手霸天下",
+      "coverUrl" : "",
+      "summary" : "一世情，万念灰，涅盘变，风云转",
+      "updateStatus" : 1,
+      "capacity" : 237522,
+      "readerCount" : 1881
+    }, {
+      "id" : 3324,
+      "name" : "娘子，不许口是心非",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43423.jpg",
+      "summary" : "据说有位惊为天人的温柔男子带着一名张牙舞爪的彪悍女子行走江湖据说他们是为了寻找炽玉来造福天下的据说他",
+      "updateStatus" : 1,
+      "capacity" : 60103,
+      "readerCount" : 1877
+    }, {
+      "id" : 3696,
+      "name" : "负心王爷，囚宠失身王妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42196.jpg",
+      "summary" : "那一刻，她嚣张至极她谁都敢得罪，还会怕他一个空壳王爷么但下一刻，她却是后悔至极该死的，都说宁可得罪小",
+      "updateStatus" : 1,
+      "capacity" : 235465,
+      "readerCount" : 1856
+    }, {
+      "id" : 3176,
+      "name" : "留明待玥复",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43558.jpg",
+      "summary" : "她，不谙世事的鱼妖，从没想过世间这种种曲折。他，名声在外的捉妖人，从没想过自己会爱上妖精。一段充满了",
+      "updateStatus" : 1,
+      "capacity" : 776507,
+      "readerCount" : 1810
+    }, {
+      "id" : 3373,
+      "name" : "青歌宫词",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44592.jpg",
+      "summary" : "一入宫门深似海。及笄之礼，生辰之宴，本该大喜，因为太后懿旨，为官家女入宫选秀。遇见夙敌，一时口快，惹",
+      "updateStatus" : 1,
+      "capacity" : 51198,
+      "readerCount" : 1798
+    }, {
+      "id" : 3273,
+      "name" : "神医皇后",
+      "coverUrl" : "",
+      "summary" : "7岁母亲因病逝世，她从此立志为医，踏遍各地，行医为善；却因皇命嫁与他，从此开始了勾心斗角、危险重重的",
+      "updateStatus" : 1,
+      "capacity" : 43335,
+      "readerCount" : 1791
+    }, {
+      "id" : 3391,
+      "name" : "天上掉下个大侍郎",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42478.jpg",
+      "summary" : "我不想要那么多侍郎，为什么侍郎滚滚而来呢。是谁说：天上不会掉馅饼，只会掉“陷阱”的！糊口！有句话是：",
+      "updateStatus" : 1,
+      "capacity" : 132999,
+      "readerCount" : 1789
+    }, {
+      "id" : 2610,
+      "name" : "调皮千金异空游之拐跑王爷",
+      "coverUrl" : "",
+      "summary" : "现代的调皮千金，为了活命迷迷糊糊的穿越到了异空撞到了酷王爷不知会擦出怎样的火花呢......女主：蒋",
+      "updateStatus" : 1,
+      "capacity" : 8807552,
+      "readerCount" : 1772
+    }, {
+      "id" : 3440,
+      "name" : "风月楼",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18477.jpg",
+      "summary" : "妲己轻手摸上那道丑陋的伤疤，眼眸里透视着深入骨髓的恨意和无法言语的痛楚，“明明伤口已经愈合，明明已经",
+      "updateStatus" : 1,
+      "capacity" : 492070,
+      "readerCount" : 1759
+    } ]
+  }
+}

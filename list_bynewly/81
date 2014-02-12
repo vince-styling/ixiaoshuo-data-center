@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 81,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3528,
+      "name" : "丑女倾城：待我长发及腰",
+      "summary" : "她脸有破相，命犯烂桃花。一花未开就易主，成了她的嫡姐夫；一花花开满地，府上妻妾成群，她排名第十。认命",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 12164,
+      "lastUpdateTime" : "2013-11-21 19:56:10"
+    }, {
+      "id" : 3595,
+      "name" : "冷漠千金邪魅少爷",
+      "summary" : "她，叶若盈是一个亚洲首富物流集团叶氏家族的千金，叶氏集团将来的接班人，性格非常冷酷，但是在家里却是一",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 362247,
+      "lastUpdateTime" : "2013-11-21 19:43:50"
+    }, {
+      "id" : 3658,
+      "name" : "昙花一现，经年不灭",
+      "summary" : "他们曾经的相爱风靡学校。他们是佳偶，直到后来她逃，他找。——————————————————————",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41519.jpg",
+      "updateStatus" : 1,
+      "capacity" : 636552,
+      "lastUpdateTime" : "2013-11-21 19:29:58"
+    }, {
+      "id" : 3195,
+      "name" : "绝妃善类：倾城妖狐魅天下",
+      "summary" : "七千年前，他偷走了她的心，万劫不复。七千年后，他苦苦等待，她却完全把他忘记。他愿颠覆天下，只为换她笑",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44036.jpg",
+      "updateStatus" : 1,
+      "capacity" : 521681,
+      "lastUpdateTime" : "2013-11-21 18:12:47"
+    }, {
+      "id" : 3127,
+      "name" : "重生之轻月浮华",
+      "summary" : "初见时，他坐在墙头看着她被丫鬟欺负，她求他帮忙，他把身姿一正，审时度势道：“看她这么凶悍，我怕她报复",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45123.jpg",
+      "updateStatus" : 2,
+      "capacity" : 644952,
+      "lastUpdateTime" : "2013-11-21 17:46:23"
+    }, {
+      "id" : 3621,
+      "name" : "竹歪桃花三两枝",
+      "summary" : "一枝桃花一见倾心，二枝桃花捉弄生情，三枝桃花遍地黄金。男配一号：卒（卒于胎死腹中）男配二号：卒（卒于",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44873.jpg",
+      "updateStatus" : 1,
+      "capacity" : 552724,
+      "lastUpdateTime" : "2013-11-21 17:34:47"
+    }, {
+      "id" : 3310,
+      "name" : "龙级猎人",
+      "summary" : "她曾经是哥哥身边的跟屁虫，整天无忧无虑地缠着哥哥买这买那，拥有着天下间最天真的笑容。他曾经是学院的废",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20583.jpg",
+      "updateStatus" : 1,
+      "capacity" : 756599,
+      "lastUpdateTime" : "2013-11-21 16:47:03"
+    }, {
+      "id" : 3199,
+      "name" : "后宫大学传",
+      "summary" : "卧槽！娘娘你不能这样，做人要厚道。我不穿！我真的不穿！什么？我们寝室其他五个已经去了？靠！都是些没良",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46260.jpg",
+      "updateStatus" : 1,
+      "capacity" : 44741,
+      "lastUpdateTime" : "2013-11-21 16:35:03"
+    }, {
+      "id" : 3364,
+      "name" : "只要你幸福，愿意不爱你",
+      "summary" : "楔子只要你幸福，我愿意不爱你，即使给你幸福的那个人不是我。——陆思寻。这是陆思寻留给容萱最后的一句话",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 787599,
+      "lastUpdateTime" : "2013-11-21 16:34:19"
+    }, {
+      "id" : 3415,
+      "name" : "黑道老大的冷酷男友",
+      "summary" : "冷血寒是一个容易心软的女孩，在她很小的时候遇到了比她大两岁的男孩，这个男孩第一眼看到她就喜欢上了她，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20402.jpg",
+      "updateStatus" : 1,
+      "capacity" : 504890,
+      "lastUpdateTime" : "2013-11-21 16:19:22"
+    }, {
+      "id" : 3224,
+      "name" : "快乐公主流浪记",
+      "summary" : "快乐公主学本领，智斗老巫婆",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 360493,
+      "lastUpdateTime" : "2013-11-21 16:03:44"
+    }, {
+      "id" : 2926,
+      "name" : "清宫情史",
+      "summary" : "这是关于乾隆的故事。人生如梦，从清朝而来。巴林氏，名婉君，本可以安闲逍遥地过自己与习连翊的举案齐眉。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46122.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3728842,
+      "lastUpdateTime" : "2013-11-21 16:02:40"
+    }, {
+      "id" : 3469,
+      "name" : "逆天武神：丑颜毒妃",
+      "summary" : "赫云澄，日昭大陆第一丑女，身患残疾，被家族唾弃视为耻辱。在强者为尊的世界里，被传言灵武皆废的她竟逆天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47674.jpg",
+      "updateStatus" : 1,
+      "capacity" : 39261,
+      "lastUpdateTime" : "2013-11-21 15:37:30"
+    }, {
+      "id" : 2895,
+      "name" : "暗卫哥哥请爱我",
+      "summary" : "一个女穿男爱上面瘫暗卫而努力掰弯面瘫暗卫的故事。国家不止一个我，不会灭。而我只有你一个。如果你希望我",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43959.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4525889,
+      "lastUpdateTime" : "2013-11-21 15:34:04"
+    }, {
+      "id" : 3545,
+      "name" : "泪痕",
+      "summary" : "她是沉浸在悲伤里高中少女，双重性格，是天使？还是恶魔？阴差阳错，他们相遇。学生会一连串的保护下，绑架",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16942.jpg",
+      "updateStatus" : 1,
+      "capacity" : 917403,
+      "lastUpdateTime" : "2013-11-21 14:49:52"
+    }, {
+      "id" : 3486,
+      "name" : "月隐竹梢",
+      "summary" : "正经版：在这个时代，有一个神秘的组织悄然崛起，他们的成员来自四方，身份有贫有富，他们不是特工，他们最",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45565.jpg",
+      "updateStatus" : 1,
+      "capacity" : 606847,
+      "lastUpdateTime" : "2013-11-21 09:39:25"
+    }, {
+      "id" : 3702,
+      "name" : "生生羁绊",
+      "summary" : "兜兜转转，明明是逃不过的劫却想要去逃，最后不过是伤人又伤几。所幸的是在经历了一个又一个的劫难之后我们",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46146.jpg",
+      "updateStatus" : 1,
+      "capacity" : 478323,
+      "lastUpdateTime" : "2013-11-21 08:47:17"
+    }, {
+      "id" : 3439,
+      "name" : "皇熙妃传",
+      "summary" : "宇文氏，曾经是多么荣耀的一个家族，新皇登基却彻底颠覆了这个家族的地位，诛灭九族。唯一幸存的宇文氏长女",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42502.jpg",
+      "updateStatus" : 1,
+      "capacity" : 188053,
+      "lastUpdateTime" : "2013-11-21 08:31:31"
+    }, {
+      "id" : 2771,
+      "name" : "鸾情错，妃本无良",
+      "summary" : "她，懦弱、花痴又废才……一纸圣喻，嫁与爱慕的他为妻，却在大婚前期莫名落水身亡。她，腹黑、冷情又聪明…",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47407.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5190540,
+      "lastUpdateTime" : "2013-11-21 08:10:52"
+    }, {
+      "id" : 2675,
+      "name" : "总裁的契约情人！",
+      "summary" : "她是他的契约情人，他是她的交易金主。心总是在不知不觉的时候悄悄泛起涟漪，是要隔了多久我才能忘记那场最",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47017.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2770944,
+      "lastUpdateTime" : "2013-11-21 08:07:30"
+    } ]
+  }
+}

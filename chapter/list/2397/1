@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 3,
+    "totalItemCount" : 103,
+    "list" : [ {
+      "id" : 4665,
+      "title" : "爆笑校园，暧昧阵营",
+      "capacity" : 2761
+    }, {
+      "id" : 4666,
+      "title" : "第1章 上学奇遇",
+      "capacity" : 3617
+    }, {
+      "id" : 4667,
+      "title" : "第2章 不打不相识",
+      "capacity" : 3172
+    }, {
+      "id" : 4668,
+      "title" : "第3章 冷战",
+      "capacity" : 3826
+    }, {
+      "id" : 4669,
+      "title" : "第4章 走错教室",
+      "capacity" : 4305
+    }, {
+      "id" : 4670,
+      "title" : "第5章 自我介绍",
+      "capacity" : 5951
+    }, {
+      "id" : 4671,
+      "title" : "第6章 提前批评",
+      "capacity" : 3146
+    }, {
+      "id" : 4672,
+      "title" : "第7章 军训集合",
+      "capacity" : 4719
+    }, {
+      "id" : 4673,
+      "title" : "第8章 舍身就大嫂",
+      "capacity" : 3757
+    }, {
+      "id" : 4674,
+      "title" : "第9章 揪脸蛋事件",
+      "capacity" : 3562
+    }, {
+      "id" : 4675,
+      "title" : "第10章 咬手指的晴天天",
+      "capacity" : 3657
+    }, {
+      "id" : 4676,
+      "title" : "第11章 罚跑",
+      "capacity" : 4266
+    }, {
+      "id" : 4677,
+      "title" : "第12章 送军帽",
+      "capacity" : 3550
+    }, {
+      "id" : 4678,
+      "title" : "第13章 迎着阳光奔跑",
+      "capacity" : 3266
+    }, {
+      "id" : 4679,
+      "title" : "第14章 惊艳大班花",
+      "capacity" : 3354
+    }, {
+      "id" : 4680,
+      "title" : "第15章 小班花的操场闲谈",
+      "capacity" : 5542
+    }, {
+      "id" : 4681,
+      "title" : "第16章 黄金搭档",
+      "capacity" : 4780
+    }, {
+      "id" : 4682,
+      "title" : "第17章 乐天派计划",
+      "capacity" : 5282
+    }, {
+      "id" : 4683,
+      "title" : "第18章 军训琐事",
+      "capacity" : 4157
+    }, {
+      "id" : 4684,
+      "title" : "第19章 卧谈会血案",
+      "capacity" : 4142
+    }, {
+      "id" : 4685,
+      "title" : "第20章 乐天派起内讧",
+      "capacity" : 4390
+    }, {
+      "id" : 4686,
+      "title" : "第21章 射击对决",
+      "capacity" : 5770
+    }, {
+      "id" : 4687,
+      "title" : "第22章 随便敢亲你",
+      "capacity" : 4721
+    }, {
+      "id" : 4688,
+      "title" : "第23章 秋游轶事",
+      "capacity" : 5425
+    }, {
+      "id" : 4689,
+      "title" : "第24章 政变",
+      "capacity" : 4364
+    }, {
+      "id" : 4690,
+      "title" : "第25章 爆笑野炊",
+      "capacity" : 3519
+    }, {
+      "id" : 4691,
+      "title" : "第26章 惊现食神",
+      "capacity" : 3975
+    }, {
+      "id" : 4692,
+      "title" : "第27章 抢座位风波",
+      "capacity" : 5589
+    }, {
+      "id" : 4693,
+      "title" : "第28章 情侣杯",
+      "capacity" : 3221
+    }, {
+      "id" : 4694,
+      "title" : "第29章 间接接吻",
+      "capacity" : 3553
+    }, {
+      "id" : 4695,
+      "title" : "第30章 山野夜行",
+      "capacity" : 3698
+    }, {
+      "id" : 4696,
+      "title" : "第31章 使坏",
+      "capacity" : 5062
+    }, {
+      "id" : 4697,
+      "title" : "第32章 暧昧动作",
+      "capacity" : 4959
+    }, {
+      "id" : 4698,
+      "title" : "第33章 见鬼真相",
+      "capacity" : 3089
+    }, {
+      "id" : 4699,
+      "title" : "第34章 包身工",
+      "capacity" : 3410
+    }, {
+      "id" : 4700,
+      "title" : "第35章 131室楚汉大战",
+      "capacity" : 3785
+    }, {
+      "id" : 4701,
+      "title" : "第36章 各科老师亮相",
+      "capacity" : 3093
+    }, {
+      "id" : 4702,
+      "title" : "第37章 大教育家",
+      "capacity" : 3362
+    }, {
+      "id" : 4703,
+      "title" : "第38章 捐款",
+      "capacity" : 3398
+    }, {
+      "id" : 4704,
+      "title" : "第39章 樟树小插曲",
+      "capacity" : 3357
+    }, {
+      "id" : 4705,
+      "title" : "第40章 七步上栏法",
+      "capacity" : 5011
+    }, {
+      "id" : 4706,
+      "title" : "第41章 决斗战败",
+      "capacity" : 3190
+    }, {
+      "id" : 4707,
+      "title" : "第42章 战俘",
+      "capacity" : 3260
+    }, {
+      "id" : 4708,
+      "title" : "第43章 雷人数学课",
+      "capacity" : 4217
+    }, {
+      "id" : 4709,
+      "title" : "第44章 无人接听",
+      "capacity" : 4779
+    }, {
+      "id" : 4710,
+      "title" : "第45章 舞蹈天使",
+      "capacity" : 4175
+    }, {
+      "id" : 4711,
+      "title" : "第46章 楼上窗台的星空",
+      "capacity" : 3336
+    }, {
+      "id" : 4712,
+      "title" : "第47章 月夜嬉闹",
+      "capacity" : 3742
+    }, {
+      "id" : 4713,
+      "title" : "第48章 我和她的中秋",
+      "capacity" : 4301
+    }, {
+      "id" : 4714,
+      "title" : "第49章 友情成交",
+      "capacity" : 3071
+    } ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 3,
+    "totalItemCount" : 114,
+    "list" : [ {
+      "id" : 3925,
+      "title" : "一 嫁给衣冠冢",
+      "capacity" : 3175
+    }, {
+      "id" : 3926,
+      "title" : "二 不喝孟婆汤",
+      "capacity" : 2786
+    }, {
+      "id" : 3927,
+      "title" : "三 踏进阎罗殿",
+      "capacity" : 4774
+    }, {
+      "id" : 3928,
+      "title" : "四 枉死城",
+      "capacity" : 2105
+    }, {
+      "id" : 3929,
+      "title" : "五 投生阴阳世家",
+      "capacity" : 4792
+    }, {
+      "id" : 3930,
+      "title" : "六 我的名字叫小六",
+      "capacity" : 2660
+    }, {
+      "id" : 3931,
+      "title" : "七 掉魂",
+      "capacity" : 2139
+    }, {
+      "id" : 3932,
+      "title" : "八 七星剑",
+      "capacity" : 2275
+    }, {
+      "id" : 3933,
+      "title" : "九 前世的封印",
+      "capacity" : 2974
+    }, {
+      "id" : 3934,
+      "title" : "十 梦游症",
+      "capacity" : 4316
+    }, {
+      "id" : 3935,
+      "title" : "十一 斗怨鬼",
+      "capacity" : 3479
+    }, {
+      "id" : 3936,
+      "title" : "十二 蛇仙",
+      "capacity" : 3347
+    }, {
+      "id" : 3937,
+      "title" : "十三 魔咒",
+      "capacity" : 5575
+    }, {
+      "id" : 3938,
+      "title" : "十四 小猫",
+      "capacity" : 4649
+    }, {
+      "id" : 3939,
+      "title" : "十五 母子缘",
+      "capacity" : 4384
+    }, {
+      "id" : 3940,
+      "title" : "十六 新来的老师",
+      "capacity" : 6037
+    }, {
+      "id" : 3941,
+      "title" : "十七 决裂",
+      "capacity" : 4756
+    }, {
+      "id" : 3942,
+      "title" : "十八 16岁的坎",
+      "capacity" : 3802
+    }, {
+      "id" : 3943,
+      "title" : "十九 白衣人",
+      "capacity" : 3032
+    }, {
+      "id" : 3944,
+      "title" : "二十 转机",
+      "capacity" : 3132
+    }, {
+      "id" : 3945,
+      "title" : "二十一 学校有鬼",
+      "capacity" : 6248
+    }, {
+      "id" : 3946,
+      "title" : "二十二 卷土重来的怨鬼",
+      "capacity" : 3256
+    }, {
+      "id" : 3947,
+      "title" : "二十三 怪病的起源",
+      "capacity" : 4298
+    }, {
+      "id" : 3948,
+      "title" : "二十四 无眠夜",
+      "capacity" : 3761
+    }, {
+      "id" : 3949,
+      "title" : "二十五 哥哥的劫",
+      "capacity" : 4602
+    }, {
+      "id" : 3950,
+      "title" : "二十六 招魂",
+      "capacity" : 3140
+    }, {
+      "id" : 3951,
+      "title" : "二十七 记忆里的温暖",
+      "capacity" : 4792
+    }, {
+      "id" : 3952,
+      "title" : "二十八 双魂夺体",
+      "capacity" : 3123
+    }, {
+      "id" : 3953,
+      "title" : "二十九 寻剑",
+      "capacity" : 3090
+    }, {
+      "id" : 3954,
+      "title" : "三十 我是白玄",
+      "capacity" : 3829
+    }, {
+      "id" : 3955,
+      "title" : "三十一 怨鬼被缚",
+      "capacity" : 3564
+    }, {
+      "id" : 3956,
+      "title" : "三十二 魂魄回归",
+      "capacity" : 3054
+    }, {
+      "id" : 3957,
+      "title" : "三十三 谷中寻物",
+      "capacity" : 3259
+    }, {
+      "id" : 3958,
+      "title" : "三十四 哥哥醒了",
+      "capacity" : 3238
+    }, {
+      "id" : 3959,
+      "title" : "三十五 奇怪的梦",
+      "capacity" : 3020
+    }, {
+      "id" : 3960,
+      "title" : "三十六 户籍手续",
+      "capacity" : 4221
+    }, {
+      "id" : 3961,
+      "title" : "三十七 统一战线",
+      "capacity" : 3421
+    }, {
+      "id" : 3962,
+      "title" : "三十八 爸爸醒悟了",
+      "capacity" : 4144
+    }, {
+      "id" : 3963,
+      "title" : "三十九 入学手续",
+      "capacity" : 3118
+    }, {
+      "id" : 3964,
+      "title" : "四十 爷爷",
+      "capacity" : 3592
+    }, {
+      "id" : 3965,
+      "title" : "四十一 爷爷的转变",
+      "capacity" : 2976
+    }, {
+      "id" : 3966,
+      "title" : "四十二 女鬼的纠缠",
+      "capacity" : 3363
+    }, {
+      "id" : 3967,
+      "title" : "四十三 喊门",
+      "capacity" : 3005
+    }, {
+      "id" : 3968,
+      "title" : "四十四 断绝关系",
+      "capacity" : 3255
+    }, {
+      "id" : 3969,
+      "title" : "四十五 女鬼赌赢了",
+      "capacity" : 3013
+    }, {
+      "id" : 3970,
+      "title" : "四十六 女鬼又来",
+      "capacity" : 3012
+    }, {
+      "id" : 3971,
+      "title" : "四十七 醉翁之意",
+      "capacity" : 3360
+    }, {
+      "id" : 3972,
+      "title" : "四十八 捉女鬼",
+      "capacity" : 3002
+    }, {
+      "id" : 3973,
+      "title" : "四十九 送鬼",
+      "capacity" : 3914
+    }, {
+      "id" : 3974,
+      "title" : "五十 纠葛",
+      "capacity" : 4686
+    } ]
+  }
+}

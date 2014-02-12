@@ -1,0 +1,14 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 51,
+    "list" : [ {
+      "id" : 4240,
+      "title" : "第四十九章 你是妖孽，学制符",
+      "capacity" : 9315
+    } ]
+  }
+}

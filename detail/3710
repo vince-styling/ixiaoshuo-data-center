@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 3710,
+    "name" : "最后一瓶冰红茶",
+    "author" : "禾媿",
+    "coverUrl" : "",
+    "summary" : "那年喝过的冰红茶飘落风中，那年夏天的爱何去何从。",
+    "lastUpdateTime" : "2013-11-26 07:44:34",
+    "updateStatus" : 1,
+    "catId" : 130,
+    "catName" : "都市校园",
+    "capacity" : 356416
+  }
+}

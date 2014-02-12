@@ -1,0 +1,134 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 31,
+    "list" : [ {
+      "id" : 3069,
+      "title" : "【1】开学前夕",
+      "capacity" : 7459
+    }, {
+      "id" : 3070,
+      "title" : "【2】美救英雄",
+      "capacity" : 2956
+    }, {
+      "id" : 3071,
+      "title" : "【3】跑腿小弟",
+      "capacity" : 3594
+    }, {
+      "id" : 3072,
+      "title" : "【4】交换名额",
+      "capacity" : 4989
+    }, {
+      "id" : 3073,
+      "title" : "【5】争到名额",
+      "capacity" : 5926
+    }, {
+      "id" : 3074,
+      "title" : "【6】谁家的大少爷",
+      "capacity" : 5121
+    }, {
+      "id" : 3075,
+      "title" : "【7】好汉不吃眼前亏",
+      "capacity" : 2463
+    }, {
+      "id" : 3076,
+      "title" : "【8】找食堂风波",
+      "capacity" : 2884
+    }, {
+      "id" : 3077,
+      "title" : "【9】冤家路窄",
+      "capacity" : 4291
+    }, {
+      "id" : 3078,
+      "title" : "【10】抢人吃饭",
+      "capacity" : 3319
+    }, {
+      "id" : 3079,
+      "title" : "【11】叫他名字",
+      "capacity" : 2953
+    }, {
+      "id" : 3080,
+      "title" : "【12】找他有事",
+      "capacity" : 2639
+    }, {
+      "id" : 3081,
+      "title" : "【13】选礼服",
+      "capacity" : 2658
+    }, {
+      "id" : 3082,
+      "title" : "【14】桃花运连连",
+      "capacity" : 3615
+    }, {
+      "id" : 3083,
+      "title" : "【15】两大美男的抢夺战",
+      "capacity" : 3067
+    }, {
+      "id" : 3084,
+      "title" : "【16】陆筱雪的心思",
+      "capacity" : 3233
+    }, {
+      "id" : 3085,
+      "title" : "【17】主动离场",
+      "capacity" : 2408
+    }, {
+      "id" : 3086,
+      "title" : "【18】落水了",
+      "capacity" : 2156
+    }, {
+      "id" : 3087,
+      "title" : "【19】醋意四起",
+      "capacity" : 2958
+    }, {
+      "id" : 3088,
+      "title" : "【20】梦中的情人",
+      "capacity" : 2466
+    }, {
+      "id" : 3089,
+      "title" : "【21】被思念冲昏了头脑",
+      "capacity" : 2717
+    }, {
+      "id" : 3090,
+      "title" : "【22】替身",
+      "capacity" : 2283
+    }, {
+      "id" : 3091,
+      "title" : "【23】转变",
+      "capacity" : 2280
+    }, {
+      "id" : 3092,
+      "title" : "【24】小鸟依人",
+      "capacity" : 2476
+    }, {
+      "id" : 3093,
+      "title" : "【25】绯闻成双对",
+      "capacity" : 2207
+    }, {
+      "id" : 3094,
+      "title" : "【26】失望",
+      "capacity" : 2495
+    }, {
+      "id" : 3095,
+      "title" : "【27】香辣鱼汤",
+      "capacity" : 2815
+    }, {
+      "id" : 3096,
+      "title" : "【28】突然转变",
+      "capacity" : 2891
+    }, {
+      "id" : 3097,
+      "title" : "【29】翻脸",
+      "capacity" : 3818
+    }, {
+      "id" : 3098,
+      "title" : "【30】言语",
+      "capacity" : 3127
+    }, {
+      "id" : 3099,
+      "title" : "【31】送还衣服",
+      "capacity" : 3236
+    } ]
+  }
+}

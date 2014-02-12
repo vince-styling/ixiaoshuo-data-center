@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 3250,
+      "title" : "第一章 穿越",
+      "capacity" : 6528
+    }, {
+      "id" : 3251,
+      "title" : "第二章 表少爷与五小姐",
+      "capacity" : 6720
+    }, {
+      "id" : 3252,
+      "title" : "第三章 老爹的补偿",
+      "capacity" : 6243
+    }, {
+      "id" : 3253,
+      "title" : "第四章 被人算计",
+      "capacity" : 6135
+    }, {
+      "id" : 3254,
+      "title" : "第五章 被人吃豆腐",
+      "capacity" : 6452
+    }, {
+      "id" : 3255,
+      "title" : "第六章 她是傻子",
+      "capacity" : 6100
+    }, {
+      "id" : 3256,
+      "title" : "第七章 差点挂了",
+      "capacity" : 6356
+    }, {
+      "id" : 3257,
+      "title" : "第八月章 小玉的婚礼",
+      "capacity" : 6523
+    }, {
+      "id" : 3258,
+      "title" : "第九章 意想不到",
+      "capacity" : 6494
+    }, {
+      "id" : 3259,
+      "title" : "第十章 被蛇咬",
+      "capacity" : 6443
+    }, {
+      "id" : 3260,
+      "title" : "第十一章 这什么人啊",
+      "capacity" : 6348
+    }, {
+      "id" : 3261,
+      "title" : "第十二章 不讲理的野蛮人",
+      "capacity" : 6331
+    }, {
+      "id" : 3262,
+      "title" : "第十三章 闯祸了",
+      "capacity" : 6700
+    } ]
+  }
+}

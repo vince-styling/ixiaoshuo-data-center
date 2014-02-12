@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 70,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2662,
+      "name" : "最初的美好",
+      "updateStatus" : 1,
+      "distance" : 3153,
+      "memberId" : 4524
+    }, {
+      "id" : 3741,
+      "name" : "纯红之血：吸血鬼盯上了你",
+      "updateStatus" : 1,
+      "distance" : 6710,
+      "memberId" : 2464
+    }, {
+      "id" : 3548,
+      "name" : "只见青山妩媚",
+      "updateStatus" : 1,
+      "distance" : 8795,
+      "memberId" : 5607
+    }, {
+      "id" : 3153,
+      "name" : "恋上你，眷着你",
+      "updateStatus" : 1,
+      "distance" : 5238,
+      "memberId" : 5643
+    }, {
+      "id" : 2249,
+      "name" : "古代求生记",
+      "updateStatus" : 2,
+      "distance" : 9040,
+      "memberId" : 8344
+    }, {
+      "id" : 2382,
+      "name" : "同曾惶虑情难止",
+      "updateStatus" : 1,
+      "distance" : 1542,
+      "memberId" : 1333
+    }, {
+      "id" : 2905,
+      "name" : "再一次爱上你",
+      "updateStatus" : 1,
+      "distance" : 4066,
+      "memberId" : 6973
+    }, {
+      "id" : 2330,
+      "name" : "风雪情殇",
+      "updateStatus" : 1,
+      "distance" : 6709,
+      "memberId" : 1554
+    }, {
+      "id" : 3254,
+      "name" : "北京不眠",
+      "updateStatus" : 1,
+      "distance" : 777,
+      "memberId" : 1938
+    }, {
+      "id" : 3084,
+      "name" : "倾世妖男",
+      "updateStatus" : 1,
+      "distance" : 8544,
+      "memberId" : 4701
+    }, {
+      "id" : 2129,
+      "name" : "美人出逃：别惹弃妃",
+      "updateStatus" : 1,
+      "distance" : 6085,
+      "memberId" : 8235
+    }, {
+      "id" : 3124,
+      "name" : "一直在一起",
+      "updateStatus" : 1,
+      "distance" : 4192,
+      "memberId" : 6771
+    }, {
+      "id" : 3216,
+      "name" : "渡魂斋",
+      "updateStatus" : 1,
+      "distance" : 3141,
+      "memberId" : 8689
+    }, {
+      "id" : 3282,
+      "name" : "樱舞飞剑",
+      "updateStatus" : 1,
+      "distance" : 1069,
+      "memberId" : 1616
+    }, {
+      "id" : 3664,
+      "name" : "眉心结，掌中线",
+      "updateStatus" : 1,
+      "distance" : 4829,
+      "memberId" : 1750
+    }, {
+      "id" : 2614,
+      "name" : "赤瞳的海盗",
+      "updateStatus" : 2,
+      "distance" : 795,
+      "memberId" : 8643
+    }, {
+      "id" : 2085,
+      "name" : "琉璃坊",
+      "updateStatus" : 1,
+      "distance" : 3310,
+      "memberId" : 3652
+    }, {
+      "id" : 2988,
+      "name" : "梦想之星",
+      "updateStatus" : 1,
+      "distance" : 5868,
+      "memberId" : 6796
+    }, {
+      "id" : 2617,
+      "name" : "戏里婚外",
+      "updateStatus" : 1,
+      "distance" : 9844,
+      "memberId" : 5285
+    }, {
+      "id" : 3453,
+      "name" : "菜鸟也不是好骗的",
+      "updateStatus" : 1,
+      "distance" : 9598,
+      "memberId" : 8257
+    } ]
+  }
+}

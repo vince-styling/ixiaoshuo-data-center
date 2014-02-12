@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 106,
+    "list" : [ {
+      "id" : 1168,
+      "title" : "第101章 再次成神的理由",
+      "capacity" : 7020
+    }, {
+      "id" : 1169,
+      "title" : "第102章 逃跑新娘",
+      "capacity" : 6829
+    }, {
+      "id" : 1170,
+      "title" : "第103章 有父乃大",
+      "capacity" : 6668
+    }, {
+      "id" : 1171,
+      "title" : "第104章 人情不征税",
+      "capacity" : 6903
+    }, {
+      "id" : 1172,
+      "title" : "第105章 爱的第七章",
+      "capacity" : 6854
+    }, {
+      "id" : 1173,
+      "title" : "澄文上架公告",
+      "capacity" : 2254
+    } ]
+  }
+}

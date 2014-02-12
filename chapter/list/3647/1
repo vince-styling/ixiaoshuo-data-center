@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 3239,
+      "title" : "楔子",
+      "capacity" : 72
+    }, {
+      "id" : 3240,
+      "title" : "第一章 先天武者",
+      "capacity" : 10146
+    }, {
+      "id" : 3241,
+      "title" : "第二章 少年林鸣",
+      "capacity" : 9692
+    }, {
+      "id" : 3242,
+      "title" : "第三章 开光 之说",
+      "capacity" : 9566
+    }, {
+      "id" : 3243,
+      "title" : "声明",
+      "capacity" : 132
+    }, {
+      "id" : 3244,
+      "title" : "第一章 林家",
+      "capacity" : 11732
+    } ]
+  }
+}

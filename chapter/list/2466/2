@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 60,
+    "list" : [ {
+      "id" : 1452,
+      "title" : "第四十七章 鬼灵芝1",
+      "capacity" : 6888
+    }, {
+      "id" : 1453,
+      "title" : "第四十八章 鬼灵芝2",
+      "capacity" : 7184
+    }, {
+      "id" : 1454,
+      "title" : "第四十九章 鬼灵芝3",
+      "capacity" : 5869
+    }, {
+      "id" : 1455,
+      "title" : "第五十章 倒霉鬼",
+      "capacity" : 6590
+    }, {
+      "id" : 1456,
+      "title" : "第五十一章 强大的杜飞",
+      "capacity" : 6394
+    }, {
+      "id" : 1457,
+      "title" : "第五十二章 重建恶鬼谷",
+      "capacity" : 5779
+    }, {
+      "id" : 1458,
+      "title" : "第五十三章 大战黑无常",
+      "capacity" : 6300
+    }, {
+      "id" : 1459,
+      "title" : "第五十四章 重生",
+      "capacity" : 6328
+    }, {
+      "id" : 1460,
+      "title" : "第五十五章 决战恶鬼谷",
+      "capacity" : 6413
+    }, {
+      "id" : 1461,
+      "title" : "第五十六章 决战恶鬼谷2",
+      "capacity" : 5435
+    } ]
+  }
+}

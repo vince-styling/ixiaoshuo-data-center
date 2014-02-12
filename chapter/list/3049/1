@@ -1,0 +1,78 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 17,
+    "list" : [ {
+      "id" : 2219,
+      "title" : "一个梦",
+      "capacity" : 374
+    }, {
+      "id" : 2220,
+      "title" : "第一章 换了人间",
+      "capacity" : 9032
+    }, {
+      "id" : 2221,
+      "title" : "第二章 我的那个天",
+      "capacity" : 9161
+    }, {
+      "id" : 2222,
+      "title" : "第三章 十房小妾",
+      "capacity" : 11038
+    }, {
+      "id" : 2223,
+      "title" : "第四章 姑奶奶的脸",
+      "capacity" : 9328
+    }, {
+      "id" : 2224,
+      "title" : "第五章 姥姥家来人了",
+      "capacity" : 8324
+    }, {
+      "id" : 2225,
+      "title" : "第六章 早打算",
+      "capacity" : 9379
+    }, {
+      "id" : 2226,
+      "title" : "第七章 小姐选了把剑",
+      "capacity" : 10631
+    }, {
+      "id" : 2227,
+      "title" : "第八章 大侠的故事总是伤",
+      "capacity" : 9067
+    }, {
+      "id" : 2228,
+      "title" : "第九章 武师傅的来历",
+      "capacity" : 10905
+    }, {
+      "id" : 2229,
+      "title" : "第十章 谁说四姨娘是个呆瓜",
+      "capacity" : 9118
+    }, {
+      "id" : 2230,
+      "title" : "十一章 都是有故事的人",
+      "capacity" : 9977
+    }, {
+      "id" : 2231,
+      "title" : "十二章 只想守着你 （番外）",
+      "capacity" : 6056
+    }, {
+      "id" : 2232,
+      "title" : "十三章 拜师",
+      "capacity" : 10012
+    }, {
+      "id" : 2233,
+      "title" : "十四章 他乡遇故知",
+      "capacity" : 9236
+    }, {
+      "id" : 2234,
+      "title" : "十五章 落架的凤凰不如鸡",
+      "capacity" : 9214
+    }, {
+      "id" : 2235,
+      "title" : "十六章 从此粘定你",
+      "capacity" : 9057
+    } ]
+  }
+}

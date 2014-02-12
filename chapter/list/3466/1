@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 4115,
+      "title" : "楔子-流年",
+      "capacity" : 3150
+    }, {
+      "id" : 4116,
+      "title" : "五月惆怅",
+      "capacity" : 3435
+    }, {
+      "id" : 4117,
+      "title" : "纪那春夏(1)",
+      "capacity" : 3358
+    }, {
+      "id" : 4118,
+      "title" : "那时结缘（1）",
+      "capacity" : 3336
+    }, {
+      "id" : 4119,
+      "title" : "那时结缘（2）",
+      "capacity" : 3113
+    }, {
+      "id" : 4120,
+      "title" : "纪那春夏（2）",
+      "capacity" : 3456
+    } ]
+  }
+}

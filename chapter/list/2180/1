@@ -1,0 +1,110 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 25,
+    "list" : [ {
+      "id" : 1520,
+      "title" : "第一章 出山",
+      "capacity" : 6895
+    }, {
+      "id" : 1521,
+      "title" : "第二章 交友",
+      "capacity" : 6244
+    }, {
+      "id" : 1522,
+      "title" : "第三章 出刀",
+      "capacity" : 6772
+    }, {
+      "id" : 1523,
+      "title" : "第四章 方家集（一）",
+      "capacity" : 6626
+    }, {
+      "id" : 1524,
+      "title" : "第五章 方家集（二）",
+      "capacity" : 6874
+    }, {
+      "id" : 1525,
+      "title" : "第六章 方家集（三）",
+      "capacity" : 7153
+    }, {
+      "id" : 1526,
+      "title" : "第七章 心魔",
+      "capacity" : 7480
+    }, {
+      "id" : 1527,
+      "title" : "第八章 身入江湖",
+      "capacity" : 7416
+    }, {
+      "id" : 1528,
+      "title" : "第九章 萧杀（一）",
+      "capacity" : 6829
+    }, {
+      "id" : 1529,
+      "title" : "第十章 萧杀（二）",
+      "capacity" : 7133
+    }, {
+      "id" : 1530,
+      "title" : "第十一章 猎物",
+      "capacity" : 6865
+    }, {
+      "id" : 1531,
+      "title" : "第十二章 转变",
+      "capacity" : 7093
+    }, {
+      "id" : 1532,
+      "title" : "第十三章 魔刀教（一）",
+      "capacity" : 6951
+    }, {
+      "id" : 1533,
+      "title" : "第十四章 魔刀教（二）",
+      "capacity" : 6796
+    }, {
+      "id" : 1534,
+      "title" : "第十五章 魔刀教（三）",
+      "capacity" : 6650
+    }, {
+      "id" : 1535,
+      "title" : "第十六章 摩擦",
+      "capacity" : 6711
+    }, {
+      "id" : 1536,
+      "title" : "第十七章 古剑山庄",
+      "capacity" : 7115
+    }, {
+      "id" : 1537,
+      "title" : "第十八章 江湖试探",
+      "capacity" : 7008
+    }, {
+      "id" : 1538,
+      "title" : "第十九章 惊变（一）",
+      "capacity" : 6796
+    }, {
+      "id" : 1539,
+      "title" : "第二十章 惊变（二）",
+      "capacity" : 5925
+    }, {
+      "id" : 1540,
+      "title" : "第二十一章 名门正派（一）",
+      "capacity" : 6162
+    }, {
+      "id" : 1541,
+      "title" : "第二十二章 名门正派（二）",
+      "capacity" : 6594
+    }, {
+      "id" : 1542,
+      "title" : "第二十三章 寒冰剑（一）",
+      "capacity" : 6213
+    }, {
+      "id" : 1543,
+      "title" : "第二十四章 寒冰剑（二）",
+      "capacity" : 7346
+    }, {
+      "id" : 1544,
+      "title" : "第二十五章 寒冰剑（三）",
+      "capacity" : 6784
+    } ]
+  }
+}

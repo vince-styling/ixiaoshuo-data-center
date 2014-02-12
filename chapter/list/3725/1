@@ -1,0 +1,206 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 49,
+    "list" : [ {
+      "id" : 2434,
+      "title" : "1月5号",
+      "capacity" : 5594
+    }, {
+      "id" : 2435,
+      "title" : "1月6号",
+      "capacity" : 5992
+    }, {
+      "id" : 2436,
+      "title" : "1月8号",
+      "capacity" : 5705
+    }, {
+      "id" : 2437,
+      "title" : "1月9号",
+      "capacity" : 6315
+    }, {
+      "id" : 2438,
+      "title" : "1月10号",
+      "capacity" : 6869
+    }, {
+      "id" : 2439,
+      "title" : "1月11号",
+      "capacity" : 5932
+    }, {
+      "id" : 2440,
+      "title" : "1月12日",
+      "capacity" : 6606
+    }, {
+      "id" : 2441,
+      "title" : "1月13号",
+      "capacity" : 5933
+    }, {
+      "id" : 2442,
+      "title" : "1月20号",
+      "capacity" : 5445
+    }, {
+      "id" : 2443,
+      "title" : "1月22号",
+      "capacity" : 6013
+    }, {
+      "id" : 2444,
+      "title" : "1月25号",
+      "capacity" : 5901
+    }, {
+      "id" : 2445,
+      "title" : "1月27号",
+      "capacity" : 8515
+    }, {
+      "id" : 2446,
+      "title" : "1月30号",
+      "capacity" : 6634
+    }, {
+      "id" : 2447,
+      "title" : "2月4号",
+      "capacity" : 5714
+    }, {
+      "id" : 2448,
+      "title" : "2月15号",
+      "capacity" : 6616
+    }, {
+      "id" : 2449,
+      "title" : "2月16号",
+      "capacity" : 8553
+    }, {
+      "id" : 2450,
+      "title" : "2月18号",
+      "capacity" : 7222
+    }, {
+      "id" : 2451,
+      "title" : "2月19号",
+      "capacity" : 6648
+    }, {
+      "id" : 2452,
+      "title" : "2月23号",
+      "capacity" : 7275
+    }, {
+      "id" : 2453,
+      "title" : "2月25号",
+      "capacity" : 6064
+    }, {
+      "id" : 2454,
+      "title" : "2月26号",
+      "capacity" : 6707
+    }, {
+      "id" : 2455,
+      "title" : "2月28号",
+      "capacity" : 6121
+    }, {
+      "id" : 2456,
+      "title" : "3月1号",
+      "capacity" : 5621
+    }, {
+      "id" : 2457,
+      "title" : "3月5号",
+      "capacity" : 7057
+    }, {
+      "id" : 2458,
+      "title" : "3月8号",
+      "capacity" : 8161
+    }, {
+      "id" : 2459,
+      "title" : "3月15号",
+      "capacity" : 6517
+    }, {
+      "id" : 2460,
+      "title" : "3月17号",
+      "capacity" : 7012
+    }, {
+      "id" : 2461,
+      "title" : "3月20号",
+      "capacity" : 7027
+    }, {
+      "id" : 2462,
+      "title" : "3月28日",
+      "capacity" : 6885
+    }, {
+      "id" : 2463,
+      "title" : "4月4号",
+      "capacity" : 6928
+    }, {
+      "id" : 2464,
+      "title" : "4月10日",
+      "capacity" : 5900
+    }, {
+      "id" : 2465,
+      "title" : "4月13号",
+      "capacity" : 6307
+    }, {
+      "id" : 2466,
+      "title" : "4月14号",
+      "capacity" : 6543
+    }, {
+      "id" : 2467,
+      "title" : "4月15号",
+      "capacity" : 6715
+    }, {
+      "id" : 2468,
+      "title" : "4月16号",
+      "capacity" : 7358
+    }, {
+      "id" : 2469,
+      "title" : "4月19号",
+      "capacity" : 6448
+    }, {
+      "id" : 2470,
+      "title" : "4月27号",
+      "capacity" : 8378
+    }, {
+      "id" : 2471,
+      "title" : "4月29号",
+      "capacity" : 7043
+    }, {
+      "id" : 2472,
+      "title" : "5月1号",
+      "capacity" : 5664
+    }, {
+      "id" : 2473,
+      "title" : "5月4号",
+      "capacity" : 4989
+    }, {
+      "id" : 2474,
+      "title" : "5月6号",
+      "capacity" : 6106
+    }, {
+      "id" : 2475,
+      "title" : "5月7号",
+      "capacity" : 7160
+    }, {
+      "id" : 2476,
+      "title" : "5月8号",
+      "capacity" : 6663
+    }, {
+      "id" : 2477,
+      "title" : "5月11号",
+      "capacity" : 9358
+    }, {
+      "id" : 2478,
+      "title" : "5月15号",
+      "capacity" : 7369
+    }, {
+      "id" : 2479,
+      "title" : "5月16号",
+      "capacity" : 6210
+    }, {
+      "id" : 2480,
+      "title" : "5月17号",
+      "capacity" : 8534
+    }, {
+      "id" : 2481,
+      "title" : "5月27号",
+      "capacity" : 7760
+    }, {
+      "id" : 2482,
+      "title" : "6月2号",
+      "capacity" : 7900
+    } ]
+  }
+}

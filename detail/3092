@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 3092,
+    "name" : "哈利波特之魔法学院",
+    "author" : "蓝色的天",
+    "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47521.jpg",
+    "summary" : "哈利波特的故事大家都应该知道吧！现在我讲的就是哈利波特神秘的魔法世界的另外一个伟大的秘密，一起来进入魔法世界吧！",
+    "lastUpdateTime" : "2013-11-20 21:31:22",
+    "updateStatus" : 2,
+    "catId" : 126,
+    "catName" : "玄幻奇幻",
+    "capacity" : 156201
+  }
+}

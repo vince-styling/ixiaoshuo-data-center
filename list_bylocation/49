@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 49,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2829,
+      "name" : "女兽与美郎",
+      "updateStatus" : 1,
+      "distance" : 7206,
+      "memberId" : 8883
+    }, {
+      "id" : 3599,
+      "name" : "无声梦流水",
+      "updateStatus" : 1,
+      "distance" : 9617,
+      "memberId" : 4625
+    }, {
+      "id" : 3314,
+      "name" : "倾城薄雾，似水流年",
+      "updateStatus" : 2,
+      "distance" : 7913,
+      "memberId" : 7820
+    }, {
+      "id" : 2313,
+      "name" : "囧冠天下",
+      "updateStatus" : 1,
+      "distance" : 4566,
+      "memberId" : 5794
+    }, {
+      "id" : 3070,
+      "name" : "双面娇娃：爱在罂粟烂漫时",
+      "updateStatus" : 1,
+      "distance" : 3977,
+      "memberId" : 1327
+    }, {
+      "id" : 2166,
+      "name" : "仙岚异世情",
+      "updateStatus" : 1,
+      "distance" : 3437,
+      "memberId" : 6944
+    }, {
+      "id" : 3546,
+      "name" : "红颜若雪：情倾后宫",
+      "updateStatus" : 1,
+      "distance" : 8188,
+      "memberId" : 5670
+    }, {
+      "id" : 2095,
+      "name" : "逐鹿芳心",
+      "updateStatus" : 1,
+      "distance" : 4383,
+      "memberId" : 3629
+    }, {
+      "id" : 2453,
+      "name" : "死亡七部曲",
+      "updateStatus" : 1,
+      "distance" : 8306,
+      "memberId" : 6623
+    }, {
+      "id" : 2269,
+      "name" : "女皇倾国萌天下",
+      "updateStatus" : 1,
+      "distance" : 1853,
+      "memberId" : 1606
+    }, {
+      "id" : 3592,
+      "name" : "单纯逐笑开",
+      "updateStatus" : 1,
+      "distance" : 3468,
+      "memberId" : 7579
+    }, {
+      "id" : 2801,
+      "name" : "女神物语",
+      "updateStatus" : 1,
+      "distance" : 7463,
+      "memberId" : 2255
+    }, {
+      "id" : 2396,
+      "name" : "冷爱",
+      "updateStatus" : 2,
+      "distance" : 1521,
+      "memberId" : 5913
+    }, {
+      "id" : 2979,
+      "name" : "未殇",
+      "updateStatus" : 1,
+      "distance" : 1359,
+      "memberId" : 5712
+    }, {
+      "id" : 2692,
+      "name" : "网王之阴阳师是学生",
+      "updateStatus" : 1,
+      "distance" : 7793,
+      "memberId" : 1802
+    }, {
+      "id" : 3554,
+      "name" : "萧索感心俱是梦",
+      "updateStatus" : 1,
+      "distance" : 2131,
+      "memberId" : 6512
+    }, {
+      "id" : 3495,
+      "name" : "倾情一梦",
+      "updateStatus" : 1,
+      "distance" : 1852,
+      "memberId" : 5449
+    }, {
+      "id" : 2945,
+      "name" : "烟月飞鸟",
+      "updateStatus" : 1,
+      "distance" : 6993,
+      "memberId" : 4421
+    }, {
+      "id" : 3736,
+      "name" : "狂",
+      "updateStatus" : 1,
+      "distance" : 2990,
+      "memberId" : 4690
+    }, {
+      "id" : 3674,
+      "name" : "爱上闷骚姐",
+      "updateStatus" : 1,
+      "distance" : 1465,
+      "memberId" : 7270
+    } ]
+  }
+}

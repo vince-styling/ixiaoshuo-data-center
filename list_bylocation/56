@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 56,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2273,
+      "name" : "丞相公子，哪里跑",
+      "updateStatus" : 1,
+      "distance" : 6824,
+      "memberId" : 6173
+    }, {
+      "id" : 3143,
+      "name" : "去日留痕",
+      "updateStatus" : 1,
+      "distance" : 9343,
+      "memberId" : 6335
+    }, {
+      "id" : 2285,
+      "name" : "天织雪",
+      "updateStatus" : 1,
+      "distance" : 5506,
+      "memberId" : 8678
+    }, {
+      "id" : 2752,
+      "name" : "总裁的致命情人：抵死不承欢",
+      "updateStatus" : 1,
+      "distance" : 3192,
+      "memberId" : 5167
+    }, {
+      "id" : 3098,
+      "name" : "无上星道",
+      "updateStatus" : 1,
+      "distance" : 8902,
+      "memberId" : 8914
+    }, {
+      "id" : 2236,
+      "name" : "冥江漫漫",
+      "updateStatus" : 1,
+      "distance" : 3327,
+      "memberId" : 2495
+    }, {
+      "id" : 3693,
+      "name" : "综漫——萝莉女神的养成计划",
+      "updateStatus" : 1,
+      "distance" : 1367,
+      "memberId" : 1309
+    }, {
+      "id" : 3344,
+      "name" : "诀爱（乱世胧伊）",
+      "updateStatus" : 1,
+      "distance" : 5800,
+      "memberId" : 7552
+    }, {
+      "id" : 3307,
+      "name" : "在天台遥望幸福",
+      "updateStatus" : 1,
+      "distance" : 4930,
+      "memberId" : 1106
+    }, {
+      "id" : 3095,
+      "name" : "墨色眼瞳中的温柔",
+      "updateStatus" : 1,
+      "distance" : 7455,
+      "memberId" : 3617
+    }, {
+      "id" : 3455,
+      "name" : "蜜宠之今生只要你",
+      "updateStatus" : 1,
+      "distance" : 1359,
+      "memberId" : 3860
+    }, {
+      "id" : 3642,
+      "name" : "椒房月夜泪未央",
+      "updateStatus" : 1,
+      "distance" : 9049,
+      "memberId" : 6667
+    }, {
+      "id" : 3314,
+      "name" : "倾城薄雾，似水流年",
+      "updateStatus" : 2,
+      "distance" : 8095,
+      "memberId" : 5149
+    }, {
+      "id" : 3643,
+      "name" : "可能你还爱我",
+      "updateStatus" : 1,
+      "distance" : 829,
+      "memberId" : 3405
+    }, {
+      "id" : 2298,
+      "name" : "重生联盟之绝代风华",
+      "updateStatus" : 1,
+      "distance" : 7158,
+      "memberId" : 1464
+    }, {
+      "id" : 3677,
+      "name" : "不要丢下我，好不好",
+      "updateStatus" : 1,
+      "distance" : 8956,
+      "memberId" : 8997
+    }, {
+      "id" : 2941,
+      "name" : "饿狼女扑羊记",
+      "updateStatus" : 1,
+      "distance" : 1962,
+      "memberId" : 8561
+    }, {
+      "id" : 2149,
+      "name" : "登天谣",
+      "updateStatus" : 2,
+      "distance" : 8176,
+      "memberId" : 2242
+    }, {
+      "id" : 2869,
+      "name" : "穿越之美人太冷",
+      "updateStatus" : 1,
+      "distance" : 3414,
+      "memberId" : 7008
+    }, {
+      "id" : 2572,
+      "name" : "魔妃逆九天",
+      "updateStatus" : 1,
+      "distance" : 2854,
+      "memberId" : 7536
+    } ]
+  }
+}

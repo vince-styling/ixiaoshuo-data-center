@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 40,
+    "totalPageCount" : 78,
+    "totalItemCount" : 1542,
+    "list" : [ {
+      "id" : 2445,
+      "name" : "饰心",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44317.jpg",
+      "summary" : "木汐尧和季繁华相识在浮世道场，相知在西歌中学，相惜于千秦城C大。失去彼此消息的五年里，才真正清楚面对",
+      "updateStatus" : 1,
+      "capacity" : 2667685,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2430,
+      "name" : "一场梦如痴如醉",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47969.jpg",
+      "summary" : "文章讲述了即将毕业、面临工作的男孩女孩，迫切渴望在毕业之前谈一段校园恋爱，然而相约一起完成一个美好的",
+      "updateStatus" : 1,
+      "capacity" : 9706711,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3014,
+      "name" : "【武侠穿越】大梦",
+      "coverUrl" : "",
+      "summary" : "前世，她丧尽天良，猪狗不如，玩弄法律报应降临，她穿越时空，再次为人，年幼却遭全村血案被一心隐居的高人",
+      "updateStatus" : 1,
+      "capacity" : 9975514,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2857,
+      "name" : "你不可能会爱我",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46569.jpg",
+      "summary" : "楚岚很勇敢，能够大声地对颜夕说出喜欢；楚岚也很懦弱，懦弱得对自己能否得到对方回应完全不抱希望。有欢笑",
+      "updateStatus" : 1,
+      "capacity" : 8607984,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3245,
+      "name" : "双凤夺体：娇蛮宠姬不好惹",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20882.jpg",
+      "summary" : "一场车祸，穿到了乱世一次逃亡，掉下了悬崖自此，一个身体里的两个灵魂争身夺体，互不相让，其中爆笑连连，",
+      "updateStatus" : 1,
+      "capacity" : 687160,
+      "catName" : "历史架空"
+    }, {
+      "id" : 3656,
+      "name" : "爱终究短暂",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17230.jpg",
+      "summary" : "爱情虽短暂，但是只要真正爱过的人并不在乎它是长久还是短暂-他(她)们绕了那么久，无非就是想自己爱的人",
+      "updateStatus" : 1,
+      "capacity" : 2137310,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2835,
+      "name" : "凉薄如雪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47209.jpg",
+      "summary" : "善良如她，美丽如她，热情如她....可是经历弟弟中毒，父母失踪，闺蜜夺爱的变故，幕后的那只黑手却并没",
+      "updateStatus" : 1,
+      "capacity" : 6180073,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3503,
+      "name" : "花飘生死城",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19064.jpg",
+      "summary" : "这是仨女子的旷世情缘——倒霉小姐离奇卷入国际罪案，生死轮回难逃魔爪；贤良女鬼酒后失身猎获情郎，披荆斩",
+      "updateStatus" : 1,
+      "capacity" : 548858,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2947,
+      "name" : "一路安然",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47168.jpg",
+      "summary" : "衣袂飘飘的南北朝时期，政权更迭不断。鲜衣怒马的背景下野心勃勃的兰陵萧氏萧齐安，无心世事的世外高人戚卓",
+      "updateStatus" : 1,
+      "capacity" : 6992289,
+      "catName" : "历史架空"
+    }, {
+      "id" : 2411,
+      "name" : "护理实验室的故事",
+      "coverUrl" : "",
+      "summary" : "作者在学校里工作的奇闻异事。",
+      "updateStatus" : 1,
+      "capacity" : 2727737,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3065,
+      "name" : "反女巫联盟",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47198.jpg",
+      "summary" : "十七岁的平凡少女廖卡卡在被天后巨星艾儿缠上后，日子发生了翻天覆地的变化。只有两个人的反女巫联盟能改革",
+      "updateStatus" : 1,
+      "capacity" : 362829,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2929,
+      "name" : "若岁浮萍",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47264.jpg",
+      "summary" : "很多时候我都会有这样一种感觉，如果用我此时此刻的一种状态作为我接下来要发展的人生故事的开头，那么命运",
+      "updateStatus" : 1,
+      "capacity" : 5069463,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3700,
+      "name" : "江湖囧事录",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22653.jpg",
+      "summary" : "严小花是一个很普通的女人却在完全不想穿越的情况下穿越了。萧小怡是一个很不普通的少女。以前的她会制蛊毒",
+      "updateStatus" : 1,
+      "capacity" : 222505,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2211,
+      "name" : "神魂锁炼",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21436.jpg",
+      "summary" : "一场无聊的三角游戏使得炼玉与其两位好友一起坠入异世，陌生的世界，熟悉的气息，失踪的好友，面对这一切，",
+      "updateStatus" : 1,
+      "capacity" : 1773447,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2052,
+      "name" : "总裁，我们始终背道相持",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46176.jpg",
+      "summary" : "如果有一天，我们相爱的痕迹淡化，我们都已经不是原来的我们，我们还会相爱么？以后的以后，我们的生命中，",
+      "updateStatus" : 1,
+      "capacity" : 2677377,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2934,
+      "name" : "怀海漫成",
+      "coverUrl" : "",
+      "summary" : "高高在上的豪门贵族世家的公子哥凌风，接受过高等教育，有着渊博的见识和卓越的身手，因为性格孤僻冷傲的关",
+      "updateStatus" : 1,
+      "capacity" : 7557654,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3328,
+      "name" : "琉璃舞",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18949.jpg",
+      "summary" : "流走的时间带走琐碎的细沙，往事潺潺，闭上眼回忆的瞬间，浮现的不过是他的面庞……“为什么骗我！为什么！",
+      "updateStatus" : 1,
+      "capacity" : 772631,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 3382,
+      "name" : "三大明星公主的桃花劫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45206.jpg",
+      "summary" : "从小惨遭她人冒充，有着残忍不堪的回忆，眼睁睁看着自己家族归为他人带领。与三少误会升级！男主背叛与冒牌",
+      "updateStatus" : 1,
+      "capacity" : 831599,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3411,
+      "name" : "孽障情缘",
+      "coverUrl" : "",
+      "summary" : "《孽障情缘》简介：一位貌美如仙的16岁高一女生姚莹，与一男同学相恋并互写情书，被老师发现，状告父母。",
+      "updateStatus" : 1,
+      "capacity" : 565415,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3628,
+      "name" : "有凤求凰",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44206.jpg",
+      "summary" : "被告白，结果被穿越，作为一名公主，被人甩了，不好好呆在宫里等着被嫁出去，偏要到外面看什么热闹，还好坏",
+      "updateStatus" : 1,
+      "capacity" : 860848,
+      "catName" : "古代言情"
+    } ]
+  }
+}

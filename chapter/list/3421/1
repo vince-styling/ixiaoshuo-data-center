@@ -1,0 +1,102 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 23,
+    "list" : [ {
+      "id" : 3923,
+      "title" : "无准备的穿越",
+      "capacity" : 4768
+    }, {
+      "id" : 3924,
+      "title" : "七皇子和皇上叫板",
+      "capacity" : 3160
+    }, {
+      "id" : 3925,
+      "title" : "兄弟",
+      "capacity" : 4311
+    }, {
+      "id" : 3926,
+      "title" : "皇上",
+      "capacity" : 3659
+    }, {
+      "id" : 3927,
+      "title" : "收了四皇子",
+      "capacity" : 4938
+    }, {
+      "id" : 3928,
+      "title" : "殇",
+      "capacity" : 3906
+    }, {
+      "id" : 3929,
+      "title" : "雷霆雨露",
+      "capacity" : 3703
+    }, {
+      "id" : 3930,
+      "title" : "做儿子的恭顺",
+      "capacity" : 2889
+    }, {
+      "id" : 3931,
+      "title" : "再重的伤打不倒坚强",
+      "capacity" : 3830
+    }, {
+      "id" : 3932,
+      "title" : "读书打架",
+      "capacity" : 5302
+    }, {
+      "id" : 3933,
+      "title" : "七皇子挨打",
+      "capacity" : 3137
+    }, {
+      "id" : 3934,
+      "title" : "一片自由",
+      "capacity" : 2838
+    }, {
+      "id" : 3935,
+      "title" : "不吃饭的代价",
+      "capacity" : 5545
+    }, {
+      "id" : 3936,
+      "title" : "听政",
+      "capacity" : 6486
+    }, {
+      "id" : 3937,
+      "title" : "生病",
+      "capacity" : 7294
+    }, {
+      "id" : 3938,
+      "title" : "救人溺水",
+      "capacity" : 7781
+    }, {
+      "id" : 3939,
+      "title" : "挨板子",
+      "capacity" : 5323
+    }, {
+      "id" : 3940,
+      "title" : "出宫的责罚",
+      "capacity" : 6891
+    }, {
+      "id" : 3941,
+      "title" : "六皇子",
+      "capacity" : 4797
+    }, {
+      "id" : 3942,
+      "title" : "皇叔变师傅",
+      "capacity" : 3045
+    }, {
+      "id" : 3943,
+      "title" : "小小摩擦",
+      "capacity" : 4015
+    }, {
+      "id" : 3944,
+      "title" : "二皇子生辰",
+      "capacity" : 3130
+    }, {
+      "id" : 3945,
+      "title" : "生辰礼物",
+      "capacity" : 4051
+    } ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 2901,
+    "name" : "水浒系列短篇集",
+    "author" : "白螭",
+    "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44777.jpg",
+    "summary" : "这些是写在水浒以外的故事。大部分来源于那个时节的新水浒，那些或者坚强或者沉郁的孩子。不管戏里戏外，他们都是一样的坚强。他们会一直坚强，创造着属于自己的未来。",
+    "lastUpdateTime" : "2013-12-05 20:18:20",
+    "updateStatus" : 1,
+    "catId" : 124,
+    "catName" : "古代言情",
+    "capacity" : 7117703
+  }
+}

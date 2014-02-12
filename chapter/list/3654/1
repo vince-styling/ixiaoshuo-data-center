@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 2837,
+      "title" : "引子",
+      "capacity" : 3024
+    }, {
+      "id" : 2838,
+      "title" : "第一章 逃婚",
+      "capacity" : 20993
+    }, {
+      "id" : 2839,
+      "title" : "第二章伤痛",
+      "capacity" : 16333
+    }, {
+      "id" : 2840,
+      "title" : "第三章武林大会",
+      "capacity" : 16469
+    }, {
+      "id" : 2841,
+      "title" : "第四章轩辕剑",
+      "capacity" : 15059
+    } ]
+  }
+}

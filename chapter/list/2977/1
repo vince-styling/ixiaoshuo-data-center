@@ -1,0 +1,102 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 23,
+    "list" : [ {
+      "id" : 4826,
+      "title" : "第一章 回忆",
+      "capacity" : 4952
+    }, {
+      "id" : 4827,
+      "title" : "第二章 黑人！！！",
+      "capacity" : 5651
+    }, {
+      "id" : 4828,
+      "title" : "第三章 华丽邂逅",
+      "capacity" : 4807
+    }, {
+      "id" : 4829,
+      "title" : "第四章 军训！",
+      "capacity" : 5180
+    }, {
+      "id" : 4830,
+      "title" : "第五章 再次挑衅！",
+      "capacity" : 4737
+    }, {
+      "id" : 4831,
+      "title" : "第六章 凯~凯~凯~",
+      "capacity" : 6361
+    }, {
+      "id" : 4832,
+      "title" : "第七章 奇葩的童鞋！",
+      "capacity" : 5955
+    }, {
+      "id" : 4833,
+      "title" : "第八章 天生丽质！",
+      "capacity" : 6608
+    }, {
+      "id" : 4834,
+      "title" : "第九章 破茧成碟！",
+      "capacity" : 4736
+    }, {
+      "id" : 4835,
+      "title" : "第十章 破茧成蝶（2）",
+      "capacity" : 5909
+    }, {
+      "id" : 4836,
+      "title" : "第十一章 各种男角闪亮登场~",
+      "capacity" : 4751
+    }, {
+      "id" : 4837,
+      "title" : "第十二章 虫不成碟",
+      "capacity" : 5684
+    }, {
+      "id" : 4838,
+      "title" : "第十三章 卸下邪魅面具的陌",
+      "capacity" : 5314
+    }, {
+      "id" : 4839,
+      "title" : "第十四章 妖孽 唯美 神经质",
+      "capacity" : 6437
+    }, {
+      "id" : 4840,
+      "title" : "第十五章 生日时分齐聚首",
+      "capacity" : 6330
+    }, {
+      "id" : 4841,
+      "title" : "第十六章 酒后真言？胡语?",
+      "capacity" : 3814
+    }, {
+      "id" : 4842,
+      "title" : "第十七章 霸气的礼物",
+      "capacity" : 5588
+    }, {
+      "id" : 4843,
+      "title" : "第十八章 倒霉的人儿倒霉的事儿",
+      "capacity" : 5578
+    }, {
+      "id" : 4844,
+      "title" : "第十九章 堕天使，落天使",
+      "capacity" : 5204
+    }, {
+      "id" : 4845,
+      "title" : "第二十章 安琪",
+      "capacity" : 6812
+    }, {
+      "id" : 4846,
+      "title" : "第二十一章 泪水",
+      "capacity" : 8201
+    }, {
+      "id" : 4847,
+      "title" : "第二十二章 灵宝的嫉妒",
+      "capacity" : 7191
+    }, {
+      "id" : 4848,
+      "title" : "第二十三章 暴风雨来临前的死寂",
+      "capacity" : 7826
+    } ]
+  }
+}

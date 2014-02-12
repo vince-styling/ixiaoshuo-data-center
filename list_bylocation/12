@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 12,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3534,
+      "name" : "风起翼翔雪牵洛楹",
+      "updateStatus" : 1,
+      "distance" : 9135,
+      "memberId" : 1455
+    }, {
+      "id" : 2881,
+      "name" : "豪门：公主不愁嫁",
+      "updateStatus" : 1,
+      "distance" : 3922,
+      "memberId" : 7613
+    }, {
+      "id" : 2221,
+      "name" : "七星北斗PLOUGH",
+      "updateStatus" : 1,
+      "distance" : 6879,
+      "memberId" : 6291
+    }, {
+      "id" : 2444,
+      "name" : "花开花败，半夏未眠",
+      "updateStatus" : 1,
+      "distance" : 5550,
+      "memberId" : 2150
+    }, {
+      "id" : 2739,
+      "name" : "紫色涅槃",
+      "updateStatus" : 1,
+      "distance" : 5928,
+      "memberId" : 8222
+    }, {
+      "id" : 2650,
+      "name" : "我要稳稳的幸福",
+      "updateStatus" : 1,
+      "distance" : 6031,
+      "memberId" : 5371
+    }, {
+      "id" : 2508,
+      "name" : "剑神？不是吧",
+      "updateStatus" : 1,
+      "distance" : 3774,
+      "memberId" : 7305
+    }, {
+      "id" : 3281,
+      "name" : "烈火柔情",
+      "updateStatus" : 1,
+      "distance" : 730,
+      "memberId" : 1695
+    }, {
+      "id" : 2276,
+      "name" : "皇上坏坏：爱妃该睡觉了",
+      "updateStatus" : 1,
+      "distance" : 3277,
+      "memberId" : 4320
+    }, {
+      "id" : 2210,
+      "name" : "神魔罗曼史",
+      "updateStatus" : 1,
+      "distance" : 4996,
+      "memberId" : 8889
+    }, {
+      "id" : 2072,
+      "name" : "绝色医仙：迫嫁公主绝情帝",
+      "updateStatus" : 2,
+      "distance" : 1797,
+      "memberId" : 8884
+    }, {
+      "id" : 3330,
+      "name" : "璃心love",
+      "updateStatus" : 1,
+      "distance" : 8192,
+      "memberId" : 3987
+    }, {
+      "id" : 3659,
+      "name" : "回头，爱还在原地等你",
+      "updateStatus" : 1,
+      "distance" : 4603,
+      "memberId" : 5205
+    }, {
+      "id" : 2125,
+      "name" : "恨海情天",
+      "updateStatus" : 1,
+      "distance" : 583,
+      "memberId" : 8546
+    }, {
+      "id" : 2070,
+      "name" : "最后一个情人",
+      "updateStatus" : 2,
+      "distance" : 7524,
+      "memberId" : 2035
+    }, {
+      "id" : 3415,
+      "name" : "黑道老大的冷酷男友",
+      "updateStatus" : 1,
+      "distance" : 9085,
+      "memberId" : 4151
+    }, {
+      "id" : 2347,
+      "name" : "绝配主仆",
+      "updateStatus" : 1,
+      "distance" : 6569,
+      "memberId" : 2632
+    }, {
+      "id" : 3721,
+      "name" : "这个是妖精大人",
+      "updateStatus" : 1,
+      "distance" : 6679,
+      "memberId" : 4445
+    }, {
+      "id" : 2362,
+      "name" : "青春小夜曲",
+      "updateStatus" : 2,
+      "distance" : 1006,
+      "memberId" : 6059
+    }, {
+      "id" : 2043,
+      "name" : "彼岸繁花落",
+      "updateStatus" : 1,
+      "distance" : 2480,
+      "memberId" : 3612
+    } ]
+  }
+}

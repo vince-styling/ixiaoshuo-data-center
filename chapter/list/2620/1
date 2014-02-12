@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 3060,
+      "title" : "第一章 我没那么挫",
+      "capacity" : 3019
+    }, {
+      "id" : 3061,
+      "title" : "第二章 尼玛这么吊",
+      "capacity" : 3354
+    }, {
+      "id" : 3062,
+      "title" : "第三章 能说会道的邵东",
+      "capacity" : 5182
+    } ]
+  }
+}

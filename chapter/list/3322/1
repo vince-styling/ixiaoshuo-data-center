@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 2177,
+      "title" : "临前夜晚",
+      "capacity" : 3219
+    }, {
+      "id" : 2178,
+      "title" : "彻底无语",
+      "capacity" : 3593
+    }, {
+      "id" : 2179,
+      "title" : "灵魂走失",
+      "capacity" : 3047
+    }, {
+      "id" : 2180,
+      "title" : "大吃一惊",
+      "capacity" : 3705
+    }, {
+      "id" : 2181,
+      "title" : "原来如此",
+      "capacity" : 3062
+    }, {
+      "id" : 2182,
+      "title" : "出身平凡",
+      "capacity" : 3167
+    } ]
+  }
+}

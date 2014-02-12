@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 2201,
+      "title" : "第四十八章 消息",
+      "capacity" : 6507
+    }, {
+      "id" : 2202,
+      "title" : "第四十九章 冲击",
+      "capacity" : 6198
+    } ]
+  }
+}

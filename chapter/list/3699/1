@@ -1,0 +1,166 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 39,
+    "list" : [ {
+      "id" : 1521,
+      "title" : "第1章",
+      "capacity" : 4377
+    }, {
+      "id" : 1522,
+      "title" : "第2章",
+      "capacity" : 4117
+    }, {
+      "id" : 1523,
+      "title" : "第3章",
+      "capacity" : 4463
+    }, {
+      "id" : 1524,
+      "title" : "第4章",
+      "capacity" : 4716
+    }, {
+      "id" : 1525,
+      "title" : "第5章",
+      "capacity" : 4176
+    }, {
+      "id" : 1526,
+      "title" : "第6章",
+      "capacity" : 6432
+    }, {
+      "id" : 1527,
+      "title" : "第7章",
+      "capacity" : 6219
+    }, {
+      "id" : 1528,
+      "title" : "第8章",
+      "capacity" : 4492
+    }, {
+      "id" : 1529,
+      "title" : "第9章",
+      "capacity" : 3726
+    }, {
+      "id" : 1530,
+      "title" : "第10章",
+      "capacity" : 5409
+    }, {
+      "id" : 1531,
+      "title" : "第11章 番外1",
+      "capacity" : 3791
+    }, {
+      "id" : 1532,
+      "title" : "第12章",
+      "capacity" : 4668
+    }, {
+      "id" : 1533,
+      "title" : "第13章",
+      "capacity" : 7594
+    }, {
+      "id" : 1534,
+      "title" : "第14章",
+      "capacity" : 3985
+    }, {
+      "id" : 1535,
+      "title" : "第15章",
+      "capacity" : 4064
+    }, {
+      "id" : 1536,
+      "title" : "第16章",
+      "capacity" : 5833
+    }, {
+      "id" : 1537,
+      "title" : "第17章",
+      "capacity" : 4686
+    }, {
+      "id" : 1538,
+      "title" : "第18章",
+      "capacity" : 3621
+    }, {
+      "id" : 1539,
+      "title" : "第19章",
+      "capacity" : 4838
+    }, {
+      "id" : 1540,
+      "title" : "第20章",
+      "capacity" : 3484
+    }, {
+      "id" : 1541,
+      "title" : "第21章",
+      "capacity" : 5417
+    }, {
+      "id" : 1542,
+      "title" : "第22章",
+      "capacity" : 3745
+    }, {
+      "id" : 1543,
+      "title" : "第23章",
+      "capacity" : 6234
+    }, {
+      "id" : 1544,
+      "title" : "第24章",
+      "capacity" : 4513
+    }, {
+      "id" : 1545,
+      "title" : "第25章",
+      "capacity" : 9343
+    }, {
+      "id" : 1546,
+      "title" : "第26章",
+      "capacity" : 5817
+    }, {
+      "id" : 1547,
+      "title" : "第27章",
+      "capacity" : 5880
+    }, {
+      "id" : 1548,
+      "title" : "第28章",
+      "capacity" : 5746
+    }, {
+      "id" : 1549,
+      "title" : "第29章",
+      "capacity" : 5745
+    }, {
+      "id" : 1550,
+      "title" : "第30章",
+      "capacity" : 7150
+    }, {
+      "id" : 1551,
+      "title" : "第31章",
+      "capacity" : 6929
+    }, {
+      "id" : 1552,
+      "title" : "第32章",
+      "capacity" : 4231
+    }, {
+      "id" : 1553,
+      "title" : "第33章 番外（2）福全出征",
+      "capacity" : 4836
+    }, {
+      "id" : 1554,
+      "title" : "第34章",
+      "capacity" : 6065
+    }, {
+      "id" : 1555,
+      "title" : "第35章",
+      "capacity" : 6389
+    }, {
+      "id" : 1556,
+      "title" : "第36章",
+      "capacity" : 8640
+    }, {
+      "id" : 1557,
+      "title" : "第37章",
+      "capacity" : 7310
+    }, {
+      "id" : 1558,
+      "title" : "第38章",
+      "capacity" : 5606
+    }, {
+      "id" : 1559,
+      "title" : "第39章",
+      "capacity" : 4765
+    } ]
+  }
+}

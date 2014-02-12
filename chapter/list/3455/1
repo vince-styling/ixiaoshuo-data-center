@@ -1,0 +1,94 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 21,
+    "list" : [ {
+      "id" : 1483,
+      "title" : "第一章 传说有个他",
+      "capacity" : 6307
+    }, {
+      "id" : 1484,
+      "title" : "第二章 燕荽",
+      "capacity" : 6371
+    }, {
+      "id" : 1485,
+      "title" : "第三章 遇见",
+      "capacity" : 6428
+    }, {
+      "id" : 1486,
+      "title" : "第四章 遇见2",
+      "capacity" : 6175
+    }, {
+      "id" : 1487,
+      "title" : "第五章 入住",
+      "capacity" : 6321
+    }, {
+      "id" : 1488,
+      "title" : "第六章 二人行",
+      "capacity" : 6139
+    }, {
+      "id" : 1489,
+      "title" : "第七章 桃花节",
+      "capacity" : 6295
+    }, {
+      "id" : 1490,
+      "title" : "第八章 宝",
+      "capacity" : 5965
+    }, {
+      "id" : 1491,
+      "title" : "第九章 红衣",
+      "capacity" : 6029
+    }, {
+      "id" : 1492,
+      "title" : "第十章 画",
+      "capacity" : 6258
+    }, {
+      "id" : 1493,
+      "title" : "第十一章 相信",
+      "capacity" : 6052
+    }, {
+      "id" : 1494,
+      "title" : "第十二章 花非花",
+      "capacity" : 6103
+    }, {
+      "id" : 1495,
+      "title" : "第十三章 相思引",
+      "capacity" : 6005
+    }, {
+      "id" : 1496,
+      "title" : "第十四章 不服",
+      "capacity" : 6048
+    }, {
+      "id" : 1497,
+      "title" : "第十五章 无华公子（1）",
+      "capacity" : 6277
+    }, {
+      "id" : 1498,
+      "title" : "第十六章 无华公子（2）",
+      "capacity" : 5824
+    }, {
+      "id" : 1499,
+      "title" : "第十七章 变",
+      "capacity" : 5794
+    }, {
+      "id" : 1500,
+      "title" : "第十八章 赠画",
+      "capacity" : 6390
+    }, {
+      "id" : 1501,
+      "title" : "第十九章 侮辱",
+      "capacity" : 5697
+    }, {
+      "id" : 1502,
+      "title" : "第二十章 收服",
+      "capacity" : 5725
+    }, {
+      "id" : 1503,
+      "title" : "第二十一章 景行赏诗",
+      "capacity" : 6091
+    } ]
+  }
+}

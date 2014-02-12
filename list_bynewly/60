@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 60,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3232,
+      "name" : "怨回纥歌",
+      "summary" : "白首南朝女，愁听异域歌。素手清颜之女，恶人雪魔之徒。她仅仅是一个需要关心的孩子，希望那幼年时对自己最",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_5299.jpg",
+      "updateStatus" : 1,
+      "capacity" : 16752,
+      "lastUpdateTime" : "2013-12-02 00:58:47"
+    }, {
+      "id" : 3331,
+      "name" : "武警婚约之山东佳人",
+      "summary" : "神秘，偶热，仰慕，暗恋这一路发展下来，似乎都是冥冥中注定的。这一切最终形成了婚约。林刚心中的山东佳人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45330.jpg",
+      "updateStatus" : 1,
+      "capacity" : 29299,
+      "lastUpdateTime" : "2013-12-01 23:09:33"
+    }, {
+      "id" : 2748,
+      "name" : "如果邂逅",
+      "summary" : "她：这种爱，是前所未有的。可是，我无法面对。对不起。我们的面前，永远都有障碍，永远都不可能顺利。还不",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47505.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2051379,
+      "lastUpdateTime" : "2013-12-01 22:24:08"
+    }, {
+      "id" : 2778,
+      "name" : "东山剑",
+      "summary" : "嗣圣元年二月，即公元六百八十四年，武则天废中宗李显为庐陵王，立睿宗李旦为帝，改元光宅。凡大小一切政事",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 4929793,
+      "lastUpdateTime" : "2013-12-01 22:16:31"
+    }, {
+      "id" : 3036,
+      "name" : "此生堪华年",
+      "summary" : "讨论群：136841081她从小凌落在外，好不容易有一个安身之地却被人强行取入家中。她不懂爱，不敢爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22110.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6948417,
+      "lastUpdateTime" : "2013-12-01 21:52:46"
+    }, {
+      "id" : 2469,
+      "name" : "盗墓诡迹",
+      "summary" : "一个笔记本、一枚古币引来一段盗墓传奇。传说中的木匠机关之祖鲁班、消失的古蜀国、千年前夜郎自大的夜郎国",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16599.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4392289,
+      "lastUpdateTime" : "2013-12-01 21:26:03"
+    }, {
+      "id" : 3399,
+      "name" : "太子殿下，不爱请休妻",
+      "summary" : "“你们活着太累了，让我来帮你结束吧。”她，一个在21世纪无情的职业杀手，什么大风大浪没见过，可是，在",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47598.jpg",
+      "updateStatus" : 1,
+      "capacity" : 38545,
+      "lastUpdateTime" : "2013-12-01 21:10:41"
+    }, {
+      "id" : 2784,
+      "name" : "恶魔少爷伪天使",
+      "summary" : "她..本是一个善良、温柔得像天使一般的女孩..可当她失去她生命当中最重要的人时..她变了..而他..",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41589.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5806166,
+      "lastUpdateTime" : "2013-12-01 20:45:36"
+    }, {
+      "id" : 3257,
+      "name" : "相思引，魔王的羁绊",
+      "summary" : "他，为了她，打破仙魔平衡，甘愿堕入轮回，生生世世生活在被诅咒的深渊永不得回转。她，为了他，宁愿放弃一",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20152.jpg",
+      "updateStatus" : 1,
+      "capacity" : 675620,
+      "lastUpdateTime" : "2013-12-01 20:32:24"
+    }, {
+      "id" : 2294,
+      "name" : "颠沛流离",
+      "summary" : "二十一世纪的女特工，执行任务时不幸坠落万丈深渊，在之前有过一段刻骨铭心的爱情却没有结果，她很幸运投胎",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47604.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9907360,
+      "lastUpdateTime" : "2013-12-01 20:32:18"
+    }, {
+      "id" : 3033,
+      "name" : "惊尘梦：冷情女子惑情夫",
+      "summary" : "她是纭庄庄主之女，聪灵慧黠，妖娆姽婳，却也淡漠隐忍，通透冷情他是泫溟山庄少庄主，卓尔不凡，温润如风，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45429.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6967848,
+      "lastUpdateTime" : "2013-12-01 20:12:58"
+    }, {
+      "id" : 3116,
+      "name" : "乱剑源德之九狱之书",
+      "summary" : "在世界的某个角落，存在着这样一个大陆：源德大陆。这个角落无人知晓它的秘密，更无人知晓它的存在。他和她",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47965.jpg",
+      "updateStatus" : 1,
+      "capacity" : 211079,
+      "lastUpdateTime" : "2013-12-01 20:07:40"
+    }, {
+      "id" : 2489,
+      "name" : "雪落的声音",
+      "summary" : "“我听见像是雪落的声音，一回头，是你从天而降。”“雪音，我说过，这可以是现实。”“这也是你的游戏吗？",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47010.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6383580,
+      "lastUpdateTime" : "2013-12-01 19:58:05"
+    }, {
+      "id" : 2539,
+      "name" : "沙漏时光",
+      "summary" : "“喜欢就是看到她开心你也开心，看到她难过你也难过；看到她的笑容会恨不得让时间永远静止，看到她的泪水会",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44862.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6539472,
+      "lastUpdateTime" : "2013-12-01 19:15:55"
+    }, {
+      "id" : 2615,
+      "name" : "皇妃传",
+      "summary" : "皇帝选秀，不得不去。明哲保身，身不由己。害人之心不可有，防人之心不可无，却是防不胜防。明剑易躲，暗箭",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46398.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1832582,
+      "lastUpdateTime" : "2013-12-01 18:11:53"
+    }, {
+      "id" : 2599,
+      "name" : "流年何处飞花去",
+      "summary" : "她说，他们皆是书法。他是她心中的行书，婉转温柔却不乏霸道王气。她为他清歌一曲，只因他名里有歌。他醉她",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47835.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3909934,
+      "lastUpdateTime" : "2013-12-01 15:46:04"
+    }, {
+      "id" : 2723,
+      "name" : "宝贝我宠你",
+      "summary" : "上一世：她，欧阳墨璃虽出生名门却得不到亲人的一丝疼爱，整日为家族劳累奋斗，她为的是什么，一场意外让她",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47322.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1941879,
+      "lastUpdateTime" : "2013-12-01 14:41:31"
+    }, {
+      "id" : 2328,
+      "name" : "江山美男归我管",
+      "summary" : "五百年来，华国流传这样一则传说：“女从异世来，是为圣女，有治世之能，必将一统东西，再创华国盛世！”她",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44860.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6772871,
+      "lastUpdateTime" : "2013-12-01 14:31:46"
+    }, {
+      "id" : 2493,
+      "name" : "救个男友回家过关",
+      "summary" : "青春、亮丽、一身好武艺，农家辣妹椰岛打拼，创造了让人羡慕的财富……文弱、睿智，股市高手，富家子弟因爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15777.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1010948,
+      "lastUpdateTime" : "2013-12-01 13:38:01"
+    }, {
+      "id" : 2995,
+      "name" : "《魔武乱世》",
+      "summary" : "神族不明原因的死亡，十大家族各怀鬼胎，不再被本家保护的刘魂星和李风、谢冰等人还有他们妻子走上了自己不",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 4750422,
+      "lastUpdateTime" : "2013-12-01 09:51:21"
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 1169,
+      "title" : "第一章：疯狂的欲望",
+      "capacity" : 5356
+    }, {
+      "id" : 1170,
+      "title" : "第二章：欲后，怅然若失",
+      "capacity" : 7320
+    }, {
+      "id" : 1171,
+      "title" : "第三章：小三别嚣张",
+      "capacity" : 8094
+    }, {
+      "id" : 1172,
+      "title" : "第四章：老总的女人飞了",
+      "capacity" : 11109
+    }, {
+      "id" : 1173,
+      "title" : "第五章：清纯的处女",
+      "capacity" : 8079
+    }, {
+      "id" : 1174,
+      "title" : "第六章：有东西在体内蔓延",
+      "capacity" : 7307
+    }, {
+      "id" : 1175,
+      "title" : "第七章：老总遇上女员工",
+      "capacity" : 11488
+    }, {
+      "id" : 1176,
+      "title" : "第八章：原来是美人计",
+      "capacity" : 12104
+    }, {
+      "id" : 1177,
+      "title" : "第九章：一份孤情一份事业",
+      "capacity" : 9036
+    } ]
+  }
+}

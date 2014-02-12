@@ -1,0 +1,74 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 16,
+    "list" : [ {
+      "id" : 3975,
+      "title" : "第一章：魂渡忘川1",
+      "capacity" : 9166
+    }, {
+      "id" : 3976,
+      "title" : "第二章：魂渡忘川2",
+      "capacity" : 13200
+    }, {
+      "id" : 3977,
+      "title" : "第三章：待嫁新娘",
+      "capacity" : 10866
+    }, {
+      "id" : 3978,
+      "title" : "第四章：再遇萧祁1",
+      "capacity" : 8023
+    }, {
+      "id" : 3979,
+      "title" : "第五章：再遇萧祁2",
+      "capacity" : 8845
+    }, {
+      "id" : 3980,
+      "title" : "第六章：再遇萧祁3",
+      "capacity" : 7966
+    }, {
+      "id" : 3981,
+      "title" : "第七章：凤家栖梧",
+      "capacity" : 11603
+    }, {
+      "id" : 3982,
+      "title" : "第八章：分离",
+      "capacity" : 6726
+    }, {
+      "id" : 3983,
+      "title" : "第九章：分离2",
+      "capacity" : 6341
+    }, {
+      "id" : 3984,
+      "title" : "第十章：出征",
+      "capacity" : 9328
+    }, {
+      "id" : 3985,
+      "title" : "第十一章：出征2",
+      "capacity" : 7480
+    }, {
+      "id" : 3986,
+      "title" : "第十二章：出征3",
+      "capacity" : 12421
+    }, {
+      "id" : 3987,
+      "title" : "第十三章：出征4",
+      "capacity" : 9287
+    }, {
+      "id" : 3988,
+      "title" : "第十四：新的篇章",
+      "capacity" : 8161
+    }, {
+      "id" : 3989,
+      "title" : "第十五章：天师神隐",
+      "capacity" : 5560
+    }, {
+      "id" : 3990,
+      "title" : "第十六章：天玄宝鉴",
+      "capacity" : 5008
+    } ]
+  }
+}

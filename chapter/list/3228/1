@@ -1,0 +1,94 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 21,
+    "list" : [ {
+      "id" : 3293,
+      "title" : "第一章：少年奇遇",
+      "capacity" : 9555
+    }, {
+      "id" : 3294,
+      "title" : "第二章：黑洞内丹",
+      "capacity" : 6407
+    }, {
+      "id" : 3295,
+      "title" : "第三章：力量全失",
+      "capacity" : 7099
+    }, {
+      "id" : 3296,
+      "title" : "第四章：举手投足",
+      "capacity" : 7735
+    }, {
+      "id" : 3297,
+      "title" : "第五章：祸事突起",
+      "capacity" : 6366
+    }, {
+      "id" : 3298,
+      "title" : "第六章：唯一活路",
+      "capacity" : 7143
+    }, {
+      "id" : 3299,
+      "title" : "第七章：概念说明",
+      "capacity" : 6463
+    }, {
+      "id" : 3300,
+      "title" : "第八章：决斗台上",
+      "capacity" : 6448
+    }, {
+      "id" : 3301,
+      "title" : "第九章：意外收场",
+      "capacity" : 7484
+    }, {
+      "id" : 3302,
+      "title" : "第十章：一老一小",
+      "capacity" : 6423
+    }, {
+      "id" : 3303,
+      "title" : "第十一章：息事宁人",
+      "capacity" : 6047
+    }, {
+      "id" : 3304,
+      "title" : "第十二章：异能内丹",
+      "capacity" : 6316
+    }, {
+      "id" : 3305,
+      "title" : "第十三章：职业考核",
+      "capacity" : 9430
+    }, {
+      "id" : 3306,
+      "title" : "第十四章：五行元素",
+      "capacity" : 9801
+    }, {
+      "id" : 3307,
+      "title" : "第十五章：最后一关",
+      "capacity" : 10053
+    }, {
+      "id" : 3308,
+      "title" : "第十六章：二次对战",
+      "capacity" : 8818
+    }, {
+      "id" : 3309,
+      "title" : "第十七章：马强小传",
+      "capacity" : 9107
+    }, {
+      "id" : 3310,
+      "title" : "第十八章：过往恩怨",
+      "capacity" : 9254
+    }, {
+      "id" : 3311,
+      "title" : "第十九章：修炼之地",
+      "capacity" : 7183
+    }, {
+      "id" : 3312,
+      "title" : "第二十章：神机妙算",
+      "capacity" : 7243
+    }, {
+      "id" : 3313,
+      "title" : "第二十一章：两两对战",
+      "capacity" : 6248
+    } ]
+  }
+}

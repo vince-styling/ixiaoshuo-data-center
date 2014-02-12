@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 67,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2814,
+      "name" : "小市民",
+      "updateStatus" : 1,
+      "distance" : 2826,
+      "memberId" : 8109
+    }, {
+      "id" : 2837,
+      "name" : "临清一梦",
+      "updateStatus" : 1,
+      "distance" : 8066,
+      "memberId" : 1664
+    }, {
+      "id" : 2725,
+      "name" : "高富帅，统统趴下",
+      "updateStatus" : 1,
+      "distance" : 5612,
+      "memberId" : 6727
+    }, {
+      "id" : 3412,
+      "name" : "请在原地等等我",
+      "updateStatus" : 1,
+      "distance" : 4127,
+      "memberId" : 1367
+    }, {
+      "id" : 2380,
+      "name" : "执手深爱",
+      "updateStatus" : 1,
+      "distance" : 8788,
+      "memberId" : 6929
+    }, {
+      "id" : 3490,
+      "name" : "舍友是公主大人",
+      "updateStatus" : 1,
+      "distance" : 5949,
+      "memberId" : 7009
+    }, {
+      "id" : 2959,
+      "name" : "是现实太现实之面具",
+      "updateStatus" : 1,
+      "distance" : 7334,
+      "memberId" : 6281
+    }, {
+      "id" : 2414,
+      "name" : "寻爱之旅",
+      "updateStatus" : 2,
+      "distance" : 7456,
+      "memberId" : 2852
+    }, {
+      "id" : 3540,
+      "name" : "银魂王妃",
+      "updateStatus" : 1,
+      "distance" : 7802,
+      "memberId" : 2922
+    }, {
+      "id" : 2211,
+      "name" : "神魂锁炼",
+      "updateStatus" : 1,
+      "distance" : 6187,
+      "memberId" : 7899
+    }, {
+      "id" : 3504,
+      "name" : "《心惜之落雪之殇》",
+      "updateStatus" : 1,
+      "distance" : 1174,
+      "memberId" : 5754
+    }, {
+      "id" : 2249,
+      "name" : "古代求生记",
+      "updateStatus" : 2,
+      "distance" : 5268,
+      "memberId" : 4430
+    }, {
+      "id" : 3507,
+      "name" : "血雨腥风恩仇录",
+      "updateStatus" : 1,
+      "distance" : 3503,
+      "memberId" : 3809
+    }, {
+      "id" : 2068,
+      "name" : "红妆无忧",
+      "updateStatus" : 1,
+      "distance" : 5448,
+      "memberId" : 8491
+    }, {
+      "id" : 3529,
+      "name" : "黑道少女",
+      "updateStatus" : 1,
+      "distance" : 4392,
+      "memberId" : 2876
+    }, {
+      "id" : 2335,
+      "name" : "穿越之我的精彩人生",
+      "updateStatus" : 1,
+      "distance" : 6813,
+      "memberId" : 3540
+    }, {
+      "id" : 3590,
+      "name" : "劳什子学院",
+      "updateStatus" : 1,
+      "distance" : 5934,
+      "memberId" : 8270
+    }, {
+      "id" : 2353,
+      "name" : "攻前辈的作战",
+      "updateStatus" : 1,
+      "distance" : 8419,
+      "memberId" : 7330
+    }, {
+      "id" : 3593,
+      "name" : "锦春",
+      "updateStatus" : 1,
+      "distance" : 7792,
+      "memberId" : 1605
+    }, {
+      "id" : 3446,
+      "name" : "本草纲目",
+      "updateStatus" : 1,
+      "distance" : 976,
+      "memberId" : 5249
+    } ]
+  }
+}

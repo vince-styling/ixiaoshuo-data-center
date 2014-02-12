@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 3758,
+      "title" : "第一章：搭顺风车",
+      "capacity" : 8455
+    }, {
+      "id" : 3759,
+      "title" : "第二章：兄弟之间要相亲相爱",
+      "capacity" : 7634
+    }, {
+      "id" : 3760,
+      "title" : "第三章：嘉怡鲜食馆",
+      "capacity" : 9088
+    }, {
+      "id" : 3761,
+      "title" : "第四章：冰山大叔的守护伊始",
+      "capacity" : 9177
+    }, {
+      "id" : 3762,
+      "title" : "第五章：脑子有问题？",
+      "capacity" : 8207
+    } ]
+  }
+}

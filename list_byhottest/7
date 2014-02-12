@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 7,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2737,
+      "name" : "醉清狂",
+      "coverUrl" : "",
+      "summary" : "出自李商隐的《无题》：“直道相思了无益，未妨惆怅是清狂。“清狂”，非“轻狂”，指痴情的意思。吴琦莫名",
+      "updateStatus" : 1,
+      "capacity" : 6052002,
+      "readerCount" : 16309
+    }, {
+      "id" : 2109,
+      "name" : "开门迎客",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15442.jpg",
+      "summary" : "为什么要选择我？洛晚昔经常蹲在门槛上问老天。我不过是随地大小便了，您这算是惩罚我么？我生活美满幸福自",
+      "updateStatus" : 1,
+      "capacity" : 2263926,
+      "readerCount" : 16306
+    }, {
+      "id" : 2155,
+      "name" : "古剑情韵之花神泪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45568.jpg",
+      "summary" : "人生有三苦，怨憎会、爱别离、求不得。前世今生，爱恨嗔痴。容华谢后，铅华褪尽，却只剩下没有结局的结局。",
+      "updateStatus" : 1,
+      "capacity" : 5342215,
+      "readerCount" : 16295
+    }, {
+      "id" : 2619,
+      "name" : "天价蓝颜",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46775.jpg",
+      "summary" : "一次心血来潮，一场震惊世人的蓝颜招聘，一纸协议，他，成为她用一亿招来的的天价蓝颜。他是风靡整个云京的",
+      "updateStatus" : 1,
+      "capacity" : 3236142,
+      "readerCount" : 16289
+    }, {
+      "id" : 2345,
+      "name" : "一顾倾城-明星文",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45557.jpg",
+      "summary" : "顾倾用了十三年的时间创造了一个神话，在娱乐圈他绝不是最好看的，只能说算是清秀，但就是这样的少年一步一",
+      "updateStatus" : 1,
+      "capacity" : 2011453,
+      "readerCount" : 16264
+    }, {
+      "id" : 2846,
+      "name" : "疯子的大学生活",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42057.jpg",
+      "summary" : "每个人的青春，终逃不过一场情事。不论爱情，亲情，抑或友情。每个人的大学，也都避不开一段二逼的故事，一",
+      "updateStatus" : 1,
+      "capacity" : 8006827,
+      "readerCount" : 16238
+    }, {
+      "id" : 2181,
+      "name" : "荆棘路之异界荆棘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45546.jpg",
+      "summary" : "浩瀚宇宙，无边无涯，红尘漂泊一世，任你才华横溢，百年后也不过一抔黄土；纵你倾国倾城，到最后也只剩红粉",
+      "updateStatus" : 1,
+      "capacity" : 9443890,
+      "readerCount" : 16134
+    }, {
+      "id" : 2888,
+      "name" : "分生",
+      "coverUrl" : "",
+      "summary" : "不同的时空，不同的故事，不同的悲喜，不同的两段人生，却在冥冥中有了交叉，这短短的交集却足以改变两段人",
+      "updateStatus" : 1,
+      "capacity" : 1062741,
+      "readerCount" : 16067
+    }, {
+      "id" : 2889,
+      "name" : "帅哥，麻烦给我一张果照",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44308.jpg",
+      "summary" : "莫筱歆看着眼前下身只围着一条浴巾的半祼男，鼻血飞流直下三千尺。“怎么，你爱上我了？”甩着一头湿湿的中",
+      "updateStatus" : 1,
+      "capacity" : 3320614,
+      "readerCount" : 16054
+    }, {
+      "id" : 2454,
+      "name" : "山村女鬼",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47679.jpg",
+      "summary" : "生前有怨气的人，死了以后都会把这口怨气吐出来，以保他们可以顺利的投胎转世，人世间有许许多多你不知道的",
+      "updateStatus" : 1,
+      "capacity" : 2106500,
+      "readerCount" : 16051
+    }, {
+      "id" : 2659,
+      "name" : "菜鸟，不怕不怕",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47536.jpg",
+      "summary" : "原以为大学毕业后，就能和男友过着甜美的日子，却没想到小小的好奇心带来大大的灾难，因为一次偷窥，她掉进",
+      "updateStatus" : 1,
+      "capacity" : 7802467,
+      "readerCount" : 16044
+    }, {
+      "id" : 2873,
+      "name" : "今辰",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20441.jpg",
+      "summary" : "八年后再次相遇，叶辰是顶着T市副市的光环重新进入程敛今的生命，也打破了程敛今原来平静的生活。叶辰自始",
+      "updateStatus" : 1,
+      "capacity" : 5878562,
+      "readerCount" : 16014
+    }, {
+      "id" : 2924,
+      "name" : "幻想彩虹",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46526.jpg",
+      "summary" : "三个不同身份学历的美貌女子，三种不同的人生价值观，面对家庭事业和爱情，她们最终选择了什么。可菲掌管着",
+      "updateStatus" : 1,
+      "capacity" : 2883127,
+      "readerCount" : 16013
+    }, {
+      "id" : 2134,
+      "name" : "腹黑吸血鬼",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43816.jpg",
+      "summary" : "那湿湿的唇火烫的滚动在自己的肌肤上，胸口……脖子……耳后……手臂……开始漫及全身……一瞬间，休耶尔忘",
+      "updateStatus" : 1,
+      "capacity" : 3806806,
+      "readerCount" : 16010
+    }, {
+      "id" : 2870,
+      "name" : "爱情有多远",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47368.jpg",
+      "summary" : "如何让我遇见你，在我最美丽的时候。曾经苦苦追求着爱情，而爱到底离我们有多远，为何执着的心始终得不到想",
+      "updateStatus" : 1,
+      "capacity" : 4784457,
+      "readerCount" : 16007
+    }, {
+      "id" : 2831,
+      "name" : "待你温暖如光",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46720.jpg",
+      "summary" : "他穿着V领的灰色毛衣坐在沙发上看报，修长的双腿优雅的交叉。我很没底气的喃喃道“衣冠禽兽”他闻言抬头看",
+      "updateStatus" : 1,
+      "capacity" : 3745616,
+      "readerCount" : 15985
+    }, {
+      "id" : 2665,
+      "name" : "暗道，情回路",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47956.jpg",
+      "summary" : "刚退役的大学生兵哥严威毅然重返故地展开新的生活。一天他在往返住处途经一条巷道口时碰巧遇上一位正被黑道",
+      "updateStatus" : 1,
+      "capacity" : 8455324,
+      "readerCount" : 15952
+    }, {
+      "id" : 2185,
+      "name" : "丧尸之末日惊魂",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21842.jpg",
+      "summary" : "末日突临，丧尸席卷这个世界，尸横遍野，一位女大学生和朋友们为找控制区一路惊魂。千辛万苦找到的控制区，",
+      "updateStatus" : 1,
+      "capacity" : 6639189,
+      "readerCount" : 15917
+    }, {
+      "id" : 2442,
+      "name" : "峰回路转只见君",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47867.jpg",
+      "summary" : "作为一个宅女，萧潇说的最多的一句话就是——“三次元无爱，估计我这辈子是嫁不出去了，除非我硬盘里的二次",
+      "updateStatus" : 1,
+      "capacity" : 5107958,
+      "readerCount" : 15869
+    }, {
+      "id" : 2962,
+      "name" : "爱与时光终年不遇",
+      "coverUrl" : "",
+      "summary" : "五年前她没能带八岁的路鸣泽逃离那个晦暗的家,她悔恨终身也求不不敢求得原谅,可是她却遇到了苏子澄,偶然",
+      "updateStatus" : 1,
+      "capacity" : 6110950,
+      "readerCount" : 15841
+    } ]
+  }
+}

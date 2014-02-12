@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 37,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2500,
+      "name" : "给我的爱，柚子小姐",
+      "summary" : "大大咧咧的记者柚子对待爱情的态度如同她对待生活，潦草，随意，遇到爱情懵懂地迎上去，一次次失败后，突然",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 2551528,
+      "lastUpdateTime" : "2013-12-12 06:23:01"
+    }, {
+      "id" : 3480,
+      "name" : "妖传——岁与千陌",
+      "summary" : "妖三分而立，或百年。唯持珠者，引珠之万分，寄于阴柔之心，以血供之，待珠成之日，吞之，妖乃合。——上古",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 95151,
+      "lastUpdateTime" : "2013-12-12 05:37:10"
+    }, {
+      "id" : 2359,
+      "name" : "羽落殇心醉红尘",
+      "summary" : "白绫纱，青丝发，你眉目亦如画恍惚间，相望早已无话，心如麻千古月，付韶华，那一瞬成刹那逝年华，转身泪流",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21917.jpg",
+      "updateStatus" : 2,
+      "capacity" : 4324780,
+      "lastUpdateTime" : "2013-12-12 04:42:14"
+    }, {
+      "id" : 2350,
+      "name" : "蝶缘痴恋",
+      "summary" : "亡国之女为复仇兴国改变身份深入皇宫，并称为皇室的一份子，运用过人的胆识和计谋一步步搅得仇国朝纲混乱，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47789.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2925389,
+      "lastUpdateTime" : "2013-12-12 04:35:54"
+    }, {
+      "id" : 2743,
+      "name" : "青羽记",
+      "summary" : "家族守护神的美女继承人，拥有魔瞳的银发美少女，江湖第一捕的娇蛮妹妹，柔情似水的穷苦红颜，六扇门一代冷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15091.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1533338,
+      "lastUpdateTime" : "2013-12-12 04:25:53"
+    }, {
+      "id" : 2180,
+      "name" : "极品刀神",
+      "summary" : "五年练气，十年成刀，作为魔刀历史上最从容淡然也最成功的传人——丁当，他的人生竟然是如此曲折。从小是个",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47435.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2990553,
+      "lastUpdateTime" : "2013-12-12 03:50:14"
+    }, {
+      "id" : 3561,
+      "name" : "穿越之唯爱有你",
+      "summary" : "简介：你相信不相信世上会有缘分？你相信不相信世上会有奇迹？两个相爱的人因为一个误会，从此天各一方，他",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44941.jpg",
+      "updateStatus" : 1,
+      "capacity" : 49874,
+      "lastUpdateTime" : "2013-12-12 03:34:30"
+    }, {
+      "id" : 2167,
+      "name" : "妃同寻常：王爷接招吧",
+      "summary" : "缘分到时，冥冥中，总会相聚，他们俩之间的哀怨情仇，是是非非，让他们从此踏入世事的纷争，初遇时，星星闪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45239.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1813891,
+      "lastUpdateTime" : "2013-12-12 03:27:00"
+    }, {
+      "id" : 2379,
+      "name" : "观众也难做",
+      "summary" : "我不是玛丽苏，不是汤姆苏，没有什么远大志向，也不想让很多认为我疯狂，为我痴颠，我只是个普通人，不想陪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47306.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1530448,
+      "lastUpdateTime" : "2013-12-12 03:23:16"
+    }, {
+      "id" : 2732,
+      "name" : "至死不渝之搞怪王妃",
+      "summary" : "她，二十一世纪的超能才女，武术联盟的总冠军，竟在领奖时被一不明飞行物给砸穿越了，哎，叫她情以何堪不在",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22830.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4336962,
+      "lastUpdateTime" : "2013-12-12 03:18:45"
+    }, {
+      "id" : 3450,
+      "name" : "浮光",
+      "summary" : "我是带着传奇出生的小神女。我是背负着阴谋与利用的牺牲品。我是在亲情与爱情的折磨下被碾碎的五彩雪莲花。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18612.jpg",
+      "updateStatus" : 1,
+      "capacity" : 171299,
+      "lastUpdateTime" : "2013-12-12 01:41:11"
+    }, {
+      "id" : 2388,
+      "name" : "倾世执着",
+      "summary" : "一个内向的高中生，虽然已有不俗的来历，但仍旧有着一身的谜题！我是谁？我的真实是身份？为什么那多人对我",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16011.jpg",
+      "updateStatus" : 2,
+      "capacity" : 5913483,
+      "lastUpdateTime" : "2013-12-12 01:19:47"
+    }, {
+      "id" : 3341,
+      "name" : "生于暮晨死于暮歌",
+      "summary" : "她是幕歌，父母离异，孤身一人.....他是苏哲，家境良好，性格开朗.....她是温雅，不良少女，糜烂",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16577.jpg",
+      "updateStatus" : 1,
+      "capacity" : 179397,
+      "lastUpdateTime" : "2013-12-12 00:24:40"
+    }, {
+      "id" : 3106,
+      "name" : "被流放的女将军",
+      "summary" : "第一卷，女主在悠远院的故事。第二卷，女主离家出走的故事。第三卷，女主成为女将军的故事。第四卷，女主出",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17834.jpg",
+      "updateStatus" : 1,
+      "capacity" : 220835,
+      "lastUpdateTime" : "2013-12-12 00:22:24"
+    }, {
+      "id" : 3523,
+      "name" : "圣界天域",
+      "summary" : "天地之间，无数片空间相连。万千世界，演绎着一个又一个传奇！在这里，宗门林立，地盘分明，五大域执掌天地",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 1002784,
+      "lastUpdateTime" : "2013-12-12 00:21:28"
+    }, {
+      "id" : 3692,
+      "name" : "恶魔承传者",
+      "summary" : "自古成者王、败者寇，让我恶魔的拳头来告诉你。披着白衣服的光明信徒们！你们穿白衣并不代表光明，是因为你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_2037.jpg",
+      "updateStatus" : 1,
+      "capacity" : 181690,
+      "lastUpdateTime" : "2013-12-12 00:19:06"
+    }, {
+      "id" : 2942,
+      "name" : "手可摘星辰",
+      "summary" : "大概所有的人在何夏的生命里都是过客，可是路辰不是，他是永远。16岁那一年，她遇见他，此后的十年里，她",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46753.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5266471,
+      "lastUpdateTime" : "2013-12-11 23:45:24"
+    }, {
+      "id" : 3596,
+      "name" : "不要在一起",
+      "summary" : "“我觉得我可以立一块墓志铭。”“哦？”“跟我在一起之前，请做好七天之内被退货的准备。”“还是慢慢来吧",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 71442,
+      "lastUpdateTime" : "2013-12-11 23:37:12"
+    }, {
+      "id" : 3208,
+      "name" : "冥铭之国",
+      "summary" : "从虚拟的人造世界，恍惚踏入真实的魔法世界；从认识虚拟的人物，到认识真实的朋友；从神秘阴森的森林走出，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16378.jpg",
+      "updateStatus" : 1,
+      "capacity" : 810443,
+      "lastUpdateTime" : "2013-12-11 23:31:22"
+    }, {
+      "id" : 2319,
+      "name" : "绝代风华：魅惑帝王心",
+      "summary" : "【千景阁原创出品】她一场车祸，莫名其妙穿到一个架空年代，居然是一个开国大将军的庶女，母亲早死，爹爹不",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20981.jpg",
+      "updateStatus" : 2,
+      "capacity" : 9303636,
+      "lastUpdateTime" : "2013-12-11 23:11:06"
+    } ]
+  }
+}

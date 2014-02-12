@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 3813,
+      "title" : "第一章 初入凡尘",
+      "capacity" : 90925
+    }, {
+      "id" : 3814,
+      "title" : "第二章 初入凡尘",
+      "capacity" : 9326
+    }, {
+      "id" : 3815,
+      "title" : "第三章 初入凡尘",
+      "capacity" : 9312
+    } ]
+  }
+}

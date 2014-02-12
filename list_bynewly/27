@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 27,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2933,
+      "name" : "古尸奇缘",
+      "summary" : "伊人香消玉碎楼阁幽静迷香思绪飘渺，倩影袅袅，彷如柔骨伴膝上青丝挽君深处回眸梨花千行箫声凄凄，薄雨绵绵",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48025.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8851961,
+      "lastUpdateTime" : "2013-12-17 10:40:44"
+    }, {
+      "id" : 3686,
+      "name" : "美人谋：宠妃不贤良",
+      "summary" : "她一舞倾城，凭借着像极了母亲的眉眼，顺利地从宫女坐上了一宫主位，从此在后宫的阴谋诡计中，步步为营，如",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20092.jpg",
+      "updateStatus" : 1,
+      "capacity" : 830236,
+      "lastUpdateTime" : "2013-12-17 10:10:39"
+    }, {
+      "id" : 2825,
+      "name" : "相守时光中",
+      "summary" : "原以为不可能再在一起的两个人，没想到兜兜转转了那么多年却因为意外的相亲而再次起涟漪，到底他们是否能相",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45709.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4648535,
+      "lastUpdateTime" : "2013-12-17 09:20:03"
+    }, {
+      "id" : 3734,
+      "name" : "哈喽，我的间谍机器人王子",
+      "summary" : "天上会掉下来什么？鸟粪？雨滴？馅儿饼？错！天上会掉下来火箭！不是神舟七号、八号，是外星人的火箭！什么",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 43145,
+      "lastUpdateTime" : "2013-12-17 09:07:08"
+    }, {
+      "id" : 3380,
+      "name" : "彩虹下的承诺",
+      "summary" : "这是一个美丽的故事，它源于七仙女与董永这个古老的传说。七仙女与董永得土地牵线，槐树做媒，结为夫妻。七",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 381899,
+      "lastUpdateTime" : "2013-12-17 08:37:55"
+    }, {
+      "id" : 3210,
+      "name" : "自卑女孩的vip恋遇",
+      "summary" : "艾甚：“你长得很特别对我的胃口。”笑笑：“恩....你是在开玩笑，对吧？”孙翼莱：“我喜欢你跟我交往",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46621.jpg",
+      "updateStatus" : 1,
+      "capacity" : 310630,
+      "lastUpdateTime" : "2013-12-17 08:32:54"
+    }, {
+      "id" : 2456,
+      "name" : "亡灵归来",
+      "summary" : "一个人走路，你是否会感觉有谁跟着你？一个人在房间，你是否总觉得什么地方藏着谁？一个人带孩子，你是否会",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45544.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3104228,
+      "lastUpdateTime" : "2013-12-17 08:19:12"
+    }, {
+      "id" : 2935,
+      "name" : "双生迷爱",
+      "summary" : "她们是双胞胎，却因母亲的一己之欲，硬生生地被分开。她，善良，美丽，多情，浪漫，在家庭的欢迎会上，她却",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45676.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2545181,
+      "lastUpdateTime" : "2013-12-17 08:08:25"
+    }, {
+      "id" : 3431,
+      "name" : "修真女配混末世",
+      "summary" : "李巧玲从楼梯上摔下来后，再次醒来发现：自己竟然穿越成末世文里第一个被女主炮灰了的女配——曲苑。后来又",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46888.jpg",
+      "updateStatus" : 1,
+      "capacity" : 409529,
+      "lastUpdateTime" : "2013-12-17 07:32:15"
+    }, {
+      "id" : 2244,
+      "name" : "揽君心：宠姬有阴谋",
+      "summary" : "他是她要杀的人，也是引起她家破人亡的罪人，可是为她他一次次的妥协，差点成为背负千古骂名的帝王。她错把",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43088.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8751144,
+      "lastUpdateTime" : "2013-12-17 07:16:06"
+    }, {
+      "id" : 2686,
+      "name" : "罂粟：血蔷薇",
+      "summary" : "在那个弱肉强食的世界，能让自己活下去的只有力量。当看到同伴为了保护自己而被敌人残忍杀害的那一刹那，两",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21926.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9804112,
+      "lastUpdateTime" : "2013-12-17 06:51:03"
+    }, {
+      "id" : 3274,
+      "name" : "啼笑皆妃之妃比寻常",
+      "summary" : "金发蓝眸的某外国洋妞也赶上了一次穿越的小尾巴在封建的黑发世界某女那生活过的幸福的跟奥特曼打小怪兽一样",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42037.jpg",
+      "updateStatus" : 1,
+      "capacity" : 744290,
+      "lastUpdateTime" : "2013-12-17 06:44:53"
+    }, {
+      "id" : 3485,
+      "name" : "无良大盗：看好你丫的节操",
+      "summary" : "啷哩个啷……啷哩个啷……邪恶腹黑假善良，我是宇宙超级无敌可爱小纯良，春药随身装，珠玉夹板炕头藏。大叔",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15082.jpg",
+      "updateStatus" : 1,
+      "capacity" : 540847,
+      "lastUpdateTime" : "2013-12-17 06:22:03"
+    }, {
+      "id" : 3564,
+      "name" : "十二生肖女神的恋爱",
+      "summary" : "生肖鼠对应水瓶，五行属性水，守护星天王星，有个性的爱。生肖牛对应摩羯，五行属性土，守护星土星，孤独的",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 25503,
+      "lastUpdateTime" : "2013-12-17 06:12:20"
+    }, {
+      "id" : 2854,
+      "name" : "清音冷",
+      "summary" : "神秘的古域，一个守护者，一个秘密。他和她的初次相遇是这个古域中最美的城中。她和他的第二次相遇仍是这里",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15016.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9894707,
+      "lastUpdateTime" : "2013-12-17 04:50:44"
+    }, {
+      "id" : 3514,
+      "name" : "修罗决旨",
+      "summary" : "当黑与白碰撞出轮回的花火，潜藏于密林那眼深潭之下的《修罗决旨》召唤着野心膨胀的她。光之审判者带笑在生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45127.jpg",
+      "updateStatus" : 1,
+      "capacity" : 157337,
+      "lastUpdateTime" : "2013-12-17 03:53:33"
+    }, {
+      "id" : 3043,
+      "name" : "遇见安好",
+      "summary" : "安好泪流满面看着林遇平静得问：＂林遇，我对你好不好？”＂安好......＂林遇怔了怔伸手想抹掉她脸上",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 2163759,
+      "lastUpdateTime" : "2013-12-17 03:51:25"
+    }, {
+      "id" : 2141,
+      "name" : "一梦入混元",
+      "summary" : "狐不归本是洪荒中的小人物，他不想改变什么，他的目标只是能够活下去，然后回归自我。但是无数的波折，坎坷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_1854.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8047247,
+      "lastUpdateTime" : "2013-12-17 02:36:03"
+    }, {
+      "id" : 3048,
+      "name" : "白马枯叶总相依",
+      "summary" : "一次负伤，路遇若白和盛世康，待如烟伤复原后回城，却听得心爱之人婚事，他将另娶她人，如烟伤心离去，这时",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46155.jpg",
+      "updateStatus" : 1,
+      "capacity" : 675416,
+      "lastUpdateTime" : "2013-12-17 02:26:51"
+    }, {
+      "id" : 3206,
+      "name" : "霸情邪少：专宠小娇妻",
+      "summary" : "他如朝阳上迸发火红般炙热而又邪气难以靠近。她似夕阳下那片晕红般娇美而又飘渺无法接近。她孤身回国，带着",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47285.jpg",
+      "updateStatus" : 1,
+      "capacity" : 219149,
+      "lastUpdateTime" : "2013-12-17 02:14:55"
+    } ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 22,
+    "list" : [ {
+      "id" : 4087,
+      "title" : "第001章 变身",
+      "capacity" : 4140
+    }, {
+      "id" : 4088,
+      "title" : "第002章 麻烦的开始",
+      "capacity" : 4324
+    }, {
+      "id" : 4089,
+      "title" : "第003章 杨贵妃和赵飞燕",
+      "capacity" : 4170
+    }, {
+      "id" : 4090,
+      "title" : "第004章 见面礼",
+      "capacity" : 4983
+    }, {
+      "id" : 4091,
+      "title" : "第005章 初见老丈人",
+      "capacity" : 4128
+    }, {
+      "id" : 4092,
+      "title" : "第006章 给老丈人讲幸福",
+      "capacity" : 3699
+    }, {
+      "id" : 4093,
+      "title" : "第007章 吕婷安慰我",
+      "capacity" : 3169
+    }, {
+      "id" : 4094,
+      "title" : "第008章 岳父大人找上门",
+      "capacity" : 3235
+    }, {
+      "id" : 4095,
+      "title" : "第009章 我被岳父暴打",
+      "capacity" : 3625
+    }, {
+      "id" : 4096,
+      "title" : "第010章 去公安局",
+      "capacity" : 3027
+    }, {
+      "id" : 4097,
+      "title" : "第011章 站在爸爸一边",
+      "capacity" : 4070
+    }, {
+      "id" : 4098,
+      "title" : "第012章 摔镜子",
+      "capacity" : 3652
+    }, {
+      "id" : 4099,
+      "title" : "第013章 我怕失去",
+      "capacity" : 3963
+    }, {
+      "id" : 4100,
+      "title" : "第014章 吕婷提出分手",
+      "capacity" : 3242
+    }, {
+      "id" : 4101,
+      "title" : "第015章 抢银行",
+      "capacity" : 3567
+    }, {
+      "id" : 4102,
+      "title" : "第016章 陪我跳支舞",
+      "capacity" : 3975
+    }, {
+      "id" : 4103,
+      "title" : "第017章 初识摸吧女",
+      "capacity" : 3100
+    }, {
+      "id" : 4104,
+      "title" : "第018章 公平交易",
+      "capacity" : 3546
+    }, {
+      "id" : 4105,
+      "title" : "第019章 老婆大人请上车",
+      "capacity" : 3911
+    }, {
+      "id" : 4106,
+      "title" : "第020章 闯红灯",
+      "capacity" : 4036
+    }, {
+      "id" : 4107,
+      "title" : "第021章 你是来道歉的",
+      "capacity" : 4518
+    }, {
+      "id" : 4108,
+      "title" : "第022章 打张欠条给我",
+      "capacity" : 3819
+    } ]
+  }
+}

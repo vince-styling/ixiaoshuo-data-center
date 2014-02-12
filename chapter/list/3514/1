@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 4492,
+      "title" : "第一章 雪尘亚斯诺剑铺",
+      "capacity" : 5804
+    }, {
+      "id" : 4493,
+      "title" : "第二章 傜照的愿望",
+      "capacity" : 8522
+    }, {
+      "id" : 4494,
+      "title" : "第三章 给你钥匙，你也打不开我的心",
+      "capacity" : 7058
+    }, {
+      "id" : 4495,
+      "title" : "第四章 秦殇",
+      "capacity" : 7032
+    }, {
+      "id" : 4496,
+      "title" : "第五章 蓂雵：用这个，替我守护你",
+      "capacity" : 7395
+    }, {
+      "id" : 4497,
+      "title" : "第六章 大陆第四，软剑烈芜",
+      "capacity" : 7042
+    }, {
+      "id" : 4498,
+      "title" : "第七章 是不是我忘记告诉你，我是死人堆里爬出来的？",
+      "capacity" : 7591
+    }, {
+      "id" : 4499,
+      "title" : "第八章 妃灵舞：记得，要记得我",
+      "capacity" : 7221
+    }, {
+      "id" : 4500,
+      "title" : "第九章 北疆的毒瘤——‘夜不寐’城",
+      "capacity" : 7204
+    }, {
+      "id" : 4501,
+      "title" : "第十章 五大家族新一代精英汇合",
+      "capacity" : 7240
+    }, {
+      "id" : 4502,
+      "title" : "《修罗决旨·开世》",
+      "capacity" : 3163
+    } ]
+  }
+}

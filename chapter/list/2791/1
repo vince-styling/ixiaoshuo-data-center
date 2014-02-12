@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 4392,
+      "title" : "第001章：我叫陶倩",
+      "capacity" : 6813
+    }, {
+      "id" : 4393,
+      "title" : "第002章：踏上火车去徐州",
+      "capacity" : 8108
+    }, {
+      "id" : 4394,
+      "title" : "第003章：卧谈会",
+      "capacity" : 7354
+    }, {
+      "id" : 4395,
+      "title" : "第004章：我叫姜海",
+      "capacity" : 6698
+    }, {
+      "id" : 4396,
+      "title" : "第005章：文学院",
+      "capacity" : 7058
+    }, {
+      "id" : 4397,
+      "title" : "第006章 招新中的微笑",
+      "capacity" : 6513
+    }, {
+      "id" : 4398,
+      "title" : "第007章 爱乐社三大队长",
+      "capacity" : 6927
+    }, {
+      "id" : 4399,
+      "title" : "第008章 留下",
+      "capacity" : 6798
+    }, {
+      "id" : 4400,
+      "title" : "第009章 “啊——”",
+      "capacity" : 6475
+    }, {
+      "id" : 4401,
+      "title" : "第010章 检查身体",
+      "capacity" : 6447
+    }, {
+      "id" : 4402,
+      "title" : "第011章 打闹",
+      "capacity" : 6190
+    }, {
+      "id" : 4403,
+      "title" : "第012章 李师师的疯狂",
+      "capacity" : 6648
+    }, {
+      "id" : 4404,
+      "title" : "第013章 大破《清媚》",
+      "capacity" : 72
+    }, {
+      "id" : 4405,
+      "title" : "第014章 解释",
+      "capacity" : 6443
+    }, {
+      "id" : 4406,
+      "title" : "第015章 接引者的命运",
+      "capacity" : 6252
+    }, {
+      "id" : 4407,
+      "title" : "第016章 救治",
+      "capacity" : 6830
+    }, {
+      "id" : 4408,
+      "title" : "第017章 《小动拳法》",
+      "capacity" : 6095
+    }, {
+      "id" : 4409,
+      "title" : "第018章 我可以做客吗",
+      "capacity" : 6423
+    }, {
+      "id" : 4410,
+      "title" : "第019章 老妈的担忧",
+      "capacity" : 6620
+    }, {
+      "id" : 4411,
+      "title" : "第020章 搬家公司在行动",
+      "capacity" : 6238
+    }, {
+      "id" : 4412,
+      "title" : "第021章 抱头鼠窜",
+      "capacity" : 6213
+    }, {
+      "id" : 4413,
+      "title" : "第022章 我的家",
+      "capacity" : 6122
+    }, {
+      "id" : 4414,
+      "title" : "第023章 误解",
+      "capacity" : 6299
+    }, {
+      "id" : 4415,
+      "title" : "第024章 小齐",
+      "capacity" : 6177
+    }, {
+      "id" : 4416,
+      "title" : "第025章 拜托的事情",
+      "capacity" : 6218
+    }, {
+      "id" : 4417,
+      "title" : "第026章 小太妹虞美人",
+      "capacity" : 6223
+    }, {
+      "id" : 4418,
+      "title" : "第027章 这是见面礼",
+      "capacity" : 6258
+    }, {
+      "id" : 4419,
+      "title" : "第028章 震撼",
+      "capacity" : 6257
+    }, {
+      "id" : 4420,
+      "title" : "第029章 金屋",
+      "capacity" : 6548
+    }, {
+      "id" : 4421,
+      "title" : "第030章 摇号",
+      "capacity" : 6283
+    }, {
+      "id" : 4422,
+      "title" : "第031章 进入",
+      "capacity" : 6406
+    }, {
+      "id" : 4423,
+      "title" : "第032章 Third Programs",
+      "capacity" : 6399
+    }, {
+      "id" : 4424,
+      "title" : "第033章 客厅隐秘",
+      "capacity" : 6387
+    }, {
+      "id" : 4425,
+      "title" : "第034章 客厅惊变",
+      "capacity" : 6229
+    }, {
+      "id" : 4426,
+      "title" : "第035章 你是谁？",
+      "capacity" : 6357
+    }, {
+      "id" : 4427,
+      "title" : "第036章 体位的问题",
+      "capacity" : 6156
+    }, {
+      "id" : 4428,
+      "title" : "第037章 两千年前",
+      "capacity" : 6272
+    }, {
+      "id" : 4429,
+      "title" : "第038章 为你红妆",
+      "capacity" : 6380
+    }, {
+      "id" : 4430,
+      "title" : "第039章 八个都可能",
+      "capacity" : 6337
+    }, {
+      "id" : 4431,
+      "title" : "第040章 真假之辨",
+      "capacity" : 6080
+    }, {
+      "id" : 4432,
+      "title" : "第041章 一根中指",
+      "capacity" : 72
+    }, {
+      "id" : 4433,
+      "title" : "第042章 去沐浴",
+      "capacity" : 6182
+    }, {
+      "id" : 4434,
+      "title" : "第043章 沐浴",
+      "capacity" : 6161
+    }, {
+      "id" : 4435,
+      "title" : "第044章 两分钟一个秘密",
+      "capacity" : 6303
+    }, {
+      "id" : 4436,
+      "title" : "第045章 按摩",
+      "capacity" : 6477
+    }, {
+      "id" : 4437,
+      "title" : "第046章 作弊",
+      "capacity" : 6450
+    }, {
+      "id" : 4438,
+      "title" : "第047章 香消玉殒",
+      "capacity" : 6416
+    }, {
+      "id" : 4439,
+      "title" : "第048章 水落石未出",
+      "capacity" : 6152
+    }, {
+      "id" : 4440,
+      "title" : "第049章 见证奇迹",
+      "capacity" : 6615
+    }, {
+      "id" : 4441,
+      "title" : "第050章 烛光晚餐",
+      "capacity" : 6281
+    } ]
+  }
+}

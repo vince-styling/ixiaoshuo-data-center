@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 57,
+    "list" : [ {
+      "id" : 3042,
+      "title" : "第四十八章 离开沧溟入天下",
+      "capacity" : 6625
+    }, {
+      "id" : 3043,
+      "title" : "第一章 初入云海城",
+      "capacity" : 5464
+    }, {
+      "id" : 3044,
+      "title" : "第二章 美人救英雄",
+      "capacity" : 7040
+    }, {
+      "id" : 3045,
+      "title" : "第三章 勾搭取食物",
+      "capacity" : 7729
+    }, {
+      "id" : 3046,
+      "title" : "第四章 搜刮炼器师",
+      "capacity" : 8306
+    }, {
+      "id" : 3047,
+      "title" : "第五章 勇斗苍狼王",
+      "capacity" : 7660
+    }, {
+      "id" : 3048,
+      "title" : "第六章 荆城商世家",
+      "capacity" : 4843
+    } ]
+  }
+}

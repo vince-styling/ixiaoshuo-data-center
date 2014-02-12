@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 30,
+    "list" : [ {
+      "id" : 3993,
+      "title" : "1，楔子",
+      "capacity" : 4404
+    }, {
+      "id" : 3994,
+      "title" : ",2，穿越",
+      "capacity" : 3530
+    }, {
+      "id" : 3995,
+      "title" : ",3，黑暗中的眸子",
+      "capacity" : 3275
+    }, {
+      "id" : 3996,
+      "title" : ",4，蓝真的抉择",
+      "capacity" : 3509
+    }, {
+      "id" : 3997,
+      "title" : ",5，走进舞梅园",
+      "capacity" : 3164
+    }, {
+      "id" : 3998,
+      "title" : ",6，初显身手",
+      "capacity" : 3410
+    }, {
+      "id" : 3999,
+      "title" : ",7，夜里多变",
+      "capacity" : 3228
+    }, {
+      "id" : 4000,
+      "title" : "8,前世隐晦的情愫",
+      "capacity" : 3185
+    }, {
+      "id" : 4001,
+      "title" : "9,前生缘，今生错",
+      "capacity" : 3156
+    }, {
+      "id" : 4002,
+      "title" : "10，出府，初遇",
+      "capacity" : 3137
+    }, {
+      "id" : 4003,
+      "title" : "11，忧郁少年是妖，是仙",
+      "capacity" : 3541
+    }, {
+      "id" : 4004,
+      "title" : "12，洗劫将军府账房",
+      "capacity" : 3047
+    }, {
+      "id" : 4005,
+      "title" : "13，收购墨书楼，烟露楼",
+      "capacity" : 3075
+    }, {
+      "id" : 4006,
+      "title" : "14，“不孝”",
+      "capacity" : 3110
+    }, {
+      "id" : 4007,
+      "title" : "15，天宫—宫主之位",
+      "capacity" : 3169
+    }, {
+      "id" : 4008,
+      "title" : "16，江湖奠基石——天宫",
+      "capacity" : 4107
+    }, {
+      "id" : 4009,
+      "title" : "17，五年后",
+      "capacity" : 3356
+    }, {
+      "id" : 4010,
+      "title" : "18，蓝真，你让我失望。",
+      "capacity" : 3268
+    }, {
+      "id" : 4011,
+      "title" : "19，接风宴风波【一】",
+      "capacity" : 3133
+    }, {
+      "id" : 4012,
+      "title" : "20，接风宴风波【二】",
+      "capacity" : 3241
+    }, {
+      "id" : 4013,
+      "title" : "21，下嫁",
+      "capacity" : 3241
+    }, {
+      "id" : 4014,
+      "title" : "22，下嫁进行时",
+      "capacity" : 3181
+    }, {
+      "id" : 4015,
+      "title" : "23，炮灰公主",
+      "capacity" : 3155
+    }, {
+      "id" : 4016,
+      "title" : "24,悲催的大婚",
+      "capacity" : 3436
+    }, {
+      "id" : 4017,
+      "title" : "25，不省事啊！",
+      "capacity" : 3033
+    }, {
+      "id" : 4018,
+      "title" : "26，奇怪的 紫衣女子",
+      "capacity" : 3094
+    }, {
+      "id" : 4019,
+      "title" : "27，你丫的",
+      "capacity" : 3227
+    }, {
+      "id" : 4020,
+      "title" : "28，汇合",
+      "capacity" : 3054
+    }, {
+      "id" : 4021,
+      "title" : "29，立足冥国",
+      "capacity" : 3089
+    }, {
+      "id" : 4022,
+      "title" : "30，进驻危机",
+      "capacity" : 3030
+    } ]
+  }
+}

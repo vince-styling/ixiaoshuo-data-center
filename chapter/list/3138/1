@@ -1,0 +1,114 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 26,
+    "list" : [ {
+      "id" : 3563,
+      "title" : "N0.01那人那山那风景",
+      "capacity" : 9380
+    }, {
+      "id" : 3564,
+      "title" : "NO.02来至京大的入学通知书",
+      "capacity" : 7759
+    }, {
+      "id" : 3565,
+      "title" : "NO.03那一刻的勇气",
+      "capacity" : 10644
+    }, {
+      "id" : 3566,
+      "title" : "NO.04青城山游记",
+      "capacity" : 10036
+    }, {
+      "id" : 3567,
+      "title" : "NO.05山谷历险记",
+      "capacity" : 9056
+    }, {
+      "id" : 3568,
+      "title" : "NO.06出发去京大",
+      "capacity" : 9030
+    }, {
+      "id" : 3569,
+      "title" : "NO.07火车上的偶遇（求收藏！）",
+      "capacity" : 8999
+    }, {
+      "id" : 3570,
+      "title" : "NO.08宿命（求收藏呀！）",
+      "capacity" : 9046
+    }, {
+      "id" : 3571,
+      "title" : "NO.09 那一抹的风情",
+      "capacity" : 9278
+    }, {
+      "id" : 3572,
+      "title" : "NO.10 抵达京京大学（今日第三更送上）",
+      "capacity" : 7964
+    }, {
+      "id" : 3573,
+      "title" : "NO.11偷鸡不成蚀把米",
+      "capacity" : 9898
+    }, {
+      "id" : 3574,
+      "title" : "NO.12 舍友的风情",
+      "capacity" : 8606
+    }, {
+      "id" : 3575,
+      "title" : "N0.13 有架一起打，可好！",
+      "capacity" : 8531
+    }, {
+      "id" : 3576,
+      "title" : "NO.14 众美女们",
+      "capacity" : 9022
+    }, {
+      "id" : 3577,
+      "title" : "NO.15神秘的两个人",
+      "capacity" : 8400
+    }, {
+      "id" : 3578,
+      "title" : "NO.16谢丁灵的强悍",
+      "capacity" : 9324
+    }, {
+      "id" : 3579,
+      "title" : "NO.17 谢丁灵的奇遇",
+      "capacity" : 9176
+    }, {
+      "id" : 3580,
+      "title" : "NO.18 我要学武！",
+      "capacity" : 9626
+    }, {
+      "id" : 3581,
+      "title" : "NO.19紫霞仙门",
+      "capacity" : 9030
+    }, {
+      "id" : 3582,
+      "title" : "NO.20成立社团！",
+      "capacity" : 7800
+    }, {
+      "id" : 3583,
+      "title" : "紫灵武社！",
+      "capacity" : 7563
+    }, {
+      "id" : 3584,
+      "title" : "NO.22 冲突与阴谋",
+      "capacity" : 9281
+    }, {
+      "id" : 3585,
+      "title" : "NO.23 砸场子的来了！",
+      "capacity" : 9269
+    }, {
+      "id" : 3586,
+      "title" : "NO.24 第二招“摘星”",
+      "capacity" : 10913
+    }, {
+      "id" : 3587,
+      "title" : "NO.25 ‘色’少刘色佛",
+      "capacity" : 9069
+    }, {
+      "id" : 3588,
+      "title" : "NO.26 大战之乱战！",
+      "capacity" : 6103
+    } ]
+  }
+}

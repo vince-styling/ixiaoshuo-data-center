@@ -1,0 +1,142 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 33,
+    "list" : [ {
+      "id" : 1290,
+      "title" : "第一章 异世",
+      "capacity" : 12155
+    }, {
+      "id" : 1291,
+      "title" : "第二章 路见",
+      "capacity" : 9693
+    }, {
+      "id" : 1292,
+      "title" : "第三章 宣国",
+      "capacity" : 9328
+    }, {
+      "id" : 1293,
+      "title" : "第四章 对峙",
+      "capacity" : 9811
+    }, {
+      "id" : 1294,
+      "title" : "第五章 暗杀",
+      "capacity" : 10240
+    }, {
+      "id" : 1295,
+      "title" : "第六章 月国",
+      "capacity" : 6631
+    }, {
+      "id" : 1296,
+      "title" : "第七章 寻医",
+      "capacity" : 9983
+    }, {
+      "id" : 1297,
+      "title" : "第八章 暗机",
+      "capacity" : 6557
+    }, {
+      "id" : 1298,
+      "title" : "第九章 山水",
+      "capacity" : 5239
+    }, {
+      "id" : 1299,
+      "title" : "第十章 再相见",
+      "capacity" : 6992
+    }, {
+      "id" : 1300,
+      "title" : "第十一章 献舞",
+      "capacity" : 8367
+    }, {
+      "id" : 1301,
+      "title" : "第十二章 抉择",
+      "capacity" : 4740
+    }, {
+      "id" : 1302,
+      "title" : "第十三章 织银阁",
+      "capacity" : 5412
+    }, {
+      "id" : 1303,
+      "title" : "第十四章 毒王谷",
+      "capacity" : 8305
+    }, {
+      "id" : 1304,
+      "title" : "第十五章 离别",
+      "capacity" : 9807
+    }, {
+      "id" : 1305,
+      "title" : "第十六章 南国庆城",
+      "capacity" : 12205
+    }, {
+      "id" : 1306,
+      "title" : "第十七章 宣王病",
+      "capacity" : 9435
+    }, {
+      "id" : 1307,
+      "title" : "第十八章 哥舒、希亚",
+      "capacity" : 9233
+    }, {
+      "id" : 1308,
+      "title" : "第十九章 病愈",
+      "capacity" : 9669
+    }, {
+      "id" : 1309,
+      "title" : "第二十章 初见南钰昕",
+      "capacity" : 9478
+    }, {
+      "id" : 1310,
+      "title" : "第二十一章 重逢",
+      "capacity" : 9467
+    }, {
+      "id" : 1311,
+      "title" : "第二十二章 错过",
+      "capacity" : 9338
+    }, {
+      "id" : 1312,
+      "title" : "第二十三章 媚姬",
+      "capacity" : 9965
+    }, {
+      "id" : 1313,
+      "title" : "第二十四章 关心则乱",
+      "capacity" : 9534
+    }, {
+      "id" : 1314,
+      "title" : "第二十五章 百花盛宴",
+      "capacity" : 9355
+    }, {
+      "id" : 1315,
+      "title" : "第二十六章 初悸",
+      "capacity" : 9383
+    }, {
+      "id" : 1316,
+      "title" : "第二十七章 萦回",
+      "capacity" : 9276
+    }, {
+      "id" : 1317,
+      "title" : "第二十八章 认主",
+      "capacity" : 9673
+    }, {
+      "id" : 1318,
+      "title" : "第二十九章 地魔宫",
+      "capacity" : 9396
+    }, {
+      "id" : 1319,
+      "title" : "第三十章 邀月楼",
+      "capacity" : 9453
+    }, {
+      "id" : 1320,
+      "title" : "第三十一章 反常",
+      "capacity" : 9369
+    }, {
+      "id" : 1321,
+      "title" : "第三十二章 缘由",
+      "capacity" : 9390
+    }, {
+      "id" : 1322,
+      "title" : "第三十三章 阴谋",
+      "capacity" : 9552
+    } ]
+  }
+}

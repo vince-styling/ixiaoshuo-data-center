@@ -1,0 +1,106 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 24,
+    "list" : [ {
+      "id" : 5000,
+      "title" : "01我是小富婆欧阳静合",
+      "capacity" : 4506
+    }, {
+      "id" : 5001,
+      "title" : "02师傅",
+      "capacity" : 3104
+    }, {
+      "id" : 5002,
+      "title" : "03追杀",
+      "capacity" : 4198
+    }, {
+      "id" : 5003,
+      "title" : "04穿了",
+      "capacity" : 6656
+    }, {
+      "id" : 5004,
+      "title" : "05家的感觉",
+      "capacity" : 6824
+    }, {
+      "id" : 5005,
+      "title" : "06初来乍到",
+      "capacity" : 4896
+    }, {
+      "id" : 5006,
+      "title" : "07 请多指教（一）",
+      "capacity" : 4861
+    }, {
+      "id" : 5007,
+      "title" : "08请多指教（二）",
+      "capacity" : 4954
+    }, {
+      "id" : 5008,
+      "title" : "09请多指教(三）",
+      "capacity" : 6050
+    }, {
+      "id" : 5009,
+      "title" : "10请多指教（四）",
+      "capacity" : 5399
+    }, {
+      "id" : 5010,
+      "title" : "11认亲（上）",
+      "capacity" : 5982
+    }, {
+      "id" : 5011,
+      "title" : "12认亲（下）",
+      "capacity" : 6289
+    }, {
+      "id" : 5012,
+      "title" : "13收服小丫头",
+      "capacity" : 4992
+    }, {
+      "id" : 5013,
+      "title" : "14 皇上奇怪眼神",
+      "capacity" : 6305
+    }, {
+      "id" : 5014,
+      "title" : "15 琴声悠扬满皇宫",
+      "capacity" : 7729
+    }, {
+      "id" : 5015,
+      "title" : "16 皇上要赐婚",
+      "capacity" : 6061
+    }, {
+      "id" : 5016,
+      "title" : "17 荷塘月色（上）",
+      "capacity" : 4693
+    }, {
+      "id" : 5017,
+      "title" : "18 荷塘月色（下）",
+      "capacity" : 6059
+    }, {
+      "id" : 5018,
+      "title" : "19 无聊的日子啊",
+      "capacity" : 6898
+    }, {
+      "id" : 5019,
+      "title" : "20 智斗采花贼",
+      "capacity" : 6884
+    }, {
+      "id" : 5020,
+      "title" : "21 初见心跳",
+      "capacity" : 3872
+    }, {
+      "id" : 5021,
+      "title" : "22 百花楼",
+      "capacity" : 3781
+    }, {
+      "id" : 5022,
+      "title" : "23 高手",
+      "capacity" : 6894
+    }, {
+      "id" : 5023,
+      "title" : "24 初六（上）",
+      "capacity" : 3269
+    } ]
+  }
+}

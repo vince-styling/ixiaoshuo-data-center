@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 2884,
+      "title" : "超度亡灵之果",
+      "capacity" : 3076
+    }, {
+      "id" : 2885,
+      "title" : "死神之说",
+      "capacity" : 2973
+    }, {
+      "id" : 2886,
+      "title" : "初见那个女生。",
+      "capacity" : 3067
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 33,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2074,
+      "name" : "我们本无缘",
+      "updateStatus" : 1,
+      "distance" : 5799,
+      "memberId" : 6356
+    }, {
+      "id" : 3545,
+      "name" : "泪痕",
+      "updateStatus" : 1,
+      "distance" : 7356,
+      "memberId" : 2263
+    }, {
+      "id" : 3651,
+      "name" : "《听见了吗？我来了》",
+      "updateStatus" : 1,
+      "distance" : 8263,
+      "memberId" : 2460
+    }, {
+      "id" : 2217,
+      "name" : "枪芒",
+      "updateStatus" : 1,
+      "distance" : 8463,
+      "memberId" : 6169
+    }, {
+      "id" : 2391,
+      "name" : "清清子毅",
+      "updateStatus" : 2,
+      "distance" : 700,
+      "memberId" : 7995
+    }, {
+      "id" : 2560,
+      "name" : "穿越女尊之桃花朵朵开",
+      "updateStatus" : 1,
+      "distance" : 7239,
+      "memberId" : 2973
+    }, {
+      "id" : 2939,
+      "name" : "半城月色",
+      "updateStatus" : 2,
+      "distance" : 6301,
+      "memberId" : 6222
+    }, {
+      "id" : 2824,
+      "name" : "绿草如茵",
+      "updateStatus" : 1,
+      "distance" : 5623,
+      "memberId" : 2337
+    }, {
+      "id" : 2491,
+      "name" : "网游之睡睡也能成高手",
+      "updateStatus" : 1,
+      "distance" : 5524,
+      "memberId" : 1036
+    }, {
+      "id" : 2808,
+      "name" : "女王重生：欺上恶魔总裁",
+      "updateStatus" : 1,
+      "distance" : 7861,
+      "memberId" : 4368
+    }, {
+      "id" : 3350,
+      "name" : "鬼话连篇",
+      "updateStatus" : 1,
+      "distance" : 8422,
+      "memberId" : 8102
+    }, {
+      "id" : 3227,
+      "name" : "玩心公子",
+      "updateStatus" : 1,
+      "distance" : 6003,
+      "memberId" : 4731
+    }, {
+      "id" : 3166,
+      "name" : "一品凰妻：冷情教主猎娇宠",
+      "updateStatus" : 1,
+      "distance" : 7270,
+      "memberId" : 7262
+    }, {
+      "id" : 2927,
+      "name" : "风艳离色",
+      "updateStatus" : 1,
+      "distance" : 9253,
+      "memberId" : 4870
+    }, {
+      "id" : 3606,
+      "name" : "王的异界游历史",
+      "updateStatus" : 1,
+      "distance" : 7107,
+      "memberId" : 3171
+    }, {
+      "id" : 2546,
+      "name" : "风流公子：赖上重生佳人",
+      "updateStatus" : 1,
+      "distance" : 2103,
+      "memberId" : 8890
+    }, {
+      "id" : 2484,
+      "name" : "让我杀了你，爱人",
+      "updateStatus" : 1,
+      "distance" : 3408,
+      "memberId" : 2870
+    }, {
+      "id" : 3519,
+      "name" : "火影.平静的海面上泛起恋爱的浪花",
+      "updateStatus" : 1,
+      "distance" : 1900,
+      "memberId" : 4522
+    }, {
+      "id" : 2092,
+      "name" : "迟妆懒起",
+      "updateStatus" : 1,
+      "distance" : 3747,
+      "memberId" : 3003
+    }, {
+      "id" : 3743,
+      "name" : "噬血公主与噬魂王子",
+      "updateStatus" : 1,
+      "distance" : 7422,
+      "memberId" : 7739
+    } ]
+  }
+}

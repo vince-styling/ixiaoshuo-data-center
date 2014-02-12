@@ -1,0 +1,106 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 24,
+    "list" : [ {
+      "id" : 1622,
+      "title" : "第一章 叶峰",
+      "capacity" : 4982
+    }, {
+      "id" : 1623,
+      "title" : "第二章 实力",
+      "capacity" : 7223
+    }, {
+      "id" : 1624,
+      "title" : "第三章 龙门门主遇伏",
+      "capacity" : 8388
+    }, {
+      "id" : 1625,
+      "title" : "第四章 救龙门老大",
+      "capacity" : 7947
+    }, {
+      "id" : 1626,
+      "title" : "第五章 机会",
+      "capacity" : 5445
+    }, {
+      "id" : 1627,
+      "title" : "第六章 入龙门",
+      "capacity" : 5069
+    }, {
+      "id" : 1628,
+      "title" : "第七章 自己的实力",
+      "capacity" : 8183
+    }, {
+      "id" : 1629,
+      "title" : "第八章 龙门会议",
+      "capacity" : 7542
+    }, {
+      "id" : 1630,
+      "title" : "第九章 叛变",
+      "capacity" : 6180
+    }, {
+      "id" : 1631,
+      "title" : "第十章 收服萧振宇",
+      "capacity" : 9114
+    }, {
+      "id" : 1632,
+      "title" : "第十一章 大战爆发！危机！",
+      "capacity" : 9010
+    }, {
+      "id" : 1633,
+      "title" : "第十二章 鬼龙发威",
+      "capacity" : 9018
+    }, {
+      "id" : 1634,
+      "title" : "第十三章 血战长街",
+      "capacity" : 9294
+    }, {
+      "id" : 1635,
+      "title" : "第十四章 血战结束",
+      "capacity" : 9414
+    }, {
+      "id" : 1636,
+      "title" : "第十五章 叶峰遇刺",
+      "capacity" : 9668
+    }, {
+      "id" : 1637,
+      "title" : "第十六章 再次会议",
+      "capacity" : 9138
+    }, {
+      "id" : 1638,
+      "title" : "第十七章 抢！",
+      "capacity" : 9953
+    }, {
+      "id" : 1639,
+      "title" : "第十八章 军火保卫战",
+      "capacity" : 9526
+    }, {
+      "id" : 1640,
+      "title" : "第十九章 再遇杨诗琪",
+      "capacity" : 9518
+    }, {
+      "id" : 1641,
+      "title" : "第二十章 抢劫风波",
+      "capacity" : 9265
+    }, {
+      "id" : 1642,
+      "title" : "第二十一章 回家",
+      "capacity" : 9040
+    }, {
+      "id" : 1643,
+      "title" : "第二十二章 龙虎再战",
+      "capacity" : 9397
+    }, {
+      "id" : 1644,
+      "title" : "第二十三章 重伤",
+      "capacity" : 9232
+    }, {
+      "id" : 1645,
+      "title" : "第二十四章 进去了",
+      "capacity" : 9482
+    } ]
+  }
+}

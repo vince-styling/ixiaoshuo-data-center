@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 41,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2724,
+      "name" : "陌路：琴音",
+      "updateStatus" : 1,
+      "distance" : 7462,
+      "memberId" : 1368
+    }, {
+      "id" : 3037,
+      "name" : "简单的幸福",
+      "updateStatus" : 1,
+      "distance" : 1577,
+      "memberId" : 5300
+    }, {
+      "id" : 3245,
+      "name" : "双凤夺体：娇蛮宠姬不好惹",
+      "updateStatus" : 1,
+      "distance" : 7829,
+      "memberId" : 2328
+    }, {
+      "id" : 3693,
+      "name" : "综漫——萝莉女神的养成计划",
+      "updateStatus" : 1,
+      "distance" : 5424,
+      "memberId" : 5856
+    }, {
+      "id" : 3437,
+      "name" : "北方有佳人",
+      "updateStatus" : 1,
+      "distance" : 7762,
+      "memberId" : 1980
+    }, {
+      "id" : 3736,
+      "name" : "狂",
+      "updateStatus" : 1,
+      "distance" : 8866,
+      "memberId" : 2163
+    }, {
+      "id" : 2683,
+      "name" : "总有一个人能陪我一起老",
+      "updateStatus" : 1,
+      "distance" : 5453,
+      "memberId" : 8807
+    }, {
+      "id" : 3199,
+      "name" : "后宫大学传",
+      "updateStatus" : 1,
+      "distance" : 9448,
+      "memberId" : 7723
+    }, {
+      "id" : 3211,
+      "name" : "胭脂香味",
+      "updateStatus" : 1,
+      "distance" : 4771,
+      "memberId" : 1577
+    }, {
+      "id" : 2689,
+      "name" : "穿越之歌月徘徊",
+      "updateStatus" : 1,
+      "distance" : 7039,
+      "memberId" : 5179
+    }, {
+      "id" : 2221,
+      "name" : "七星北斗PLOUGH",
+      "updateStatus" : 1,
+      "distance" : 5761,
+      "memberId" : 1926
+    }, {
+      "id" : 2071,
+      "name" : "月落紫禁",
+      "updateStatus" : 2,
+      "distance" : 4309,
+      "memberId" : 2053
+    }, {
+      "id" : 2944,
+      "name" : "嬗变",
+      "updateStatus" : 1,
+      "distance" : 4826,
+      "memberId" : 6722
+    }, {
+      "id" : 2472,
+      "name" : "梦幻钟馗",
+      "updateStatus" : 1,
+      "distance" : 2686,
+      "memberId" : 8893
+    }, {
+      "id" : 2777,
+      "name" : "穿越之风沁",
+      "updateStatus" : 1,
+      "distance" : 4639,
+      "memberId" : 1753
+    }, {
+      "id" : 2220,
+      "name" : "玄黄道环",
+      "updateStatus" : 1,
+      "distance" : 6549,
+      "memberId" : 6000
+    }, {
+      "id" : 2138,
+      "name" : "妖孽，快到仙姑碗里来",
+      "updateStatus" : 2,
+      "distance" : 4684,
+      "memberId" : 8101
+    }, {
+      "id" : 2935,
+      "name" : "双生迷爱",
+      "updateStatus" : 1,
+      "distance" : 6331,
+      "memberId" : 8801
+    }, {
+      "id" : 2104,
+      "name" : "那一世红莲雨",
+      "updateStatus" : 1,
+      "distance" : 4711,
+      "memberId" : 8517
+    }, {
+      "id" : 2862,
+      "name" : "侵他城占他国上他床",
+      "updateStatus" : 1,
+      "distance" : 2433,
+      "memberId" : 4037
+    } ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 2224,
+      "title" : "王峰05",
+      "capacity" : 232
+    }, {
+      "id" : 2225,
+      "title" : "王峰06",
+      "capacity" : 517
+    } ]
+  }
+}

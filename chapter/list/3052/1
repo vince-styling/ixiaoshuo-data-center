@@ -1,0 +1,70 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 15,
+    "list" : [ {
+      "id" : 3289,
+      "title" : "第1章 轮回，轮转一世，回归起点",
+      "capacity" : 3517
+    }, {
+      "id" : 3290,
+      "title" : "第2章 师兄",
+      "capacity" : 3002
+    }, {
+      "id" : 3291,
+      "title" : "第3章 寒陌心术",
+      "capacity" : 3195
+    }, {
+      "id" : 3292,
+      "title" : "第4章 千年月光，瞬间记忆",
+      "capacity" : 5833
+    }, {
+      "id" : 3293,
+      "title" : "第5章 寒陌剑问世·变天",
+      "capacity" : 10428
+    }, {
+      "id" : 3294,
+      "title" : "第5章 武器总览·南宫长寂",
+      "capacity" : 6144
+    }, {
+      "id" : 3295,
+      "title" : "第7章 洞天福地客栈",
+      "capacity" : 12927
+    }, {
+      "id" : 3296,
+      "title" : "第8章 十八殿下",
+      "capacity" : 8292
+    }, {
+      "id" : 3297,
+      "title" : "第9章 梦境·你前世微笑的侧脸",
+      "capacity" : 5263
+    }, {
+      "id" : 3298,
+      "title" : "第10章 劫富济贫……",
+      "capacity" : 11113
+    }, {
+      "id" : 3299,
+      "title" : "第11章 乐极生悲",
+      "capacity" : 2542
+    }, {
+      "id" : 3300,
+      "title" : "第12章 一叶知秋",
+      "capacity" : 10302
+    }, {
+      "id" : 3301,
+      "title" : "第13章 大闹皇宫（上）",
+      "capacity" : 6374
+    }, {
+      "id" : 3302,
+      "title" : "第14章 大闹皇宫（下）",
+      "capacity" : 2503
+    }, {
+      "id" : 3303,
+      "title" : "第15章 误会",
+      "capacity" : 3038
+    } ]
+  }
+}

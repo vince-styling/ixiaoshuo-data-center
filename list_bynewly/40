@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 40,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2230,
+      "name" : "妖殇惑世",
+      "summary" : "简介：她是杀手之王，才艺惊人。性格嗜血腹黑无耻。她是将军养女，才艺平庸。性格懦弱天真蠢笨。❀❀===",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47944.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1084895,
+      "lastUpdateTime" : "2013-12-11 00:55:53"
+    }, {
+      "id" : 3020,
+      "name" : "五行武侠",
+      "summary" : "千年轮回，修炼成神贪恋红尘，堕落繁花爱已成恨，恋已成殇璀璨光芒，终将消失逝去记忆，流落凡间彼岸花开，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48009.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7861557,
+      "lastUpdateTime" : "2013-12-11 00:38:34"
+    }, {
+      "id" : 2865,
+      "name" : "溺宠妖牌王妃",
+      "summary" : "她是穿越而来的腹黑公主，他是冷漠无情的夜国王爷。当腹黑公主遇到冷漠王爷会发生怎样的故事？他对所有人冷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44668.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8099503,
+      "lastUpdateTime" : "2013-12-11 00:15:06"
+    }, {
+      "id" : 3079,
+      "name" : "唯我独尊：遇上你可能是最好的",
+      "summary" : "他唯我独尊，她高贵骄傲，他不懂怎样爱，她从未认定他是她的良人。她与他本不必相遇，既然遇上了，你追我赶",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47561.jpg",
+      "updateStatus" : 1,
+      "capacity" : 614027,
+      "lastUpdateTime" : "2013-12-11 00:14:50"
+    }, {
+      "id" : 2956,
+      "name" : "温柔女友大姐大",
+      "summary" : "一个是美的让人心碎的女孩，另外两个是帅到极致的王子。偏偏她不是公主，她擅长打架，暴力，而这一切也只是",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18766.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8254809,
+      "lastUpdateTime" : "2013-12-11 00:09:07"
+    }, {
+      "id" : 2239,
+      "name" : "都市修仙巅峰传说",
+      "summary" : "在这浩荡的宇宙中，有一颗神奇的星球。里面居住着各种生物。就在此时天空中五股不同的力量居然往同一个地方",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20490.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2493992,
+      "lastUpdateTime" : "2013-12-10 23:44:48"
+    }, {
+      "id" : 2867,
+      "name" : "子兰",
+      "summary" : "子兰是一个农村里长大的孩子，从小和爷爷奶奶一起长大，性格内向孤僻，但是自从遇到了云、蓝、樱、林、L等",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47911.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4709274,
+      "lastUpdateTime" : "2013-12-10 22:10:53"
+    }, {
+      "id" : 3556,
+      "name" : "花泱",
+      "summary" : "前世因果，今世偿还。前世的纠纠缠缠，今世的缠缠绵绵。就算到了最后自己还是一身的伤。那又如何？自己甘愿",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 46985,
+      "lastUpdateTime" : "2013-12-10 21:09:09"
+    }, {
+      "id" : 3164,
+      "name" : "孤独末世",
+      "summary" : "一部关于世界末日题材的小说；一个被赋予天煞孤星命运主角；一生背负孤独寂寞；一世充满冷血无情；处在末世",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_13612.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1767235,
+      "lastUpdateTime" : "2013-12-10 20:33:31"
+    }, {
+      "id" : 3573,
+      "name" : "天使与伪天使的契约",
+      "summary" : "从小生活在两个庞大家族里的两位小姐，却因阴谋而被迫离家。从纯洁无瑕的天使堕落为伪天使。伪天使的复仇！",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 181997,
+      "lastUpdateTime" : "2013-12-10 20:32:33"
+    }, {
+      "id" : 2249,
+      "name" : "古代求生记",
+      "summary" : "药物专业的大三女生，机缘巧合穿越时空入住东晟，经历了拔刀相助、上当受骗、经营酒楼、医治患者、策划宴会",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19596.jpg",
+      "updateStatus" : 2,
+      "capacity" : 9409345,
+      "lastUpdateTime" : "2013-12-10 20:08:12"
+    }, {
+      "id" : 2742,
+      "name" : "异界为魔",
+      "summary" : "前世被尊为魔君殇的杀手因为一次任务失败被组织追杀，就把主上的老巢爆了当然他也没活。不甘的灵魂受到上天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47069.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2662602,
+      "lastUpdateTime" : "2013-12-10 19:12:06"
+    }, {
+      "id" : 2137,
+      "name" : "逆墨灵",
+      "summary" : "千年月，妖魔缘。奈何天，冰棺现。七界出，生死边。墨灵现，乾坤转。万世藏，惊风崖。弑神破，天下乱。宿命",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16769.jpg",
+      "updateStatus" : 2,
+      "capacity" : 3360362,
+      "lastUpdateTime" : "2013-12-10 18:56:21"
+    }, {
+      "id" : 2103,
+      "name" : "剑缘三生泪断崖",
+      "summary" : "她爱了三生，无怨无悔，只怪自己没有早些记起他；他一世伤了她的心，用两世的时间去偿还，这份情，还的晚不",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47914.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8109578,
+      "lastUpdateTime" : "2013-12-10 17:47:20"
+    }, {
+      "id" : 3044,
+      "name" : "异世王妃倾城",
+      "summary" : "倾城，爱，恨，情仇~~~~离别伤痕痛，无悔亦不悔~~~~笑看江湖，谁与争锋~~~~~",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43939.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3296638,
+      "lastUpdateTime" : "2013-12-10 17:25:37"
+    }, {
+      "id" : 3622,
+      "name" : "妃澄勿扰：这个嬷嬷赛倾城",
+      "summary" : "现代龙套小演员爆笑穿越老宫廷老嬷嬷，还竟然独霸天下第一美男心！演绎宫廷嬷嬷+复国间谍+叛党王妃？开妓",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43887.jpg",
+      "updateStatus" : 1,
+      "capacity" : 479888,
+      "lastUpdateTime" : "2013-12-10 17:18:41"
+    }, {
+      "id" : 3613,
+      "name" : "剑翎之仙侣奇侠",
+      "summary" : "他们怀着不同的目的，走到一起完成主线任务，历经刀山火海，夺取仙剑，集齐玄冰轮，净水轮，苍火轮，毁金轮",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21429.jpg",
+      "updateStatus" : 1,
+      "capacity" : 942421,
+      "lastUpdateTime" : "2013-12-10 16:25:16"
+    }, {
+      "id" : 2445,
+      "name" : "饰心",
+      "summary" : "木汐尧和季繁华相识在浮世道场，相知在西歌中学，相惜于千秦城C大。失去彼此消息的五年里，才真正清楚面对",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44317.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2667685,
+      "lastUpdateTime" : "2013-12-10 16:10:55"
+    }, {
+      "id" : 2601,
+      "name" : "倾城馨少桃花多",
+      "summary" : "前世她是全球第一公司——雨薇公司的董事长——君月馨，更是杀手阁‘炼狱紫碟’的阁主——蝶，却不料，玩游",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46636.jpg",
+      "updateStatus" : 2,
+      "capacity" : 9633766,
+      "lastUpdateTime" : "2013-12-10 15:22:27"
+    }, {
+      "id" : 3213,
+      "name" : "光华琉璃只为一笑",
+      "summary" : "普天之下，实力独尊，血之帝国，神秘血族，大漠之外，妖娆蛇族，阴阳轮回，舞天地，转乾坤！第一卷以存稿完",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45623.jpg",
+      "updateStatus" : 1,
+      "capacity" : 60216,
+      "lastUpdateTime" : "2013-12-10 14:48:41"
+    } ]
+  }
+}

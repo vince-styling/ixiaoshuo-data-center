@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 4942,
+      "title" : "第一章 魂归大清",
+      "capacity" : 2733
+    }, {
+      "id" : 4943,
+      "title" : "第二章 进宫",
+      "capacity" : 2867
+    }, {
+      "id" : 4944,
+      "title" : "第三章 平地风波",
+      "capacity" : 5188
+    }, {
+      "id" : 4945,
+      "title" : "第四章 水落石出",
+      "capacity" : 3143
+    }, {
+      "id" : 4946,
+      "title" : "第五章 人心叵测",
+      "capacity" : 4981
+    }, {
+      "id" : 4947,
+      "title" : "第六章 巧遇十三",
+      "capacity" : 5473
+    }, {
+      "id" : 4948,
+      "title" : "第七章 陷害",
+      "capacity" : 6703
+    }, {
+      "id" : 4949,
+      "title" : "第八章 闹鬼",
+      "capacity" : 4999
+    }, {
+      "id" : 4950,
+      "title" : "第九章 捉鬼",
+      "capacity" : 5669
+    }, {
+      "id" : 4951,
+      "title" : "第十章 惨遭暗算",
+      "capacity" : 4110
+    }, {
+      "id" : 4952,
+      "title" : "第十一章 获救",
+      "capacity" : 7517
+    }, {
+      "id" : 4953,
+      "title" : "第十二章 陈玉峰",
+      "capacity" : 6317
+    }, {
+      "id" : 4954,
+      "title" : "第十三章 离宫",
+      "capacity" : 5738
+    }, {
+      "id" : 4955,
+      "title" : "第十四章 雍王府",
+      "capacity" : 5725
+    }, {
+      "id" : 4956,
+      "title" : "第十五章 筹备寿宴",
+      "capacity" : 7199
+    }, {
+      "id" : 4957,
+      "title" : "第十六章 四爷的过往",
+      "capacity" : 6823
+    }, {
+      "id" : 4958,
+      "title" : "第十七章 冰释前嫌",
+      "capacity" : 7618
+    }, {
+      "id" : 4959,
+      "title" : "第十八章 御前得宠",
+      "capacity" : 6864
+    }, {
+      "id" : 4960,
+      "title" : "第十九章 无端遭罪",
+      "capacity" : 6923
+    }, {
+      "id" : 4961,
+      "title" : "第二十章 吃醋",
+      "capacity" : 8759
+    }, {
+      "id" : 4962,
+      "title" : "第二十一章 情之所至",
+      "capacity" : 7618
+    }, {
+      "id" : 4963,
+      "title" : "第二十二章 拐卖风波",
+      "capacity" : 7592
+    }, {
+      "id" : 4964,
+      "title" : "第二十三章 迷雾重重",
+      "capacity" : 6613
+    }, {
+      "id" : 4965,
+      "title" : "第二十四章 我的好弟弟",
+      "capacity" : 8203
+    }, {
+      "id" : 4966,
+      "title" : "第二十五章 蹊跷的选秀",
+      "capacity" : 7342
+    }, {
+      "id" : 4967,
+      "title" : "第二十六章 丑女大集合",
+      "capacity" : 5285
+    }, {
+      "id" : 4968,
+      "title" : "第二十七章 胤禛遇险",
+      "capacity" : 5856
+    }, {
+      "id" : 4969,
+      "title" : "第二十八章 玉峰出手",
+      "capacity" : 4590
+    }, {
+      "id" : 4970,
+      "title" : "第二十九章 左右为难",
+      "capacity" : 7943
+    }, {
+      "id" : 4971,
+      "title" : "第三十章 义字当先",
+      "capacity" : 7675
+    }, {
+      "id" : 4972,
+      "title" : "第三十一章 隆宠日盛",
+      "capacity" : 5760
+    }, {
+      "id" : 4973,
+      "title" : "第三十二章 心狠手辣",
+      "capacity" : 6834
+    }, {
+      "id" : 4974,
+      "title" : "第三十三章 豪门黑手",
+      "capacity" : 9370
+    }, {
+      "id" : 4975,
+      "title" : "第三十四章 横生枝节",
+      "capacity" : 8111
+    }, {
+      "id" : 4976,
+      "title" : "第三十五章 暗潮汹涌",
+      "capacity" : 8561
+    }, {
+      "id" : 4977,
+      "title" : "第三十六章 身陷虎口",
+      "capacity" : 8322
+    }, {
+      "id" : 4978,
+      "title" : "第三十七章 舍身相救",
+      "capacity" : 9866
+    }, {
+      "id" : 4979,
+      "title" : "第三十八章 情深似海",
+      "capacity" : 9512
+    }, {
+      "id" : 4980,
+      "title" : "第三十九章 豪门情仇",
+      "capacity" : 10143
+    }, {
+      "id" : 4981,
+      "title" : "第四十章 阻挠",
+      "capacity" : 7860
+    }, {
+      "id" : 4982,
+      "title" : "第四十一章 离别江南",
+      "capacity" : 7403
+    }, {
+      "id" : 4983,
+      "title" : "第四十二章 波澜重重",
+      "capacity" : 9644
+    }, {
+      "id" : 4984,
+      "title" : "第四十三章 巧施妙计",
+      "capacity" : 8837
+    }, {
+      "id" : 4985,
+      "title" : "第四十四章 奇怪的妇人",
+      "capacity" : 9491
+    }, {
+      "id" : 4986,
+      "title" : "第四十五章 一字千金",
+      "capacity" : 9017
+    }, {
+      "id" : 4987,
+      "title" : "第四十六章 命运转折点",
+      "capacity" : 6848
+    }, {
+      "id" : 4988,
+      "title" : "第四十七章 冤家路窄",
+      "capacity" : 9203
+    }, {
+      "id" : 4989,
+      "title" : "第四十八章 柔情蜜意",
+      "capacity" : 9931
+    }, {
+      "id" : 4990,
+      "title" : "第四十九章 奇怪的胤禛",
+      "capacity" : 9724
+    }, {
+      "id" : 4991,
+      "title" : "第五十章 渐入泥沼",
+      "capacity" : 7569
+    } ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 1352,
+      "title" : "第一章 天才少女秋雪月",
+      "capacity" : 6350
+    }, {
+      "id" : 1353,
+      "title" : "第二章 天才的打击",
+      "capacity" : 7506
+    }, {
+      "id" : 1354,
+      "title" : "第三章 再一次出现天才",
+      "capacity" : 9035
+    }, {
+      "id" : 1355,
+      "title" : "第四章 她",
+      "capacity" : 7642
+    }, {
+      "id" : 1356,
+      "title" : "第五章 沉睡的记忆",
+      "capacity" : 6642
+    }, {
+      "id" : 1357,
+      "title" : "第六章 擦肩而过的瞬间",
+      "capacity" : 6445
+    } ]
+  }
+}

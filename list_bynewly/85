@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 85,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2495,
+      "name" : "一个农村女人的蝴蝶梦",
+      "summary" : "我讲的是一个真实的故事；这个故事发生在我的故乡河南---黄河岸边一个古老的村庄：男主人公是我中学时代",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 3463330,
+      "lastUpdateTime" : "2013-11-19 15:57:05"
+    } ]
+  }
+}

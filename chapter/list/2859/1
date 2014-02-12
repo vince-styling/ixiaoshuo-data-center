@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 1392,
+      "title" : "第一章 遇见",
+      "capacity" : 6805
+    }, {
+      "id" : 1393,
+      "title" : "第二章 放肆的青春",
+      "capacity" : 4639
+    }, {
+      "id" : 1394,
+      "title" : "第三章 懵懂的爱情",
+      "capacity" : 5291
+    }, {
+      "id" : 1395,
+      "title" : "第四章 狂放的夜",
+      "capacity" : 5093
+    }, {
+      "id" : 1396,
+      "title" : "第五章 你不知道的吻",
+      "capacity" : 5987
+    }, {
+      "id" : 1397,
+      "title" : "第六章 人为的擦肩",
+      "capacity" : 4178
+    }, {
+      "id" : 1398,
+      "title" : "第七章 暧昧",
+      "capacity" : 7999
+    }, {
+      "id" : 1399,
+      "title" : "第八章 阴谋的开始",
+      "capacity" : 3636
+    }, {
+      "id" : 1400,
+      "title" : "第九章 宴无好宴",
+      "capacity" : 3985
+    }, {
+      "id" : 1401,
+      "title" : "第十章 南北街火并战",
+      "capacity" : 5392
+    }, {
+      "id" : 1402,
+      "title" : "第十一章 一半消失的世界",
+      "capacity" : 3360
+    }, {
+      "id" : 1403,
+      "title" : "第十二章 被左右的人生",
+      "capacity" : 4292
+    }, {
+      "id" : 1404,
+      "title" : "第十三章 错觉也是幸福",
+      "capacity" : 5615
+    } ]
+  }
+}

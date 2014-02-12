@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 28,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3126,
+      "name" : "妖王妃",
+      "updateStatus" : 1,
+      "distance" : 1276,
+      "memberId" : 3905
+    }, {
+      "id" : 2372,
+      "name" : "出轨无毒",
+      "updateStatus" : 2,
+      "distance" : 1292,
+      "memberId" : 2947
+    }, {
+      "id" : 3469,
+      "name" : "逆天武神：丑颜毒妃",
+      "updateStatus" : 1,
+      "distance" : 4364,
+      "memberId" : 1348
+    }, {
+      "id" : 3477,
+      "name" : "穿越之千年缘",
+      "updateStatus" : 1,
+      "distance" : 5666,
+      "memberId" : 5619
+    }, {
+      "id" : 3233,
+      "name" : "那一季、折断的羽翼",
+      "updateStatus" : 1,
+      "distance" : 6665,
+      "memberId" : 4021
+    }, {
+      "id" : 2522,
+      "name" : "熊霸天下",
+      "updateStatus" : 1,
+      "distance" : 4441,
+      "memberId" : 1806
+    }, {
+      "id" : 3248,
+      "name" : "玄斧",
+      "updateStatus" : 1,
+      "distance" : 8456,
+      "memberId" : 7878
+    }, {
+      "id" : 3132,
+      "name" : "三界悲诳录",
+      "updateStatus" : 1,
+      "distance" : 2288,
+      "memberId" : 4055
+    }, {
+      "id" : 2788,
+      "name" : "五月，安然",
+      "updateStatus" : 1,
+      "distance" : 1440,
+      "memberId" : 5881
+    }, {
+      "id" : 3162,
+      "name" : "真龙天下：倾世侠妃",
+      "updateStatus" : 1,
+      "distance" : 5452,
+      "memberId" : 7570
+    }, {
+      "id" : 2404,
+      "name" : "一场游戏一场梦",
+      "updateStatus" : 1,
+      "distance" : 4835,
+      "memberId" : 5757
+    }, {
+      "id" : 3155,
+      "name" : "忘川不忘",
+      "updateStatus" : 1,
+      "distance" : 9430,
+      "memberId" : 7868
+    }, {
+      "id" : 2689,
+      "name" : "穿越之歌月徘徊",
+      "updateStatus" : 1,
+      "distance" : 3908,
+      "memberId" : 5881
+    }, {
+      "id" : 3176,
+      "name" : "留明待玥复",
+      "updateStatus" : 1,
+      "distance" : 9686,
+      "memberId" : 7866
+    }, {
+      "id" : 3498,
+      "name" : "浅夏未了",
+      "updateStatus" : 1,
+      "distance" : 5803,
+      "memberId" : 5084
+    }, {
+      "id" : 2653,
+      "name" : "恶魔让你遇见我",
+      "updateStatus" : 1,
+      "distance" : 8501,
+      "memberId" : 6570
+    }, {
+      "id" : 3343,
+      "name" : "许你水木两相依",
+      "updateStatus" : 1,
+      "distance" : 8218,
+      "memberId" : 7440
+    }, {
+      "id" : 2434,
+      "name" : "邪逆乾坤",
+      "updateStatus" : 1,
+      "distance" : 5388,
+      "memberId" : 8890
+    }, {
+      "id" : 2866,
+      "name" : "寂寞恋爱",
+      "updateStatus" : 1,
+      "distance" : 3318,
+      "memberId" : 2621
+    }, {
+      "id" : 3227,
+      "name" : "玩心公子",
+      "updateStatus" : 1,
+      "distance" : 1650,
+      "memberId" : 1764
+    } ]
+  }
+}

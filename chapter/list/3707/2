@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 3393,
+      "title" : "第五十一章",
+      "capacity" : 2237
+    }, {
+      "id" : 3394,
+      "title" : "第五十二章",
+      "capacity" : 903
+    }, {
+      "id" : 3395,
+      "title" : "五十三",
+      "capacity" : 4568
+    }, {
+      "id" : 3396,
+      "title" : "五十四",
+      "capacity" : 4664
+    } ]
+  }
+}

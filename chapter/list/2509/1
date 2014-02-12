@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 94,
+    "list" : [ {
+      "id" : 2263,
+      "title" : "第一章【修】",
+      "capacity" : 10906
+    }, {
+      "id" : 2264,
+      "title" : "第二章【修】",
+      "capacity" : 8057
+    }, {
+      "id" : 2265,
+      "title" : "第三章【修】",
+      "capacity" : 8237
+    }, {
+      "id" : 2266,
+      "title" : "第四章【修】",
+      "capacity" : 6094
+    }, {
+      "id" : 2267,
+      "title" : "第五章【修】",
+      "capacity" : 4714
+    }, {
+      "id" : 2268,
+      "title" : "第六章【修】",
+      "capacity" : 7502
+    }, {
+      "id" : 2269,
+      "title" : "第七章",
+      "capacity" : 8400
+    }, {
+      "id" : 2270,
+      "title" : "第八章",
+      "capacity" : 5829
+    }, {
+      "id" : 2271,
+      "title" : "第九章",
+      "capacity" : 5385
+    }, {
+      "id" : 2272,
+      "title" : "第十章",
+      "capacity" : 4966
+    }, {
+      "id" : 2273,
+      "title" : "第十一章",
+      "capacity" : 5252
+    }, {
+      "id" : 2274,
+      "title" : "第十二章",
+      "capacity" : 5396
+    }, {
+      "id" : 2275,
+      "title" : "第十三章",
+      "capacity" : 4251
+    }, {
+      "id" : 2276,
+      "title" : "第十四章",
+      "capacity" : 5802
+    }, {
+      "id" : 2277,
+      "title" : "第十五章",
+      "capacity" : 6948
+    }, {
+      "id" : 2278,
+      "title" : "第十六章",
+      "capacity" : 6613
+    }, {
+      "id" : 2279,
+      "title" : "第十七章",
+      "capacity" : 6788
+    }, {
+      "id" : 2280,
+      "title" : "第十八章",
+      "capacity" : 6285
+    }, {
+      "id" : 2281,
+      "title" : "第十九章",
+      "capacity" : 7216
+    }, {
+      "id" : 2282,
+      "title" : "第二十章",
+      "capacity" : 6879
+    }, {
+      "id" : 2283,
+      "title" : "第二十一章",
+      "capacity" : 6717
+    }, {
+      "id" : 2284,
+      "title" : "第二十二章",
+      "capacity" : 6697
+    }, {
+      "id" : 2285,
+      "title" : "第二十三章",
+      "capacity" : 7680
+    }, {
+      "id" : 2286,
+      "title" : "第二十四章",
+      "capacity" : 6920
+    }, {
+      "id" : 2287,
+      "title" : "第二十五章",
+      "capacity" : 7151
+    }, {
+      "id" : 2288,
+      "title" : "第二十六章",
+      "capacity" : 7287
+    }, {
+      "id" : 2289,
+      "title" : "第二十七章",
+      "capacity" : 6333
+    }, {
+      "id" : 2290,
+      "title" : "第二十八章",
+      "capacity" : 6409
+    }, {
+      "id" : 2291,
+      "title" : "第二十九章",
+      "capacity" : 6990
+    }, {
+      "id" : 2292,
+      "title" : "第三十章",
+      "capacity" : 6935
+    }, {
+      "id" : 2293,
+      "title" : "第三十一章",
+      "capacity" : 6167
+    }, {
+      "id" : 2294,
+      "title" : "第三十二章",
+      "capacity" : 6722
+    }, {
+      "id" : 2295,
+      "title" : "第三十三章",
+      "capacity" : 6661
+    }, {
+      "id" : 2296,
+      "title" : "第三十四章",
+      "capacity" : 6134
+    }, {
+      "id" : 2297,
+      "title" : "第三十五章",
+      "capacity" : 7077
+    }, {
+      "id" : 2298,
+      "title" : "第三十六章",
+      "capacity" : 7168
+    }, {
+      "id" : 2299,
+      "title" : "第三十七章",
+      "capacity" : 6252
+    }, {
+      "id" : 2300,
+      "title" : "第三十八章",
+      "capacity" : 6689
+    }, {
+      "id" : 2301,
+      "title" : "第三十九章",
+      "capacity" : 6454
+    }, {
+      "id" : 2302,
+      "title" : "第四十章",
+      "capacity" : 6395
+    }, {
+      "id" : 2303,
+      "title" : "第四十一章",
+      "capacity" : 7411
+    }, {
+      "id" : 2304,
+      "title" : "第四十二章",
+      "capacity" : 7240
+    }, {
+      "id" : 2305,
+      "title" : "第四十三章",
+      "capacity" : 7690
+    }, {
+      "id" : 2306,
+      "title" : "第四十四章",
+      "capacity" : 6783
+    }, {
+      "id" : 2307,
+      "title" : "第四十五章",
+      "capacity" : 6978
+    }, {
+      "id" : 2308,
+      "title" : "第四十六章",
+      "capacity" : 7759
+    }, {
+      "id" : 2309,
+      "title" : "第四十七章",
+      "capacity" : 7231
+    }, {
+      "id" : 2310,
+      "title" : "第四十八章",
+      "capacity" : 6832
+    }, {
+      "id" : 2311,
+      "title" : "第四十九章",
+      "capacity" : 13653
+    }, {
+      "id" : 2312,
+      "title" : "第五十章",
+      "capacity" : 16406
+    } ]
+  }
+}

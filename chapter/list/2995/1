@@ -1,0 +1,134 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 31,
+    "list" : [ {
+      "id" : 4097,
+      "title" : "讲解",
+      "capacity" : 3448
+    }, {
+      "id" : 4098,
+      "title" : "第一章 遇无名人",
+      "capacity" : 10709
+    }, {
+      "id" : 4099,
+      "title" : "第二章 收回遗产开始苦练",
+      "capacity" : 9728
+    }, {
+      "id" : 4100,
+      "title" : "第三章 残酷的记忆",
+      "capacity" : 10603
+    }, {
+      "id" : 4101,
+      "title" : "第四章 断魂的传说",
+      "capacity" : 10679
+    }, {
+      "id" : 4102,
+      "title" : "第五章 试炼",
+      "capacity" : 10296
+    }, {
+      "id" : 4103,
+      "title" : "第六章 收复断魂",
+      "capacity" : 9771
+    }, {
+      "id" : 4104,
+      "title" : "第七章 心的堕落",
+      "capacity" : 10535
+    }, {
+      "id" : 4105,
+      "title" : "第八章 上古的回忆",
+      "capacity" : 9693
+    }, {
+      "id" : 4106,
+      "title" : "第九章 远古的历史",
+      "capacity" : 9195
+    }, {
+      "id" : 4107,
+      "title" : "第十章 好友初见",
+      "capacity" : 11687
+    }, {
+      "id" : 4108,
+      "title" : "第十一章 风魂建立",
+      "capacity" : 10022
+    }, {
+      "id" : 4109,
+      "title" : "第十二章 李风的回忆",
+      "capacity" : 11214
+    }, {
+      "id" : 4110,
+      "title" : "第十三章 初次同行",
+      "capacity" : 9975
+    }, {
+      "id" : 4111,
+      "title" : "第十四章 联合出手",
+      "capacity" : 11427
+    }, {
+      "id" : 4112,
+      "title" : "第十五章 风系魔导师（上）",
+      "capacity" : 10115
+    }, {
+      "id" : 4113,
+      "title" : "第十六章 风系魔导师（下）",
+      "capacity" : 10905
+    }, {
+      "id" : 4114,
+      "title" : "第十七章 首次相见",
+      "capacity" : 9965
+    }, {
+      "id" : 4115,
+      "title" : "第十八章 忍者李风",
+      "capacity" : 10233
+    }, {
+      "id" : 4116,
+      "title" : "第十九章 李风的师傅",
+      "capacity" : 10450
+    }, {
+      "id" : 4117,
+      "title" : "第二十章 斩杀城守",
+      "capacity" : 10342
+    }, {
+      "id" : 4118,
+      "title" : "第二十一章 彼此约定",
+      "capacity" : 10757
+    }, {
+      "id" : 4119,
+      "title" : "第二十二章 比武大赛（上）",
+      "capacity" : 10775
+    }, {
+      "id" : 4120,
+      "title" : "第二十三章 比武大赛（中）",
+      "capacity" : 9956
+    }, {
+      "id" : 4121,
+      "title" : "第二十四章 比武大赛（下）",
+      "capacity" : 10079
+    }, {
+      "id" : 4122,
+      "title" : "第二十五章 出去闯荡",
+      "capacity" : 9518
+    }, {
+      "id" : 4123,
+      "title" : "第二十六章 约定",
+      "capacity" : 11407
+    }, {
+      "id" : 4124,
+      "title" : "第二十七章 政变",
+      "capacity" : 10076
+    }, {
+      "id" : 4125,
+      "title" : "第二十八章 离开",
+      "capacity" : 10651
+    }, {
+      "id" : 4126,
+      "title" : "第三十九章 赌约之战",
+      "capacity" : 9285
+    }, {
+      "id" : 4127,
+      "title" : "第四十章 愿赌服输",
+      "capacity" : 10021
+    } ]
+  }
+}

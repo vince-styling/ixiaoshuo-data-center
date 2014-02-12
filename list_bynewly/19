@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 19,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3699,
+      "name" : "莫问我是谁",
+      "summary" : "从2001年穿越剧的鼻祖《寻秦记》，到现在TVB又推出《情逆三世缘》，看来穿越在很多心中是一个梦。那",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44570.jpg",
+      "updateStatus" : 1,
+      "capacity" : 208965,
+      "lastUpdateTime" : "2013-12-21 03:29:13"
+    }, {
+      "id" : 2311,
+      "name" : "凤血",
+      "summary" : "“二哥，你来这里做什么？”左寻好似没有看到刚才的事情，扬起一抹笑，说：“自然是来看妹妹的。”左晓慧知",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47262.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4492507,
+      "lastUpdateTime" : "2013-12-21 03:23:56"
+    }, {
+      "id" : 2648,
+      "name" : "浮生琉璃路",
+      "summary" : "时尚编辑不是真实身份，顶尖人物为何消失又惊现，缘分相遇，缘来缘去，一切似乎又回到了原点，但少了些什么",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 5542171,
+      "lastUpdateTime" : "2013-12-21 03:02:54"
+    }, {
+      "id" : 3717,
+      "name" : "异界纵横",
+      "summary" : "二十一世纪的一个屌丝青年雷振宇，在一次山洞冒险中，穿越到了异世。本是胆小的他却穿越到一个弱肉强食异世",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 111352,
+      "lastUpdateTime" : "2013-12-21 01:42:24"
+    }, {
+      "id" : 3097,
+      "name" : "穿越之丑凤倾城",
+      "summary" : "她的样貌奇丑无比，脸上丑陋的图案使她被众人冷眼相看，就连亲身父母也嫌弃她的无奈，她的恨，她的痛，没有",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_4390.jpg",
+      "updateStatus" : 1,
+      "capacity" : 208045,
+      "lastUpdateTime" : "2013-12-21 00:47:50"
+    }, {
+      "id" : 3250,
+      "name" : "极点之境",
+      "summary" : "神是唯一，却有三个位格，圣父是创生，圣子是守护，圣灵则为调率。而路西法则是那不为人知的另一个秘密。神",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19998.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1018947,
+      "lastUpdateTime" : "2013-12-20 23:35:09"
+    }, {
+      "id" : 3283,
+      "name" : "掠心总裁：爹地，你弱爆了！",
+      "summary" : "蓝若雪——一个为了父亲和继母的婚姻而努力卑微的活着的女生。冷天赫———一个拥有亿万身家但是却单身的多",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47164.jpg",
+      "updateStatus" : 1,
+      "capacity" : 275379,
+      "lastUpdateTime" : "2013-12-20 23:17:16"
+    }, {
+      "id" : 2870,
+      "name" : "爱情有多远",
+      "summary" : "如何让我遇见你，在我最美丽的时候。曾经苦苦追求着爱情，而爱到底离我们有多远，为何执着的心始终得不到想",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47368.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4784457,
+      "lastUpdateTime" : "2013-12-20 23:17:13"
+    }, {
+      "id" : 3095,
+      "name" : "墨色眼瞳中的温柔",
+      "summary" : "少女似美酒，浓香醇厚少年似蒲公英的种子，一路相随渐影渐离樱花树下，唯美浪漫，花瓣飘落流连于手指之间豪",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 24997,
+      "lastUpdateTime" : "2013-12-20 22:55:57"
+    }, {
+      "id" : 3226,
+      "name" : "奇迹少年",
+      "summary" : "与人界隔离的A市里，生活着异能者这一种族的人类。万年难遇的异能——奇迹降临。青年X用奇迹偷走了十万人",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 29968,
+      "lastUpdateTime" : "2013-12-20 22:01:49"
+    }, {
+      "id" : 3672,
+      "name" : "只愿得君心",
+      "summary" : "一次意外，她险些摔下悬崖，稚嫩的呼救声，第一次见到了他。他面无表情的把她从死亡的边缘拉了上来，她已对",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 210678,
+      "lastUpdateTime" : "2013-12-20 21:42:35"
+    }, {
+      "id" : 3108,
+      "name" : "金豆豆是宝贝疙瘩",
+      "summary" : "“宝贝~”带着浓浓的尾音的男生传进了一个长得非常卡哇伊的女孩儿的耳朵里面。被打扰了自己午睡的女孩儿顿",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 133203,
+      "lastUpdateTime" : "2013-12-20 21:13:57"
+    }, {
+      "id" : 3006,
+      "name" : "君在水之湄",
+      "summary" : "好不容易以为遇到了真命天子，迫不及待的闪婚，然而，老天还真是不眷顾她。闪婚的代价，就是电闪雷鸣中被带",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42062.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8504594,
+      "lastUpdateTime" : "2013-12-20 21:02:50"
+    }, {
+      "id" : 3511,
+      "name" : "为续雪香",
+      "summary" : "一个貌似青梅竹马的“师兄师妹”式爱情故事。看温柔师兄如何成功娶“妹”生子~“师兄会一直对梨儿好。”轻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43366.jpg",
+      "updateStatus" : 1,
+      "capacity" : 198425,
+      "lastUpdateTime" : "2013-12-20 20:54:47"
+    }, {
+      "id" : 2819,
+      "name" : "医狂天下：驯服邪恶暗帝",
+      "summary" : "曾经他靠近她是为了利用她，当目的实现，他才发现自己不知不觉已经将心遗失，蓦然回首，那人已经消失得无影",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47618.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2639255,
+      "lastUpdateTime" : "2013-12-20 20:33:04"
+    }, {
+      "id" : 3512,
+      "name" : "朱颜修仙记",
+      "summary" : "现代大学生失足落山穿到了修仙世界成了被抛弃的小婴儿被不负责任的师爹捡回了山门，从此过上了修三代的美好",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 275265,
+      "lastUpdateTime" : "2013-12-20 20:16:21"
+    }, {
+      "id" : 2603,
+      "name" : "墨瞳物语",
+      "summary" : "孪生妹妹反目成仇？微微心动的男人爱上妹妹？失去眼角膜？这些悲伤的事情在修真之后似乎再也不能影响她的情",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46527.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4981050,
+      "lastUpdateTime" : "2013-12-20 18:50:41"
+    }, {
+      "id" : 2410,
+      "name" : "霸情总裁：女人，别太冷",
+      "summary" : "这个女人，真是该死的欠扁！怎么可以在爬上他的床之后逃跑呢？他又不是鬼！！！真是的！见面了就提醒他，她",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15978.jpg",
+      "updateStatus" : 2,
+      "capacity" : 4356399,
+      "lastUpdateTime" : "2013-12-20 18:20:17"
+    }, {
+      "id" : 2176,
+      "name" : "重生之堕仙",
+      "summary" : "红尘三千，谁人渡我与苦海。碧落九天，谁人救我与慈航。在这八荒六合之间，无我相、无人相，无众生相。三相",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47155.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4966205,
+      "lastUpdateTime" : "2013-12-20 17:55:14"
+    }, {
+      "id" : 3234,
+      "name" : "死神通法三部曲",
+      "summary" : "死、死、死、死。当夜幕降临、恐惧袭来之时、死神就会微笑着出现在你的面前、或者有人跟在你的身后……",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 10738,
+      "lastUpdateTime" : "2013-12-20 17:14:45"
+    } ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 22,
+    "list" : [ {
+      "id" : 4923,
+      "title" : "不靠谱的娘亲",
+      "capacity" : 7617
+    }, {
+      "id" : 4924,
+      "title" : "养成神龙的日子（一）",
+      "capacity" : 6062
+    }, {
+      "id" : 4925,
+      "title" : "养成神龙的日子（二）",
+      "capacity" : 7500
+    }, {
+      "id" : 4926,
+      "title" : "养成神龙的日子（三）",
+      "capacity" : 5470
+    }, {
+      "id" : 4927,
+      "title" : "养成神龙的日子（四）",
+      "capacity" : 6501
+    }, {
+      "id" : 4928,
+      "title" : "养成神龙的日子（五）",
+      "capacity" : 7182
+    }, {
+      "id" : 4929,
+      "title" : "谁偷了我的神龙（一）",
+      "capacity" : 7746
+    }, {
+      "id" : 4930,
+      "title" : "谁偷了我的神龙（二）",
+      "capacity" : 6507
+    }, {
+      "id" : 4931,
+      "title" : "小神龙长大了（一）",
+      "capacity" : 6419
+    }, {
+      "id" : 4932,
+      "title" : "小神龙长大了（二）",
+      "capacity" : 5833
+    }, {
+      "id" : 4933,
+      "title" : "小神龙长大了（三）",
+      "capacity" : 6098
+    }, {
+      "id" : 4934,
+      "title" : "叹龙墟（一）",
+      "capacity" : 6297
+    }, {
+      "id" : 4935,
+      "title" : "叹龙墟（二）",
+      "capacity" : 6116
+    }, {
+      "id" : 4936,
+      "title" : "叹龙墟（三）",
+      "capacity" : 5709
+    }, {
+      "id" : 4937,
+      "title" : "凤凰梦回（一）",
+      "capacity" : 5825
+    }, {
+      "id" : 4938,
+      "title" : "凤凰梦回（二）",
+      "capacity" : 6769
+    }, {
+      "id" : 4939,
+      "title" : "凤凰梦回（三）",
+      "capacity" : 5466
+    }, {
+      "id" : 4940,
+      "title" : "桃花初绽（一）",
+      "capacity" : 4517
+    }, {
+      "id" : 4941,
+      "title" : "桃花初绽（二）",
+      "capacity" : 5228
+    }, {
+      "id" : 4942,
+      "title" : "桃花初绽（三）",
+      "capacity" : 4474
+    }, {
+      "id" : 4943,
+      "title" : "桃花初绽（四）",
+      "capacity" : 5561
+    }, {
+      "id" : 4944,
+      "title" : "桃花初绽（五）",
+      "capacity" : 5804
+    } ]
+  }
+}

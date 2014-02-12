@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 3672,
+      "title" : "第一章 穿越",
+      "capacity" : 3237
+    }, {
+      "id" : 3673,
+      "title" : "第二章 重生，誓言！",
+      "capacity" : 4563
+    }, {
+      "id" : 3674,
+      "title" : "第三章 斗狼",
+      "capacity" : 4426
+    }, {
+      "id" : 3675,
+      "title" : "四 妖孽",
+      "capacity" : 3139
+    }, {
+      "id" : 3676,
+      "title" : "五 嚣张",
+      "capacity" : 4306
+    }, {
+      "id" : 3677,
+      "title" : "六 任务",
+      "capacity" : 3687
+    }, {
+      "id" : 3678,
+      "title" : "七 青衣",
+      "capacity" : 4125
+    } ]
+  }
+}

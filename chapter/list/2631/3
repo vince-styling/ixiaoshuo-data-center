@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 104,
+    "list" : [ {
+      "id" : 2195,
+      "title" : "第九十四章 陷阱",
+      "capacity" : 2755
+    }, {
+      "id" : 2196,
+      "title" : "第九十五章 恨",
+      "capacity" : 2767
+    }, {
+      "id" : 2197,
+      "title" : "第九十六章 吓破了胆",
+      "capacity" : 2888
+    }, {
+      "id" : 2198,
+      "title" : "第九十七章 一切的一切",
+      "capacity" : 3360
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 36,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2711,
+      "name" : "卿本佳人：第一女状元",
+      "updateStatus" : 1,
+      "distance" : 6532,
+      "memberId" : 6670
+    }, {
+      "id" : 2579,
+      "name" : "萧瑟兰阁倚花愁",
+      "updateStatus" : 1,
+      "distance" : 8721,
+      "memberId" : 1288
+    }, {
+      "id" : 3123,
+      "name" : "大神嫁到",
+      "updateStatus" : 1,
+      "distance" : 2386,
+      "memberId" : 1903
+    }, {
+      "id" : 2111,
+      "name" : "官家小妾",
+      "updateStatus" : 1,
+      "distance" : 4345,
+      "memberId" : 4131
+    }, {
+      "id" : 2612,
+      "name" : "女汉子成长史",
+      "updateStatus" : 1,
+      "distance" : 4406,
+      "memberId" : 2109
+    }, {
+      "id" : 2178,
+      "name" : "穿越之朔月传奇",
+      "updateStatus" : 1,
+      "distance" : 9003,
+      "memberId" : 7911
+    }, {
+      "id" : 3405,
+      "name" : "明月何处",
+      "updateStatus" : 1,
+      "distance" : 5607,
+      "memberId" : 7246
+    }, {
+      "id" : 2737,
+      "name" : "醉清狂",
+      "updateStatus" : 1,
+      "distance" : 760,
+      "memberId" : 7680
+    }, {
+      "id" : 3345,
+      "name" : "黑洞星海",
+      "updateStatus" : 1,
+      "distance" : 2319,
+      "memberId" : 7094
+    }, {
+      "id" : 3314,
+      "name" : "倾城薄雾，似水流年",
+      "updateStatus" : 2,
+      "distance" : 8436,
+      "memberId" : 2659
+    }, {
+      "id" : 2112,
+      "name" : "温暖如春",
+      "updateStatus" : 1,
+      "distance" : 5464,
+      "memberId" : 6947
+    }, {
+      "id" : 2926,
+      "name" : "清宫情史",
+      "updateStatus" : 1,
+      "distance" : 3124,
+      "memberId" : 8349
+    }, {
+      "id" : 2136,
+      "name" : "替身王爷：妖妃有点萌",
+      "updateStatus" : 1,
+      "distance" : 1448,
+      "memberId" : 6641
+    }, {
+      "id" : 2275,
+      "name" : "国殇，风吟江山",
+      "updateStatus" : 2,
+      "distance" : 9876,
+      "memberId" : 4133
+    }, {
+      "id" : 2569,
+      "name" : "倾世绝傲：女神修仙传",
+      "updateStatus" : 1,
+      "distance" : 3412,
+      "memberId" : 3388
+    }, {
+      "id" : 3399,
+      "name" : "太子殿下，不爱请休妻",
+      "updateStatus" : 1,
+      "distance" : 8485,
+      "memberId" : 5149
+    }, {
+      "id" : 3695,
+      "name" : "大叔你要还我钱",
+      "updateStatus" : 1,
+      "distance" : 4606,
+      "memberId" : 2071
+    }, {
+      "id" : 2772,
+      "name" : "盛逝芳华",
+      "updateStatus" : 1,
+      "distance" : 9336,
+      "memberId" : 2594
+    }, {
+      "id" : 2650,
+      "name" : "我要稳稳的幸福",
+      "updateStatus" : 1,
+      "distance" : 5681,
+      "memberId" : 8217
+    }, {
+      "id" : 2198,
+      "name" : "花开浮生：花乱莫倾城",
+      "updateStatus" : 2,
+      "distance" : 6709,
+      "memberId" : 2256
+    } ]
+  }
+}

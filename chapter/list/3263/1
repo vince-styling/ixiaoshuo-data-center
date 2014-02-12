@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 63,
+    "list" : [ {
+      "id" : 4422,
+      "title" : "（一）",
+      "capacity" : 5204
+    }, {
+      "id" : 4423,
+      "title" : "（二）",
+      "capacity" : 5575
+    }, {
+      "id" : 4424,
+      "title" : "（三）",
+      "capacity" : 5410
+    }, {
+      "id" : 4425,
+      "title" : "（四）",
+      "capacity" : 4576
+    }, {
+      "id" : 4426,
+      "title" : "（五）",
+      "capacity" : 5112
+    }, {
+      "id" : 4427,
+      "title" : "（六）",
+      "capacity" : 6187
+    }, {
+      "id" : 4428,
+      "title" : "（七）",
+      "capacity" : 5376
+    }, {
+      "id" : 4429,
+      "title" : "（八）",
+      "capacity" : 4896
+    }, {
+      "id" : 4430,
+      "title" : "（九）",
+      "capacity" : 6204
+    }, {
+      "id" : 4431,
+      "title" : "（十）",
+      "capacity" : 5015
+    }, {
+      "id" : 4432,
+      "title" : "（十一）",
+      "capacity" : 4985
+    }, {
+      "id" : 4433,
+      "title" : "（十二）",
+      "capacity" : 4844
+    }, {
+      "id" : 4434,
+      "title" : "（十三）",
+      "capacity" : 5337
+    }, {
+      "id" : 4435,
+      "title" : "（十四）",
+      "capacity" : 5369
+    }, {
+      "id" : 4436,
+      "title" : "（十五）",
+      "capacity" : 4784
+    }, {
+      "id" : 4437,
+      "title" : "（十六）",
+      "capacity" : 6030
+    }, {
+      "id" : 4438,
+      "title" : "（十七）",
+      "capacity" : 5946
+    }, {
+      "id" : 4439,
+      "title" : "（十八）",
+      "capacity" : 5162
+    }, {
+      "id" : 4440,
+      "title" : "（十九）",
+      "capacity" : 4892
+    }, {
+      "id" : 4441,
+      "title" : "（二十）",
+      "capacity" : 5624
+    }, {
+      "id" : 4442,
+      "title" : "（二十一）",
+      "capacity" : 5118
+    }, {
+      "id" : 4443,
+      "title" : "（二十二）",
+      "capacity" : 5273
+    }, {
+      "id" : 4444,
+      "title" : "（二十三）",
+      "capacity" : 5341
+    }, {
+      "id" : 4445,
+      "title" : "（二十四）",
+      "capacity" : 4420
+    }, {
+      "id" : 4446,
+      "title" : "（二十五）",
+      "capacity" : 5416
+    }, {
+      "id" : 4447,
+      "title" : "（二十六）",
+      "capacity" : 4785
+    }, {
+      "id" : 4448,
+      "title" : "（二十七）",
+      "capacity" : 5409
+    }, {
+      "id" : 4449,
+      "title" : "（二十八）",
+      "capacity" : 4588
+    }, {
+      "id" : 4450,
+      "title" : "（二十九）",
+      "capacity" : 5393
+    }, {
+      "id" : 4451,
+      "title" : "（三十）",
+      "capacity" : 5249
+    }, {
+      "id" : 4452,
+      "title" : "（三十一）",
+      "capacity" : 4945
+    }, {
+      "id" : 4453,
+      "title" : "（三十二）",
+      "capacity" : 5601
+    }, {
+      "id" : 4454,
+      "title" : "（三十三）",
+      "capacity" : 4865
+    }, {
+      "id" : 4455,
+      "title" : "（三十四）",
+      "capacity" : 5396
+    }, {
+      "id" : 4456,
+      "title" : "（三十五）",
+      "capacity" : 5122
+    }, {
+      "id" : 4457,
+      "title" : "（三十六）",
+      "capacity" : 4828
+    }, {
+      "id" : 4458,
+      "title" : "（三十七）",
+      "capacity" : 5215
+    }, {
+      "id" : 4459,
+      "title" : "（三十八）",
+      "capacity" : 5368
+    }, {
+      "id" : 4460,
+      "title" : "（三十九）",
+      "capacity" : 4654
+    }, {
+      "id" : 4461,
+      "title" : "（四十）",
+      "capacity" : 5315
+    }, {
+      "id" : 4462,
+      "title" : "（四十一）",
+      "capacity" : 5012
+    }, {
+      "id" : 4463,
+      "title" : "（四十二）",
+      "capacity" : 4815
+    }, {
+      "id" : 4464,
+      "title" : "（四十三）",
+      "capacity" : 4784
+    }, {
+      "id" : 4465,
+      "title" : "（四十四）",
+      "capacity" : 4778
+    }, {
+      "id" : 4466,
+      "title" : "（四十五）",
+      "capacity" : 4455
+    }, {
+      "id" : 4467,
+      "title" : "（四十六）",
+      "capacity" : 4658
+    }, {
+      "id" : 4468,
+      "title" : "（四十七）",
+      "capacity" : 4987
+    }, {
+      "id" : 4469,
+      "title" : "（四十八）",
+      "capacity" : 4877
+    }, {
+      "id" : 4470,
+      "title" : "（四十九）",
+      "capacity" : 5362
+    }, {
+      "id" : 4471,
+      "title" : "（五十）",
+      "capacity" : 4655
+    } ]
+  }
+}

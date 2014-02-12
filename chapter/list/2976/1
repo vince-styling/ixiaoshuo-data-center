@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 59,
+    "list" : [ {
+      "id" : 1312,
+      "title" : "番外篇： （一）",
+      "capacity" : 4706
+    }, {
+      "id" : 1313,
+      "title" : "番外篇：（二）",
+      "capacity" : 4999
+    }, {
+      "id" : 1314,
+      "title" : "回忆（宓妃篇）",
+      "capacity" : 5047
+    }, {
+      "id" : 1315,
+      "title" : "回忆（南宫篇）",
+      "capacity" : 4606
+    }, {
+      "id" : 1316,
+      "title" : "第一章 来到地府",
+      "capacity" : 6231
+    }, {
+      "id" : 1317,
+      "title" : "第二章 阎王是个帅哥",
+      "capacity" : 5490
+    }, {
+      "id" : 1318,
+      "title" : "第三章 命运多舛",
+      "capacity" : 5917
+    }, {
+      "id" : 1319,
+      "title" : "第四章 新的名字",
+      "capacity" : 5205
+    }, {
+      "id" : 1320,
+      "title" : "第五章 出府",
+      "capacity" : 5023
+    }, {
+      "id" : 1321,
+      "title" : "第六章 小弟南瑜",
+      "capacity" : 5308
+    }, {
+      "id" : 1322,
+      "title" : "第七章 秘密通道",
+      "capacity" : 5619
+    }, {
+      "id" : 1323,
+      "title" : "第八章 被逮个现行",
+      "capacity" : 5008
+    }, {
+      "id" : 1324,
+      "title" : "第九章 处罚",
+      "capacity" : 4840
+    }, {
+      "id" : 1325,
+      "title" : "第十章 后遗症",
+      "capacity" : 4796
+    }, {
+      "id" : 1326,
+      "title" : "第十一章 磨练",
+      "capacity" : 5353
+    }, {
+      "id" : 1327,
+      "title" : "第十二章 重聚",
+      "capacity" : 4755
+    }, {
+      "id" : 1328,
+      "title" : "第十三章 喝醉",
+      "capacity" : 4594
+    }, {
+      "id" : 1329,
+      "title" : "第十四章 出发",
+      "capacity" : 4515
+    }, {
+      "id" : 1330,
+      "title" : "第十五章 旅程结束",
+      "capacity" : 4577
+    }, {
+      "id" : 1331,
+      "title" : "第十六章 煮粥",
+      "capacity" : 4503
+    }, {
+      "id" : 1332,
+      "title" : "第十七章 皇后驾到",
+      "capacity" : 4717
+    }, {
+      "id" : 1333,
+      "title" : "第十八章 往事（一）",
+      "capacity" : 4510
+    }, {
+      "id" : 1334,
+      "title" : "第十九章 往事（二）",
+      "capacity" : 4515
+    }, {
+      "id" : 1335,
+      "title" : "第二十章 梦 、黑猫",
+      "capacity" : 4869
+    }, {
+      "id" : 1336,
+      "title" : "第二十一章 捉鱼",
+      "capacity" : 5042
+    }, {
+      "id" : 1337,
+      "title" : "第二十二章 印记",
+      "capacity" : 4770
+    }, {
+      "id" : 1338,
+      "title" : "第二十三章 请客大出血",
+      "capacity" : 6244
+    }, {
+      "id" : 1339,
+      "title" : "第二十四章 粥铺",
+      "capacity" : 6478
+    }, {
+      "id" : 1340,
+      "title" : "第二十五章 幕后老板",
+      "capacity" : 4494
+    }, {
+      "id" : 1341,
+      "title" : "第二十六章 怪异的南宫天灏",
+      "capacity" : 4868
+    }, {
+      "id" : 1342,
+      "title" : "第二十七章 入宫",
+      "capacity" : 4832
+    }, {
+      "id" : 1343,
+      "title" : "第二十八章 神秘箱子",
+      "capacity" : 5011
+    }, {
+      "id" : 1344,
+      "title" : "第二十九章 龙傲国特产",
+      "capacity" : 4862
+    }, {
+      "id" : 1345,
+      "title" : "第三十章 表露心意",
+      "capacity" : 5326
+    }, {
+      "id" : 1346,
+      "title" : "第三十一章 遇刺",
+      "capacity" : 5065
+    }, {
+      "id" : 1347,
+      "title" : "第三十二章 谣言",
+      "capacity" : 4582
+    }, {
+      "id" : 1348,
+      "title" : "第三十三章 遇故知",
+      "capacity" : 5668
+    }, {
+      "id" : 1349,
+      "title" : "第三十四章 原来是雌性啊",
+      "capacity" : 5167
+    }, {
+      "id" : 1350,
+      "title" : "第三十五章 未完的谈话",
+      "capacity" : 5838
+    }, {
+      "id" : 1351,
+      "title" : "第三十六章 设计图",
+      "capacity" : 5485
+    }, {
+      "id" : 1352,
+      "title" : "第三十七章 奇怪的印记",
+      "capacity" : 5861
+    }, {
+      "id" : 1353,
+      "title" : "第三十八章 被调戏了",
+      "capacity" : 5181
+    }, {
+      "id" : 1354,
+      "title" : "第三十九章 感动",
+      "capacity" : 5773
+    }, {
+      "id" : 1355,
+      "title" : "第四十章 开业",
+      "capacity" : 5178
+    }, {
+      "id" : 1356,
+      "title" : "第四十一章 另一个自己",
+      "capacity" : 5067
+    }, {
+      "id" : 1357,
+      "title" : "第四十二章 养魂人",
+      "capacity" : 5997
+    }, {
+      "id" : 1358,
+      "title" : "第四十三章 昏迷",
+      "capacity" : 6843
+    }, {
+      "id" : 1359,
+      "title" : "第四十四章 南瑜的身世",
+      "capacity" : 4786
+    }, {
+      "id" : 1360,
+      "title" : "第四十五章 十年相守",
+      "capacity" : 4770
+    }, {
+      "id" : 1361,
+      "title" : "第四十六章 战乱前奏",
+      "capacity" : 4664
+    } ]
+  }
+}

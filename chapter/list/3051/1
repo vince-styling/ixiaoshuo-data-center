@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 2671,
+      "title" : "第一章 那年年少须尽欢",
+      "capacity" : 8911
+    }, {
+      "id" : 2672,
+      "title" : "第二章 少年不识愁滋味",
+      "capacity" : 9528
+    }, {
+      "id" : 2673,
+      "title" : "第三章 东风临夜冷于秋",
+      "capacity" : 7700
+    }, {
+      "id" : 2674,
+      "title" : "第四章 碧荷才露波折忧",
+      "capacity" : 10685
+    }, {
+      "id" : 2675,
+      "title" : "第五章 帝寿六月迎客来",
+      "capacity" : 7792
+    }, {
+      "id" : 2676,
+      "title" : "第六章 月荷塘前紫眸狐",
+      "capacity" : 10278
+    }, {
+      "id" : 2677,
+      "title" : "第七章 窗间月夕夕成玦",
+      "capacity" : 10808
+    }, {
+      "id" : 2678,
+      "title" : "第八章 未成沈醉意先融",
+      "capacity" : 8855
+    } ]
+  }
+}

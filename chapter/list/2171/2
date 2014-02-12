@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 1373,
+      "title" : "医院训练1",
+      "capacity" : 9113
+    }, {
+      "id" : 1374,
+      "title" : "医院训练之《回归学校》",
+      "capacity" : 9189
+    }, {
+      "id" : 1375,
+      "title" : "医院训练之赵冰失踪",
+      "capacity" : 9279
+    }, {
+      "id" : 1376,
+      "title" : "文文上架了请大家支持",
+      "capacity" : 2236
+    } ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 21,
+    "list" : [ {
+      "id" : 2324,
+      "title" : "1",
+      "capacity" : 4201
+    }, {
+      "id" : 2325,
+      "title" : "2",
+      "capacity" : 6711
+    }, {
+      "id" : 2326,
+      "title" : "3",
+      "capacity" : 4818
+    }, {
+      "id" : 2327,
+      "title" : "4",
+      "capacity" : 5568
+    }, {
+      "id" : 2328,
+      "title" : "5",
+      "capacity" : 3962
+    }, {
+      "id" : 2329,
+      "title" : "6",
+      "capacity" : 5392
+    }, {
+      "id" : 2330,
+      "title" : "7",
+      "capacity" : 3457
+    }, {
+      "id" : 2331,
+      "title" : "8",
+      "capacity" : 6847
+    }, {
+      "id" : 2332,
+      "title" : "9",
+      "capacity" : 4675
+    }, {
+      "id" : 2333,
+      "title" : "10",
+      "capacity" : 6018
+    }, {
+      "id" : 2334,
+      "title" : "11",
+      "capacity" : 4799
+    }, {
+      "id" : 2335,
+      "title" : "12",
+      "capacity" : 4943
+    }, {
+      "id" : 2336,
+      "title" : "13",
+      "capacity" : 3359
+    }, {
+      "id" : 2337,
+      "title" : "14",
+      "capacity" : 4570
+    }, {
+      "id" : 2338,
+      "title" : "15",
+      "capacity" : 5224
+    }, {
+      "id" : 2339,
+      "title" : "16",
+      "capacity" : 8037
+    }, {
+      "id" : 2340,
+      "title" : "17",
+      "capacity" : 9199
+    }, {
+      "id" : 2341,
+      "title" : "18",
+      "capacity" : 4295
+    }, {
+      "id" : 2342,
+      "title" : "19",
+      "capacity" : 6072
+    }, {
+      "id" : 2343,
+      "title" : "20",
+      "capacity" : 4157
+    }, {
+      "id" : 2344,
+      "title" : "21",
+      "capacity" : 5917
+    } ]
+  }
+}

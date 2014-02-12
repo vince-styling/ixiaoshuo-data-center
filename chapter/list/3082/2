@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 62,
+    "list" : [ {
+      "id" : 3902,
+      "title" : "第四十八章 师徒反目",
+      "capacity" : 13099
+    }, {
+      "id" : 3903,
+      "title" : "第四十九章",
+      "capacity" : 9185
+    }, {
+      "id" : 3904,
+      "title" : "第五十章 神马话剧？",
+      "capacity" : 9511
+    }, {
+      "id" : 3905,
+      "title" : "第五十一章 被利用的牌子",
+      "capacity" : 9384
+    }, {
+      "id" : 3906,
+      "title" : "第五十二章 广施恩八方来援",
+      "capacity" : 9246
+    }, {
+      "id" : 3907,
+      "title" : "第五十三章 戏散宴酣酒痴狂",
+      "capacity" : 7943
+    }, {
+      "id" : 3908,
+      "title" : "第五十四章 醉假意真情谁辨",
+      "capacity" : 3301
+    }, {
+      "id" : 3909,
+      "title" : "第五十五章 昔日伊人今日敌",
+      "capacity" : 5331
+    }, {
+      "id" : 3910,
+      "title" : "第五十六章 情圣联盟",
+      "capacity" : 3877
+    }, {
+      "id" : 3911,
+      "title" : "第五十七章 排众议舌战群儒",
+      "capacity" : 6074
+    }, {
+      "id" : 3912,
+      "title" : "第五十八章 把妹之六大误区",
+      "capacity" : 8365
+    }, {
+      "id" : 3913,
+      "title" : "第五十九 彷徨",
+      "capacity" : 7306
+    } ]
+  }
+}

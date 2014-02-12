@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 2848,
+      "title" : "050、竞选铁将军",
+      "capacity" : 6357
+    }, {
+      "id" : 2849,
+      "title" : "051、万宗千影",
+      "capacity" : 7276
+    }, {
+      "id" : 2850,
+      "title" : "052、父与子",
+      "capacity" : 3158
+    } ]
+  }
+}

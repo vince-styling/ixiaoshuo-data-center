@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 4773,
+      "title" : "一 左手花开 右手花落",
+      "capacity" : 6595
+    }, {
+      "id" : 4774,
+      "title" : "二 流动的青春",
+      "capacity" : 10838
+    }, {
+      "id" : 4775,
+      "title" : "三 你看不见我的眼泪",
+      "capacity" : 12947
+    } ]
+  }
+}

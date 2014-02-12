@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 102,
+    "list" : [ {
+      "id" : 1123,
+      "title" : "绝别（上）",
+      "capacity" : 3750
+    }, {
+      "id" : 1124,
+      "title" : "绝别（下）",
+      "capacity" : 3673
+    } ]
+  }
+}

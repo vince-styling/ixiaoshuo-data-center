@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 4921,
+      "title" : "十二星次的争吵",
+      "capacity" : 8358
+    }, {
+      "id" : 4922,
+      "title" : "生肖女神的恋爱法则",
+      "capacity" : 9476
+    }, {
+      "id" : 4923,
+      "title" : "金神和木神的故事",
+      "capacity" : 8967
+    }, {
+      "id" : 4924,
+      "title" : "水神及相关故事",
+      "capacity" : 8992
+    }, {
+      "id" : 4925,
+      "title" : "水火神大战",
+      "capacity" : 6191
+    }, {
+      "id" : 4926,
+      "title" : "女娲补天的故事",
+      "capacity" : 5118
+    }, {
+      "id" : 4927,
+      "title" : "五行法术",
+      "capacity" : 11773
+    } ]
+  }
+}

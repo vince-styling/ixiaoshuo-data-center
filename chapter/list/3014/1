@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 10,
+    "list" : [ {
+      "id" : 2011,
+      "title" : "第一章",
+      "capacity" : 7132
+    }, {
+      "id" : 2012,
+      "title" : "第二章",
+      "capacity" : 6845
+    }, {
+      "id" : 2013,
+      "title" : "第三章",
+      "capacity" : 6941
+    }, {
+      "id" : 2014,
+      "title" : "第四章",
+      "capacity" : 7150
+    }, {
+      "id" : 2015,
+      "title" : "第五章",
+      "capacity" : 7592
+    }, {
+      "id" : 2016,
+      "title" : "第六章",
+      "capacity" : 7326
+    }, {
+      "id" : 2017,
+      "title" : "第七章",
+      "capacity" : 7619
+    }, {
+      "id" : 2018,
+      "title" : "第八章",
+      "capacity" : 6687
+    }, {
+      "id" : 2019,
+      "title" : "第九章",
+      "capacity" : 6905
+    }, {
+      "id" : 2020,
+      "title" : "第十章",
+      "capacity" : 6471
+    } ]
+  }
+}

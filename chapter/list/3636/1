@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 4656,
+      "title" : "第一章 恩典",
+      "capacity" : 7942
+    }, {
+      "id" : 4657,
+      "title" : "第二章 思念",
+      "capacity" : 8926
+    }, {
+      "id" : 4658,
+      "title" : "第三章 烟火",
+      "capacity" : 6471
+    }, {
+      "id" : 4659,
+      "title" : "第四章 智慧",
+      "capacity" : 6717
+    }, {
+      "id" : 4660,
+      "title" : "第五章 嫉妒",
+      "capacity" : 6661
+    }, {
+      "id" : 4661,
+      "title" : "第六章 原京",
+      "capacity" : 6550
+    } ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 26,
+    "list" : [ {
+      "id" : 3368,
+      "title" : "第一章，正值秋日",
+      "capacity" : 11212
+    }, {
+      "id" : 3369,
+      "title" : "第二章，雪芸巅",
+      "capacity" : 13071
+    }, {
+      "id" : 3370,
+      "title" : "第三章，钟声响起",
+      "capacity" : 13520
+    }, {
+      "id" : 3371,
+      "title" : "第四章，武林大会",
+      "capacity" : 12459
+    }, {
+      "id" : 3372,
+      "title" : "第五章，江湖",
+      "capacity" : 11310
+    }, {
+      "id" : 3373,
+      "title" : "第六章，遭遇劫匪",
+      "capacity" : 10931
+    }, {
+      "id" : 3374,
+      "title" : "第七章，秋中魂",
+      "capacity" : 12001
+    }, {
+      "id" : 3375,
+      "title" : "第八章，惊现洞穴",
+      "capacity" : 11845
+    }, {
+      "id" : 3376,
+      "title" : "第九章，祥福客栈遇悲歌",
+      "capacity" : 11291
+    }, {
+      "id" : 3377,
+      "title" : "第十章，十恶寨",
+      "capacity" : 9973
+    }, {
+      "id" : 3378,
+      "title" : "第十一章，销魂楼",
+      "capacity" : 10599
+    }, {
+      "id" : 3379,
+      "title" : "第十二章，断魂楼求欲",
+      "capacity" : 11081
+    }, {
+      "id" : 3380,
+      "title" : "第十三章，化无冰惊现断魂楼",
+      "capacity" : 12532
+    }, {
+      "id" : 3381,
+      "title" : "第十四章，鬼医",
+      "capacity" : 10826
+    }, {
+      "id" : 3382,
+      "title" : "第十五章，叶飞霜遇难",
+      "capacity" : 9331
+    }, {
+      "id" : 3383,
+      "title" : "第十六章，金刀捕快",
+      "capacity" : 9354
+    }, {
+      "id" : 3384,
+      "title" : "第十七章，江湖险恶",
+      "capacity" : 10587
+    }, {
+      "id" : 3385,
+      "title" : "第十八章，龙凤岗",
+      "capacity" : 9768
+    }, {
+      "id" : 3386,
+      "title" : "第十九章，断魂楼结义",
+      "capacity" : 10734
+    }, {
+      "id" : 3387,
+      "title" : "第二十章，六大门派齐聚雪芸巅",
+      "capacity" : 9499
+    }, {
+      "id" : 3388,
+      "title" : "第二十一章，鬼医之死",
+      "capacity" : 9548
+    }, {
+      "id" : 3389,
+      "title" : "第二十二章，仙侣",
+      "capacity" : 9434
+    }, {
+      "id" : 3390,
+      "title" : "第二十三章，天星镇",
+      "capacity" : 7133
+    }, {
+      "id" : 3391,
+      "title" : "第二十四章，吴灵痛回雪芸巅",
+      "capacity" : 8797
+    }, {
+      "id" : 3392,
+      "title" : "第二十五章，尤春院",
+      "capacity" : 11011
+    }, {
+      "id" : 3393,
+      "title" : "第二十六章，解忧",
+      "capacity" : 10476
+    } ]
+  }
+}

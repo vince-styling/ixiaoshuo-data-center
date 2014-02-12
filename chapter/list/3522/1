@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 2114,
+      "title" : "001",
+      "capacity" : 9203
+    }, {
+      "id" : 2115,
+      "title" : "002",
+      "capacity" : 6983
+    }, {
+      "id" : 2116,
+      "title" : "003",
+      "capacity" : 5968
+    }, {
+      "id" : 2117,
+      "title" : "004",
+      "capacity" : 5650
+    }, {
+      "id" : 2118,
+      "title" : "005",
+      "capacity" : 5971
+    }, {
+      "id" : 2119,
+      "title" : "006",
+      "capacity" : 6788
+    }, {
+      "id" : 2120,
+      "title" : "007",
+      "capacity" : 5991
+    } ]
+  }
+}

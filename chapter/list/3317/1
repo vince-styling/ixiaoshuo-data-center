@@ -1,0 +1,126 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 29,
+    "list" : [ {
+      "id" : 4252,
+      "title" : "序：花季里那个靠窗的女孩",
+      "capacity" : 4241
+    }, {
+      "id" : 4253,
+      "title" : "尾：不是结局的结局",
+      "capacity" : 2005
+    }, {
+      "id" : 4254,
+      "title" : "第一篇 那年",
+      "capacity" : 72
+    }, {
+      "id" : 4255,
+      "title" : "第五篇 大帅",
+      "capacity" : 72
+    }, {
+      "id" : 4256,
+      "title" : "第八篇 尘曲",
+      "capacity" : 11583
+    }, {
+      "id" : 4257,
+      "title" : "第十一篇 高考",
+      "capacity" : 10955
+    }, {
+      "id" : 4258,
+      "title" : "第十四篇 圈",
+      "capacity" : 10810
+    }, {
+      "id" : 4259,
+      "title" : "第十七篇 忆",
+      "capacity" : 16950
+    }, {
+      "id" : 4260,
+      "title" : "第二十一篇 时隔七月",
+      "capacity" : 12097
+    }, {
+      "id" : 4261,
+      "title" : "第二十四篇 空想家回来了",
+      "capacity" : 72
+    }, {
+      "id" : 4262,
+      "title" : "第二十八篇 陌生的城市让人想哭",
+      "capacity" : 72
+    }, {
+      "id" : 4263,
+      "title" : "第三十三篇 树叶之远",
+      "capacity" : 14443
+    }, {
+      "id" : 4264,
+      "title" : "第三十七篇 花儿",
+      "capacity" : 13991
+    }, {
+      "id" : 4265,
+      "title" : "第一卷 不夜城",
+      "capacity" : 10376
+    }, {
+      "id" : 4266,
+      "title" : "第一卷 少年时代",
+      "capacity" : 13844
+    }, {
+      "id" : 4267,
+      "title" : "第二卷 浮生欢",
+      "capacity" : 15743
+    }, {
+      "id" : 4268,
+      "title" : "第三卷 灵魂之败",
+      "capacity" : 9424
+    }, {
+      "id" : 4269,
+      "title" : "第四卷 格桑花的微笑",
+      "capacity" : 24368
+    }, {
+      "id" : 4270,
+      "title" : "代我问候过去",
+      "capacity" : 20894
+    }, {
+      "id" : 4271,
+      "title" : "第五卷 我为疯狂",
+      "capacity" : 13232
+    }, {
+      "id" : 4272,
+      "title" : "第六卷 有罪受，生活有才意义",
+      "capacity" : 7912
+    }, {
+      "id" : 4273,
+      "title" : "十年以后我不怨我",
+      "capacity" : 15874
+    }, {
+      "id" : 4274,
+      "title" : "午后",
+      "capacity" : 16634
+    }, {
+      "id" : 4275,
+      "title" : "花季篇1：女孩已离开",
+      "capacity" : 4725
+    }, {
+      "id" : 4276,
+      "title" : "花季篇2：她们还好吗",
+      "capacity" : 5044
+    }, {
+      "id" : 4277,
+      "title" : "青春篇1：年少时光",
+      "capacity" : 6321
+    }, {
+      "id" : 4278,
+      "title" : "青春篇2：那些年",
+      "capacity" : 4558
+    }, {
+      "id" : 4279,
+      "title" : "青春篇3：逝去的怀念",
+      "capacity" : 4060
+    }, {
+      "id" : 4280,
+      "title" : "青春篇4：不语",
+      "capacity" : 3038
+    } ]
+  }
+}

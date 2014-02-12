@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 3681,
+    "name" : "泡沫初夏",
+    "author" : "飞翔的鱼",
+    "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46074.jpg",
+    "summary" : "在这个匆匆的城市，在这个匆匆的夏天。\n一群年轻人曾经聚过，散过，哭过，笑过。\n在风中的记忆消散，变成泡沫，飞向遥远的天空。\nSummer\nof\nfoam.",
+    "lastUpdateTime" : "2013-12-13 04:05:59",
+    "updateStatus" : 2,
+    "catId" : 130,
+    "catName" : "都市校园",
+    "capacity" : 464842
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 4179,
+      "title" : "(一）家变",
+      "capacity" : 19265
+    }, {
+      "id" : 4180,
+      "title" : "（二）第一个安稳觉",
+      "capacity" : 16076
+    }, {
+      "id" : 4181,
+      "title" : "（三）梦里遇蓝颜",
+      "capacity" : 6627
+    }, {
+      "id" : 4182,
+      "title" : "（四）苏琴失踪",
+      "capacity" : 6199
+    }, {
+      "id" : 4183,
+      "title" : "（五）寻找苏琴",
+      "capacity" : 4706
+    }, {
+      "id" : 4184,
+      "title" : "（六）大闹刑场",
+      "capacity" : 5277
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 48,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2980,
+      "name" : "穿越做将军",
+      "updateStatus" : 1,
+      "distance" : 2364,
+      "memberId" : 7607
+    }, {
+      "id" : 2799,
+      "name" : "雪寻雪见",
+      "updateStatus" : 1,
+      "distance" : 8601,
+      "memberId" : 5152
+    }, {
+      "id" : 2755,
+      "name" : "大话漫游",
+      "updateStatus" : 1,
+      "distance" : 4464,
+      "memberId" : 8716
+    }, {
+      "id" : 3591,
+      "name" : "小羊别闹，来吃草",
+      "updateStatus" : 2,
+      "distance" : 4447,
+      "memberId" : 4688
+    }, {
+      "id" : 3119,
+      "name" : "还珠之浴火重生",
+      "updateStatus" : 1,
+      "distance" : 3977,
+      "memberId" : 7790
+    }, {
+      "id" : 2389,
+      "name" : "我家有个怪蜀黍",
+      "updateStatus" : 2,
+      "distance" : 6488,
+      "memberId" : 8688
+    }, {
+      "id" : 3289,
+      "name" : "总裁养成记",
+      "updateStatus" : 1,
+      "distance" : 2828,
+      "memberId" : 2580
+    }, {
+      "id" : 2359,
+      "name" : "羽落殇心醉红尘",
+      "updateStatus" : 2,
+      "distance" : 2634,
+      "memberId" : 6029
+    }, {
+      "id" : 2972,
+      "name" : "MoMo大陆传奇",
+      "updateStatus" : 1,
+      "distance" : 5574,
+      "memberId" : 6318
+    }, {
+      "id" : 2713,
+      "name" : "凉茶温酒",
+      "updateStatus" : 1,
+      "distance" : 5623,
+      "memberId" : 8656
+    }, {
+      "id" : 2686,
+      "name" : "罂粟：血蔷薇",
+      "updateStatus" : 1,
+      "distance" : 5561,
+      "memberId" : 2136
+    }, {
+      "id" : 3639,
+      "name" : "疯狂的机械师",
+      "updateStatus" : 2,
+      "distance" : 3403,
+      "memberId" : 4121
+    }, {
+      "id" : 2940,
+      "name" : "秦汉·流云浮生",
+      "updateStatus" : 1,
+      "distance" : 5380,
+      "memberId" : 5463
+    }, {
+      "id" : 3620,
+      "name" : "傀儡王妃：不上君王榻",
+      "updateStatus" : 1,
+      "distance" : 2367,
+      "memberId" : 4445
+    }, {
+      "id" : 3028,
+      "name" : "时空的错失她成了小三",
+      "updateStatus" : 1,
+      "distance" : 6261,
+      "memberId" : 8747
+    }, {
+      "id" : 2954,
+      "name" : "大神卖身不卖艺",
+      "updateStatus" : 1,
+      "distance" : 9559,
+      "memberId" : 3008
+    }, {
+      "id" : 3519,
+      "name" : "火影.平静的海面上泛起恋爱的浪花",
+      "updateStatus" : 1,
+      "distance" : 6681,
+      "memberId" : 6130
+    }, {
+      "id" : 3586,
+      "name" : "千年之轮回",
+      "updateStatus" : 1,
+      "distance" : 6672,
+      "memberId" : 4580
+    }, {
+      "id" : 2038,
+      "name" : "凤狂天下：本宫来自特工处",
+      "updateStatus" : 1,
+      "distance" : 9132,
+      "memberId" : 5227
+    }, {
+      "id" : 3297,
+      "name" : "左手的秘密",
+      "updateStatus" : 1,
+      "distance" : 4665,
+      "memberId" : 1215
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 21,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2186,
+      "name" : "落日传说",
+      "updateStatus" : 2,
+      "distance" : 7853,
+      "memberId" : 2525
+    }, {
+      "id" : 3355,
+      "name" : "野蛮小宫女",
+      "updateStatus" : 1,
+      "distance" : 742,
+      "memberId" : 2451
+    }, {
+      "id" : 2447,
+      "name" : "生活在深圳",
+      "updateStatus" : 1,
+      "distance" : 4631,
+      "memberId" : 1796
+    }, {
+      "id" : 2340,
+      "name" : "小妖闯现代：恋上狼总裁",
+      "updateStatus" : 1,
+      "distance" : 6761,
+      "memberId" : 1317
+    }, {
+      "id" : 2572,
+      "name" : "魔妃逆九天",
+      "updateStatus" : 1,
+      "distance" : 7382,
+      "memberId" : 6676
+    }, {
+      "id" : 3233,
+      "name" : "那一季、折断的羽翼",
+      "updateStatus" : 1,
+      "distance" : 4793,
+      "memberId" : 5322
+    }, {
+      "id" : 2074,
+      "name" : "我们本无缘",
+      "updateStatus" : 1,
+      "distance" : 5724,
+      "memberId" : 3715
+    }, {
+      "id" : 2110,
+      "name" : "江门夜话",
+      "updateStatus" : 1,
+      "distance" : 8183,
+      "memberId" : 5132
+    }, {
+      "id" : 2639,
+      "name" : "来不及说出口的爱",
+      "updateStatus" : 1,
+      "distance" : 560,
+      "memberId" : 2656
+    }, {
+      "id" : 2982,
+      "name" : "逃之妖妖",
+      "updateStatus" : 1,
+      "distance" : 1701,
+      "memberId" : 4805
+    }, {
+      "id" : 2488,
+      "name" : "奇灵公主",
+      "updateStatus" : 2,
+      "distance" : 1656,
+      "memberId" : 5745
+    }, {
+      "id" : 2790,
+      "name" : "三世豪门：极品娇妻来袭",
+      "updateStatus" : 1,
+      "distance" : 7360,
+      "memberId" : 3205
+    }, {
+      "id" : 2275,
+      "name" : "国殇，风吟江山",
+      "updateStatus" : 2,
+      "distance" : 877,
+      "memberId" : 8340
+    }, {
+      "id" : 2354,
+      "name" : "我能买下你",
+      "updateStatus" : 1,
+      "distance" : 9822,
+      "memberId" : 6333
+    }, {
+      "id" : 2914,
+      "name" : "寻找自己",
+      "updateStatus" : 1,
+      "distance" : 6577,
+      "memberId" : 5826
+    }, {
+      "id" : 3112,
+      "name" : "刹那风华",
+      "updateStatus" : 1,
+      "distance" : 9408,
+      "memberId" : 1176
+    }, {
+      "id" : 3549,
+      "name" : "百日爱殇",
+      "updateStatus" : 1,
+      "distance" : 3071,
+      "memberId" : 5606
+    }, {
+      "id" : 3381,
+      "name" : "秋中悲歌欲",
+      "updateStatus" : 1,
+      "distance" : 8239,
+      "memberId" : 7558
+    }, {
+      "id" : 2782,
+      "name" : "天梦迷情",
+      "updateStatus" : 1,
+      "distance" : 5167,
+      "memberId" : 8946
+    }, {
+      "id" : 2038,
+      "name" : "凤狂天下：本宫来自特工处",
+      "updateStatus" : 1,
+      "distance" : 4400,
+      "memberId" : 8639
+    } ]
+  }
+}

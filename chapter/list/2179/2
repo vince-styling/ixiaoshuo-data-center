@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 56,
+    "list" : [ {
+      "id" : 1322,
+      "title" : "箭术比试（二）",
+      "capacity" : 10568
+    }, {
+      "id" : 1323,
+      "title" : "箭术比试（三）",
+      "capacity" : 11008
+    }, {
+      "id" : 1324,
+      "title" : "赛后之事（一）",
+      "capacity" : 9743
+    }, {
+      "id" : 1325,
+      "title" : "赛后之事（二）",
+      "capacity" : 7278
+    }, {
+      "id" : 1326,
+      "title" : "宫筵之前（一）",
+      "capacity" : 10775
+    }, {
+      "id" : 1327,
+      "title" : "上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 17,
+    "list" : [ {
+      "id" : 3969,
+      "title" : "Character1 人物介绍",
+      "capacity" : 3162
+    }, {
+      "id" : 3970,
+      "title" : "Character2 大家的早晨",
+      "capacity" : 5478
+    }, {
+      "id" : 3971,
+      "title" : "Character3 凪，中学女生",
+      "capacity" : 4964
+    }, {
+      "id" : 3972,
+      "title" : "Character4 国政光见",
+      "capacity" : 4542
+    }, {
+      "id" : 3973,
+      "title" : "Character5 疯道士",
+      "capacity" : 5816
+    }, {
+      "id" : 3974,
+      "title" : "Character6 异端中国人",
+      "capacity" : 5882
+    }, {
+      "id" : 3975,
+      "title" : "Character7 放学后的决斗",
+      "capacity" : 8223
+    }, {
+      "id" : 3976,
+      "title" : "Character8 精神病态少年",
+      "capacity" : 5218
+    }, {
+      "id" : 3977,
+      "title" : "Character9 虐渣",
+      "capacity" : 72
+    }, {
+      "id" : 3978,
+      "title" : "Character10 今天",
+      "capacity" : 5312
+    }, {
+      "id" : 3979,
+      "title" : "Character11 校园",
+      "capacity" : 4911
+    }, {
+      "id" : 3980,
+      "title" : "Character12 电子芯片君",
+      "capacity" : 72
+    }, {
+      "id" : 3981,
+      "title" : "Character13 淫魔",
+      "capacity" : 72
+    }, {
+      "id" : 3982,
+      "title" : "Character14 暗夜行路",
+      "capacity" : 5148
+    }, {
+      "id" : 3983,
+      "title" : "Character15 变故",
+      "capacity" : 6878
+    }, {
+      "id" : 3984,
+      "title" : "Character16 国政家神社",
+      "capacity" : 6612
+    }, {
+      "id" : 3985,
+      "title" : "Character17 国政光见的童年时代",
+      "capacity" : 4742
+    } ]
+  }
+}

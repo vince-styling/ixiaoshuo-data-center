@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 69,
+    "totalPageCount" : 78,
+    "totalItemCount" : 1542,
+    "list" : [ {
+      "id" : 3667,
+      "name" : "且行且见",
+      "coverUrl" : "",
+      "summary" : "时空限制了我们，习惯限制了我们，思维限制了我们，强劲舆论般的劝慰让我们陷入实际不再挣扎，让我们在白昼",
+      "updateStatus" : 1,
+      "capacity" : 483617,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3458,
+      "name" : "极品女宠王妃",
+      "coverUrl" : "",
+      "summary" : "她，为他放下了最为傲的身份，但到头来却只换来了他的话：我要的你给不起，就这样罢了。就这样等了，爱了，",
+      "updateStatus" : 1,
+      "capacity" : 121154,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3311,
+      "name" : "韩菲之黑道女帝",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44991.jpg",
+      "summary" : "黑道，日日夜夜的在刀口上舔血、只能赌命的地方。一局，赢,则生，输,则死，没有后路可以退。这，就是她必",
+      "updateStatus" : 1,
+      "capacity" : 874605,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3153,
+      "name" : "恋上你，眷着你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45649.jpg",
+      "summary" : "第一武将与第一丑人？堂堂大将军三十而立还是孑然一身，听说人缘也好、脾气也好，她是不是能幸运到与他讨价",
+      "updateStatus" : 1,
+      "capacity" : 363855,
+      "catName" : "古代言情"
+    }, {
+      "id" : 2236,
+      "name" : "冥江漫漫",
+      "coverUrl" : "",
+      "summary" : "一只是食过百人心、挨过天雷劫的千年黑狼妖，一个是平凡冷淡、还在上学的女孩子，血族、火种...一切不应",
+      "updateStatus" : 1,
+      "capacity" : 5372636,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 3468,
+      "name" : "轮回•不语",
+      "coverUrl" : "",
+      "summary" : "十二生肖的轮回，于世人眼中不过区区十二年，可，他们的故事，又何止区区数个轮回？爱，这么近，那么远，谁",
+      "updateStatus" : 1,
+      "capacity" : 48068,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3678,
+      "name" : "青春很有邪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44378.jpg",
+      "summary" : "为了查案来到贵族学院，不幸惹到小腹黑，一边查案还要一边伺候他这个大少爷，到底什么时候是个头啊？不过也",
+      "updateStatus" : 1,
+      "capacity" : 228820,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2099,
+      "name" : "女警闯西汉：将军赖定你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14899.jpg",
+      "summary" : "谁说当警花不会遇到追杀；谁说女人年华逝去不复还；菜鸟警花狗血穿越，一朝醒来，爸妈不见踪影；却成了西汉",
+      "updateStatus" : 1,
+      "capacity" : 2955614,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3512,
+      "name" : "朱颜修仙记",
+      "coverUrl" : "",
+      "summary" : "现代大学生失足落山穿到了修仙世界成了被抛弃的小婴儿被不负责任的师爹捡回了山门，从此过上了修三代的美好",
+      "updateStatus" : 1,
+      "capacity" : 275265,
+      "catName" : "仙侠修真"
+    }, {
+      "id" : 3148,
+      "name" : "听说你也爱我",
+      "coverUrl" : "",
+      "summary" : "五年前，大学，我写着狗血的言情小说，看着夏子优牵着我暗恋多年的尹阳的手怡怡然从我面前走过，我一赌气就",
+      "updateStatus" : 1,
+      "capacity" : 43663,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3429,
+      "name" : "站在你身后为你撑起保护伞",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46490.jpg",
+      "summary" : "欧阳若晴8岁的那一年，由于家庭发生变故，被神秘抚养人送到美国生活10年，直到18岁那年，连她身边唯一",
+      "updateStatus" : 1,
+      "capacity" : 561331,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3740,
+      "name" : "邪尊的宝贝",
+      "coverUrl" : "",
+      "summary" : "坑爹啊....箫瑶星只不过是第一次去海边旅行很兴奋，看到了很漂亮的石头，把它捡起来，回到家晚上睡觉的",
+      "updateStatus" : 1,
+      "capacity" : 91882,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3530,
+      "name" : "总裁莫追：小女人带球跑",
+      "coverUrl" : "",
+      "summary" : "她迷迷糊糊中失去自己的第一次，却不想这是他爸爸的计划，她的一夜，十万块。当她从好友家回去是，家已不再",
+      "updateStatus" : 1,
+      "capacity" : 89211,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3291,
+      "name" : "离离原上草",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44535.jpg",
+      "summary" : "在她黑暗腐朽的生命里，他是耀眼的一束光。她贪婪地汲取他的光和热，直到他的生命之火骤然熄灭。女主是一个",
+      "updateStatus" : 1,
+      "capacity" : 40745,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3727,
+      "name" : "繁华错",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44108.jpg",
+      "summary" : "",
+      "updateStatus" : 1,
+      "capacity" : 54591,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3466,
+      "name" : "流年纪",
+      "coverUrl" : "",
+      "summary" : "我姓韶，在童年、青春的时候曾经演绎着一段真实的故事，也许每一个人都有这样一段故事，我们把它称为流年。",
+      "updateStatus" : 1,
+      "capacity" : 110799,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3436,
+      "name" : "《侦探日记》",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41506.jpg",
+      "summary" : "我的身份到底是谁？我与多少人换过身份？一片残页打破了原有的生活寂静。我的过去与未来都在这一刻改变。我",
+      "updateStatus" : 1,
+      "capacity" : 23089,
+      "catName" : "灵异悬疑"
+    }, {
+      "id" : 3603,
+      "name" : "轮回三世：三世约定",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20580.jpg",
+      "summary" : "千年注定了的情缘、犹如两个缝在一起的布偶，已定，无论天涯海角、仍会相遇，无论经历多少、仍会相随，无论",
+      "updateStatus" : 1,
+      "capacity" : 607391,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2855,
+      "name" : "皇叔，别抢亲",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46832.jpg",
+      "summary" : "飘荡清扬如茶香，惜花踏月似佳人。公子踏月世无双，小爷川卿颜如玉。王家小女川卿自幼与四皇子有婚约，奈何",
+      "updateStatus" : 1,
+      "capacity" : 7369972,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3626,
+      "name" : "错过了，还能爱吗？",
+      "coverUrl" : "",
+      "summary" : "希然曾一度为了追求新鲜感依偎在一个又一个男人的身边，她最爱最愧疚的宋岩渐渐淡出了她的生命。繁华过后是",
+      "updateStatus" : 1,
+      "capacity" : 38036,
+      "catName" : "都市校园"
+    } ]
+  }
+}

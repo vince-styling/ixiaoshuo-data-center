@@ -1,0 +1,70 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 15,
+    "list" : [ {
+      "id" : 4791,
+      "title" : "第一章 刚“罢工”又开工",
+      "capacity" : 7401
+    }, {
+      "id" : 4792,
+      "title" : "第二章 新官上任",
+      "capacity" : 7448
+    }, {
+      "id" : 4793,
+      "title" : "第三章 奇怪的家庭",
+      "capacity" : 7469
+    }, {
+      "id" : 4794,
+      "title" : "第四章 可乐妈咪",
+      "capacity" : 6641
+    }, {
+      "id" : 4795,
+      "title" : "第五章 三人",
+      "capacity" : 3589
+    }, {
+      "id" : 4796,
+      "title" : "第六章 她和筎怡（上）",
+      "capacity" : 5174
+    }, {
+      "id" : 4797,
+      "title" : "第七章 她和筎怡（下）",
+      "capacity" : 4369
+    }, {
+      "id" : 4798,
+      "title" : "第八章 又遇见",
+      "capacity" : 5193
+    }, {
+      "id" : 4799,
+      "title" : "第九章 咖啡",
+      "capacity" : 4463
+    }, {
+      "id" : 4800,
+      "title" : "第十章 缺失",
+      "capacity" : 3345
+    }, {
+      "id" : 4801,
+      "title" : "第十一章 七七的“心事”",
+      "capacity" : 3396
+    }, {
+      "id" : 4802,
+      "title" : "第十二章 错过，过错",
+      "capacity" : 4510
+    }, {
+      "id" : 4803,
+      "title" : "第十三章 请客",
+      "capacity" : 3546
+    }, {
+      "id" : 4804,
+      "title" : "第十四章 孔雀先生",
+      "capacity" : 3975
+    }, {
+      "id" : 4805,
+      "title" : "第十五章 打听",
+      "capacity" : 4929
+    } ]
+  }
+}

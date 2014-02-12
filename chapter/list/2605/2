@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 4253,
+      "title" : "第二十章 决战（上）",
+      "capacity" : 8807
+    }, {
+      "id" : 4254,
+      "title" : "第二十一章 二十一章 决战（中）",
+      "capacity" : 6500
+    } ]
+  }
+}

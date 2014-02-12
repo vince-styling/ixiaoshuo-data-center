@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 57,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3620,
+      "name" : "傀儡王妃：不上君王榻",
+      "updateStatus" : 1,
+      "distance" : 9638,
+      "memberId" : 4464
+    }, {
+      "id" : 2727,
+      "name" : "无奸不商",
+      "updateStatus" : 1,
+      "distance" : 2052,
+      "memberId" : 2867
+    }, {
+      "id" : 3081,
+      "name" : "爱，谨行时光",
+      "updateStatus" : 1,
+      "distance" : 7685,
+      "memberId" : 2200
+    }, {
+      "id" : 3012,
+      "name" : "会有惊鸿替倦鸟",
+      "updateStatus" : 1,
+      "distance" : 7203,
+      "memberId" : 1222
+    }, {
+      "id" : 3560,
+      "name" : "豪门虐恋：多情二少独宠疯丫头",
+      "updateStatus" : 1,
+      "distance" : 4117,
+      "memberId" : 1667
+    }, {
+      "id" : 2921,
+      "name" : "豪门恩怨之吾爱未央",
+      "updateStatus" : 1,
+      "distance" : 1533,
+      "memberId" : 3151
+    }, {
+      "id" : 2775,
+      "name" : "实验品女孩的桃花运",
+      "updateStatus" : 1,
+      "distance" : 8507,
+      "memberId" : 5373
+    }, {
+      "id" : 2776,
+      "name" : "时空魔法师",
+      "updateStatus" : 1,
+      "distance" : 867,
+      "memberId" : 6884
+    }, {
+      "id" : 3506,
+      "name" : "还珠格格同人之落燕",
+      "updateStatus" : 1,
+      "distance" : 6022,
+      "memberId" : 7144
+    }, {
+      "id" : 2857,
+      "name" : "你不可能会爱我",
+      "updateStatus" : 1,
+      "distance" : 1687,
+      "memberId" : 1274
+    }, {
+      "id" : 2150,
+      "name" : "最",
+      "updateStatus" : 1,
+      "distance" : 5949,
+      "memberId" : 5814
+    }, {
+      "id" : 2954,
+      "name" : "大神卖身不卖艺",
+      "updateStatus" : 1,
+      "distance" : 8817,
+      "memberId" : 7964
+    }, {
+      "id" : 3191,
+      "name" : "没有一个女孩不美丽",
+      "updateStatus" : 1,
+      "distance" : 4806,
+      "memberId" : 1661
+    }, {
+      "id" : 2681,
+      "name" : "巅峰之我为帝王",
+      "updateStatus" : 1,
+      "distance" : 6987,
+      "memberId" : 6571
+    }, {
+      "id" : 2841,
+      "name" : "听说时光回来过",
+      "updateStatus" : 1,
+      "distance" : 935,
+      "memberId" : 2405
+    }, {
+      "id" : 2503,
+      "name" : "真实的选择",
+      "updateStatus" : 1,
+      "distance" : 2130,
+      "memberId" : 2306
+    }, {
+      "id" : 3054,
+      "name" : "宫：殇世绝恋",
+      "updateStatus" : 1,
+      "distance" : 6846,
+      "memberId" : 3365
+    }, {
+      "id" : 3095,
+      "name" : "墨色眼瞳中的温柔",
+      "updateStatus" : 1,
+      "distance" : 7192,
+      "memberId" : 3328
+    }, {
+      "id" : 2499,
+      "name" : "我在路口等你",
+      "updateStatus" : 1,
+      "distance" : 9952,
+      "memberId" : 2340
+    }, {
+      "id" : 3322,
+      "name" : "爱情倒时差",
+      "updateStatus" : 1,
+      "distance" : 4991,
+      "memberId" : 1282
+    } ]
+  }
+}

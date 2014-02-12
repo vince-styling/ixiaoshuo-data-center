@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 1517,
+      "title" : "第一章 直来直往",
+      "capacity" : 4908
+    }, {
+      "id" : 1518,
+      "title" : "第二章 恍如隔世",
+      "capacity" : 8830
+    }, {
+      "id" : 1519,
+      "title" : "第三章 心灰意冷",
+      "capacity" : 7657
+    }, {
+      "id" : 1520,
+      "title" : "第四章 心如成树",
+      "capacity" : 5572
+    }, {
+      "id" : 1521,
+      "title" : "第五章 不鸣则已",
+      "capacity" : 4097
+    } ]
+  }
+}

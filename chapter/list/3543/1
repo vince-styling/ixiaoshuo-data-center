@@ -1,0 +1,90 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 20,
+    "list" : [ {
+      "id" : 2316,
+      "title" : "第一章 意外穿越（一）",
+      "capacity" : 7386
+    }, {
+      "id" : 2317,
+      "title" : "第二章 意外穿越（二）",
+      "capacity" : 8014
+    }, {
+      "id" : 2318,
+      "title" : "第三章 天上掉下只小萌兽（一）",
+      "capacity" : 6988
+    }, {
+      "id" : 2319,
+      "title" : "第四章 天上掉下只小萌兽（二）",
+      "capacity" : 4193
+    }, {
+      "id" : 2320,
+      "title" : "作品相关",
+      "capacity" : 3581
+    }, {
+      "id" : 2321,
+      "title" : "第五章 历练（一）",
+      "capacity" : 7910
+    }, {
+      "id" : 2322,
+      "title" : "第六章 历练（二）",
+      "capacity" : 12882
+    }, {
+      "id" : 2323,
+      "title" : "第七章 蒼櫆拍卖行",
+      "capacity" : 5801
+    }, {
+      "id" : 2324,
+      "title" : "第八章 悲剧的上官潇",
+      "capacity" : 7976
+    }, {
+      "id" : 2325,
+      "title" : "第九章 人“自”贱则无敌",
+      "capacity" : 6911
+    }, {
+      "id" : 2326,
+      "title" : "第十章 夜探城主府",
+      "capacity" : 6780
+    }, {
+      "id" : 2327,
+      "title" : "第十一章 初见",
+      "capacity" : 6098
+    }, {
+      "id" : 2328,
+      "title" : "第十二章 再回上官家",
+      "capacity" : 6594
+    }, {
+      "id" : 2329,
+      "title" : "第十三章 上官玲珑，死！",
+      "capacity" : 4395
+    }, {
+      "id" : 2330,
+      "title" : "第十四章 废物变天才",
+      "capacity" : 5176
+    }, {
+      "id" : 2331,
+      "title" : "第十五章 脱离家族",
+      "capacity" : 7444
+    }, {
+      "id" : 2332,
+      "title" : "第十六章 前世支离破碎的回忆（上）",
+      "capacity" : 6492
+    }, {
+      "id" : 2333,
+      "title" : "第十七章 前世支离破碎的回忆（下）",
+      "capacity" : 6741
+    }, {
+      "id" : 2334,
+      "title" : "第十八章 坑爹的学院测试（一）",
+      "capacity" : 5947
+    }, {
+      "id" : 2335,
+      "title" : "第十九章 坑爹的学院测试（二）",
+      "capacity" : 5669
+    } ]
+  }
+}

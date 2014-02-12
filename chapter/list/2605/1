@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 4203,
+      "title" : "第一章 楔子",
+      "capacity" : 8278
+    }, {
+      "id" : 4204,
+      "title" : "第二章 花兰",
+      "capacity" : 6391
+    }, {
+      "id" : 4205,
+      "title" : "第三章 神秘男人张逸",
+      "capacity" : 7936
+    }, {
+      "id" : 4206,
+      "title" : "第四章 李生",
+      "capacity" : 6874
+    }, {
+      "id" : 4207,
+      "title" : "第五章 死亡游乐场",
+      "capacity" : 5744
+    }, {
+      "id" : 4208,
+      "title" : "第六章 觉醒",
+      "capacity" : 8191
+    }, {
+      "id" : 4209,
+      "title" : "第七章 【未来青年】",
+      "capacity" : 8873
+    }, {
+      "id" : 4210,
+      "title" : "第八章 恶魔右手",
+      "capacity" : 8539
+    }, {
+      "id" : 4211,
+      "title" : "第九章 霹雳火来袭",
+      "capacity" : 6132
+    }, {
+      "id" : 4212,
+      "title" : "第十章 三殿下",
+      "capacity" : 6332
+    }, {
+      "id" : 4213,
+      "title" : "第十一章 血统能力者",
+      "capacity" : 6795
+    }, {
+      "id" : 4214,
+      "title" : "第十二章 三殿下的强大",
+      "capacity" : 6137
+    }, {
+      "id" : 4215,
+      "title" : "第十三章 妖孽的张逸",
+      "capacity" : 6919
+    }, {
+      "id" : 4216,
+      "title" : "第十四章 火焰能力者",
+      "capacity" : 8096
+    }, {
+      "id" : 4217,
+      "title" : "十五章 关键的觉醒",
+      "capacity" : 6360
+    }, {
+      "id" : 4218,
+      "title" : "第十六章 防御系能力",
+      "capacity" : 8425
+    }, {
+      "id" : 4219,
+      "title" : "第十七章 黑子！不要死！",
+      "capacity" : 7589
+    }, {
+      "id" : 4220,
+      "title" : "第十八章 短暂的平静",
+      "capacity" : 6242
+    }, {
+      "id" : 4221,
+      "title" : "第十九章 【方术之士】",
+      "capacity" : 7639
+    }, {
+      "id" : 4222,
+      "title" : "第二十章 【恶魔之瞳】",
+      "capacity" : 6580
+    }, {
+      "id" : 4223,
+      "title" : "第二十一章 三殿下变了",
+      "capacity" : 8189
+    }, {
+      "id" : 4224,
+      "title" : "第二十二章 三殿下落幕！",
+      "capacity" : 7119
+    }, {
+      "id" : 4225,
+      "title" : "第二十三章 成王败寇",
+      "capacity" : 8089
+    }, {
+      "id" : 4226,
+      "title" : "第二十四章 惩罚时间",
+      "capacity" : 8392
+    }, {
+      "id" : 4227,
+      "title" : "第二十五章 奖励（上）",
+      "capacity" : 7189
+    }, {
+      "id" : 4228,
+      "title" : "第二十六章 奖励（中）",
+      "capacity" : 8466
+    }, {
+      "id" : 4229,
+      "title" : "第二十七章 奖励（下）",
+      "capacity" : 9230
+    }, {
+      "id" : 4230,
+      "title" : "第二十八章 奖励（终）",
+      "capacity" : 8174
+    }, {
+      "id" : 4231,
+      "title" : "第二十九章 返回",
+      "capacity" : 6385
+    }, {
+      "id" : 4232,
+      "title" : "第三十章 两通电话",
+      "capacity" : 8309
+    }, {
+      "id" : 4233,
+      "title" : "第三十一章 阎魔刀",
+      "capacity" : 7363
+    }, {
+      "id" : 4234,
+      "title" : "第一章 进入战场",
+      "capacity" : 9330
+    }, {
+      "id" : 4235,
+      "title" : "第二章 一年一度大比试",
+      "capacity" : 7534
+    }, {
+      "id" : 4236,
+      "title" : "第三章 团长的负面影响",
+      "capacity" : 6885
+    }, {
+      "id" : 4237,
+      "title" : "第四章 女士优先",
+      "capacity" : 6078
+    }, {
+      "id" : 4238,
+      "title" : "第五章 林萧的战斗",
+      "capacity" : 6263
+    }, {
+      "id" : 4239,
+      "title" : "第六章 悟空败了",
+      "capacity" : 7026
+    }, {
+      "id" : 4240,
+      "title" : "第七章 死人了",
+      "capacity" : 6891
+    }, {
+      "id" : 4241,
+      "title" : "第八章 黑子对战天津饭",
+      "capacity" : 6628
+    }, {
+      "id" : 4242,
+      "title" : "第九章 乱战开端",
+      "capacity" : 6644
+    }, {
+      "id" : 4243,
+      "title" : "第十章 雷神降临",
+      "capacity" : 8270
+    }, {
+      "id" : 4244,
+      "title" : "第十一章 【自由之身】",
+      "capacity" : 7264
+    }, {
+      "id" : 4245,
+      "title" : "第十二章 花兰逝去",
+      "capacity" : 7997
+    }, {
+      "id" : 4246,
+      "title" : "第十三章 弗利萨身死",
+      "capacity" : 6787
+    }, {
+      "id" : 4247,
+      "title" : "第十四章 黑子归来",
+      "capacity" : 6151
+    }, {
+      "id" : 4248,
+      "title" : "第十五章 孙悟空回来了",
+      "capacity" : 6433
+    }, {
+      "id" : 4249,
+      "title" : "第十六章 败北！",
+      "capacity" : 7683
+    }, {
+      "id" : 4250,
+      "title" : "第十七章 生子自断",
+      "capacity" : 6241
+    }, {
+      "id" : 4251,
+      "title" : "第十八章 张浩怒火",
+      "capacity" : 7525
+    }, {
+      "id" : 4252,
+      "title" : "第十九章 小布欧",
+      "capacity" : 6820
+    } ]
+  }
+}

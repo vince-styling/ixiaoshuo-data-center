@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 3515,
+      "title" : "第一章 新的开始",
+      "capacity" : 3815
+    }, {
+      "id" : 3516,
+      "title" : "第二章 别经年",
+      "capacity" : 6363
+    }, {
+      "id" : 3517,
+      "title" : "外篇（一） 蝴蝶记忆（第三人称）",
+      "capacity" : 5003
+    }, {
+      "id" : 3518,
+      "title" : "第三章 蝶入云端",
+      "capacity" : 5057
+    }, {
+      "id" : 3519,
+      "title" : "第四章 “黑夜” 情迷",
+      "capacity" : 5111
+    }, {
+      "id" : 3520,
+      "title" : "第五章 似曾相识人归来",
+      "capacity" : 5099
+    }, {
+      "id" : 3521,
+      "title" : "外篇（二）蝴蝶记忆",
+      "capacity" : 3435
+    }, {
+      "id" : 3522,
+      "title" : "第六章 梦醒时分",
+      "capacity" : 6406
+    } ]
+  }
+}

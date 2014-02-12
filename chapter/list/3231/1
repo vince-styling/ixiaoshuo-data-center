@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 1583,
+      "title" : "00全系穿越背景设定",
+      "capacity" : 5673
+    }, {
+      "id" : 1584,
+      "title" : "01 盗版无敌",
+      "capacity" : 9754
+    }, {
+      "id" : 1585,
+      "title" : "02 仁义庄（上）",
+      "capacity" : 14036
+    }, {
+      "id" : 1586,
+      "title" : "03 仁义庄（中）",
+      "capacity" : 72
+    }, {
+      "id" : 1587,
+      "title" : "04 仁义庄（下）",
+      "capacity" : 12288
+    }, {
+      "id" : 1588,
+      "title" : "05 洛阳行（一）",
+      "capacity" : 10845
+    } ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 31,
+    "list" : [ {
+      "id" : 1902,
+      "title" : "第一章 订婚",
+      "capacity" : 3366
+    }, {
+      "id" : 1903,
+      "title" : "第二章 出嫁（上）",
+      "capacity" : 4268
+    }, {
+      "id" : 1904,
+      "title" : "第三章 出嫁（下）",
+      "capacity" : 2921
+    }, {
+      "id" : 1905,
+      "title" : "第四章 洞房花烛夜",
+      "capacity" : 4293
+    }, {
+      "id" : 1906,
+      "title" : "第五章 夫君",
+      "capacity" : 6103
+    }, {
+      "id" : 1907,
+      "title" : "第六章 进宫（上）",
+      "capacity" : 7430
+    }, {
+      "id" : 1908,
+      "title" : "第七章 进宫（下）",
+      "capacity" : 6630
+    }, {
+      "id" : 1909,
+      "title" : "第八章 你是我的妻",
+      "capacity" : 7342
+    }, {
+      "id" : 1910,
+      "title" : "第九章 请安",
+      "capacity" : 4802
+    }, {
+      "id" : 1911,
+      "title" : "第十章 回门（上）",
+      "capacity" : 6746
+    }, {
+      "id" : 1912,
+      "title" : "第十一章 回门（下）",
+      "capacity" : 3434
+    }, {
+      "id" : 1913,
+      "title" : "第十二章 温柔",
+      "capacity" : 4969
+    }, {
+      "id" : 1914,
+      "title" : "第十三章 纳兰澈回京",
+      "capacity" : 3986
+    }, {
+      "id" : 1915,
+      "title" : "第十四章 请求赐婚",
+      "capacity" : 4689
+    }, {
+      "id" : 1916,
+      "title" : "第十五章 接风洗尘",
+      "capacity" : 4499
+    }, {
+      "id" : 1917,
+      "title" : "第十六章 珍宝楼（上）",
+      "capacity" : 3167
+    }, {
+      "id" : 1918,
+      "title" : "第十七章 珍宝楼（下）",
+      "capacity" : 5806
+    }, {
+      "id" : 1919,
+      "title" : "第十八章 疑惑",
+      "capacity" : 3520
+    }, {
+      "id" : 1920,
+      "title" : "第十九章 赴约",
+      "capacity" : 7450
+    }, {
+      "id" : 1921,
+      "title" : "第二十章 怀孕",
+      "capacity" : 3793
+    }, {
+      "id" : 1922,
+      "title" : "第二十一章 钰灵的遗憾",
+      "capacity" : 4347
+    }, {
+      "id" : 1923,
+      "title" : "第二十二章 平静的生活",
+      "capacity" : 3958
+    }, {
+      "id" : 1924,
+      "title" : "第二十三章 初冬狩猎（一）",
+      "capacity" : 4748
+    }, {
+      "id" : 1925,
+      "title" : "第二十四章 初冬狩猎（二）",
+      "capacity" : 4266
+    }, {
+      "id" : 1926,
+      "title" : "第二十五章 初冬狩猎（三）",
+      "capacity" : 3539
+    }, {
+      "id" : 1927,
+      "title" : "第二十六章 初冬狩猎（四）",
+      "capacity" : 3388
+    }, {
+      "id" : 1928,
+      "title" : "第二十七章 初冬狩猎（五）",
+      "capacity" : 3557
+    }, {
+      "id" : 1929,
+      "title" : "第二十八章 篝火晚会（一）",
+      "capacity" : 3550
+    }, {
+      "id" : 1930,
+      "title" : "第二十九章 篝火晚会（二）",
+      "capacity" : 3953
+    }, {
+      "id" : 1931,
+      "title" : "第三十章 篝火晚会（三）",
+      "capacity" : 5090
+    }, {
+      "id" : 1932,
+      "title" : "第三十一章",
+      "capacity" : 4165
+    } ]
+  }
+}

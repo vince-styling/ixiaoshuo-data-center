@@ -1,0 +1,174 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 41,
+    "list" : [ {
+      "id" : 4785,
+      "title" : "楔子.断魂夜",
+      "capacity" : 12365
+    }, {
+      "id" : 4786,
+      "title" : "001.左贤王",
+      "capacity" : 14080
+    }, {
+      "id" : 4787,
+      "title" : "002.芦苇荡",
+      "capacity" : 14073
+    }, {
+      "id" : 4788,
+      "title" : "003.暗推测",
+      "capacity" : 10386
+    }, {
+      "id" : 4789,
+      "title" : "004.入边城",
+      "capacity" : 9830
+    }, {
+      "id" : 4790,
+      "title" : "005.定山王",
+      "capacity" : 9290
+    }, {
+      "id" : 4791,
+      "title" : "006.又相逢",
+      "capacity" : 13340
+    }, {
+      "id" : 4792,
+      "title" : "007.薄绡帕",
+      "capacity" : 11415
+    }, {
+      "id" : 4793,
+      "title" : "008.知州府",
+      "capacity" : 12295
+    }, {
+      "id" : 4794,
+      "title" : "009.郡王府",
+      "capacity" : 11011
+    }, {
+      "id" : 4795,
+      "title" : "010.一家人",
+      "capacity" : 11357
+    }, {
+      "id" : 4796,
+      "title" : "011.太上情",
+      "capacity" : 10269
+    }, {
+      "id" : 4797,
+      "title" : "012.大善人",
+      "capacity" : 11054
+    }, {
+      "id" : 4798,
+      "title" : "013.祭祀临",
+      "capacity" : 9844
+    }, {
+      "id" : 4799,
+      "title" : "014.三见时",
+      "capacity" : 10360
+    }, {
+      "id" : 4800,
+      "title" : "015.月下心",
+      "capacity" : 11449
+    }, {
+      "id" : 4801,
+      "title" : "016.大夫人",
+      "capacity" : 12561
+    }, {
+      "id" : 4802,
+      "title" : "017.崴脚坑",
+      "capacity" : 11805
+    }, {
+      "id" : 4803,
+      "title" : "018.太师怒",
+      "capacity" : 7798
+    }, {
+      "id" : 4804,
+      "title" : "001.神道乱",
+      "capacity" : 9279
+    }, {
+      "id" : 4805,
+      "title" : "002.禅房戏",
+      "capacity" : 9840
+    }, {
+      "id" : 4806,
+      "title" : "003.喜欢他",
+      "capacity" : 12418
+    }, {
+      "id" : 4807,
+      "title" : "004.苦肉计",
+      "capacity" : 11164
+    }, {
+      "id" : 4808,
+      "title" : "005.回眸笑",
+      "capacity" : 10917
+    }, {
+      "id" : 4809,
+      "title" : "006.扑流萤",
+      "capacity" : 9812
+    }, {
+      "id" : 4810,
+      "title" : "007.赴寿宴",
+      "capacity" : 7680
+    }, {
+      "id" : 4811,
+      "title" : "008.牡丹园",
+      "capacity" : 10909
+    }, {
+      "id" : 4812,
+      "title" : "009.游戏始",
+      "capacity" : 10350
+    }, {
+      "id" : 4813,
+      "title" : "010.声声对",
+      "capacity" : 10898
+    }, {
+      "id" : 4814,
+      "title" : "011.玉锁破",
+      "capacity" : 12062
+    }, {
+      "id" : 4815,
+      "title" : "012.贺寿礼",
+      "capacity" : 12895
+    }, {
+      "id" : 4816,
+      "title" : "013.性迷离",
+      "capacity" : 10315
+    }, {
+      "id" : 4817,
+      "title" : "014.池边故",
+      "capacity" : 10813
+    }, {
+      "id" : 4818,
+      "title" : "015.恶作剧",
+      "capacity" : 9480
+    }, {
+      "id" : 4819,
+      "title" : "016.地窖血",
+      "capacity" : 10116
+    }, {
+      "id" : 4820,
+      "title" : "017.外族人",
+      "capacity" : 11046
+    }, {
+      "id" : 4821,
+      "title" : "018.身有喜",
+      "capacity" : 9585
+    }, {
+      "id" : 4822,
+      "title" : "019.兄弟聚",
+      "capacity" : 10151
+    }, {
+      "id" : 4823,
+      "title" : "020.夜来访",
+      "capacity" : 10445
+    }, {
+      "id" : 4824,
+      "title" : "021.西胡使",
+      "capacity" : 9232
+    }, {
+      "id" : 4825,
+      "title" : "上架公告",
+      "capacity" : 2234
+    } ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 12,
+    "list" : [ {
+      "id" : 4979,
+      "title" : "第一章,失之交臂的五百万",
+      "capacity" : 5127
+    }, {
+      "id" : 4980,
+      "title" : "第二章：松景山一游",
+      "capacity" : 4742
+    }, {
+      "id" : 4981,
+      "title" : "第三章：罗亿带领",
+      "capacity" : 4712
+    }, {
+      "id" : 4982,
+      "title" : "第四章：神秘的黑洞",
+      "capacity" : 4306
+    }, {
+      "id" : 4983,
+      "title" : "第五章：探险",
+      "capacity" : 5830
+    }, {
+      "id" : 4984,
+      "title" : "第六章：穿越",
+      "capacity" : 4478
+    }, {
+      "id" : 4985,
+      "title" : "第七章：雷振宇消失",
+      "capacity" : 3699
+    }, {
+      "id" : 4986,
+      "title" : "第八章：神秘的地带",
+      "capacity" : 5091
+    }, {
+      "id" : 4987,
+      "title" : "第九章：怪蛇袭来",
+      "capacity" : 4967
+    }, {
+      "id" : 4988,
+      "title" : "第十章：神秘白袍人",
+      "capacity" : 5245
+    }, {
+      "id" : 4989,
+      "title" : "第十一章:死亡森林",
+      "capacity" : 5492
+    }, {
+      "id" : 4990,
+      "title" : "第十二章：残酷训练开始",
+      "capacity" : 5243
+    } ]
+  }
+}

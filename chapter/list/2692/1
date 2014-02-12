@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 1043,
+      "title" : "NO.1 从中国来的交换生（一）",
+      "capacity" : 10004
+    }, {
+      "id" : 1044,
+      "title" : "NO.2 从中国来的交换生（二）",
+      "capacity" : 13105
+    }, {
+      "id" : 1045,
+      "title" : "NO.3 从中国来的交换生（三）",
+      "capacity" : 13593
+    }, {
+      "id" : 1046,
+      "title" : "NO.4 从中国来的交换生（四）",
+      "capacity" : 72
+    } ]
+  }
+}

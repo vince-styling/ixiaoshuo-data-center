@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 110,
+    "list" : [ {
+      "id" : 2558,
+      "title" : "第一百零一章 小龙女",
+      "capacity" : 5205
+    }, {
+      "id" : 2559,
+      "title" : "第一百零二章 邀请",
+      "capacity" : 5333
+    }, {
+      "id" : 2560,
+      "title" : "第一百零三章 书信",
+      "capacity" : 6012
+    }, {
+      "id" : 2561,
+      "title" : "第一百零四章 龙珠",
+      "capacity" : 3628
+    }, {
+      "id" : 2562,
+      "title" : "第一百零五章 血伤",
+      "capacity" : 3678
+    }, {
+      "id" : 2563,
+      "title" : "第一百零六章 伤逝",
+      "capacity" : 5547
+    }, {
+      "id" : 2564,
+      "title" : "第一百零七章 痛忆",
+      "capacity" : 3521
+    }, {
+      "id" : 2565,
+      "title" : "第一百零八章 圣旨",
+      "capacity" : 3591
+    }, {
+      "id" : 2566,
+      "title" : "第一百零九章 复仇",
+      "capacity" : 4598
+    }, {
+      "id" : 2567,
+      "title" : "第一百一十章 升华",
+      "capacity" : 3220
+    } ]
+  }
+}

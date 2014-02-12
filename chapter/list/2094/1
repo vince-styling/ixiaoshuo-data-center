@@ -1,0 +1,114 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 26,
+    "list" : [ {
+      "id" : 4132,
+      "title" : "序章 凌氏遗孤",
+      "capacity" : 8664
+    }, {
+      "id" : 4133,
+      "title" : "第一章 山庄新主",
+      "capacity" : 18016
+    }, {
+      "id" : 4134,
+      "title" : "第二章 朔阴惩凶",
+      "capacity" : 18769
+    }, {
+      "id" : 4135,
+      "title" : "第三章 情愫暗生",
+      "capacity" : 18133
+    }, {
+      "id" : 4136,
+      "title" : "第四章 城外遇袭",
+      "capacity" : 16915
+    }, {
+      "id" : 4137,
+      "title" : "第五章 溟夜夜汐",
+      "capacity" : 14759
+    }, {
+      "id" : 4138,
+      "title" : "第六章 山顶寻药",
+      "capacity" : 16468
+    }, {
+      "id" : 4139,
+      "title" : "第七章 济世东家",
+      "capacity" : 16580
+    }, {
+      "id" : 4140,
+      "title" : "第八章 各人心事",
+      "capacity" : 16101
+    }, {
+      "id" : 4141,
+      "title" : "第九章 茶花鬼面",
+      "capacity" : 17544
+    }, {
+      "id" : 4142,
+      "title" : "第十章 鸳鸯醉酒",
+      "capacity" : 15866
+    }, {
+      "id" : 4143,
+      "title" : "第十一章 烽烟再起",
+      "capacity" : 15527
+    }, {
+      "id" : 4144,
+      "title" : "第十二章 双双坠崖",
+      "capacity" : 17314
+    }, {
+      "id" : 4145,
+      "title" : "第十三章 绝处逢生",
+      "capacity" : 17107
+    }, {
+      "id" : 4146,
+      "title" : "第十四章 往事迷离",
+      "capacity" : 16717
+    }, {
+      "id" : 4147,
+      "title" : "第十五章 谷外救援",
+      "capacity" : 15167
+    }, {
+      "id" : 4148,
+      "title" : "第十六章 美人出浴",
+      "capacity" : 15694
+    }, {
+      "id" : 4149,
+      "title" : "第十七章 逃出生天",
+      "capacity" : 14826
+    }, {
+      "id" : 4150,
+      "title" : "第十八章 回庄求证",
+      "capacity" : 15667
+    }, {
+      "id" : 4151,
+      "title" : "第十九章 神秘洞主",
+      "capacity" : 15146
+    }, {
+      "id" : 4152,
+      "title" : "第二十章 玄隐念空",
+      "capacity" : 15614
+    }, {
+      "id" : 4153,
+      "title" : "第二十一章 相约盛会",
+      "capacity" : 15986
+    }, {
+      "id" : 4154,
+      "title" : "第二十二章 英雄大会",
+      "capacity" : 15988
+    }, {
+      "id" : 4155,
+      "title" : "第二十三章 群雄逐鹿",
+      "capacity" : 16708
+    }, {
+      "id" : 4156,
+      "title" : "第二十四章 神秘男子",
+      "capacity" : 18432
+    }, {
+      "id" : 4157,
+      "title" : "上架公告",
+      "capacity" : 2250
+    } ]
+  }
+}

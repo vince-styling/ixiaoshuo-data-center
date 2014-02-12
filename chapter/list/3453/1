@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1952,
+      "title" : "第一章 菜鸟的初恋",
+      "capacity" : 5747
+    }, {
+      "id" : 1953,
+      "title" : "第二章 菜鸟的初恋2",
+      "capacity" : 4704
+    }, {
+      "id" : 1954,
+      "title" : "第三章 死党古韵",
+      "capacity" : 4592
+    } ]
+  }
+}

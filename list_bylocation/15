@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 15,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2378,
+      "name" : "千里背叛",
+      "updateStatus" : 1,
+      "distance" : 7752,
+      "memberId" : 6820
+    }, {
+      "id" : 3084,
+      "name" : "倾世妖男",
+      "updateStatus" : 1,
+      "distance" : 1596,
+      "memberId" : 7544
+    }, {
+      "id" : 2578,
+      "name" : "毕业不分手",
+      "updateStatus" : 1,
+      "distance" : 6488,
+      "memberId" : 6281
+    }, {
+      "id" : 3480,
+      "name" : "妖传——岁与千陌",
+      "updateStatus" : 1,
+      "distance" : 3785,
+      "memberId" : 1597
+    }, {
+      "id" : 2620,
+      "name" : "CF之黑马突起",
+      "updateStatus" : 1,
+      "distance" : 2702,
+      "memberId" : 1862
+    }, {
+      "id" : 3322,
+      "name" : "爱情倒时差",
+      "updateStatus" : 1,
+      "distance" : 982,
+      "memberId" : 5866
+    }, {
+      "id" : 3518,
+      "name" : "寻花",
+      "updateStatus" : 1,
+      "distance" : 4474,
+      "memberId" : 1024
+    }, {
+      "id" : 3538,
+      "name" : "满城烟雨繁花尽",
+      "updateStatus" : 2,
+      "distance" : 6427,
+      "memberId" : 3532
+    }, {
+      "id" : 2122,
+      "name" : "毒药的诱惑",
+      "updateStatus" : 1,
+      "distance" : 9920,
+      "memberId" : 2413
+    }, {
+      "id" : 2071,
+      "name" : "月落紫禁",
+      "updateStatus" : 2,
+      "distance" : 1398,
+      "memberId" : 2014
+    }, {
+      "id" : 3507,
+      "name" : "血雨腥风恩仇录",
+      "updateStatus" : 1,
+      "distance" : 9550,
+      "memberId" : 5381
+    }, {
+      "id" : 2412,
+      "name" : "爱已转角",
+      "updateStatus" : 1,
+      "distance" : 5677,
+      "memberId" : 1997
+    }, {
+      "id" : 3033,
+      "name" : "惊尘梦：冷情女子惑情夫",
+      "updateStatus" : 1,
+      "distance" : 916,
+      "memberId" : 3990
+    }, {
+      "id" : 2114,
+      "name" : "未婚妈妈，首席太霸道",
+      "updateStatus" : 2,
+      "distance" : 2989,
+      "memberId" : 7464
+    }, {
+      "id" : 3252,
+      "name" : "一辈子，在一起",
+      "updateStatus" : 1,
+      "distance" : 9346,
+      "memberId" : 8560
+    }, {
+      "id" : 3129,
+      "name" : "（秦时+火影）滚来滚去滚成圆",
+      "updateStatus" : 1,
+      "distance" : 7569,
+      "memberId" : 3855
+    }, {
+      "id" : 3708,
+      "name" : "浮生境梦",
+      "updateStatus" : 1,
+      "distance" : 2180,
+      "memberId" : 2549
+    }, {
+      "id" : 2430,
+      "name" : "一场梦如痴如醉",
+      "updateStatus" : 1,
+      "distance" : 1723,
+      "memberId" : 2397
+    }, {
+      "id" : 2248,
+      "name" : "倾城引",
+      "updateStatus" : 2,
+      "distance" : 5167,
+      "memberId" : 5576
+    }, {
+      "id" : 3598,
+      "name" : "缘起烟尘",
+      "updateStatus" : 1,
+      "distance" : 1300,
+      "memberId" : 5738
+    } ]
+  }
+}

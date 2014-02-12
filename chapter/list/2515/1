@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 76,
+    "list" : [ {
+      "id" : 4759,
+      "title" : "第一章 夏风轻柔",
+      "capacity" : 8354
+    }, {
+      "id" : 4760,
+      "title" : "第二章 理想",
+      "capacity" : 7614
+    }, {
+      "id" : 4761,
+      "title" : "第三章 暗恋",
+      "capacity" : 5851
+    }, {
+      "id" : 4762,
+      "title" : "第四章 青春摇曳 无处安放",
+      "capacity" : 6928
+    }, {
+      "id" : 4763,
+      "title" : "第五章 毕业",
+      "capacity" : 10014
+    }, {
+      "id" : 4764,
+      "title" : "第六章 模糊了，这份梦想",
+      "capacity" : 8887
+    }, {
+      "id" : 4765,
+      "title" : "第七章 工作",
+      "capacity" : 7222
+    }, {
+      "id" : 4766,
+      "title" : "第八章 现实",
+      "capacity" : 8486
+    }, {
+      "id" : 4767,
+      "title" : "第九章 遇见",
+      "capacity" : 7455
+    }, {
+      "id" : 4768,
+      "title" : "第十章 喜糖",
+      "capacity" : 2869
+    }, {
+      "id" : 4769,
+      "title" : "第十一章 遥远的地方",
+      "capacity" : 10492
+    }, {
+      "id" : 4770,
+      "title" : "第十二章 灯火阑珊",
+      "capacity" : 4914
+    }, {
+      "id" : 4771,
+      "title" : "第十三章 感恩",
+      "capacity" : 5021
+    }, {
+      "id" : 4772,
+      "title" : "第十四章 回家",
+      "capacity" : 9075
+    }, {
+      "id" : 4773,
+      "title" : "第十五章 让我当兵吧",
+      "capacity" : 9420
+    }, {
+      "id" : 4774,
+      "title" : "第十六章 报名",
+      "capacity" : 9169
+    }, {
+      "id" : 4775,
+      "title" : "第十七章 青春这无悔的选择",
+      "capacity" : 12071
+    }, {
+      "id" : 4776,
+      "title" : "第十八章 喜欢一个人",
+      "capacity" : 7608
+    }, {
+      "id" : 4777,
+      "title" : "第十九章 爱情翅膀",
+      "capacity" : 7626
+    }, {
+      "id" : 4778,
+      "title" : "第二十章 就这样走了",
+      "capacity" : 11466
+    }, {
+      "id" : 4779,
+      "title" : "第二十一章 训练",
+      "capacity" : 13420
+    }, {
+      "id" : 4780,
+      "title" : "第二十二章 遇见女兵",
+      "capacity" : 8955
+    }, {
+      "id" : 4781,
+      "title" : "第二十三章 黎明前夜",
+      "capacity" : 8960
+    }, {
+      "id" : 4782,
+      "title" : "第二十四章 解救",
+      "capacity" : 9062
+    }, {
+      "id" : 4783,
+      "title" : "第二十五章 住院",
+      "capacity" : 6117
+    }, {
+      "id" : 4784,
+      "title" : "第二十六章 如果可以",
+      "capacity" : 10599
+    }, {
+      "id" : 4785,
+      "title" : "第二十七章 两个世界",
+      "capacity" : 6368
+    }, {
+      "id" : 4786,
+      "title" : "第二十八章 授衔",
+      "capacity" : 8879
+    }, {
+      "id" : 4787,
+      "title" : "第二十九章 和军长合影",
+      "capacity" : 6196
+    }, {
+      "id" : 4788,
+      "title" : "第三十章 受罚",
+      "capacity" : 6771
+    }, {
+      "id" : 4789,
+      "title" : "第三十一章 嫂子来队",
+      "capacity" : 6945
+    }, {
+      "id" : 4790,
+      "title" : "第三十二章 家信",
+      "capacity" : 7953
+    }, {
+      "id" : 4791,
+      "title" : "第三十三章 过年",
+      "capacity" : 8313
+    }, {
+      "id" : 4792,
+      "title" : "第三十四章 万家灯火",
+      "capacity" : 4555
+    }, {
+      "id" : 4793,
+      "title" : "第三十五章 三月烟雨",
+      "capacity" : 3157
+    }, {
+      "id" : 4794,
+      "title" : "第三十六章 初春校园",
+      "capacity" : 9636
+    }, {
+      "id" : 4795,
+      "title" : "第三十七章 因为我们还年轻",
+      "capacity" : 8879
+    }, {
+      "id" : 4796,
+      "title" : "第三十八章 该来的总会来",
+      "capacity" : 10744
+    }, {
+      "id" : 4797,
+      "title" : "第三十九章 青春、青春",
+      "capacity" : 9411
+    }, {
+      "id" : 4798,
+      "title" : "第四十章 你有没有喜欢的人",
+      "capacity" : 9926
+    }, {
+      "id" : 4799,
+      "title" : "第四十一章 唱歌",
+      "capacity" : 9624
+    }, {
+      "id" : 4800,
+      "title" : "第四十二章 交往",
+      "capacity" : 7710
+    }, {
+      "id" : 4801,
+      "title" : "第四十三章 滋生暗恋",
+      "capacity" : 6611
+    }, {
+      "id" : 4802,
+      "title" : "第四十四章 也许会是他",
+      "capacity" : 10303
+    }, {
+      "id" : 4803,
+      "title" : "第四十五章 灾情",
+      "capacity" : 7054
+    }, {
+      "id" : 4804,
+      "title" : "第四十六章 连旗",
+      "capacity" : 6852
+    }, {
+      "id" : 4805,
+      "title" : "第四十七章 黎明的声音",
+      "capacity" : 9526
+    }, {
+      "id" : 4806,
+      "title" : "第四十八章 军民情",
+      "capacity" : 9252
+    }, {
+      "id" : 4807,
+      "title" : "第四十九章 废墟下的生命",
+      "capacity" : 9185
+    }, {
+      "id" : 4808,
+      "title" : "第五十章 兄弟",
+      "capacity" : 6301
+    } ]
+  }
+}

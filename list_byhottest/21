@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 21,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2489,
+      "name" : "雪落的声音",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47010.jpg",
+      "summary" : "“我听见像是雪落的声音，一回头，是你从天而降。”“雪音，我说过，这可以是现实。”“这也是你的游戏吗？",
+      "updateStatus" : 1,
+      "capacity" : 6383580,
+      "readerCount" : 10917
+    }, {
+      "id" : 2066,
+      "name" : "祸爱三生：嗜血夺天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16467.jpg",
+      "summary" : "他是睥睨天下的冷酷世子，爱情于他而言不过一颗棋子，需之则用，用之则弃，毫不可惜。她是惨遭灭门的相国千",
+      "updateStatus" : 1,
+      "capacity" : 3587104,
+      "readerCount" : 10885
+    }, {
+      "id" : 2057,
+      "name" : "异世修罗：废材小姐不好惹",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44510.jpg",
+      "summary" : "她，是地下佣兵之王，嗜血张狂无人能挡。而她，是四大修魄世家之首的玉家血脉中最难以启齿的污点，元武皆废",
+      "updateStatus" : 1,
+      "capacity" : 7439165,
+      "readerCount" : 10839
+    }, {
+      "id" : 2377,
+      "name" : "猜火车",
+      "coverUrl" : "",
+      "summary" : "【晋江首发】这是一段扭曲的爱恋——因为爱你啊，所以不得不让你死掉啊，与其让你在别人的怀中绽放开花，不",
+      "updateStatus" : 1,
+      "capacity" : 2247830,
+      "readerCount" : 10816
+    }, {
+      "id" : 2771,
+      "name" : "鸾情错，妃本无良",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47407.jpg",
+      "summary" : "她，懦弱、花痴又废才……一纸圣喻，嫁与爱慕的他为妻，却在大婚前期莫名落水身亡。她，腹黑、冷情又聪明…",
+      "updateStatus" : 1,
+      "capacity" : 5190540,
+      "readerCount" : 10810
+    }, {
+      "id" : 2966,
+      "name" : "乱世桃花",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43410.jpg",
+      "summary" : "剑尖直指他的咽喉，握剑的手在微微颤抖，他却浑不在意，只是静静的看着她，声音凛冽而忧伤：“为了他，你竟",
+      "updateStatus" : 1,
+      "capacity" : 8544782,
+      "readerCount" : 10809
+    }, {
+      "id" : 3039,
+      "name" : "一世迷离",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45428.jpg",
+      "summary" : "她们是一母同胞的亲姐妹，却是两种截然不同的待遇。姐姐备受恩宠，妹妹却不受待见。他是万受瞩目的骄子，妹",
+      "updateStatus" : 1,
+      "capacity" : 7829483,
+      "readerCount" : 10791
+    }, {
+      "id" : 2869,
+      "name" : "穿越之美人太冷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44590.jpg",
+      "summary" : "身怀异能，穿越异世。在乱世中寻求一份安宁，可事与愿违。一步步深入这异世，身不由己，为我爱的那些人，爱",
+      "updateStatus" : 1,
+      "capacity" : 5288728,
+      "readerCount" : 10784
+    }, {
+      "id" : 2375,
+      "name" : "杀手穿越成煮夫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21556.jpg",
+      "summary" : "一个杀手穿越成一个书生，还是上京赶考的，他当然不可能替他去考试，于是在一个小镇上开家酒楼，本想安安定",
+      "updateStatus" : 1,
+      "capacity" : 8345275,
+      "readerCount" : 10770
+    }, {
+      "id" : 3045,
+      "name" : "手中空握染血黑发",
+      "coverUrl" : "",
+      "summary" : "轮回之光再次普照，风花秋月往事萧萧。缘分的牵引，给她的人生带来了一场华丽的转折复仇？爱情?她在其中无",
+      "updateStatus" : 1,
+      "capacity" : 2246413,
+      "readerCount" : 10759
+    }, {
+      "id" : 2637,
+      "name" : "星空下的心愿",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46818.jpg",
+      "summary" : "世界上只有一个皇甫俊，而他唯爱苏雅倩。他们是青梅竹马，他们是金童玉女。可是，尽管这么匹配。终究摆脱不",
+      "updateStatus" : 1,
+      "capacity" : 1778118,
+      "readerCount" : 10749
+    }, {
+      "id" : 2956,
+      "name" : "温柔女友大姐大",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18766.jpg",
+      "summary" : "一个是美的让人心碎的女孩，另外两个是帅到极致的王子。偏偏她不是公主，她擅长打架，暴力，而这一切也只是",
+      "updateStatus" : 1,
+      "capacity" : 8254809,
+      "readerCount" : 10738
+    }, {
+      "id" : 2790,
+      "name" : "三世豪门：极品娇妻来袭",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46719.jpg",
+      "summary" : "她，等他三世，只为看一次木槿花开。但是，每当花开的季节，他都悄然离去…她曾经听别人说过：当你越恨一个",
+      "updateStatus" : 1,
+      "capacity" : 8930819,
+      "readerCount" : 10727
+    }, {
+      "id" : 2706,
+      "name" : "元素·鬼王",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48126.jpg",
+      "summary" : "“我可将多特维亚的复兴，可以打败鬼族军团，可以带领六王发动七王抗神战。但是...我却不能认识世界。”",
+      "updateStatus" : 1,
+      "capacity" : 9148527,
+      "readerCount" : 10655
+    }, {
+      "id" : 2569,
+      "name" : "倾世绝傲：女神修仙传",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46120.jpg",
+      "summary" : "身为雪傲国的公主，她可不是盖的！成功修仙，步步登天！见证女尊的成长，倾世绝傲，唯我独尊！",
+      "updateStatus" : 1,
+      "capacity" : 8962396,
+      "readerCount" : 10617
+    }, {
+      "id" : 2968,
+      "name" : "重生之待到记忆镂空时",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44462.jpg",
+      "summary" : "有些事情是你无从想象后也无从考究的。这是蓝析萌对于自己穿越至佣都国的将军府里后，再次发出的感叹。本不",
+      "updateStatus" : 2,
+      "capacity" : 4926796,
+      "readerCount" : 10613
+    }, {
+      "id" : 2750,
+      "name" : "仇爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46134.jpg",
+      "summary" : "他，冷血无情的天罗第一杀手，身价不菲却孤寂冷漠从不快乐，只为杀人而杀人，这只因他心中，有一个永远的痛",
+      "updateStatus" : 1,
+      "capacity" : 7836390,
+      "readerCount" : 10588
+    }, {
+      "id" : 2243,
+      "name" : "独宠之命中注定",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19016.jpg",
+      "summary" : "她该相信谁？她能相信谁？此刻，她不想见任何人，不想看见许诺会等她却已与另一名女子孕育了孩子的徐辰轩，",
+      "updateStatus" : 1,
+      "capacity" : 7732637,
+      "readerCount" : 10531
+    }, {
+      "id" : 2291,
+      "name" : "长脚丫的年轮",
+      "coverUrl" : "",
+      "summary" : "老一辈的回忆录，跨度六十余年，涉及时代、情感、事业。不平静的历史背景下的艰难人生，坎坷中的坚韧，贫寒",
+      "updateStatus" : 1,
+      "capacity" : 1849177,
+      "readerCount" : 10531
+    }, {
+      "id" : 2995,
+      "name" : "《魔武乱世》",
+      "coverUrl" : "",
+      "summary" : "神族不明原因的死亡，十大家族各怀鬼胎，不再被本家保护的刘魂星和李风、谢冰等人还有他们妻子走上了自己不",
+      "updateStatus" : 1,
+      "capacity" : 4750422,
+      "readerCount" : 10529
+    } ]
+  }
+}

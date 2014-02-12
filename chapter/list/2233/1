@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 4459,
+      "title" : "第一章 有备无患",
+      "capacity" : 9074
+    }, {
+      "id" : 4460,
+      "title" : "第二章 暖妹子驾到~",
+      "capacity" : 9255
+    }, {
+      "id" : 4461,
+      "title" : "第三章 异世临",
+      "capacity" : 9722
+    }, {
+      "id" : 4462,
+      "title" : "第四章 抵达基地前的小战斗",
+      "capacity" : 9159
+    }, {
+      "id" : 4463,
+      "title" : "第五章 暂居基地，寻宝物",
+      "capacity" : 9082
+    }, {
+      "id" : 4464,
+      "title" : "第六章 指环",
+      "capacity" : 9019
+    }, {
+      "id" : 4465,
+      "title" : "第七章 准备离开",
+      "capacity" : 9283
+    } ]
+  }
+}

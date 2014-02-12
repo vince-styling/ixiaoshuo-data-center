@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 13,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2405,
+      "name" : "恨与爱的边缘",
+      "summary" : "前十六年，她的世界里只有母爱，也许是小时候母亲善意的谎言让她对那个不曾谋面的父亲有了一丝期待，可是十",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46685.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5551733,
+      "lastUpdateTime" : "2013-12-24 08:04:11"
+    }, {
+      "id" : 2512,
+      "name" : "SOUL神之作",
+      "summary" : "科幻机战未来弑神守护梦想",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_9084.jpg",
+      "updateStatus" : 2,
+      "capacity" : 6350616,
+      "lastUpdateTime" : "2013-12-24 07:19:27"
+    }, {
+      "id" : 3000,
+      "name" : "陪君共此生",
+      "summary" : "她是一朵误落风尘的花，她是一颗沾染尘埃的明珠，浓妆艳抹是她的面具，清冷孤傲是她的本性，她是柳诗，流芳",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47145.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9117988,
+      "lastUpdateTime" : "2013-12-24 06:13:55"
+    }, {
+      "id" : 2184,
+      "name" : "西月长歌",
+      "summary" : "一场大火让八岁的她的族氏败落,家破人亡。十年后她成为了一家酒馆的老板娘，风华绝代，在酒馆中收集情报。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46281.jpg",
+      "updateStatus" : 2,
+      "capacity" : 6174557,
+      "lastUpdateTime" : "2013-12-24 05:50:06"
+    }, {
+      "id" : 2674,
+      "name" : "军少不要欺人太甚",
+      "summary" : "“报告教官，一营三连集合完毕！”一个标准的军姿！很是英姿飒爽！巾帼不让须眉啊！“入队！”一个被帽檐遮",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44340.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6982273,
+      "lastUpdateTime" : "2013-12-24 02:55:05"
+    }, {
+      "id" : 2866,
+      "name" : "寂寞恋爱",
+      "summary" : "没有爱过的人，独处的时候，心慢慢的变冷，这只能叫做孤独。爱过的人，不知检点的沉浸在两人爱情的温暖，贪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45482.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2302656,
+      "lastUpdateTime" : "2013-12-24 02:54:45"
+    }, {
+      "id" : 2267,
+      "name" : "三国恋之不如归去",
+      "summary" : "月读，从夷洲辗转来到战火纷飞的天土，当时正值三国鼎立，魏蜀吴三国战争不断，魏国内部世族大家斗争也是日",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43482.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8650974,
+      "lastUpdateTime" : "2013-12-24 02:34:22"
+    }, {
+      "id" : 3032,
+      "name" : "青颜蛊",
+      "summary" : "十二位逸莞楼的头牌美人，各自人生曲折，诉不尽的世态炎凉。青楼女子又有何好归宿。不过镜中花，水中月……",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46979.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9607989,
+      "lastUpdateTime" : "2013-12-24 02:24:30"
+    }, {
+      "id" : 3679,
+      "name" : "青春情书",
+      "summary" : "因为欺骗，连第三者都不算的单恋者肖雪毅然休学，决定流浪。却不想，在列车上碰到“体验生活”的富家子王凯",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45346.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1656214,
+      "lastUpdateTime" : "2013-12-24 02:21:07"
+    }, {
+      "id" : 2447,
+      "name" : "生活在深圳",
+      "summary" : "一年总有一段初春，花半开，风微醺。一生总有一段如春的年华，那么执着，那么伤，那么肺腑衷肠。彼时青春恰",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19738.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9471551,
+      "lastUpdateTime" : "2013-12-24 02:05:33"
+    }, {
+      "id" : 2634,
+      "name" : "白日说梦",
+      "summary" : "张宏高考落榜之后，不堪家庭的压力、社会的鄙视，成功逃离了家门，来到一个陌生的城市，耗尽钱财费尽周折之",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 5908299,
+      "lastUpdateTime" : "2013-12-24 01:38:47"
+    }, {
+      "id" : 2449,
+      "name" : "青春的坟墓",
+      "summary" : "秋日的阳光洒在这片土地上，每个人的头顶都开出了朵金灿灿的向日葵，这是一场青春的盛宴，是一场华丽的舞会",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43956.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2853628,
+      "lastUpdateTime" : "2013-12-24 01:27:32"
+    }, {
+      "id" : 3609,
+      "name" : "等你爱我",
+      "summary" : "长路漫漫，我不断前行，只为能找到，离你最近的方向。等你爱我。任何人都无法阻止意外的发生，包括严念曦，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20334.jpg",
+      "updateStatus" : 1,
+      "capacity" : 475857,
+      "lastUpdateTime" : "2013-12-24 01:00:44"
+    }, {
+      "id" : 3586,
+      "name" : "千年之轮回",
+      "summary" : "千年轮回不变的爱，只为寻找对方，相见不相识，但一定会再次拥有“冰儿，你若心中有我，树敌三千又如何”“",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 164974,
+      "lastUpdateTime" : "2013-12-24 00:24:26"
+    }, {
+      "id" : 2827,
+      "name" : "时光里的秘密",
+      "summary" : "时光与时光的距离，是秘密？还是不可逾越的鸿沟？他与她上演的“年代恋”是穿越抑或只是被时光掩藏的秘密？",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 8675214,
+      "lastUpdateTime" : "2013-12-24 00:24:07"
+    }, {
+      "id" : 2510,
+      "name" : "守卫爱情",
+      "summary" : "关于爱情，有这样一种境界，我的眼里只有你，或者，你是我的全部？可陈秀和赵学鹏的爱情，总走在出轨的边缘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19539.jpg",
+      "updateStatus" : 2,
+      "capacity" : 1410981,
+      "lastUpdateTime" : "2013-12-24 00:07:11"
+    }, {
+      "id" : 3297,
+      "name" : "左手的秘密",
+      "summary" : "我们都曾走过十七八岁如梦的季节，那一幅幅如花似锦的现实美图，不管何时想起都会让人谜一样的醉了，会心的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47940.jpg",
+      "updateStatus" : 1,
+      "capacity" : 47216,
+      "lastUpdateTime" : "2013-12-23 23:07:02"
+    }, {
+      "id" : 2381,
+      "name" : "傲雪苍穹",
+      "summary" : "文案：下雨天的晚上没事最好不要到坟地去，弄不好就穿越了，比如我们酆（feng)篁.“就算是他做的又如",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 6611969,
+      "lastUpdateTime" : "2013-12-23 22:52:55"
+    }, {
+      "id" : 2609,
+      "name" : "红尘一笑往事焚",
+      "summary" : "天魔之约当日，魔君无殇于琼瑶羽林偶遇仙子素荷，自此一段惊世传说便在神魔两界流传。魔与神相通却是坏了天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43643.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7333447,
+      "lastUpdateTime" : "2013-12-23 21:48:44"
+    }, {
+      "id" : 2214,
+      "name" : "冥王老大：鬼眼小娇妻",
+      "summary" : "她，美丽与智慧合体的纯情美少女，一双不为人知的阴阳眼注定了她的一生要跟鬼打交道。他，世界黑道唯一的领",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16545.jpg",
+      "updateStatus" : 2,
+      "capacity" : 7953424,
+      "lastUpdateTime" : "2013-12-23 21:34:47"
+    } ]
+  }
+}

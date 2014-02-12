@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 58,
+    "list" : [ {
+      "id" : 1424,
+      "title" : "第五十章 齐聚石林，计入幻界",
+      "capacity" : 6489
+    }, {
+      "id" : 1425,
+      "title" : "第五十一章 探测幻界，转机重现",
+      "capacity" : 6449
+    }, {
+      "id" : 1426,
+      "title" : "第五十二章 霡霂云飒天下殇",
+      "capacity" : 6884
+    }, {
+      "id" : 1427,
+      "title" : "第五十三章 雨神之死，洨黎之恨",
+      "capacity" : 6461
+    }, {
+      "id" : 1428,
+      "title" : "第五十四章 夔王自讨忘情水",
+      "capacity" : 7310
+    }, {
+      "id" : 1429,
+      "title" : "第五十五章 绮罗梦灭，无夜永殇",
+      "capacity" : 8192
+    }, {
+      "id" : 1430,
+      "title" : "第五十六章 人生只如初见",
+      "capacity" : 11185
+    }, {
+      "id" : 1431,
+      "title" : "【上架公告】",
+      "capacity" : 95
+    } ]
+  }
+}

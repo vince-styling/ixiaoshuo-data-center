@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 24,
+    "totalPageCount" : 31,
+    "totalItemCount" : 616,
+    "list" : [ {
+      "id" : 3175,
+      "name" : "被岁月流放的青春",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43591.jpg",
+      "summary" : "唐夕是一位家庭、学业、事业、能力都非常普通的屌丝青年，在事业和感情的波折中，在这个特殊的时代经历着自",
+      "updateStatus" : 1,
+      "capacity" : 148000,
+      "readerCount" : 1079
+    }, {
+      "id" : 3612,
+      "name" : "家殇梦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46110.jpg",
+      "summary" : "青年作家桐子幼年丧母，继母的到来，让桐子的童年陷入了越来越深的苦难。慢慢长大后桐子开始反抗，可每一次",
+      "updateStatus" : 1,
+      "capacity" : 291649,
+      "readerCount" : 1071
+    }, {
+      "id" : 3337,
+      "name" : "旋转的漩涡",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43602.jpg",
+      "summary" : "为了逃避感情，她带着一颗千疮百孔的心独自一人来到一个陌生的城市生活。原本平淡的生活却因为他的出现，使",
+      "updateStatus" : 1,
+      "capacity" : 46610,
+      "readerCount" : 1069
+    }, {
+      "id" : 2915,
+      "name" : "女汉子养成记",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46265.jpg",
+      "summary" : "她是女性朋友眼中“若为男，必嫁之”，男性朋友中粗鲁、重义气的女汉子；家人眼中独立、坚强、无坚不摧的依",
+      "updateStatus" : 1,
+      "capacity" : 7678552,
+      "readerCount" : 1069
+    }, {
+      "id" : 2805,
+      "name" : "记得爱过",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21050.jpg",
+      "summary" : "当她第一次看见枫落就喜欢上了这种色彩，然而她的家庭也如枫落一般渐渐枯黄，凋零，于是她学会了坚强；当她",
+      "updateStatus" : 1,
+      "capacity" : 9861946,
+      "readerCount" : 1052
+    }, {
+      "id" : 3508,
+      "name" : "虾片恋情:融化冰山王子的小虾片",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44915.jpg",
+      "summary" : "有时候爱情就是来的那么浪漫，或许，缘分就是这样吧。一包虾片也可以引发一个不一样的爱情故事。让我们拭目",
+      "updateStatus" : 1,
+      "capacity" : 41707,
+      "readerCount" : 1046
+    }, {
+      "id" : 3215,
+      "name" : "成长的影子",
+      "coverUrl" : "",
+      "summary" : "一直以来最受争议的便是90后，然而有多少真的了解90后呢？又有多少人能理解90后呢？我们经历了什么？",
+      "updateStatus" : 1,
+      "capacity" : 272362,
+      "readerCount" : 1041
+    }, {
+      "id" : 3357,
+      "name" : "总裁的诱人旧欢",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47404.jpg",
+      "summary" : "第一次我对你说我对你有感觉，你指着近处的女生说那是你女友，后来才知道她只是个路人。第二次我对你说我喜",
+      "updateStatus" : 1,
+      "capacity" : 63810,
+      "readerCount" : 1025
+    }, {
+      "id" : 2792,
+      "name" : "依然在一起",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47580.jpg",
+      "summary" : "一帮幺蛾子年轻人的爱恨情愁。他们大概，肤白貌美，口若悬河，色令智昏，上天入地，妖行于世。有许多捧腹大",
+      "updateStatus" : 1,
+      "capacity" : 5150607,
+      "readerCount" : 1011
+    }, {
+      "id" : 3259,
+      "name" : "静若安好愉怡一生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47031.jpg",
+      "summary" : "我们从相识到相知在一起在需找那个Ta，是一对好姐妹，好闺蜜。却又发生了不少事。误解，怀疑，不理到理解",
+      "updateStatus" : 1,
+      "capacity" : 43317,
+      "readerCount" : 988
+    }, {
+      "id" : 3090,
+      "name" : "两个人的天意",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44913.jpg",
+      "summary" : "尼玛？他是在被甩之后才转向追求她的？并且，他的前女友还和自己同一宿舍？好吧，她接受。尼玛，自己的死党",
+      "updateStatus" : 1,
+      "capacity" : 411972,
+      "readerCount" : 986
+    }, {
+      "id" : 3551,
+      "name" : "爱你或许只是兴起",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44661.jpg",
+      "summary" : "他们是公认的青梅竹马，他们是公认的最不配，其实他们只是最陌生的邻居。他们也许是花了四年时间相恋，也许",
+      "updateStatus" : 1,
+      "capacity" : 239562,
+      "readerCount" : 966
+    }, {
+      "id" : 3681,
+      "name" : "泡沫初夏",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46074.jpg",
+      "summary" : "在这个匆匆的城市，在这个匆匆的夏天。一群年轻人曾经聚过，散过，哭过，笑过。在风中的记忆消散，变成泡沫",
+      "updateStatus" : 2,
+      "capacity" : 464842,
+      "readerCount" : 963
+    }, {
+      "id" : 3264,
+      "name" : "一个安静的故事",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41948.jpg",
+      "summary" : "曾经，我在时光的彼岸，一个人安静的活着。一个人安静地吃着饭，一个人安静地听着歌，一个人安静地看电影，",
+      "updateStatus" : 1,
+      "capacity" : 666114,
+      "readerCount" : 963
+    }, {
+      "id" : 3557,
+      "name" : "无知岁月",
+      "coverUrl" : "",
+      "summary" : "无",
+      "updateStatus" : 1,
+      "capacity" : 135770,
+      "readerCount" : 948
+    }, {
+      "id" : 3156,
+      "name" : "如果爱情是一首歌",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43691.jpg",
+      "summary" : "如果爱情是一首歌，每个人都会因为自己的经历不同，而谱写出不同的爱情之歌。而我，上官若水，将于谁共谱这",
+      "updateStatus" : 1,
+      "capacity" : 777844,
+      "readerCount" : 945
+    }, {
+      "id" : 3173,
+      "name" : "超级高中生",
+      "coverUrl" : "",
+      "summary" : "一个无法阻止的阴谋。它的幕后主使是谁？一个无法实现的约定。究竟是因为什么？一次超自然事件。带来了什么",
+      "updateStatus" : 1,
+      "capacity" : 276569,
+      "readerCount" : 935
+    }, {
+      "id" : 2399,
+      "name" : "韶华逢少年",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46138.jpg",
+      "summary" : "他初识她，她初识他，两人没有任何交集，就向两条无限延伸的平行线。甚至连对方的面容都没有记清楚。他再识",
+      "updateStatus" : 1,
+      "capacity" : 4505979,
+      "readerCount" : 923
+    }, {
+      "id" : 2384,
+      "name" : "豪门霸宠：娇妻狠绝色",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16805.jpg",
+      "summary" : "她是称霸东南三省的第一豪门富家女，嚣张霸道，冷漠倔强，一脚踹掉后妈肚子里的野种，一巴掌打跑温柔小三；",
+      "updateStatus" : 2,
+      "capacity" : 8130416,
+      "readerCount" : 894
+    }, {
+      "id" : 3524,
+      "name" : "都溢",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47406.jpg",
+      "summary" : "都溢简单而冷淡，日复一日的过着写生画画的日子。陌森，闯入都溢生活的不速之客，他用尖锐而富有魅力的性格",
+      "updateStatus" : 1,
+      "capacity" : 627725,
+      "readerCount" : 889
+    } ]
+  }
+}

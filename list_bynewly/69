@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 69,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2722,
+      "name" : "戏江山",
+      "summary" : "母亲的执念成就了我错乱国度的重生本只是笑看春秋细味寒暑不曾想---终是抵不过命运的摆布历劫最后的逢生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45978.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9418527,
+      "lastUpdateTime" : "2013-11-27 08:31:11"
+    }, {
+      "id" : 3587,
+      "name" : "如果时光记得",
+      "summary" : "年轻的时候，懵懵懂懂的，不算懂生活和爱情，但有一份执着，一份勇敢。唐幽记得那时自己说不上是最勇敢的，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47330.jpg",
+      "updateStatus" : 1,
+      "capacity" : 18047,
+      "lastUpdateTime" : "2013-11-27 07:45:47"
+    }, {
+      "id" : 2111,
+      "name" : "官家小妾",
+      "summary" : "扬州总兵叶家的庶出九小姐的叶轻离，本想平凡度过一生的她，却嫁入公卿之家成了平南侯莫逸晨的第四位小妾，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16834.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9527583,
+      "lastUpdateTime" : "2013-11-27 07:31:46"
+    }, {
+      "id" : 3656,
+      "name" : "爱终究短暂",
+      "summary" : "爱情虽短暂，但是只要真正爱过的人并不在乎它是长久还是短暂-他(她)们绕了那么久，无非就是想自己爱的人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17230.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2137310,
+      "lastUpdateTime" : "2013-11-27 07:26:50"
+    }, {
+      "id" : 3041,
+      "name" : "宠色无边：青楼妖妃太难逑",
+      "summary" : "一朝穿越委身青楼，只为享尽天下美男！但这漂亮脸蛋也太会拉仇恨了吧？她忍，她忍！可是那些该死的女人还真",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45464.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5955783,
+      "lastUpdateTime" : "2013-11-27 07:01:11"
+    }, {
+      "id" : 2439,
+      "name" : "付卿吾韶华",
+      "summary" : "板着手指，已经是第七次相亲了，27岁算半个剩女的钟泠不怪母亲会着急她的终身大事。可是，为什么这时上天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46589.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8434566,
+      "lastUpdateTime" : "2013-11-27 05:55:17"
+    }, {
+      "id" : 3470,
+      "name" : "海是一座无墙的城",
+      "summary" : "孤独女孩的成长史从友情，到爱情，再到情亲的救赎从懵懂到成熟的蜕变从青涩到美好的成长千金小姐命运的扭转",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44408.jpg",
+      "updateStatus" : 1,
+      "capacity" : 464756,
+      "lastUpdateTime" : "2013-11-27 05:54:34"
+    }, {
+      "id" : 3136,
+      "name" : "紫墟：涅槃",
+      "summary" : "他是冷血强势的琅琊轩主人，她是从小被关进黑塔禁地的吟家三小姐，她出生那晚天现不详，家主慌乱中推开产房",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46863.jpg",
+      "updateStatus" : 1,
+      "capacity" : 150895,
+      "lastUpdateTime" : "2013-11-27 03:25:32"
+    }, {
+      "id" : 3396,
+      "name" : "花开花落几倾城",
+      "summary" : "【轻小说|微小说集】对于这个小说【集】说实话，我把他看来...是一本我初中时期的散文和微小说的集选。",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 14207,
+      "lastUpdateTime" : "2013-11-27 03:21:28"
+    }, {
+      "id" : 2531,
+      "name" : "烟雨紫蓬山",
+      "summary" : "青春懵懂、混沌不堪、美好憧憬...那些年，不想混却混着的日子，祭奠独有的酸涩记忆......云容含骤",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47527.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8235873,
+      "lastUpdateTime" : "2013-11-27 03:10:46"
+    }, {
+      "id" : 2349,
+      "name" : "不相信国",
+      "summary" : "不相信国几年前的一场儿童人体试验，在公众的强烈抗议下终止实验，然而一百名被遗弃儿童中却仅有一名幸存，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45118.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8535146,
+      "lastUpdateTime" : "2013-11-27 02:50:36"
+    }, {
+      "id" : 3248,
+      "name" : "玄斧",
+      "summary" : "爱恨情仇，少年将军与公主喜结连理，身不由己，忠魂葬于麒麟洞。留下孤儿寡母相依为命，二十年后，家仇国恨",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 36583,
+      "lastUpdateTime" : "2013-11-27 02:39:31"
+    }, {
+      "id" : 2113,
+      "name" : "战神王爷狂妄妃",
+      "summary" : "【红尘初妆，山河无疆，命格无双】她，黑道枭雄，生杀予夺，惊才绝艳。他，战神王爷，杀伐决断,翻手为云，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_4838.jpg",
+      "updateStatus" : 2,
+      "capacity" : 8073814,
+      "lastUpdateTime" : "2013-11-27 00:23:04"
+    }, {
+      "id" : 2360,
+      "name" : "梦中情人：前世今生都是孽",
+      "summary" : "你是我梦中的情人，你是我前世的纠缠，你是我无法续写的篇章...你们纠缠在我的梦魇里.....是折磨，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19483.jpg",
+      "updateStatus" : 2,
+      "capacity" : 5468053,
+      "lastUpdateTime" : "2013-11-27 00:15:45"
+    }, {
+      "id" : 3566,
+      "name" : "崎岖山路",
+      "summary" : "这里以两个农村孩子自我奋斗为主线，讲述八十年代至今农村生活的现实情况，描写了处于底层的农民生活的状况",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45904.jpg",
+      "updateStatus" : 1,
+      "capacity" : 399836,
+      "lastUpdateTime" : "2013-11-27 00:08:42"
+    }, {
+      "id" : 2127,
+      "name" : "沐沐雪深",
+      "summary" : "对的时间，遇见对的人，是一生幸福。对的时间，遇见错的人，是一生心伤。错的时间，遇见错的人，是一生荒唐",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 8042012,
+      "lastUpdateTime" : "2013-11-26 23:38:55"
+    }, {
+      "id" : 2486,
+      "name" : "天才少女侦探",
+      "summary" : "天才侦探秋雪月，有多少个名字。本文前面推理情节较少，后面会增多。困难，天之骄子的选择是......",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 8351104,
+      "lastUpdateTime" : "2013-11-26 23:21:11"
+    }, {
+      "id" : 3347,
+      "name" : "冷艳傲骨：毒物小姐狠嚣张",
+      "summary" : "人人都说你活该独自凄凉，其实没人懂你情长。她是容川家家主的掌上明珠，执掌容川家半壁江山的二当家大小姐",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42063.jpg",
+      "updateStatus" : 1,
+      "capacity" : 743882,
+      "lastUpdateTime" : "2013-11-26 22:58:38"
+    }, {
+      "id" : 2565,
+      "name" : "冯子莫",
+      "summary" : "一个农村的孩子，一个小时候是乖孩子、上大学却混上了黑道、冯子莫他的人生是怎样的、生活和现实面前、混上",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44248.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5552682,
+      "lastUpdateTime" : "2013-11-26 22:51:53"
+    }, {
+      "id" : 2708,
+      "name" : "风云破:逆转乾坤",
+      "summary" : "【女强】【爽文】她努力一生，还是被算计到阴谋之中。重生之后，她又如何书写一部传奇的奋斗史？如何收获自",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44446.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4534185,
+      "lastUpdateTime" : "2013-11-26 22:13:45"
+    } ]
+  }
+}

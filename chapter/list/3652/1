@@ -1,0 +1,90 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 20,
+    "list" : [ {
+      "id" : 1686,
+      "title" : "第一章 初遇",
+      "capacity" : 5269
+    }, {
+      "id" : 1687,
+      "title" : "第二章 女朋友",
+      "capacity" : 6005
+    }, {
+      "id" : 1688,
+      "title" : "第三章 紫山玉林",
+      "capacity" : 5107
+    }, {
+      "id" : 1689,
+      "title" : "第四章 醉后一夜",
+      "capacity" : 7466
+    }, {
+      "id" : 1690,
+      "title" : "第五章 被炒鱿鱼？",
+      "capacity" : 6396
+    }, {
+      "id" : 1691,
+      "title" : "第六章 他是总裁",
+      "capacity" : 8978
+    }, {
+      "id" : 1692,
+      "title" : "第七章 总裁驾到",
+      "capacity" : 6857
+    }, {
+      "id" : 1693,
+      "title" : "第八章 同居（上）",
+      "capacity" : 7024
+    }, {
+      "id" : 1694,
+      "title" : "第九章 同居（中）",
+      "capacity" : 8547
+    }, {
+      "id" : 1695,
+      "title" : "第十章 同居（下）",
+      "capacity" : 5970
+    }, {
+      "id" : 1696,
+      "title" : "第十一章 金婚风波",
+      "capacity" : 8010
+    }, {
+      "id" : 1697,
+      "title" : "第十二章 重金陪伴",
+      "capacity" : 7662
+    }, {
+      "id" : 1698,
+      "title" : "第十三章 女仆装",
+      "capacity" : 8318
+    }, {
+      "id" : 1699,
+      "title" : "第十四章 恶魔，绝对的恶魔",
+      "capacity" : 7941
+    }, {
+      "id" : 1700,
+      "title" : "第十五章",
+      "capacity" : 7313
+    }, {
+      "id" : 1701,
+      "title" : "第十六章",
+      "capacity" : 8918
+    }, {
+      "id" : 1702,
+      "title" : "第十七章",
+      "capacity" : 8442
+    }, {
+      "id" : 1703,
+      "title" : "第十八章",
+      "capacity" : 7740
+    }, {
+      "id" : 1704,
+      "title" : "第十九章",
+      "capacity" : 5762
+    }, {
+      "id" : 1705,
+      "title" : "第二十章 番外一则",
+      "capacity" : 10274
+    } ]
+  }
+}

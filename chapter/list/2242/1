@@ -1,0 +1,94 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 21,
+    "list" : [ {
+      "id" : 3788,
+      "title" : "第一章 引子 诸神之战",
+      "capacity" : 4102
+    }, {
+      "id" : 3789,
+      "title" : "第二章 诸神的黄昏",
+      "capacity" : 3248
+    }, {
+      "id" : 3790,
+      "title" : "第三章 宁静的村庄",
+      "capacity" : 3181
+    }, {
+      "id" : 3791,
+      "title" : "第四章 成长之鬼灵力觉醒",
+      "capacity" : 3387
+    }, {
+      "id" : 3792,
+      "title" : "第五章 圣灵之体上",
+      "capacity" : 3513
+    }, {
+      "id" : 3793,
+      "title" : "第六章 圣灵之体下",
+      "capacity" : 5134
+    }, {
+      "id" : 3794,
+      "title" : "第七章 美丽的‘错误’",
+      "capacity" : 3452
+    }, {
+      "id" : 3795,
+      "title" : "第八章 离家出走",
+      "capacity" : 3981
+    }, {
+      "id" : 3796,
+      "title" : "第九章 寻找香舌蓝上",
+      "capacity" : 3875
+    }, {
+      "id" : 3797,
+      "title" : "第十章 寻找香舌蓝中",
+      "capacity" : 4071
+    }, {
+      "id" : 3798,
+      "title" : "第十一章 寻找香舌蓝下",
+      "capacity" : 4018
+    }, {
+      "id" : 3799,
+      "title" : "第十二章 遭遇冰霜格拉卡上",
+      "capacity" : 3403
+    }, {
+      "id" : 3800,
+      "title" : "第十三章 遭遇冰霜格拉卡下",
+      "capacity" : 3630
+    }, {
+      "id" : 3801,
+      "title" : "第十四章 疯狂的报复下",
+      "capacity" : 3244
+    }, {
+      "id" : 3802,
+      "title" : "第十五章 真的要死了吗",
+      "capacity" : 3272
+    }, {
+      "id" : 3803,
+      "title" : "第十六章 不甘的反抗",
+      "capacity" : 6458
+    }, {
+      "id" : 3804,
+      "title" : "第十七章 气息引来的‘祸’上",
+      "capacity" : 6830
+    }, {
+      "id" : 3805,
+      "title" : "第十八章 诡异的魔兽暴动",
+      "capacity" : 8041
+    }, {
+      "id" : 3806,
+      "title" : "第十九章 会说话的’魔兽‘",
+      "capacity" : 6216
+    }, {
+      "id" : 3807,
+      "title" : "第二十章 ‘美丽’的时光上",
+      "capacity" : 6197
+    }, {
+      "id" : 3808,
+      "title" : "第二十一章 ‘美丽’的时光下",
+      "capacity" : 6600
+    } ]
+  }
+}

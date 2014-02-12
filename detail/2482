@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 2482,
+    "name" : "末世竞逐",
+    "author" : "许三",
+    "coverUrl" : "",
+    "summary" : "这是一个坑，嗯，只是开个坑。\n嗯，这是末日文。",
+    "lastUpdateTime" : "2013-11-24 07:15:32",
+    "updateStatus" : 1,
+    "catId" : 131,
+    "catName" : "灵异悬疑",
+    "capacity" : 7097452
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 30,
+    "list" : [ {
+      "id" : 3765,
+      "title" : "青州",
+      "capacity" : 7487
+    }, {
+      "id" : 3766,
+      "title" : "云京",
+      "capacity" : 6062
+    }, {
+      "id" : 3767,
+      "title" : "烟水阁",
+      "capacity" : 6269
+    }, {
+      "id" : 3768,
+      "title" : "搜捕",
+      "capacity" : 6409
+    }, {
+      "id" : 3769,
+      "title" : "明紫",
+      "capacity" : 6237
+    }, {
+      "id" : 3770,
+      "title" : "燕宫（一）",
+      "capacity" : 6112
+    }, {
+      "id" : 3771,
+      "title" : "燕宫二",
+      "capacity" : 6408
+    }, {
+      "id" : 3772,
+      "title" : "陌白",
+      "capacity" : 6066
+    }, {
+      "id" : 3773,
+      "title" : "云纹令",
+      "capacity" : 6213
+    }, {
+      "id" : 3774,
+      "title" : "言示",
+      "capacity" : 6108
+    }, {
+      "id" : 3775,
+      "title" : "淡如",
+      "capacity" : 6148
+    }, {
+      "id" : 3776,
+      "title" : "愈伤",
+      "capacity" : 6050
+    }, {
+      "id" : 3777,
+      "title" : "探望",
+      "capacity" : 6228
+    }, {
+      "id" : 3778,
+      "title" : "出入",
+      "capacity" : 6189
+    }, {
+      "id" : 3779,
+      "title" : "流言",
+      "capacity" : 6027
+    }, {
+      "id" : 3780,
+      "title" : "破啼",
+      "capacity" : 6287
+    }, {
+      "id" : 3781,
+      "title" : "探宫",
+      "capacity" : 6421
+    }, {
+      "id" : 3782,
+      "title" : "远香",
+      "capacity" : 6414
+    }, {
+      "id" : 3783,
+      "title" : "窥密",
+      "capacity" : 6785
+    }, {
+      "id" : 3784,
+      "title" : "苍靡",
+      "capacity" : 6710
+    }, {
+      "id" : 3785,
+      "title" : "漱白",
+      "capacity" : 6578
+    }, {
+      "id" : 3786,
+      "title" : "却尘",
+      "capacity" : 6310
+    }, {
+      "id" : 3787,
+      "title" : "共处",
+      "capacity" : 6201
+    }, {
+      "id" : 3788,
+      "title" : "地泉",
+      "capacity" : 6398
+    }, {
+      "id" : 3789,
+      "title" : "抽离",
+      "capacity" : 6382
+    }, {
+      "id" : 3790,
+      "title" : "寒凝",
+      "capacity" : 6266
+    }, {
+      "id" : 3791,
+      "title" : "闺夜",
+      "capacity" : 6335
+    }, {
+      "id" : 3792,
+      "title" : "亲言",
+      "capacity" : 7298
+    }, {
+      "id" : 3793,
+      "title" : "新年",
+      "capacity" : 6267
+    }, {
+      "id" : 3794,
+      "title" : "雅四",
+      "capacity" : 6961
+    } ]
+  }
+}

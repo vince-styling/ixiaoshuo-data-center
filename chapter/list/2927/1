@@ -1,0 +1,154 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 36,
+    "list" : [ {
+      "id" : 3420,
+      "title" : "小璃住江家",
+      "capacity" : 5365
+    }, {
+      "id" : 3421,
+      "title" : "朝夕相处",
+      "capacity" : 7388
+    }, {
+      "id" : 3422,
+      "title" : "稀里糊涂上大学",
+      "capacity" : 6258
+    }, {
+      "id" : 3423,
+      "title" : "他的配合",
+      "capacity" : 7088
+    }, {
+      "id" : 3424,
+      "title" : "突如其来的吻",
+      "capacity" : 5285
+    }, {
+      "id" : 3425,
+      "title" : "毕业聚会",
+      "capacity" : 10372
+    }, {
+      "id" : 3426,
+      "title" : "记忆里的少年",
+      "capacity" : 8410
+    }, {
+      "id" : 3427,
+      "title" : "醉酒的后果",
+      "capacity" : 5227
+    }, {
+      "id" : 3428,
+      "title" : "一掷千金",
+      "capacity" : 6136
+    }, {
+      "id" : 3429,
+      "title" : "冰冷的温度",
+      "capacity" : 4063
+    }, {
+      "id" : 3430,
+      "title" : "捉摸不透的他",
+      "capacity" : 5130
+    }, {
+      "id" : 3431,
+      "title" : "入校",
+      "capacity" : 5886
+    }, {
+      "id" : 3432,
+      "title" : "与叶的初次交锋",
+      "capacity" : 5803
+    }, {
+      "id" : 3433,
+      "title" : "面试1",
+      "capacity" : 6197
+    }, {
+      "id" : 3434,
+      "title" : "面试2",
+      "capacity" : 6558
+    }, {
+      "id" : 3435,
+      "title" : "放水",
+      "capacity" : 6554
+    }, {
+      "id" : 3436,
+      "title" : "别扭",
+      "capacity" : 6263
+    }, {
+      "id" : 3437,
+      "title" : "护短",
+      "capacity" : 6097
+    }, {
+      "id" : 3438,
+      "title" : "警告",
+      "capacity" : 8048
+    }, {
+      "id" : 3439,
+      "title" : "闯入男生宿舍",
+      "capacity" : 6458
+    }, {
+      "id" : 3440,
+      "title" : "扰乱的心",
+      "capacity" : 8699
+    }, {
+      "id" : 3441,
+      "title" : "不眠的夜晚",
+      "capacity" : 6946
+    }, {
+      "id" : 3442,
+      "title" : "意料之外",
+      "capacity" : 7075
+    }, {
+      "id" : 3443,
+      "title" : "遇见",
+      "capacity" : 6758
+    }, {
+      "id" : 3444,
+      "title" : "似友非友",
+      "capacity" : 9103
+    }, {
+      "id" : 3445,
+      "title" : "我养你",
+      "capacity" : 7917
+    }, {
+      "id" : 3446,
+      "title" : "被占据的一隅",
+      "capacity" : 7169
+    }, {
+      "id" : 3447,
+      "title" : "邀请",
+      "capacity" : 6465
+    }, {
+      "id" : 3448,
+      "title" : "沙滩",
+      "capacity" : 6806
+    }, {
+      "id" : 3449,
+      "title" : "蓝色",
+      "capacity" : 7715
+    }, {
+      "id" : 3450,
+      "title" : "罚酒",
+      "capacity" : 7092
+    }, {
+      "id" : 3451,
+      "title" : "装醉",
+      "capacity" : 6190
+    }, {
+      "id" : 3452,
+      "title" : "结束旅行",
+      "capacity" : 8135
+    }, {
+      "id" : 3453,
+      "title" : "匿名帖",
+      "capacity" : 6168
+    }, {
+      "id" : 3454,
+      "title" : "挨打",
+      "capacity" : 6112
+    }, {
+      "id" : 3455,
+      "title" : "耍赖",
+      "capacity" : 6095
+    } ]
+  }
+}

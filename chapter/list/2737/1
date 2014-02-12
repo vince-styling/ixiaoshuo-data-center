@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 1689,
+      "title" : "1.生活充满了不可思议",
+      "capacity" : 9178
+    }, {
+      "id" : 1690,
+      "title" : "2.迷茫中的日子",
+      "capacity" : 14338
+    }, {
+      "id" : 1691,
+      "title" : "3.荷花池的偶遇",
+      "capacity" : 13307
+    }, {
+      "id" : 1692,
+      "title" : "4.南院聚会",
+      "capacity" : 16197
+    }, {
+      "id" : 1693,
+      "title" : "5.荒栈野旅",
+      "capacity" : 9577
+    } ]
+  }
+}

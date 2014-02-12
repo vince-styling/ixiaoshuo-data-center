@@ -1,0 +1,186 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 94,
+    "list" : [ {
+      "id" : 3526,
+      "title" : "第51章 惊天动地",
+      "capacity" : 6293
+    }, {
+      "id" : 3527,
+      "title" : "第52章 石破天惊",
+      "capacity" : 6051
+    }, {
+      "id" : 3528,
+      "title" : "第53章 神魔对垒",
+      "capacity" : 5834
+    }, {
+      "id" : 3529,
+      "title" : "第54章 貌合神离",
+      "capacity" : 7215
+    }, {
+      "id" : 3530,
+      "title" : "第55章 九天玄女",
+      "capacity" : 5899
+    }, {
+      "id" : 3531,
+      "title" : "第56章 帝魔大战",
+      "capacity" : 6181
+    }, {
+      "id" : 3532,
+      "title" : "第57章 仙神合围",
+      "capacity" : 6215
+    }, {
+      "id" : 3533,
+      "title" : "第58章 六合大阵",
+      "capacity" : 6683
+    }, {
+      "id" : 3534,
+      "title" : "第59章 魔神脱困",
+      "capacity" : 5991
+    }, {
+      "id" : 3535,
+      "title" : "第60章 疏属山巅",
+      "capacity" : 5385
+    }, {
+      "id" : 3536,
+      "title" : "第61章 天规无情",
+      "capacity" : 8038
+    }, {
+      "id" : 3537,
+      "title" : "第62章 少年春梦",
+      "capacity" : 6205
+    }, {
+      "id" : 3538,
+      "title" : "第63章 天大使命",
+      "capacity" : 5701
+    }, {
+      "id" : 3539,
+      "title" : "第64章 重回崆峒",
+      "capacity" : 5257
+    }, {
+      "id" : 3540,
+      "title" : "第65章 非你莫属",
+      "capacity" : 5767
+    }, {
+      "id" : 3541,
+      "title" : "第66章 拜入玄门",
+      "capacity" : 5508
+    }, {
+      "id" : 3542,
+      "title" : "第67章 指点迷津",
+      "capacity" : 6398
+    }, {
+      "id" : 3543,
+      "title" : "第68章 挺木牙交",
+      "capacity" : 6577
+    }, {
+      "id" : 3544,
+      "title" : "第69章 遭遇花妖",
+      "capacity" : 6078
+    }, {
+      "id" : 3545,
+      "title" : "第70章 激情萌动",
+      "capacity" : 6199
+    }, {
+      "id" : 3546,
+      "title" : "第71章 花妖附体",
+      "capacity" : 6558
+    }, {
+      "id" : 3547,
+      "title" : "第72章 堕入邪道",
+      "capacity" : 6537
+    }, {
+      "id" : 3548,
+      "title" : "第73章 天玄邪刀",
+      "capacity" : 6904
+    }, {
+      "id" : 3549,
+      "title" : "第74章 玉清仙法",
+      "capacity" : 6066
+    }, {
+      "id" : 3550,
+      "title" : "第75章 法器坐骑",
+      "capacity" : 6251
+    }, {
+      "id" : 3551,
+      "title" : "第76章 二山取物",
+      "capacity" : 6751
+    }, {
+      "id" : 3552,
+      "title" : "第77章 神器主人",
+      "capacity" : 6404
+    }, {
+      "id" : 3553,
+      "title" : "第78章 龙宇下山",
+      "capacity" : 5957
+    }, {
+      "id" : 3554,
+      "title" : "第79章 大泽惊魂",
+      "capacity" : 5948
+    }, {
+      "id" : 3555,
+      "title" : "第80章 阴灵恶鬼",
+      "capacity" : 5996
+    }, {
+      "id" : 3556,
+      "title" : "第81章 人鬼相逢",
+      "capacity" : 5575
+    }, {
+      "id" : 3557,
+      "title" : "第82章 开明兽意",
+      "capacity" : 6390
+    }, {
+      "id" : 3558,
+      "title" : "第83章 来龙去脉",
+      "capacity" : 6770
+    }, {
+      "id" : 3559,
+      "title" : "第84章 沧海巨变",
+      "capacity" : 6500
+    }, {
+      "id" : 3560,
+      "title" : "第85章 恭谨有加",
+      "capacity" : 6102
+    }, {
+      "id" : 3561,
+      "title" : "第86章 天罡邪刀",
+      "capacity" : 5599
+    }, {
+      "id" : 3562,
+      "title" : "第87章 知恩图报",
+      "capacity" : 5978
+    }, {
+      "id" : 3563,
+      "title" : "第88章 幽暗密林",
+      "capacity" : 6070
+    }, {
+      "id" : 3564,
+      "title" : "第89章 花妖淫威",
+      "capacity" : 5813
+    }, {
+      "id" : 3565,
+      "title" : "第90章 险境低语",
+      "capacity" : 6118
+    }, {
+      "id" : 3566,
+      "title" : "第91章 烤雁面前",
+      "capacity" : 6243
+    }, {
+      "id" : 3567,
+      "title" : "上架公告",
+      "capacity" : 1948
+    }, {
+      "id" : 3568,
+      "title" : "附1：关于“天道”",
+      "capacity" : 3595
+    }, {
+      "id" : 3569,
+      "title" : "加油！朋友们！给力点！",
+      "capacity" : 33
+    } ]
+  }
+}

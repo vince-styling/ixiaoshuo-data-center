@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 53,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2744,
+      "name" : "江城子",
+      "updateStatus" : 1,
+      "distance" : 1542,
+      "memberId" : 1037
+    }, {
+      "id" : 2123,
+      "name" : "鬼歾",
+      "updateStatus" : 2,
+      "distance" : 4289,
+      "memberId" : 4965
+    }, {
+      "id" : 2702,
+      "name" : "光与暗之命运狂想曲",
+      "updateStatus" : 1,
+      "distance" : 3906,
+      "memberId" : 8139
+    }, {
+      "id" : 2640,
+      "name" : "都市高手之黑道霸主",
+      "updateStatus" : 1,
+      "distance" : 3812,
+      "memberId" : 5474
+    }, {
+      "id" : 2424,
+      "name" : "青春谢幕碎流年",
+      "updateStatus" : 1,
+      "distance" : 4349,
+      "memberId" : 4296
+    }, {
+      "id" : 3039,
+      "name" : "一世迷离",
+      "updateStatus" : 1,
+      "distance" : 7262,
+      "memberId" : 4257
+    }, {
+      "id" : 2523,
+      "name" : "这是桃花劫吗",
+      "updateStatus" : 1,
+      "distance" : 720,
+      "memberId" : 6717
+    }, {
+      "id" : 3267,
+      "name" : "穿越之花本纯粹",
+      "updateStatus" : 1,
+      "distance" : 2562,
+      "memberId" : 1356
+    }, {
+      "id" : 2122,
+      "name" : "毒药的诱惑",
+      "updateStatus" : 1,
+      "distance" : 6392,
+      "memberId" : 2891
+    }, {
+      "id" : 2059,
+      "name" : "娘子，贫僧等你",
+      "updateStatus" : 2,
+      "distance" : 6722,
+      "memberId" : 1488
+    }, {
+      "id" : 2629,
+      "name" : "触碰纯白的爱恋",
+      "updateStatus" : 1,
+      "distance" : 5517,
+      "memberId" : 5726
+    }, {
+      "id" : 3104,
+      "name" : "像仙人掌那样活着",
+      "updateStatus" : 1,
+      "distance" : 1565,
+      "memberId" : 5964
+    }, {
+      "id" : 2628,
+      "name" : "别再调戏我",
+      "updateStatus" : 1,
+      "distance" : 2483,
+      "memberId" : 5942
+    }, {
+      "id" : 2714,
+      "name" : "奈何情深深几许",
+      "updateStatus" : 1,
+      "distance" : 1095,
+      "memberId" : 8712
+    }, {
+      "id" : 3120,
+      "name" : "文科班的屌丝男们",
+      "updateStatus" : 1,
+      "distance" : 2284,
+      "memberId" : 7225
+    }, {
+      "id" : 2335,
+      "name" : "穿越之我的精彩人生",
+      "updateStatus" : 1,
+      "distance" : 3699,
+      "memberId" : 1522
+    }, {
+      "id" : 2345,
+      "name" : "一顾倾城-明星文",
+      "updateStatus" : 1,
+      "distance" : 2468,
+      "memberId" : 1405
+    }, {
+      "id" : 3686,
+      "name" : "美人谋：宠妃不贤良",
+      "updateStatus" : 1,
+      "distance" : 3458,
+      "memberId" : 3515
+    }, {
+      "id" : 3653,
+      "name" : "倾城王爷杀手妃",
+      "updateStatus" : 1,
+      "distance" : 3338,
+      "memberId" : 2945
+    }, {
+      "id" : 2820,
+      "name" : "凤翔九天",
+      "updateStatus" : 1,
+      "distance" : 670,
+      "memberId" : 5936
+    } ]
+  }
+}

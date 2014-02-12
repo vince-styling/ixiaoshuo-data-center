@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 94,
+    "list" : [ {
+      "id" : 3476,
+      "title" : "第１章 神族奸情",
+      "capacity" : 5136
+    }, {
+      "id" : 3477,
+      "title" : "第2章 要挟天神",
+      "capacity" : 5816
+    }, {
+      "id" : 3478,
+      "title" : "第3章 神国密谋",
+      "capacity" : 6644
+    }, {
+      "id" : 3479,
+      "title" : "第4章 青冥殒身",
+      "capacity" : 7159
+    }, {
+      "id" : 3480,
+      "title" : "第5章 是非漩涡",
+      "capacity" : 5931
+    }, {
+      "id" : 3481,
+      "title" : "第6章 神圣使命",
+      "capacity" : 6296
+    }, {
+      "id" : 3482,
+      "title" : "第7章 启程之前",
+      "capacity" : 4781
+    }, {
+      "id" : 3483,
+      "title" : "第8章 初出神国",
+      "capacity" : 3720
+    }, {
+      "id" : 3484,
+      "title" : "第9章 野外安营",
+      "capacity" : 6541
+    }, {
+      "id" : 3485,
+      "title" : "第10章 大战嚣兽",
+      "capacity" : 6236
+    }, {
+      "id" : 3486,
+      "title" : "第11章 迷雾森林",
+      "capacity" : 6124
+    }, {
+      "id" : 3487,
+      "title" : "第12章 险象环生",
+      "capacity" : 5902
+    }, {
+      "id" : 3488,
+      "title" : "第13章 情敌对决",
+      "capacity" : 5439
+    }, {
+      "id" : 3489,
+      "title" : "第14章 魔神诱惑",
+      "capacity" : 3940
+    }, {
+      "id" : 3490,
+      "title" : "第15章 善恶一念",
+      "capacity" : 4714
+    }, {
+      "id" : 3491,
+      "title" : "第16章 大泽夜行",
+      "capacity" : 5542
+    }, {
+      "id" : 3492,
+      "title" : "第17章 神秘怪物",
+      "capacity" : 6268
+    }, {
+      "id" : 3493,
+      "title" : "第18章 龙宇周旋",
+      "capacity" : 5570
+    }, {
+      "id" : 3494,
+      "title" : "第19章 冒死预警",
+      "capacity" : 5995
+    }, {
+      "id" : 3495,
+      "title" : "第20章 冉遗搏命",
+      "capacity" : 5746
+    }, {
+      "id" : 3496,
+      "title" : "第21章 背后黑手",
+      "capacity" : 5558
+    }, {
+      "id" : 3497,
+      "title" : "第22章 貌若惊鸿",
+      "capacity" : 6255
+    }, {
+      "id" : 3498,
+      "title" : "第23章 父子相聚",
+      "capacity" : 4726
+    }, {
+      "id" : 3499,
+      "title" : "第24章 红衣仙子",
+      "capacity" : 5457
+    }, {
+      "id" : 3500,
+      "title" : "第25章 玄天刀法",
+      "capacity" : 4709
+    }, {
+      "id" : 3501,
+      "title" : "第26章 英雄救美",
+      "capacity" : 5629
+    }, {
+      "id" : 3502,
+      "title" : "第27章 巫彭神医",
+      "capacity" : 5734
+    }, {
+      "id" : 3503,
+      "title" : "第28章 仙侣情缘",
+      "capacity" : 4333
+    }, {
+      "id" : 3504,
+      "title" : "第29章 英招传旨",
+      "capacity" : 3861
+    }, {
+      "id" : 3505,
+      "title" : "第30章 骨肉分离",
+      "capacity" : 4122
+    }, {
+      "id" : 3506,
+      "title" : "第31章 庐山真面",
+      "capacity" : 5577
+    }, {
+      "id" : 3507,
+      "title" : "第32章 忠信之盟",
+      "capacity" : 5175
+    }, {
+      "id" : 3508,
+      "title" : "第33章 诛心争命",
+      "capacity" : 5787
+    }, {
+      "id" : 3509,
+      "title" : "第34章 花言巧语",
+      "capacity" : 6840
+    }, {
+      "id" : 3510,
+      "title" : "第35章 心机重重",
+      "capacity" : 5958
+    }, {
+      "id" : 3511,
+      "title" : "第36章 以死相逼",
+      "capacity" : 5998
+    }, {
+      "id" : 3512,
+      "title" : "第37章 人命可贵",
+      "capacity" : 5537
+    }, {
+      "id" : 3513,
+      "title" : "第38章 凄厉呐喊",
+      "capacity" : 5727
+    }, {
+      "id" : 3514,
+      "title" : "第39章 贪心不足",
+      "capacity" : 5905
+    }, {
+      "id" : 3515,
+      "title" : "第40章 魔神仆人",
+      "capacity" : 7085
+    }, {
+      "id" : 3516,
+      "title" : "第41章 滔天大祸",
+      "capacity" : 4656
+    }, {
+      "id" : 3517,
+      "title" : "第42章 先天造化",
+      "capacity" : 4991
+    }, {
+      "id" : 3518,
+      "title" : "第43章 神国救难",
+      "capacity" : 5917
+    }, {
+      "id" : 3519,
+      "title" : "第44章 巫家六怪",
+      "capacity" : 6651
+    }, {
+      "id" : 3520,
+      "title" : "第45章 大仁大义",
+      "capacity" : 5083
+    }, {
+      "id" : 3521,
+      "title" : "第46章 生离死别",
+      "capacity" : 5243
+    }, {
+      "id" : 3522,
+      "title" : "第47章 智激灵宝",
+      "capacity" : 5535
+    }, {
+      "id" : 3523,
+      "title" : "第48章 独留崆峒",
+      "capacity" : 6095
+    }, {
+      "id" : 3524,
+      "title" : "第49章 真伪难辨",
+      "capacity" : 5489
+    }, {
+      "id" : 3525,
+      "title" : "第50章 本性流露",
+      "capacity" : 6050
+    } ]
+  }
+}

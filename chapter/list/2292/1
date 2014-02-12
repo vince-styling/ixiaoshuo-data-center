@@ -1,0 +1,70 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 15,
+    "list" : [ {
+      "id" : 3976,
+      "title" : "儒衫书生本强盗",
+      "capacity" : 10568
+    }, {
+      "id" : 3977,
+      "title" : "丐帮的面子（一）",
+      "capacity" : 6103
+    }, {
+      "id" : 3978,
+      "title" : "丐帮的面子（二）",
+      "capacity" : 6349
+    }, {
+      "id" : 3979,
+      "title" : "帮主是女人？",
+      "capacity" : 6810
+    }, {
+      "id" : 3980,
+      "title" : "双双被擒（一）",
+      "capacity" : 6938
+    }, {
+      "id" : 3981,
+      "title" : "双双被擒（二）",
+      "capacity" : 6083
+    }, {
+      "id" : 3982,
+      "title" : "来去自如（一）",
+      "capacity" : 6602
+    }, {
+      "id" : 3983,
+      "title" : "来去自如（二）",
+      "capacity" : 6514
+    }, {
+      "id" : 3984,
+      "title" : "路遇阎王爷（一）",
+      "capacity" : 5952
+    }, {
+      "id" : 3985,
+      "title" : "路遇阎王爷（二）",
+      "capacity" : 6489
+    }, {
+      "id" : 3986,
+      "title" : "富贵不仁",
+      "capacity" : 6384
+    }, {
+      "id" : 3987,
+      "title" : "躲在帐中的帮主",
+      "capacity" : 8688
+    }, {
+      "id" : 3988,
+      "title" : "帮主的信使",
+      "capacity" : 10788
+    }, {
+      "id" : 3989,
+      "title" : "丐帮大会",
+      "capacity" : 7329
+    }, {
+      "id" : 3990,
+      "title" : "我们一起下山（一）",
+      "capacity" : 6854
+    } ]
+  }
+}

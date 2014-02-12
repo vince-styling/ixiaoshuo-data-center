@@ -1,0 +1,202 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 48,
+    "list" : [ {
+      "id" : 3765,
+      "title" : "向仅有的读者们道歉",
+      "capacity" : 159
+    }, {
+      "id" : 3766,
+      "title" : "第四周 周日 AND 第二周 周日",
+      "capacity" : 16474
+    }, {
+      "id" : 3767,
+      "title" : "第一周 周一",
+      "capacity" : 8195
+    }, {
+      "id" : 3768,
+      "title" : "第二周 周日",
+      "capacity" : 13905
+    }, {
+      "id" : 3769,
+      "title" : "第二周 周一",
+      "capacity" : 20452
+    }, {
+      "id" : 3770,
+      "title" : "第二周 周二",
+      "capacity" : 17661
+    }, {
+      "id" : 3771,
+      "title" : "第二周 周三",
+      "capacity" : 11017
+    }, {
+      "id" : 3772,
+      "title" : "第二周 周四",
+      "capacity" : 8674
+    }, {
+      "id" : 3773,
+      "title" : "第二周 周五",
+      "capacity" : 3885
+    }, {
+      "id" : 3774,
+      "title" : "第三周 周日 上",
+      "capacity" : 12293
+    }, {
+      "id" : 3775,
+      "title" : "第三周 周日 下",
+      "capacity" : 7395
+    }, {
+      "id" : 3776,
+      "title" : "第三周 周一 part1",
+      "capacity" : 12657
+    }, {
+      "id" : 3777,
+      "title" : "第三周 周一 part2",
+      "capacity" : 5959
+    }, {
+      "id" : 3778,
+      "title" : "第三周 周一 part3",
+      "capacity" : 9431
+    }, {
+      "id" : 3779,
+      "title" : "第三周 周一 part 4",
+      "capacity" : 2238
+    }, {
+      "id" : 3780,
+      "title" : "第三周 周二",
+      "capacity" : 9829
+    }, {
+      "id" : 3781,
+      "title" : "第三周 周三",
+      "capacity" : 5507
+    }, {
+      "id" : 3782,
+      "title" : "第三周 周六",
+      "capacity" : 3614
+    }, {
+      "id" : 3783,
+      "title" : "残片NO.1",
+      "capacity" : 2140
+    }, {
+      "id" : 3784,
+      "title" : "第三周 周六 part2",
+      "capacity" : 4311
+    }, {
+      "id" : 3785,
+      "title" : "残片NO.2",
+      "capacity" : 3127
+    }, {
+      "id" : 3786,
+      "title" : "第三周 周六 part3",
+      "capacity" : 2004
+    }, {
+      "id" : 3787,
+      "title" : "残片NO.3",
+      "capacity" : 3627
+    }, {
+      "id" : 3788,
+      "title" : "第三周 周六 part 4",
+      "capacity" : 5029
+    }, {
+      "id" : 3789,
+      "title" : "残片 NO.4",
+      "capacity" : 2909
+    }, {
+      "id" : 3790,
+      "title" : "第四周 周日 part1",
+      "capacity" : 3326
+    }, {
+      "id" : 3791,
+      "title" : "残片 NO.5",
+      "capacity" : 4392
+    }, {
+      "id" : 3792,
+      "title" : "第四周 周日 part2",
+      "capacity" : 3867
+    }, {
+      "id" : 3793,
+      "title" : "残片 NO.6",
+      "capacity" : 2838
+    }, {
+      "id" : 3794,
+      "title" : "第四周 周日 part3",
+      "capacity" : 2675
+    }, {
+      "id" : 3795,
+      "title" : "残片 NO.7",
+      "capacity" : 3541
+    }, {
+      "id" : 3796,
+      "title" : "第四周 周日 part 4",
+      "capacity" : 2118
+    }, {
+      "id" : 3797,
+      "title" : "残片NO.8",
+      "capacity" : 1425
+    }, {
+      "id" : 3798,
+      "title" : "第四周 周日 The end of HYY",
+      "capacity" : 2811
+    }, {
+      "id" : 3799,
+      "title" : "残片 NO.9",
+      "capacity" : 4163
+    }, {
+      "id" : 3800,
+      "title" : "第四周 周一",
+      "capacity" : 2281
+    }, {
+      "id" : 3801,
+      "title" : "残片 NO.10",
+      "capacity" : 3110
+    }, {
+      "id" : 3802,
+      "title" : "第四周 周一 NO.2",
+      "capacity" : 2844
+    }, {
+      "id" : 3803,
+      "title" : "残片NO.11 THE BEGING",
+      "capacity" : 3718
+    }, {
+      "id" : 3804,
+      "title" : "第四周 周一 part3",
+      "capacity" : 1839
+    }, {
+      "id" : 3805,
+      "title" : "Drama part1",
+      "capacity" : 4603
+    }, {
+      "id" : 3806,
+      "title" : "Drama part 2",
+      "capacity" : 4128
+    }, {
+      "id" : 3807,
+      "title" : "Drama part3",
+      "capacity" : 5671
+    }, {
+      "id" : 3808,
+      "title" : "第四周 周一 part 4",
+      "capacity" : 4248
+    }, {
+      "id" : 3809,
+      "title" : "First 酒吧之谈",
+      "capacity" : 6113
+    }, {
+      "id" : 3810,
+      "title" : "残片NO12",
+      "capacity" : 1564
+    }, {
+      "id" : 3811,
+      "title" : "第四周 周六 part1",
+      "capacity" : 1838
+    }, {
+      "id" : 3812,
+      "title" : "残片NO13",
+      "capacity" : 1002
+    } ]
+  }
+}

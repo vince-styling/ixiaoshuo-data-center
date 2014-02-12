@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 89,
+    "list" : [ {
+      "id" : 4004,
+      "title" : "一、人界·北海",
+      "capacity" : 9535
+    }, {
+      "id" : 4005,
+      "title" : "二、天界·穆天塔",
+      "capacity" : 7248
+    }, {
+      "id" : 4006,
+      "title" : "三、魔界·暗域",
+      "capacity" : 1952
+    }, {
+      "id" : 4007,
+      "title" : "四、幻界·虚境宫",
+      "capacity" : 2252
+    }, {
+      "id" : 4008,
+      "title" : "五、云澜学院",
+      "capacity" : 4471
+    }, {
+      "id" : 4009,
+      "title" : "六、校祭",
+      "capacity" : 4723
+    }, {
+      "id" : 4010,
+      "title" : "七、校祭中",
+      "capacity" : 4593
+    }, {
+      "id" : 4011,
+      "title" : "八、争霸赛（一）",
+      "capacity" : 4657
+    }, {
+      "id" : 4012,
+      "title" : "九、争霸赛（二）",
+      "capacity" : 4602
+    }, {
+      "id" : 4013,
+      "title" : "十、争霸赛（三）",
+      "capacity" : 4688
+    }, {
+      "id" : 4014,
+      "title" : "十一、争霸赛（四）",
+      "capacity" : 4589
+    }, {
+      "id" : 4015,
+      "title" : "十二、鬼藤",
+      "capacity" : 4540
+    }, {
+      "id" : 4016,
+      "title" : "十三、殷无",
+      "capacity" : 4602
+    }, {
+      "id" : 4017,
+      "title" : "十四、失踪",
+      "capacity" : 3093
+    }, {
+      "id" : 4018,
+      "title" : "十五、神秘的盒子",
+      "capacity" : 4444
+    }, {
+      "id" : 4019,
+      "title" : "十六、云雾山侧峰",
+      "capacity" : 5091
+    }, {
+      "id" : 4020,
+      "title" : "十七、四方齐聚",
+      "capacity" : 4529
+    }, {
+      "id" : 4021,
+      "title" : "十八、命运的轨迹",
+      "capacity" : 4348
+    }, {
+      "id" : 4022,
+      "title" : "十九、魔王黑焰",
+      "capacity" : 4235
+    }, {
+      "id" : 4023,
+      "title" : "二十、黑焰出手",
+      "capacity" : 5447
+    }, {
+      "id" : 4024,
+      "title" : "二十一、受制于人",
+      "capacity" : 4508
+    }, {
+      "id" : 4025,
+      "title" : "二十二、脱险，奥西出现！",
+      "capacity" : 4447
+    }, {
+      "id" : 4026,
+      "title" : "二十三、最后与开始",
+      "capacity" : 6464
+    }, {
+      "id" : 4027,
+      "title" : "一、临界·黄金之漠",
+      "capacity" : 4973
+    }, {
+      "id" : 4028,
+      "title" : "二、神秘的石门和记忆羽毛",
+      "capacity" : 5074
+    }, {
+      "id" : 4029,
+      "title" : "三、独自的命运（一）",
+      "capacity" : 4507
+    }, {
+      "id" : 4030,
+      "title" : "四、独自的命运（二）",
+      "capacity" : 4202
+    }, {
+      "id" : 4031,
+      "title" : "五、玄武宫",
+      "capacity" : 3990
+    }, {
+      "id" : 4032,
+      "title" : "六、宫殿里哭泣的小男孩",
+      "capacity" : 4213
+    }, {
+      "id" : 4033,
+      "title" : "七、你也是我需要保护的人",
+      "capacity" : 4862
+    }, {
+      "id" : 4034,
+      "title" : "八、神秘女子出现",
+      "capacity" : 5163
+    }, {
+      "id" : 4035,
+      "title" : "九、四方神兽首露端倪",
+      "capacity" : 4596
+    }, {
+      "id" : 4036,
+      "title" : "十、西·白虎宫",
+      "capacity" : 4560
+    }, {
+      "id" : 4037,
+      "title" : "十一、无风参上！",
+      "capacity" : 4312
+    }, {
+      "id" : 4038,
+      "title" : "十二、聚首",
+      "capacity" : 4504
+    }, {
+      "id" : 4039,
+      "title" : "十三、我选择的路",
+      "capacity" : 4712
+    }, {
+      "id" : 4040,
+      "title" : "十四、远古记忆（一）",
+      "capacity" : 4582
+    }, {
+      "id" : 4041,
+      "title" : "十五、远古记忆（二）",
+      "capacity" : 4535
+    }, {
+      "id" : 4042,
+      "title" : "十六、我回来了",
+      "capacity" : 4512
+    }, {
+      "id" : 4043,
+      "title" : "十七、踏上征程",
+      "capacity" : 4601
+    }, {
+      "id" : 4044,
+      "title" : "十八、幻影之城·尼亚都",
+      "capacity" : 4598
+    }, {
+      "id" : 4045,
+      "title" : "十九、商贩的热情无法抵挡",
+      "capacity" : 4776
+    }, {
+      "id" : 4046,
+      "title" : "二十、佣兵公会",
+      "capacity" : 4524
+    }, {
+      "id" : 4047,
+      "title" : "二十一、楚逸之很小人",
+      "capacity" : 4737
+    }, {
+      "id" : 4048,
+      "title" : "二十二、被奴役的众人",
+      "capacity" : 4679
+    }, {
+      "id" : 4049,
+      "title" : "二十三、逆世佣兵团",
+      "capacity" : 4453
+    }, {
+      "id" : 4050,
+      "title" : "二十四、调戏小妖精",
+      "capacity" : 4544
+    }, {
+      "id" : 4051,
+      "title" : "二十五、楚逸之很恶劣",
+      "capacity" : 4667
+    }, {
+      "id" : 4052,
+      "title" : "二十六、要去寻宝了！",
+      "capacity" : 4658
+    }, {
+      "id" : 4053,
+      "title" : "二十七、神秘小城堡",
+      "capacity" : 4644
+    } ]
+  }
+}

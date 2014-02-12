@@ -1,0 +1,122 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 28,
+    "list" : [ {
+      "id" : 1696,
+      "title" : "第一章 夜曲",
+      "capacity" : 3011
+    }, {
+      "id" : 1697,
+      "title" : "第二章 我叫夜凉",
+      "capacity" : 6637
+    }, {
+      "id" : 1698,
+      "title" : "第三章 淡银",
+      "capacity" : 3321
+    }, {
+      "id" : 1699,
+      "title" : "第四章 曾经的家",
+      "capacity" : 4141
+    }, {
+      "id" : 1700,
+      "title" : "第五章 夜凉如水",
+      "capacity" : 3840
+    }, {
+      "id" : 1701,
+      "title" : "第六章 初见魔剑",
+      "capacity" : 7589
+    }, {
+      "id" : 1702,
+      "title" : "第七章 左右护法",
+      "capacity" : 8181
+    }, {
+      "id" : 1703,
+      "title" : "第八章 一曲惊人",
+      "capacity" : 6116
+    }, {
+      "id" : 1704,
+      "title" : "第九章 北辰枫",
+      "capacity" : 3408
+    }, {
+      "id" : 1705,
+      "title" : "第十章 淡银无踪",
+      "capacity" : 3584
+    }, {
+      "id" : 1706,
+      "title" : "第十一章 危机",
+      "capacity" : 3360
+    }, {
+      "id" : 1707,
+      "title" : "第十二章 同是魔族",
+      "capacity" : 3788
+    }, {
+      "id" : 1708,
+      "title" : "第十三章 水心镜",
+      "capacity" : 9123
+    }, {
+      "id" : 1709,
+      "title" : "第十四章 生死徘徊",
+      "capacity" : 7508
+    }, {
+      "id" : 1710,
+      "title" : "第十五章 火之考验",
+      "capacity" : 5261
+    }, {
+      "id" : 1711,
+      "title" : "第十六章 凤凰才是王道",
+      "capacity" : 4759
+    }, {
+      "id" : 1712,
+      "title" : "第十七章 水帘洞",
+      "capacity" : 4739
+    }, {
+      "id" : 1713,
+      "title" : "第十八章 背叛",
+      "capacity" : 3974
+    }, {
+      "id" : 1714,
+      "title" : "第十九章 月流辉的新主人",
+      "capacity" : 4813
+    }, {
+      "id" : 1715,
+      "title" : "第二十章 魔剑问世",
+      "capacity" : 4365
+    }, {
+      "id" : 1716,
+      "title" : "第二十一章 魔王回归",
+      "capacity" : 4534
+    }, {
+      "id" : 1717,
+      "title" : "第二十二章 死里逃生",
+      "capacity" : 4832
+    }, {
+      "id" : 1718,
+      "title" : "第二十三章 短暂的平静",
+      "capacity" : 4088
+    }, {
+      "id" : 1719,
+      "title" : "第二十四章 两个人",
+      "capacity" : 4018
+    }, {
+      "id" : 1720,
+      "title" : "第二十五章 陷阱",
+      "capacity" : 4117
+    }, {
+      "id" : 1721,
+      "title" : "第二十六章 熟悉的声音",
+      "capacity" : 3654
+    }, {
+      "id" : 1722,
+      "title" : "第二十七章 另一个人",
+      "capacity" : 5233
+    }, {
+      "id" : 1723,
+      "title" : "第二十八章 晴雪",
+      "capacity" : 5943
+    } ]
+  }
+}

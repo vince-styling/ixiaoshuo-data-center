@@ -1,0 +1,138 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 32,
+    "list" : [ {
+      "id" : 3719,
+      "title" : "序章",
+      "capacity" : 3062
+    }, {
+      "id" : 3720,
+      "title" : "第一章 他不是他",
+      "capacity" : 14093
+    }, {
+      "id" : 3721,
+      "title" : "第二章 怦然心动",
+      "capacity" : 4635
+    }, {
+      "id" : 3722,
+      "title" : "第三章 最佳损友",
+      "capacity" : 8887
+    }, {
+      "id" : 3723,
+      "title" : "第四章 两个傻瓜",
+      "capacity" : 15129
+    }, {
+      "id" : 3724,
+      "title" : "第五章 被卖",
+      "capacity" : 8445
+    }, {
+      "id" : 3725,
+      "title" : "第六章 忆江南",
+      "capacity" : 8221
+    }, {
+      "id" : 3726,
+      "title" : "第七章 白雅琴",
+      "capacity" : 8510
+    }, {
+      "id" : 3727,
+      "title" : "第八章 强吻",
+      "capacity" : 7789
+    }, {
+      "id" : 3728,
+      "title" : "第九章 在意外中了解心意",
+      "capacity" : 8847
+    }, {
+      "id" : 3729,
+      "title" : "第十章 突变的四人组",
+      "capacity" : 8326
+    }, {
+      "id" : 3730,
+      "title" : "第十一章 贱人就是矫情",
+      "capacity" : 10724
+    }, {
+      "id" : 3731,
+      "title" : "第十二章 如此矫揉造作",
+      "capacity" : 10543
+    }, {
+      "id" : 3732,
+      "title" : "第十三章 真相大白",
+      "capacity" : 9773
+    }, {
+      "id" : 3733,
+      "title" : "第十四章 老婆，我要抱抱！",
+      "capacity" : 9770
+    }, {
+      "id" : 3734,
+      "title" : "第十五章 在劫难逃",
+      "capacity" : 10070
+    }, {
+      "id" : 3735,
+      "title" : "第十六章 是你！",
+      "capacity" : 9204
+    }, {
+      "id" : 3736,
+      "title" : "第十七章 低调的奢华",
+      "capacity" : 9431
+    }, {
+      "id" : 3737,
+      "title" : "第十八章 孟经理",
+      "capacity" : 9958
+    }, {
+      "id" : 3738,
+      "title" : "第十九章 神秘的男人",
+      "capacity" : 9059
+    }, {
+      "id" : 3739,
+      "title" : "第二十章 各怀心事",
+      "capacity" : 10960
+    }, {
+      "id" : 3740,
+      "title" : "第二十一章 蓝晓筱的心结",
+      "capacity" : 9425
+    }, {
+      "id" : 3741,
+      "title" : "第二十二章 人生何处不相逢",
+      "capacity" : 9727
+    }, {
+      "id" : 3742,
+      "title" : "第二十三章 闺中卧谈",
+      "capacity" : 9420
+    }, {
+      "id" : 3743,
+      "title" : "第二十四章 月色撩人",
+      "capacity" : 9392
+    }, {
+      "id" : 3744,
+      "title" : "第二十五章 警察叔叔，你好！",
+      "capacity" : 10520
+    }, {
+      "id" : 3745,
+      "title" : "第二十六章 做戏就要做全套",
+      "capacity" : 10832
+    }, {
+      "id" : 3746,
+      "title" : "第二十七章 输了就任君处置",
+      "capacity" : 9267
+    }, {
+      "id" : 3747,
+      "title" : "第二十八章 尴尬",
+      "capacity" : 9382
+    }, {
+      "id" : 3748,
+      "title" : "第二十九章 小桥流水",
+      "capacity" : 12550
+    }, {
+      "id" : 3749,
+      "title" : "第三十章 小丫头，挺逗！",
+      "capacity" : 16793
+    }, {
+      "id" : 3750,
+      "title" : "亲们，请继续支持哈！",
+      "capacity" : 2236
+    } ]
+  }
+}

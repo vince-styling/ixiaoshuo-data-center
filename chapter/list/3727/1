@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 2325,
+      "title" : "繁华错 一",
+      "capacity" : 6496
+    }, {
+      "id" : 2326,
+      "title" : "繁华错 二",
+      "capacity" : 6162
+    }, {
+      "id" : 2327,
+      "title" : "繁华错 三",
+      "capacity" : 6401
+    }, {
+      "id" : 2328,
+      "title" : "繁华错 四",
+      "capacity" : 6095
+    }, {
+      "id" : 2329,
+      "title" : "繁华错 五",
+      "capacity" : 11233
+    }, {
+      "id" : 2330,
+      "title" : "繁华错 六",
+      "capacity" : 6818
+    }, {
+      "id" : 2331,
+      "title" : "繁华错 七",
+      "capacity" : 3649
+    }, {
+      "id" : 2332,
+      "title" : "繁华错 八",
+      "capacity" : 5917
+    }, {
+      "id" : 2333,
+      "title" : "繁华错 九",
+      "capacity" : 6111
+    }, {
+      "id" : 2334,
+      "title" : "繁华错 十",
+      "capacity" : 6545
+    }, {
+      "id" : 2335,
+      "title" : "繁华错 十一",
+      "capacity" : 9716
+    }, {
+      "id" : 2336,
+      "title" : "繁华错 十二",
+      "capacity" : 9144
+    }, {
+      "id" : 2337,
+      "title" : "繁华错 十三",
+      "capacity" : 29914
+    } ]
+  }
+}

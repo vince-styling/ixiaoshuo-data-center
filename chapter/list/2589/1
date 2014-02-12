@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1205,
+      "title" : "Past.1",
+      "capacity" : 72
+    }, {
+      "id" : 1206,
+      "title" : "Past.2",
+      "capacity" : 13474
+    }, {
+      "id" : 1207,
+      "title" : "Past.3",
+      "capacity" : 9403
+    } ]
+  }
+}

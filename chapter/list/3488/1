@@ -1,0 +1,150 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 35,
+    "list" : [ {
+      "id" : 4139,
+      "title" : "第一章 魔界选拔",
+      "capacity" : 8212
+    }, {
+      "id" : 4140,
+      "title" : "第二章 比试开始",
+      "capacity" : 8418
+    }, {
+      "id" : 4141,
+      "title" : "第三章 神秘女子",
+      "capacity" : 8404
+    }, {
+      "id" : 4142,
+      "title" : "第四章 武学天才",
+      "capacity" : 8710
+    }, {
+      "id" : 4143,
+      "title" : "第五章 比赛结果",
+      "capacity" : 8648
+    }, {
+      "id" : 4144,
+      "title" : "第六章 魔界传说",
+      "capacity" : 8108
+    }, {
+      "id" : 4145,
+      "title" : "第七章 误会重重",
+      "capacity" : 8900
+    }, {
+      "id" : 4146,
+      "title" : "第八章 北冥寒嫣",
+      "capacity" : 8195
+    }, {
+      "id" : 4147,
+      "title" : "第九章 姐妹情深",
+      "capacity" : 8494
+    }, {
+      "id" : 4148,
+      "title" : "第十章 厚颜无耻",
+      "capacity" : 8357
+    }, {
+      "id" : 4149,
+      "title" : "第十一章 巧舌如簧",
+      "capacity" : 9132
+    }, {
+      "id" : 4150,
+      "title" : "第十二章 初次受罚",
+      "capacity" : 8514
+    }, {
+      "id" : 4151,
+      "title" : "第十三章 关系缓和",
+      "capacity" : 9529
+    }, {
+      "id" : 4152,
+      "title" : "第十四章 炼丹之术",
+      "capacity" : 8762
+    }, {
+      "id" : 4153,
+      "title" : "第十五章 大饱口福",
+      "capacity" : 8876
+    }, {
+      "id" : 4154,
+      "title" : "第十六章 呆萌小受",
+      "capacity" : 8964
+    }, {
+      "id" : 4155,
+      "title" : "第十七章 调皮捣蛋",
+      "capacity" : 9332
+    }, {
+      "id" : 4156,
+      "title" : "第十八章 不速之客",
+      "capacity" : 9088
+    }, {
+      "id" : 4157,
+      "title" : "第十九章 以身犯险",
+      "capacity" : 9099
+    }, {
+      "id" : 4158,
+      "title" : "第二十章 心结破解",
+      "capacity" : 9141
+    }, {
+      "id" : 4159,
+      "title" : "第二十一章 神秘势力",
+      "capacity" : 9250
+    }, {
+      "id" : 4160,
+      "title" : "第二十二章 制符之术",
+      "capacity" : 9016
+    }, {
+      "id" : 4161,
+      "title" : "第二十三章 符咒之威",
+      "capacity" : 9009
+    }, {
+      "id" : 4162,
+      "title" : "第二十四章 当众责罚",
+      "capacity" : 9030
+    }, {
+      "id" : 4163,
+      "title" : "第二十五章 风起云涌",
+      "capacity" : 9036
+    }, {
+      "id" : 4164,
+      "title" : "第二十六章 三方会谈",
+      "capacity" : 9246
+    }, {
+      "id" : 4165,
+      "title" : "第二十七章 历练之前",
+      "capacity" : 9006
+    }, {
+      "id" : 4166,
+      "title" : "第二十八章 奇怪蛋蛋",
+      "capacity" : 9010
+    }, {
+      "id" : 4167,
+      "title" : "第二十九章 兽王之威",
+      "capacity" : 9012
+    }, {
+      "id" : 4168,
+      "title" : "第三十章 玄冰麒麟",
+      "capacity" : 8118
+    }, {
+      "id" : 4169,
+      "title" : "第三十一章 冰糖葫芦",
+      "capacity" : 8169
+    }, {
+      "id" : 4170,
+      "title" : "第三十二章 妖邪势力",
+      "capacity" : 8213
+    }, {
+      "id" : 4171,
+      "title" : "第三十三章 金蝉脱壳",
+      "capacity" : 8403
+    }, {
+      "id" : 4172,
+      "title" : "第三十四章 结伴而行",
+      "capacity" : 8328
+    }, {
+      "id" : 4173,
+      "title" : "第三十五章 修为境界",
+      "capacity" : 8321
+    } ]
+  }
+}

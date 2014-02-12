@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 18,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2618,
+      "name" : "半夏如风",
+      "updateStatus" : 1,
+      "distance" : 5916,
+      "memberId" : 5652
+    }, {
+      "id" : 2807,
+      "name" : "忍住不说我爱你",
+      "updateStatus" : 1,
+      "distance" : 957,
+      "memberId" : 2627
+    }, {
+      "id" : 3320,
+      "name" : "梦迷牡丹",
+      "updateStatus" : 1,
+      "distance" : 1071,
+      "memberId" : 4481
+    }, {
+      "id" : 2159,
+      "name" : "雁翎刀",
+      "updateStatus" : 1,
+      "distance" : 1200,
+      "memberId" : 5778
+    }, {
+      "id" : 2136,
+      "name" : "替身王爷：妖妃有点萌",
+      "updateStatus" : 1,
+      "distance" : 5329,
+      "memberId" : 3278
+    }, {
+      "id" : 3083,
+      "name" : "情难自禁",
+      "updateStatus" : 1,
+      "distance" : 9500,
+      "memberId" : 8115
+    }, {
+      "id" : 3213,
+      "name" : "光华琉璃只为一笑",
+      "updateStatus" : 1,
+      "distance" : 1167,
+      "memberId" : 4238
+    }, {
+      "id" : 2962,
+      "name" : "爱与时光终年不遇",
+      "updateStatus" : 1,
+      "distance" : 7264,
+      "memberId" : 3570
+    }, {
+      "id" : 3706,
+      "name" : "痴情的心",
+      "updateStatus" : 1,
+      "distance" : 3690,
+      "memberId" : 7183
+    }, {
+      "id" : 2095,
+      "name" : "逐鹿芳心",
+      "updateStatus" : 1,
+      "distance" : 649,
+      "memberId" : 5530
+    }, {
+      "id" : 2256,
+      "name" : "穿越东宫之碟中谍",
+      "updateStatus" : 2,
+      "distance" : 7053,
+      "memberId" : 2820
+    }, {
+      "id" : 2051,
+      "name" : "追忆我们的纯真年代",
+      "updateStatus" : 1,
+      "distance" : 9755,
+      "memberId" : 4722
+    }, {
+      "id" : 2382,
+      "name" : "同曾惶虑情难止",
+      "updateStatus" : 1,
+      "distance" : 6921,
+      "memberId" : 2394
+    }, {
+      "id" : 2108,
+      "name" : "妖孽丛生",
+      "updateStatus" : 1,
+      "distance" : 4013,
+      "memberId" : 3283
+    }, {
+      "id" : 3018,
+      "name" : "乱世佳人之末代皇妃",
+      "updateStatus" : 1,
+      "distance" : 9769,
+      "memberId" : 8243
+    }, {
+      "id" : 3379,
+      "name" : "情簪",
+      "updateStatus" : 1,
+      "distance" : 3220,
+      "memberId" : 5396
+    }, {
+      "id" : 3226,
+      "name" : "奇迹少年",
+      "updateStatus" : 1,
+      "distance" : 3860,
+      "memberId" : 2039
+    }, {
+      "id" : 2855,
+      "name" : "皇叔，别抢亲",
+      "updateStatus" : 1,
+      "distance" : 6857,
+      "memberId" : 3244
+    }, {
+      "id" : 3275,
+      "name" : "暗昙",
+      "updateStatus" : 1,
+      "distance" : 2369,
+      "memberId" : 6014
+    }, {
+      "id" : 2247,
+      "name" : "帝女倾城：痴缠冷面琴王",
+      "updateStatus" : 2,
+      "distance" : 7236,
+      "memberId" : 5669
+    } ]
+  }
+}

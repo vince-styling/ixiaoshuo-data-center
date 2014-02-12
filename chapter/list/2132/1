@@ -1,0 +1,70 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 15,
+    "list" : [ {
+      "id" : 3602,
+      "title" : "楔子",
+      "capacity" : 3261
+    }, {
+      "id" : 3603,
+      "title" : "第一章：选妃",
+      "capacity" : 3045
+    }, {
+      "id" : 3604,
+      "title" : "第二章：库房",
+      "capacity" : 3098
+    }, {
+      "id" : 3605,
+      "title" : "第三章：进宫",
+      "capacity" : 3016
+    }, {
+      "id" : 3606,
+      "title" : "第四章：皇宫",
+      "capacity" : 3030
+    }, {
+      "id" : 3607,
+      "title" : "第五章：回门",
+      "capacity" : 3177
+    }, {
+      "id" : 3608,
+      "title" : "第六章：师姐",
+      "capacity" : 3101
+    }, {
+      "id" : 3609,
+      "title" : "第七章：醒酒",
+      "capacity" : 2950
+    }, {
+      "id" : 3610,
+      "title" : "第八章：紫萱",
+      "capacity" : 2965
+    }, {
+      "id" : 3611,
+      "title" : "第九章：竹楼",
+      "capacity" : 3110
+    }, {
+      "id" : 3612,
+      "title" : "第十章：回府",
+      "capacity" : 3170
+    }, {
+      "id" : 3613,
+      "title" : "第十一章：失踪",
+      "capacity" : 3162
+    }, {
+      "id" : 3614,
+      "title" : "第十二章：山洞",
+      "capacity" : 3029
+    }, {
+      "id" : 3615,
+      "title" : "第十三章：重逢",
+      "capacity" : 2948
+    }, {
+      "id" : 3616,
+      "title" : "第十四章：军营",
+      "capacity" : 2984
+    } ]
+  }
+}

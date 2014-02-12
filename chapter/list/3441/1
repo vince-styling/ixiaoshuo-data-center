@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 10,
+    "list" : [ {
+      "id" : 3294,
+      "title" : "前序",
+      "capacity" : 3189
+    }, {
+      "id" : 3295,
+      "title" : "序幕",
+      "capacity" : 10957
+    }, {
+      "id" : 3296,
+      "title" : "归来",
+      "capacity" : 10817
+    }, {
+      "id" : 3297,
+      "title" : "试探",
+      "capacity" : 11964
+    }, {
+      "id" : 3298,
+      "title" : "会面",
+      "capacity" : 14302
+    }, {
+      "id" : 3299,
+      "title" : "红莲",
+      "capacity" : 13713
+    }, {
+      "id" : 3300,
+      "title" : "驳斥",
+      "capacity" : 10520
+    }, {
+      "id" : 3301,
+      "title" : "往生",
+      "capacity" : 12288
+    }, {
+      "id" : 3302,
+      "title" : "预示（1）",
+      "capacity" : 9868
+    }, {
+      "id" : 3303,
+      "title" : "预示（2）",
+      "capacity" : 10609
+    } ]
+  }
+}

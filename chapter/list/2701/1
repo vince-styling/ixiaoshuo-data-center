@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 4,
+    "totalItemCount" : 152,
+    "list" : [ {
+      "id" : 4418,
+      "title" : "第一章 重生",
+      "capacity" : 6107
+    }, {
+      "id" : 4419,
+      "title" : "第二章 龙腾大陆",
+      "capacity" : 6263
+    }, {
+      "id" : 4420,
+      "title" : "第三章 新的目标",
+      "capacity" : 6311
+    }, {
+      "id" : 4421,
+      "title" : "第四章 修灵",
+      "capacity" : 6036
+    }, {
+      "id" : 4422,
+      "title" : "第五章 报复",
+      "capacity" : 7360
+    }, {
+      "id" : 4423,
+      "title" : "第六章 赵明",
+      "capacity" : 6113
+    }, {
+      "id" : 4424,
+      "title" : "第七章 流浪佣兵团",
+      "capacity" : 5968
+    }, {
+      "id" : 4425,
+      "title" : "第八章 下手",
+      "capacity" : 5748
+    }, {
+      "id" : 4426,
+      "title" : "第九章 纯元矿脉",
+      "capacity" : 6051
+    }, {
+      "id" : 4427,
+      "title" : "第十章 上演",
+      "capacity" : 6615
+    }, {
+      "id" : 4428,
+      "title" : "第十一章 螳螂捕蝉黄雀在后",
+      "capacity" : 5802
+    }, {
+      "id" : 4429,
+      "title" : "第十二章 雨虎自在术",
+      "capacity" : 5911
+    }, {
+      "id" : 4430,
+      "title" : "第十三章 六道参上",
+      "capacity" : 6181
+    }, {
+      "id" : 4431,
+      "title" : "第十四章 突如其来的战斗",
+      "capacity" : 5801
+    }, {
+      "id" : 4432,
+      "title" : "第十五章 真正的强者",
+      "capacity" : 6386
+    }, {
+      "id" : 4433,
+      "title" : "第十六章 大胆的长门",
+      "capacity" : 6097
+    }, {
+      "id" : 4434,
+      "title" : "第十七章 八级功法",
+      "capacity" : 7583
+    }, {
+      "id" : 4435,
+      "title" : "第十八章 善后",
+      "capacity" : 6385
+    }, {
+      "id" : 4436,
+      "title" : "第十九章 周武的异动",
+      "capacity" : 6605
+    }, {
+      "id" : 4437,
+      "title" : "第二十章 婚帖",
+      "capacity" : 5812
+    }, {
+      "id" : 4438,
+      "title" : "第二十一章 商武",
+      "capacity" : 6324
+    }, {
+      "id" : 4439,
+      "title" : "第二十二章 实力",
+      "capacity" : 6203
+    }, {
+      "id" : 4440,
+      "title" : "第二十三章 修灵者的强悍",
+      "capacity" : 6220
+    }, {
+      "id" : 4441,
+      "title" : "第二十四章 商氏一族",
+      "capacity" : 5276
+    }, {
+      "id" : 4442,
+      "title" : "第二十五章 商氏的到来",
+      "capacity" : 6128
+    }, {
+      "id" : 4443,
+      "title" : "第二十六章 商离",
+      "capacity" : 5870
+    }, {
+      "id" : 4444,
+      "title" : "第二十七章 对战商离",
+      "capacity" : 6042
+    }, {
+      "id" : 4445,
+      "title" : "第二十八章 结果",
+      "capacity" : 6347
+    }, {
+      "id" : 4446,
+      "title" : "第二十九章 收场",
+      "capacity" : 6409
+    }, {
+      "id" : 4447,
+      "title" : "第三十章 沂城",
+      "capacity" : 6306
+    }, {
+      "id" : 4448,
+      "title" : "第三十一章 大动作",
+      "capacity" : 6348
+    }, {
+      "id" : 4449,
+      "title" : "第三十二章 不怀好意的观战者",
+      "capacity" : 6611
+    }, {
+      "id" : 4450,
+      "title" : "第三十三章 与戚威的短暂交锋",
+      "capacity" : 6431
+    }, {
+      "id" : 4451,
+      "title" : "第三十四章 万金拍卖场",
+      "capacity" : 6403
+    }, {
+      "id" : 4452,
+      "title" : "第三十五章 修灵者潘通",
+      "capacity" : 6472
+    }, {
+      "id" : 4453,
+      "title" : "第三十六章 雷霆手段",
+      "capacity" : 6238
+    }, {
+      "id" : 4454,
+      "title" : "第三十七章 修灵协会",
+      "capacity" : 6140
+    }, {
+      "id" : 4455,
+      "title" : "第三十八章 舒螓",
+      "capacity" : 6700
+    }, {
+      "id" : 4456,
+      "title" : "第三十九章 李翔",
+      "capacity" : 6376
+    }, {
+      "id" : 4457,
+      "title" : "第四十章 与李翔的战斗",
+      "capacity" : 6118
+    }, {
+      "id" : 4458,
+      "title" : "第四十一章 李贺",
+      "capacity" : 6532
+    }, {
+      "id" : 4459,
+      "title" : "第四十二章 所谓警告",
+      "capacity" : 6194
+    }, {
+      "id" : 4460,
+      "title" : "第四十三章 修灵大赛开始",
+      "capacity" : 6290
+    }, {
+      "id" : 4461,
+      "title" : "第四十四章 长门的战斗",
+      "capacity" : 6458
+    }, {
+      "id" : 4462,
+      "title" : "第四十五章 李瑞的出手",
+      "capacity" : 6877
+    }, {
+      "id" : 4463,
+      "title" : "第四十六章 舒螓的战斗",
+      "capacity" : 6423
+    }, {
+      "id" : 4464,
+      "title" : "第四十七章 巅峰之战",
+      "capacity" : 6324
+    }, {
+      "id" : 4465,
+      "title" : "第四十八章 对战",
+      "capacity" : 6470
+    }, {
+      "id" : 4466,
+      "title" : "第四十九章 灵魂卷轴",
+      "capacity" : 6380
+    }, {
+      "id" : 4467,
+      "title" : "第五十章 胜负",
+      "capacity" : 6410
+    } ]
+  }
+}

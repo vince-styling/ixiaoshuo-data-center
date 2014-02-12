@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 55,
+    "list" : [ {
+      "id" : 1182,
+      "title" : "第五十一章",
+      "capacity" : 6240
+    }, {
+      "id" : 1183,
+      "title" : "第五十二章",
+      "capacity" : 6504
+    }, {
+      "id" : 1184,
+      "title" : "第五十三章",
+      "capacity" : 6118
+    }, {
+      "id" : 1185,
+      "title" : "第五十四章",
+      "capacity" : 6339
+    }, {
+      "id" : 1186,
+      "title" : "上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

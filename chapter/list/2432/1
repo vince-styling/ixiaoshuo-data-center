@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 1735,
+      "title" : "24小时",
+      "capacity" : 9065
+    }, {
+      "id" : 1736,
+      "title" : "18小时",
+      "capacity" : 10368
+    }, {
+      "id" : 1737,
+      "title" : "12小时",
+      "capacity" : 10284
+    }, {
+      "id" : 1738,
+      "title" : "1小时",
+      "capacity" : 9432
+    }, {
+      "id" : 1739,
+      "title" : "Big Party",
+      "capacity" : 10498
+    }, {
+      "id" : 1740,
+      "title" : "闪亮登场",
+      "capacity" : 10201
+    }, {
+      "id" : 1741,
+      "title" : "叶凡希的遗嘱",
+      "capacity" : 10446
+    } ]
+  }
+}

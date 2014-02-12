@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 45,
+    "list" : [ {
+      "id" : 3780,
+      "title" : "雪界",
+      "capacity" : 9756
+    }, {
+      "id" : 3781,
+      "title" : "公子",
+      "capacity" : 13339
+    }, {
+      "id" : 3782,
+      "title" : "远行",
+      "capacity" : 9056
+    }, {
+      "id" : 3783,
+      "title" : "仙女",
+      "capacity" : 9032
+    }, {
+      "id" : 3784,
+      "title" : "冲喜",
+      "capacity" : 12028
+    }, {
+      "id" : 3785,
+      "title" : "嫡子",
+      "capacity" : 9836
+    }, {
+      "id" : 3786,
+      "title" : "乔装",
+      "capacity" : 10267
+    }, {
+      "id" : 3787,
+      "title" : "白泽",
+      "capacity" : 9230
+    }, {
+      "id" : 3788,
+      "title" : "困兽",
+      "capacity" : 9758
+    }, {
+      "id" : 3789,
+      "title" : "决裂",
+      "capacity" : 9382
+    }, {
+      "id" : 3790,
+      "title" : "采花",
+      "capacity" : 9172
+    }, {
+      "id" : 3791,
+      "title" : "京城",
+      "capacity" : 9212
+    }, {
+      "id" : 3792,
+      "title" : "崎褐",
+      "capacity" : 9139
+    }, {
+      "id" : 3793,
+      "title" : "睡莲",
+      "capacity" : 10108
+    }, {
+      "id" : 3794,
+      "title" : "烽火",
+      "capacity" : 9469
+    }, {
+      "id" : 3795,
+      "title" : "屠龙",
+      "capacity" : 8975
+    }, {
+      "id" : 3796,
+      "title" : "应劫",
+      "capacity" : 9389
+    }, {
+      "id" : 3797,
+      "title" : "遇鬼",
+      "capacity" : 9305
+    }, {
+      "id" : 3798,
+      "title" : "土地",
+      "capacity" : 8949
+    }, {
+      "id" : 3799,
+      "title" : "何妨",
+      "capacity" : 9536
+    }, {
+      "id" : 3800,
+      "title" : "蹊跷",
+      "capacity" : 9511
+    }, {
+      "id" : 3801,
+      "title" : "无眠",
+      "capacity" : 9669
+    }, {
+      "id" : 3802,
+      "title" : "叮叮",
+      "capacity" : 9423
+    }, {
+      "id" : 3803,
+      "title" : "番外(1)叮叮无妄之地篇",
+      "capacity" : 8877
+    }, {
+      "id" : 3804,
+      "title" : "番外(2)十三酒入愁肠篇",
+      "capacity" : 8976
+    }, {
+      "id" : 3805,
+      "title" : "番外(3)蒲牢永结同心篇",
+      "capacity" : 8803
+    }, {
+      "id" : 3806,
+      "title" : "还生",
+      "capacity" : 8812
+    }, {
+      "id" : 3807,
+      "title" : "昆仑",
+      "capacity" : 9011
+    }, {
+      "id" : 3808,
+      "title" : "宰割",
+      "capacity" : 9076
+    }, {
+      "id" : 3809,
+      "title" : "失魂",
+      "capacity" : 9043
+    }, {
+      "id" : 3810,
+      "title" : "青鸾",
+      "capacity" : 9110
+    }, {
+      "id" : 3811,
+      "title" : "怒争",
+      "capacity" : 9338
+    }, {
+      "id" : 3812,
+      "title" : "月老",
+      "capacity" : 9112
+    }, {
+      "id" : 3813,
+      "title" : "桃夭",
+      "capacity" : 9298
+    }, {
+      "id" : 3814,
+      "title" : "逆天",
+      "capacity" : 9211
+    }, {
+      "id" : 3815,
+      "title" : "琉璃",
+      "capacity" : 10059
+    }, {
+      "id" : 3816,
+      "title" : "泪眼",
+      "capacity" : 9318
+    }, {
+      "id" : 3817,
+      "title" : "回魂",
+      "capacity" : 9079
+    }, {
+      "id" : 3818,
+      "title" : "风云",
+      "capacity" : 9386
+    }, {
+      "id" : 3819,
+      "title" : "往事",
+      "capacity" : 9085
+    }, {
+      "id" : 3820,
+      "title" : "孤坟",
+      "capacity" : 9308
+    }, {
+      "id" : 3821,
+      "title" : "芙蓉",
+      "capacity" : 9659
+    }, {
+      "id" : 3822,
+      "title" : "真身",
+      "capacity" : 9254
+    }, {
+      "id" : 3823,
+      "title" : "焦心",
+      "capacity" : 9070
+    }, {
+      "id" : 3824,
+      "title" : "白袍",
+      "capacity" : 9387
+    } ]
+  }
+}

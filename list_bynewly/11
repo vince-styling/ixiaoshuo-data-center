@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 11,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2543,
+      "name" : "异人魔兽情缘游",
+      "summary" : "魔兽世界？有没有搞错？！冲锋护体！杀戮盛宴！脸盆大的火球飞过来了！（惊恐）难道这里就是传说中的卡利姆",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47258.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9968647,
+      "lastUpdateTime" : "2013-12-25 05:14:28"
+    }, {
+      "id" : 2553,
+      "name" : "想顾无言",
+      "summary" : "以前雷阡以为，何以琛赵默笙的故事就只能出现在小说里，那种七年不忘的爱情，是每个食人间烟火的人都很难做",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47203.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4594764,
+      "lastUpdateTime" : "2013-12-25 05:02:51"
+    }, {
+      "id" : 2977,
+      "name" : "致我们的青春",
+      "summary" : "A市又下雨了，这次的雨仿佛怎么也下不完般淅淅沥沥的拍打着水泥地。耳边好像传来一阵阵忧伤的歌曲般令人静",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44494.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1175522,
+      "lastUpdateTime" : "2013-12-25 04:40:00"
+    }, {
+      "id" : 3313,
+      "name" : "我的同桌顾亦辰",
+      "summary" : "他们第一次开口讲话不是为了打招呼，而是因为相互排斥，为了座位的事儿大吵起来。后来，随着一次次的相处，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47861.jpg",
+      "updateStatus" : 1,
+      "capacity" : 192280,
+      "lastUpdateTime" : "2013-12-25 04:37:12"
+    }, {
+      "id" : 3185,
+      "name" : "一笑悬命",
+      "summary" : "世间无仙亦无妖，人谓仙鬼满世道扬善作歹皆人间，孰仙孰鬼自知晓金丝楠可能这辈子也想不到自己就是被老爷子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45688.jpg",
+      "updateStatus" : 1,
+      "capacity" : 204780,
+      "lastUpdateTime" : "2013-12-25 04:18:32"
+    }, {
+      "id" : 2563,
+      "name" : "妖妻毒后",
+      "summary" : "死神镰刀在慕容世家悄然而现，年轻的王子弑帝成君，第一件事，便是令天下再无慕容姓。她身处凤仪宫，尊贵无",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41989.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3056313,
+      "lastUpdateTime" : "2013-12-25 04:05:14"
+    }, {
+      "id" : 2567,
+      "name" : "可可不悲伤",
+      "summary" : "富二代吗？没错，莫许可是T市有名的富家弟子，狂妄，目中无人，冷漠，这便是人们对她的评价。当有人问起莫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17810.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5961915,
+      "lastUpdateTime" : "2013-12-25 04:02:27"
+    }, {
+      "id" : 3594,
+      "name" : "浮生梦",
+      "summary" : "命运，是虚无缥缈又似如影随形。不知道你是否相信、或说是同意，命运这个东西。如果你是一只海鸟，你注定翱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19136.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1566146,
+      "lastUpdateTime" : "2013-12-25 03:40:49"
+    }, {
+      "id" : 2770,
+      "name" : "绝世桃花扇",
+      "summary" : "一场误会，拉开了两人的距离，种种的原因，让他们再也无法相爱。她，贵为邻国公主，领兵攻入了他的皇城，那",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 9164052,
+      "lastUpdateTime" : "2013-12-25 03:17:36"
+    }, {
+      "id" : 3406,
+      "name" : "百转成神记忆重现",
+      "summary" : "夏天真是一个神奇的季节，它会使一些处于青春期悸动的少男少女们体内的荷尔蒙迅速提升，当他们的体温恒定在",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44062.jpg",
+      "updateStatus" : 1,
+      "capacity" : 505373,
+      "lastUpdateTime" : "2013-12-25 03:03:19"
+    }, {
+      "id" : 2460,
+      "name" : "夜影鬼魅",
+      "summary" : "他们是濒临死亡的孩子，在鬼叔的救助下，死而复生！本以为可以好好的生活，却突发变故！鬼叔的死亡打破了幸",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46645.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3715047,
+      "lastUpdateTime" : "2013-12-25 03:01:35"
+    }, {
+      "id" : 2260,
+      "name" : "山外青山，楼外楼",
+      "summary" : "又名《江湖向左，江山向右》如果有一天，江湖和江山只有一步之遥，你会迈向那一边？这是一个值得深思的问题",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45696.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3437110,
+      "lastUpdateTime" : "2013-12-25 02:27:01"
+    }, {
+      "id" : 2521,
+      "name" : "你才奥利奥，你全家都奥利奥",
+      "summary" : "什么？你说黑白配？男生女生配？眼睛瞎了吧？你看我俩谁更不像男的？谁说白眼睛加起来就是奥利奥了？你才奥",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 3467303,
+      "lastUpdateTime" : "2013-12-25 01:34:09"
+    }, {
+      "id" : 3382,
+      "name" : "三大明星公主的桃花劫",
+      "summary" : "从小惨遭她人冒充，有着残忍不堪的回忆，眼睁睁看着自己家族归为他人带领。与三少误会升级！男主背叛与冒牌",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45206.jpg",
+      "updateStatus" : 1,
+      "capacity" : 831599,
+      "lastUpdateTime" : "2013-12-25 01:32:36"
+    }, {
+      "id" : 3589,
+      "name" : "今生等你爱我",
+      "summary" : "爱情原是这世上最美好的东西，亦酸亦甜亦苦亦辣，但是还是有人甘之如饴的奋不顾身。季冬这辈子最幸福的事便",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44975.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1369989,
+      "lastUpdateTime" : "2013-12-25 01:32:01"
+    }, {
+      "id" : 3509,
+      "name" : "秋以为期",
+      "summary" : "泛黄的古医书，神奇的穿越旅，不一样的世界，不一样的女神医。华佗，那是她的师傅；探案，那是她的直觉；验",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 166333,
+      "lastUpdateTime" : "2013-12-25 01:20:56"
+    }, {
+      "id" : 3277,
+      "name" : "七生七世之情坠轩辕",
+      "summary" : "宿命流转纠缠轮回，年轮更替侵扰红尘，浩劫袭来激荡世间，赤贯妖星临，苍穹浩荡间，亘古传说念，上古神器现",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 484201,
+      "lastUpdateTime" : "2013-12-25 00:59:23"
+    }, {
+      "id" : 2710,
+      "name" : "山海妖忆抄",
+      "summary" : "民间传说的水分太大了，你都不知道哪句是真、哪句是假！如果跟你说，喧嚣繁杂的大都市里有妖怪，还不是一只",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41709.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7629874,
+      "lastUpdateTime" : "2013-12-25 00:58:27"
+    }, {
+      "id" : 3113,
+      "name" : "豪门娇妻：冷少霸上弓",
+      "summary" : "一份遗嘱，拉开了一段异父异母兄妹间的恩怨情仇。一双眼睛，看不清世间一切真善美，却知道人情冷暖。她，有",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46006.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1044403,
+      "lastUpdateTime" : "2013-12-24 22:32:51"
+    }, {
+      "id" : 2688,
+      "name" : "疼痛青春：那夏离殇",
+      "summary" : "如果,我知道,爱上你,是致命的伤...那我,绝对不会去,轻易触碰...",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43241.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1087676,
+      "lastUpdateTime" : "2013-12-24 22:09:39"
+    } ]
+  }
+}

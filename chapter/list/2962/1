@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 4082,
+      "title" : "第一章,路鸣泽你在哪",
+      "capacity" : 6996
+    }, {
+      "id" : 4083,
+      "title" : "第二章:初遇苏子澄",
+      "capacity" : 2979
+    }, {
+      "id" : 4084,
+      "title" : "第三章:搬家",
+      "capacity" : 1957
+    }, {
+      "id" : 4085,
+      "title" : "第四章,新家",
+      "capacity" : 3529
+    }, {
+      "id" : 4086,
+      "title" : "第五章 是他",
+      "capacity" : 2729
+    }, {
+      "id" : 4087,
+      "title" : "第六章 浴室",
+      "capacity" : 3086
+    } ]
+  }
+}

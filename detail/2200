@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 2200,
+    "name" : "女权时代",
+    "author" : "麦奕",
+    "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21080.jpg",
+    "summary" : "一个现代废材男在无意中穿越了，但是他穿越到的是一个女尊男卑的时代，他如何在那个世界中卷起属于穿越者的风暴？",
+    "lastUpdateTime" : "2013-12-15 20:46:20",
+    "updateStatus" : 1,
+    "catId" : 126,
+    "catName" : "玄幻奇幻",
+    "capacity" : 5507505
+  }
+}

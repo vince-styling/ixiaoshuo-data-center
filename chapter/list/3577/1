@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 1311,
+      "title" : "第一回 学生无敌，穿越了！",
+      "capacity" : 2983
+    }, {
+      "id" : 1312,
+      "title" : "第二章 绝世美人",
+      "capacity" : 2811
+    }, {
+      "id" : 1313,
+      "title" : "第三章 伪君子！！！",
+      "capacity" : 2868
+    }, {
+      "id" : 1314,
+      "title" : "第四章 荷花之栽1and2",
+      "capacity" : 3317
+    }, {
+      "id" : 1315,
+      "title" : "第五章 心不在，嫁与无心郎",
+      "capacity" : 2605
+    }, {
+      "id" : 1316,
+      "title" : "第六卷 一起玩游戏怎么样？",
+      "capacity" : 3569
+    }, {
+      "id" : 1317,
+      "title" : "第六卷 一起玩游戏怎么样？“2”",
+      "capacity" : 727
+    }, {
+      "id" : 1318,
+      "title" : "第七章 峰回路转",
+      "capacity" : 2024
+    }, {
+      "id" : 1319,
+      "title" : "第八章 重回相府",
+      "capacity" : 1546
+    }, {
+      "id" : 1320,
+      "title" : "第九章 相府风云（雪莹遭白眼）",
+      "capacity" : 2574
+    }, {
+      "id" : 1321,
+      "title" : "第十章 虐渣大战",
+      "capacity" : 2864
+    } ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 6,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2998,
+      "name" : "卫红衣",
+      "summary" : "她，一袭红衣，绝色倾城，浓妆艳抹，绝世妖娆，她说：对付一个男人，只要一种方法；对付十个男人，要用十种",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 7372172,
+      "lastUpdateTime" : "2013-12-27 19:06:31"
+    }, {
+      "id" : 2706,
+      "name" : "元素·鬼王",
+      "summary" : "“我可将多特维亚的复兴，可以打败鬼族军团，可以带领六王发动七王抗神战。但是...我却不能认识世界。”",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48126.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9148527,
+      "lastUpdateTime" : "2013-12-27 18:54:15"
+    }, {
+      "id" : 2062,
+      "name" : "绣女王妃：盗爱酷王爷",
+      "summary" : "一碗堕胎药，他从她眼里看到的是绝然，那抹最后的幽怨，震碎了他的心。眼见一道青色身影，满眸含笑消失在他",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_6770.jpg",
+      "updateStatus" : 2,
+      "capacity" : 9540878,
+      "lastUpdateTime" : "2013-12-27 18:46:18"
+    }, {
+      "id" : 2474,
+      "name" : "十早集",
+      "summary" : "一个破镜重圆的家庭；一段近代离奇的往事；一位怀着佛主慈悲之心的古人，他超脱一切，他融汇佛家八苦，用最",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22274.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6110920,
+      "lastUpdateTime" : "2013-12-27 18:39:44"
+    }, {
+      "id" : 3182,
+      "name" : "卿卿陌上桑",
+      "summary" : "谁也不会想到，在这样战乱的一个年代，会有这么一个神秘组织的存在。潜伏，卧底，情报，间谍……他和她的相",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46109.jpg",
+      "updateStatus" : 1,
+      "capacity" : 288263,
+      "lastUpdateTime" : "2013-12-27 18:39:36"
+    }, {
+      "id" : 3651,
+      "name" : "《听见了吗？我来了》",
+      "summary" : "只要孩子平安降生，我就让你离开。往后你想去哪里，干什么，只要踏出这里就再与我无关。——季珉源张维新，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45823.jpg",
+      "updateStatus" : 1,
+      "capacity" : 103203,
+      "lastUpdateTime" : "2013-12-27 18:16:26"
+    }, {
+      "id" : 2766,
+      "name" : "远梦轻无力",
+      "summary" : "她的身份因多舛的命运而不断变换。.............术江国的郡主也好，大珣国的贵族千金也好，地",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41385.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6637965,
+      "lastUpdateTime" : "2013-12-27 17:54:51"
+    }, {
+      "id" : 2483,
+      "name" : "雨露之瞳",
+      "summary" : "知道什么是魔瞳吗？李雨露是一个长得普通气质文学都一般的初中的学生，刚进入中学。奋发图强，在期中考前，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47337.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1280277,
+      "lastUpdateTime" : "2013-12-27 17:17:21"
+    }, {
+      "id" : 2433,
+      "name" : "诱婚",
+      "summary" : "顾思雅不明白，为什么她想要平淡的生活竟然如此艰难，就因为一次偶然的邂逅，竟然颠覆了她整个人生，面对这",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44703.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8029661,
+      "lastUpdateTime" : "2013-12-27 16:58:10"
+    }, {
+      "id" : 2215,
+      "name" : "诛仙凡尘",
+      "summary" : "世间万物瞬息变幻，许多希望出现又有许多想不到的事时常在万物瞬息变幻中孕育而生，科技日益发达的今天，强",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20205.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9983825,
+      "lastUpdateTime" : "2013-12-27 16:34:25"
+    }, {
+      "id" : 3583,
+      "name" : "温情驻英年",
+      "summary" : "她泣不成声：“对不起...我爱你，爱晚了。”左手粉碎性骨折，他用嘴撕扯掉安插在右手的针管，拥她入怀贴",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21544.jpg",
+      "updateStatus" : 1,
+      "capacity" : 983161,
+      "lastUpdateTime" : "2013-12-27 15:43:59"
+    }, {
+      "id" : 2125,
+      "name" : "恨海情天",
+      "summary" : "一个普通的大学女孩，谈一段普通的爱情，阴差阳错，和一位纨绔子弟结识。爱人在该陪伴她身边时离去，在该消",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22526.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8637365,
+      "lastUpdateTime" : "2013-12-27 15:22:44"
+    }, {
+      "id" : 2717,
+      "name" : "修罗王妃：血战三关",
+      "summary" : "传言镇北将军长的恰似猛张飞……传言镇北将军一只手可以拧下一个蛮金人的头……传言镇北将军暴戾成性，杀人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22118.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3717611,
+      "lastUpdateTime" : "2013-12-27 14:53:26"
+    }, {
+      "id" : 2450,
+      "name" : "黑客与总裁情缘",
+      "summary" : "他和她的相遇很狗血很尴尬，但是他们在第一次相遇就有点一见钟情！什么？同性恋？什么？还有未婚妻？双性恋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46889.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8921268,
+      "lastUpdateTime" : "2013-12-27 09:46:16"
+    }, {
+      "id" : 3267,
+      "name" : "穿越之花本纯粹",
+      "summary" : "在一次意外，我来到了一个陌生的国度，老天让我遇到了和你长相相同的男子，这是命运的抉择，还是老天又一次",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45423.jpg",
+      "updateStatus" : 1,
+      "capacity" : 241730,
+      "lastUpdateTime" : "2013-12-27 09:40:45"
+    }, {
+      "id" : 2384,
+      "name" : "豪门霸宠：娇妻狠绝色",
+      "summary" : "她是称霸东南三省的第一豪门富家女，嚣张霸道，冷漠倔强，一脚踹掉后妈肚子里的野种，一巴掌打跑温柔小三；",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16805.jpg",
+      "updateStatus" : 2,
+      "capacity" : 8130416,
+      "lastUpdateTime" : "2013-12-27 09:33:04"
+    }, {
+      "id" : 2614,
+      "name" : "赤瞳的海盗",
+      "summary" : "这里，是一个和平的世界。没有战火，没有争端。直到两个来自异世界的魔王——黑魔王乌拉斯和白魔王玛尔希在",
+      "coverUrl" : "",
+      "updateStatus" : 2,
+      "capacity" : 9617708,
+      "lastUpdateTime" : "2013-12-27 09:05:47"
+    }, {
+      "id" : 3242,
+      "name" : "王爷的重生小冷妃",
+      "summary" : "我曾经爱上一个人，爱他的点点滴滴。我们在一起生活了六年，他从来没说娶我，但我们这样一直生活在一起我就",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44741.jpg",
+      "updateStatus" : 2,
+      "capacity" : 1001443,
+      "lastUpdateTime" : "2013-12-27 06:15:11"
+    }, {
+      "id" : 3502,
+      "name" : "其实我很低调",
+      "summary" : "温婉可人善解人意大家闺秀小家碧玉纯淑女？一脸懵懂涉世未深软妹子？无节操无下限神经大条女屌丝？暴力到爆",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 213709,
+      "lastUpdateTime" : "2013-12-27 06:03:47"
+    }, {
+      "id" : 2369,
+      "name" : "微雨蒙蒙戏流光",
+      "summary" : "一句话版：一个外表散漫内心坚韧的小虾米，被大神虐来虐去却顽强不息，最后终抱美男归的有爱故事~~~——",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19582.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4167043,
+      "lastUpdateTime" : "2013-12-27 05:59:41"
+    } ]
+  }
+}

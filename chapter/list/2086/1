@@ -1,0 +1,186 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 44,
+    "list" : [ {
+      "id" : 3049,
+      "title" : "第一章 出生",
+      "capacity" : 9579
+    }, {
+      "id" : 3050,
+      "title" : "第二章 丧母",
+      "capacity" : 14986
+    }, {
+      "id" : 3051,
+      "title" : "第三章 急病",
+      "capacity" : 15820
+    }, {
+      "id" : 3052,
+      "title" : "第四章 寄养",
+      "capacity" : 10170
+    }, {
+      "id" : 3053,
+      "title" : "第五章 寄养生活",
+      "capacity" : 11979
+    }, {
+      "id" : 3054,
+      "title" : "第六章 赐婚",
+      "capacity" : 10753
+    }, {
+      "id" : 3055,
+      "title" : "第七章 太学",
+      "capacity" : 11413
+    }, {
+      "id" : 3056,
+      "title" : "第八章 逃学闯祸",
+      "capacity" : 12386
+    }, {
+      "id" : 3057,
+      "title" : "第九章 变天了",
+      "capacity" : 15805
+    }, {
+      "id" : 3058,
+      "title" : "第十章 撞见",
+      "capacity" : 12101
+    }, {
+      "id" : 3059,
+      "title" : "第十一章 心乱如麻",
+      "capacity" : 9678
+    }, {
+      "id" : 3060,
+      "title" : "第十二章 细作出没",
+      "capacity" : 9889
+    }, {
+      "id" : 3061,
+      "title" : "第十三章 莫名悸动",
+      "capacity" : 9877
+    }, {
+      "id" : 3062,
+      "title" : "第十四章 劫持",
+      "capacity" : 10468
+    }, {
+      "id" : 3063,
+      "title" : "第十五章 进入陈国",
+      "capacity" : 11251
+    }, {
+      "id" : 3064,
+      "title" : "第十六章 掩饰",
+      "capacity" : 9778
+    }, {
+      "id" : 3065,
+      "title" : "第十七章 蒙混过关",
+      "capacity" : 12586
+    }, {
+      "id" : 3066,
+      "title" : "第十八章 初吻",
+      "capacity" : 14388
+    }, {
+      "id" : 3067,
+      "title" : "第十九章 遇险",
+      "capacity" : 13439
+    }, {
+      "id" : 3068,
+      "title" : "第二十章 加贺得救",
+      "capacity" : 10051
+    }, {
+      "id" : 3069,
+      "title" : "第二十一章 大战之前",
+      "capacity" : 14207
+    }, {
+      "id" : 3070,
+      "title" : "第二十二章 未央苦战",
+      "capacity" : 12275
+    }, {
+      "id" : 3071,
+      "title" : "第二十三章 中箭",
+      "capacity" : 12019
+    }, {
+      "id" : 3072,
+      "title" : "第二十四章 解围",
+      "capacity" : 9778
+    }, {
+      "id" : 3073,
+      "title" : "第二十五章 归国",
+      "capacity" : 13170
+    }, {
+      "id" : 3074,
+      "title" : "第二十六章 小池",
+      "capacity" : 15719
+    }, {
+      "id" : 3075,
+      "title" : "第二十七章 闺房谈笑",
+      "capacity" : 9057
+    }, {
+      "id" : 3076,
+      "title" : "第二十八章 庆功宴",
+      "capacity" : 12742
+    }, {
+      "id" : 3077,
+      "title" : "第二十九章 未央封王",
+      "capacity" : 9918
+    }, {
+      "id" : 3078,
+      "title" : "第三十章 犹豫",
+      "capacity" : 8971
+    }, {
+      "id" : 3079,
+      "title" : "第三十一章 血情咒",
+      "capacity" : 9413
+    }, {
+      "id" : 3080,
+      "title" : "第三十二章 子惠动情",
+      "capacity" : 15268
+    }, {
+      "id" : 3081,
+      "title" : "第三十三章 校场比武",
+      "capacity" : 10573
+    }, {
+      "id" : 3082,
+      "title" : "第三十四章 柳川上场",
+      "capacity" : 9062
+    }, {
+      "id" : 3083,
+      "title" : "第三十五章 四人混战",
+      "capacity" : 9060
+    }, {
+      "id" : 3084,
+      "title" : "第三十六章 月光终究冰冷",
+      "capacity" : 9264
+    }, {
+      "id" : 3085,
+      "title" : "第三十七章 子惠大婚",
+      "capacity" : 9149
+    }, {
+      "id" : 3086,
+      "title" : "第三十八章 情难自禁",
+      "capacity" : 16194
+    }, {
+      "id" : 3087,
+      "title" : "第三十九章 朝堂之争",
+      "capacity" : 12155
+    }, {
+      "id" : 3088,
+      "title" : "第四十章 南山脚下",
+      "capacity" : 10672
+    }, {
+      "id" : 3089,
+      "title" : "第四十一章 帐内心惊",
+      "capacity" : 9910
+    }, {
+      "id" : 3090,
+      "title" : "第四十二章 谋定后动",
+      "capacity" : 9055
+    }, {
+      "id" : 3091,
+      "title" : "第四十三章 比箭",
+      "capacity" : 10959
+    }, {
+      "id" : 3092,
+      "title" : "澄文上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

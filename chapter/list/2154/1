@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 83,
+    "list" : [ {
+      "id" : 1051,
+      "title" : "第一章 凤游国都",
+      "capacity" : 6883
+    }, {
+      "id" : 1052,
+      "title" : "第二章 无心乞儿",
+      "capacity" : 5281
+    }, {
+      "id" : 1053,
+      "title" : "第三章 鄂光孤行",
+      "capacity" : 6419
+    }, {
+      "id" : 1054,
+      "title" : "第四章 人如美玉",
+      "capacity" : 7017
+    }, {
+      "id" : 1055,
+      "title" : "第五章 采摘回城",
+      "capacity" : 5360
+    }, {
+      "id" : 1056,
+      "title" : "第六章 倚笑所求",
+      "capacity" : 6403
+    }, {
+      "id" : 1057,
+      "title" : "第七章 回天乏术",
+      "capacity" : 8292
+    }, {
+      "id" : 1058,
+      "title" : "第八章 往事如风",
+      "capacity" : 7672
+    }, {
+      "id" : 1059,
+      "title" : "第九章 雪山之旅",
+      "capacity" : 8100
+    }, {
+      "id" : 1060,
+      "title" : "第十章 夺剑之争",
+      "capacity" : 9814
+    }, {
+      "id" : 1061,
+      "title" : "第十一章 飞来横祸",
+      "capacity" : 7775
+    }, {
+      "id" : 1062,
+      "title" : "第十二章 欺人太甚",
+      "capacity" : 9479
+    }, {
+      "id" : 1063,
+      "title" : "第十三章 两全其美",
+      "capacity" : 6821
+    }, {
+      "id" : 1064,
+      "title" : "第十四章 雪莲山谷",
+      "capacity" : 7708
+    }, {
+      "id" : 1065,
+      "title" : "第十五章 魔尊弥夜",
+      "capacity" : 7049
+    }, {
+      "id" : 1066,
+      "title" : "第十六章 精怪雪蝉",
+      "capacity" : 7105
+    }, {
+      "id" : 1067,
+      "title" : "第十七章 兽宠盟誓",
+      "capacity" : 6945
+    }, {
+      "id" : 1068,
+      "title" : "第十八章 出寒水池",
+      "capacity" : 7325
+    }, {
+      "id" : 1069,
+      "title" : "第十九章 抢妻夺子",
+      "capacity" : 7305
+    }, {
+      "id" : 1070,
+      "title" : "第二十章 深谋远虑",
+      "capacity" : 6489
+    }, {
+      "id" : 1071,
+      "title" : "第二十一章 赤衣绝色",
+      "capacity" : 6171
+    }, {
+      "id" : 1072,
+      "title" : "第二十二章 兄妹之情",
+      "capacity" : 7609
+    }, {
+      "id" : 1073,
+      "title" : "第二十三章 如意算盘",
+      "capacity" : 4954
+    }, {
+      "id" : 1074,
+      "title" : "第二十四章 名唤风璃",
+      "capacity" : 6301
+    }, {
+      "id" : 1075,
+      "title" : "第二十五章 风璃身份",
+      "capacity" : 8490
+    }, {
+      "id" : 1076,
+      "title" : "第二十六章 习贤艳遇",
+      "capacity" : 8941
+    }, {
+      "id" : 1077,
+      "title" : "第二十七章 寻找之旅",
+      "capacity" : 7744
+    }, {
+      "id" : 1078,
+      "title" : "第二十八章 再见仙人",
+      "capacity" : 7354
+    }, {
+      "id" : 1079,
+      "title" : "第二十九章 魔界魔邪",
+      "capacity" : 9342
+    }, {
+      "id" : 1080,
+      "title" : "第三十章 酣战一场",
+      "capacity" : 4046
+    }, {
+      "id" : 1081,
+      "title" : "第三十一章 咱是一伙",
+      "capacity" : 5405
+    }, {
+      "id" : 1082,
+      "title" : "第三十二章 正面交锋",
+      "capacity" : 9848
+    }, {
+      "id" : 1083,
+      "title" : "第三十三章修与不修",
+      "capacity" : 9678
+    }, {
+      "id" : 1084,
+      "title" : "第三十四章 蝴蝶谷主",
+      "capacity" : 5453
+    }, {
+      "id" : 1085,
+      "title" : "第三十五章 欢喜冤家",
+      "capacity" : 4718
+    }, {
+      "id" : 1086,
+      "title" : "第三十六章 虐恋情深",
+      "capacity" : 4320
+    }, {
+      "id" : 1087,
+      "title" : "第三十七章 当时惘然",
+      "capacity" : 7270
+    }, {
+      "id" : 1088,
+      "title" : "第三十八章 南风之行",
+      "capacity" : 6194
+    }, {
+      "id" : 1089,
+      "title" : "第三十九章 见或不见",
+      "capacity" : 5714
+    }, {
+      "id" : 1090,
+      "title" : "第四十章 争执不休",
+      "capacity" : 6885
+    }, {
+      "id" : 1091,
+      "title" : "第四十一章 石壁仙女",
+      "capacity" : 6042
+    }, {
+      "id" : 1092,
+      "title" : "第四十二章 再见寐玉",
+      "capacity" : 6163
+    }, {
+      "id" : 1093,
+      "title" : "第四十三章 桃桃精灵",
+      "capacity" : 5992
+    }, {
+      "id" : 1094,
+      "title" : "第四十四章 赤衣桃生",
+      "capacity" : 5787
+    }, {
+      "id" : 1095,
+      "title" : "第四十五章 是因为你",
+      "capacity" : 6287
+    }, {
+      "id" : 1096,
+      "title" : "第四十六章 无法仰望",
+      "capacity" : 5814
+    }, {
+      "id" : 1097,
+      "title" : "第四十七章 树敌公主",
+      "capacity" : 5377
+    }, {
+      "id" : 1098,
+      "title" : "第四十八章 报仇雪恨",
+      "capacity" : 3430
+    }, {
+      "id" : 1099,
+      "title" : "第四十九章 少女玲珑",
+      "capacity" : 3800
+    }, {
+      "id" : 1100,
+      "title" : "第五十章 传送之法",
+      "capacity" : 3958
+    } ]
+  }
+}

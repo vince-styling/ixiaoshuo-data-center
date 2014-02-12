@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 3310,
+      "title" : "序幕",
+      "capacity" : 3045
+    }, {
+      "id" : 3311,
+      "title" : "第一章 苏醒",
+      "capacity" : 4470
+    }, {
+      "id" : 3312,
+      "title" : "第二章 穿越",
+      "capacity" : 5515
+    }, {
+      "id" : 3313,
+      "title" : "第三章 青楼",
+      "capacity" : 3768
+    }, {
+      "id" : 3314,
+      "title" : "第四章 青楼",
+      "capacity" : 7596
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 64,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2533,
+      "name" : "泪倾城之梦汐醉",
+      "updateStatus" : 1,
+      "distance" : 7957,
+      "memberId" : 3075
+    }, {
+      "id" : 3368,
+      "name" : "倾世凤妃",
+      "updateStatus" : 1,
+      "distance" : 7094,
+      "memberId" : 5739
+    }, {
+      "id" : 2081,
+      "name" : "命定一瞬，执念一生",
+      "updateStatus" : 1,
+      "distance" : 9395,
+      "memberId" : 5168
+    }, {
+      "id" : 2383,
+      "name" : "莫绪",
+      "updateStatus" : 1,
+      "distance" : 9504,
+      "memberId" : 2101
+    }, {
+      "id" : 3039,
+      "name" : "一世迷离",
+      "updateStatus" : 1,
+      "distance" : 5897,
+      "memberId" : 2651
+    }, {
+      "id" : 3528,
+      "name" : "丑女倾城：待我长发及腰",
+      "updateStatus" : 1,
+      "distance" : 5596,
+      "memberId" : 6693
+    }, {
+      "id" : 2327,
+      "name" : "尚古谪仙传：谪仙囧囧谈",
+      "updateStatus" : 1,
+      "distance" : 5598,
+      "memberId" : 2635
+    }, {
+      "id" : 2451,
+      "name" : "穿越前世来爱你",
+      "updateStatus" : 1,
+      "distance" : 2395,
+      "memberId" : 8958
+    }, {
+      "id" : 3629,
+      "name" : "以歌为名，为爱铭志",
+      "updateStatus" : 1,
+      "distance" : 5939,
+      "memberId" : 3338
+    }, {
+      "id" : 2724,
+      "name" : "陌路：琴音",
+      "updateStatus" : 1,
+      "distance" : 8949,
+      "memberId" : 3094
+    }, {
+      "id" : 2122,
+      "name" : "毒药的诱惑",
+      "updateStatus" : 1,
+      "distance" : 3100,
+      "memberId" : 8718
+    }, {
+      "id" : 3571,
+      "name" : "小小侍女的灿烂时光",
+      "updateStatus" : 1,
+      "distance" : 7369,
+      "memberId" : 3891
+    }, {
+      "id" : 2425,
+      "name" : "龙女在京",
+      "updateStatus" : 1,
+      "distance" : 1788,
+      "memberId" : 1557
+    }, {
+      "id" : 3254,
+      "name" : "北京不眠",
+      "updateStatus" : 1,
+      "distance" : 7280,
+      "memberId" : 6984
+    }, {
+      "id" : 2446,
+      "name" : "安否，掠掳之来去的幸福",
+      "updateStatus" : 1,
+      "distance" : 1873,
+      "memberId" : 6597
+    }, {
+      "id" : 3384,
+      "name" : "若，我们的结局注定是悲剧",
+      "updateStatus" : 1,
+      "distance" : 9891,
+      "memberId" : 2496
+    }, {
+      "id" : 2817,
+      "name" : "谁爱过我",
+      "updateStatus" : 1,
+      "distance" : 6014,
+      "memberId" : 6612
+    }, {
+      "id" : 2434,
+      "name" : "邪逆乾坤",
+      "updateStatus" : 1,
+      "distance" : 9627,
+      "memberId" : 8412
+    }, {
+      "id" : 2562,
+      "name" : "南无阿米豆腐",
+      "updateStatus" : 1,
+      "distance" : 3576,
+      "memberId" : 7798
+    }, {
+      "id" : 2150,
+      "name" : "最",
+      "updateStatus" : 1,
+      "distance" : 7247,
+      "memberId" : 5678
+    } ]
+  }
+}

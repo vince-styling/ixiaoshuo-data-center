@@ -1,0 +1,82 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 18,
+    "list" : [ {
+      "id" : 4348,
+      "title" : "第一章 奇货可居（上）",
+      "capacity" : 6517
+    }, {
+      "id" : 4349,
+      "title" : "第一章 奇货可居（下）",
+      "capacity" : 7763
+    }, {
+      "id" : 4350,
+      "title" : "第二章 祖龙泪（上）",
+      "capacity" : 7050
+    }, {
+      "id" : 4351,
+      "title" : "第二章 祖龙泪（下）",
+      "capacity" : 8891
+    }, {
+      "id" : 4352,
+      "title" : "第三章 归秦",
+      "capacity" : 10990
+    }, {
+      "id" : 4353,
+      "title" : "第四章 王子政",
+      "capacity" : 7954
+    }, {
+      "id" : 4354,
+      "title" : "第五章 封侯拜相",
+      "capacity" : 12502
+    }, {
+      "id" : 4355,
+      "title" : "第六章 太子之争（上）",
+      "capacity" : 7911
+    }, {
+      "id" : 4356,
+      "title" : "第六章 太子之争（下）",
+      "capacity" : 6147
+    }, {
+      "id" : 4357,
+      "title" : "第七章 祸兮，福相依（上）",
+      "capacity" : 8973
+    }, {
+      "id" : 4358,
+      "title" : "第七章 祸兮，福相依（下）",
+      "capacity" : 15843
+    }, {
+      "id" : 4359,
+      "title" : "第八章 紫檀玉（上）",
+      "capacity" : 10217
+    }, {
+      "id" : 4360,
+      "title" : "第八章 紫檀玉（中）",
+      "capacity" : 11433
+    }, {
+      "id" : 4361,
+      "title" : "第八章 紫檀玉（下）",
+      "capacity" : 17357
+    }, {
+      "id" : 4362,
+      "title" : "第九章 胜者为王（上）",
+      "capacity" : 7927
+    }, {
+      "id" : 4363,
+      "title" : "第九章 胜者为王（中）",
+      "capacity" : 6128
+    }, {
+      "id" : 4364,
+      "title" : "第九章 胜者为王（下）",
+      "capacity" : 8327
+    }, {
+      "id" : 4365,
+      "title" : "第十章 我欲为王，心必成钢（上）",
+      "capacity" : 12408
+    } ]
+  }
+}

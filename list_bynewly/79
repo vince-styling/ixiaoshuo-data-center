@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 79,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2162,
+      "name" : "琴之飞絮",
+      "summary" : "穿越成婴儿，从小见不到母亲，更得不到父亲的疼爱。没关系，她有疼爱她照顾她的嬷嬷和婢女姐姐。离开禁锢她",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14847.jpg",
+      "updateStatus" : 2,
+      "capacity" : 5529073,
+      "lastUpdateTime" : "2013-11-22 14:46:44"
+    }, {
+      "id" : 2914,
+      "name" : "寻找自己",
+      "summary" : "一觉醒来，一切都变了，我从一个男人变成了女人，而且我不知道这个美女是谁，更不知道我的身体去了那里，这",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47503.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9633415,
+      "lastUpdateTime" : "2013-11-22 14:42:14"
+    }, {
+      "id" : 3291,
+      "name" : "离离原上草",
+      "summary" : "在她黑暗腐朽的生命里，他是耀眼的一束光。她贪婪地汲取他的光和热，直到他的生命之火骤然熄灭。女主是一个",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44535.jpg",
+      "updateStatus" : 1,
+      "capacity" : 40745,
+      "lastUpdateTime" : "2013-11-22 13:30:38"
+    }, {
+      "id" : 3072,
+      "name" : "倒转乾坤：女帝慑天下",
+      "summary" : "她，是灭神阁阁主，一朝大意，灵魂横跨虚空而来，寄居于名为十六君卿的少女之身。一个因母亲的莫名执念，卸",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47147.jpg",
+      "updateStatus" : 1,
+      "capacity" : 439058,
+      "lastUpdateTime" : "2013-11-22 09:40:54"
+    }, {
+      "id" : 2730,
+      "name" : "风谨如歌",
+      "summary" : "辰风谨——由于天生紫眸，他成了世人口中的妖孽，更是辰风国不受宠的废材三王爷。他的生命中只有诅咒，不存",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45344.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1735860,
+      "lastUpdateTime" : "2013-11-22 09:27:06"
+    }, {
+      "id" : 2419,
+      "name" : "那么爱你为什么",
+      "summary" : "这个故事写在我很年轻的时候，那时候的我是什么样子，我早已不记得了，为什么会写这样一个故事也不记得了…",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44409.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7515226,
+      "lastUpdateTime" : "2013-11-22 09:20:25"
+    }, {
+      "id" : 2698,
+      "name" : "混世神魔",
+      "summary" : "一位现代青年在自己坚持不懈的努力下，走上了一条修真之道；然而对于修真，他还是一个懵懂无知的青年；于是",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18675.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3027430,
+      "lastUpdateTime" : "2013-11-22 08:54:33"
+    }, {
+      "id" : 2834,
+      "name" : "时间逐雨",
+      "summary" : "时间追不上白马，年轻的我们是否已经长大，来不及悲伤，时光已在脸上残忍地划下岁月的符号。是友谊的坚贞，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47088.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7203317,
+      "lastUpdateTime" : "2013-11-22 08:03:10"
+    }, {
+      "id" : 2070,
+      "name" : "最后一个情人",
+      "summary" : "故事的七段被一首歌《最后一个情人》挑起灵感，借助这个名，写了一段世间的情爱斗争。任何人得一生都会演绎",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18139.jpg",
+      "updateStatus" : 2,
+      "capacity" : 8535064,
+      "lastUpdateTime" : "2013-11-22 07:09:02"
+    }, {
+      "id" : 2357,
+      "name" : "妖女别想逃",
+      "summary" : "倒霉神缠身，又是掉垃圾堆，又是失忆，而且还性情大变！？迷倒天下万生的妖娆性感还冷血的大美人突然变成清",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43730.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7544313,
+      "lastUpdateTime" : "2013-11-22 06:23:57"
+    }, {
+      "id" : 2988,
+      "name" : "梦想之星",
+      "summary" : "颜紫晨的梦想是成为一名歌手，在一次偶然的机会下变成dreamstar，她的使命是找到其它6名drea",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 9149500,
+      "lastUpdateTime" : "2013-11-22 05:52:08"
+    }, {
+      "id" : 2047,
+      "name" : "越长大越现实",
+      "summary" : "这个世界原本是有童话的，可无奈的是人总是要长大的。廖美靖、嘉善新、李雪芸，简毅等人的一天天的长大，一",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47340.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1937108,
+      "lastUpdateTime" : "2013-11-22 04:57:00"
+    }, {
+      "id" : 2140,
+      "name" : "傲剑江湖",
+      "summary" : "他是独孤九剑传人令狐冲的爱子，又是曾被江湖人誉为武林神话的龙啸天之子，他英俊潇洒，气度不凡，他身负绝",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_4583.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4283145,
+      "lastUpdateTime" : "2013-11-22 04:50:21"
+    }, {
+      "id" : 2380,
+      "name" : "执手深爱",
+      "summary" : "跟张向北在一起就像泡温泉，他什么都不说，但是他会牵着你的手和你一起走未来的路，和肖子凛在一起，就像玩",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47733.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3754947,
+      "lastUpdateTime" : "2013-11-22 04:47:51"
+    }, {
+      "id" : 3690,
+      "name" : "帝王劫：重生之丑女皇后",
+      "summary" : "究竟是爱，还是深入肺腑的恨？她，其貌不扬，却心地纯善，曾被人算计，遭帝王厌弃而被废冷宫，重生到五年之",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46019.jpg",
+      "updateStatus" : 1,
+      "capacity" : 155986,
+      "lastUpdateTime" : "2013-11-22 04:40:57"
+    }, {
+      "id" : 2122,
+      "name" : "毒药的诱惑",
+      "summary" : "五年前，蓝櫻柠偷偷怀着男人的骨肉离开了这个令她痛苦绝望的城市。五年后，当她再次回到那个伤心城市偶遇男",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22523.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4817949,
+      "lastUpdateTime" : "2013-11-22 04:19:06"
+    }, {
+      "id" : 2869,
+      "name" : "穿越之美人太冷",
+      "summary" : "身怀异能，穿越异世。在乱世中寻求一份安宁，可事与愿违。一步步深入这异世，身不由己，为我爱的那些人，爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44590.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5288728,
+      "lastUpdateTime" : "2013-11-22 03:57:52"
+    }, {
+      "id" : 2971,
+      "name" : "穿越之皇后是富婆",
+      "summary" : "她---林小野，一个二十一世界在商学院号称“股神小美女”的高才生，竟然因为迷恋一个古代的美男陶塑而意",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41354.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8925571,
+      "lastUpdateTime" : "2013-11-22 03:45:36"
+    }, {
+      "id" : 2508,
+      "name" : "剑神？不是吧",
+      "summary" : "我个人认为我是一个很淡定的人，即使遭朋友背叛，即使穿越到一个阴阳颠倒的女尊世界，即使从今以后我只能看",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22417.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2880188,
+      "lastUpdateTime" : "2013-11-22 03:43:40"
+    }, {
+      "id" : 3592,
+      "name" : "单纯逐笑开",
+      "summary" : "女主重生到了一个架空世界，她成了盟主千金。爹爹是个美丽的盟主，盟主爱夫人，不爱女儿。女儿去无极山习武",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 112614,
+      "lastUpdateTime" : "2013-11-22 02:46:43"
+    } ]
+  }
+}

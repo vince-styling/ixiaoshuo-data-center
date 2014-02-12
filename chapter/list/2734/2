@@ -1,0 +1,78 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 67,
+    "list" : [ {
+      "id" : 3497,
+      "title" : "第50章 真心难辨（5）",
+      "capacity" : 4805
+    }, {
+      "id" : 3498,
+      "title" : "第51章 中毒（1）",
+      "capacity" : 5338
+    }, {
+      "id" : 3499,
+      "title" : "第52章 中毒（2）",
+      "capacity" : 4572
+    }, {
+      "id" : 3500,
+      "title" : "第53章 中毒（3）",
+      "capacity" : 4885
+    }, {
+      "id" : 3501,
+      "title" : "第54章 中毒（4）",
+      "capacity" : 5279
+    }, {
+      "id" : 3502,
+      "title" : "第55章 中毒（5）",
+      "capacity" : 4933
+    }, {
+      "id" : 3503,
+      "title" : "第56章 鬼谷决斗（1）",
+      "capacity" : 4842
+    }, {
+      "id" : 3504,
+      "title" : "第57章 鬼谷决斗（2）",
+      "capacity" : 5575
+    }, {
+      "id" : 3505,
+      "title" : "第58章 鬼谷决斗（3）",
+      "capacity" : 5162
+    }, {
+      "id" : 3506,
+      "title" : "第59章 鬼谷决斗（4）",
+      "capacity" : 4451
+    }, {
+      "id" : 3507,
+      "title" : "第60章 鬼谷决斗（5）",
+      "capacity" : 4730
+    }, {
+      "id" : 3508,
+      "title" : "第61章 特训（1）",
+      "capacity" : 4818
+    }, {
+      "id" : 3509,
+      "title" : "第62章 特训（2）",
+      "capacity" : 4357
+    }, {
+      "id" : 3510,
+      "title" : "第63章 特训（3）",
+      "capacity" : 4614
+    }, {
+      "id" : 3511,
+      "title" : "第64章 特训（4）",
+      "capacity" : 4537
+    }, {
+      "id" : 3512,
+      "title" : "第65章 特训（5）",
+      "capacity" : 5263
+    }, {
+      "id" : 3513,
+      "title" : "上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 3533,
+      "title" : "第一章 末日降临",
+      "capacity" : 9207
+    }, {
+      "id" : 3534,
+      "title" : "第二章 诡异的黑色卡片",
+      "capacity" : 9183
+    }, {
+      "id" : 3535,
+      "title" : "第三章 红背土狼（上）",
+      "capacity" : 72
+    } ]
+  }
+}

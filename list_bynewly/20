@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 20,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3312,
+      "name" : "回祎录",
+      "summary" : "回忆里记载的不是只有过往的记忆，还承载了流向未来的暗涌。每个人的回忆都是如此。萧祎和萧安是双胞胎，一",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 133100,
+      "lastUpdateTime" : "2013-12-20 17:03:44"
+    }, {
+      "id" : 2898,
+      "name" : "天戒",
+      "summary" : "前世的某一世是女神，前世的某一世是女王，前世的某一世是御姐，这一世、是女D丝。哎~~~真是凤凰生孔雀",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42100.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2695890,
+      "lastUpdateTime" : "2013-12-20 16:42:58"
+    }, {
+      "id" : 3434,
+      "name" : "天境风华祭",
+      "summary" : "那年，花开的正好，花落得也凄美。湖畔居的那张棋盘上，黑白纵横，相拥相错，千百年来的平局似乎从未打破。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44906.jpg",
+      "updateStatus" : 1,
+      "capacity" : 27662,
+      "lastUpdateTime" : "2013-12-20 15:28:40"
+    }, {
+      "id" : 3109,
+      "name" : "茹果",
+      "summary" : "人们总是说“如果”。如果没有怎么样，事情会变成怎么样。如果可以怎么样，事情又可以怎么样。然而，没有如",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42155.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1164447,
+      "lastUpdateTime" : "2013-12-20 15:07:47"
+    }, {
+      "id" : 2153,
+      "name" : "醉清风：师父你别跑",
+      "summary" : "她是天生的异类，他是凌霄宫清玄真人的首座弟子。明明就是性格不合看不对眼，可偏偏又逃离不了。是天生孽缘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45385.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6710774,
+      "lastUpdateTime" : "2013-12-20 15:02:35"
+    }, {
+      "id" : 3137,
+      "name" : "只要你还在这里",
+      "summary" : "十七岁那年，沈音在苏樊的婚礼上第一次见到即将成为自己哥哥的苏樊，只一眼，就注定了两人后来无休止相缠的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46010.jpg",
+      "updateStatus" : 1,
+      "capacity" : 217084,
+      "lastUpdateTime" : "2013-12-20 15:00:36"
+    }, {
+      "id" : 2953,
+      "name" : "异世界的爱恋",
+      "summary" : "只是中个暑也可以穿越？不会吧……他最讨厌武力，却习得一身武功……她是自己的闺蜜，却有着与世人完全相反",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43580.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8300392,
+      "lastUpdateTime" : "2013-12-20 14:38:17"
+    }, {
+      "id" : 3160,
+      "name" : "小护士大明星",
+      "summary" : "当红男艺人景锡在拍戏中不幸受伤，住院治疗期间与骨科小护士袁初夏相识。当外表帅气冷酷，内心温柔的偶像明",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44347.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1182021,
+      "lastUpdateTime" : "2013-12-20 14:23:32"
+    }, {
+      "id" : 2224,
+      "name" : "拯救吸血鬼",
+      "summary" : "一个吸血鬼女孩和一个别扭美男的纠结爱情。他们守着爱情守着友情，并为此付出真心。最后她找回那一颗心，到",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44065.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3021122,
+      "lastUpdateTime" : "2013-12-20 14:09:31"
+    }, {
+      "id" : 2093,
+      "name" : "废柴王妃：相公欠调教",
+      "summary" : "什么，不会吧，穿越了，穿就穿吧，人家穿越，不是公主，就是皇妃，都是些非富则贵的人，自己不会这么倒霉吧",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_13563.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2825781,
+      "lastUpdateTime" : "2013-12-20 14:06:57"
+    }, {
+      "id" : 3228,
+      "name" : "擎世圣王",
+      "summary" : "少年偶获最强内丹，从此一步登天，汇聚所有职业，踏平十方，称霸十界，缔造不朽传奇！",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 213253,
+      "lastUpdateTime" : "2013-12-20 10:50:37"
+    }, {
+      "id" : 2487,
+      "name" : "冷月星空",
+      "summary" : "夜风来袭，夹杂着一股浓烈的血腥味，空气中弥漫着些许哀怨忧伤，漆黑的夜里无数纠结的心释放着内心仇恨的火",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 5572952,
+      "lastUpdateTime" : "2013-12-20 07:43:24"
+    }, {
+      "id" : 2430,
+      "name" : "一场梦如痴如醉",
+      "summary" : "文章讲述了即将毕业、面临工作的男孩女孩，迫切渴望在毕业之前谈一段校园恋爱，然而相约一起完成一个美好的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47969.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9706711,
+      "lastUpdateTime" : "2013-12-20 06:32:15"
+    }, {
+      "id" : 3740,
+      "name" : "邪尊的宝贝",
+      "summary" : "坑爹啊....箫瑶星只不过是第一次去海边旅行很兴奋，看到了很漂亮的石头，把它捡起来，回到家晚上睡觉的",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 91882,
+      "lastUpdateTime" : "2013-12-20 05:40:00"
+    }, {
+      "id" : 3304,
+      "name" : "缘何一夜凋零",
+      "summary" : "大学是整个青春的完结点，也是悲剧的蔓延。\"风中四匹狼\"是无数大学生中的典型代表，有叛逆、成熟、阳光帅",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43251.jpg",
+      "updateStatus" : 1,
+      "capacity" : 871075,
+      "lastUpdateTime" : "2013-12-20 05:26:11"
+    }, {
+      "id" : 2502,
+      "name" : "古剑奇谭之浮生执念",
+      "summary" : "在那个名叫古剑奇谭的游戏里，天墉城发生了许许多多我们不知道的故事，这些故事点点滴滴都是屠苏，陵越，紫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48028.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5841954,
+      "lastUpdateTime" : "2013-12-20 05:21:19"
+    }, {
+      "id" : 2552,
+      "name" : "顽妃双刃斩天下",
+      "summary" : "“不管你是谁，后台多硬，认识多少人。别动我兄弟！更别打我男人的主意。更加不能欺负我父母，不然我会让你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45360.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1223211,
+      "lastUpdateTime" : "2013-12-20 04:56:53"
+    }, {
+      "id" : 2263,
+      "name" : "冷酷王爷：我的心你敢要么",
+      "summary" : "一个灵魂支撑着两个身体。白天与夜间的她来回互换。现实与梦中的爱人他总是分不清楚彼此。当命运终于让她做",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45016.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2103349,
+      "lastUpdateTime" : "2013-12-20 04:48:12"
+    }, {
+      "id" : 3314,
+      "name" : "倾城薄雾，似水流年",
+      "summary" : "原本正常的生活、在她即将步入大学的时候发生了翻天覆地的变化。夜晚的梦、风中的竹林，优美空灵的笛声…这",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44307.jpg",
+      "updateStatus" : 2,
+      "capacity" : 46050,
+      "lastUpdateTime" : "2013-12-20 04:35:49"
+    }, {
+      "id" : 2144,
+      "name" : "英雄道",
+      "summary" : "生于悠悠乱世，隐于安逸盛世。游侠到底为了什么而在现代社会复出？神功破魅像是法术，也像是武技，它到底是",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18545.jpg",
+      "updateStatus" : 2,
+      "capacity" : 3233862,
+      "lastUpdateTime" : "2013-12-20 03:52:34"
+    } ]
+  }
+}

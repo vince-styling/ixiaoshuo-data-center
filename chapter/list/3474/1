@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1123,
+      "title" : "第一章倒霉的穿越",
+      "capacity" : 10581
+    }, {
+      "id" : 1124,
+      "title" : "第二章好戏上演",
+      "capacity" : 6228
+    }, {
+      "id" : 1125,
+      "title" : "第三章永基",
+      "capacity" : 6446
+    } ]
+  }
+}

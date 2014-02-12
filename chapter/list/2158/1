@@ -1,0 +1,166 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 39,
+    "list" : [ {
+      "id" : 1016,
+      "title" : "序章",
+      "capacity" : 3033
+    }, {
+      "id" : 1017,
+      "title" : "第一章 进入游戏",
+      "capacity" : 6301
+    }, {
+      "id" : 1018,
+      "title" : "第二章 新手教学",
+      "capacity" : 4570
+    }, {
+      "id" : 1019,
+      "title" : "第三章 变异的野猪",
+      "capacity" : 8658
+    }, {
+      "id" : 1020,
+      "title" : "第四章 微光长剑",
+      "capacity" : 8869
+    }, {
+      "id" : 1021,
+      "title" : "第五章 黄金史莱姆",
+      "capacity" : 9775
+    }, {
+      "id" : 1022,
+      "title" : "第六章 矛盾",
+      "capacity" : 9791
+    }, {
+      "id" : 1023,
+      "title" : "第七章 王者黄金铠甲",
+      "capacity" : 8249
+    }, {
+      "id" : 1024,
+      "title" : "第八章 黄金王者之弓",
+      "capacity" : 7240
+    }, {
+      "id" : 1025,
+      "title" : "第九章 南宫子墨",
+      "capacity" : 7320
+    }, {
+      "id" : 1026,
+      "title" : "第十章 再遇仇人",
+      "capacity" : 9182
+    }, {
+      "id" : 1027,
+      "title" : "第十一章 饿狼岭",
+      "capacity" : 12705
+    }, {
+      "id" : 1028,
+      "title" : "第十二章 烈火套装",
+      "capacity" : 13189
+    }, {
+      "id" : 1029,
+      "title" : "第十三章 再遇傲世",
+      "capacity" : 9638
+    }, {
+      "id" : 1030,
+      "title" : "第十四章 清风夕月",
+      "capacity" : 8098
+    }, {
+      "id" : 1031,
+      "title" : "第十五章 幽冥鬼穴",
+      "capacity" : 13441
+    }, {
+      "id" : 1032,
+      "title" : "第十六章 赤焰海",
+      "capacity" : 8749
+    }, {
+      "id" : 1033,
+      "title" : "第十七章 欧阳世家",
+      "capacity" : 9154
+    }, {
+      "id" : 1034,
+      "title" : "第十八章 雪儿吃醋",
+      "capacity" : 9247
+    }, {
+      "id" : 1035,
+      "title" : "第十九章 鬼亡套装",
+      "capacity" : 8366
+    }, {
+      "id" : 1036,
+      "title" : "第二十章 召唤万军",
+      "capacity" : 7286
+    }, {
+      "id" : 1037,
+      "title" : "第二十一章 流光剑",
+      "capacity" : 9006
+    }, {
+      "id" : 1038,
+      "title" : "第二十二章 冥狼守卫",
+      "capacity" : 8965
+    }, {
+      "id" : 1039,
+      "title" : "第二十三章 冥狼王",
+      "capacity" : 9262
+    }, {
+      "id" : 1040,
+      "title" : "第二十四章 古刹二层",
+      "capacity" : 10069
+    }, {
+      "id" : 1041,
+      "title" : "第二十五章 冥幽战将",
+      "capacity" : 10372
+    }, {
+      "id" : 1042,
+      "title" : "第二十六章 古刹开战",
+      "capacity" : 11544
+    }, {
+      "id" : 1043,
+      "title" : "第二十七章 烈焰法杖",
+      "capacity" : 10587
+    }, {
+      "id" : 1044,
+      "title" : "第二十八章 王峰",
+      "capacity" : 5160
+    }, {
+      "id" : 1045,
+      "title" : "第二十九章 针锋相对",
+      "capacity" : 7844
+    }, {
+      "id" : 1046,
+      "title" : "第三十章 深林套装",
+      "capacity" : 7724
+    }, {
+      "id" : 1047,
+      "title" : "第三十一章 王峰登门",
+      "capacity" : 12299
+    }, {
+      "id" : 1048,
+      "title" : "第三十二章 再进游戏",
+      "capacity" : 9699
+    }, {
+      "id" : 1049,
+      "title" : "第三十三章 不可能的任务",
+      "capacity" : 11915
+    }, {
+      "id" : 1050,
+      "title" : "第三十四章 被封印的轩辕剑①",
+      "capacity" : 6645
+    }, {
+      "id" : 1051,
+      "title" : "第三十五章 被封印的轩辕剑②",
+      "capacity" : 5731
+    }, {
+      "id" : 1052,
+      "title" : "第三十六章 杀手组织",
+      "capacity" : 10275
+    }, {
+      "id" : 1053,
+      "title" : "第三十七章 最烂的谋杀办法",
+      "capacity" : 9184
+    }, {
+      "id" : 1054,
+      "title" : "上架感言",
+      "capacity" : 2998
+    } ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 4841,
+      "title" : "第四十九章 斗战于震天",
+      "capacity" : 9530
+    }, {
+      "id" : 4842,
+      "title" : "第五十章 修仙秘辛 遗迹",
+      "capacity" : 9498
+    }, {
+      "id" : 4843,
+      "title" : "第五十一章 小朋友 你家大人呢",
+      "capacity" : 9282
+    } ]
+  }
+}

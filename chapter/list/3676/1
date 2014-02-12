@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 3946,
+      "title" : "第一章 最初的时光",
+      "capacity" : 11955
+    }, {
+      "id" : 3947,
+      "title" : "第二章 最初的时光（二）",
+      "capacity" : 11914
+    }, {
+      "id" : 3948,
+      "title" : "第三章 最初的时光（三）",
+      "capacity" : 10690
+    }, {
+      "id" : 3949,
+      "title" : "第四章 最初的时光（四）",
+      "capacity" : 10203
+    }, {
+      "id" : 3950,
+      "title" : "第五章 最好的相遇",
+      "capacity" : 10640
+    }, {
+      "id" : 3951,
+      "title" : "第六章 最好的相遇（二）",
+      "capacity" : 11286
+    }, {
+      "id" : 3952,
+      "title" : "第七章 最美的陪伴",
+      "capacity" : 16779
+    }, {
+      "id" : 3953,
+      "title" : "第八章 最美的陪伴（二）",
+      "capacity" : 7805
+    } ]
+  }
+}

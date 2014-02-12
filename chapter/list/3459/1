@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 1427,
+      "title" : "第一章 第一节",
+      "capacity" : 14698
+    }, {
+      "id" : 1428,
+      "title" : "第一章 第二节",
+      "capacity" : 11599
+    }, {
+      "id" : 1429,
+      "title" : "第一章 第三节",
+      "capacity" : 11485
+    }, {
+      "id" : 1430,
+      "title" : "第一章 第四节",
+      "capacity" : 10332
+    }, {
+      "id" : 1431,
+      "title" : "第一章 第五节",
+      "capacity" : 10029
+    } ]
+  }
+}

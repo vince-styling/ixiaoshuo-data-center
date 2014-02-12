@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 16,
+    "totalPageCount" : 16,
+    "totalItemCount" : 304,
+    "list" : [ {
+      "id" : 3340,
+      "name" : "枫叶荻花秋瑟瑟",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42033.jpg",
+      "summary" : "阴谋算计，你来我去，算尽一切却漏算了自己的心意，看风流邪魅云三少携手古灵精怪小叶子，管它江湖朝堂腥风",
+      "updateStatus" : 1,
+      "capacity" : 75021,
+      "readerCount" : 124
+    }, {
+      "id" : 3637,
+      "name" : "万里月明",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19109.jpg",
+      "summary" : "明宪宗与大他十六岁的万贵妃之间的故事……不过，万贵妃是穿越过去的万贵妃，现在要讲的，也是宪宗还没有成",
+      "updateStatus" : 1,
+      "capacity" : 697700,
+      "readerCount" : 119
+    }, {
+      "id" : 3053,
+      "name" : "俏皮男女世外生活记",
+      "coverUrl" : "",
+      "summary" : "红尘繁华，但身不由己；那么世外生活如何......",
+      "updateStatus" : 1,
+      "capacity" : 52593,
+      "readerCount" : 114
+    }, {
+      "id" : 3574,
+      "name" : "祁家楼外楼",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46805.jpg",
+      "summary" : "她在楼外楼很久了，久的就她自己都记不得了。当年时候，她把算盘打的啪啪乱响。精打细算的过着日子。她以为",
+      "updateStatus" : 1,
+      "capacity" : 30508,
+      "readerCount" : 110
+    } ]
+  }
+}

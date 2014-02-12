@@ -1,0 +1,74 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 16,
+    "list" : [ {
+      "id" : 2549,
+      "title" : "作品介绍",
+      "capacity" : 3218
+    }, {
+      "id" : 2550,
+      "title" : "第一章",
+      "capacity" : 10216
+    }, {
+      "id" : 2551,
+      "title" : "第二章",
+      "capacity" : 11989
+    }, {
+      "id" : 2552,
+      "title" : "第三章",
+      "capacity" : 11904
+    }, {
+      "id" : 2553,
+      "title" : "第四章",
+      "capacity" : 11798
+    }, {
+      "id" : 2554,
+      "title" : "第五章",
+      "capacity" : 21318
+    }, {
+      "id" : 2555,
+      "title" : "第六章",
+      "capacity" : 10061
+    }, {
+      "id" : 2556,
+      "title" : "第七章",
+      "capacity" : 9969
+    }, {
+      "id" : 2557,
+      "title" : "第八章",
+      "capacity" : 10654
+    }, {
+      "id" : 2558,
+      "title" : "第九章",
+      "capacity" : 11873
+    }, {
+      "id" : 2559,
+      "title" : "第十章",
+      "capacity" : 21110
+    }, {
+      "id" : 2560,
+      "title" : "第十一章",
+      "capacity" : 13325
+    }, {
+      "id" : 2561,
+      "title" : "第十二章",
+      "capacity" : 18769
+    }, {
+      "id" : 2562,
+      "title" : "第十三章",
+      "capacity" : 8954
+    }, {
+      "id" : 2563,
+      "title" : "第十四章",
+      "capacity" : 23208
+    }, {
+      "id" : 2564,
+      "title" : "第十五章",
+      "capacity" : 12481
+    } ]
+  }
+}

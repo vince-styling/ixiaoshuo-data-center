@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 1743,
+      "title" : "楔子",
+      "capacity" : 1459
+    }, {
+      "id" : 1744,
+      "title" : "NO.1 彩虹学院",
+      "capacity" : 9247
+    }, {
+      "id" : 1745,
+      "title" : "NO.2 跟你商量事",
+      "capacity" : 6120
+    }, {
+      "id" : 1746,
+      "title" : "NO.3 画中女",
+      "capacity" : 6134
+    }, {
+      "id" : 1747,
+      "title" : "NO.4 你要参与吗？",
+      "capacity" : 6158
+    }, {
+      "id" : 1748,
+      "title" : "NO.5 公孙(一）",
+      "capacity" : 6517
+    }, {
+      "id" : 1749,
+      "title" : "NO.6 公孙(二）",
+      "capacity" : 7487
+    } ]
+  }
+}

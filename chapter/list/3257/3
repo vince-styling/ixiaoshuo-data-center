@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 105,
+    "list" : [ {
+      "id" : 4520,
+      "title" : "第九十七章 大餐？全家桶！",
+      "capacity" : 7738
+    }, {
+      "id" : 4521,
+      "title" : "第九十八章 走？不走？",
+      "capacity" : 5630
+    }, {
+      "id" : 4522,
+      "title" : "第九十九章 懵懂的值日生",
+      "capacity" : 6596
+    }, {
+      "id" : 4523,
+      "title" : "第一百章 最后通牒",
+      "capacity" : 6840
+    }, {
+      "id" : 4524,
+      "title" : "第一百零一章 关系及澄文上架公告",
+      "capacity" : 7614
+    } ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 65,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3082,
+      "name" : "当代校园情圣",
+      "summary" : "情圣联盟，一个校园版百合网。专业介绍妹纸，帅锅的首创服务，帮助无数帅女戳男脱单。，成功率高达99.9",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45956.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1195840,
+      "lastUpdateTime" : "2013-11-29 08:44:06"
+    }, {
+      "id" : 2677,
+      "name" : "悠悠珠碧河",
+      "summary" : "中国有个海南岛，岛西有个五湖村，村前河叫珠碧河，悠悠河水长流去，余下文人空忧郁。所收入的小说散文评论",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 2443657,
+      "lastUpdateTime" : "2013-11-29 08:24:32"
+    }, {
+      "id" : 2178,
+      "name" : "穿越之朔月传奇",
+      "summary" : "一场车祸就那样结束了云枫悲催的人生，在好心的鬼差的帮衬下她穿越来到了金盛帝国开始她新的生活。对于萧朔",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46270.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1891698,
+      "lastUpdateTime" : "2013-11-29 07:04:12"
+    }, {
+      "id" : 2298,
+      "name" : "重生联盟之绝代风华",
+      "summary" : "厌倦了隐世家族的争斗，她以决绝的方式结束了这一切。却不料……遇上了重生这回事。这一世，她以大联盟宋家",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44089.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4686445,
+      "lastUpdateTime" : "2013-11-29 05:48:49"
+    }, {
+      "id" : 3172,
+      "name" : "竹马太腹黑",
+      "summary" : "这是一对青梅竹马的故事，男主腹黑，女主有些神经大条但是绝对不傻。本文不虐，如有亲不喜，请绕道。",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 80360,
+      "lastUpdateTime" : "2013-11-29 05:46:32"
+    }, {
+      "id" : 2476,
+      "name" : "致命红蝶",
+      "summary" : "相传有一种蝴蝶，通体殷红如血，鬼魅妖异，到了哪里，哪里就会发生不幸。神秘鬼影，致命红蝶，午夜风铃……",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15271.jpg",
+      "updateStatus" : 2,
+      "capacity" : 4499537,
+      "lastUpdateTime" : "2013-11-29 05:26:14"
+    }, {
+      "id" : 2992,
+      "name" : "天才萌宝：霸情爹地太腹黑",
+      "summary" : "爹地，你为什么不喜欢我妈妈！为什么要和那个阿姨在一起！！！鹰千裕皱起眉头，看着拽着自己衣角的两个小不",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46639.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1099468,
+      "lastUpdateTime" : "2013-11-29 04:50:23"
+    }, {
+      "id" : 3738,
+      "name" : "献青春：那些我们叛逆过的叛逆",
+      "summary" : "时光荐苒，岁月迷离。当我们一步一步偏离彼此的轨迹…一个一个慢慢离去。一段多人旅途变成了单人旅程。回望",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43882.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1474816,
+      "lastUpdateTime" : "2013-11-29 04:41:50"
+    }, {
+      "id" : 2396,
+      "name" : "冷爱",
+      "summary" : "年少的爱情往往都是浪漫而美好，而戴新一长达十年的苦涩暗恋史，却从他和朱樱共享一个不可告人的秘密开始…",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18850.jpg",
+      "updateStatus" : 2,
+      "capacity" : 9691984,
+      "lastUpdateTime" : "2013-11-29 04:38:53"
+    }, {
+      "id" : 2809,
+      "name" : "百食",
+      "summary" : "朱阳。藏在娘胎第6个月的时候，母亲赋予的名字。意如红日。自从初恋受过挫折的她，已经习惯了一个人的日子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47508.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8550643,
+      "lastUpdateTime" : "2013-11-29 03:33:29"
+    }, {
+      "id" : 3735,
+      "name" : "穿越之修真吐槽娘",
+      "summary" : "当一位傲娇女到了修仙的世界里，当这位傲娇女极为女王，当她发现自己有着超人的气运，她会如何？秦晓认为，",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 329573,
+      "lastUpdateTime" : "2013-11-29 02:43:21"
+    }, {
+      "id" : 2387,
+      "name" : "三世豪门：扛上绝情总裁",
+      "summary" : "“你不会敲门吗！”尹容很生气后果很严重！男人舔了舔嘴角，“敲了，可是你无视我了，只好以身引诱你了。怎",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_11849.jpg",
+      "updateStatus" : 2,
+      "capacity" : 8845554,
+      "lastUpdateTime" : "2013-11-29 02:28:08"
+    }, {
+      "id" : 2871,
+      "name" : "吾心似未央",
+      "summary" : "世界上最大的过错不是错过，而是我们彼此都爱着对方，其中一方却一直保持沉默。沈俊熙说：“未央，我们一起",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47402.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5835348,
+      "lastUpdateTime" : "2013-11-29 02:12:59"
+    }, {
+      "id" : 3346,
+      "name" : "一叶听风",
+      "summary" : "学会飞翔意味着要经历风霜雪雨的洗礼。不随波逐流就等于选择去走一条只有自己才知道彼岸在哪里的崎岖之路。",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 345909,
+      "lastUpdateTime" : "2013-11-29 01:52:52"
+    }, {
+      "id" : 2991,
+      "name" : "穿越之带着闺蜜去穿越",
+      "summary" : "三人的穿越，注定要为这个世界谱写神话。我们三个不是姐妹却胜似姐妹。但是注定我们会遇到许多的事情。每人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42649.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8539192,
+      "lastUpdateTime" : "2013-11-29 01:44:40"
+    }, {
+      "id" : 3728,
+      "name" : "含烟思窃之皇上、臣妾做不到",
+      "summary" : "她，一个腹黑，无天良,,力气超大的高中网络小说家、、、、他，，一个人人闻风丧胆的恐怖政坛，，江湖，，",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 44192,
+      "lastUpdateTime" : "2013-11-29 00:41:03"
+    }, {
+      "id" : 2592,
+      "name" : "离途",
+      "summary" : "我将踏上归程，亦或离途，只为那残破半垣的家乡。有谁听得见我泣血涟涟？可见我赤足立在南江之畔，寻那前生",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 5653043,
+      "lastUpdateTime" : "2013-11-28 23:30:59"
+    }, {
+      "id" : 2257,
+      "name" : "曾偷浮生半日闲",
+      "summary" : "一个是曾与她互许终身的惊世战神，一个是伴她多年的儒雅王爷。一个是她心爱之人，一个人是知她甚深之人。她",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19637.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7709432,
+      "lastUpdateTime" : "2013-11-28 22:26:06"
+    }, {
+      "id" : 2272,
+      "name" : "乱世红尘梦",
+      "summary" : "一件神秘出现的玉吊坠，一次突如其来的穿越夜，一场金戈铁马的乱世情，一段刻骨铭心的红尘恋，上官云在情人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16841.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9151577,
+      "lastUpdateTime" : "2013-11-28 22:06:57"
+    }, {
+      "id" : 2165,
+      "name" : "擒猪不力：索爱腹黑仙君",
+      "summary" : "从前她是呆子，情窦初开时，被人设计而死。后来她是软柿子，前人的精心设计，让她在死之前方才明白，她爱着",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20909.jpg",
+      "updateStatus" : 2,
+      "capacity" : 5570965,
+      "lastUpdateTime" : "2013-11-28 20:37:00"
+    } ]
+  }
+}

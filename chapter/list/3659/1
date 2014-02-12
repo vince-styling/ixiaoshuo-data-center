@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 2412,
+      "title" : "1看我好惹？",
+      "capacity" : 13770
+    }, {
+      "id" : 2413,
+      "title" : "2彪悍女孩",
+      "capacity" : 11802
+    }, {
+      "id" : 2414,
+      "title" : "3实习报到",
+      "capacity" : 10175
+    }, {
+      "id" : 2415,
+      "title" : "4乌龙任务",
+      "capacity" : 13101
+    }, {
+      "id" : 2416,
+      "title" : "5恍若如梦",
+      "capacity" : 10326
+    } ]
+  }
+}

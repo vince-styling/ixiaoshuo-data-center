@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 42,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3539,
+      "name" : "恶魔少爷的失宠玩偶",
+      "updateStatus" : 1,
+      "distance" : 5829,
+      "memberId" : 7408
+    }, {
+      "id" : 2084,
+      "name" : "紫月星尘",
+      "updateStatus" : 1,
+      "distance" : 4889,
+      "memberId" : 1343
+    }, {
+      "id" : 3296,
+      "name" : "斜阳晚照",
+      "updateStatus" : 1,
+      "distance" : 8438,
+      "memberId" : 2531
+    }, {
+      "id" : 2038,
+      "name" : "凤狂天下：本宫来自特工处",
+      "updateStatus" : 1,
+      "distance" : 7005,
+      "memberId" : 7426
+    }, {
+      "id" : 2986,
+      "name" : "错过的爱情：总裁放过我",
+      "updateStatus" : 1,
+      "distance" : 6724,
+      "memberId" : 1254
+    }, {
+      "id" : 2835,
+      "name" : "凉薄如雪",
+      "updateStatus" : 1,
+      "distance" : 4335,
+      "memberId" : 6913
+    }, {
+      "id" : 3261,
+      "name" : "腐化了的灿烂年华",
+      "updateStatus" : 1,
+      "distance" : 4037,
+      "memberId" : 7269
+    }, {
+      "id" : 3534,
+      "name" : "风起翼翔雪牵洛楹",
+      "updateStatus" : 1,
+      "distance" : 4275,
+      "memberId" : 1094
+    }, {
+      "id" : 2813,
+      "name" : "夕雾",
+      "updateStatus" : 1,
+      "distance" : 8070,
+      "memberId" : 6856
+    }, {
+      "id" : 3663,
+      "name" : "疯狂健身房",
+      "updateStatus" : 1,
+      "distance" : 7233,
+      "memberId" : 5166
+    }, {
+      "id" : 2315,
+      "name" : "一诺双生劫",
+      "updateStatus" : 1,
+      "distance" : 8946,
+      "memberId" : 5369
+    }, {
+      "id" : 2510,
+      "name" : "守卫爱情",
+      "updateStatus" : 2,
+      "distance" : 4867,
+      "memberId" : 4192
+    }, {
+      "id" : 3305,
+      "name" : "混世钉子",
+      "updateStatus" : 1,
+      "distance" : 2024,
+      "memberId" : 8299
+    }, {
+      "id" : 3336,
+      "name" : "旷世绝恋：洛水弹琴不谈情",
+      "updateStatus" : 1,
+      "distance" : 1182,
+      "memberId" : 1910
+    }, {
+      "id" : 2249,
+      "name" : "古代求生记",
+      "updateStatus" : 2,
+      "distance" : 9999,
+      "memberId" : 3350
+    }, {
+      "id" : 2256,
+      "name" : "穿越东宫之碟中谍",
+      "updateStatus" : 2,
+      "distance" : 3854,
+      "memberId" : 8630
+    }, {
+      "id" : 2940,
+      "name" : "秦汉·流云浮生",
+      "updateStatus" : 1,
+      "distance" : 4194,
+      "memberId" : 8154
+    }, {
+      "id" : 2483,
+      "name" : "雨露之瞳",
+      "updateStatus" : 1,
+      "distance" : 8074,
+      "memberId" : 8849
+    }, {
+      "id" : 3717,
+      "name" : "异界纵横",
+      "updateStatus" : 1,
+      "distance" : 2783,
+      "memberId" : 6821
+    }, {
+      "id" : 2435,
+      "name" : "绝世青龙王",
+      "updateStatus" : 1,
+      "distance" : 3884,
+      "memberId" : 1856
+    } ]
+  }
+}

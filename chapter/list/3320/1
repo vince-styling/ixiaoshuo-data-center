@@ -1,0 +1,70 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 15,
+    "list" : [ {
+      "id" : 4943,
+      "title" : "第一章 未见花开",
+      "capacity" : 11132
+    }, {
+      "id" : 4944,
+      "title" : "第二章 香弥满屋",
+      "capacity" : 11529
+    }, {
+      "id" : 4945,
+      "title" : "第三章 牡丹泣血",
+      "capacity" : 9854
+    }, {
+      "id" : 4946,
+      "title" : "第四章 弱花扶风",
+      "capacity" : 13364
+    }, {
+      "id" : 4947,
+      "title" : "第五章 欲碎花蕊",
+      "capacity" : 10345
+    }, {
+      "id" : 4948,
+      "title" : "第六章 低语对花",
+      "capacity" : 11920
+    }, {
+      "id" : 4949,
+      "title" : "第七章 花蝶之争",
+      "capacity" : 9272
+    }, {
+      "id" : 4950,
+      "title" : "第八章 泪语忆花",
+      "capacity" : 10967
+    }, {
+      "id" : 4951,
+      "title" : "第九章 别花赴仇",
+      "capacity" : 13726
+    }, {
+      "id" : 4952,
+      "title" : "第十章 沾花有香",
+      "capacity" : 9226
+    }, {
+      "id" : 4953,
+      "title" : "第十一章 再遇娇花",
+      "capacity" : 12413
+    }, {
+      "id" : 4954,
+      "title" : "第十二章 花浴晨露",
+      "capacity" : 10764
+    }, {
+      "id" : 4955,
+      "title" : "第十三章 雌雄花惑",
+      "capacity" : 12092
+    }, {
+      "id" : 4956,
+      "title" : "第十四章 羞花闭月",
+      "capacity" : 15146
+    }, {
+      "id" : 4957,
+      "title" : "第十五章 花容失色",
+      "capacity" : 72
+    } ]
+  }
+}

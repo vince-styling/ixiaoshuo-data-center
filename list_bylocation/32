@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 32,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2548,
+      "name" : "绝色白衣帝师",
+      "updateStatus" : 1,
+      "distance" : 9103,
+      "memberId" : 7263
+    }, {
+      "id" : 3504,
+      "name" : "《心惜之落雪之殇》",
+      "updateStatus" : 1,
+      "distance" : 8518,
+      "memberId" : 6685
+    }, {
+      "id" : 2461,
+      "name" : "我和僵尸有个约会",
+      "updateStatus" : 1,
+      "distance" : 8685,
+      "memberId" : 1488
+    }, {
+      "id" : 3480,
+      "name" : "妖传——岁与千陌",
+      "updateStatus" : 1,
+      "distance" : 6828,
+      "memberId" : 4419
+    }, {
+      "id" : 2854,
+      "name" : "清音冷",
+      "updateStatus" : 1,
+      "distance" : 8955,
+      "memberId" : 7930
+    }, {
+      "id" : 2967,
+      "name" : "渐爱，深爱",
+      "updateStatus" : 1,
+      "distance" : 7603,
+      "memberId" : 4456
+    }, {
+      "id" : 2078,
+      "name" : "绾君心",
+      "updateStatus" : 1,
+      "distance" : 1682,
+      "memberId" : 7387
+    }, {
+      "id" : 3551,
+      "name" : "爱你或许只是兴起",
+      "updateStatus" : 1,
+      "distance" : 9201,
+      "memberId" : 8889
+    }, {
+      "id" : 2417,
+      "name" : "不飞的天使",
+      "updateStatus" : 2,
+      "distance" : 7660,
+      "memberId" : 4322
+    }, {
+      "id" : 2609,
+      "name" : "红尘一笑往事焚",
+      "updateStatus" : 1,
+      "distance" : 1963,
+      "memberId" : 8137
+    }, {
+      "id" : 2763,
+      "name" : "医暖天下",
+      "updateStatus" : 1,
+      "distance" : 9017,
+      "memberId" : 1338
+    }, {
+      "id" : 2391,
+      "name" : "清清子毅",
+      "updateStatus" : 2,
+      "distance" : 5097,
+      "memberId" : 2436
+    }, {
+      "id" : 3556,
+      "name" : "花泱",
+      "updateStatus" : 1,
+      "distance" : 6760,
+      "memberId" : 7125
+    }, {
+      "id" : 2270,
+      "name" : "惊回千里梦相思",
+      "updateStatus" : 1,
+      "distance" : 6383,
+      "memberId" : 7558
+    }, {
+      "id" : 3408,
+      "name" : "综恐一梦一回",
+      "updateStatus" : 1,
+      "distance" : 1347,
+      "memberId" : 7017
+    }, {
+      "id" : 2388,
+      "name" : "倾世执着",
+      "updateStatus" : 2,
+      "distance" : 3177,
+      "memberId" : 7207
+    }, {
+      "id" : 2674,
+      "name" : "军少不要欺人太甚",
+      "updateStatus" : 1,
+      "distance" : 8702,
+      "memberId" : 8532
+    }, {
+      "id" : 3711,
+      "name" : "谋天",
+      "updateStatus" : 1,
+      "distance" : 8451,
+      "memberId" : 7942
+    }, {
+      "id" : 3018,
+      "name" : "乱世佳人之末代皇妃",
+      "updateStatus" : 1,
+      "distance" : 2252,
+      "memberId" : 7775
+    }, {
+      "id" : 3564,
+      "name" : "十二生肖女神的恋爱",
+      "updateStatus" : 1,
+      "distance" : 7074,
+      "memberId" : 4129
+    } ]
+  }
+}

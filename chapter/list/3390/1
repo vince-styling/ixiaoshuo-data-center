@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 1271,
+      "title" : "第一章 斡勒",
+      "capacity" : 4696
+    }, {
+      "id" : 1272,
+      "title" : "第二章 之宁",
+      "capacity" : 4373
+    }, {
+      "id" : 1273,
+      "title" : "第三章 青衣",
+      "capacity" : 4505
+    }, {
+      "id" : 1274,
+      "title" : "第四章 乾顺",
+      "capacity" : 4595
+    }, {
+      "id" : 1275,
+      "title" : "第五章 如火",
+      "capacity" : 4247
+    }, {
+      "id" : 1276,
+      "title" : "第六章 青门引",
+      "capacity" : 10007
+    } ]
+  }
+}

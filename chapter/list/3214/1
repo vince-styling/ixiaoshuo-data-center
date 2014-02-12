@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 10,
+    "list" : [ {
+      "id" : 2341,
+      "title" : "第一章 床上事故",
+      "capacity" : 3371
+    }, {
+      "id" : 2342,
+      "title" : "第二章 尸骨无存",
+      "capacity" : 72
+    }, {
+      "id" : 2343,
+      "title" : "第三章 梦魇过后",
+      "capacity" : 3273
+    }, {
+      "id" : 2344,
+      "title" : "第四章 花房姑娘",
+      "capacity" : 3111
+    }, {
+      "id" : 2345,
+      "title" : "第五章 白色满天星",
+      "capacity" : 3036
+    }, {
+      "id" : 2346,
+      "title" : "第六章 三八",
+      "capacity" : 3314
+    }, {
+      "id" : 2347,
+      "title" : "第七章 老板太性感",
+      "capacity" : 3298
+    }, {
+      "id" : 2348,
+      "title" : "第八章 卖身，签约",
+      "capacity" : 3588
+    }, {
+      "id" : 2349,
+      "title" : "第九章 索要名单",
+      "capacity" : 3023
+    }, {
+      "id" : 2350,
+      "title" : "第十章 老板的家",
+      "capacity" : 3671
+    } ]
+  }
+}

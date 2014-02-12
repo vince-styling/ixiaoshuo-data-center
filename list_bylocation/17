@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 17,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2131,
+      "name" : "重生之嫡女云笙",
+      "updateStatus" : 1,
+      "distance" : 5335,
+      "memberId" : 6899
+    }, {
+      "id" : 2235,
+      "name" : "空忆落花。",
+      "updateStatus" : 1,
+      "distance" : 8850,
+      "memberId" : 8124
+    }, {
+      "id" : 3166,
+      "name" : "一品凰妻：冷情教主猎娇宠",
+      "updateStatus" : 1,
+      "distance" : 1952,
+      "memberId" : 5041
+    }, {
+      "id" : 2705,
+      "name" : "黑道-恋上如月",
+      "updateStatus" : 1,
+      "distance" : 3744,
+      "memberId" : 2643
+    }, {
+      "id" : 2634,
+      "name" : "白日说梦",
+      "updateStatus" : 1,
+      "distance" : 3520,
+      "memberId" : 5804
+    }, {
+      "id" : 3068,
+      "name" : "来如春梦去如风",
+      "updateStatus" : 1,
+      "distance" : 7766,
+      "memberId" : 7023
+    }, {
+      "id" : 3421,
+      "name" : "心动必碎",
+      "updateStatus" : 1,
+      "distance" : 4153,
+      "memberId" : 2048
+    }, {
+      "id" : 2855,
+      "name" : "皇叔，别抢亲",
+      "updateStatus" : 1,
+      "distance" : 7904,
+      "memberId" : 4266
+    }, {
+      "id" : 2449,
+      "name" : "青春的坟墓",
+      "updateStatus" : 1,
+      "distance" : 5810,
+      "memberId" : 4719
+    }, {
+      "id" : 2514,
+      "name" : "新选组大河剧之星辰之名",
+      "updateStatus" : 2,
+      "distance" : 8532,
+      "memberId" : 1511
+    }, {
+      "id" : 3238,
+      "name" : "红尘珏",
+      "updateStatus" : 1,
+      "distance" : 985,
+      "memberId" : 1248
+    }, {
+      "id" : 2370,
+      "name" : "假面的告白",
+      "updateStatus" : 1,
+      "distance" : 3206,
+      "memberId" : 3083
+    }, {
+      "id" : 3034,
+      "name" : "为期不返",
+      "updateStatus" : 1,
+      "distance" : 2035,
+      "memberId" : 4260
+    }, {
+      "id" : 2249,
+      "name" : "古代求生记",
+      "updateStatus" : 2,
+      "distance" : 8655,
+      "memberId" : 8054
+    }, {
+      "id" : 3295,
+      "name" : "南追",
+      "updateStatus" : 1,
+      "distance" : 6922,
+      "memberId" : 4276
+    }, {
+      "id" : 2448,
+      "name" : "似水流年之梦起（详尽版）",
+      "updateStatus" : 1,
+      "distance" : 8834,
+      "memberId" : 4615
+    }, {
+      "id" : 2552,
+      "name" : "顽妃双刃斩天下",
+      "updateStatus" : 1,
+      "distance" : 4216,
+      "memberId" : 5882
+    }, {
+      "id" : 2305,
+      "name" : "梦穿封神记：我欲齐天只为卿",
+      "updateStatus" : 2,
+      "distance" : 9024,
+      "memberId" : 5423
+    }, {
+      "id" : 3003,
+      "name" : "蝶樱澜",
+      "updateStatus" : 1,
+      "distance" : 5867,
+      "memberId" : 2807
+    }, {
+      "id" : 2354,
+      "name" : "我能买下你",
+      "updateStatus" : 1,
+      "distance" : 1992,
+      "memberId" : 2252
+    } ]
+  }
+}

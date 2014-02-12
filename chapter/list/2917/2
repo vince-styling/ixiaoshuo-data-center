@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 69,
+    "list" : [ {
+      "id" : 2891,
+      "title" : "（五十一）",
+      "capacity" : 3192
+    }, {
+      "id" : 2892,
+      "title" : "(五十二）",
+      "capacity" : 3051
+    }, {
+      "id" : 2893,
+      "title" : "(五十三）",
+      "capacity" : 3557
+    }, {
+      "id" : 2894,
+      "title" : "(五十四）",
+      "capacity" : 3094
+    }, {
+      "id" : 2895,
+      "title" : "(五十五）",
+      "capacity" : 3166
+    }, {
+      "id" : 2896,
+      "title" : "（五十六）",
+      "capacity" : 3246
+    }, {
+      "id" : 2897,
+      "title" : "(五十七）",
+      "capacity" : 3142
+    }, {
+      "id" : 2898,
+      "title" : "（五十八）",
+      "capacity" : 3166
+    }, {
+      "id" : 2899,
+      "title" : "(五十九）",
+      "capacity" : 3045
+    }, {
+      "id" : 2900,
+      "title" : "（六十）",
+      "capacity" : 3279
+    }, {
+      "id" : 2901,
+      "title" : "(六十一）",
+      "capacity" : 3157
+    }, {
+      "id" : 2902,
+      "title" : "（六十二）",
+      "capacity" : 3214
+    }, {
+      "id" : 2903,
+      "title" : "（六十三）",
+      "capacity" : 3135
+    }, {
+      "id" : 2904,
+      "title" : "（六十四）",
+      "capacity" : 3353
+    }, {
+      "id" : 2905,
+      "title" : "（六十五）",
+      "capacity" : 3247
+    }, {
+      "id" : 2906,
+      "title" : "（六十六）",
+      "capacity" : 3095
+    }, {
+      "id" : 2907,
+      "title" : "(六十七）",
+      "capacity" : 3107
+    }, {
+      "id" : 2908,
+      "title" : "(六十八）",
+      "capacity" : 3303
+    }, {
+      "id" : 2909,
+      "title" : "(六十九）",
+      "capacity" : 3089
+    } ]
+  }
+}

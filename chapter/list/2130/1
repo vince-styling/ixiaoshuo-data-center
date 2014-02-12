@@ -1,0 +1,182 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 43,
+    "list" : [ {
+      "id" : 2965,
+      "title" : "联姻",
+      "capacity" : 9751
+    }, {
+      "id" : 2966,
+      "title" : "联姻（二）",
+      "capacity" : 10057
+    }, {
+      "id" : 2967,
+      "title" : "游猎",
+      "capacity" : 9674
+    }, {
+      "id" : 2968,
+      "title" : "预谋（一）",
+      "capacity" : 9250
+    }, {
+      "id" : 2969,
+      "title" : "预谋（二）",
+      "capacity" : 9495
+    }, {
+      "id" : 2970,
+      "title" : "预谋（三）",
+      "capacity" : 9432
+    }, {
+      "id" : 2971,
+      "title" : "预谋（四）",
+      "capacity" : 9656
+    }, {
+      "id" : 2972,
+      "title" : "郎情妾意（一）",
+      "capacity" : 9210
+    }, {
+      "id" : 2973,
+      "title" : "郎情妾意（二）",
+      "capacity" : 9797
+    }, {
+      "id" : 2974,
+      "title" : "郎情妾意（三）",
+      "capacity" : 9519
+    }, {
+      "id" : 2975,
+      "title" : "郎情妾意（四）",
+      "capacity" : 9493
+    }, {
+      "id" : 2976,
+      "title" : "登基（一）",
+      "capacity" : 8831
+    }, {
+      "id" : 2977,
+      "title" : "登基（二）",
+      "capacity" : 9252
+    }, {
+      "id" : 2978,
+      "title" : "后宫（一）",
+      "capacity" : 9775
+    }, {
+      "id" : 2979,
+      "title" : "后宫（二）",
+      "capacity" : 9214
+    }, {
+      "id" : 2980,
+      "title" : "后宫（三）",
+      "capacity" : 9696
+    }, {
+      "id" : 2981,
+      "title" : "后宫（四）",
+      "capacity" : 9492
+    }, {
+      "id" : 2982,
+      "title" : "诞子",
+      "capacity" : 9544
+    }, {
+      "id" : 2983,
+      "title" : "纳妾（一）",
+      "capacity" : 9283
+    }, {
+      "id" : 2984,
+      "title" : "纳妾（二）",
+      "capacity" : 9728
+    }, {
+      "id" : 2985,
+      "title" : "纳妾（三）",
+      "capacity" : 9168
+    }, {
+      "id" : 2986,
+      "title" : "密探",
+      "capacity" : 9113
+    }, {
+      "id" : 2987,
+      "title" : "密探（二）",
+      "capacity" : 10065
+    }, {
+      "id" : 2988,
+      "title" : "密探（三）",
+      "capacity" : 9470
+    }, {
+      "id" : 2989,
+      "title" : "密探（四）",
+      "capacity" : 9470
+    }, {
+      "id" : 2990,
+      "title" : "宫嫔（一）",
+      "capacity" : 9332
+    }, {
+      "id" : 2991,
+      "title" : "宫嫔（二）",
+      "capacity" : 9668
+    }, {
+      "id" : 2992,
+      "title" : "宫嫔（三）",
+      "capacity" : 9119
+    }, {
+      "id" : 2993,
+      "title" : "暗流（一）",
+      "capacity" : 9247
+    }, {
+      "id" : 2994,
+      "title" : "暗流（二）",
+      "capacity" : 9471
+    }, {
+      "id" : 2995,
+      "title" : "暗流（三）",
+      "capacity" : 9597
+    }, {
+      "id" : 2996,
+      "title" : "暗流（四）",
+      "capacity" : 9329
+    }, {
+      "id" : 2997,
+      "title" : "达邑（一）",
+      "capacity" : 9420
+    }, {
+      "id" : 2998,
+      "title" : "计谋（一）",
+      "capacity" : 9222
+    }, {
+      "id" : 2999,
+      "title" : "计谋（二）",
+      "capacity" : 9483
+    }, {
+      "id" : 3000,
+      "title" : "计谋（三）",
+      "capacity" : 9243
+    }, {
+      "id" : 3001,
+      "title" : "计谋（四）",
+      "capacity" : 9328
+    }, {
+      "id" : 3002,
+      "title" : "斗争（一）",
+      "capacity" : 9432
+    }, {
+      "id" : 3003,
+      "title" : "斗争（二）",
+      "capacity" : 9313
+    }, {
+      "id" : 3004,
+      "title" : "斗争（三）",
+      "capacity" : 9359
+    }, {
+      "id" : 3005,
+      "title" : "斗争（四）",
+      "capacity" : 9474
+    }, {
+      "id" : 3006,
+      "title" : "寂灭（一）",
+      "capacity" : 9228
+    }, {
+      "id" : 3007,
+      "title" : "寂灭（二）",
+      "capacity" : 9234
+    } ]
+  }
+}

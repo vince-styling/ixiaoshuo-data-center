@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 4869,
+      "title" : "•长坡•",
+      "capacity" : 3066
+    }, {
+      "id" : 4870,
+      "title" : "•篮球•",
+      "capacity" : 3597
+    }, {
+      "id" : 4871,
+      "title" : "•竞赛•",
+      "capacity" : 3394
+    }, {
+      "id" : 4872,
+      "title" : "•夏珩•",
+      "capacity" : 3358
+    }, {
+      "id" : 4873,
+      "title" : "•闲逛•",
+      "capacity" : 3908
+    } ]
+  }
+}

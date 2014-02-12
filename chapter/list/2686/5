@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 5,
+    "totalPageCount" : 5,
+    "totalItemCount" : 204,
+    "list" : [ {
+      "id" : 1550,
+      "title" : "【41】金色宫殿",
+      "capacity" : 4807
+    }, {
+      "id" : 1551,
+      "title" : "【42】狡猾的老虎",
+      "capacity" : 5991
+    }, {
+      "id" : 1552,
+      "title" : "【43】被困密室",
+      "capacity" : 5886
+    }, {
+      "id" : 1553,
+      "title" : "【44】荷花迷宫",
+      "capacity" : 5425
+    } ]
+  }
+}

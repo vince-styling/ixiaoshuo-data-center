@@ -1,0 +1,174 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 41,
+    "list" : [ {
+      "id" : 3530,
+      "title" : "第一节 多了个你",
+      "capacity" : 3706
+    }, {
+      "id" : 3531,
+      "title" : "第二节 学生研讨会",
+      "capacity" : 3030
+    }, {
+      "id" : 3532,
+      "title" : "第三节 初会老妖",
+      "capacity" : 4434
+    }, {
+      "id" : 3533,
+      "title" : "第四节 新校区的一天",
+      "capacity" : 3812
+    }, {
+      "id" : 3534,
+      "title" : "第五节 与老妖再次交锋",
+      "capacity" : 4158
+    }, {
+      "id" : 3535,
+      "title" : "第六节 承认错误",
+      "capacity" : 3149
+    }, {
+      "id" : 3536,
+      "title" : "第七节 期末考试",
+      "capacity" : 4051
+    }, {
+      "id" : 3537,
+      "title" : "第八节 放假回家",
+      "capacity" : 3659
+    }, {
+      "id" : 3538,
+      "title" : "第九节 走亲访友",
+      "capacity" : 4007
+    }, {
+      "id" : 3539,
+      "title" : "第十节 凌林的饭局",
+      "capacity" : 3292
+    }, {
+      "id" : 3540,
+      "title" : "第十一节 偶遇",
+      "capacity" : 4895
+    }, {
+      "id" : 3541,
+      "title" : "第十二节 再次相聚",
+      "capacity" : 4148
+    }, {
+      "id" : 3542,
+      "title" : "第十三节 送别凌林",
+      "capacity" : 3828
+    }, {
+      "id" : 3543,
+      "title" : "第十四节 返校的舞会",
+      "capacity" : 4386
+    }, {
+      "id" : 3544,
+      "title" : "第十五节 毕业的临近",
+      "capacity" : 3791
+    }, {
+      "id" : 3545,
+      "title" : "第十六节 设计部的一天",
+      "capacity" : 5237
+    }, {
+      "id" : 3546,
+      "title" : "第十七节 告别再见",
+      "capacity" : 3314
+    }, {
+      "id" : 3547,
+      "title" : "第十八节 泽莫的车祸",
+      "capacity" : 5419
+    }, {
+      "id" : 3548,
+      "title" : "第十九节 公司的舞会",
+      "capacity" : 4257
+    }, {
+      "id" : 3549,
+      "title" : "第二十节 和谐的小聚",
+      "capacity" : 3731
+    }, {
+      "id" : 3550,
+      "title" : "第二十一节 陆母的邀请",
+      "capacity" : 3402
+    }, {
+      "id" : 3551,
+      "title" : "第二十二节 茉莉的秘密",
+      "capacity" : 3974
+    }, {
+      "id" : 3552,
+      "title" : "第二十三节 久别重逢",
+      "capacity" : 3218
+    }, {
+      "id" : 3553,
+      "title" : "第二十四节 巧云的陷害",
+      "capacity" : 3729
+    }, {
+      "id" : 3554,
+      "title" : "第二十五节 泽莫的求婚",
+      "capacity" : 3489
+    }, {
+      "id" : 3555,
+      "title" : "第二十六节 凌林回国",
+      "capacity" : 4070
+    }, {
+      "id" : 3556,
+      "title" : "第二十七节 决裂",
+      "capacity" : 3399
+    }, {
+      "id" : 3557,
+      "title" : "第二十八节 假戏",
+      "capacity" : 3231
+    }, {
+      "id" : 3558,
+      "title" : "第二十九节 真做",
+      "capacity" : 3054
+    }, {
+      "id" : 3559,
+      "title" : "第三十节 钱阳的背叛",
+      "capacity" : 3202
+    }, {
+      "id" : 3560,
+      "title" : "第三十一节 不速之客",
+      "capacity" : 3258
+    }, {
+      "id" : 3561,
+      "title" : "第三十二节 再聚首",
+      "capacity" : 3051
+    }, {
+      "id" : 3562,
+      "title" : "第三十三节 辞职",
+      "capacity" : 3845
+    }, {
+      "id" : 3563,
+      "title" : "第三十四节 房子的签定",
+      "capacity" : 3879
+    }, {
+      "id" : 3564,
+      "title" : "第三十五节 工作室的成立",
+      "capacity" : 3234
+    }, {
+      "id" : 3565,
+      "title" : "第三十六节 绚烂",
+      "capacity" : 3457
+    }, {
+      "id" : 3566,
+      "title" : "第三十七节 服装发布会",
+      "capacity" : 4200
+    }, {
+      "id" : 3567,
+      "title" : "第三十八节 受骗",
+      "capacity" : 4791
+    }, {
+      "id" : 3568,
+      "title" : "第三十九节 被告",
+      "capacity" : 9152
+    }, {
+      "id" : 3569,
+      "title" : "第四十节 撤诉",
+      "capacity" : 3234
+    }, {
+      "id" : 3570,
+      "title" : "第四十一节 瑰丽被盗",
+      "capacity" : 4249
+    } ]
+  }
+}

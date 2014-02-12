@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 45,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2792,
+      "name" : "依然在一起",
+      "updateStatus" : 1,
+      "distance" : 2980,
+      "memberId" : 3637
+    }, {
+      "id" : 3019,
+      "name" : "午后恋歌",
+      "updateStatus" : 1,
+      "distance" : 1689,
+      "memberId" : 2823
+    }, {
+      "id" : 2590,
+      "name" : "妖孽男，巫族女",
+      "updateStatus" : 1,
+      "distance" : 9685,
+      "memberId" : 3166
+    }, {
+      "id" : 2675,
+      "name" : "总裁的契约情人！",
+      "updateStatus" : 1,
+      "distance" : 9173,
+      "memberId" : 3751
+    }, {
+      "id" : 3117,
+      "name" : "总裁少女成长记",
+      "updateStatus" : 2,
+      "distance" : 9118,
+      "memberId" : 5845
+    }, {
+      "id" : 2238,
+      "name" : "白发皇后：本宫不倾城",
+      "updateStatus" : 1,
+      "distance" : 5628,
+      "memberId" : 6323
+    }, {
+      "id" : 3673,
+      "name" : "美男在侧:霸气男女",
+      "updateStatus" : 1,
+      "distance" : 5259,
+      "memberId" : 7359
+    }, {
+      "id" : 2430,
+      "name" : "一场梦如痴如醉",
+      "updateStatus" : 1,
+      "distance" : 3410,
+      "memberId" : 4514
+    }, {
+      "id" : 2043,
+      "name" : "彼岸繁花落",
+      "updateStatus" : 1,
+      "distance" : 6088,
+      "memberId" : 5778
+    }, {
+      "id" : 2649,
+      "name" : "女配",
+      "updateStatus" : 1,
+      "distance" : 6844,
+      "memberId" : 2866
+    }, {
+      "id" : 2801,
+      "name" : "女神物语",
+      "updateStatus" : 1,
+      "distance" : 6817,
+      "memberId" : 6154
+    }, {
+      "id" : 3570,
+      "name" : "挚爱傻夫君",
+      "updateStatus" : 1,
+      "distance" : 5609,
+      "memberId" : 3178
+    }, {
+      "id" : 3323,
+      "name" : "灵场王子",
+      "updateStatus" : 1,
+      "distance" : 892,
+      "memberId" : 4863
+    }, {
+      "id" : 2704,
+      "name" : "幻世至秘",
+      "updateStatus" : 1,
+      "distance" : 2040,
+      "memberId" : 3018
+    }, {
+      "id" : 3261,
+      "name" : "腐化了的灿烂年华",
+      "updateStatus" : 1,
+      "distance" : 5513,
+      "memberId" : 8612
+    }, {
+      "id" : 3208,
+      "name" : "冥铭之国",
+      "updateStatus" : 1,
+      "distance" : 1787,
+      "memberId" : 6525
+    }, {
+      "id" : 2884,
+      "name" : "叶落彼岸，爱到荼蘼",
+      "updateStatus" : 1,
+      "distance" : 4689,
+      "memberId" : 2727
+    }, {
+      "id" : 2145,
+      "name" : "江湖乱：白首不负待君归",
+      "updateStatus" : 1,
+      "distance" : 9515,
+      "memberId" : 5878
+    }, {
+      "id" : 2143,
+      "name" : "重生修炼龙祖",
+      "updateStatus" : 2,
+      "distance" : 4545,
+      "memberId" : 1386
+    }, {
+      "id" : 2845,
+      "name" : "东宁",
+      "updateStatus" : 1,
+      "distance" : 3466,
+      "memberId" : 3920
+    } ]
+  }
+}

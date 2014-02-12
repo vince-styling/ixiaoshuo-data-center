@@ -1,0 +1,90 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 20,
+    "list" : [ {
+      "id" : 1094,
+      "title" : "第一章 好友恶整？！！",
+      "capacity" : 6023
+    }, {
+      "id" : 1095,
+      "title" : "第二章 亲自下厨",
+      "capacity" : 5610
+    }, {
+      "id" : 1096,
+      "title" : "第三章 珺朝",
+      "capacity" : 6146
+    }, {
+      "id" : 1097,
+      "title" : "第四章 遇敌",
+      "capacity" : 5540
+    }, {
+      "id" : 1098,
+      "title" : "第五章 受伤！中毒！",
+      "capacity" : 6661
+    }, {
+      "id" : 1099,
+      "title" : "第六章 唐朝之后",
+      "capacity" : 6356
+    }, {
+      "id" : 1100,
+      "title" : "第七章 好吃的烤鱼",
+      "capacity" : 6152
+    }, {
+      "id" : 1101,
+      "title" : "第八章 石逸尧的改变",
+      "capacity" : 6477
+    }, {
+      "id" : 1102,
+      "title" : "第九章 享受贵宾级的待遇",
+      "capacity" : 5532
+    }, {
+      "id" : 1103,
+      "title" : "第十章 莫色色魔 莫恶恶人",
+      "capacity" : 5855
+    }, {
+      "id" : 1104,
+      "title" : "第十一章 被利用",
+      "capacity" : 6122
+    }, {
+      "id" : 1105,
+      "title" : "第十二章 昏迷",
+      "capacity" : 6314
+    }, {
+      "id" : 1106,
+      "title" : "第十三章 这才是开始",
+      "capacity" : 5586
+    }, {
+      "id" : 1107,
+      "title" : "第十四章 命悬一线",
+      "capacity" : 6235
+    }, {
+      "id" : 1108,
+      "title" : "第十五章 一炷香",
+      "capacity" : 6031
+    }, {
+      "id" : 1109,
+      "title" : "第十六章 魔鬼三角",
+      "capacity" : 4976
+    }, {
+      "id" : 1110,
+      "title" : "第十七章 姐妹争吵？",
+      "capacity" : 5968
+    }, {
+      "id" : 1111,
+      "title" : "第十八章 圣旨到！",
+      "capacity" : 5579
+    }, {
+      "id" : 1112,
+      "title" : "第十九章 五妃临门",
+      "capacity" : 5808
+    }, {
+      "id" : 1113,
+      "title" : "第二十章 打扫马厩",
+      "capacity" : 5550
+    } ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1235,
+      "title" : "第一章 诡异的开学（一）",
+      "capacity" : 3336
+    }, {
+      "id" : 1236,
+      "title" : "第二章 诡异的开学（二）",
+      "capacity" : 3870
+    }, {
+      "id" : 1237,
+      "title" : "第三章 诡异的开学（三）",
+      "capacity" : 2824
+    } ]
+  }
+}

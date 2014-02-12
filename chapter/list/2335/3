@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 104,
+    "list" : [ {
+      "id" : 3911,
+      "title" : "第七十三章：巧遇穿越人：",
+      "capacity" : 8868
+    }, {
+      "id" : 3912,
+      "title" : "第七十四章：掌上明珠：（上）：",
+      "capacity" : 9469
+    }, {
+      "id" : 3913,
+      "title" : "第七十四章：掌上明珠：（中）：",
+      "capacity" : 9862
+    }, {
+      "id" : 3914,
+      "title" : "第七十四章：掌上明珠：（下）：",
+      "capacity" : 9521
+    } ]
+  }
+}

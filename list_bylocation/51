@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 51,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2089,
+      "name" : "旷世奇恋",
+      "updateStatus" : 1,
+      "distance" : 9205,
+      "memberId" : 6793
+    }, {
+      "id" : 2789,
+      "name" : "男人心事",
+      "updateStatus" : 1,
+      "distance" : 7455,
+      "memberId" : 7144
+    }, {
+      "id" : 2114,
+      "name" : "未婚妈妈，首席太霸道",
+      "updateStatus" : 2,
+      "distance" : 4252,
+      "memberId" : 8245
+    }, {
+      "id" : 2763,
+      "name" : "医暖天下",
+      "updateStatus" : 1,
+      "distance" : 5098,
+      "memberId" : 5745
+    }, {
+      "id" : 2837,
+      "name" : "临清一梦",
+      "updateStatus" : 1,
+      "distance" : 9275,
+      "memberId" : 7441
+    }, {
+      "id" : 3625,
+      "name" : "另类契约：爱上你，我的星座王子！",
+      "updateStatus" : 1,
+      "distance" : 9735,
+      "memberId" : 8746
+    }, {
+      "id" : 2620,
+      "name" : "CF之黑马突起",
+      "updateStatus" : 1,
+      "distance" : 7024,
+      "memberId" : 8407
+    }, {
+      "id" : 2140,
+      "name" : "傲剑江湖",
+      "updateStatus" : 1,
+      "distance" : 7646,
+      "memberId" : 3618
+    }, {
+      "id" : 3237,
+      "name" : "千面狂妃",
+      "updateStatus" : 1,
+      "distance" : 9726,
+      "memberId" : 1447
+    }, {
+      "id" : 3527,
+      "name" : "审判之众神时代",
+      "updateStatus" : 1,
+      "distance" : 4361,
+      "memberId" : 4878
+    }, {
+      "id" : 3054,
+      "name" : "宫：殇世绝恋",
+      "updateStatus" : 1,
+      "distance" : 3718,
+      "memberId" : 3073
+    }, {
+      "id" : 2454,
+      "name" : "山村女鬼",
+      "updateStatus" : 1,
+      "distance" : 2500,
+      "memberId" : 4532
+    }, {
+      "id" : 2479,
+      "name" : "诡音：楼上的高跟鞋",
+      "updateStatus" : 1,
+      "distance" : 3516,
+      "memberId" : 7135
+    }, {
+      "id" : 2342,
+      "name" : "吸血鬼寻爱",
+      "updateStatus" : 1,
+      "distance" : 5842,
+      "memberId" : 2880
+    }, {
+      "id" : 3182,
+      "name" : "卿卿陌上桑",
+      "updateStatus" : 1,
+      "distance" : 4037,
+      "memberId" : 5988
+    }, {
+      "id" : 2937,
+      "name" : "致命蔷薇FatalRose",
+      "updateStatus" : 1,
+      "distance" : 3646,
+      "memberId" : 7606
+    }, {
+      "id" : 2681,
+      "name" : "巅峰之我为帝王",
+      "updateStatus" : 1,
+      "distance" : 9725,
+      "memberId" : 3323
+    }, {
+      "id" : 3358,
+      "name" : "败家小姐炫情",
+      "updateStatus" : 1,
+      "distance" : 9836,
+      "memberId" : 6025
+    }, {
+      "id" : 3541,
+      "name" : "菁色慕流年",
+      "updateStatus" : 1,
+      "distance" : 1899,
+      "memberId" : 5269
+    }, {
+      "id" : 3041,
+      "name" : "宠色无边：青楼妖妃太难逑",
+      "updateStatus" : 1,
+      "distance" : 1082,
+      "memberId" : 2421
+    } ]
+  }
+}

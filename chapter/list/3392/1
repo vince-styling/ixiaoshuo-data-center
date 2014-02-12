@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 3299,
+      "title" : "第一章 我的快乐，会回来",
+      "capacity" : 5965
+    }, {
+      "id" : 3300,
+      "title" : "第二章 三条警告～",
+      "capacity" : 4084
+    }, {
+      "id" : 3301,
+      "title" : "第三章 约定",
+      "capacity" : 2291
+    } ]
+  }
+}

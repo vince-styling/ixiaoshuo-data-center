@@ -1,0 +1,70 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 15,
+    "list" : [ {
+      "id" : 1857,
+      "title" : "第一章_突袭",
+      "capacity" : 4189
+    }, {
+      "id" : 1858,
+      "title" : "第二章_接受",
+      "capacity" : 4480
+    }, {
+      "id" : 1859,
+      "title" : "第三章_相处",
+      "capacity" : 3997
+    }, {
+      "id" : 1860,
+      "title" : "第四章_达成协议",
+      "capacity" : 4485
+    }, {
+      "id" : 1861,
+      "title" : "第五章_妥协",
+      "capacity" : 3957
+    }, {
+      "id" : 1862,
+      "title" : "第六章_了解",
+      "capacity" : 5001
+    }, {
+      "id" : 1863,
+      "title" : "第七章_糟糕",
+      "capacity" : 4840
+    }, {
+      "id" : 1864,
+      "title" : "第八章_不一样",
+      "capacity" : 6214
+    }, {
+      "id" : 1865,
+      "title" : "第九章_转变",
+      "capacity" : 4056
+    }, {
+      "id" : 1866,
+      "title" : "第十章_感动",
+      "capacity" : 3599
+    }, {
+      "id" : 1867,
+      "title" : "第十一章_失落",
+      "capacity" : 4289
+    }, {
+      "id" : 1868,
+      "title" : "第十二章_相信",
+      "capacity" : 7773
+    }, {
+      "id" : 1869,
+      "title" : "第十三章_离开",
+      "capacity" : 5306
+    }, {
+      "id" : 1870,
+      "title" : "第十四章_婚礼（上）",
+      "capacity" : 4380
+    }, {
+      "id" : 1871,
+      "title" : "第十五章_婚礼（中）",
+      "capacity" : 4051
+    } ]
+  }
+}

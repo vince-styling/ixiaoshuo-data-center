@@ -1,0 +1,134 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 31,
+    "list" : [ {
+      "id" : 1945,
+      "title" : "【一】",
+      "capacity" : 4614
+    }, {
+      "id" : 1946,
+      "title" : "【二】",
+      "capacity" : 10079
+    }, {
+      "id" : 1947,
+      "title" : "【三】",
+      "capacity" : 8080
+    }, {
+      "id" : 1948,
+      "title" : "【四】",
+      "capacity" : 6804
+    }, {
+      "id" : 1949,
+      "title" : "【五】",
+      "capacity" : 6619
+    }, {
+      "id" : 1950,
+      "title" : "【六】",
+      "capacity" : 6838
+    }, {
+      "id" : 1951,
+      "title" : "【七】",
+      "capacity" : 6184
+    }, {
+      "id" : 1952,
+      "title" : "【八】",
+      "capacity" : 6644
+    }, {
+      "id" : 1953,
+      "title" : "【九】",
+      "capacity" : 5700
+    }, {
+      "id" : 1954,
+      "title" : "【十】",
+      "capacity" : 6346
+    }, {
+      "id" : 1955,
+      "title" : "【十一】",
+      "capacity" : 6838
+    }, {
+      "id" : 1956,
+      "title" : "【十二】",
+      "capacity" : 8573
+    }, {
+      "id" : 1957,
+      "title" : "【十三】",
+      "capacity" : 6574
+    }, {
+      "id" : 1958,
+      "title" : "【十四】",
+      "capacity" : 7266
+    }, {
+      "id" : 1959,
+      "title" : "【十五】",
+      "capacity" : 7282
+    }, {
+      "id" : 1960,
+      "title" : "【十六】",
+      "capacity" : 7871
+    }, {
+      "id" : 1961,
+      "title" : "【十七】",
+      "capacity" : 2961
+    }, {
+      "id" : 1962,
+      "title" : "【十八】",
+      "capacity" : 6563
+    }, {
+      "id" : 1963,
+      "title" : "【十九】",
+      "capacity" : 6996
+    }, {
+      "id" : 1964,
+      "title" : "【二十】",
+      "capacity" : 7055
+    }, {
+      "id" : 1965,
+      "title" : "【二十一】",
+      "capacity" : 8043
+    }, {
+      "id" : 1966,
+      "title" : "【二十二】",
+      "capacity" : 9506
+    }, {
+      "id" : 1967,
+      "title" : "【二十三】",
+      "capacity" : 6462
+    }, {
+      "id" : 1968,
+      "title" : "【二十四】",
+      "capacity" : 7689
+    }, {
+      "id" : 1969,
+      "title" : "【二十五】",
+      "capacity" : 6392
+    }, {
+      "id" : 1970,
+      "title" : "【二十六】",
+      "capacity" : 7896
+    }, {
+      "id" : 1971,
+      "title" : "【二十七】",
+      "capacity" : 7622
+    }, {
+      "id" : 1972,
+      "title" : "【二十八】",
+      "capacity" : 9409
+    }, {
+      "id" : 1973,
+      "title" : "【二十九】",
+      "capacity" : 9968
+    }, {
+      "id" : 1974,
+      "title" : "【三十】",
+      "capacity" : 8372
+    }, {
+      "id" : 1975,
+      "title" : "【三十一】",
+      "capacity" : 6970
+    } ]
+  }
+}

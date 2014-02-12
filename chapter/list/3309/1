@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 4330,
+      "title" : "第一章 挨训",
+      "capacity" : 8335
+    }, {
+      "id" : 4331,
+      "title" : "第二章 天使的嘲笑",
+      "capacity" : 7179
+    }, {
+      "id" : 4332,
+      "title" : "第三章 挺身而出",
+      "capacity" : 4514
+    }, {
+      "id" : 4333,
+      "title" : "第四章 神级人物",
+      "capacity" : 16378
+    }, {
+      "id" : 4334,
+      "title" : "第五章 趟事了",
+      "capacity" : 19281
+    }, {
+      "id" : 4335,
+      "title" : "第六章 三张纸",
+      "capacity" : 43017
+    }, {
+      "id" : 4336,
+      "title" : "第七章 合奏",
+      "capacity" : 13016
+    }, {
+      "id" : 4337,
+      "title" : "第八章 格格与小主",
+      "capacity" : 12802
+    }, {
+      "id" : 4338,
+      "title" : "第九章 赴宴",
+      "capacity" : 20074
+    }, {
+      "id" : 4339,
+      "title" : "第十章 医院 上",
+      "capacity" : 18097
+    }, {
+      "id" : 4340,
+      "title" : "第十一章 医院 下",
+      "capacity" : 12073
+    }, {
+      "id" : 4341,
+      "title" : "第十二章 23号座位",
+      "capacity" : 14155
+    }, {
+      "id" : 4342,
+      "title" : "第十三章 老头的出现",
+      "capacity" : 17093
+    }, {
+      "id" : 4343,
+      "title" : "第十四章 追捕阿木",
+      "capacity" : 13991
+    }, {
+      "id" : 4344,
+      "title" : "第十五章 反抗",
+      "capacity" : 7279
+    }, {
+      "id" : 4345,
+      "title" : "第十六章 说服阿木",
+      "capacity" : 8363
+    }, {
+      "id" : 4346,
+      "title" : "第十七章 朵朵，回归有光世界！",
+      "capacity" : 11674
+    }, {
+      "id" : 4347,
+      "title" : "第十八章 （兰溪草原）",
+      "capacity" : 19156
+    }, {
+      "id" : 4348,
+      "title" : "第十九章 报名",
+      "capacity" : 10296
+    } ]
+  }
+}

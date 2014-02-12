@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 1180,
+      "title" : "第一章 世界第一杀手",
+      "capacity" : 9382
+    }, {
+      "id" : 1181,
+      "title" : "第二章 任务，成功！",
+      "capacity" : 11971
+    }, {
+      "id" : 1182,
+      "title" : "第三章 死亡！",
+      "capacity" : 9703
+    }, {
+      "id" : 1183,
+      "title" : "第四章 重生~杀人！",
+      "capacity" : 9295
+    }, {
+      "id" : 1184,
+      "title" : "第五章 新的一天开始了！",
+      "capacity" : 9163
+    }, {
+      "id" : 1185,
+      "title" : "第六章 收买人心",
+      "capacity" : 9161
+    }, {
+      "id" : 1186,
+      "title" : "第七章 墨枫的觉悟",
+      "capacity" : 9680
+    }, {
+      "id" : 1187,
+      "title" : "第八章 收复雷子",
+      "capacity" : 10903
+    }, {
+      "id" : 1188,
+      "title" : "第九章 认下楚阳阳为兄弟",
+      "capacity" : 10266
+    }, {
+      "id" : 1189,
+      "title" : "第十章 高考 上",
+      "capacity" : 4090
+    }, {
+      "id" : 1190,
+      "title" : "第十一章 高考 中",
+      "capacity" : 6997
+    }, {
+      "id" : 1191,
+      "title" : "第十二章 高考 下",
+      "capacity" : 6111
+    }, {
+      "id" : 1192,
+      "title" : "第十三章 挣钱 上",
+      "capacity" : 5983
+    }, {
+      "id" : 1193,
+      "title" : "第十四章 挣钱 下",
+      "capacity" : 6947
+    }, {
+      "id" : 1194,
+      "title" : "第十五章 成绩没了？",
+      "capacity" : 7907
+    }, {
+      "id" : 1195,
+      "title" : "第十六章 老狐狸对战小狐狸！！！",
+      "capacity" : 7476
+    }, {
+      "id" : 1196,
+      "title" : "第十七章 如果呢？",
+      "capacity" : 6425
+    }, {
+      "id" : 1197,
+      "title" : "第十八章 瞎操心楚妈妈",
+      "capacity" : 6939
+    }, {
+      "id" : 1198,
+      "title" : "第十九章 ‘融洽’的晚餐",
+      "capacity" : 7254
+    } ]
+  }
+}

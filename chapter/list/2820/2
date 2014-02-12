@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 5024,
+      "title" : "046 问君心事几人知",
+      "capacity" : 3148
+    }, {
+      "id" : 5025,
+      "title" : "047 从此萧郎是路人",
+      "capacity" : 3071
+    }, {
+      "id" : 5026,
+      "title" : "048 意外真相",
+      "capacity" : 3175
+    } ]
+  }
+}

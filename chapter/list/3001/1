@@ -1,0 +1,122 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 28,
+    "list" : [ {
+      "id" : 4911,
+      "title" : "第一章 赵明凡与独孤晨宇",
+      "capacity" : 6025
+    }, {
+      "id" : 4912,
+      "title" : "第二章 宋家有女",
+      "capacity" : 2439
+    }, {
+      "id" : 4913,
+      "title" : "第三章 宋家太子妃",
+      "capacity" : 3658
+    }, {
+      "id" : 4914,
+      "title" : "第四章 无妄之灾",
+      "capacity" : 4648
+    }, {
+      "id" : 4915,
+      "title" : "第五章 命运的选择",
+      "capacity" : 4249
+    }, {
+      "id" : 4916,
+      "title" : "第六章 少年进化论",
+      "capacity" : 3621
+    }, {
+      "id" : 4917,
+      "title" : "第七章 皇后娘娘",
+      "capacity" : 6686
+    }, {
+      "id" : 4918,
+      "title" : "言灵与晨曦",
+      "capacity" : 5262
+    }, {
+      "id" : 4919,
+      "title" : "第九章 势如破竹",
+      "capacity" : 4490
+    }, {
+      "id" : 4920,
+      "title" : "第十章 初见",
+      "capacity" : 4248
+    }, {
+      "id" : 4921,
+      "title" : "第十一章 皇后威仪",
+      "capacity" : 5972
+    }, {
+      "id" : 4922,
+      "title" : "第十二章 关于去留",
+      "capacity" : 8230
+    }, {
+      "id" : 4923,
+      "title" : "第十三章 结局",
+      "capacity" : 6749
+    }, {
+      "id" : 4924,
+      "title" : "第十四章 散步",
+      "capacity" : 6210
+    }, {
+      "id" : 4925,
+      "title" : "第十五章 宋家变化",
+      "capacity" : 8225
+    }, {
+      "id" : 4926,
+      "title" : "第十六章 花嫁",
+      "capacity" : 6220
+    }, {
+      "id" : 4927,
+      "title" : "第十七章 夜谈",
+      "capacity" : 4347
+    }, {
+      "id" : 4928,
+      "title" : "第十八章 寿辰",
+      "capacity" : 9510
+    }, {
+      "id" : 4929,
+      "title" : "第十九章 寿宴",
+      "capacity" : 9164
+    }, {
+      "id" : 4930,
+      "title" : "第二十章 秀女入宫",
+      "capacity" : 7869
+    }, {
+      "id" : 4931,
+      "title" : "第二十一章 独孤明德",
+      "capacity" : 7321
+    }, {
+      "id" : 4932,
+      "title" : "第二十二章 母子",
+      "capacity" : 4820
+    }, {
+      "id" : 4933,
+      "title" : "第二十三章 谈话",
+      "capacity" : 5715
+    }, {
+      "id" : 4934,
+      "title" : "第二十四章 选择",
+      "capacity" : 5097
+    }, {
+      "id" : 4935,
+      "title" : "第二十五章 出宫",
+      "capacity" : 5738
+    }, {
+      "id" : 4936,
+      "title" : "第二十六章 住持",
+      "capacity" : 4183
+    }, {
+      "id" : 4937,
+      "title" : "第二十七章 刺客",
+      "capacity" : 7260
+    }, {
+      "id" : 4938,
+      "title" : "第二十八章 怀抱",
+      "capacity" : 4035
+    } ]
+  }
+}

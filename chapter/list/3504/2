@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 56,
+    "list" : [ {
+      "id" : 1381,
+      "title" : "成功",
+      "capacity" : 3621
+    }, {
+      "id" : 1382,
+      "title" : "他的笑",
+      "capacity" : 3092
+    }, {
+      "id" : 1383,
+      "title" : "战争开始",
+      "capacity" : 2615
+    }, {
+      "id" : 1384,
+      "title" : "血泪宫",
+      "capacity" : 2202
+    }, {
+      "id" : 1385,
+      "title" : "毁灭",
+      "capacity" : 3241
+    }, {
+      "id" : 1386,
+      "title" : "离开",
+      "capacity" : 3428
+    } ]
+  }
+}

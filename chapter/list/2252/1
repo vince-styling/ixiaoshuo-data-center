@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 51,
+    "list" : [ {
+      "id" : 3916,
+      "title" : "1、神秘老板（已修）",
+      "capacity" : 7361
+    }, {
+      "id" : 3917,
+      "title" : "2.缘由（已修）",
+      "capacity" : 5632
+    }, {
+      "id" : 3918,
+      "title" : "3.芭蕾【上】（已修）",
+      "capacity" : 4999
+    }, {
+      "id" : 3919,
+      "title" : "4.芭蕾【下】（已修）",
+      "capacity" : 6026
+    }, {
+      "id" : 3920,
+      "title" : "5.三日后，进府",
+      "capacity" : 7285
+    }, {
+      "id" : 3921,
+      "title" : "6.我也不是好惹的",
+      "capacity" : 6373
+    }, {
+      "id" : 3922,
+      "title" : "7.又来一个",
+      "capacity" : 6292
+    }, {
+      "id" : 3923,
+      "title" : "8.天降美女",
+      "capacity" : 5997
+    }, {
+      "id" : 3924,
+      "title" : "9.进门",
+      "capacity" : 4769
+    }, {
+      "id" : 3925,
+      "title" : "10.小插曲",
+      "capacity" : 3303
+    }, {
+      "id" : 3926,
+      "title" : "11.“惊为天人”",
+      "capacity" : 5965
+    }, {
+      "id" : 3927,
+      "title" : "12.渡湖",
+      "capacity" : 3185
+    }, {
+      "id" : 3928,
+      "title" : "13.惊人发现",
+      "capacity" : 6316
+    }, {
+      "id" : 3929,
+      "title" : "14.叙语被加戏",
+      "capacity" : 3992
+    }, {
+      "id" : 3930,
+      "title" : "十五章",
+      "capacity" : 9596
+    }, {
+      "id" : 3931,
+      "title" : "十六章",
+      "capacity" : 5312
+    }, {
+      "id" : 3932,
+      "title" : "十七章",
+      "capacity" : 5289
+    }, {
+      "id" : 3933,
+      "title" : "十八章",
+      "capacity" : 3793
+    }, {
+      "id" : 3934,
+      "title" : "十九章",
+      "capacity" : 3867
+    }, {
+      "id" : 3935,
+      "title" : "二十章",
+      "capacity" : 7237
+    }, {
+      "id" : 3936,
+      "title" : "二十一章",
+      "capacity" : 11385
+    }, {
+      "id" : 3937,
+      "title" : "二十二章",
+      "capacity" : 7407
+    }, {
+      "id" : 3938,
+      "title" : "二十三章",
+      "capacity" : 11100
+    }, {
+      "id" : 3939,
+      "title" : "二十四章",
+      "capacity" : 3136
+    }, {
+      "id" : 3940,
+      "title" : "二十五章",
+      "capacity" : 7458
+    }, {
+      "id" : 3941,
+      "title" : "二十六章",
+      "capacity" : 10001
+    }, {
+      "id" : 3942,
+      "title" : "二十七章",
+      "capacity" : 9764
+    }, {
+      "id" : 3943,
+      "title" : "二十八章",
+      "capacity" : 8183
+    }, {
+      "id" : 3944,
+      "title" : "二十九章",
+      "capacity" : 8118
+    }, {
+      "id" : 3945,
+      "title" : "三十章",
+      "capacity" : 8478
+    }, {
+      "id" : 3946,
+      "title" : "三十一章",
+      "capacity" : 8197
+    }, {
+      "id" : 3947,
+      "title" : "三十二章",
+      "capacity" : 15151
+    }, {
+      "id" : 3948,
+      "title" : "三十三章",
+      "capacity" : 8975
+    }, {
+      "id" : 3949,
+      "title" : "三十四章",
+      "capacity" : 8882
+    }, {
+      "id" : 3950,
+      "title" : "三十五章",
+      "capacity" : 8881
+    }, {
+      "id" : 3951,
+      "title" : "三十六章",
+      "capacity" : 9195
+    }, {
+      "id" : 3952,
+      "title" : "三十七章",
+      "capacity" : 9633
+    }, {
+      "id" : 3953,
+      "title" : "三十九章",
+      "capacity" : 9502
+    }, {
+      "id" : 3954,
+      "title" : "三十九章",
+      "capacity" : 9929
+    }, {
+      "id" : 3955,
+      "title" : "四十章",
+      "capacity" : 9586
+    }, {
+      "id" : 3956,
+      "title" : "四十一章",
+      "capacity" : 9413
+    }, {
+      "id" : 3957,
+      "title" : "四十二章",
+      "capacity" : 9339
+    }, {
+      "id" : 3958,
+      "title" : "四十三章",
+      "capacity" : 9176
+    }, {
+      "id" : 3959,
+      "title" : "四十四章",
+      "capacity" : 9139
+    }, {
+      "id" : 3960,
+      "title" : "四十五章",
+      "capacity" : 9084
+    }, {
+      "id" : 3961,
+      "title" : "四十六章",
+      "capacity" : 9069
+    }, {
+      "id" : 3962,
+      "title" : "四十七 饺子宴",
+      "capacity" : 9678
+    }, {
+      "id" : 3963,
+      "title" : "四十八章 夜会",
+      "capacity" : 9656
+    }, {
+      "id" : 3964,
+      "title" : "四十九章 针对？",
+      "capacity" : 9195
+    }, {
+      "id" : 3965,
+      "title" : "五十章 终于摊牌了！",
+      "capacity" : 9396
+    } ]
+  }
+}

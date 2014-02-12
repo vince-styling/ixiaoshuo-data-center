@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 44,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2452,
+      "name" : "死亡照相机：末日风暴——血舞",
+      "summary" : "在这个照相机里，储存着大量的鬼魂，埋没在鬼屋里……同时还有一叠跟相机有关的【领者相册】。现在，这个相",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_13443.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8736306,
+      "lastUpdateTime" : "2013-12-09 01:15:46"
+    }, {
+      "id" : 3618,
+      "name" : "蝶恋花：化蝶寻君",
+      "summary" : "从目睹自己的亲生父亲为了利益，不惜拿了母亲的性命来交换，她乔雯儿心中对爱便不再向往。以别人的身体重生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_5027.jpg",
+      "updateStatus" : 1,
+      "capacity" : 556488,
+      "lastUpdateTime" : "2013-12-09 01:09:55"
+    }, {
+      "id" : 3383,
+      "name" : "延续爱",
+      "summary" : "不管你在哪个角落，都希望你是跟相爱的人在一起；不管遇到什么样的挫折，都希望你能扛过去……总有一天你会",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47763.jpg",
+      "updateStatus" : 1,
+      "capacity" : 153656,
+      "lastUpdateTime" : "2013-12-09 01:04:13"
+    }, {
+      "id" : 2356,
+      "name" : "霡霂云飒",
+      "summary" : "玄冥雨神跟妖界之主的恋情好不容易被承认，却因为人间的灾难而不得不分开。最后，雨神承诺自己会重生……三",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44067.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1660828,
+      "lastUpdateTime" : "2013-12-09 00:47:36"
+    }, {
+      "id" : 2763,
+      "name" : "医暖天下",
+      "summary" : "凤凰涅盘，浴火重生......遗失了五岁之前所有的记忆，她成了养女。为了姐姐，她外出学医多年。性情温",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45970.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2193731,
+      "lastUpdateTime" : "2013-12-09 00:00:24"
+    }, {
+      "id" : 3551,
+      "name" : "爱你或许只是兴起",
+      "summary" : "他们是公认的青梅竹马，他们是公认的最不配，其实他们只是最陌生的邻居。他们也许是花了四年时间相恋，也许",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44661.jpg",
+      "updateStatus" : 1,
+      "capacity" : 239562,
+      "lastUpdateTime" : "2013-12-08 23:47:32"
+    }, {
+      "id" : 3426,
+      "name" : "浪子安归",
+      "summary" : "民国初期，新旧事物更替，世道乱，百姓苦。黎晋安，一个生活在南方的一个小村庄里的孤儿，一个平凡的护院，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22062.jpg",
+      "updateStatus" : 1,
+      "capacity" : 457504,
+      "lastUpdateTime" : "2013-12-08 23:29:06"
+    }, {
+      "id" : 3096,
+      "name" : "绝不放手",
+      "summary" : "衣带渐宽终不悔，为伊消得人憔悴。初次见面，他一身侠骨，带着光明，带着笑意，就像一束光问也不问的闯入她",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 10507,
+      "lastUpdateTime" : "2013-12-08 23:09:43"
+    }, {
+      "id" : 3649,
+      "name" : "九婴传二之魔天记",
+      "summary" : "此书为九婴传第二部,讲述了《九婴诀》的由来和其是如何的逆天。",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 178027,
+      "lastUpdateTime" : "2013-12-08 22:53:12"
+    }, {
+      "id" : 3588,
+      "name" : "红尘笑",
+      "summary" : "一个拥有优越生活的富家千金，每日过着无忧无虑的生活，可是，一场突来的灾难把一切都打断了，远离家乡，没",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45843.jpg",
+      "updateStatus" : 1,
+      "capacity" : 571267,
+      "lastUpdateTime" : "2013-12-08 22:42:56"
+    }, {
+      "id" : 2066,
+      "name" : "祸爱三生：嗜血夺天下",
+      "summary" : "他是睥睨天下的冷酷世子，爱情于他而言不过一颗棋子，需之则用，用之则弃，毫不可惜。她是惨遭灭门的相国千",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16467.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3587104,
+      "lastUpdateTime" : "2013-12-08 22:38:32"
+    }, {
+      "id" : 2874,
+      "name" : "逆天之女：冷清太子的专属温柔",
+      "summary" : "她，一心专研中医，有父母无父母没多大区别。她，三岁，失去母亲，从此，无人问津，庶母抢走原本属于她的一",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47706.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2729053,
+      "lastUpdateTime" : "2013-12-08 21:49:17"
+    }, {
+      "id" : 3624,
+      "name" : "陌寻",
+      "summary" : "第一世,苏子清爱苏陌,苏陌却在苏子清死后才开始心疼第二世,苏子清心死了,苏陌却爱上了苏子清第三世,苏",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22036.jpg",
+      "updateStatus" : 1,
+      "capacity" : 173829,
+      "lastUpdateTime" : "2013-12-08 21:30:16"
+    }, {
+      "id" : 3146,
+      "name" : "陌路相思",
+      "summary" : "一个是倾尽生命去爱恋的男人，而一个则是暗夜里的掠夺者，造化弄人，宋子萱又该如何选择？",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43044.jpg",
+      "updateStatus" : 1,
+      "capacity" : 296334,
+      "lastUpdateTime" : "2013-12-08 21:28:01"
+    }, {
+      "id" : 2463,
+      "name" : "兼职的侦探",
+      "summary" : "有一种职业叫part-timejob。有一种侦探叫被迫当侦探。有一种网友叫永远不靠谱。所以，也就有了",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47707.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4297805,
+      "lastUpdateTime" : "2013-12-08 20:57:57"
+    }, {
+      "id" : 2050,
+      "name" : "那些纯纯的爱恋",
+      "summary" : "这是小宝青春系列的第一部，校园版。雪儿和寒的故事，傻傻纯纯的爱，你是否会想起曾经的你，又或是现在的你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43091.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4259501,
+      "lastUpdateTime" : "2013-12-08 20:42:07"
+    }, {
+      "id" : 2595,
+      "name" : "素问天下",
+      "summary" : "她是名冠天下的右相嫡女，美人如斯，妙手仁心。他却是庶出的文弱皇子，于深宫之中受尽轻辱依然傲骨天成。嫁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47204.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3038174,
+      "lastUpdateTime" : "2013-12-08 19:57:23"
+    }, {
+      "id" : 2058,
+      "name" : "护花三公主：蛊惑美男心",
+      "summary" : "唠叨好色的三公主，冷峻坚毅的忠心侍卫，外表温润内心暴躁的真才子隐神医，三个人的江湖游，各色美人轮番登",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14018.jpg",
+      "updateStatus" : 2,
+      "capacity" : 5575195,
+      "lastUpdateTime" : "2013-12-08 18:58:03"
+    }, {
+      "id" : 2593,
+      "name" : "凤御圣月洛",
+      "summary" : "【简介】她，凌家三小姐，废柴一个，受尽欺辱。她，凌幕雪，一个二十一世纪的天才神级偷盗高手，一时兴起偷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43069.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9303288,
+      "lastUpdateTime" : "2013-12-08 18:28:51"
+    }, {
+      "id" : 3010,
+      "name" : "冤家，咱布梨布吃",
+      "summary" : "某天，我们亲爱的凌大明星感冒了！身为助理的苏小黎苏同志义不容辞应该照顾好大明星！所以就有了这段对话：",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47603.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9625493,
+      "lastUpdateTime" : "2013-12-08 18:18:58"
+    } ]
+  }
+}

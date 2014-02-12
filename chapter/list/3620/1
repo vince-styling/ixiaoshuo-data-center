@@ -1,0 +1,186 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 44,
+    "list" : [ {
+      "id" : 2004,
+      "title" : "一世荣宠1",
+      "capacity" : 5610
+    }, {
+      "id" : 2005,
+      "title" : "一世荣宠2",
+      "capacity" : 6218
+    }, {
+      "id" : 2006,
+      "title" : "一世荣宠3",
+      "capacity" : 5459
+    }, {
+      "id" : 2007,
+      "title" : "承袭恩宠1",
+      "capacity" : 4647
+    }, {
+      "id" : 2008,
+      "title" : "承袭恩宠2",
+      "capacity" : 6608
+    }, {
+      "id" : 2009,
+      "title" : "初入宫闱1",
+      "capacity" : 6617
+    }, {
+      "id" : 2010,
+      "title" : "初入宫闱2",
+      "capacity" : 4877
+    }, {
+      "id" : 2011,
+      "title" : "初入宫闱3",
+      "capacity" : 4954
+    }, {
+      "id" : 2012,
+      "title" : "初入宫闱4",
+      "capacity" : 4755
+    }, {
+      "id" : 2013,
+      "title" : "宫中琐事1",
+      "capacity" : 5854
+    }, {
+      "id" : 2014,
+      "title" : "宫中琐事2",
+      "capacity" : 4621
+    }, {
+      "id" : 2015,
+      "title" : "宫中琐事3",
+      "capacity" : 7287
+    }, {
+      "id" : 2016,
+      "title" : "父慈子孝1",
+      "capacity" : 6933
+    }, {
+      "id" : 2017,
+      "title" : "父慈子孝2",
+      "capacity" : 5160
+    }, {
+      "id" : 2018,
+      "title" : "父慈子孝3",
+      "capacity" : 5228
+    }, {
+      "id" : 2019,
+      "title" : "皇子驾到1",
+      "capacity" : 6511
+    }, {
+      "id" : 2020,
+      "title" : "皇子驾到2",
+      "capacity" : 7195
+    }, {
+      "id" : 2021,
+      "title" : "宫不离斗1",
+      "capacity" : 6399
+    }, {
+      "id" : 2022,
+      "title" : "宫不离斗2",
+      "capacity" : 9098
+    }, {
+      "id" : 2023,
+      "title" : "日久生情1",
+      "capacity" : 9155
+    }, {
+      "id" : 2024,
+      "title" : "日久生情2",
+      "capacity" : 10680
+    }, {
+      "id" : 2025,
+      "title" : "日久生情3",
+      "capacity" : 6653
+    }, {
+      "id" : 2026,
+      "title" : "龙争凤斗1",
+      "capacity" : 7532
+    }, {
+      "id" : 2027,
+      "title" : "龙争风斗2",
+      "capacity" : 5975
+    }, {
+      "id" : 2028,
+      "title" : "龙争风斗3",
+      "capacity" : 4195
+    }, {
+      "id" : 2029,
+      "title" : "横来孕事1",
+      "capacity" : 6489
+    }, {
+      "id" : 2030,
+      "title" : "横来孕事2",
+      "capacity" : 6617
+    }, {
+      "id" : 2031,
+      "title" : "侬本多情1",
+      "capacity" : 7566
+    }, {
+      "id" : 2032,
+      "title" : "侬本多情2",
+      "capacity" : 5401
+    }, {
+      "id" : 2033,
+      "title" : "除夕赐婚1",
+      "capacity" : 7201
+    }, {
+      "id" : 2034,
+      "title" : "除夕赐婚2",
+      "capacity" : 6649
+    }, {
+      "id" : 2035,
+      "title" : "除夕赐婚3",
+      "capacity" : 3304
+    }, {
+      "id" : 2036,
+      "title" : "大婚将近1",
+      "capacity" : 3834
+    }, {
+      "id" : 2037,
+      "title" : "大婚之夜1",
+      "capacity" : 6189
+    }, {
+      "id" : 2038,
+      "title" : "大婚之夜2",
+      "capacity" : 5168
+    }, {
+      "id" : 2039,
+      "title" : "初为人妇1",
+      "capacity" : 5945
+    }, {
+      "id" : 2040,
+      "title" : "潇湘赴宴1",
+      "capacity" : 4945
+    }, {
+      "id" : 2041,
+      "title" : "男欢女爱1",
+      "capacity" : 5454
+    }, {
+      "id" : 2042,
+      "title" : "携夫省亲1",
+      "capacity" : 5185
+    }, {
+      "id" : 2043,
+      "title" : "闺中密话1",
+      "capacity" : 4604
+    }, {
+      "id" : 2044,
+      "title" : "凤榻陪驾1",
+      "capacity" : 7301
+    }, {
+      "id" : 2045,
+      "title" : "凤驾陪榻2",
+      "capacity" : 7306
+    }, {
+      "id" : 2046,
+      "title" : "凤驾陪榻3",
+      "capacity" : 6664
+    }, {
+      "id" : 2047,
+      "title" : "凤驾陪榻4",
+      "capacity" : 6562
+    } ]
+  }
+}

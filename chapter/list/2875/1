@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 3794,
+      "title" : "第一章：学校巧遇",
+      "capacity" : 3088
+    }, {
+      "id" : 3795,
+      "title" : "第二章：孤男寡女共处一室（一）",
+      "capacity" : 2994
+    }, {
+      "id" : 3796,
+      "title" : "第三章：孤男寡女共处一室（二）",
+      "capacity" : 2979
+    }, {
+      "id" : 3797,
+      "title" : "第四章：被骂狐狸精",
+      "capacity" : 2970
+    }, {
+      "id" : 3798,
+      "title" : "第五章：我喜欢你",
+      "capacity" : 3685
+    }, {
+      "id" : 3799,
+      "title" : "带女生回城堡",
+      "capacity" : 3304
+    }, {
+      "id" : 3800,
+      "title" : "第七章：老婆，我要吻",
+      "capacity" : 3595
+    }, {
+      "id" : 3801,
+      "title" : "沐祭陌发飙",
+      "capacity" : 3030
+    }, {
+      "id" : 3802,
+      "title" : "第九章：带男友回家见麻麻",
+      "capacity" : 3784
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 59,
+    "list" : [ {
+      "id" : 2513,
+      "title" : "江湖逢（柒）",
+      "capacity" : 9213
+    }, {
+      "id" : 2514,
+      "title" : "江湖逢（捌）",
+      "capacity" : 10426
+    }, {
+      "id" : 2515,
+      "title" : "江湖逢（玖）",
+      "capacity" : 9390
+    }, {
+      "id" : 2516,
+      "title" : "江湖逢（拾）",
+      "capacity" : 9174
+    }, {
+      "id" : 2517,
+      "title" : "江湖逢（拾壹）",
+      "capacity" : 9289
+    }, {
+      "id" : 2518,
+      "title" : "空窗雨（壹）",
+      "capacity" : 9420
+    }, {
+      "id" : 2519,
+      "title" : "空窗雨（贰）",
+      "capacity" : 9074
+    }, {
+      "id" : 2520,
+      "title" : "空窗雨（四）",
+      "capacity" : 72
+    }, {
+      "id" : 2521,
+      "title" : "空窗雨（叁）",
+      "capacity" : 72
+    } ]
+  }
+}

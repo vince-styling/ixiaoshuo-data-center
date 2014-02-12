@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 2503,
+      "title" : "第一章，舍大保小",
+      "capacity" : 7190
+    }, {
+      "id" : 2504,
+      "title" : "第二章，命丧栖凤",
+      "capacity" : 5903
+    }, {
+      "id" : 2505,
+      "title" : "第三章，侯府小姐",
+      "capacity" : 6426
+    }, {
+      "id" : 2506,
+      "title" : "第四章，温馨一家",
+      "capacity" : 4202
+    }, {
+      "id" : 2507,
+      "title" : "第五章，右相千金",
+      "capacity" : 5346
+    }, {
+      "id" : 2508,
+      "title" : "第六章，呵护一生",
+      "capacity" : 3841
+    }, {
+      "id" : 2509,
+      "title" : "第七章，皇子满月",
+      "capacity" : 5416
+    }, {
+      "id" : 2510,
+      "title" : "第八章，初次交锋",
+      "capacity" : 5843
+    }, {
+      "id" : 2511,
+      "title" : "第九章，母子同心",
+      "capacity" : 5189
+    } ]
+  }
+}

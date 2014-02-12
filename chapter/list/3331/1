@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 1152,
+      "title" : "第一章 初次邂逅",
+      "capacity" : 7292
+    }, {
+      "id" : 1153,
+      "title" : "第二章 林刚对陈思颖一见钟情 意外撞车再次相遇",
+      "capacity" : 3356
+    }, {
+      "id" : 1154,
+      "title" : "第三章 有惊无险 一航思颖初相遇",
+      "capacity" : 3933
+    }, {
+      "id" : 1155,
+      "title" : "第四章 因祸得福",
+      "capacity" : 4852
+    }, {
+      "id" : 1156,
+      "title" : "第五章 出院归队",
+      "capacity" : 3579
+    }, {
+      "id" : 1157,
+      "title" : "第六章 战友支招",
+      "capacity" : 3847
+    }, {
+      "id" : 1158,
+      "title" : "第七章 深夜跳墙",
+      "capacity" : 4149
+    }, {
+      "id" : 1159,
+      "title" : "第八章 英雄救美",
+      "capacity" : 3211
+    }, {
+      "id" : 1160,
+      "title" : "第九章 一航得思颖输血",
+      "capacity" : 3084
+    }, {
+      "id" : 1161,
+      "title" : "第十章 你为何及时出现",
+      "capacity" : 3242
+    }, {
+      "id" : 1162,
+      "title" : "第十一章 林刚请假",
+      "capacity" : 3041
+    }, {
+      "id" : 1163,
+      "title" : "第十二章 投掷硬币 1",
+      "capacity" : 3109
+    }, {
+      "id" : 1164,
+      "title" : "第十三章 投掷硬币2",
+      "capacity" : 3096
+    }, {
+      "id" : 1165,
+      "title" : "第十四章 借衣服",
+      "capacity" : 3315
+    }, {
+      "id" : 1166,
+      "title" : "第十五章 少昂被‘罚’",
+      "capacity" : 3086
+    }, {
+      "id" : 1167,
+      "title" : "第十六章 惊艳出场 1",
+      "capacity" : 3299
+    }, {
+      "id" : 1168,
+      "title" : "第十七章 惊艳出场2",
+      "capacity" : 3031
+    }, {
+      "id" : 1169,
+      "title" : "第十八章 宿舍议论",
+      "capacity" : 3389
+    }, {
+      "id" : 1170,
+      "title" : "第十九章 酒吧巧遇",
+      "capacity" : 3696
+    } ]
+  }
+}

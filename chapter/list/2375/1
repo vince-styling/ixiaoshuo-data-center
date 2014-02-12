@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 1959,
+      "title" : "神经质的穿越",
+      "capacity" : 4370
+    }, {
+      "id" : 1960,
+      "title" : "出林子",
+      "capacity" : 4022
+    }, {
+      "id" : 1961,
+      "title" : "买个店面开酒楼",
+      "capacity" : 4195
+    }, {
+      "id" : 1962,
+      "title" : "改建计划",
+      "capacity" : 6506
+    }, {
+      "id" : 1963,
+      "title" : "招人",
+      "capacity" : 6336
+    }, {
+      "id" : 1964,
+      "title" : "夏旭初的小曲计划",
+      "capacity" : 4394
+    }, {
+      "id" : 1965,
+      "title" : "人不可貌相，菜可貌相",
+      "capacity" : 5022
+    }, {
+      "id" : 1966,
+      "title" : "训练",
+      "capacity" : 6302
+    }, {
+      "id" : 1967,
+      "title" : "平香楼，开张",
+      "capacity" : 3998
+    }, {
+      "id" : 1968,
+      "title" : "再遇王爷",
+      "capacity" : 4191
+    }, {
+      "id" : 1969,
+      "title" : "王爷，禁止耍流氓！",
+      "capacity" : 3737
+    } ]
+  }
+}

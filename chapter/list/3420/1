@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 1648,
+      "title" : "第一话 落花流水中，年华也匆匆",
+      "capacity" : 13325
+    }, {
+      "id" : 1649,
+      "title" : "第二话 回首恍若梦，沉浮付笑中",
+      "capacity" : 17338
+    }, {
+      "id" : 1650,
+      "title" : "第三话 轻叹心微澜，应念春惘然",
+      "capacity" : 15834
+    }, {
+      "id" : 1651,
+      "title" : "第四话 临水照花谢，此恨谁能解",
+      "capacity" : 12812
+    }, {
+      "id" : 1652,
+      "title" : "第五话 不朽之梦淡，殊途同归难",
+      "capacity" : 12481
+    }, {
+      "id" : 1653,
+      "title" : "第六话 人生三千事，淡然一笑间",
+      "capacity" : 15679
+    } ]
+  }
+}

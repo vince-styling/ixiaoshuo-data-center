@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 10,
+    "list" : [ {
+      "id" : 4661,
+      "title" : "圈 一",
+      "capacity" : 9589
+    }, {
+      "id" : 4662,
+      "title" : "圈 二",
+      "capacity" : 9778
+    }, {
+      "id" : 4663,
+      "title" : "圈 三",
+      "capacity" : 9822
+    }, {
+      "id" : 4664,
+      "title" : "圈 四",
+      "capacity" : 9705
+    }, {
+      "id" : 4665,
+      "title" : "圈 五",
+      "capacity" : 9311
+    }, {
+      "id" : 4666,
+      "title" : "圈 六",
+      "capacity" : 10868
+    }, {
+      "id" : 4667,
+      "title" : "圈 七",
+      "capacity" : 10455
+    }, {
+      "id" : 4668,
+      "title" : "圈 八",
+      "capacity" : 9634
+    }, {
+      "id" : 4669,
+      "title" : "圈 九",
+      "capacity" : 10570
+    }, {
+      "id" : 4670,
+      "title" : "圈 十",
+      "capacity" : 9471
+    } ]
+  }
+}

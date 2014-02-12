@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 39,
+    "totalPageCount" : 78,
+    "totalItemCount" : 1542,
+    "list" : [ {
+      "id" : 2813,
+      "name" : "夕雾",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43141.jpg",
+      "summary" : "或许每个人的青春岁月都曾有过一场美好而脆弱的幻梦，年少的梦啊，最终会有醒来的那一刻，最终还是要离开要",
+      "updateStatus" : 1,
+      "capacity" : 7125571,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3384,
+      "name" : "若，我们的结局注定是悲剧",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44396.jpg",
+      "summary" : "只有人走出来的美丽，没有等出来的辉煌。——题记【本文于2013-06-2318:52首发百度柯南吧】",
+      "updateStatus" : 1,
+      "capacity" : 1005117,
+      "catName" : "同人其他"
+    }, {
+      "id" : 2457,
+      "name" : "一碗村",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22306.jpg",
+      "summary" : "在内蒙古乌兰布和大沙漠中，有一个灰土土的村落叫《一碗村》，那是我童年的所在。村里发生了许多奇怪的故事",
+      "updateStatus" : 1,
+      "capacity" : 1547228,
+      "catName" : "灵异悬疑"
+    }, {
+      "id" : 2534,
+      "name" : "墨劫",
+      "coverUrl" : "",
+      "summary" : "她，乃上古灵族墨族继承人，如一朵半开的幼莲，亭亭玉立于水中，美丽不可方物。当一朵谁知莲心的炽热，足以",
+      "updateStatus" : 1,
+      "capacity" : 9886228,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2882,
+      "name" : "那些年错过的爱情",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47212.jpg",
+      "summary" : "那些年我们错过的爱情，当你爱上了的时候，一切都将挽回不了。曾经在你面前的幸福，你亲手毁灭，现在知道珍",
+      "updateStatus" : 1,
+      "capacity" : 2234680,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3168,
+      "name" : "我在你的记忆中走过",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44696.jpg",
+      "summary" : "或许每个人心里都有一个童话，期望着自己成为童话的主角。可是，不是每个人都可以抱着这个梦走下去。一个人",
+      "updateStatus" : 1,
+      "capacity" : 992074,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3376,
+      "name" : "你是古人哎",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41375.jpg",
+      "summary" : "这个小子貌似和她生活的不是在同一个维度啊！这么多奇奇怪怪的背后，难道她遇上的，真是传说中的古代人活化",
+      "updateStatus" : 1,
+      "capacity" : 549687,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2861,
+      "name" : "妖孽殿下：魅惑冷情阁主",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18858.jpg",
+      "summary" : "【叙述版】凤离城内有店名往生往生阁，忆往生，迎来送往，人鬼妖不忌店主曰彼岸，彼岸花花开彼岸，奈何桥边",
+      "updateStatus" : 1,
+      "capacity" : 6948482,
+      "catName" : "古代言情"
+    }, {
+      "id" : 2225,
+      "name" : "梵卓的白色蔷薇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43121.jpg",
+      "summary" : "我的羽翼是雪一样的纯白我的眼眸是宝石般的浅蓝我的长发是恋人之血染就的深红守望者，守望着这个交错真实与",
+      "updateStatus" : 1,
+      "capacity" : 1964660,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2931,
+      "name" : "蝶风之交错的缘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44180.jpg",
+      "summary" : "一千年前，她只是一只弱小的凤蝶，因被他不经意间所佑，便一直苦苦找寻他的下落，他却毫无所踪。一千年后，",
+      "updateStatus" : 1,
+      "capacity" : 3227387,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 3648,
+      "name" : "完美自杀",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44833.jpg",
+      "summary" : "“我爱的人自杀了，就在浴室里，我不能接受，请相信，我简直痛彻心扉。”**自杀抑或他杀，答案就在这个房",
+      "updateStatus" : 1,
+      "capacity" : 381975,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3388,
+      "name" : "栩你一世言如歌",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45048.jpg",
+      "summary" : "他是江湖第一帮派帮主，她是第二帮派继承人。一场跨越国界的联姻，却让本该敌对的他们结为夫妻。命运坎坷，",
+      "updateStatus" : 1,
+      "capacity" : 157783,
+      "catName" : "古代言情"
+    }, {
+      "id" : 2982,
+      "name" : "逃之妖妖",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19092.jpg",
+      "summary" : "有一个拥有招鬼体质的爹，夏昭灵也就认了尼玛现在告诉她她是招妖的体质是闹哪般当她还小毛孩儿，信你鬼话呢",
+      "updateStatus" : 1,
+      "capacity" : 6919865,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2463,
+      "name" : "兼职的侦探",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47707.jpg",
+      "summary" : "有一种职业叫part-timejob。有一种侦探叫被迫当侦探。有一种网友叫永远不靠谱。所以，也就有了",
+      "updateStatus" : 1,
+      "capacity" : 4297805,
+      "catName" : "灵异悬疑"
+    }, {
+      "id" : 3517,
+      "name" : "王子殿下的弱智未婚妻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46975.jpg",
+      "summary" : "她，李木雅，本是高高在上的李氏千金小姐，五岁时因遭家族商业对手的绑架，父母因在赎他的路上车祸身亡，她",
+      "updateStatus" : 1,
+      "capacity" : 330901,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2317,
+      "name" : "江湖任我行",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22436.jpg",
+      "summary" : "她，机智、聪颖、开朗活泼，是二十一世纪新出‘江湖’的魔术师。她，顽固、泼辣、不讲情理，是风云涌动时期",
+      "updateStatus" : 1,
+      "capacity" : 1952427,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2432,
+      "name" : "危险游戏：八月仲夏夜未央",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47149.jpg",
+      "summary" : "这是一场金钱与爱情的较量！叶未央，大学毕业收到的礼物却是父亲的死亡通知单，随着这一张纸，她的人生和父",
+      "updateStatus" : 1,
+      "capacity" : 2783467,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3336,
+      "name" : "旷世绝恋：洛水弹琴不谈情",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46623.jpg",
+      "summary" : "为了逃避商业联姻，他逼她成为自己的女人。“这就是你离开我的下场！”当她以为自己只是工具的时候，他却发",
+      "updateStatus" : 1,
+      "capacity" : 743041,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2807,
+      "name" : "忍住不说我爱你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44458.jpg",
+      "summary" : "第一次见她时，她扬起脸一本正经地对他旁边的人说，那个，你歌词唱错了。第二次见她时，她一脸悲愤，看到自",
+      "updateStatus" : 1,
+      "capacity" : 7000462,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2631,
+      "name" : "顽皮少女的异样人生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46444.jpg",
+      "summary" : "“曾经，我只喜欢你，甚至爱你爱到不可理喻的地步。”她梨花带雨的对他哭诉，但心里知道很多事一旦错过变不",
+      "updateStatus" : 1,
+      "capacity" : 6993650,
+      "catName" : "都市校园"
+    } ]
+  }
+}

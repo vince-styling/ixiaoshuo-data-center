@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 4471,
+      "title" : "chapter 0 蝴蝶&四叶草",
+      "capacity" : 3029
+    }, {
+      "id" : 4472,
+      "title" : "chapter 1 离别，是新的开始",
+      "capacity" : 6262
+    }, {
+      "id" : 4473,
+      "title" : "chapter 2 新的伙伴就会是心的相遇",
+      "capacity" : 7222
+    }, {
+      "id" : 4474,
+      "title" : "chapter 3 相同的梦",
+      "capacity" : 6127
+    }, {
+      "id" : 4475,
+      "title" : "chapter 4 好久不见",
+      "capacity" : 6505
+    }, {
+      "id" : 4476,
+      "title" : "chapter 5 考试前后谁哭谁笑？",
+      "capacity" : 6753
+    }, {
+      "id" : 4477,
+      "title" : "chapter 6 金色羽毛笔",
+      "capacity" : 6498
+    }, {
+      "id" : 4478,
+      "title" : "chapter 7 只想用实力证明",
+      "capacity" : 6964
+    }, {
+      "id" : 4479,
+      "title" : "chapter 8 意料之外",
+      "capacity" : 6951
+    } ]
+  }
+}

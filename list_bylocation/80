@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 80,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3285,
+      "name" : "沉星坠夜",
+      "updateStatus" : 1,
+      "distance" : 2024,
+      "memberId" : 1941
+    }, {
+      "id" : 2296,
+      "name" : "梦穿康熙换乾坤",
+      "updateStatus" : 1,
+      "distance" : 4346,
+      "memberId" : 2351
+    }, {
+      "id" : 2910,
+      "name" : "听闻公司有妖孽",
+      "updateStatus" : 1,
+      "distance" : 3237,
+      "memberId" : 2295
+    }, {
+      "id" : 2889,
+      "name" : "帅哥，麻烦给我一张果照",
+      "updateStatus" : 1,
+      "distance" : 9885,
+      "memberId" : 5727
+    }, {
+      "id" : 2466,
+      "name" : "寻魂记之称霸地狱",
+      "updateStatus" : 1,
+      "distance" : 6676,
+      "memberId" : 1929
+    }, {
+      "id" : 2263,
+      "name" : "冷酷王爷：我的心你敢要么",
+      "updateStatus" : 1,
+      "distance" : 9861,
+      "memberId" : 4119
+    }, {
+      "id" : 3234,
+      "name" : "死神通法三部曲",
+      "updateStatus" : 1,
+      "distance" : 9971,
+      "memberId" : 8970
+    }, {
+      "id" : 2080,
+      "name" : "宫偷十二钗：步步惊魂",
+      "updateStatus" : 1,
+      "distance" : 4463,
+      "memberId" : 4565
+    }, {
+      "id" : 2992,
+      "name" : "天才萌宝：霸情爹地太腹黑",
+      "updateStatus" : 1,
+      "distance" : 9301,
+      "memberId" : 6093
+    }, {
+      "id" : 2936,
+      "name" : "谁言依雪泪墨池",
+      "updateStatus" : 1,
+      "distance" : 2943,
+      "memberId" : 3496
+    }, {
+      "id" : 2191,
+      "name" : "西界纪年",
+      "updateStatus" : 1,
+      "distance" : 1533,
+      "memberId" : 1626
+    }, {
+      "id" : 2154,
+      "name" : "寻仙问诱：美男不要逃",
+      "updateStatus" : 1,
+      "distance" : 8487,
+      "memberId" : 6109
+    }, {
+      "id" : 2142,
+      "name" : "修真界疯子",
+      "updateStatus" : 1,
+      "distance" : 9754,
+      "memberId" : 1568
+    }, {
+      "id" : 2803,
+      "name" : "幸好还有爱情",
+      "updateStatus" : 1,
+      "distance" : 1053,
+      "memberId" : 6273
+    }, {
+      "id" : 2038,
+      "name" : "凤狂天下：本宫来自特工处",
+      "updateStatus" : 1,
+      "distance" : 8077,
+      "memberId" : 7388
+    }, {
+      "id" : 2087,
+      "name" : "婳诡录",
+      "updateStatus" : 1,
+      "distance" : 9475,
+      "memberId" : 5164
+    }, {
+      "id" : 3724,
+      "name" : "白泽之神",
+      "updateStatus" : 1,
+      "distance" : 2707,
+      "memberId" : 7746
+    }, {
+      "id" : 3032,
+      "name" : "青颜蛊",
+      "updateStatus" : 1,
+      "distance" : 904,
+      "memberId" : 4243
+    }, {
+      "id" : 3243,
+      "name" : "仙灭混沌",
+      "updateStatus" : 1,
+      "distance" : 9925,
+      "memberId" : 1746
+    }, {
+      "id" : 2570,
+      "name" : "情挑深情夫君",
+      "updateStatus" : 1,
+      "distance" : 7098,
+      "memberId" : 7800
+    } ]
+  }
+}

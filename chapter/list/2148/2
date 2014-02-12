@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 1638,
+      "title" : "四十六 黑子？白子？",
+      "capacity" : 10035
+    }, {
+      "id" : 1639,
+      "title" : "四十六 黑白交锋时",
+      "capacity" : 10604
+    }, {
+      "id" : 1640,
+      "title" : "四十七 一波终平兮",
+      "capacity" : 11924
+    }, {
+      "id" : 1641,
+      "title" : "四十八 来世不负卿",
+      "capacity" : 10534
+    } ]
+  }
+}

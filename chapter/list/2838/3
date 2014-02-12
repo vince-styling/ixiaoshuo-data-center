@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 109,
+    "list" : [ {
+      "id" : 1328,
+      "title" : "第一百零一章（大结局一）",
+      "capacity" : 4902
+    }, {
+      "id" : 1329,
+      "title" : "第一百零二章（大结局二）",
+      "capacity" : 5434
+    }, {
+      "id" : 1330,
+      "title" : "第一百零三章（大结局三）",
+      "capacity" : 6010
+    }, {
+      "id" : 1331,
+      "title" : "番外：木玉峰的爱情（一）",
+      "capacity" : 5259
+    }, {
+      "id" : 1332,
+      "title" : "番外：木玉峰的爱情（二）",
+      "capacity" : 5228
+    }, {
+      "id" : 1333,
+      "title" : "番外：木玉峰的爱情（三）",
+      "capacity" : 5107
+    }, {
+      "id" : 1334,
+      "title" : "番外：木玉峰的爱情（四）",
+      "capacity" : 5291
+    }, {
+      "id" : 1335,
+      "title" : "番外：木玉峰的爱情（五）",
+      "capacity" : 5419
+    }, {
+      "id" : 1336,
+      "title" : "番外：木玉峰的爱情（六）",
+      "capacity" : 6478
+    } ]
+  }
+}

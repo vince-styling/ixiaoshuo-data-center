@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 30,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3364,
+      "name" : "只要你幸福，愿意不爱你",
+      "updateStatus" : 1,
+      "distance" : 1283,
+      "memberId" : 3806
+    }, {
+      "id" : 3332,
+      "name" : "不会失忆的爱",
+      "updateStatus" : 1,
+      "distance" : 4819,
+      "memberId" : 6463
+    }, {
+      "id" : 2522,
+      "name" : "熊霸天下",
+      "updateStatus" : 1,
+      "distance" : 513,
+      "memberId" : 5672
+    }, {
+      "id" : 3224,
+      "name" : "快乐公主流浪记",
+      "updateStatus" : 1,
+      "distance" : 4198,
+      "memberId" : 3128
+    }, {
+      "id" : 2917,
+      "name" : "碧海蓝天最倾城",
+      "updateStatus" : 1,
+      "distance" : 5554,
+      "memberId" : 1905
+    }, {
+      "id" : 2798,
+      "name" : "随心而动",
+      "updateStatus" : 1,
+      "distance" : 4871,
+      "memberId" : 3993
+    }, {
+      "id" : 3014,
+      "name" : "【武侠穿越】大梦",
+      "updateStatus" : 1,
+      "distance" : 9694,
+      "memberId" : 7725
+    }, {
+      "id" : 2938,
+      "name" : "你的眸底映着我的温柔",
+      "updateStatus" : 1,
+      "distance" : 594,
+      "memberId" : 4383
+    }, {
+      "id" : 2890,
+      "name" : "月沉沦",
+      "updateStatus" : 1,
+      "distance" : 7559,
+      "memberId" : 2664
+    }, {
+      "id" : 3436,
+      "name" : "《侦探日记》",
+      "updateStatus" : 1,
+      "distance" : 9543,
+      "memberId" : 6882
+    }, {
+      "id" : 2368,
+      "name" : "相思都门",
+      "updateStatus" : 1,
+      "distance" : 704,
+      "memberId" : 5119
+    }, {
+      "id" : 2628,
+      "name" : "别再调戏我",
+      "updateStatus" : 1,
+      "distance" : 4346,
+      "memberId" : 6812
+    }, {
+      "id" : 3275,
+      "name" : "暗昙",
+      "updateStatus" : 1,
+      "distance" : 8654,
+      "memberId" : 1144
+    }, {
+      "id" : 3138,
+      "name" : "黑色的梦境",
+      "updateStatus" : 1,
+      "distance" : 4461,
+      "memberId" : 1971
+    }, {
+      "id" : 2685,
+      "name" : "含蕾",
+      "updateStatus" : 1,
+      "distance" : 8600,
+      "memberId" : 7937
+    }, {
+      "id" : 2433,
+      "name" : "诱婚",
+      "updateStatus" : 1,
+      "distance" : 1073,
+      "memberId" : 1961
+    }, {
+      "id" : 3107,
+      "name" : "世间冷暖",
+      "updateStatus" : 1,
+      "distance" : 7100,
+      "memberId" : 2757
+    }, {
+      "id" : 2129,
+      "name" : "美人出逃：别惹弃妃",
+      "updateStatus" : 1,
+      "distance" : 3471,
+      "memberId" : 8773
+    }, {
+      "id" : 3331,
+      "name" : "武警婚约之山东佳人",
+      "updateStatus" : 1,
+      "distance" : 898,
+      "memberId" : 8486
+    }, {
+      "id" : 3004,
+      "name" : "陪伴是最长情的告白",
+      "updateStatus" : 1,
+      "distance" : 3415,
+      "memberId" : 2975
+    } ]
+  }
+}

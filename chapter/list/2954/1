@@ -1,0 +1,78 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 17,
+    "list" : [ {
+      "id" : 2552,
+      "title" : "NO.001、萝卜引发的惨案",
+      "capacity" : 9800
+    }, {
+      "id" : 2553,
+      "title" : "NO.002、全服大神来拯救",
+      "capacity" : 9596
+    }, {
+      "id" : 2554,
+      "title" : "NO.003、大神也会很小人",
+      "capacity" : 9926
+    }, {
+      "id" : 2555,
+      "title" : "NO.004、南柯一梦为何意",
+      "capacity" : 10193
+    }, {
+      "id" : 2556,
+      "title" : "NO.005、看这疯狂的玩家",
+      "capacity" : 11374
+    }, {
+      "id" : 2557,
+      "title" : "NO.006、挽救形象大作战",
+      "capacity" : 10865
+    }, {
+      "id" : 2558,
+      "title" : "NO.007、华丽的广播访谈",
+      "capacity" : 10171
+    }, {
+      "id" : 2559,
+      "title" : "NO.008、新手玩家来讨债",
+      "capacity" : 9776
+    }, {
+      "id" : 2560,
+      "title" : "NO.009、拜师还是收徒弟",
+      "capacity" : 11340
+    }, {
+      "id" : 2561,
+      "title" : "NO.010、美女小希很倾城",
+      "capacity" : 11299
+    }, {
+      "id" : 2562,
+      "title" : "NO.011、神兽蛋啊神兽蛋",
+      "capacity" : 12257
+    }, {
+      "id" : 2563,
+      "title" : "NO.012、突现的神秘人物",
+      "capacity" : 11501
+    }, {
+      "id" : 2564,
+      "title" : "NO.013、无辜的抢怪事件",
+      "capacity" : 12105
+    }, {
+      "id" : 2565,
+      "title" : "NO.014、鸣蝉明溪初现身",
+      "capacity" : 9571
+    }, {
+      "id" : 2566,
+      "title" : "NO.015、相聚总美好如初",
+      "capacity" : 9635
+    }, {
+      "id" : 2567,
+      "title" : "NO.016、做坏事会有报应",
+      "capacity" : 10231
+    }, {
+      "id" : 2568,
+      "title" : "NO.017、稀里糊涂进家族",
+      "capacity" : 11166
+    } ]
+  }
+}

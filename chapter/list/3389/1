@@ -1,0 +1,102 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 23,
+    "list" : [ {
+      "id" : 2859,
+      "title" : "杭城初行",
+      "capacity" : 6643
+    }, {
+      "id" : 2860,
+      "title" : "欢喜楼",
+      "capacity" : 6750
+    }, {
+      "id" : 2861,
+      "title" : "好吃的苏饼，好看的美人",
+      "capacity" : 6156
+    }, {
+      "id" : 2862,
+      "title" : "月园",
+      "capacity" : 6513
+    }, {
+      "id" : 2863,
+      "title" : "花容失色",
+      "capacity" : 6639
+    }, {
+      "id" : 2864,
+      "title" : "二表哥的秘密",
+      "capacity" : 6119
+    }, {
+      "id" : 2865,
+      "title" : "心太软的表小姐",
+      "capacity" : 8833
+    }, {
+      "id" : 2866,
+      "title" : "清明出行",
+      "capacity" : 6216
+    }, {
+      "id" : 2867,
+      "title" : "大误会",
+      "capacity" : 6541
+    }, {
+      "id" : 2868,
+      "title" : "她解脱了！",
+      "capacity" : 5985
+    }, {
+      "id" : 2869,
+      "title" : "杜公子的诗会（一）",
+      "capacity" : 6054
+    }, {
+      "id" : 2870,
+      "title" : "杜公子的诗会（二）",
+      "capacity" : 7412
+    }, {
+      "id" : 2871,
+      "title" : "他的身份",
+      "capacity" : 6191
+    }, {
+      "id" : 2872,
+      "title" : "中毒",
+      "capacity" : 6182
+    }, {
+      "id" : 2873,
+      "title" : "回府",
+      "capacity" : 6051
+    }, {
+      "id" : 2874,
+      "title" : "变数",
+      "capacity" : 6122
+    }, {
+      "id" : 2875,
+      "title" : "行前（一）",
+      "capacity" : 6093
+    }, {
+      "id" : 2876,
+      "title" : "行前（二）",
+      "capacity" : 6082
+    }, {
+      "id" : 2877,
+      "title" : "出城",
+      "capacity" : 6110
+    }, {
+      "id" : 2878,
+      "title" : "往事如烟",
+      "capacity" : 6318
+    }, {
+      "id" : 2879,
+      "title" : "各自谋算",
+      "capacity" : 5596
+    }, {
+      "id" : 2880,
+      "title" : "各自谋算（二）",
+      "capacity" : 6173
+    }, {
+      "id" : 2881,
+      "title" : "各自谋算（三）",
+      "capacity" : 3931
+    } ]
+  }
+}

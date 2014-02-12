@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 1098,
+      "title" : "一话：林诗凡",
+      "capacity" : 9466
+    }, {
+      "id" : 1099,
+      "title" : "二话：重逢",
+      "capacity" : 10320
+    }, {
+      "id" : 1100,
+      "title" : "三话：谈心",
+      "capacity" : 10812
+    }, {
+      "id" : 1101,
+      "title" : "四话：娱乐圈的黑暗",
+      "capacity" : 9271
+    }, {
+      "id" : 1102,
+      "title" : "番外：王岑——良生",
+      "capacity" : 10036
+    }, {
+      "id" : 1103,
+      "title" : "六话：追忆",
+      "capacity" : 8088
+    }, {
+      "id" : 1104,
+      "title" : "七话：暧昧（肉末引狼）",
+      "capacity" : 11133
+    }, {
+      "id" : 1105,
+      "title" : "八话",
+      "capacity" : 9356
+    } ]
+  }
+}

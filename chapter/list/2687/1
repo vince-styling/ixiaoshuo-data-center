@@ -1,0 +1,94 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 21,
+    "list" : [ {
+      "id" : 1944,
+      "title" : "楔子",
+      "capacity" : 9731
+    }, {
+      "id" : 1945,
+      "title" : "玄易",
+      "capacity" : 10848
+    }, {
+      "id" : 1946,
+      "title" : "嘉宾",
+      "capacity" : 12422
+    }, {
+      "id" : 1947,
+      "title" : "晚会",
+      "capacity" : 9180
+    }, {
+      "id" : 1948,
+      "title" : "严桓",
+      "capacity" : 12607
+    }, {
+      "id" : 1949,
+      "title" : "夜弦",
+      "capacity" : 11186
+    }, {
+      "id" : 1950,
+      "title" : "军训",
+      "capacity" : 8182
+    }, {
+      "id" : 1951,
+      "title" : "节目",
+      "capacity" : 12967
+    }, {
+      "id" : 1952,
+      "title" : "解冰",
+      "capacity" : 8750
+    }, {
+      "id" : 1953,
+      "title" : "变故",
+      "capacity" : 10450
+    }, {
+      "id" : 1954,
+      "title" : "请假",
+      "capacity" : 8492
+    }, {
+      "id" : 1955,
+      "title" : "比赛",
+      "capacity" : 9032
+    }, {
+      "id" : 1956,
+      "title" : "演讲",
+      "capacity" : 10150
+    }, {
+      "id" : 1957,
+      "title" : "解决",
+      "capacity" : 10004
+    }, {
+      "id" : 1958,
+      "title" : "退出",
+      "capacity" : 9181
+    }, {
+      "id" : 1959,
+      "title" : "开导",
+      "capacity" : 13961
+    }, {
+      "id" : 1960,
+      "title" : "入社",
+      "capacity" : 8508
+    }, {
+      "id" : 1961,
+      "title" : "会场",
+      "capacity" : 9655
+    }, {
+      "id" : 1962,
+      "title" : "替补",
+      "capacity" : 9842
+    }, {
+      "id" : 1963,
+      "title" : "表演",
+      "capacity" : 9177
+    }, {
+      "id" : 1964,
+      "title" : "意外",
+      "capacity" : 9694
+    } ]
+  }
+}

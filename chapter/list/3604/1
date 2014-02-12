@@ -1,0 +1,66 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 14,
+    "list" : [ {
+      "id" : 1104,
+      "title" : "第一章",
+      "capacity" : 3621
+    }, {
+      "id" : 1105,
+      "title" : "第二章",
+      "capacity" : 4607
+    }, {
+      "id" : 1106,
+      "title" : "第三章",
+      "capacity" : 3896
+    }, {
+      "id" : 1107,
+      "title" : "第四章",
+      "capacity" : 3430
+    }, {
+      "id" : 1108,
+      "title" : "第五章",
+      "capacity" : 3698
+    }, {
+      "id" : 1109,
+      "title" : "第六章",
+      "capacity" : 3526
+    }, {
+      "id" : 1110,
+      "title" : "第七章",
+      "capacity" : 3439
+    }, {
+      "id" : 1111,
+      "title" : "第八章",
+      "capacity" : 3370
+    }, {
+      "id" : 1112,
+      "title" : "第九章",
+      "capacity" : 3183
+    }, {
+      "id" : 1113,
+      "title" : "第十章",
+      "capacity" : 3282
+    }, {
+      "id" : 1114,
+      "title" : "第十一章",
+      "capacity" : 3273
+    }, {
+      "id" : 1115,
+      "title" : "第十二章",
+      "capacity" : 3191
+    }, {
+      "id" : 1116,
+      "title" : "第十三章",
+      "capacity" : 3311
+    }, {
+      "id" : 1117,
+      "title" : "第十四章",
+      "capacity" : 3123
+    } ]
+  }
+}

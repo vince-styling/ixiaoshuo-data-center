@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 1366,
+      "title" : "第一章 字不够，肉来凑！",
+      "capacity" : 9096
+    }, {
+      "id" : 1367,
+      "title" : "第二章 肉肉之后",
+      "capacity" : 6626
+    }, {
+      "id" : 1368,
+      "title" : "第三章 绝症+劈腿+求男人",
+      "capacity" : 8528
+    }, {
+      "id" : 1369,
+      "title" : "第四章 判我出局",
+      "capacity" : 7622
+    }, {
+      "id" : 1370,
+      "title" : "第五章 小三PK正妻",
+      "capacity" : 6073
+    }, {
+      "id" : 1371,
+      "title" : "第六章 猪一样的队友",
+      "capacity" : 6212
+    }, {
+      "id" : 1372,
+      "title" : "第七章 道歉歉歉",
+      "capacity" : 3675
+    }, {
+      "id" : 1373,
+      "title" : "第八章 狗男女无敌",
+      "capacity" : 4518
+    } ]
+  }
+}

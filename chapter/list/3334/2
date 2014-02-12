@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 4,
+    "totalItemCount" : 168,
+    "list" : [ {
+      "id" : 1733,
+      "title" : "第五十章 比武",
+      "capacity" : 9324
+    }, {
+      "id" : 1734,
+      "title" : "第五十一章 下连队",
+      "capacity" : 9016
+    }, {
+      "id" : 1735,
+      "title" : "第五十二章 要做就做狙击手",
+      "capacity" : 7836
+    }, {
+      "id" : 1736,
+      "title" : "第五十三章 优秀狙击手的特质",
+      "capacity" : 4326
+    }, {
+      "id" : 1737,
+      "title" : "第五十四章 演习开始了",
+      "capacity" : 5031
+    }, {
+      "id" : 1738,
+      "title" : "第五十五章 狡猾的黑豹",
+      "capacity" : 9227
+    }, {
+      "id" : 1739,
+      "title" : "第五十六章 击毙刘军",
+      "capacity" : 8275
+    }, {
+      "id" : 1740,
+      "title" : "第五十七章 捅了马蜂窝",
+      "capacity" : 3530
+    }, {
+      "id" : 1741,
+      "title" : "第五十八章 最后的力量",
+      "capacity" : 5748
+    }, {
+      "id" : 1742,
+      "title" : "第五十九章 决战前夕",
+      "capacity" : 7947
+    }, {
+      "id" : 1743,
+      "title" : "第六十章 决战",
+      "capacity" : 8457
+    }, {
+      "id" : 1744,
+      "title" : "第六十一章 于长风的心事",
+      "capacity" : 6055
+    }, {
+      "id" : 1745,
+      "title" : "第六十二章 慈祥的中将",
+      "capacity" : 5545
+    }, {
+      "id" : 1746,
+      "title" : "第六十三章 说服",
+      "capacity" : 9782
+    }, {
+      "id" : 1747,
+      "title" : "第六十四章 我们是兄弟",
+      "capacity" : 9528
+    }, {
+      "id" : 1748,
+      "title" : "第六十五章 欢迎加入",
+      "capacity" : 4442
+    }, {
+      "id" : 1749,
+      "title" : "第六十六章 故人",
+      "capacity" : 6636
+    }, {
+      "id" : 1750,
+      "title" : "第六十七章 鱼上钩",
+      "capacity" : 4289
+    }, {
+      "id" : 1751,
+      "title" : "第六十八章 阿文",
+      "capacity" : 5933
+    }, {
+      "id" : 1752,
+      "title" : "第六十九章 交好",
+      "capacity" : 3255
+    }, {
+      "id" : 1753,
+      "title" : "第七十章",
+      "capacity" : 6726
+    }, {
+      "id" : 1754,
+      "title" : "第七十一章",
+      "capacity" : 4677
+    }, {
+      "id" : 1755,
+      "title" : "第七十二章",
+      "capacity" : 4606
+    }, {
+      "id" : 1756,
+      "title" : "第七十三章",
+      "capacity" : 3659
+    }, {
+      "id" : 1757,
+      "title" : "第七十四章",
+      "capacity" : 4386
+    }, {
+      "id" : 1758,
+      "title" : "第七十五章",
+      "capacity" : 4913
+    }, {
+      "id" : 1759,
+      "title" : "第七十六章 谈合作",
+      "capacity" : 8607
+    }, {
+      "id" : 1760,
+      "title" : "第七十七章",
+      "capacity" : 4440
+    }, {
+      "id" : 1761,
+      "title" : "第七十八章",
+      "capacity" : 7782
+    }, {
+      "id" : 1762,
+      "title" : "第七十九章",
+      "capacity" : 3924
+    }, {
+      "id" : 1763,
+      "title" : "第八十章",
+      "capacity" : 4677
+    }, {
+      "id" : 1764,
+      "title" : "第八十一章 火药味浓",
+      "capacity" : 6819
+    }, {
+      "id" : 1765,
+      "title" : "第八十二章",
+      "capacity" : 12816
+    }, {
+      "id" : 1766,
+      "title" : "第八十三章",
+      "capacity" : 9568
+    }, {
+      "id" : 1767,
+      "title" : "第八十四章",
+      "capacity" : 10692
+    }, {
+      "id" : 1768,
+      "title" : "第八十五章 傻X舍友",
+      "capacity" : 10722
+    }, {
+      "id" : 1769,
+      "title" : "第八十六章 又去袭胸",
+      "capacity" : 13938
+    }, {
+      "id" : 1770,
+      "title" : "第八十七章 荣誉战书",
+      "capacity" : 12566
+    }, {
+      "id" : 1771,
+      "title" : "第八十八章 就是他",
+      "capacity" : 10210
+    }, {
+      "id" : 1772,
+      "title" : "第八十九章 朋友联盟",
+      "capacity" : 13387
+    }, {
+      "id" : 1773,
+      "title" : "第九十章 什么都没看见",
+      "capacity" : 12618
+    }, {
+      "id" : 1774,
+      "title" : "第九十一章",
+      "capacity" : 5465
+    }, {
+      "id" : 1775,
+      "title" : "第九十二章 阴谋",
+      "capacity" : 5677
+    }, {
+      "id" : 1776,
+      "title" : "第九十三章",
+      "capacity" : 4665
+    }, {
+      "id" : 1777,
+      "title" : "第九十四章",
+      "capacity" : 13461
+    }, {
+      "id" : 1778,
+      "title" : "第九十五章 赢",
+      "capacity" : 12033
+    }, {
+      "id" : 1779,
+      "title" : "第九十六章 竹语死了",
+      "capacity" : 10667
+    }, {
+      "id" : 1780,
+      "title" : "第九十七章 狼狈的熊新和",
+      "capacity" : 11362
+    }, {
+      "id" : 1781,
+      "title" : "第九十七章 暗流涌动",
+      "capacity" : 8338
+    }, {
+      "id" : 1782,
+      "title" : "第九十八章 方立铭造访",
+      "capacity" : 6153
+    } ]
+  }
+}

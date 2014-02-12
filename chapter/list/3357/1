@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 4343,
+      "title" : "Chapter 1",
+      "capacity" : 9682
+    }, {
+      "id" : 4344,
+      "title" : "Chapter2",
+      "capacity" : 13372
+    }, {
+      "id" : 4345,
+      "title" : "Chapter3",
+      "capacity" : 10825
+    }, {
+      "id" : 4346,
+      "title" : "Chapter4",
+      "capacity" : 10640
+    }, {
+      "id" : 4347,
+      "title" : "Chapter5",
+      "capacity" : 16487
+    }, {
+      "id" : 4348,
+      "title" : "chapter6",
+      "capacity" : 10120
+    }, {
+      "id" : 4349,
+      "title" : "chapter7",
+      "capacity" : 10446
+    }, {
+      "id" : 4350,
+      "title" : "chapter8",
+      "capacity" : 10857
+    }, {
+      "id" : 4351,
+      "title" : "chapter9",
+      "capacity" : 11259
+    }, {
+      "id" : 4352,
+      "title" : "chapter10",
+      "capacity" : 10714
+    }, {
+      "id" : 4353,
+      "title" : "chapter11",
+      "capacity" : 11818
+    } ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 22,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2247,
+      "name" : "帝女倾城：痴缠冷面琴王",
+      "summary" : "起弦风雅曾为谁，琴风一度乱人心。——南国公主楚芩恋上了宫中的琴师，心心痴缠，最终成殇……这是个素淡的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18136.jpg",
+      "updateStatus" : 2,
+      "capacity" : 2650376,
+      "lastUpdateTime" : "2013-12-19 16:12:40"
+    }, {
+      "id" : 2119,
+      "name" : "花舞七国",
+      "summary" : "——我从来没有想过，就是我们这样几个人，将来会改变整个天下的格局。到那个时候，七雄争霸，天下纷乱；而",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22528.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5548893,
+      "lastUpdateTime" : "2013-12-19 15:52:24"
+    }, {
+      "id" : 2685,
+      "name" : "含蕾",
+      "summary" : "在千年的古墓中遇上了未来的自己那个自己说家族所守护的秘密是时间有无数镜面空间的自己重叠成了在古墓中的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41914.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5893744,
+      "lastUpdateTime" : "2013-12-19 15:32:45"
+    }, {
+      "id" : 2570,
+      "name" : "情挑深情夫君",
+      "summary" : "家破人亡的女孩,突然被迫蜕变,遇上了他。一个深受手足相残的他。两个同样在童年受过伤害,该如何携手面对",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44270.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4111822,
+      "lastUpdateTime" : "2013-12-19 14:12:14"
+    }, {
+      "id" : 3713,
+      "name" : "冰凌花开",
+      "summary" : "冰凌，她在充满香樟树的的的宁城长大，她五岁那年开始便和外婆相依为命，从小便十分自立，然而十七岁那年，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45455.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1082852,
+      "lastUpdateTime" : "2013-12-19 14:10:22"
+    }, {
+      "id" : 3481,
+      "name" : "感谢那年没有错过你",
+      "summary" : "“这个礼物喜欢吗？”我永远都忘不了曾经雪地里那个少年为我燃放的一片仙女棒，那么明媚，那么美好。“如果",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44816.jpg",
+      "updateStatus" : 1,
+      "capacity" : 95256,
+      "lastUpdateTime" : "2013-12-19 14:07:25"
+    }, {
+      "id" : 3682,
+      "name" : "军匪，温柔点！",
+      "summary" : "雷冉东在会所第一次见到白多多时，是她把李一鸣裆部给踹了，印象颇深。白多多一堆艳史被医院里的同事传的沸",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47256.jpg",
+      "updateStatus" : 1,
+      "capacity" : 124802,
+      "lastUpdateTime" : "2013-12-19 09:59:30"
+    }, {
+      "id" : 2290,
+      "name" : "菩提",
+      "summary" : "一串菩提，一地鲜血。静谧的雪中掩抑了一切，一切又在雪中滋生。是诉不尽的忧伤，还是，只是枝头的那一抹素",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 6848545,
+      "lastUpdateTime" : "2013-12-19 09:38:23"
+    }, {
+      "id" : 2073,
+      "name" : "清娆蓝梦",
+      "summary" : "琉璃幻？未央梦？她是一个明媚纯情的女子，他们是风华绝代的俊美男子。那年舞榭场，繁华地，属于她的宿命开",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46892.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9532091,
+      "lastUpdateTime" : "2013-12-19 09:37:28"
+    }, {
+      "id" : 2216,
+      "name" : "欲之巅",
+      "summary" : "在这个世界上到处充满了欲望的体现，酒色财气。人是欲望的产物，生命是欲望的延续。且看李新如何把握欲望的",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 4632877,
+      "lastUpdateTime" : "2013-12-19 09:19:40"
+    }, {
+      "id" : 2426,
+      "name" : "请让我回到我的小小城",
+      "summary" : "一个在高中时期发生的小故事，它是具有一定的真实性的。在这里，米一一由于曾经受过的伤，不愿意与他人交流",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46933.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5813436,
+      "lastUpdateTime" : "2013-12-19 09:16:32"
+    }, {
+      "id" : 3629,
+      "name" : "以歌为名，为爱铭志",
+      "summary" : "一首歌曲，一个故事。世间唯有亲情最真挚，友情最温暖，爱情最铭心。为爱我和我爱的人写故事。珍惜他们的爱",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 53330,
+      "lastUpdateTime" : "2013-12-19 08:45:03"
+    }, {
+      "id" : 2843,
+      "name" : "家有仙妃很腹黑",
+      "summary" : "\"一场爆炸，她葬身火海。一朝梦醒，她魂落异世。重生为大金太子妃的晨萦，左有英俊太子相公护身，右有无敌",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14496.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9373470,
+      "lastUpdateTime" : "2013-12-19 08:43:14"
+    }, {
+      "id" : 3011,
+      "name" : "守护伊始只为你",
+      "summary" : "祁雪儿不过是搭了一回顺风车，可这莫名其妙闯进自己生活的冰山大叔是怎么回事？管吃饭管睡觉还管上学，你以",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48043.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6111029,
+      "lastUpdateTime" : "2013-12-19 08:37:05"
+    }, {
+      "id" : 3619,
+      "name" : "结婚规则：一生就要你一人",
+      "summary" : "“哥哥，你爱我么？”“爱”“那你就别结婚了，我也不嫁了，咋俩在一起好不好？”“为什么呢？”少年一身休",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43047.jpg",
+      "updateStatus" : 1,
+      "capacity" : 211733,
+      "lastUpdateTime" : "2013-12-19 08:25:22"
+    }, {
+      "id" : 3037,
+      "name" : "简单的幸福",
+      "summary" : "有人说：在错的时间遇到对的人是一声叹息;在错的时间遇到错的人是一世荒唐;在对的时间遇到错的人是一场心",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47766.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3880202,
+      "lastUpdateTime" : "2013-12-19 08:16:51"
+    }, {
+      "id" : 2830,
+      "name" : "待我长发及腰",
+      "summary" : "她站在人前，无能，好色，骄奢放荡，刁蛮任性她转过身背过人群，美丽，聪明，善良，绝世倾城她来自于未来，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47148.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7379718,
+      "lastUpdateTime" : "2013-12-19 07:45:17"
+    }, {
+      "id" : 3057,
+      "name" : "穿越网王之千夜",
+      "summary" : "千夜，穿越到网王的世界，喜欢越前的她，想追又不敢追，哥哥们对她万般宠爱，自己也想就那样平凡的生活。可",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46634.jpg",
+      "updateStatus" : 1,
+      "capacity" : 543110,
+      "lastUpdateTime" : "2013-12-19 07:21:17"
+    }, {
+      "id" : 3014,
+      "name" : "【武侠穿越】大梦",
+      "summary" : "前世，她丧尽天良，猪狗不如，玩弄法律报应降临，她穿越时空，再次为人，年幼却遭全村血案被一心隐居的高人",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 9975514,
+      "lastUpdateTime" : "2013-12-19 06:58:24"
+    }, {
+      "id" : 2343,
+      "name" : "五界九州乱",
+      "summary" : "风家亡，乱家灭。犬门现，九州乱。秦皇不语，阎王不怒，明王不动。山海龙王，九州乱王，枭雄秦王，红发阎王",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44346.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5108576,
+      "lastUpdateTime" : "2013-12-19 06:46:52"
+    } ]
+  }
+}

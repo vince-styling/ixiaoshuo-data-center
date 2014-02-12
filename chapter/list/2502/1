@@ -1,0 +1,78 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 17,
+    "list" : [ {
+      "id" : 2639,
+      "title" : "第一章 成谁之全",
+      "capacity" : 5714
+    }, {
+      "id" : 2640,
+      "title" : "第二章 师徒之缘",
+      "capacity" : 4637
+    }, {
+      "id" : 2641,
+      "title" : "第三章 屠苏之名（上）",
+      "capacity" : 5145
+    }, {
+      "id" : 2642,
+      "title" : "第四章 屠苏之名（下）",
+      "capacity" : 6692
+    }, {
+      "id" : 2643,
+      "title" : "第五章 初到天墉",
+      "capacity" : 6864
+    }, {
+      "id" : 2644,
+      "title" : "第六章 师兄师妹（上）",
+      "capacity" : 5159
+    }, {
+      "id" : 2645,
+      "title" : "第七章 师兄师妹（下）",
+      "capacity" : 6621
+    }, {
+      "id" : 2646,
+      "title" : "第八章 芙蕖受欺",
+      "capacity" : 6073
+    }, {
+      "id" : 2647,
+      "title" : "第九章 承师此剑",
+      "capacity" : 7851
+    }, {
+      "id" : 2648,
+      "title" : "第十章 少年练剑",
+      "capacity" : 7312
+    }, {
+      "id" : 2649,
+      "title" : "第十一章 少年初识",
+      "capacity" : 8044
+    }, {
+      "id" : 2650,
+      "title" : "第十二章 剑塔铸剑",
+      "capacity" : 8321
+    }, {
+      "id" : 2651,
+      "title" : "第十三章 陵越往事",
+      "capacity" : 8321
+    }, {
+      "id" : 2652,
+      "title" : "第十四章 陵越小儿",
+      "capacity" : 8321
+    }, {
+      "id" : 2653,
+      "title" : "第十五章 师从紫胤",
+      "capacity" : 7216
+    }, {
+      "id" : 2654,
+      "title" : "第十六章 陵越剑道",
+      "capacity" : 4997
+    }, {
+      "id" : 2655,
+      "title" : "第十七章 剑道人心",
+      "capacity" : 8150
+    } ]
+  }
+}

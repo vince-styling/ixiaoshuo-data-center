@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 56,
+    "list" : [ {
+      "id" : 3865,
+      "title" : "第51章 太清殿之兮光洞1",
+      "capacity" : 3305
+    }, {
+      "id" : 3866,
+      "title" : "第52章 太清殿之兮光洞2",
+      "capacity" : 3288
+    }, {
+      "id" : 3867,
+      "title" : "第53章 太清殿之兮光洞3",
+      "capacity" : 3143
+    }, {
+      "id" : 3868,
+      "title" : "第54章 太清殿之兮光洞4",
+      "capacity" : 3167
+    }, {
+      "id" : 3869,
+      "title" : "第55章 太清殿之兮光洞5",
+      "capacity" : 3479
+    }, {
+      "id" : 3870,
+      "title" : "第56章 太清殿之兮光洞6",
+      "capacity" : 3119
+    } ]
+  }
+}

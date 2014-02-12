@@ -1,0 +1,74 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 16,
+    "list" : [ {
+      "id" : 3111,
+      "title" : "楔子",
+      "capacity" : 3317
+    }, {
+      "id" : 3112,
+      "title" : "第一章 降临人间",
+      "capacity" : 16130
+    }, {
+      "id" : 3113,
+      "title" : "第二章 忧思成疾",
+      "capacity" : 12823
+    }, {
+      "id" : 3114,
+      "title" : "第三章 一方魂魅",
+      "capacity" : 14043
+    }, {
+      "id" : 3115,
+      "title" : "第四章 前世执念",
+      "capacity" : 13715
+    }, {
+      "id" : 3116,
+      "title" : "第五章 迷失爱中",
+      "capacity" : 12594
+    }, {
+      "id" : 3117,
+      "title" : "第六章 至深心惧",
+      "capacity" : 15092
+    }, {
+      "id" : 3118,
+      "title" : "第七章 火海缭影",
+      "capacity" : 12228
+    }, {
+      "id" : 3119,
+      "title" : "第八章 孤寒雪梅",
+      "capacity" : 14890
+    }, {
+      "id" : 3120,
+      "title" : "第九章 冷暖自知",
+      "capacity" : 13821
+    }, {
+      "id" : 3121,
+      "title" : "第十章 若为君故",
+      "capacity" : 13423
+    }, {
+      "id" : 3122,
+      "title" : "第十一章 故剑深情",
+      "capacity" : 15406
+    }, {
+      "id" : 3123,
+      "title" : "第十二章 天地皑皑",
+      "capacity" : 14867
+    }, {
+      "id" : 3124,
+      "title" : "第十三章 一曲无忧",
+      "capacity" : 15823
+    }, {
+      "id" : 3125,
+      "title" : "第十四章 君王之位",
+      "capacity" : 13949
+    }, {
+      "id" : 3126,
+      "title" : "第十五章 江山美人",
+      "capacity" : 16211
+    } ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 59,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3352,
+      "name" : "沁语录",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42816.jpg",
+      "summary" : "沁语者，在这个世界上一个最为悲哀的存在，世世代代受御言者束缚、控制，永无无翻身之余地。而沁言，沁语者",
+      "updateStatus" : 1,
+      "capacity" : 210303,
+      "readerCount" : 1791
+    }, {
+      "id" : 3273,
+      "name" : "神医皇后",
+      "coverUrl" : "",
+      "summary" : "7岁母亲因病逝世，她从此立志为医，踏遍各地，行医为善；却因皇命嫁与他，从此开始了勾心斗角、危险重重的",
+      "updateStatus" : 1,
+      "capacity" : 43335,
+      "readerCount" : 1791
+    }, {
+      "id" : 3391,
+      "name" : "天上掉下个大侍郎",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42478.jpg",
+      "summary" : "我不想要那么多侍郎，为什么侍郎滚滚而来呢。是谁说：天上不会掉馅饼，只会掉“陷阱”的！糊口！有句话是：",
+      "updateStatus" : 1,
+      "capacity" : 132999,
+      "readerCount" : 1789
+    }, {
+      "id" : 3705,
+      "name" : "管家系类：管家大人是女生！",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_2358.jpg",
+      "summary" : "守护者与被守护的拼死争夺，谁才是最后赢家。骑士与王子只是童话故事的幻想角色，还是现实世界中我们的真实",
+      "updateStatus" : 1,
+      "capacity" : 102652,
+      "readerCount" : 1789
+    }, {
+      "id" : 3622,
+      "name" : "妃澄勿扰：这个嬷嬷赛倾城",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43887.jpg",
+      "summary" : "现代龙套小演员爆笑穿越老宫廷老嬷嬷，还竟然独霸天下第一美男心！演绎宫廷嬷嬷+复国间谍+叛党王妃？开妓",
+      "updateStatus" : 1,
+      "capacity" : 479888,
+      "readerCount" : 1779
+    }, {
+      "id" : 3631,
+      "name" : "嗨！军官们！",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44520.jpg",
+      "summary" : "女主灵魂穿越至一战之后的德国，从六岁的女童开始度过魏玛丽公国最艰难的十年为了爱的人不得不踏上硝烟弥漫",
+      "updateStatus" : 1,
+      "capacity" : 253802,
+      "readerCount" : 1779
+    }, {
+      "id" : 2610,
+      "name" : "调皮千金异空游之拐跑王爷",
+      "coverUrl" : "",
+      "summary" : "现代的调皮千金，为了活命迷迷糊糊的穿越到了异空撞到了酷王爷不知会擦出怎样的火花呢......女主：蒋",
+      "updateStatus" : 1,
+      "capacity" : 8807552,
+      "readerCount" : 1772
+    }, {
+      "id" : 2116,
+      "name" : "妖孽皇太子：独宠下堂妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_6883.jpg",
+      "summary" : "前夫太冷太无情，休掉！太子很美很妖孽，扑倒！穿越女守则最重要的便是：踢走渣男，扑倒极品，唯我独妻！—",
+      "updateStatus" : 2,
+      "capacity" : 5865236,
+      "readerCount" : 1763
+    }, {
+      "id" : 3440,
+      "name" : "风月楼",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18477.jpg",
+      "summary" : "妲己轻手摸上那道丑陋的伤疤，眼眸里透视着深入骨髓的恨意和无法言语的痛楚，“明明伤口已经愈合，明明已经",
+      "updateStatus" : 1,
+      "capacity" : 492070,
+      "readerCount" : 1759
+    }, {
+      "id" : 2174,
+      "name" : "华夏神域",
+      "coverUrl" : "",
+      "summary" : "华夏神域，修行界最高的一方净土，仙域、神域、鬼域、妖域、魔域五域似卫星般拱卫着华夏神域，在神域之内各",
+      "updateStatus" : 1,
+      "capacity" : 6734514,
+      "readerCount" : 1759
+    }, {
+      "id" : 3260,
+      "name" : "看着你思念那个女孩",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44648.jpg",
+      "summary" : "一个高、帅但不富的男子的坎坷人生，经历了一次又一次的艰苦抉择，他是否能为自己赢得空间？我们一起关注吧",
+      "updateStatus" : 1,
+      "capacity" : 223083,
+      "readerCount" : 1750
+    }, {
+      "id" : 2543,
+      "name" : "异人魔兽情缘游",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47258.jpg",
+      "summary" : "魔兽世界？有没有搞错？！冲锋护体！杀戮盛宴！脸盆大的火球飞过来了！（惊恐）难道这里就是传说中的卡利姆",
+      "updateStatus" : 1,
+      "capacity" : 9968647,
+      "readerCount" : 1742
+    }, {
+      "id" : 3394,
+      "name" : "混混少爷的小气公主",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18240.jpg",
+      "summary" : "一个带着仇恨的女生（蛮小弃），爱上了玩世不恭的混混少爷（韩智宇），展开一段有欢笑，有痛楚的恋情与小弃",
+      "updateStatus" : 1,
+      "capacity" : 48924,
+      "readerCount" : 1729
+    }, {
+      "id" : 2749,
+      "name" : "轻安易宁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45814.jpg",
+      "summary" : "犹记当时都年少，少年春衫薄“呐，大哥哥，你真的不会走吗？”“傻丫头，你是我的小丫头，我怎么会？”“丫",
+      "updateStatus" : 1,
+      "capacity" : 1125815,
+      "readerCount" : 1723
+    }, {
+      "id" : 3575,
+      "name" : "相见恨晚",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45554.jpg",
+      "summary" : "每个女孩心底大概都有这样一个人，他阳光，温暖，是自己的心跳。一直被他深深的蛊惑着，本以为遇见你是我今",
+      "updateStatus" : 1,
+      "capacity" : 443297,
+      "readerCount" : 1719
+    }, {
+      "id" : 3351,
+      "name" : "如果爱情只是错过",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46273.jpg",
+      "summary" : "如果过去的5年时间里，因为我的离开而让你受到伤害，那么我会用我余下的时光来弥补，一分一秒我都会爱你。",
+      "updateStatus" : 1,
+      "capacity" : 46996,
+      "readerCount" : 1706
+    }, {
+      "id" : 3595,
+      "name" : "冷漠千金邪魅少爷",
+      "coverUrl" : "",
+      "summary" : "她，叶若盈是一个亚洲首富物流集团叶氏家族的千金，叶氏集团将来的接班人，性格非常冷酷，但是在家里却是一",
+      "updateStatus" : 1,
+      "capacity" : 362247,
+      "readerCount" : 1697
+    }, {
+      "id" : 3309,
+      "name" : "不要小看我—阿木",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45641.jpg",
+      "summary" : "阿木是一个山里出来的大学生，自信，帅气，智慧，善良！和两个富家女孩有着扯不断理还乱的经历！有两个亲如",
+      "updateStatus" : 1,
+      "capacity" : 30596,
+      "readerCount" : 1684
+    }, {
+      "id" : 3707,
+      "name" : "白银传说",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19646.jpg",
+      "summary" : "“从北方一直到北方的尽头从世界的尽头到时间的尽头在冰川的背后，在誓言的前头，我的爱与传说一样久……”",
+      "updateStatus" : 1,
+      "capacity" : 220777,
+      "readerCount" : 1664
+    }, {
+      "id" : 2413,
+      "name" : "冤冤相抱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18752.jpg",
+      "summary" : "她温暖，他凉薄；她单纯善良，他孤傲冷漠；她全心信赖，他别有用心；深秋的水杉林，她与他初相逢，从此，一",
+      "updateStatus" : 1,
+      "capacity" : 7516075,
+      "readerCount" : 1649
+    } ]
+  }
+}

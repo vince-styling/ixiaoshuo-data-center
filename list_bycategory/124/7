@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 7,
+    "totalPageCount" : 16,
+    "totalItemCount" : 304,
+    "list" : [ {
+      "id" : 2043,
+      "name" : "彼岸繁花落",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46732.jpg",
+      "summary" : "天下之争，江山美人，谁能与共。如梨花皎洁的叶泽宇，桃花妖娆的南宸轩，荷花一般的景櫌，自诩隐士淡泊如菊",
+      "updateStatus" : 1,
+      "capacity" : 7238006,
+      "readerCount" : 5466
+    }, {
+      "id" : 3050,
+      "name" : "帝君独宠：魅世妖颜倾天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44224.jpg",
+      "summary" : "她是战败国前赵贡给大齐的采女。她在选秀之时为被刺杀的皇上挡剑而失忆。围绕她的来历与目的，围绕她的失忆",
+      "updateStatus" : 1,
+      "capacity" : 12533,
+      "readerCount" : 5402
+    }, {
+      "id" : 2533,
+      "name" : "泪倾城之梦汐醉",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47252.jpg",
+      "summary" : "一梦回眸，百媚生。倾国之美，皇室公主。她爱的人弃她如草芥，爱她的人多如海水滔滔不绝。一曲长歌，一段扇",
+      "updateStatus" : 1,
+      "capacity" : 9464891,
+      "readerCount" : 5401
+    }, {
+      "id" : 2132,
+      "name" : "绝色王妃醉红颜",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43900.jpg",
+      "summary" : "那年夏天，荷花烂漫，她一袭绿衣，醉卧河池，和那满池的荷叶浑然一体，只有那姣好白皙的容颜和那泼墨一般的",
+      "updateStatus" : 1,
+      "capacity" : 3367612,
+      "readerCount" : 5276
+    }, {
+      "id" : 2585,
+      "name" : "孟璇传奇",
+      "coverUrl" : "",
+      "summary" : "这是一部虚构但是没有架空、穿越、宅斗、宫斗的传统小说。女主角是一位贵族女子，却女扮男装攻读了古代军事",
+      "updateStatus" : 1,
+      "capacity" : 3061117,
+      "readerCount" : 5270
+    }, {
+      "id" : 2570,
+      "name" : "情挑深情夫君",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44270.jpg",
+      "summary" : "家破人亡的女孩,突然被迫蜕变,遇上了他。一个深受手足相残的他。两个同样在童年受过伤害,该如何携手面对",
+      "updateStatus" : 1,
+      "capacity" : 4111822,
+      "readerCount" : 5252
+    }, {
+      "id" : 3433,
+      "name" : "宿敌",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44064.jpg",
+      "summary" : "一个百年家族的湮灭，一个少年的血海深仇之旅，爱上了一个绝世倾城的女子，不巧，她却是他仇人的女儿，纵然",
+      "updateStatus" : 1,
+      "capacity" : 302851,
+      "readerCount" : 5143
+    }, {
+      "id" : 3033,
+      "name" : "惊尘梦：冷情女子惑情夫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45429.jpg",
+      "summary" : "她是纭庄庄主之女，聪灵慧黠，妖娆姽婳，却也淡漠隐忍，通透冷情他是泫溟山庄少庄主，卓尔不凡，温润如风，",
+      "updateStatus" : 1,
+      "capacity" : 6967848,
+      "readerCount" : 5041
+    }, {
+      "id" : 3602,
+      "name" : "桃面何处寻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44052.jpg",
+      "summary" : "杀手本无情，焉能不负君情深？纷扰江湖，何人是归宿？怎奈伊人逝去，唯有轻叹：孤影残蝶逝，花开不逢时。伊",
+      "updateStatus" : 1,
+      "capacity" : 38619,
+      "readerCount" : 4918
+    }, {
+      "id" : 2950,
+      "name" : "云生风雨过",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47457.jpg",
+      "summary" : "空山惊花落，梦醒独萧索。前尘俱消散，云生风雨过。",
+      "updateStatus" : 1,
+      "capacity" : 1999709,
+      "readerCount" : 4829
+    }, {
+      "id" : 2100,
+      "name" : "终归殊途，许可同归",
+      "coverUrl" : "",
+      "summary" : "三个人的穿越旅行，三个不同的感情故事。穿越后的神奇异能，各自爱上了不同的人，随着爱情的加深，友情的告",
+      "updateStatus" : 1,
+      "capacity" : 4399592,
+      "readerCount" : 4463
+    }, {
+      "id" : 3121,
+      "name" : "云从山庄",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22509.jpg",
+      "summary" : "她本是漓城苏家的大小姐，本以为一世都可以待在漓城的琴雨轩里无忧无虑。怎奈，一夜之间成了云家二小姐，并",
+      "updateStatus" : 1,
+      "capacity" : 333262,
+      "readerCount" : 4367
+    }, {
+      "id" : 3239,
+      "name" : "一情二恨三生缘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45296.jpg",
+      "summary" : "命定一生的情人，一场误会，一次车祸，让深爱彼此的两个人分隔两界。女主勇于挑战自我，在意识空间的明暗两",
+      "updateStatus" : 1,
+      "capacity" : 1142371,
+      "readerCount" : 4216
+    }, {
+      "id" : 2976,
+      "name" : "少女养成之就是赖上你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21195.jpg",
+      "summary" : "这是什么世道？连睡个觉都有可能睡死？可怜的她才十八岁，就这样香消玉殒了吗？什么，小鬼勾错魂了，那能让",
+      "updateStatus" : 1,
+      "capacity" : 5412982,
+      "readerCount" : 4196
+    }, {
+      "id" : 2571,
+      "name" : "弦断只影",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21828.jpg",
+      "summary" : "一把古琴，一段至死不渝的情缘，在武林的腥风血雨中，随着身世之谜的层层揭开，又会有怎样的惊天秘密，而在",
+      "updateStatus" : 1,
+      "capacity" : 6009516,
+      "readerCount" : 4184
+    }, {
+      "id" : 3134,
+      "name" : "山河暮色凉",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44990.jpg",
+      "summary" : "我穿越了千年的时光才来到你面前你没有认出我，我不怪你我们一起经历了那么多风雨、生死与共我以为我已经可",
+      "updateStatus" : 1,
+      "capacity" : 380506,
+      "readerCount" : 4170
+    }, {
+      "id" : 3275,
+      "name" : "暗昙",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45765.jpg",
+      "summary" : "从出生就受众人瞩目和疼爱的她在童年一场叛变的风波中发生了致命的变化……获救后残酷地对自己进行训练，为",
+      "updateStatus" : 1,
+      "capacity" : 325893,
+      "readerCount" : 4138
+    }, {
+      "id" : 3240,
+      "name" : "打工江湖路",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42644.jpg",
+      "summary" : "江湖路上，有人寻仇，有人寻宝，名门正派已日渐没落，一代大侠吴庭玉的第五代嫡传弟子老刀,壁虎,竹竿人个",
+      "updateStatus" : 1,
+      "capacity" : 1173230,
+      "readerCount" : 4136
+    }, {
+      "id" : 2574,
+      "name" : "陌上红尘之顾城恋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22098.jpg",
+      "summary" : "她不过是任别人摆布的玩偶，她不过是被别人玩弄于鼓掌之中的玩物，在那惊鸿一瞥时，在那羞涩一瞥时，在那嫣",
+      "updateStatus" : 1,
+      "capacity" : 6504661,
+      "readerCount" : 4085
+    }, {
+      "id" : 3686,
+      "name" : "美人谋：宠妃不贤良",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20092.jpg",
+      "summary" : "她一舞倾城，凭借着像极了母亲的眉眼，顺利地从宫女坐上了一宫主位，从此在后宫的阴谋诡计中，步步为营，如",
+      "updateStatus" : 1,
+      "capacity" : 830236,
+      "readerCount" : 3995
+    } ]
+  }
+}

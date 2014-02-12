@@ -1,0 +1,74 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 16,
+    "list" : [ {
+      "id" : 1152,
+      "title" : "第一章 奇怪的梦",
+      "capacity" : 8362
+    }, {
+      "id" : 1153,
+      "title" : "第二章 诡异玉简",
+      "capacity" : 6083
+    }, {
+      "id" : 1154,
+      "title" : "第三章 失忆",
+      "capacity" : 7043
+    }, {
+      "id" : 1155,
+      "title" : "第四章 仙典太虚录",
+      "capacity" : 6066
+    }, {
+      "id" : 1156,
+      "title" : "第五章 太极认主",
+      "capacity" : 7256
+    }, {
+      "id" : 1157,
+      "title" : "第六章 太极空间",
+      "capacity" : 6036
+    }, {
+      "id" : 1158,
+      "title" : "第七章 半神之躯",
+      "capacity" : 6070
+    }, {
+      "id" : 1159,
+      "title" : "第八章 一朝顿悟",
+      "capacity" : 6041
+    }, {
+      "id" : 1160,
+      "title" : "第九章 黑煞之山",
+      "capacity" : 6039
+    }, {
+      "id" : 1161,
+      "title" : "第十章 剿灭",
+      "capacity" : 6140
+    }, {
+      "id" : 1162,
+      "title" : "第十一章 寂灭之法",
+      "capacity" : 6069
+    }, {
+      "id" : 1163,
+      "title" : "第十二章 麒麟老祖",
+      "capacity" : 6874
+    }, {
+      "id" : 1164,
+      "title" : "第十三章 清虚子",
+      "capacity" : 6147
+    }, {
+      "id" : 1165,
+      "title" : "第十四章 逍遥宗",
+      "capacity" : 6188
+    }, {
+      "id" : 1166,
+      "title" : "第十五章 宗主的试探",
+      "capacity" : 6200
+    }, {
+      "id" : 1167,
+      "title" : "第十六章 艰难的抉择",
+      "capacity" : 6055
+    } ]
+  }
+}

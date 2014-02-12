@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 3712,
+    "name" : "夜空泛曲",
+    "author" : "夜空泛曲",
+    "coverUrl" : "",
+    "summary" : "夜空泛曲这是一部很好的作品。",
+    "lastUpdateTime" : "2013-11-30 14:11:58",
+    "updateStatus" : 1,
+    "catId" : 131,
+    "catName" : "灵异悬疑",
+    "capacity" : 55242
+  }
+}

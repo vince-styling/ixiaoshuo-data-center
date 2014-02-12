@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 4708,
+      "title" : "第一章 意外相遇",
+      "capacity" : 10093
+    }, {
+      "id" : 4709,
+      "title" : "第二章 酒吧风波",
+      "capacity" : 7810
+    }, {
+      "id" : 4710,
+      "title" : "第三章 结识飞轮海",
+      "capacity" : 21305
+    }, {
+      "id" : 4711,
+      "title" : "第四章 探班的风暴",
+      "capacity" : 6675
+    }, {
+      "id" : 4712,
+      "title" : "第五章 不愉快的生日 party",
+      "capacity" : 15795
+    } ]
+  }
+}

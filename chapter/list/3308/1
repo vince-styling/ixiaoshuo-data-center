@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1258,
+      "title" : "第一章 初遇",
+      "capacity" : 4033
+    }, {
+      "id" : 1259,
+      "title" : "第二章 绑架！？",
+      "capacity" : 6437
+    }, {
+      "id" : 1260,
+      "title" : "第三章 他、怎么在这里！？",
+      "capacity" : 4469
+    } ]
+  }
+}

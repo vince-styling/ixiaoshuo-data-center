@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 55,
+    "list" : [ {
+      "id" : 4772,
+      "title" : "红颜逝",
+      "capacity" : 7058
+    }, {
+      "id" : 4773,
+      "title" : "入宫受虐01",
+      "capacity" : 13302
+    }, {
+      "id" : 4774,
+      "title" : "入宫受虐02",
+      "capacity" : 5977
+    }, {
+      "id" : 4775,
+      "title" : "意外重逢",
+      "capacity" : 7945
+    }, {
+      "id" : 4776,
+      "title" : "李代桃僵01",
+      "capacity" : 5310
+    } ]
+  }
+}

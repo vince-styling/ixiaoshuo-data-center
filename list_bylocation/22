@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 22,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2936,
+      "name" : "谁言依雪泪墨池",
+      "updateStatus" : 1,
+      "distance" : 4776,
+      "memberId" : 3705
+    }, {
+      "id" : 2804,
+      "name" : "媚妻无限宠",
+      "updateStatus" : 1,
+      "distance" : 6180,
+      "memberId" : 7038
+    }, {
+      "id" : 2516,
+      "name" : "青春，一场久治不愈的感冒",
+      "updateStatus" : 2,
+      "distance" : 8222,
+      "memberId" : 3489
+    }, {
+      "id" : 2055,
+      "name" : "网王王子们的爱之不曾离开",
+      "updateStatus" : 1,
+      "distance" : 6347,
+      "memberId" : 6245
+    }, {
+      "id" : 3464,
+      "name" : "落姮醉时君不醉",
+      "updateStatus" : 1,
+      "distance" : 9537,
+      "memberId" : 1530
+    }, {
+      "id" : 3366,
+      "name" : "绝色江湖",
+      "updateStatus" : 1,
+      "distance" : 3192,
+      "memberId" : 7828
+    }, {
+      "id" : 3136,
+      "name" : "紫墟：涅槃",
+      "updateStatus" : 1,
+      "distance" : 4728,
+      "memberId" : 2602
+    }, {
+      "id" : 2050,
+      "name" : "那些纯纯的爱恋",
+      "updateStatus" : 1,
+      "distance" : 7599,
+      "memberId" : 8094
+    }, {
+      "id" : 2212,
+      "name" : "禁天乱纪元",
+      "updateStatus" : 1,
+      "distance" : 8241,
+      "memberId" : 5532
+    }, {
+      "id" : 3376,
+      "name" : "你是古人哎",
+      "updateStatus" : 1,
+      "distance" : 8718,
+      "memberId" : 1243
+    }, {
+      "id" : 3159,
+      "name" : "红尘陌路",
+      "updateStatus" : 1,
+      "distance" : 8148,
+      "memberId" : 4374
+    }, {
+      "id" : 2362,
+      "name" : "青春小夜曲",
+      "updateStatus" : 2,
+      "distance" : 8986,
+      "memberId" : 5684
+    }, {
+      "id" : 3176,
+      "name" : "留明待玥复",
+      "updateStatus" : 1,
+      "distance" : 4925,
+      "memberId" : 6095
+    }, {
+      "id" : 3279,
+      "name" : "爱情决裂",
+      "updateStatus" : 1,
+      "distance" : 7115,
+      "memberId" : 6065
+    }, {
+      "id" : 2778,
+      "name" : "东山剑",
+      "updateStatus" : 1,
+      "distance" : 7572,
+      "memberId" : 6590
+    }, {
+      "id" : 2085,
+      "name" : "琉璃坊",
+      "updateStatus" : 1,
+      "distance" : 3446,
+      "memberId" : 5706
+    }, {
+      "id" : 2173,
+      "name" : "西游前传：天上掉下个沙和尚",
+      "updateStatus" : 1,
+      "distance" : 3267,
+      "memberId" : 1133
+    }, {
+      "id" : 3293,
+      "name" : "穿越之未知数",
+      "updateStatus" : 1,
+      "distance" : 3539,
+      "memberId" : 8495
+    }, {
+      "id" : 2838,
+      "name" : "小恋曲",
+      "updateStatus" : 2,
+      "distance" : 7226,
+      "memberId" : 5867
+    }, {
+      "id" : 2506,
+      "name" : "再见，青春",
+      "updateStatus" : 1,
+      "distance" : 2230,
+      "memberId" : 7964
+    } ]
+  }
+}

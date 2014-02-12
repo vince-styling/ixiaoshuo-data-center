@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 107,
+    "list" : [ {
+      "id" : 3318,
+      "title" : "责难",
+      "capacity" : 3411
+    }, {
+      "id" : 3319,
+      "title" : "感情之殇兄弟之情",
+      "capacity" : 6089
+    }, {
+      "id" : 3320,
+      "title" : "游园风波",
+      "capacity" : 9880
+    }, {
+      "id" : 3321,
+      "title" : "又起疑惑",
+      "capacity" : 8918
+    }, {
+      "id" : 3322,
+      "title" : "伉俪",
+      "capacity" : 6097
+    }, {
+      "id" : 3323,
+      "title" : "赌约",
+      "capacity" : 6727
+    }, {
+      "id" : 3324,
+      "title" : "她什么都不是",
+      "capacity" : 5672
+    } ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 24,
+    "list" : [ {
+      "id" : 2155,
+      "title" : "第一章 杀手日记",
+      "capacity" : 17816
+    }, {
+      "id" : 2156,
+      "title" : "第二章 我是神的孩子吗",
+      "capacity" : 12485
+    }, {
+      "id" : 2157,
+      "title" : "第三章 痛，并快乐着",
+      "capacity" : 72
+    }, {
+      "id" : 2158,
+      "title" : "第四章 我是一个不受欢迎的人",
+      "capacity" : 14793
+    }, {
+      "id" : 2159,
+      "title" : "第五章 天使还是撒旦",
+      "capacity" : 19245
+    }, {
+      "id" : 2160,
+      "title" : "第六章 何谓冷血",
+      "capacity" : 23248
+    }, {
+      "id" : 2161,
+      "title" : "第七章 谁是谁的救赎",
+      "capacity" : 16499
+    }, {
+      "id" : 2162,
+      "title" : "第八章",
+      "capacity" : 20805
+    }, {
+      "id" : 2163,
+      "title" : "第九章 月会上的挑衅",
+      "capacity" : 18775
+    }, {
+      "id" : 2164,
+      "title" : "第十章 与狐狸的对峙",
+      "capacity" : 18497
+    }, {
+      "id" : 2165,
+      "title" : "第十一章 魔煞翼的正式亮相",
+      "capacity" : 19638
+    }, {
+      "id" : 2166,
+      "title" : "第十二章 Prince是谁",
+      "capacity" : 18303
+    }, {
+      "id" : 2167,
+      "title" : "第十三章 莫名的袭击",
+      "capacity" : 19231
+    }, {
+      "id" : 2168,
+      "title" : "第十四章 化身为索命的阎罗",
+      "capacity" : 21569
+    }, {
+      "id" : 2169,
+      "title" : "第十五章 意外的邂逅",
+      "capacity" : 19782
+    }, {
+      "id" : 2170,
+      "title" : "第十六章 被忽略的占卜",
+      "capacity" : 18479
+    }, {
+      "id" : 2171,
+      "title" : "第十七章 和他的再次相遇",
+      "capacity" : 12169
+    }, {
+      "id" : 2172,
+      "title" : "第十八章 蓝焰之魂",
+      "capacity" : 13052
+    }, {
+      "id" : 2173,
+      "title" : "第十九章 原来等待的人早已出现",
+      "capacity" : 7243
+    }, {
+      "id" : 2174,
+      "title" : "第二十章 缘来是你",
+      "capacity" : 8200
+    }, {
+      "id" : 2175,
+      "title" : "第二十一章 法式热吻",
+      "capacity" : 8014
+    }, {
+      "id" : 2176,
+      "title" : "第二十二章 试探",
+      "capacity" : 5770
+    }, {
+      "id" : 2177,
+      "title" : "第二十三章 怀疑",
+      "capacity" : 6450
+    }, {
+      "id" : 2178,
+      "title" : "第二十四章 巧遇昌勋",
+      "capacity" : 17469
+    } ]
+  }
+}

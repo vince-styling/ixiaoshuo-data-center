@@ -1,0 +1,154 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 36,
+    "list" : [ {
+      "id" : 3379,
+      "title" : "Passage 1:缘起",
+      "capacity" : 6627
+    }, {
+      "id" : 3380,
+      "title" : "Passage 2:旅行通知",
+      "capacity" : 6438
+    }, {
+      "id" : 3381,
+      "title" : "Passage 3:回忆",
+      "capacity" : 6579
+    }, {
+      "id" : 3382,
+      "title" : "Passage 4:路途",
+      "capacity" : 5076
+    }, {
+      "id" : 3383,
+      "title" : "Passage 5:终于抵达",
+      "capacity" : 7595
+    }, {
+      "id" : 3384,
+      "title" : "Passage 6:从不善良",
+      "capacity" : 8219
+    }, {
+      "id" : 3385,
+      "title" : "Passage 7:套话",
+      "capacity" : 10513
+    }, {
+      "id" : 3386,
+      "title" : "Passage 8:真心话大冒险",
+      "capacity" : 5688
+    }, {
+      "id" : 3387,
+      "title" : "Passage 9:一夜暧昧",
+      "capacity" : 4526
+    }, {
+      "id" : 3388,
+      "title" : "Passage 10 :你猜",
+      "capacity" : 4537
+    }, {
+      "id" : 3389,
+      "title" : "Passage 11:放我们出去",
+      "capacity" : 4750
+    }, {
+      "id" : 3390,
+      "title" : "Passage 12: 离开",
+      "capacity" : 4509
+    }, {
+      "id" : 3391,
+      "title" : "Passage 13:传说中的女配",
+      "capacity" : 5027
+    }, {
+      "id" : 3392,
+      "title" : "Passage 14:女配猛于虎",
+      "capacity" : 4851
+    }, {
+      "id" : 3393,
+      "title" : "Passage 15:一个叫代孕的人",
+      "capacity" : 6634
+    }, {
+      "id" : 3394,
+      "title" : "Passage 16:夜店",
+      "capacity" : 7067
+    }, {
+      "id" : 3395,
+      "title" : "Passage 17: 电话勾搭",
+      "capacity" : 9939
+    }, {
+      "id" : 3396,
+      "title" : "Passage 18 : 赴宴",
+      "capacity" : 8937
+    }, {
+      "id" : 3397,
+      "title" : "Passage 19: 践行",
+      "capacity" : 8487
+    }, {
+      "id" : 3398,
+      "title" : "Passage 20:遂了心愿",
+      "capacity" : 10337
+    }, {
+      "id" : 3399,
+      "title" : "Passage21:在一起",
+      "capacity" : 7324
+    }, {
+      "id" : 3400,
+      "title" : "Passage 22:病态舅舅",
+      "capacity" : 7072
+    }, {
+      "id" : 3401,
+      "title" : "Passage 23:再见南安",
+      "capacity" : 7423
+    }, {
+      "id" : 3402,
+      "title" : "Passage 24:改去H市",
+      "capacity" : 7166
+    }, {
+      "id" : 3403,
+      "title" : "Passage 25:父女争执",
+      "capacity" : 9014
+    }, {
+      "id" : 3404,
+      "title" : "Passage 26 :身份特殊的人质",
+      "capacity" : 8813
+    }, {
+      "id" : 3405,
+      "title" : "Passage 27:她不是目击证人",
+      "capacity" : 6326
+    }, {
+      "id" : 3406,
+      "title" : "Passage 28:见长辈",
+      "capacity" : 7086
+    }, {
+      "id" : 3407,
+      "title" : "Passage 29:被拐回家",
+      "capacity" : 7181
+    }, {
+      "id" : 3408,
+      "title" : "Passage 30:地下拍卖会所",
+      "capacity" : 5768
+    }, {
+      "id" : 3409,
+      "title" : "Passage 31:预备见家长",
+      "capacity" : 7563
+    }, {
+      "id" : 3410,
+      "title" : "Passage 32:冰火两重天（初吻求围观）",
+      "capacity" : 5684
+    }, {
+      "id" : 3411,
+      "title" : "Passage 33:女王对决",
+      "capacity" : 4389
+    }, {
+      "id" : 3412,
+      "title" : "Passage 34:暴露",
+      "capacity" : 5043
+    }, {
+      "id" : 3413,
+      "title" : "Passage 35:买古玩",
+      "capacity" : 7742
+    }, {
+      "id" : 3414,
+      "title" : "Passage 36:以吻封口",
+      "capacity" : 6414
+    } ]
+  }
+}

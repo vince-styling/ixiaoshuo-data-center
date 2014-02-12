@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 85,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3408,
+      "name" : "综恐一梦一回",
+      "updateStatus" : 1,
+      "distance" : 8427,
+      "memberId" : 3337
+    } ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 5,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2578,
+      "name" : "毕业不分手",
+      "summary" : "一个情场商场均得意，风流倜傥，长相妖孽，阅女无数，百花丛中过，片叶不沾身；一个长相清丽可人，原本弱水",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45653.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6260526,
+      "lastUpdateTime" : "2013-12-28 02:19:07"
+    }, {
+      "id" : 2950,
+      "name" : "云生风雨过",
+      "summary" : "空山惊花落，梦醒独萧索。前尘俱消散，云生风雨过。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47457.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1999709,
+      "lastUpdateTime" : "2013-12-28 01:15:47"
+    }, {
+      "id" : 2071,
+      "name" : "月落紫禁",
+      "summary" : "一场泥石流，使她魂归三百年前，于三百年前的紫禁城来说，她只是一个过客，看似拥有一切的她，却始终挣扎在",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19343.jpg",
+      "updateStatus" : 2,
+      "capacity" : 2251707,
+      "lastUpdateTime" : "2013-12-28 01:13:00"
+    }, {
+      "id" : 2872,
+      "name" : "口是心非：那个女人的谎言",
+      "summary" : "在娱乐圈，想要保持知名度，那么绯闻是必不可少，身在娱乐圈的她不是很清楚？明明相爱为什么说分手？但骄傲",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44394.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1114120,
+      "lastUpdateTime" : "2013-12-28 00:35:16"
+    }, {
+      "id" : 2344,
+      "name" : "枫林残恋",
+      "summary" : "阎晏死了，又活了，在一个十多岁的小屁孩身上活了过来，睁开眼却发现自己正经历着家破人亡的戏码。为了逃命",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47803.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4376945,
+      "lastUpdateTime" : "2013-12-28 00:35:13"
+    }, {
+      "id" : 3311,
+      "name" : "韩菲之黑道女帝",
+      "summary" : "黑道，日日夜夜的在刀口上舔血、只能赌命的地方。一局，赢,则生，输,则死，没有后路可以退。这，就是她必",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44991.jpg",
+      "updateStatus" : 1,
+      "capacity" : 874605,
+      "lastUpdateTime" : "2013-12-28 00:13:17"
+    }, {
+      "id" : 3054,
+      "name" : "宫：殇世绝恋",
+      "summary" : "悲伤葬在雪中的女子，本躲红尘苦，却未料穿越生死情，爱上那个世间最痴情的男儿。或是命已注定无缘的悲剧，",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 43648,
+      "lastUpdateTime" : "2013-12-27 23:53:35"
+    }, {
+      "id" : 2826,
+      "name" : "沐晴只到梨花薄",
+      "summary" : "她，成熟稳重却又可爱果敢，当那个男人把喝醉酒的她独自扔下，以至于她差点被人强暴。醒来后的她就说了一句",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45535.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5287276,
+      "lastUpdateTime" : "2013-12-27 23:47:23"
+    }, {
+      "id" : 3461,
+      "name" : "束缚中的约定",
+      "summary" : "《我愿用千年情，换你一世温柔。我愿用千年思，换你一日爱恋》错误的开始，延续了千年的伤痛，到最后明白了",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20616.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1152472,
+      "lastUpdateTime" : "2013-12-27 23:42:17"
+    }, {
+      "id" : 3666,
+      "name" : "傲视苍穹：痴傻七小姐",
+      "summary" : "21世纪最出色的女特工出任务时，居然遭到了同伴的背叛！爆炸声响起，焰碟肉身灰飞烟灭，穿越架空时代，成",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42648.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1922694,
+      "lastUpdateTime" : "2013-12-27 23:26:06"
+    }, {
+      "id" : 3029,
+      "name" : "双女穿越记",
+      "summary" : "话说这年头人人玩穿越，车祸穿、跳楼穿、雷劈穿.....总之是因有尽有，无奇不有。但是咱们可不同，是跟",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14988.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4541191,
+      "lastUpdateTime" : "2013-12-27 23:14:50"
+    }, {
+      "id" : 2117,
+      "name" : "天道魔情",
+      "summary" : "神纪末期，在龙宇刚过十岁时，自己喜爱的青冥神公主殒身，在诛心和贰负神酋长的阴谋诡计下，稀里糊涂地离开",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_8868.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1544772,
+      "lastUpdateTime" : "2013-12-27 23:11:10"
+    }, {
+      "id" : 3332,
+      "name" : "不会失忆的爱",
+      "summary" : "他是她第一个动心的男生，可他们却有缘无分，后来的他们又将怎样下去？她与他只有几面之缘，可却与他有了情",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 166135,
+      "lastUpdateTime" : "2013-12-27 23:10:25"
+    }, {
+      "id" : 3465,
+      "name" : "凤皇",
+      "summary" : "当君世颜穿越到女尊的世界的暴君身上，是虚度一生还是建功立业是个问题，是后宫三千佳丽还是过独身生活也是",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 28019,
+      "lastUpdateTime" : "2013-12-27 22:27:50"
+    }, {
+      "id" : 2391,
+      "name" : "清清子毅",
+      "summary" : "简版：真正爱上一个人的时候，一切都那么值得，包括不可避免的伤害。我爱你，你可知道？详尽版：6年前，翩",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18711.jpg",
+      "updateStatus" : 2,
+      "capacity" : 4349530,
+      "lastUpdateTime" : "2013-12-27 22:14:07"
+    }, {
+      "id" : 2994,
+      "name" : "低入尘埃终将花开",
+      "summary" : "阴谋似无底黑洞，贪婪阴险的人性，权利与欲望蠢蠢欲动，谁将护谁安好？傲骨跋扈的他在他们的感情世界里为何",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44684.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3334681,
+      "lastUpdateTime" : "2013-12-27 21:28:51"
+    }, {
+      "id" : 2124,
+      "name" : "爱情如此多骄",
+      "summary" : "大姨妈？！为什么偏要这时候来？虾米！梁大侠怎么这么养眼。。。等等，他在笑，笑什么呢？？？啊，不好，裙",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22530.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3744641,
+      "lastUpdateTime" : "2013-12-27 21:08:38"
+    }, {
+      "id" : 3433,
+      "name" : "宿敌",
+      "summary" : "一个百年家族的湮灭，一个少年的血海深仇之旅，爱上了一个绝世倾城的女子，不巧，她却是他仇人的女儿，纵然",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44064.jpg",
+      "updateStatus" : 1,
+      "capacity" : 302851,
+      "lastUpdateTime" : "2013-12-27 20:28:48"
+    }, {
+      "id" : 2277,
+      "name" : "水控苍穹",
+      "summary" : "爽文阅读，经历海上掠食者的恩怨情仇！热血搏浪，奔赴气势恢宏的海战！快乐品鉴，反思历史转折点的大明海权",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22267.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9574730,
+      "lastUpdateTime" : "2013-12-27 20:27:57"
+    }, {
+      "id" : 2102,
+      "name" : "殿下惑世",
+      "summary" : "她是楚国公主，却过着卑微如宫女的日子。再次受辱，她奋起反击，为了让自己的弟弟登上皇位不惜一切代价，甚",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 5741220,
+      "lastUpdateTime" : "2013-12-27 20:10:01"
+    } ]
+  }
+}

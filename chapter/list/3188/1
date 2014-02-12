@@ -1,0 +1,118 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 27,
+    "list" : [ {
+      "id" : 3739,
+      "title" : "第一章",
+      "capacity" : 6257
+    }, {
+      "id" : 3740,
+      "title" : "第二章",
+      "capacity" : 6084
+    }, {
+      "id" : 3741,
+      "title" : "第三章 立海大",
+      "capacity" : 6068
+    }, {
+      "id" : 3742,
+      "title" : "第四章 宠爱",
+      "capacity" : 6124
+    }, {
+      "id" : 3743,
+      "title" : "第五章 青学",
+      "capacity" : 4721
+    }, {
+      "id" : 3744,
+      "title" : "第六章 绵羊慈郎",
+      "capacity" : 5729
+    }, {
+      "id" : 3745,
+      "title" : "第七章 搬家",
+      "capacity" : 4349
+    }, {
+      "id" : 3746,
+      "title" : "第八章 交往",
+      "capacity" : 3837
+    }, {
+      "id" : 3747,
+      "title" : "第九章 梦想全国",
+      "capacity" : 3761
+    }, {
+      "id" : 3748,
+      "title" : "第十章 地区赛开始",
+      "capacity" : 3399
+    }, {
+      "id" : 3749,
+      "title" : "第十一张 礼物",
+      "capacity" : 3694
+    }, {
+      "id" : 3750,
+      "title" : "第十二章 告白",
+      "capacity" : 4060
+    }, {
+      "id" : 3751,
+      "title" : "第十三章 吃醋",
+      "capacity" : 5123
+    }, {
+      "id" : 3752,
+      "title" : "第十四章 宝贝",
+      "capacity" : 4794
+    }, {
+      "id" : 3753,
+      "title" : "第十五章 混乱的下午",
+      "capacity" : 3707
+    }, {
+      "id" : 3754,
+      "title" : "第十六章 合宿",
+      "capacity" : 6575
+    }, {
+      "id" : 3755,
+      "title" : "第十七章 初露情谊",
+      "capacity" : 4163
+    }, {
+      "id" : 3756,
+      "title" : "第十八章 记忆深处",
+      "capacity" : 3874
+    }, {
+      "id" : 3757,
+      "title" : "第十九章 番外",
+      "capacity" : 3840
+    }, {
+      "id" : 3758,
+      "title" : "第二十章 记忆中的水仙花",
+      "capacity" : 5065
+    }, {
+      "id" : 3759,
+      "title" : "第二十一章 情敌",
+      "capacity" : 4525
+    }, {
+      "id" : 3760,
+      "title" : "第二十二章 生日快乐",
+      "capacity" : 5674
+    }, {
+      "id" : 3761,
+      "title" : "第二十三章 改变",
+      "capacity" : 4400
+    }, {
+      "id" : 3762,
+      "title" : "第二十四章 他",
+      "capacity" : 5800
+    }, {
+      "id" : 3763,
+      "title" : "第二十五章 开解",
+      "capacity" : 6048
+    }, {
+      "id" : 3764,
+      "title" : "第二十六章 可怜的慈郎",
+      "capacity" : 3686
+    }, {
+      "id" : 3765,
+      "title" : "第二十七章 拔河运动",
+      "capacity" : 6035
+    } ]
+  }
+}

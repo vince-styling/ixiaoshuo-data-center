@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 4186,
+      "title" : "第一章 昨夜西风凋碧树",
+      "capacity" : 5436
+    }, {
+      "id" : 4187,
+      "title" : "第二章 情到浓时情转薄",
+      "capacity" : 4163
+    }, {
+      "id" : 4188,
+      "title" : "第三章 几段唏嘘几段悲",
+      "capacity" : 4351
+    }, {
+      "id" : 4189,
+      "title" : "第四章 明珠蒙尘（一）",
+      "capacity" : 6334
+    }, {
+      "id" : 4190,
+      "title" : "第五章 明珠蒙尘（二）",
+      "capacity" : 11615
+    }, {
+      "id" : 4191,
+      "title" : "第六章 曲径通幽",
+      "capacity" : 4234
+    }, {
+      "id" : 4192,
+      "title" : "第七章 清雪非清",
+      "capacity" : 6488
+    }, {
+      "id" : 4193,
+      "title" : "第八章 杜家秋娘",
+      "capacity" : 4753
+    }, {
+      "id" : 4194,
+      "title" : "第九章 流光飞舞",
+      "capacity" : 5902
+    }, {
+      "id" : 4195,
+      "title" : "第十章 江湖剑客",
+      "capacity" : 4598
+    }, {
+      "id" : 4196,
+      "title" : "第十一章 有女如梅",
+      "capacity" : 6909
+    }, {
+      "id" : 4197,
+      "title" : "第十二章 夜月孤战",
+      "capacity" : 5732
+    }, {
+      "id" : 4198,
+      "title" : "第十三章 白衣胜雪",
+      "capacity" : 7067
+    }, {
+      "id" : 4199,
+      "title" : "第十四章 借船（一）",
+      "capacity" : 3174
+    }, {
+      "id" : 4200,
+      "title" : "第十五章 借船（二）",
+      "capacity" : 5323
+    }, {
+      "id" : 4201,
+      "title" : "第十六章 借船（三）",
+      "capacity" : 5121
+    }, {
+      "id" : 4202,
+      "title" : "第十七章 借船（四）",
+      "capacity" : 4938
+    }, {
+      "id" : 4203,
+      "title" : "第十八章 借船（五）",
+      "capacity" : 7123
+    }, {
+      "id" : 4204,
+      "title" : "第十九章 日出万丈",
+      "capacity" : 4493
+    } ]
+  }
+}

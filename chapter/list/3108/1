@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 1677,
+      "title" : "扫地出门",
+      "capacity" : 9431
+    }, {
+      "id" : 1678,
+      "title" : "李煜",
+      "capacity" : 3746
+    }, {
+      "id" : 1679,
+      "title" : "车祸",
+      "capacity" : 6054
+    }, {
+      "id" : 1680,
+      "title" : "疼",
+      "capacity" : 5899
+    }, {
+      "id" : 1681,
+      "title" : "委屈的感觉",
+      "capacity" : 9186
+    }, {
+      "id" : 1682,
+      "title" : "耍流氓",
+      "capacity" : 6076
+    }, {
+      "id" : 1683,
+      "title" : "说瞎话是要挨揍的",
+      "capacity" : 3143
+    } ]
+  }
+}

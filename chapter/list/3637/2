@@ -1,0 +1,142 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 83,
+    "list" : [ {
+      "id" : 4536,
+      "title" : "廿四春谱（上）",
+      "capacity" : 12511
+    }, {
+      "id" : 4537,
+      "title" : "廿四春谱（下）",
+      "capacity" : 13484
+    }, {
+      "id" : 4538,
+      "title" : "乞巧赛针",
+      "capacity" : 15357
+    }, {
+      "id" : 4539,
+      "title" : "袁彬成婚（1）",
+      "capacity" : 9166
+    }, {
+      "id" : 4540,
+      "title" : "袁彬成婚（2）",
+      "capacity" : 9662
+    }, {
+      "id" : 4541,
+      "title" : "风雨欲来",
+      "capacity" : 16111
+    }, {
+      "id" : 4542,
+      "title" : "一朝下马",
+      "capacity" : 14856
+    }, {
+      "id" : 4543,
+      "title" : "内阁新辅（上）",
+      "capacity" : 12770
+    }, {
+      "id" : 4544,
+      "title" : "内阁新辅（中）",
+      "capacity" : 8317
+    }, {
+      "id" : 4545,
+      "title" : "内阁新辅（下）",
+      "capacity" : 14325
+    }, {
+      "id" : 4546,
+      "title" : "千里起解",
+      "capacity" : 11975
+    }, {
+      "id" : 4547,
+      "title" : "襄王进京（上）",
+      "capacity" : 16887
+    }, {
+      "id" : 4548,
+      "title" : "襄王进京（下）",
+      "capacity" : 16161
+    }, {
+      "id" : 4549,
+      "title" : "以己为饵",
+      "capacity" : 12946
+    }, {
+      "id" : 4550,
+      "title" : "兵部尚书（上）",
+      "capacity" : 13667
+    }, {
+      "id" : 4551,
+      "title" : "兵部尚书（下）",
+      "capacity" : 13484
+    }, {
+      "id" : 4552,
+      "title" : "弄巧成拙",
+      "capacity" : 15122
+    }, {
+      "id" : 4553,
+      "title" : "风起云涌",
+      "capacity" : 12881
+    }, {
+      "id" : 4554,
+      "title" : "斗智斗勇",
+      "capacity" : 12442
+    }, {
+      "id" : 4555,
+      "title" : "石氏之覆",
+      "capacity" : 12306
+    }, {
+      "id" : 4556,
+      "title" : "宫女出宫",
+      "capacity" : 20042
+    }, {
+      "id" : 4557,
+      "title" : "江嫔孕事（上）",
+      "capacity" : 10903
+    }, {
+      "id" : 4558,
+      "title" : "江嫔孕事（下）",
+      "capacity" : 15057
+    }, {
+      "id" : 4559,
+      "title" : "豪气干云",
+      "capacity" : 13611
+    }, {
+      "id" : 4560,
+      "title" : "妃份落定",
+      "capacity" : 14099
+    }, {
+      "id" : 4561,
+      "title" : "大珰梁芳",
+      "capacity" : 16367
+    }, {
+      "id" : 4562,
+      "title" : "惊天秘闻",
+      "capacity" : 13111
+    }, {
+      "id" : 4563,
+      "title" : "曹氏夺门",
+      "capacity" : 15508
+    }, {
+      "id" : 4564,
+      "title" : "储君大婚",
+      "capacity" : 13722
+    }, {
+      "id" : 4565,
+      "title" : "对食风波（上）",
+      "capacity" : 13716
+    }, {
+      "id" : 4566,
+      "title" : "对食风波（下）",
+      "capacity" : 11095
+    }, {
+      "id" : 4567,
+      "title" : "皇帝起病（上）",
+      "capacity" : 11297
+    }, {
+      "id" : 4568,
+      "title" : "皇帝起病（下）",
+      "capacity" : 5154
+    } ]
+  }
+}

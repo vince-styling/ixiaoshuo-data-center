@@ -1,0 +1,70 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 15,
+    "list" : [ {
+      "id" : 2143,
+      "title" : "欢爱之旅",
+      "capacity" : 6523
+    }, {
+      "id" : 2144,
+      "title" : "欢爱之旅2",
+      "capacity" : 7634
+    }, {
+      "id" : 2145,
+      "title" : "奇怪的女人",
+      "capacity" : 6590
+    }, {
+      "id" : 2146,
+      "title" : "他们已经来了",
+      "capacity" : 7025
+    }, {
+      "id" : 2147,
+      "title" : "无法离开",
+      "capacity" : 6708
+    }, {
+      "id" : 2148,
+      "title" : "是好奇心杀了你",
+      "capacity" : 6224
+    }, {
+      "id" : 2149,
+      "title" : "色鬼压床",
+      "capacity" : 6660
+    }, {
+      "id" : 2150,
+      "title" : "睫毛祈长的美男子",
+      "capacity" : 6869
+    }, {
+      "id" : 2151,
+      "title" : "谁在浴室里？",
+      "capacity" : 6180
+    }, {
+      "id" : 2152,
+      "title" : "争吵",
+      "capacity" : 7485
+    }, {
+      "id" : 2153,
+      "title" : "还我头颅",
+      "capacity" : 6881
+    }, {
+      "id" : 2154,
+      "title" : "疯子的故事1",
+      "capacity" : 6212
+    }, {
+      "id" : 2155,
+      "title" : "疯子的故事2",
+      "capacity" : 6459
+    }, {
+      "id" : 2156,
+      "title" : "她就是鬼",
+      "capacity" : 4981
+    }, {
+      "id" : 2157,
+      "title" : "午夜惊魂之公车有鬼",
+      "capacity" : 2254
+    } ]
+  }
+}

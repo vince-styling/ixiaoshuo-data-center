@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 10,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2624,
+      "name" : "夏天，冰淇淋，還有……",
+      "summary" : "我从夏天开始写起，我不怎么喜欢说话，唯有用文字去表达我的一切。我曾经把所有的感情都放在画笔里，每天忘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16544.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3888118,
+      "lastUpdateTime" : "2013-12-25 16:58:01"
+    }, {
+      "id" : 2736,
+      "name" : "我是石观音",
+      "summary" : "只是很喜欢楚留香与石观音的爱情，偏偏天公不作美，两人与分手收场，一直都希望他们能在一起。然而意外穿越",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 8799896,
+      "lastUpdateTime" : "2013-12-25 16:46:45"
+    }, {
+      "id" : 3644,
+      "name" : "小姐也粗鲁",
+      "summary" : "古代女人做官？其实根本就没当官，只是打个幌子，开始一系列无语，又囧又雷的生涯，有孩子的抱好孩子，喜欢",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43055.jpg",
+      "updateStatus" : 1,
+      "capacity" : 383677,
+      "lastUpdateTime" : "2013-12-25 16:30:07"
+    }, {
+      "id" : 3053,
+      "name" : "俏皮男女世外生活记",
+      "summary" : "红尘繁华，但身不由己；那么世外生活如何......",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 52593,
+      "lastUpdateTime" : "2013-12-25 16:14:30"
+    }, {
+      "id" : 2414,
+      "name" : "寻爱之旅",
+      "summary" : "进入二十一世纪，天庭受到人类社会巨大变化的震动，开始革新。帝俊，这个曾经不可一世的玉皇大帝，终于在心",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_9905.jpg",
+      "updateStatus" : 2,
+      "capacity" : 7431486,
+      "lastUpdateTime" : "2013-12-25 16:10:44"
+    }, {
+      "id" : 3565,
+      "name" : "缘定三生",
+      "summary" : "一个白色身影打着一把油伞，细雨太过朦胧让人看不清面容，模糊的身影，雨不知何时已停。身影猛然顿住，前面",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19228.jpg",
+      "updateStatus" : 1,
+      "capacity" : 676306,
+      "lastUpdateTime" : "2013-12-25 15:50:46"
+    }, {
+      "id" : 2139,
+      "name" : "天地无门",
+      "summary" : "“踏上通天路，决战天陨台，胜登升仙门，败坠狱九幽！”就是这么简简单单的二十个字，却宛如炸雷一般沸腾了",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17058.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8759197,
+      "lastUpdateTime" : "2013-12-25 15:39:25"
+    }, {
+      "id" : 2540,
+      "name" : "天降魔法师",
+      "summary" : "王善：“你到底从哪来啊？”骆林：“天上。”王善：“……唬谁。”骆林：“你。”王善：“……你还是滚出去",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46185.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8270465,
+      "lastUpdateTime" : "2013-12-25 14:55:59"
+    }, {
+      "id" : 2060,
+      "name" : "和亲九公主：霸爱拽夫君",
+      "summary" : "她，一个爹不亲娘不要的九公主，无权无势无颜面，活得比谁都长命是她的愿望，向来人不犯我我不犯人，人若犯",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16215.jpg",
+      "updateStatus" : 2,
+      "capacity" : 6429154,
+      "lastUpdateTime" : "2013-12-25 14:42:00"
+    }, {
+      "id" : 2296,
+      "name" : "梦穿康熙换乾坤",
+      "summary" : "梦穿康熙朝，勉力换乾坤！一个普通的当代公务员，混迹职场，感悟爱情，却横遭变数——一场大梦，醒来被穿越",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44362.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4303360,
+      "lastUpdateTime" : "2013-12-25 13:57:13"
+    }, {
+      "id" : 3362,
+      "name" : "异界之重生随心乱",
+      "summary" : "似柔弱，似刚强，倾城容颜红尘相随，王者之路，随心去，只为梦圆心足。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45877.jpg",
+      "updateStatus" : 1,
+      "capacity" : 94803,
+      "lastUpdateTime" : "2013-12-25 13:43:55"
+    }, {
+      "id" : 2689,
+      "name" : "穿越之歌月徘徊",
+      "summary" : "因碧玉手镯穿越到天陆王朝，她结识命中注定的人，亲情，爱情，友情，她步步惊心，然而命运之所以神奇，在于",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47479.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2681793,
+      "lastUpdateTime" : "2013-12-25 09:31:02"
+    }, {
+      "id" : 2961,
+      "name" : "喜荣华正好",
+      "summary" : "春日游，杏花吹满头。陌上谁家年少？足风流。妾拟将身嫁与，一生休。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44784.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9728310,
+      "lastUpdateTime" : "2013-12-25 09:12:24"
+    }, {
+      "id" : 2740,
+      "name" : "熟女的清穿经历",
+      "summary" : "上一世，她父母双亡婚姻失败事业惨遭滑铁卢。这一世，她放下心结，不断学习，在一次次的斗争中，终于有了一",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46567.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9041512,
+      "lastUpdateTime" : "2013-12-25 08:57:11"
+    }, {
+      "id" : 3593,
+      "name" : "锦春",
+      "summary" : "这注定是一个风起云涌的时代，他们的故事短暂而美丽。浮华与没落，喧嚣与沉积，在新旧文明交替的时代，在这",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45558.jpg",
+      "updateStatus" : 1,
+      "capacity" : 857362,
+      "lastUpdateTime" : "2013-12-25 08:44:37"
+    }, {
+      "id" : 3121,
+      "name" : "云从山庄",
+      "summary" : "她本是漓城苏家的大小姐，本以为一世都可以待在漓城的琴雨轩里无忧无虑。怎奈，一夜之间成了云家二小姐，并",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22509.jpg",
+      "updateStatus" : 1,
+      "capacity" : 333262,
+      "lastUpdateTime" : "2013-12-25 07:56:27"
+    }, {
+      "id" : 3333,
+      "name" : "清梦未央",
+      "summary" : "穿越百年的灵魂，是报应？还是塔罗牌命运之轮的魔力让我遇到你们？此情可待成追忆，只是当时已惘然和他注定",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47804.jpg",
+      "updateStatus" : 1,
+      "capacity" : 34381,
+      "lastUpdateTime" : "2013-12-25 06:22:02"
+    }, {
+      "id" : 3388,
+      "name" : "栩你一世言如歌",
+      "summary" : "他是江湖第一帮派帮主，她是第二帮派继承人。一场跨越国界的联姻，却让本该敌对的他们结为夫妻。命运坎坷，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45048.jpg",
+      "updateStatus" : 1,
+      "capacity" : 157783,
+      "lastUpdateTime" : "2013-12-25 05:47:08"
+    }, {
+      "id" : 3342,
+      "name" : "我视你如毛线",
+      "summary" : "“你干什么？！你脱，你再脱我就跟你急！哎哎不要脸了你这是？”“磊子哥，摸摸这，一腔热血全是为你流着呢",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47754.jpg",
+      "updateStatus" : 1,
+      "capacity" : 223328,
+      "lastUpdateTime" : "2013-12-25 05:45:55"
+    }, {
+      "id" : 2832,
+      "name" : "腹黑总裁：变身擒爱萌宠召唤师",
+      "summary" : "“你叫顾总？好吧，你给我听好了！”第一次见面她泼了他一脸咖啡奶茶混合物，指他鼻子大骂一顿。“你丫还拍",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45470.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5200007,
+      "lastUpdateTime" : "2013-12-25 05:36:31"
+    } ]
+  }
+}

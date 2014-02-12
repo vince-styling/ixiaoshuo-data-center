@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 9,
+    "totalPageCount" : 31,
+    "totalItemCount" : 616,
+    "list" : [ {
+      "id" : 2404,
+      "name" : "一场游戏一场梦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47081.jpg",
+      "summary" : "愚蠢。我以为人生只能失误一次，但实际上对于不长脑子的人来说失误多少次都不算多。愚蠢。我以为这一辈子有",
+      "updateStatus" : 1,
+      "capacity" : 1126750,
+      "readerCount" : 9458
+    }, {
+      "id" : 2415,
+      "name" : "学生起义军",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_12043.jpg",
+      "summary" : "“众位，我们此刻站在这里是为了什么，不是为了报仇，是为了反抗，反抗一直以来压迫我们的学校，一直以来惨",
+      "updateStatus" : 2,
+      "capacity" : 5669732,
+      "readerCount" : 9426
+    }, {
+      "id" : 2786,
+      "name" : "拂晓",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47516.jpg",
+      "summary" : "第一次遇见李怡，他就知道不会有什么好事发生，罚站都有人跟他争，这样的女生还真算得上“红颜知己”。第一",
+      "updateStatus" : 1,
+      "capacity" : 1139508,
+      "readerCount" : 9392
+    }, {
+      "id" : 3013,
+      "name" : "4大魔女玩转学院",
+      "coverUrl" : "",
+      "summary" : "想知道4个魔女如何玩转学院，阴差阳错的获得校草的“芳心”吗？那就来点击一下阅读本书，来看看吧！",
+      "updateStatus" : 1,
+      "capacity" : 1296740,
+      "readerCount" : 9261
+    }, {
+      "id" : 2853,
+      "name" : "特工老总红粉员工",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43193.jpg",
+      "summary" : "谁也想不到，让人谈之色变，震惊特工界的“暗夜幽灵”竟然只是个普通得不能再普通的年轻人—孟大年。社会安",
+      "updateStatus" : 1,
+      "capacity" : 7855308,
+      "readerCount" : 9236
+    }, {
+      "id" : 2756,
+      "name" : "乖宝宝阵线联盟之一：帅宝贝别使坏",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44527.jpg",
+      "summary" : "这是五个天才宝宝寻找真爱的故事，不要想歪了，盆友们！真爱不是大人的世界才有的东东哦。小宝贝们只是想要",
+      "updateStatus" : 1,
+      "capacity" : 1963409,
+      "readerCount" : 9223
+    }, {
+      "id" : 2389,
+      "name" : "我家有个怪蜀黍",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_10906.jpg",
+      "summary" : "我家有个怪蜀黍，萌萌逆天小人妻简介初次见面他被她吸引，他带她去开了房。关键时，她笑了，“大叔，我对老",
+      "updateStatus" : 2,
+      "capacity" : 3038789,
+      "readerCount" : 9197
+    }, {
+      "id" : 2908,
+      "name" : "红绳子",
+      "coverUrl" : "",
+      "summary" : "若可以，我想抛却一切，当一生的背包客。百里无忧在他的文中写到：爱情是圈，婚姻是套。我只想说：生活就是",
+      "updateStatus" : 1,
+      "capacity" : 5594181,
+      "readerCount" : 9187
+    }, {
+      "id" : 2403,
+      "name" : "愤怒的萤火虫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20656.jpg",
+      "summary" : "一个土鳖青年，在初懂人事的社会，愉快而愤怒的演绎生存，独具风格的书写青春往事，在那些个不知道深浅的日",
+      "updateStatus" : 1,
+      "capacity" : 4281384,
+      "readerCount" : 9166
+    }, {
+      "id" : 2041,
+      "name" : "卿本佳人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43920.jpg",
+      "summary" : "本文女主沈曼卿，超级女学霸，学生会主席、辩论协会会长、爱心协会会长、教务处学生秘书、文明标兵、全国优",
+      "updateStatus" : 2,
+      "capacity" : 3794805,
+      "readerCount" : 9160
+    }, {
+      "id" : 3012,
+      "name" : "会有惊鸿替倦鸟",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44322.jpg",
+      "summary" : "只是曾经也在爱里颓然倒地，一生若不狠狠熬过几次爱恨交煎，年华老去拿什么回忆……——【李宗盛&midd",
+      "updateStatus" : 1,
+      "capacity" : 2196411,
+      "readerCount" : 9119
+    }, {
+      "id" : 2755,
+      "name" : "大话漫游",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20296.jpg",
+      "summary" : "生活就是一场多趣的旅途，却毫无办法，每天都是现场直播。本篇小说是以时间为线索贯穿起来，详细向大家讲述",
+      "updateStatus" : 1,
+      "capacity" : 3171395,
+      "readerCount" : 9069
+    }, {
+      "id" : 2431,
+      "name" : "你浓我浓",
+      "coverUrl" : "",
+      "summary" : "几个女孩一起经历了彼此的恋爱，心碎，毕业，背叛，奋斗，实现各自的梦想，找到各自的幸福，各自的人生定位",
+      "updateStatus" : 1,
+      "capacity" : 7621806,
+      "readerCount" : 9032
+    }, {
+      "id" : 3560,
+      "name" : "豪门虐恋：多情二少独宠疯丫头",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43008.jpg",
+      "summary" : "她是一个神经大条的无厘头疯丫头，他是一个众星捧月的大豪门二少爷。一个离奇的梦境注定了两人今后势必会有",
+      "updateStatus" : 1,
+      "capacity" : 499705,
+      "readerCount" : 9029
+    }, {
+      "id" : 3180,
+      "name" : "苦涩如茶",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19503.jpg",
+      "summary" : "她在众人眼中美丽如女神，她过着不愁吃穿，甚至可以挥霍无度的生活，外表和智慧，她皆不缺。只是生性薄凉，",
+      "updateStatus" : 1,
+      "capacity" : 2359696,
+      "readerCount" : 8959
+    }, {
+      "id" : 2657,
+      "name" : "票定你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47278.jpg",
+      "summary" : "这是一篇因彩票而结缘的故事，在这个速食爱情时代他们的故事让我们再次相信爱情无处不在，请相信爱情就在不",
+      "updateStatus" : 1,
+      "capacity" : 6622020,
+      "readerCount" : 8926
+    }, {
+      "id" : 3068,
+      "name" : "来如春梦去如风",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44246.jpg",
+      "summary" : "她戴着小白的面具出现在众人的面前，可是只有她自己知道那颗心已是千疮百孔。这个世界对她从来不公，可是她",
+      "updateStatus" : 1,
+      "capacity" : 1998866,
+      "readerCount" : 8911
+    }, {
+      "id" : 2567,
+      "name" : "可可不悲伤",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17810.jpg",
+      "summary" : "富二代吗？没错，莫许可是T市有名的富家弟子，狂妄，目中无人，冷漠，这便是人们对她的评价。当有人问起莫",
+      "updateStatus" : 1,
+      "capacity" : 5961915,
+      "readerCount" : 8823
+    }, {
+      "id" : 3034,
+      "name" : "为期不返",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46616.jpg",
+      "summary" : "七岁的书向檀见着了八岁的纪未临，当场迈着小短腿颤巍巍地冲过去，拽着他的衣角说：“小哥哥，你真好看，等",
+      "updateStatus" : 1,
+      "capacity" : 6374967,
+      "readerCount" : 8817
+    }, {
+      "id" : 2751,
+      "name" : "甘涩流年",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47255.jpg",
+      "summary" : "爱之旅途-爱沉寂在路途之中在寂寞中成长，在孤独中彷徨，因向往追逐爱情，熟知爱情捉弄人偏体鳞伤，我们往",
+      "updateStatus" : 1,
+      "capacity" : 5113532,
+      "readerCount" : 8809
+    } ]
+  }
+}

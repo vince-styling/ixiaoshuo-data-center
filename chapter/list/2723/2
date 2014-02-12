@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 2697,
+      "title" : "抓周",
+      "capacity" : 6063
+    }, {
+      "id" : 2698,
+      "title" : "成婚",
+      "capacity" : 6042
+    }, {
+      "id" : 2699,
+      "title" : "父子较量",
+      "capacity" : 6644
+    } ]
+  }
+}

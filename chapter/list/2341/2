@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 59,
+    "list" : [ {
+      "id" : 4228,
+      "title" : "空间谈话",
+      "capacity" : 7053
+    }, {
+      "id" : 4229,
+      "title" : "魔法世界之天生一对（一）",
+      "capacity" : 8778
+    }, {
+      "id" : 4230,
+      "title" : "魔法世界之天生一对（二）",
+      "capacity" : 11422
+    }, {
+      "id" : 4231,
+      "title" : "魔法世界之天生一对（三）",
+      "capacity" : 9683
+    }, {
+      "id" : 4232,
+      "title" : "魔法世界之天生一对（四）",
+      "capacity" : 10645
+    }, {
+      "id" : 4233,
+      "title" : "魔法世界之天生一对（五）",
+      "capacity" : 9659
+    }, {
+      "id" : 4234,
+      "title" : "魔法世界之天生一对（六）",
+      "capacity" : 10777
+    }, {
+      "id" : 4235,
+      "title" : "魔法世界之天生一对（七）",
+      "capacity" : 10428
+    }, {
+      "id" : 4236,
+      "title" : "魔法世界之天生一对（八）",
+      "capacity" : 9626
+    } ]
+  }
+}

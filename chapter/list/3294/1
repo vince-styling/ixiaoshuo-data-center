@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 4268,
+      "title" : "这是哪里 1",
+      "capacity" : 4170
+    }, {
+      "id" : 4269,
+      "title" : "整人2",
+      "capacity" : 3903
+    }, {
+      "id" : 4270,
+      "title" : "3 成亲",
+      "capacity" : 3678
+    }, {
+      "id" : 4271,
+      "title" : "训话",
+      "capacity" : 4856
+    } ]
+  }
+}

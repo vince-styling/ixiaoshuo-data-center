@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 4998,
+      "title" : "第一章 你怎么才来啊",
+      "capacity" : 9152
+    }, {
+      "id" : 4999,
+      "title" : "第二章",
+      "capacity" : 12215
+    }, {
+      "id" : 5000,
+      "title" : "第三章",
+      "capacity" : 19444
+    }, {
+      "id" : 5001,
+      "title" : "第四章",
+      "capacity" : 20207
+    }, {
+      "id" : 5002,
+      "title" : "第五章",
+      "capacity" : 12224
+    }, {
+      "id" : 5003,
+      "title" : "第六章",
+      "capacity" : 28952
+    }, {
+      "id" : 5004,
+      "title" : "第七章",
+      "capacity" : 15819
+    }, {
+      "id" : 5005,
+      "title" : "第八章",
+      "capacity" : 16852
+    } ]
+  }
+}

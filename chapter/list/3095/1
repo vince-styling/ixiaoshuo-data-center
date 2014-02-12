@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 3129,
+      "title" : "一到三节",
+      "capacity" : 6221
+    }, {
+      "id" : 3130,
+      "title" : "第三节不明物体（下）",
+      "capacity" : 1763
+    }, {
+      "id" : 3131,
+      "title" : "第四节群殴",
+      "capacity" : 2756
+    }, {
+      "id" : 3132,
+      "title" : "第五节校园舞会",
+      "capacity" : 2821
+    } ]
+  }
+}

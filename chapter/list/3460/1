@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 1055,
+      "title" : "第一章 所谓相遇",
+      "capacity" : 16025
+    }, {
+      "id" : 1056,
+      "title" : "第二章 所谓倒霉",
+      "capacity" : 15968
+    }, {
+      "id" : 1057,
+      "title" : "第三章 上班第一天",
+      "capacity" : 15203
+    }, {
+      "id" : 1058,
+      "title" : "第四章 遇到熟人了",
+      "capacity" : 15277
+    }, {
+      "id" : 1059,
+      "title" : "第五章 世界很小",
+      "capacity" : 16302
+    }, {
+      "id" : 1060,
+      "title" : "第六章 史悄悄的过去",
+      "capacity" : 17059
+    } ]
+  }
+}

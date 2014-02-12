@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 4106,
+      "title" : "第一章 猎魔人范海辛",
+      "capacity" : 11602
+    }, {
+      "id" : 4107,
+      "title" : "第二章 神经质的索普神父",
+      "capacity" : 8960
+    }, {
+      "id" : 4108,
+      "title" : "第三章 范海辛的武器",
+      "capacity" : 10261
+    }, {
+      "id" : 4109,
+      "title" : "第四章 断头谷的无头骑士",
+      "capacity" : 10939
+    }, {
+      "id" : 4110,
+      "title" : "第五章 范海辛与无头骑士",
+      "capacity" : 10616
+    }, {
+      "id" : 4111,
+      "title" : "第六章 男爵的城堡",
+      "capacity" : 10727
+    } ]
+  }
+}

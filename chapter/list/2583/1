@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 58,
+    "list" : [ {
+      "id" : 4093,
+      "title" : "第一章 穿越",
+      "capacity" : 4513
+    }, {
+      "id" : 4094,
+      "title" : "第二章 命运的开始",
+      "capacity" : 10928
+    }, {
+      "id" : 4095,
+      "title" : "第三章 踏上旅途",
+      "capacity" : 5421
+    }, {
+      "id" : 4096,
+      "title" : "第四章 迷阵",
+      "capacity" : 6412
+    }, {
+      "id" : 4097,
+      "title" : "第五章 情动",
+      "capacity" : 5905
+    }, {
+      "id" : 4098,
+      "title" : "第六章 卖身谈条件",
+      "capacity" : 8682
+    }, {
+      "id" : 4099,
+      "title" : "第七章 卖身合同",
+      "capacity" : 5761
+    }, {
+      "id" : 4100,
+      "title" : "第八章 男的？！",
+      "capacity" : 7505
+    }, {
+      "id" : 4101,
+      "title" : "第九章 百口莫辩",
+      "capacity" : 8195
+    }, {
+      "id" : 4102,
+      "title" : "第十章 曜如",
+      "capacity" : 8480
+    }, {
+      "id" : 4103,
+      "title" : "十一章 红叶？小白？",
+      "capacity" : 5754
+    }, {
+      "id" : 4104,
+      "title" : "十二章 暴力小白",
+      "capacity" : 8378
+    }, {
+      "id" : 4105,
+      "title" : "十三章 死魂",
+      "capacity" : 7990
+    }, {
+      "id" : 4106,
+      "title" : "十四章 死魂未死？",
+      "capacity" : 5063
+    }, {
+      "id" : 4107,
+      "title" : "十五章 有老乡？",
+      "capacity" : 8581
+    }, {
+      "id" : 4108,
+      "title" : "十六章 最丢脸的一天",
+      "capacity" : 7918
+    }, {
+      "id" : 4109,
+      "title" : "十七章 玉文",
+      "capacity" : 11932
+    }, {
+      "id" : 4110,
+      "title" : "十八章 花魁赛也没什么",
+      "capacity" : 11165
+    }, {
+      "id" : 4111,
+      "title" : "十九章 绯月示警",
+      "capacity" : 9308
+    }, {
+      "id" : 4112,
+      "title" : "二十章 圣盘",
+      "capacity" : 9354
+    }, {
+      "id" : 4113,
+      "title" : "二十一章 洗澡时的突发事件",
+      "capacity" : 9700
+    }, {
+      "id" : 4114,
+      "title" : "二十二章 真实的梦境",
+      "capacity" : 9404
+    }, {
+      "id" : 4115,
+      "title" : "二十三章 梦醒",
+      "capacity" : 8612
+    }, {
+      "id" : 4116,
+      "title" : "二十四章 化蛇",
+      "capacity" : 9439
+    }, {
+      "id" : 4117,
+      "title" : "二十五章 梦中的伤痛",
+      "capacity" : 11537
+    }, {
+      "id" : 4118,
+      "title" : "二十六章 灭世之神",
+      "capacity" : 8590
+    }, {
+      "id" : 4119,
+      "title" : "二十七章 化蛇的回忆（特别篇可跳过）",
+      "capacity" : 11055
+    }, {
+      "id" : 4120,
+      "title" : "二十八章 修仙灭门",
+      "capacity" : 10193
+    }, {
+      "id" : 4121,
+      "title" : "二十九章 他乡遇故知",
+      "capacity" : 9435
+    }, {
+      "id" : 4122,
+      "title" : "三十章 直阳对立",
+      "capacity" : 10729
+    }, {
+      "id" : 4123,
+      "title" : "三十一章 幽冥之力",
+      "capacity" : 10623
+    }, {
+      "id" : 4124,
+      "title" : "三十二章 内疚",
+      "capacity" : 11495
+    }, {
+      "id" : 4125,
+      "title" : "三十三章 纯化之力",
+      "capacity" : 11137
+    }, {
+      "id" : 4126,
+      "title" : "三十四章 决心",
+      "capacity" : 10734
+    }, {
+      "id" : 4127,
+      "title" : "三十五章 恶神解封",
+      "capacity" : 9225
+    }, {
+      "id" : 4128,
+      "title" : "三十六章 入魔",
+      "capacity" : 10185
+    }, {
+      "id" : 4129,
+      "title" : "三十七章 曲阳迷雾",
+      "capacity" : 9825
+    }, {
+      "id" : 4130,
+      "title" : "三十八章 万海之忧",
+      "capacity" : 9296
+    }, {
+      "id" : 4131,
+      "title" : "三十九章 收徒",
+      "capacity" : 9593
+    }, {
+      "id" : 4132,
+      "title" : "四十章 吴尽",
+      "capacity" : 10145
+    }, {
+      "id" : 4133,
+      "title" : "四十一章 蜚",
+      "capacity" : 10031
+    }, {
+      "id" : 4134,
+      "title" : "四十二章 直阳真意",
+      "capacity" : 9942
+    }, {
+      "id" : 4135,
+      "title" : "番外 妖孽红叶之回忆篇",
+      "capacity" : 9906
+    }, {
+      "id" : 4136,
+      "title" : "四十三章 前世？今生？",
+      "capacity" : 9031
+    }, {
+      "id" : 4137,
+      "title" : "四十四章 万年前的回忆",
+      "capacity" : 9118
+    }, {
+      "id" : 4138,
+      "title" : "番外 玄钰经历篇",
+      "capacity" : 11189
+    }, {
+      "id" : 4139,
+      "title" : "四十五章 交易",
+      "capacity" : 9295
+    }, {
+      "id" : 4140,
+      "title" : "四十六章 相柳",
+      "capacity" : 9561
+    }, {
+      "id" : 4141,
+      "title" : "四十七章 妖孽的洁癖",
+      "capacity" : 9168
+    }, {
+      "id" : 4142,
+      "title" : "四十八章 再次交易",
+      "capacity" : 9916
+    } ]
+  }
+}

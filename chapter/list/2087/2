@@ -1,0 +1,126 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 79,
+    "list" : [ {
+      "id" : 2299,
+      "title" : "二十一、 大会（一）",
+      "capacity" : 6313
+    }, {
+      "id" : 2300,
+      "title" : "二十一、 大会（二）",
+      "capacity" : 5108
+    }, {
+      "id" : 2301,
+      "title" : "二十一、 大会（三）",
+      "capacity" : 3374
+    }, {
+      "id" : 2302,
+      "title" : "二十二、 恶战（一）",
+      "capacity" : 4499
+    }, {
+      "id" : 2303,
+      "title" : "二十二、 恶战（一）",
+      "capacity" : 4499
+    }, {
+      "id" : 2304,
+      "title" : "二十二、 恶战（二）",
+      "capacity" : 4022
+    }, {
+      "id" : 2305,
+      "title" : "二十二、 恶战（二）",
+      "capacity" : 6162
+    }, {
+      "id" : 2306,
+      "title" : "二十三、 夜色（一）",
+      "capacity" : 3483
+    }, {
+      "id" : 2307,
+      "title" : "二十三、 夜色（二）",
+      "capacity" : 5449
+    }, {
+      "id" : 2308,
+      "title" : "二十三、 夜色（三）",
+      "capacity" : 5251
+    }, {
+      "id" : 2309,
+      "title" : "二十四、 起意（一）",
+      "capacity" : 4054
+    }, {
+      "id" : 2310,
+      "title" : "二十四、 起意（二）",
+      "capacity" : 4706
+    }, {
+      "id" : 2311,
+      "title" : "二十四、 起意（三）",
+      "capacity" : 6810
+    }, {
+      "id" : 2312,
+      "title" : "二十四、 起意（四）",
+      "capacity" : 1661
+    }, {
+      "id" : 2313,
+      "title" : "二十五、 雨亭（一）",
+      "capacity" : 9289
+    }, {
+      "id" : 2314,
+      "title" : "二十五、雨亭（二）",
+      "capacity" : 3468
+    }, {
+      "id" : 2315,
+      "title" : "二十六、 伏击（一）",
+      "capacity" : 6111
+    }, {
+      "id" : 2316,
+      "title" : "二十六、伏击（二）",
+      "capacity" : 6348
+    }, {
+      "id" : 2317,
+      "title" : "二十六、伏击（三）",
+      "capacity" : 6675
+    }, {
+      "id" : 2318,
+      "title" : "二十七、 旧梦（一）",
+      "capacity" : 4691
+    }, {
+      "id" : 2319,
+      "title" : "二十七、 旧梦（二）",
+      "capacity" : 4411
+    }, {
+      "id" : 2320,
+      "title" : "二十七、 旧梦（三）",
+      "capacity" : 6995
+    }, {
+      "id" : 2321,
+      "title" : "二十七、 旧梦（四）",
+      "capacity" : 3329
+    }, {
+      "id" : 2322,
+      "title" : "二十七、 旧梦（五）",
+      "capacity" : 3516
+    }, {
+      "id" : 2323,
+      "title" : "二十七、 旧梦（六）",
+      "capacity" : 6738
+    }, {
+      "id" : 2324,
+      "title" : "二十八、 心语（一）",
+      "capacity" : 4131
+    }, {
+      "id" : 2325,
+      "title" : "二十八、 心语（二）",
+      "capacity" : 3768
+    }, {
+      "id" : 2326,
+      "title" : "二十八、 心语（三）",
+      "capacity" : 4123
+    }, {
+      "id" : 2327,
+      "title" : "二十八、 心语（四）",
+      "capacity" : 5616
+    } ]
+  }
+}

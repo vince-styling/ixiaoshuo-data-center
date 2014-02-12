@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1650,
+      "title" : "第一章：彻底孤独",
+      "capacity" : 3061
+    }, {
+      "id" : 1651,
+      "title" : "第二章：异地求生",
+      "capacity" : 6473
+    }, {
+      "id" : 1652,
+      "title" : "第三章：异象初现",
+      "capacity" : 4066
+    } ]
+  }
+}

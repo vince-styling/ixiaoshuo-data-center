@@ -1,0 +1,138 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 32,
+    "list" : [ {
+      "id" : 1136,
+      "title" : "第一章 遗弃",
+      "capacity" : 8670
+    }, {
+      "id" : 1137,
+      "title" : "第二章 侮辱",
+      "capacity" : 11711
+    }, {
+      "id" : 1138,
+      "title" : "第三章 穿越",
+      "capacity" : 10130
+    }, {
+      "id" : 1139,
+      "title" : "第四章 报复开端",
+      "capacity" : 12632
+    }, {
+      "id" : 1140,
+      "title" : "第五章 栽赃嫁祸",
+      "capacity" : 9598
+    }, {
+      "id" : 1141,
+      "title" : "第六章 我是妖男",
+      "capacity" : 8438
+    }, {
+      "id" : 1142,
+      "title" : "第七章 识破身份",
+      "capacity" : 9255
+    }, {
+      "id" : 1143,
+      "title" : "第八章 玩笑中的约定",
+      "capacity" : 7997
+    }, {
+      "id" : 1144,
+      "title" : "第九章 逛青楼",
+      "capacity" : 12095
+    }, {
+      "id" : 1145,
+      "title" : "第十章 分配任务",
+      "capacity" : 10087
+    }, {
+      "id" : 1146,
+      "title" : "第一十章 大战一触即发",
+      "capacity" : 10321
+    }, {
+      "id" : 1147,
+      "title" : "第十二章 杀妖女",
+      "capacity" : 11996
+    }, {
+      "id" : 1148,
+      "title" : "第十三章 大开杀戒",
+      "capacity" : 10888
+    }, {
+      "id" : 1149,
+      "title" : "第十四章 死里逃生",
+      "capacity" : 9044
+    }, {
+      "id" : 1150,
+      "title" : "第十五章 丑陋的脸",
+      "capacity" : 9312
+    }, {
+      "id" : 1151,
+      "title" : "第十六章 相识梁祝",
+      "capacity" : 9146
+    }, {
+      "id" : 1152,
+      "title" : "第十七章 无情无义",
+      "capacity" : 9244
+    }, {
+      "id" : 1153,
+      "title" : "第十八章 傻蛋失踪",
+      "capacity" : 9519
+    }, {
+      "id" : 1154,
+      "title" : "第十九章 医治",
+      "capacity" : 8769
+    }, {
+      "id" : 1155,
+      "title" : "第二十章 丑八怪变身美男子",
+      "capacity" : 10370
+    }, {
+      "id" : 1156,
+      "title" : "第二十一章 男扮女装",
+      "capacity" : 10098
+    }, {
+      "id" : 1157,
+      "title" : "第二十二章 白山瓦解",
+      "capacity" : 7588
+    }, {
+      "id" : 1158,
+      "title" : "第二十三章 失火",
+      "capacity" : 8006
+    }, {
+      "id" : 1159,
+      "title" : "第二十四章 束修",
+      "capacity" : 7989
+    }, {
+      "id" : 1160,
+      "title" : "第二十五章 读书",
+      "capacity" : 9581
+    }, {
+      "id" : 1161,
+      "title" : "第二十六章 一起洗澡",
+      "capacity" : 9159
+    }, {
+      "id" : 1162,
+      "title" : "第二十七章 切磋武艺",
+      "capacity" : 8677
+    }, {
+      "id" : 1163,
+      "title" : "第二十八章 深入皇宫",
+      "capacity" : 9398
+    }, {
+      "id" : 1164,
+      "title" : "第二十九章 永远不要小瞧女人",
+      "capacity" : 9421
+    }, {
+      "id" : 1165,
+      "title" : "第三十章 拜堂",
+      "capacity" : 9690
+    }, {
+      "id" : 1166,
+      "title" : "第三十一章 卖媳妇",
+      "capacity" : 10256
+    }, {
+      "id" : 1167,
+      "title" : "第三十二章 唯女子与小人难养也",
+      "capacity" : 8897
+    } ]
+  }
+}

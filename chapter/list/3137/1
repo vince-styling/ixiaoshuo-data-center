@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 3283,
+      "title" : "第一章 初遇",
+      "capacity" : 7053
+    }, {
+      "id" : 3284,
+      "title" : "第二章 苏樊要去A城",
+      "capacity" : 6146
+    }, {
+      "id" : 3285,
+      "title" : "第三章 预料之外的分别",
+      "capacity" : 6075
+    }, {
+      "id" : 3286,
+      "title" : "第四章 喜欢的人？",
+      "capacity" : 6116
+    }, {
+      "id" : 3287,
+      "title" : "第五章 尚琳琳的秘密",
+      "capacity" : 6077
+    }, {
+      "id" : 3288,
+      "title" : "第六章 秘密交换",
+      "capacity" : 5977
+    }, {
+      "id" : 3289,
+      "title" : "第七章 我想你",
+      "capacity" : 6182
+    }, {
+      "id" : 3290,
+      "title" : "第八章 苏樊回来了",
+      "capacity" : 6043
+    }, {
+      "id" : 3291,
+      "title" : "第九章 尴尬",
+      "capacity" : 6232
+    }, {
+      "id" : 3292,
+      "title" : "第十章 意外事件",
+      "capacity" : 6072
+    }, {
+      "id" : 3293,
+      "title" : "第十一章 心有不愤",
+      "capacity" : 6211
+    }, {
+      "id" : 3294,
+      "title" : "第十二章 决定",
+      "capacity" : 6176
+    }, {
+      "id" : 3295,
+      "title" : "第十三章 浅浅一根刺",
+      "capacity" : 6429
+    } ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 55,
+    "list" : [ {
+      "id" : 4497,
+      "title" : "第四十九章：过去·现在",
+      "capacity" : 4714
+    }, {
+      "id" : 4498,
+      "title" : "第五十章：离开万蛇山",
+      "capacity" : 4604
+    }, {
+      "id" : 4499,
+      "title" : "第五十一章：遗忘",
+      "capacity" : 4758
+    }, {
+      "id" : 4500,
+      "title" : "第五十二章：幻城有变",
+      "capacity" : 4804
+    }, {
+      "id" : 4501,
+      "title" : "第五十三章：小东西雪猊",
+      "capacity" : 5766
+    } ]
+  }
+}

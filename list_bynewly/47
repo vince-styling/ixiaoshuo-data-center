@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 47,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2303,
+      "name" : "阎末瑶",
+      "summary" : "三个人一起的穿越，几个人一同的成长。是怎样的命运，让她们遇见了他们和她们？这光怪陆离的世界，带来的究",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15248.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6908578,
+      "lastUpdateTime" : "2013-12-07 09:30:13"
+    }, {
+      "id" : 3477,
+      "name" : "穿越之千年缘",
+      "summary" : "坠入凡尘历经千年，再续千年缘。",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 348052,
+      "lastUpdateTime" : "2013-12-07 07:48:23"
+    }, {
+      "id" : 3162,
+      "name" : "真龙天下：倾世侠妃",
+      "summary" : "一个因为皇室之争落入江湖的王爷，一个从下游走江湖的女孩，两人从相识相知到相恋，又从陌路道携手一生……",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47772.jpg",
+      "updateStatus" : 1,
+      "capacity" : 144870,
+      "lastUpdateTime" : "2013-12-07 07:47:51"
+    }, {
+      "id" : 3601,
+      "name" : "黑道之一夕问晴天",
+      "summary" : "纪流天，北美顶级黑帮豪门世家“流煞”的老大，冷然孤傲，因为一个U盘，他意外邂逅了沉静清雅的外科女医生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47668.jpg",
+      "updateStatus" : 1,
+      "capacity" : 94058,
+      "lastUpdateTime" : "2013-12-07 07:15:05"
+    }, {
+      "id" : 3731,
+      "name" : "尘心凡念",
+      "summary" : "魔界解封，为阻止魔尊曜炽再度扰乱三界，寻找神人再次封印迫在眉睫。然而于此同时，她在线轴上渐渐苏醒。她",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46015.jpg",
+      "updateStatus" : 1,
+      "capacity" : 547515,
+      "lastUpdateTime" : "2013-12-07 06:52:00"
+    }, {
+      "id" : 3339,
+      "name" : "臆乱情迷",
+      "summary" : "月老如何结连理，总教姻缘戏恋人两只猫仙捣乱月老司，导致姻缘错乱。她（伊一）与她（艾亿）穿越而来到异世",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47770.jpg",
+      "updateStatus" : 1,
+      "capacity" : 228033,
+      "lastUpdateTime" : "2013-12-07 06:28:26"
+    }, {
+      "id" : 2788,
+      "name" : "五月，安然",
+      "summary" : "五月的离开让阿然痛彻心扉，夏安与阿末的出现让阿然在心灵上得到了巨大的安慰，于是他们之间就展开了不解的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47108.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4867086,
+      "lastUpdateTime" : "2013-12-07 05:25:43"
+    }, {
+      "id" : 3507,
+      "name" : "血雨腥风恩仇录",
+      "summary" : "血雨腥风的江湖，野心、谋杀、背叛，多少平凡的、伟大的人一起来演绎一段段的不平凡。上官夜，铭教的教主，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47933.jpg",
+      "updateStatus" : 1,
+      "capacity" : 65522,
+      "lastUpdateTime" : "2013-12-07 05:01:19"
+    }, {
+      "id" : 3066,
+      "name" : "紫色蒲公英",
+      "summary" : "传说谁能找到紫色的蒲公英，谁就能得到完美的爱情……一个长相一般的小混混，一个惊世校花女神，演绎一场惊",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45679.jpg",
+      "updateStatus" : 1,
+      "capacity" : 777999,
+      "lastUpdateTime" : "2013-12-07 03:42:05"
+    }, {
+      "id" : 3111,
+      "name" : "真假王妃：非常之谋",
+      "summary" : "神马？说我“淑女”变“悍妇”？我好好的理性现代建筑设计师兼才女就莫名其妙地掉到了这个朝代啊啊啊啊！！",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16810.jpg",
+      "updateStatus" : 1,
+      "capacity" : 54219,
+      "lastUpdateTime" : "2013-12-07 02:57:13"
+    }, {
+      "id" : 3345,
+      "name" : "黑洞星海",
+      "summary" : "这是一个充满神奇的魔幻世界，在这个世界里人们以力量为尊，谁就是王者。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42256.jpg",
+      "updateStatus" : 1,
+      "capacity" : 54449,
+      "lastUpdateTime" : "2013-12-07 02:56:10"
+    }, {
+      "id" : 2212,
+      "name" : "禁天乱纪元",
+      "summary" : "为了寻找离奇失踪的姐姐，少年努力修炼家传的古太极拳法。在寻找姐姐的过程中，种种离奇的际遇，让少年慢慢",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 1572817,
+      "lastUpdateTime" : "2013-12-07 02:42:04"
+    }, {
+      "id" : 2515,
+      "name" : "青春兵路",
+      "summary" : "我们都有一样的青春，不同的是所选择的路，而选择军旅，是青春中的自豪，是人生中的无悔。二十几岁的战士在",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22152.jpg",
+      "updateStatus" : 2,
+      "capacity" : 2157586,
+      "lastUpdateTime" : "2013-12-07 01:06:05"
+    }, {
+      "id" : 2292,
+      "name" : "从此君王不翻牌",
+      "summary" : "这世上的很多人与生俱来就有着某种特殊的才华跟天赋，这小叫化子也有，她似乎是天生的乞丐换上华服也成不了",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47948.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4733080,
+      "lastUpdateTime" : "2013-12-07 01:05:40"
+    }, {
+      "id" : 3474,
+      "name" : "穿越还珠之乾隆是我的",
+      "summary" : "上官轩觉得他这辈子都没这么倒霉过，他只不过是自恋了些，爱美了些……可是老天为毛让他一觉醒来就发现自己",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 31868,
+      "lastUpdateTime" : "2013-12-07 00:54:08"
+    }, {
+      "id" : 3531,
+      "name" : "懒妃12岁：请叫我王后",
+      "summary" : "亲人？她要的远远不止敌人？她只知道他宠她她要的不过是傲视天下时，手畔有一人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46436.jpg",
+      "updateStatus" : 1,
+      "capacity" : 80572,
+      "lastUpdateTime" : "2013-12-07 00:50:49"
+    }, {
+      "id" : 3067,
+      "name" : "总裁霸情：调教偷心贼娘子",
+      "summary" : "古代正义侠盗女贼初若，一朝穿越到现代，惹上霸道腹黑总裁，从此生活精彩，笑料频频，且看一向偷盗钱财的她",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22626.jpg",
+      "updateStatus" : 1,
+      "capacity" : 34391,
+      "lastUpdateTime" : "2013-12-07 00:06:20"
+    }, {
+      "id" : 2425,
+      "name" : "龙女在京",
+      "summary" : "那一天的地铁错乱的倚靠没有想到是噩梦的开始，从此付薇薇跟孙慕磊开始了一段啼笑皆非的缘分之旅。那个女人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45050.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6130385,
+      "lastUpdateTime" : "2013-12-06 23:21:00"
+    }, {
+      "id" : 2270,
+      "name" : "惊回千里梦相思",
+      "summary" : "她是顽皮少女，一朝入梦，遇到久候的他，他是五好少年，学霸，一直守候在她身边的青梅竹马，一场意外，她作",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22371.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7691798,
+      "lastUpdateTime" : "2013-12-06 22:45:36"
+    }, {
+      "id" : 3275,
+      "name" : "暗昙",
+      "summary" : "从出生就受众人瞩目和疼爱的她在童年一场叛变的风波中发生了致命的变化……获救后残酷地对自己进行训练，为",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45765.jpg",
+      "updateStatus" : 1,
+      "capacity" : 325893,
+      "lastUpdateTime" : "2013-12-06 22:08:40"
+    } ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 1977,
+      "title" : "初到异世",
+      "capacity" : 4448
+    }, {
+      "id" : 1978,
+      "title" : "圣域大陆",
+      "capacity" : 3924
+    }, {
+      "id" : 1979,
+      "title" : "丞相爹爹。",
+      "capacity" : 4234
+    }, {
+      "id" : 1980,
+      "title" : "菱嫣。",
+      "capacity" : 3903
+    } ]
+  }
+}

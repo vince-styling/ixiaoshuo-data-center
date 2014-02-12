@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 1366,
+      "title" : "第五十章 炼金大赛",
+      "capacity" : 9278
+    }, {
+      "id" : 1367,
+      "title" : "第五十一章 最后的冠军",
+      "capacity" : 9466
+    }, {
+      "id" : 1368,
+      "title" : "第五十二章 可升级的武器？",
+      "capacity" : 9215
+    } ]
+  }
+}

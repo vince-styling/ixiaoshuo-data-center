@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 104,
+    "list" : [ {
+      "id" : 3499,
+      "title" : "等你爱我30",
+      "capacity" : 5090
+    }, {
+      "id" : 3500,
+      "title" : "等你爱我31",
+      "capacity" : 8116
+    }, {
+      "id" : 3501,
+      "title" : "等你爱我32",
+      "capacity" : 10805
+    }, {
+      "id" : 3502,
+      "title" : "等你爱我33",
+      "capacity" : 23172
+    } ]
+  }
+}

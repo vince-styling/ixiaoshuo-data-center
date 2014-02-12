@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 2508,
+      "title" : "第51章果然无耻",
+      "capacity" : 11409
+    }, {
+      "id" : 2509,
+      "title" : "第52章小白脸",
+      "capacity" : 11436
+    }, {
+      "id" : 2510,
+      "title" : "第53章低低的呼了一声",
+      "capacity" : 11331
+    } ]
+  }
+}

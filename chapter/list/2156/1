@@ -1,0 +1,162 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 38,
+    "list" : [ {
+      "id" : 2408,
+      "title" : "第一章 湖水摸鱼",
+      "capacity" : 7722
+    }, {
+      "id" : 2409,
+      "title" : "第二章 似曾相识",
+      "capacity" : 6397
+    }, {
+      "id" : 2410,
+      "title" : "第三章 神仙相公",
+      "capacity" : 7585
+    }, {
+      "id" : 2411,
+      "title" : "第四章 神游仙店",
+      "capacity" : 13900
+    }, {
+      "id" : 2412,
+      "title" : "第五章 当时年少",
+      "capacity" : 15136
+    }, {
+      "id" : 2413,
+      "title" : "第六章 昆仑瑶池",
+      "capacity" : 7544
+    }, {
+      "id" : 2414,
+      "title" : "第七章 瑶池集庆",
+      "capacity" : 10811
+    }, {
+      "id" : 2415,
+      "title" : "第八章 石灵上仙",
+      "capacity" : 8288
+    }, {
+      "id" : 2416,
+      "title" : "第九章 石灵仙山",
+      "capacity" : 7571
+    }, {
+      "id" : 2417,
+      "title" : "第十章 八卦仪式",
+      "capacity" : 13304
+    }, {
+      "id" : 2418,
+      "title" : "第十一章 金色之光",
+      "capacity" : 9767
+    }, {
+      "id" : 2419,
+      "title" : "第十二章 是敌是友",
+      "capacity" : 11263
+    }, {
+      "id" : 2420,
+      "title" : "第十三章 舞尊谨严",
+      "capacity" : 7937
+    }, {
+      "id" : 2421,
+      "title" : "第十四章 神马脑袋",
+      "capacity" : 8868
+    }, {
+      "id" : 2422,
+      "title" : "第十五章 哈布哈布",
+      "capacity" : 7698
+    }, {
+      "id" : 2423,
+      "title" : "第十六章 霸气侧漏",
+      "capacity" : 8314
+    }, {
+      "id" : 2424,
+      "title" : "第十七章 菜鸟驾到",
+      "capacity" : 11422
+    }, {
+      "id" : 2425,
+      "title" : "第十八章 绝对当真",
+      "capacity" : 8394
+    }, {
+      "id" : 2426,
+      "title" : "第十九章 择灵契约",
+      "capacity" : 7850
+    }, {
+      "id" : 2427,
+      "title" : "第二十章 午夜决斗",
+      "capacity" : 7890
+    }, {
+      "id" : 2428,
+      "title" : "第二十一章 灵血沸腾",
+      "capacity" : 8068
+    }, {
+      "id" : 2429,
+      "title" : "第二十二章 意料之外",
+      "capacity" : 7129
+    }, {
+      "id" : 2430,
+      "title" : "第二十三章 两年之约",
+      "capacity" : 7146
+    }, {
+      "id" : 2431,
+      "title" : "第二十四章 雷霆之崖",
+      "capacity" : 6719
+    }, {
+      "id" : 2432,
+      "title" : "第二十五章 雷霆球场",
+      "capacity" : 8136
+    }, {
+      "id" : 2433,
+      "title" : "第二十六章 训练走起",
+      "capacity" : 6530
+    }, {
+      "id" : 2434,
+      "title" : "第二十七章 做我舞伴",
+      "capacity" : 7407
+    }, {
+      "id" : 2435,
+      "title" : "第二十八章 紫莲花裙",
+      "capacity" : 7829
+    }, {
+      "id" : 2436,
+      "title" : "第二十九章 你是什么",
+      "capacity" : 8601
+    }, {
+      "id" : 2437,
+      "title" : "第三十章 疑惑重重",
+      "capacity" : 7185
+    }, {
+      "id" : 2438,
+      "title" : "第三十一章 灵骨被劫",
+      "capacity" : 6684
+    }, {
+      "id" : 2439,
+      "title" : "第三十二章 空壳成型",
+      "capacity" : 7117
+    }, {
+      "id" : 2440,
+      "title" : "第三十三章 灵魂出窍",
+      "capacity" : 6930
+    }, {
+      "id" : 2441,
+      "title" : "第三十四章 怨念之躯",
+      "capacity" : 7810
+    }, {
+      "id" : 2442,
+      "title" : "第三十五章 集体受罚",
+      "capacity" : 11057
+    }, {
+      "id" : 2443,
+      "title" : "第三十六章 比赛来临",
+      "capacity" : 7109
+    }, {
+      "id" : 2444,
+      "title" : "第三十七章 哈布比赛（上）",
+      "capacity" : 7304
+    }, {
+      "id" : 2445,
+      "title" : "第三十八章 哈布比赛（下）",
+      "capacity" : 8733
+    } ]
+  }
+}

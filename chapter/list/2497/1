@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 3879,
+      "title" : "第一章 梨花淡白柳深青，柳絮飞时花满城",
+      "capacity" : 8656
+    }, {
+      "id" : 3880,
+      "title" : "第二章",
+      "capacity" : 10330
+    }, {
+      "id" : 3881,
+      "title" : "第三章",
+      "capacity" : 7766
+    }, {
+      "id" : 3882,
+      "title" : "第四章",
+      "capacity" : 10140
+    }, {
+      "id" : 3883,
+      "title" : "第五章",
+      "capacity" : 8584
+    }, {
+      "id" : 3884,
+      "title" : "第六章",
+      "capacity" : 7169
+    }, {
+      "id" : 3885,
+      "title" : "第七章",
+      "capacity" : 11439
+    }, {
+      "id" : 3886,
+      "title" : "第八章",
+      "capacity" : 12808
+    }, {
+      "id" : 3887,
+      "title" : "第九章",
+      "capacity" : 5879
+    }, {
+      "id" : 3888,
+      "title" : "第十章",
+      "capacity" : 6441
+    }, {
+      "id" : 3889,
+      "title" : "第十一章",
+      "capacity" : 4491
+    }, {
+      "id" : 3890,
+      "title" : "第十二章",
+      "capacity" : 9991
+    }, {
+      "id" : 3891,
+      "title" : "第十三章",
+      "capacity" : 9175
+    }, {
+      "id" : 3892,
+      "title" : "第十四章 迹部的中国之旅（1）",
+      "capacity" : 9264
+    }, {
+      "id" : 3893,
+      "title" : "第十五章 迹部的中国交换生之旅（2）",
+      "capacity" : 9680
+    }, {
+      "id" : 3894,
+      "title" : "第十六章 迹部的中国之旅(3)",
+      "capacity" : 9027
+    }, {
+      "id" : 3895,
+      "title" : "第十七章 花漫城回日本（1）",
+      "capacity" : 7002
+    }, {
+      "id" : 3896,
+      "title" : "第十八章 花漫城回日本（2)",
+      "capacity" : 7220
+    }, {
+      "id" : 3897,
+      "title" : "第十九章 花漫城回冰帝（4）",
+      "capacity" : 6467
+    } ]
+  }
+}

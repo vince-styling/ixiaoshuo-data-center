@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 74,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2486,
+      "name" : "天才少女侦探",
+      "updateStatus" : 1,
+      "distance" : 9958,
+      "memberId" : 4230
+    }, {
+      "id" : 2091,
+      "name" : "江湖夜雨十年灯之琴剑篇",
+      "updateStatus" : 1,
+      "distance" : 7307,
+      "memberId" : 6476
+    }, {
+      "id" : 2509,
+      "name" : "明月何故照秦时",
+      "updateStatus" : 2,
+      "distance" : 7756,
+      "memberId" : 1878
+    }, {
+      "id" : 2136,
+      "name" : "替身王爷：妖妃有点萌",
+      "updateStatus" : 1,
+      "distance" : 1093,
+      "memberId" : 1080
+    }, {
+      "id" : 3211,
+      "name" : "胭脂香味",
+      "updateStatus" : 1,
+      "distance" : 7598,
+      "memberId" : 3032
+    }, {
+      "id" : 2926,
+      "name" : "清宫情史",
+      "updateStatus" : 1,
+      "distance" : 645,
+      "memberId" : 3432
+    }, {
+      "id" : 3409,
+      "name" : "素手霸天下",
+      "updateStatus" : 1,
+      "distance" : 5471,
+      "memberId" : 2659
+    }, {
+      "id" : 3339,
+      "name" : "臆乱情迷",
+      "updateStatus" : 1,
+      "distance" : 6718,
+      "memberId" : 8171
+    }, {
+      "id" : 3368,
+      "name" : "倾世凤妃",
+      "updateStatus" : 1,
+      "distance" : 9944,
+      "memberId" : 3153
+    }, {
+      "id" : 2638,
+      "name" : "谊心依旧",
+      "updateStatus" : 1,
+      "distance" : 8916,
+      "memberId" : 1574
+    }, {
+      "id" : 2103,
+      "name" : "剑缘三生泪断崖",
+      "updateStatus" : 1,
+      "distance" : 4530,
+      "memberId" : 1298
+    }, {
+      "id" : 2581,
+      "name" : "月上梨花白",
+      "updateStatus" : 1,
+      "distance" : 2179,
+      "memberId" : 3181
+    }, {
+      "id" : 2978,
+      "name" : "妃宠不可",
+      "updateStatus" : 1,
+      "distance" : 3262,
+      "memberId" : 6777
+    }, {
+      "id" : 3633,
+      "name" : "小的国",
+      "updateStatus" : 1,
+      "distance" : 9592,
+      "memberId" : 2446
+    }, {
+      "id" : 3616,
+      "name" : "重生商女之总裁请自重",
+      "updateStatus" : 1,
+      "distance" : 9761,
+      "memberId" : 7136
+    }, {
+      "id" : 3121,
+      "name" : "云从山庄",
+      "updateStatus" : 1,
+      "distance" : 9608,
+      "memberId" : 7196
+    }, {
+      "id" : 3393,
+      "name" : "医",
+      "updateStatus" : 1,
+      "distance" : 5916,
+      "memberId" : 2352
+    }, {
+      "id" : 2229,
+      "name" : "异界之神路传说",
+      "updateStatus" : 1,
+      "distance" : 6707,
+      "memberId" : 7010
+    }, {
+      "id" : 3193,
+      "name" : "三生三世，芙蓉幽幽",
+      "updateStatus" : 2,
+      "distance" : 8634,
+      "memberId" : 6676
+    }, {
+      "id" : 2542,
+      "name" : "陌上桑之初心",
+      "updateStatus" : 1,
+      "distance" : 8649,
+      "memberId" : 3279
+    } ]
+  }
+}

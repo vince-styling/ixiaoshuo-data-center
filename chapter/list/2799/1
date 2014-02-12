@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 1561,
+      "title" : "楔子",
+      "capacity" : 5187
+    }, {
+      "id" : 1562,
+      "title" : "第一章",
+      "capacity" : 7906
+    }, {
+      "id" : 1563,
+      "title" : "第二章",
+      "capacity" : 6511
+    }, {
+      "id" : 1564,
+      "title" : "第三章",
+      "capacity" : 6545
+    }, {
+      "id" : 1565,
+      "title" : "第四章",
+      "capacity" : 6494
+    }, {
+      "id" : 1566,
+      "title" : "第五章",
+      "capacity" : 5939
+    }, {
+      "id" : 1567,
+      "title" : "第六章",
+      "capacity" : 5395
+    }, {
+      "id" : 1568,
+      "title" : "第七章",
+      "capacity" : 8806
+    }, {
+      "id" : 1569,
+      "title" : "第八章",
+      "capacity" : 8503
+    }, {
+      "id" : 1570,
+      "title" : "第九章",
+      "capacity" : 7876
+    }, {
+      "id" : 1571,
+      "title" : "第十章",
+      "capacity" : 9062
+    } ]
+  }
+}

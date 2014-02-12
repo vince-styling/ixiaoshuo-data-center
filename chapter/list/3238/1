@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 4017,
+      "title" : "引子",
+      "capacity" : 3700
+    }, {
+      "id" : 4018,
+      "title" : "竹马青梅",
+      "capacity" : 5410
+    }, {
+      "id" : 4019,
+      "title" : "镇馆之宝",
+      "capacity" : 6041
+    } ]
+  }
+}

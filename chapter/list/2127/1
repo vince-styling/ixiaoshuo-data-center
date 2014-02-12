@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 3733,
+      "title" : "第一章：前因",
+      "capacity" : 3601
+    }, {
+      "id" : 3734,
+      "title" : "第二章：前尘往事1",
+      "capacity" : 3042
+    }, {
+      "id" : 3735,
+      "title" : "第三章：前尘往事2",
+      "capacity" : 3116
+    } ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 27,
+    "list" : [ {
+      "id" : 1347,
+      "title" : "楔子",
+      "capacity" : 5962
+    }, {
+      "id" : 1348,
+      "title" : "第一章 梦魇",
+      "capacity" : 5176
+    }, {
+      "id" : 1349,
+      "title" : "第二章 寻",
+      "capacity" : 6208
+    }, {
+      "id" : 1350,
+      "title" : "第三章 枫城",
+      "capacity" : 5684
+    }, {
+      "id" : 1351,
+      "title" : "第四章 佐颜舞",
+      "capacity" : 6464
+    }, {
+      "id" : 1352,
+      "title" : "第五章 一场后悔的对话",
+      "capacity" : 4238
+    }, {
+      "id" : 1353,
+      "title" : "第六章 再见惘然",
+      "capacity" : 4967
+    }, {
+      "id" : 1354,
+      "title" : "第七章 隐川归来",
+      "capacity" : 4691
+    }, {
+      "id" : 1355,
+      "title" : "第八章 接风宴1",
+      "capacity" : 6719
+    }, {
+      "id" : 1356,
+      "title" : "第九章 接风宴2",
+      "capacity" : 5412
+    }, {
+      "id" : 1357,
+      "title" : "第十章 甘之如饴",
+      "capacity" : 5799
+    }, {
+      "id" : 1358,
+      "title" : "第十一章 珞璎莫侬",
+      "capacity" : 5281
+    }, {
+      "id" : 1359,
+      "title" : "第十二章 墨琰试探",
+      "capacity" : 6122
+    }, {
+      "id" : 1360,
+      "title" : "第十三章 番外佐颜舞之回忆录1",
+      "capacity" : 7922
+    }, {
+      "id" : 1361,
+      "title" : "第十四章 佐颜舞之回忆录2",
+      "capacity" : 6882
+    }, {
+      "id" : 1362,
+      "title" : "第十五章 挣扎",
+      "capacity" : 7661
+    }, {
+      "id" : 1363,
+      "title" : "第十六章 乱世初显",
+      "capacity" : 6821
+    }, {
+      "id" : 1364,
+      "title" : "第十七章 平城周山",
+      "capacity" : 6764
+    }, {
+      "id" : 1365,
+      "title" : "第十八章 路经酒肆",
+      "capacity" : 8807
+    }, {
+      "id" : 1366,
+      "title" : "第十九章 墨琰追来",
+      "capacity" : 8100
+    }, {
+      "id" : 1367,
+      "title" : "第二十章 情殇",
+      "capacity" : 10850
+    }, {
+      "id" : 1368,
+      "title" : "第二十一章 汐染漓成魔",
+      "capacity" : 8413
+    }, {
+      "id" : 1369,
+      "title" : "第二十二章 解铃还须系铃人",
+      "capacity" : 8103
+    }, {
+      "id" : 1370,
+      "title" : "第二十三章 宁负天下",
+      "capacity" : 7538
+    }, {
+      "id" : 1371,
+      "title" : "第二十四章 一吻",
+      "capacity" : 6581
+    }, {
+      "id" : 1372,
+      "title" : "第二十五章 惩治清河",
+      "capacity" : 7237
+    }, {
+      "id" : 1373,
+      "title" : "第二十六章 无地著相思",
+      "capacity" : 7641
+    } ]
+  }
+}

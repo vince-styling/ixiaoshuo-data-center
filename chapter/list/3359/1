@@ -1,0 +1,166 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 39,
+    "list" : [ {
+      "id" : 1275,
+      "title" : "chapter 1",
+      "capacity" : 10222
+    }, {
+      "id" : 1276,
+      "title" : "chapter 2",
+      "capacity" : 10927
+    }, {
+      "id" : 1277,
+      "title" : "chapter 3",
+      "capacity" : 10448
+    }, {
+      "id" : 1278,
+      "title" : "chapter 4",
+      "capacity" : 10332
+    }, {
+      "id" : 1279,
+      "title" : "chapter 5",
+      "capacity" : 10686
+    }, {
+      "id" : 1280,
+      "title" : "chapter 6",
+      "capacity" : 12221
+    }, {
+      "id" : 1281,
+      "title" : "chapter 7",
+      "capacity" : 13424
+    }, {
+      "id" : 1282,
+      "title" : "chapter 8",
+      "capacity" : 12307
+    }, {
+      "id" : 1283,
+      "title" : "chapter 9",
+      "capacity" : 15696
+    }, {
+      "id" : 1284,
+      "title" : "chapter 10",
+      "capacity" : 12004
+    }, {
+      "id" : 1285,
+      "title" : "chapter 11",
+      "capacity" : 9851
+    }, {
+      "id" : 1286,
+      "title" : "chapter 12",
+      "capacity" : 9305
+    }, {
+      "id" : 1287,
+      "title" : "chapter 13",
+      "capacity" : 9904
+    }, {
+      "id" : 1288,
+      "title" : "chapter 14",
+      "capacity" : 9639
+    }, {
+      "id" : 1289,
+      "title" : "chapter 15",
+      "capacity" : 9310
+    }, {
+      "id" : 1290,
+      "title" : "chapter 16",
+      "capacity" : 13918
+    }, {
+      "id" : 1291,
+      "title" : "chapter 17",
+      "capacity" : 11164
+    }, {
+      "id" : 1292,
+      "title" : "Chapter 18",
+      "capacity" : 13366
+    }, {
+      "id" : 1293,
+      "title" : "chapter 19",
+      "capacity" : 13029
+    }, {
+      "id" : 1294,
+      "title" : "chapter 20",
+      "capacity" : 22261
+    }, {
+      "id" : 1295,
+      "title" : "chapter 21",
+      "capacity" : 17281
+    }, {
+      "id" : 1296,
+      "title" : "chapter22",
+      "capacity" : 14615
+    }, {
+      "id" : 1297,
+      "title" : "chapter23",
+      "capacity" : 14943
+    }, {
+      "id" : 1298,
+      "title" : "chapter24",
+      "capacity" : 11214
+    }, {
+      "id" : 1299,
+      "title" : "chapter25",
+      "capacity" : 10814
+    }, {
+      "id" : 1300,
+      "title" : "chapter 26",
+      "capacity" : 13908
+    }, {
+      "id" : 1301,
+      "title" : "chapter27",
+      "capacity" : 16926
+    }, {
+      "id" : 1302,
+      "title" : "chapter28",
+      "capacity" : 15622
+    }, {
+      "id" : 1303,
+      "title" : "chapter29",
+      "capacity" : 13256
+    }, {
+      "id" : 1304,
+      "title" : "chapter30",
+      "capacity" : 11130
+    }, {
+      "id" : 1305,
+      "title" : "chapter31",
+      "capacity" : 11345
+    }, {
+      "id" : 1306,
+      "title" : "chapter32",
+      "capacity" : 11439
+    }, {
+      "id" : 1307,
+      "title" : "chapter33",
+      "capacity" : 13756
+    }, {
+      "id" : 1308,
+      "title" : "chapter34",
+      "capacity" : 13900
+    }, {
+      "id" : 1309,
+      "title" : "chapter35",
+      "capacity" : 16639
+    }, {
+      "id" : 1310,
+      "title" : "chapter36",
+      "capacity" : 14521
+    }, {
+      "id" : 1311,
+      "title" : "chapter37",
+      "capacity" : 10731
+    }, {
+      "id" : 1312,
+      "title" : "chapter38",
+      "capacity" : 13141
+    }, {
+      "id" : 1313,
+      "title" : "chapter39",
+      "capacity" : 12021
+    } ]
+  }
+}

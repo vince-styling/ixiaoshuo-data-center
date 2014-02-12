@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 4609,
+      "title" : "【零】",
+      "capacity" : 9197
+    }, {
+      "id" : 4610,
+      "title" : "【壹】",
+      "capacity" : 11614
+    }, {
+      "id" : 4611,
+      "title" : "【贰】",
+      "capacity" : 9255
+    } ]
+  }
+}

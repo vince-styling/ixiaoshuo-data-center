@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 4050,
+      "title" : "简介 (可跳过）",
+      "capacity" : 786
+    }, {
+      "id" : 4051,
+      "title" : "楔子",
+      "capacity" : 3160
+    }, {
+      "id" : 4052,
+      "title" : "第一章 意外穿越",
+      "capacity" : 3592
+    }, {
+      "id" : 4053,
+      "title" : "第二章 墨族 灭！",
+      "capacity" : 4329
+    }, {
+      "id" : 4054,
+      "title" : "第三章 无题",
+      "capacity" : 3816
+    }, {
+      "id" : 4055,
+      "title" : "第四章 墨璟之难",
+      "capacity" : 3244
+    } ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 4594,
+      "title" : "楔子",
+      "capacity" : 3064
+    }, {
+      "id" : 4595,
+      "title" : "第一章：美男是个gay",
+      "capacity" : 5027
+    }, {
+      "id" : 4596,
+      "title" : "第二章：你也只能是个受",
+      "capacity" : 6902
+    } ]
+  }
+}

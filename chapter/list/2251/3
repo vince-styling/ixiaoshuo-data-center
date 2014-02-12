@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 104,
+    "list" : [ {
+      "id" : 3465,
+      "title" : "第27章 近卫营丛林寻路",
+      "capacity" : 6494
+    }, {
+      "id" : 3466,
+      "title" : "第28章 湘匪情意赎李青",
+      "capacity" : 6926
+    }, {
+      "id" : 3467,
+      "title" : "上架公告",
+      "capacity" : 2232
+    }, {
+      "id" : 3468,
+      "title" : "请假一天",
+      "capacity" : 66
+    } ]
+  }
+}

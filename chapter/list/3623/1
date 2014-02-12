@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 4789,
+      "title" : "清梦",
+      "capacity" : 5673
+    }, {
+      "id" : 4790,
+      "title" : "昏倒俊郎怀",
+      "capacity" : 3457
+    }, {
+      "id" : 4791,
+      "title" : "清冷月色悠悠我心",
+      "capacity" : 3272
+    } ]
+  }
+}

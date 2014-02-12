@@ -1,0 +1,194 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 46,
+    "list" : [ {
+      "id" : 3774,
+      "title" : "第1章 因起",
+      "capacity" : 8157
+    }, {
+      "id" : 3775,
+      "title" : "第2章 初入游戏",
+      "capacity" : 6746
+    }, {
+      "id" : 3776,
+      "title" : "第3章 武神塔",
+      "capacity" : 6539
+    }, {
+      "id" : 3777,
+      "title" : "第4章 武神心经",
+      "capacity" : 5995
+    }, {
+      "id" : 3778,
+      "title" : "第5章 升级",
+      "capacity" : 5956
+    }, {
+      "id" : 3779,
+      "title" : "第6章 恐怖的夜晚",
+      "capacity" : 6050
+    }, {
+      "id" : 3780,
+      "title" : "第7章 传承之石的秘密",
+      "capacity" : 6013
+    }, {
+      "id" : 3781,
+      "title" : "第8章 遇李氏家族",
+      "capacity" : 6063
+    }, {
+      "id" : 3782,
+      "title" : "第9章 神风大草原",
+      "capacity" : 5982
+    }, {
+      "id" : 3783,
+      "title" : "第10章 合力击杀",
+      "capacity" : 7716
+    }, {
+      "id" : 3784,
+      "title" : "第11章 猜想",
+      "capacity" : 6084
+    }, {
+      "id" : 3785,
+      "title" : "第12章 天空之城",
+      "capacity" : 6181
+    }, {
+      "id" : 3786,
+      "title" : "第13章 购买技能书",
+      "capacity" : 6301
+    }, {
+      "id" : 3787,
+      "title" : "第14章 再遇",
+      "capacity" : 6403
+    }, {
+      "id" : 3788,
+      "title" : "第15章 疯狂升级",
+      "capacity" : 6875
+    }, {
+      "id" : 3789,
+      "title" : "第16章 血煞拳",
+      "capacity" : 6203
+    }, {
+      "id" : 3790,
+      "title" : "第17章 鱼翁",
+      "capacity" : 6283
+    }, {
+      "id" : 3791,
+      "title" : "第18章 夺命狂奔",
+      "capacity" : 7441
+    }, {
+      "id" : 3792,
+      "title" : "第19章 一群牛引发的血案",
+      "capacity" : 6379
+    }, {
+      "id" : 3793,
+      "title" : "第20章 暑假来临",
+      "capacity" : 6201
+    }, {
+      "id" : 3794,
+      "title" : "第21章 震惊",
+      "capacity" : 5983
+    }, {
+      "id" : 3795,
+      "title" : "第22章 卖白银级武器",
+      "capacity" : 6169
+    }, {
+      "id" : 3796,
+      "title" : "第23章 治疗之法",
+      "capacity" : 6862
+    }, {
+      "id" : 3797,
+      "title" : "第24章 带出方法",
+      "capacity" : 6468
+    }, {
+      "id" : 3798,
+      "title" : "第25章 邀请",
+      "capacity" : 6529
+    }, {
+      "id" : 3799,
+      "title" : "第26章 合作",
+      "capacity" : 6526
+    }, {
+      "id" : 3800,
+      "title" : "第27章 跟随",
+      "capacity" : 6175
+    }, {
+      "id" : 3801,
+      "title" : "第28章 黑暗森林",
+      "capacity" : 5961
+    }, {
+      "id" : 3802,
+      "title" : "第29章 路遇",
+      "capacity" : 6341
+    }, {
+      "id" : 3803,
+      "title" : "第30章 神力之晶",
+      "capacity" : 6012
+    }, {
+      "id" : 3804,
+      "title" : "第31章 神力之晶的诞生",
+      "capacity" : 6068
+    }, {
+      "id" : 3805,
+      "title" : "第32章 黑暗属性",
+      "capacity" : 6007
+    }, {
+      "id" : 3806,
+      "title" : "第33章 分离",
+      "capacity" : 6080
+    }, {
+      "id" : 3807,
+      "title" : "第34章 清冷商店",
+      "capacity" : 6484
+    }, {
+      "id" : 3808,
+      "title" : "第35章 驯服术",
+      "capacity" : 6421
+    }, {
+      "id" : 3809,
+      "title" : "第36章 极地丘陵",
+      "capacity" : 6101
+    }, {
+      "id" : 3810,
+      "title" : "第37章 偷袭",
+      "capacity" : 7028
+    }, {
+      "id" : 3811,
+      "title" : "第38章 再杀",
+      "capacity" : 6301
+    }, {
+      "id" : 3812,
+      "title" : "第39章 条约达成",
+      "capacity" : 6717
+    }, {
+      "id" : 3813,
+      "title" : "第40章 20级系统公告",
+      "capacity" : 6356
+    }, {
+      "id" : 3814,
+      "title" : "第42章 引怪",
+      "capacity" : 6079
+    }, {
+      "id" : 3815,
+      "title" : "第42章 继续猎杀",
+      "capacity" : 5912
+    }, {
+      "id" : 3816,
+      "title" : "第43章 逃",
+      "capacity" : 6287
+    }, {
+      "id" : 3817,
+      "title" : "第44章 各个击破",
+      "capacity" : 6202
+    }, {
+      "id" : 3818,
+      "title" : "第45章 援助方磊",
+      "capacity" : 6676
+    }, {
+      "id" : 3819,
+      "title" : "第46章 精灵?",
+      "capacity" : 6564
+    } ]
+  }
+}

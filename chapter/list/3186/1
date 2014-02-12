@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 3,
+    "totalItemCount" : 107,
+    "list" : [ {
+      "id" : 3373,
+      "title" : "第一章 和亲",
+      "capacity" : 5211
+    }, {
+      "id" : 3374,
+      "title" : "第二章 重逢",
+      "capacity" : 12118
+    }, {
+      "id" : 3375,
+      "title" : "第三章 咯血",
+      "capacity" : 11585
+    }, {
+      "id" : 3376,
+      "title" : "第四章 第四章 新人哭一",
+      "capacity" : 9770
+    }, {
+      "id" : 3377,
+      "title" : "第五章 乐王爷",
+      "capacity" : 9117
+    }, {
+      "id" : 3378,
+      "title" : "第六章 桃花坞",
+      "capacity" : 5760
+    }, {
+      "id" : 3379,
+      "title" : "第七章 侍寝一",
+      "capacity" : 10366
+    }, {
+      "id" : 3380,
+      "title" : "第八章  侍寝二",
+      "capacity" : 8831
+    }, {
+      "id" : 3381,
+      "title" : "第九章 紫落",
+      "capacity" : 5305
+    }, {
+      "id" : 3382,
+      "title" : "第十章 乐王府",
+      "capacity" : 11571
+    }, {
+      "id" : 3383,
+      "title" : "第十一章 梦",
+      "capacity" : 15205
+    }, {
+      "id" : 3384,
+      "title" : "第十二章 岁月静好",
+      "capacity" : 4646
+    }, {
+      "id" : 3385,
+      "title" : "第十三章 漫舞",
+      "capacity" : 10232
+    }, {
+      "id" : 3386,
+      "title" : "第十四章 青梅竹马一",
+      "capacity" : 9090
+    }, {
+      "id" : 3387,
+      "title" : "第十五章 青梅竹马二",
+      "capacity" : 5839
+    }, {
+      "id" : 3388,
+      "title" : "第十六章 青梅竹马三",
+      "capacity" : 5838
+    }, {
+      "id" : 3389,
+      "title" : "第十七章 异香",
+      "capacity" : 8130
+    }, {
+      "id" : 3390,
+      "title" : "第十八章 回宫",
+      "capacity" : 10192
+    }, {
+      "id" : 3391,
+      "title" : "第十九章 七夕",
+      "capacity" : 10613
+    }, {
+      "id" : 3392,
+      "title" : "第二十章 锦公主",
+      "capacity" : 6205
+    }, {
+      "id" : 3393,
+      "title" : "第二十一章 太后一",
+      "capacity" : 8225
+    }, {
+      "id" : 3394,
+      "title" : "第二十二章 容儿",
+      "capacity" : 7113
+    }, {
+      "id" : 3395,
+      "title" : "第二十三章 药",
+      "capacity" : 4822
+    }, {
+      "id" : 3396,
+      "title" : "第二十四章  愤恨",
+      "capacity" : 4321
+    }, {
+      "id" : 3397,
+      "title" : "第二十五章 示容",
+      "capacity" : 5502
+    }, {
+      "id" : 3398,
+      "title" : "第二十六章 寿宴",
+      "capacity" : 4834
+    }, {
+      "id" : 3399,
+      "title" : "第二十七章 布局一",
+      "capacity" : 8822
+    }, {
+      "id" : 3400,
+      "title" : "第二十八章 布局二",
+      "capacity" : 14597
+    }, {
+      "id" : 3401,
+      "title" : "第二十九章 夜宴",
+      "capacity" : 6563
+    }, {
+      "id" : 3402,
+      "title" : "第三十章 胎落",
+      "capacity" : 5720
+    }, {
+      "id" : 3403,
+      "title" : "第三十一章 指责",
+      "capacity" : 7071
+    }, {
+      "id" : 3404,
+      "title" : "第三十二章 惊梦",
+      "capacity" : 5729
+    }, {
+      "id" : 3405,
+      "title" : "第三十三章  加封",
+      "capacity" : 6307
+    }, {
+      "id" : 3406,
+      "title" : "第三十四章 出谋",
+      "capacity" : 4863
+    }, {
+      "id" : 3407,
+      "title" : "第三十五章 旱情一",
+      "capacity" : 14767
+    }, {
+      "id" : 3408,
+      "title" : "第三十六章 乞雨",
+      "capacity" : 9508
+    }, {
+      "id" : 3409,
+      "title" : "第三十七章 宴请",
+      "capacity" : 11327
+    }, {
+      "id" : 3410,
+      "title" : "第三十八章 封后一",
+      "capacity" : 3831
+    }, {
+      "id" : 3411,
+      "title" : "第三十九章 封后二",
+      "capacity" : 3229
+    }, {
+      "id" : 3412,
+      "title" : "第四十章  芙蓉妆一",
+      "capacity" : 3237
+    }, {
+      "id" : 3413,
+      "title" : "第四十一章 芙蓉妆二",
+      "capacity" : 3685
+    }, {
+      "id" : 3414,
+      "title" : "第四十二章 薄惩一",
+      "capacity" : 3334
+    }, {
+      "id" : 3415,
+      "title" : "第四十三章 薄惩二",
+      "capacity" : 2681
+    }, {
+      "id" : 3416,
+      "title" : "第四十四章 进宫一",
+      "capacity" : 3965
+    }, {
+      "id" : 3417,
+      "title" : "第四十五章 进宫二",
+      "capacity" : 2346
+    }, {
+      "id" : 3418,
+      "title" : "第四十六章 殿选",
+      "capacity" : 2882
+    }, {
+      "id" : 3419,
+      "title" : "第四十七章 叶挽霜",
+      "capacity" : 5825
+    }, {
+      "id" : 3420,
+      "title" : "第四十八章 冷嘲一",
+      "capacity" : 3647
+    }, {
+      "id" : 3421,
+      "title" : "第四十九章 怀恨",
+      "capacity" : 9263
+    }, {
+      "id" : 3422,
+      "title" : "第五十章 心冷",
+      "capacity" : 5973
+    } ]
+  }
+}

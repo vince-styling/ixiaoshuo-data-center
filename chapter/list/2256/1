@@ -1,0 +1,166 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 39,
+    "list" : [ {
+      "id" : 1690,
+      "title" : "上架公告",
+      "capacity" : 2824
+    }, {
+      "id" : 1691,
+      "title" : "楔子",
+      "capacity" : 3927
+    }, {
+      "id" : 1692,
+      "title" : "第一章 魂穿东宫",
+      "capacity" : 10073
+    }, {
+      "id" : 1693,
+      "title" : "第二章 点滴头绪",
+      "capacity" : 12103
+    }, {
+      "id" : 1694,
+      "title" : "第三章 杀手情郎",
+      "capacity" : 9637
+    }, {
+      "id" : 1695,
+      "title" : "第四章 御花园遇",
+      "capacity" : 9167
+    }, {
+      "id" : 1696,
+      "title" : "第五章 初试深浅",
+      "capacity" : 9208
+    }, {
+      "id" : 1697,
+      "title" : "第六章 鬓头沾血",
+      "capacity" : 9976
+    }, {
+      "id" : 1698,
+      "title" : "第七章 冬至宴上",
+      "capacity" : 9414
+    }, {
+      "id" : 1699,
+      "title" : "第八章 冬至宴下",
+      "capacity" : 10101
+    }, {
+      "id" : 1700,
+      "title" : "第九章 风云暗涌",
+      "capacity" : 10258
+    }, {
+      "id" : 1701,
+      "title" : "第十章 风扬絮起",
+      "capacity" : 9694
+    }, {
+      "id" : 1702,
+      "title" : "第十一章 窥探端倪",
+      "capacity" : 9357
+    }, {
+      "id" : 1703,
+      "title" : "第十二章 探秘寻踪",
+      "capacity" : 9239
+    }, {
+      "id" : 1704,
+      "title" : "第十三章 机智惩恶",
+      "capacity" : 9930
+    }, {
+      "id" : 1705,
+      "title" : "第十四章 坦白结盟",
+      "capacity" : 9678
+    }, {
+      "id" : 1706,
+      "title" : "第十五章 出谋划策",
+      "capacity" : 9262
+    }, {
+      "id" : 1707,
+      "title" : "第十六章 南边雷雨",
+      "capacity" : 9437
+    }, {
+      "id" : 1708,
+      "title" : "第十七章 孕事惊险",
+      "capacity" : 9197
+    }, {
+      "id" : 1709,
+      "title" : "第十八章 诚与君谋",
+      "capacity" : 9763
+    }, {
+      "id" : 1710,
+      "title" : "第十九章 皇寺遇袭",
+      "capacity" : 10253
+    }, {
+      "id" : 1711,
+      "title" : "第二十章 风波再起",
+      "capacity" : 10253
+    }, {
+      "id" : 1712,
+      "title" : "第二一章 弃卒保车",
+      "capacity" : 10005
+    }, {
+      "id" : 1713,
+      "title" : "第二二章 暧昧之夜",
+      "capacity" : 9790
+    }, {
+      "id" : 1714,
+      "title" : "第二三章 初觉情意",
+      "capacity" : 9700
+    }, {
+      "id" : 1715,
+      "title" : "第二四章 山间巫医",
+      "capacity" : 9827
+    }, {
+      "id" : 1716,
+      "title" : "第二五章 偶遇杰士",
+      "capacity" : 9742
+    }, {
+      "id" : 1717,
+      "title" : "第二六章 喜得贵子",
+      "capacity" : 9872
+    }, {
+      "id" : 1718,
+      "title" : "第二七章 封地之谈",
+      "capacity" : 9858
+    }, {
+      "id" : 1719,
+      "title" : "第二八章 邓国国破",
+      "capacity" : 9753
+    }, {
+      "id" : 1720,
+      "title" : "第二九章 设计伤害",
+      "capacity" : 9901
+    }, {
+      "id" : 1721,
+      "title" : "第三十章 悲伤不离",
+      "capacity" : 9619
+    }, {
+      "id" : 1722,
+      "title" : "第三一章 朝见大会",
+      "capacity" : 72
+    }, {
+      "id" : 1723,
+      "title" : "第三二章 风流皇子",
+      "capacity" : 9795
+    }, {
+      "id" : 1724,
+      "title" : "第三三章 分封计略",
+      "capacity" : 9951
+    }, {
+      "id" : 1725,
+      "title" : "第三四章 赵国割裂",
+      "capacity" : 9563
+    }, {
+      "id" : 1726,
+      "title" : "第三五章 政治联姻",
+      "capacity" : 9789
+    }, {
+      "id" : 1727,
+      "title" : "第三六章 阴谋暗算",
+      "capacity" : 10430
+    }, {
+      "id" : 1728,
+      "title" : "第三七章 东西纷扰",
+      "capacity" : 10540
+    } ]
+  }
+}

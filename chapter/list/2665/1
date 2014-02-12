@@ -1,0 +1,134 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 31,
+    "list" : [ {
+      "id" : 3898,
+      "title" : "第一节 重返故地",
+      "capacity" : 6753
+    }, {
+      "id" : 3899,
+      "title" : "第二节 公交英雄",
+      "capacity" : 11079
+    }, {
+      "id" : 3900,
+      "title" : "第三节 同学聚会",
+      "capacity" : 6042
+    }, {
+      "id" : 3901,
+      "title" : "第四节 忧伤之忆",
+      "capacity" : 6766
+    }, {
+      "id" : 3902,
+      "title" : "第五节 巷道巧遇",
+      "capacity" : 9291
+    }, {
+      "id" : 3903,
+      "title" : "第六节 长毛佬大",
+      "capacity" : 8885
+    }, {
+      "id" : 3904,
+      "title" : "第七节 帅气佬大",
+      "capacity" : 8553
+    }, {
+      "id" : 3905,
+      "title" : "第八节 厄运难逃",
+      "capacity" : 8928
+    }, {
+      "id" : 3906,
+      "title" : "第九节 巷战白猴三虎",
+      "capacity" : 11467
+    }, {
+      "id" : 3907,
+      "title" : "第十节 一个好人",
+      "capacity" : 9078
+    }, {
+      "id" : 3908,
+      "title" : "第十一节 地头蛇",
+      "capacity" : 13568
+    }, {
+      "id" : 3909,
+      "title" : "第十二节 两堂内斗",
+      "capacity" : 10865
+    }, {
+      "id" : 3910,
+      "title" : "第十三节 多情浪子",
+      "capacity" : 11618
+    }, {
+      "id" : 3911,
+      "title" : "第十四节 神秘老板娘",
+      "capacity" : 14263
+    }, {
+      "id" : 3912,
+      "title" : "第十五节 暴力篮球",
+      "capacity" : 15717
+    }, {
+      "id" : 3913,
+      "title" : "第十六节 关于宁娜",
+      "capacity" : 13954
+    }, {
+      "id" : 3914,
+      "title" : "第十七节 薄命红颜",
+      "capacity" : 14606
+    }, {
+      "id" : 3915,
+      "title" : "第十八节 人妖副手",
+      "capacity" : 17849
+    }, {
+      "id" : 3916,
+      "title" : "第十九节 厂门肇事",
+      "capacity" : 11771
+    }, {
+      "id" : 3917,
+      "title" : "第二十节 司空见惯",
+      "capacity" : 13053
+    }, {
+      "id" : 3918,
+      "title" : "第二十一节 依依不舍",
+      "capacity" : 11690
+    }, {
+      "id" : 3919,
+      "title" : "第二十二节 东区往事",
+      "capacity" : 11199
+    }, {
+      "id" : 3920,
+      "title" : "第二十三节 梦回东区",
+      "capacity" : 14865
+    }, {
+      "id" : 3921,
+      "title" : "第二十四节 黑帮线人",
+      "capacity" : 10013
+    }, {
+      "id" : 3922,
+      "title" : "第二十五节 荒唐抉择",
+      "capacity" : 12799
+    }, {
+      "id" : 3923,
+      "title" : "第二十六节 顺鸣制药",
+      "capacity" : 15049
+    }, {
+      "id" : 3924,
+      "title" : "第二十七节 因为爱情",
+      "capacity" : 10856
+    }, {
+      "id" : 3925,
+      "title" : "第二十八节 风雨前夕",
+      "capacity" : 12592
+    }, {
+      "id" : 3926,
+      "title" : "第二十九节 直闯黑蝎堂",
+      "capacity" : 13609
+    }, {
+      "id" : 3927,
+      "title" : "第三十节 不要放手",
+      "capacity" : 13653
+    }, {
+      "id" : 3928,
+      "title" : "第三十一节 身陷险境",
+      "capacity" : 9786
+    } ]
+  }
+}

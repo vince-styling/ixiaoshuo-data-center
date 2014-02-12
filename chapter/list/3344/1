@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 4214,
+      "title" : "第一章 君临天下",
+      "capacity" : 9400
+    }, {
+      "id" : 4215,
+      "title" : "第三章 佳丽三千",
+      "capacity" : 6010
+    }, {
+      "id" : 4216,
+      "title" : "第四章 轩伊初见",
+      "capacity" : 6514
+    }, {
+      "id" : 4217,
+      "title" : "第五章 寻蝶觅君",
+      "capacity" : 6398
+    }, {
+      "id" : 4218,
+      "title" : "第六章 锦衣玉食",
+      "capacity" : 6007
+    }, {
+      "id" : 4219,
+      "title" : "第七章 秘密交易1",
+      "capacity" : 7555
+    }, {
+      "id" : 4220,
+      "title" : "第八章 秘密交易2",
+      "capacity" : 6243
+    }, {
+      "id" : 4221,
+      "title" : "第九章 秘密交易3",
+      "capacity" : 5980
+    }, {
+      "id" : 4222,
+      "title" : "第二章 烟雨伊人",
+      "capacity" : 9192
+    } ]
+  }
+}

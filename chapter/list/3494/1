@@ -1,0 +1,82 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 18,
+    "list" : [ {
+      "id" : 2058,
+      "title" : "一、",
+      "capacity" : 3548
+    }, {
+      "id" : 2059,
+      "title" : "二、",
+      "capacity" : 3335
+    }, {
+      "id" : 2060,
+      "title" : "三、",
+      "capacity" : 2931
+    }, {
+      "id" : 2061,
+      "title" : "四、",
+      "capacity" : 3367
+    }, {
+      "id" : 2062,
+      "title" : "五、",
+      "capacity" : 4989
+    }, {
+      "id" : 2063,
+      "title" : "六、",
+      "capacity" : 3964
+    }, {
+      "id" : 2064,
+      "title" : "七、",
+      "capacity" : 4305
+    }, {
+      "id" : 2065,
+      "title" : "八、",
+      "capacity" : 3427
+    }, {
+      "id" : 2066,
+      "title" : "九、",
+      "capacity" : 5894
+    }, {
+      "id" : 2067,
+      "title" : "十、",
+      "capacity" : 4765
+    }, {
+      "id" : 2068,
+      "title" : "十一、",
+      "capacity" : 7035
+    }, {
+      "id" : 2069,
+      "title" : "十二、",
+      "capacity" : 3088
+    }, {
+      "id" : 2070,
+      "title" : "十三、",
+      "capacity" : 3217
+    }, {
+      "id" : 2071,
+      "title" : "十四、",
+      "capacity" : 5785
+    }, {
+      "id" : 2072,
+      "title" : "十五、",
+      "capacity" : 4663
+    }, {
+      "id" : 2073,
+      "title" : "十六、",
+      "capacity" : 3214
+    }, {
+      "id" : 2074,
+      "title" : "十七、",
+      "capacity" : 4485
+    }, {
+      "id" : 2075,
+      "title" : "十八、",
+      "capacity" : 4425
+    } ]
+  }
+}

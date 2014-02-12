@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 2567,
+      "title" : "一到二章",
+      "capacity" : 5992
+    }, {
+      "id" : 2568,
+      "title" : "第二章琥珀双瞳－天生灵女（下）",
+      "capacity" : 1353
+    }, {
+      "id" : 2569,
+      "title" : "第三章暗狱之法",
+      "capacity" : 3538
+    } ]
+  }
+}

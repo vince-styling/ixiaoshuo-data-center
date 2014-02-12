@@ -1,0 +1,70 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 15,
+    "list" : [ {
+      "id" : 4428,
+      "title" : "半城烟沙 壹",
+      "capacity" : 9945
+    }, {
+      "id" : 4429,
+      "title" : "半城烟沙 贰",
+      "capacity" : 9540
+    }, {
+      "id" : 4430,
+      "title" : "半城烟沙 叁",
+      "capacity" : 9208
+    }, {
+      "id" : 4431,
+      "title" : "半城烟沙 肆",
+      "capacity" : 9192
+    }, {
+      "id" : 4432,
+      "title" : "半城烟沙 伍",
+      "capacity" : 9178
+    }, {
+      "id" : 4433,
+      "title" : "半城烟沙 陆",
+      "capacity" : 9110
+    }, {
+      "id" : 4434,
+      "title" : "半城烟沙 柒",
+      "capacity" : 9248
+    }, {
+      "id" : 4435,
+      "title" : "半城烟沙 捌",
+      "capacity" : 9935
+    }, {
+      "id" : 4436,
+      "title" : "倾尽天下 壹",
+      "capacity" : 9325
+    }, {
+      "id" : 4437,
+      "title" : "倾尽天下 贰",
+      "capacity" : 9048
+    }, {
+      "id" : 4438,
+      "title" : "倾尽天下 叁",
+      "capacity" : 9159
+    }, {
+      "id" : 4439,
+      "title" : "倾尽天下 肆",
+      "capacity" : 9230
+    }, {
+      "id" : 4440,
+      "title" : "倾尽天下 伍",
+      "capacity" : 9349
+    }, {
+      "id" : 4441,
+      "title" : "倾尽天下 陆",
+      "capacity" : 9430
+    }, {
+      "id" : 4442,
+      "title" : "倾尽天下 柒",
+      "capacity" : 9426
+    } ]
+  }
+}

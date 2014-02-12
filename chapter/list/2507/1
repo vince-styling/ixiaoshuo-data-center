@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 3205,
+      "title" : "等待的希望.银尘",
+      "capacity" : 3979
+    }, {
+      "id" : 3206,
+      "title" : "回路复生.天之使徒",
+      "capacity" : 4319
+    }, {
+      "id" : 3207,
+      "title" : "错乱的吻",
+      "capacity" : 4398
+    }, {
+      "id" : 3208,
+      "title" : "暗流",
+      "capacity" : 4446
+    }, {
+      "id" : 3209,
+      "title" : "修川地藏",
+      "capacity" : 3098
+    } ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 103,
+    "list" : [ {
+      "id" : 4765,
+      "title" : "第100章 男生队的艰苦角逐",
+      "capacity" : 3998
+    }, {
+      "id" : 4766,
+      "title" : "第101章 雷人发挥",
+      "capacity" : 4807
+    }, {
+      "id" : 4767,
+      "title" : "第102章 爆破试验",
+      "capacity" : 5640
+    } ]
+  }
+}

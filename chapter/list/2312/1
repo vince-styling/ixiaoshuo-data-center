@@ -1,0 +1,66 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 14,
+    "list" : [ {
+      "id" : 4667,
+      "title" : "栀子的穿越",
+      "capacity" : 9929
+    }, {
+      "id" : 4668,
+      "title" : "第二章 又是栀子",
+      "capacity" : 9350
+    }, {
+      "id" : 4669,
+      "title" : "第三章 八卦一下外祖家的往事",
+      "capacity" : 9391
+    }, {
+      "id" : 4670,
+      "title" : "第四章 园中琐事",
+      "capacity" : 10251
+    }, {
+      "id" : 4671,
+      "title" : "第五章 娃娃亲？",
+      "capacity" : 10515
+    }, {
+      "id" : 4672,
+      "title" : "第六章 初次的邂逅",
+      "capacity" : 10441
+    }, {
+      "id" : 4673,
+      "title" : "第七章 失态",
+      "capacity" : 9451
+    }, {
+      "id" : 4674,
+      "title" : "第八章 郭威的家人们",
+      "capacity" : 9323
+    }, {
+      "id" : 4675,
+      "title" : "第九章 早熟",
+      "capacity" : 9662
+    }, {
+      "id" : 4676,
+      "title" : "第十章 冠帔风波",
+      "capacity" : 9164
+    }, {
+      "id" : 4677,
+      "title" : "第十一章 假山后的秘密",
+      "capacity" : 10282
+    }, {
+      "id" : 4678,
+      "title" : "第十二章 隔着藤萝架有耳",
+      "capacity" : 9127
+    }, {
+      "id" : 4679,
+      "title" : "第十三章",
+      "capacity" : 3096
+    }, {
+      "id" : 4680,
+      "title" : "第十四章",
+      "capacity" : 3189
+    } ]
+  }
+}

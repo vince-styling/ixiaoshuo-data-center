@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 40,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3443,
+      "name" : "许你长安",
+      "updateStatus" : 1,
+      "distance" : 7341,
+      "memberId" : 4809
+    }, {
+      "id" : 3007,
+      "name" : "醉逍遥",
+      "updateStatus" : 1,
+      "distance" : 7746,
+      "memberId" : 3796
+    }, {
+      "id" : 3118,
+      "name" : "第二频道之穿越模式",
+      "updateStatus" : 2,
+      "distance" : 7904,
+      "memberId" : 7136
+    }, {
+      "id" : 2400,
+      "name" : "吸血鬼殿下的温柔阳光",
+      "updateStatus" : 1,
+      "distance" : 2422,
+      "memberId" : 7319
+    }, {
+      "id" : 3632,
+      "name" : "幽谷之殇",
+      "updateStatus" : 1,
+      "distance" : 4597,
+      "memberId" : 4457
+    }, {
+      "id" : 2067,
+      "name" : "昔人惜人",
+      "updateStatus" : 2,
+      "distance" : 9683,
+      "memberId" : 3550
+    }, {
+      "id" : 3230,
+      "name" : "霹雳戢武王妹控玉仔酱油记",
+      "updateStatus" : 1,
+      "distance" : 4058,
+      "memberId" : 3948
+    }, {
+      "id" : 2453,
+      "name" : "死亡七部曲",
+      "updateStatus" : 1,
+      "distance" : 2434,
+      "memberId" : 8457
+    }, {
+      "id" : 3342,
+      "name" : "我视你如毛线",
+      "updateStatus" : 1,
+      "distance" : 5149,
+      "memberId" : 6881
+    }, {
+      "id" : 3619,
+      "name" : "结婚规则：一生就要你一人",
+      "updateStatus" : 1,
+      "distance" : 2786,
+      "memberId" : 8831
+    }, {
+      "id" : 2240,
+      "name" : "一亿一剑一情绝",
+      "updateStatus" : 1,
+      "distance" : 1201,
+      "memberId" : 8042
+    }, {
+      "id" : 3296,
+      "name" : "斜阳晚照",
+      "updateStatus" : 1,
+      "distance" : 8858,
+      "memberId" : 3781
+    }, {
+      "id" : 3020,
+      "name" : "五行武侠",
+      "updateStatus" : 1,
+      "distance" : 3836,
+      "memberId" : 8867
+    }, {
+      "id" : 2259,
+      "name" : "一树梨花散，散，散",
+      "updateStatus" : 2,
+      "distance" : 3721,
+      "memberId" : 1485
+    }, {
+      "id" : 3635,
+      "name" : "恍然入仙",
+      "updateStatus" : 1,
+      "distance" : 2085,
+      "memberId" : 8050
+    }, {
+      "id" : 3218,
+      "name" : "爱之梦",
+      "updateStatus" : 1,
+      "distance" : 2295,
+      "memberId" : 2304
+    }, {
+      "id" : 3536,
+      "name" : "网王同人浅色的夏季",
+      "updateStatus" : 1,
+      "distance" : 4398,
+      "memberId" : 8625
+    }, {
+      "id" : 2658,
+      "name" : "天佑嘉璟",
+      "updateStatus" : 1,
+      "distance" : 8973,
+      "memberId" : 4732
+    }, {
+      "id" : 3062,
+      "name" : "两年后的爱情",
+      "updateStatus" : 1,
+      "distance" : 8554,
+      "memberId" : 2021
+    }, {
+      "id" : 2127,
+      "name" : "沐沐雪深",
+      "updateStatus" : 1,
+      "distance" : 8486,
+      "memberId" : 6281
+    } ]
+  }
+}

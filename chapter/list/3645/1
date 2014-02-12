@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 2910,
+      "title" : "第一章 穿越",
+      "capacity" : 3431
+    }, {
+      "id" : 2911,
+      "title" : "第二章 身份",
+      "capacity" : 2583
+    }, {
+      "id" : 2912,
+      "title" : "第三章 决定",
+      "capacity" : 2784
+    }, {
+      "id" : 2913,
+      "title" : "第四章 安排",
+      "capacity" : 3824
+    }, {
+      "id" : 2914,
+      "title" : "第五章 初见",
+      "capacity" : 4452
+    }, {
+      "id" : 2915,
+      "title" : "第六章 林烨",
+      "capacity" : 4725
+    }, {
+      "id" : 2916,
+      "title" : "第七章 晚宴",
+      "capacity" : 4080
+    } ]
+  }
+}

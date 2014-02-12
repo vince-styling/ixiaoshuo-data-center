@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 3937,
+      "title" : "楔子",
+      "capacity" : 3478
+    }, {
+      "id" : 3938,
+      "title" : "初见",
+      "capacity" : 3628
+    }, {
+      "id" : 3939,
+      "title" : "奇怪的男人",
+      "capacity" : 3362
+    }, {
+      "id" : 3940,
+      "title" : "夜间奇遇",
+      "capacity" : 4677
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 78,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2712,
+      "name" : "人比花娇",
+      "updateStatus" : 1,
+      "distance" : 6588,
+      "memberId" : 1192
+    }, {
+      "id" : 2340,
+      "name" : "小妖闯现代：恋上狼总裁",
+      "updateStatus" : 1,
+      "distance" : 5380,
+      "memberId" : 7944
+    }, {
+      "id" : 3593,
+      "name" : "锦春",
+      "updateStatus" : 1,
+      "distance" : 1953,
+      "memberId" : 2094
+    }, {
+      "id" : 2968,
+      "name" : "重生之待到记忆镂空时",
+      "updateStatus" : 2,
+      "distance" : 8480,
+      "memberId" : 1562
+    }, {
+      "id" : 3660,
+      "name" : "男佣",
+      "updateStatus" : 1,
+      "distance" : 749,
+      "memberId" : 6270
+    }, {
+      "id" : 2371,
+      "name" : "冰世纪的开胃陈",
+      "updateStatus" : 1,
+      "distance" : 6087,
+      "memberId" : 5905
+    }, {
+      "id" : 2233,
+      "name" : "末世之非末之世",
+      "updateStatus" : 1,
+      "distance" : 3399,
+      "memberId" : 4865
+    }, {
+      "id" : 3064,
+      "name" : "再回首灯火阑珊",
+      "updateStatus" : 1,
+      "distance" : 7097,
+      "memberId" : 4295
+    }, {
+      "id" : 2158,
+      "name" : "网游之独狂天下",
+      "updateStatus" : 1,
+      "distance" : 9465,
+      "memberId" : 4724
+    }, {
+      "id" : 2338,
+      "name" : "那一世,只因缘而穿",
+      "updateStatus" : 1,
+      "distance" : 1955,
+      "memberId" : 7710
+    }, {
+      "id" : 3622,
+      "name" : "妃澄勿扰：这个嬷嬷赛倾城",
+      "updateStatus" : 1,
+      "distance" : 1215,
+      "memberId" : 2484
+    }, {
+      "id" : 2154,
+      "name" : "寻仙问诱：美男不要逃",
+      "updateStatus" : 1,
+      "distance" : 8293,
+      "memberId" : 3552
+    }, {
+      "id" : 2144,
+      "name" : "英雄道",
+      "updateStatus" : 2,
+      "distance" : 7752,
+      "memberId" : 1336
+    }, {
+      "id" : 3518,
+      "name" : "寻花",
+      "updateStatus" : 1,
+      "distance" : 9501,
+      "memberId" : 5984
+    }, {
+      "id" : 3451,
+      "name" : "屠花影",
+      "updateStatus" : 1,
+      "distance" : 3968,
+      "memberId" : 6670
+    }, {
+      "id" : 2470,
+      "name" : "祸水",
+      "updateStatus" : 2,
+      "distance" : 4728,
+      "memberId" : 2899
+    }, {
+      "id" : 2575,
+      "name" : "有生之年",
+      "updateStatus" : 1,
+      "distance" : 1765,
+      "memberId" : 3069
+    }, {
+      "id" : 2294,
+      "name" : "颠沛流离",
+      "updateStatus" : 1,
+      "distance" : 588,
+      "memberId" : 6963
+    }, {
+      "id" : 2442,
+      "name" : "峰回路转只见君",
+      "updateStatus" : 1,
+      "distance" : 7220,
+      "memberId" : 3633
+    }, {
+      "id" : 2191,
+      "name" : "西界纪年",
+      "updateStatus" : 1,
+      "distance" : 4412,
+      "memberId" : 8811
+    } ]
+  }
+}

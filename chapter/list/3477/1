@@ -1,0 +1,90 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 20,
+    "list" : [ {
+      "id" : 2402,
+      "title" : "第一章",
+      "capacity" : 3989
+    }, {
+      "id" : 2403,
+      "title" : "第二章",
+      "capacity" : 4094
+    }, {
+      "id" : 2404,
+      "title" : "第三章",
+      "capacity" : 4847
+    }, {
+      "id" : 2405,
+      "title" : "第四章",
+      "capacity" : 4429
+    }, {
+      "id" : 2406,
+      "title" : "第五章",
+      "capacity" : 4756
+    }, {
+      "id" : 2407,
+      "title" : "第六章",
+      "capacity" : 4120
+    }, {
+      "id" : 2408,
+      "title" : "第七章",
+      "capacity" : 5525
+    }, {
+      "id" : 2409,
+      "title" : "第八章",
+      "capacity" : 5336
+    }, {
+      "id" : 2410,
+      "title" : "第九章",
+      "capacity" : 5065
+    }, {
+      "id" : 2411,
+      "title" : "第十章",
+      "capacity" : 5156
+    }, {
+      "id" : 2412,
+      "title" : "第十一章",
+      "capacity" : 3969
+    }, {
+      "id" : 2413,
+      "title" : "第十二章",
+      "capacity" : 4665
+    }, {
+      "id" : 2414,
+      "title" : "第十三章",
+      "capacity" : 5328
+    }, {
+      "id" : 2415,
+      "title" : "第十四章",
+      "capacity" : 3928
+    }, {
+      "id" : 2416,
+      "title" : "第十五章",
+      "capacity" : 4053
+    }, {
+      "id" : 2417,
+      "title" : "第十六章",
+      "capacity" : 5360
+    }, {
+      "id" : 2418,
+      "title" : "第十七章",
+      "capacity" : 4085
+    }, {
+      "id" : 2419,
+      "title" : "第十八章",
+      "capacity" : 4177
+    }, {
+      "id" : 2420,
+      "title" : "第十九章",
+      "capacity" : 4305
+    }, {
+      "id" : 2421,
+      "title" : "第二十章",
+      "capacity" : 4504
+    } ]
+  }
+}

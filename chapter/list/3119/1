@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 2687,
+      "title" : "第一章 喜讯传来",
+      "capacity" : 5054
+    }, {
+      "id" : 2688,
+      "title" : "第二章 知画生子",
+      "capacity" : 4304
+    }, {
+      "id" : 2689,
+      "title" : "第三章 一起风波",
+      "capacity" : 3484
+    }, {
+      "id" : 2690,
+      "title" : "第四章 风波平息",
+      "capacity" : 4064
+    }, {
+      "id" : 2691,
+      "title" : "第五章 紫薇吃醋",
+      "capacity" : 3148
+    }, {
+      "id" : 2692,
+      "title" : "第六章 晴儿指婚",
+      "capacity" : 3354
+    }, {
+      "id" : 2693,
+      "title" : "第七章 计上心来",
+      "capacity" : 3412
+    }, {
+      "id" : 2694,
+      "title" : "第八章 计谋得逞",
+      "capacity" : 3030
+    }, {
+      "id" : 2695,
+      "title" : "第九章 雨一直下",
+      "capacity" : 5421
+    }, {
+      "id" : 2696,
+      "title" : "第十章 分析要害",
+      "capacity" : 3387
+    }, {
+      "id" : 2697,
+      "title" : "第十一章 陈家案情",
+      "capacity" : 3985
+    }, {
+      "id" : 2698,
+      "title" : "第十二章 紫薇劝解",
+      "capacity" : 7331
+    }, {
+      "id" : 2699,
+      "title" : "第十三章 和嘉亮相",
+      "capacity" : 6622
+    } ]
+  }
+}

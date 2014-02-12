@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 109,
+    "list" : [ {
+      "id" : 1181,
+      "title" : "101",
+      "capacity" : 32443
+    }, {
+      "id" : 1182,
+      "title" : "102",
+      "capacity" : 35111
+    }, {
+      "id" : 1183,
+      "title" : "103",
+      "capacity" : 32005
+    }, {
+      "id" : 1184,
+      "title" : "104",
+      "capacity" : 34881
+    }, {
+      "id" : 1185,
+      "title" : "105",
+      "capacity" : 31714
+    }, {
+      "id" : 1186,
+      "title" : "106",
+      "capacity" : 31955
+    }, {
+      "id" : 1187,
+      "title" : "107",
+      "capacity" : 34138
+    }, {
+      "id" : 1188,
+      "title" : "108",
+      "capacity" : 28839
+    }, {
+      "id" : 1189,
+      "title" : "完",
+      "capacity" : 24130
+    } ]
+  }
+}

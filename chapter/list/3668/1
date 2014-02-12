@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 4262,
+      "title" : "第一章：平荆王殁",
+      "capacity" : 7899
+    }, {
+      "id" : 4263,
+      "title" : "第二章：怀祖救美",
+      "capacity" : 7702
+    }, {
+      "id" : 4264,
+      "title" : "第三章：怀安回家",
+      "capacity" : 11557
+    }, {
+      "id" : 4265,
+      "title" : "第四章：朝堂生变",
+      "capacity" : 13462
+    }, {
+      "id" : 4266,
+      "title" : "第五章：老祖太太",
+      "capacity" : 12558
+    }, {
+      "id" : 4267,
+      "title" : "第六章：怀祖认亲",
+      "capacity" : 14399
+    }, {
+      "id" : 4268,
+      "title" : "第七章：皇后受辱",
+      "capacity" : 13116
+    }, {
+      "id" : 4269,
+      "title" : "第八章：三试佳人",
+      "capacity" : 14525
+    }, {
+      "id" : 4270,
+      "title" : "第九章：怀祖进京",
+      "capacity" : 10607
+    }, {
+      "id" : 4271,
+      "title" : "第十章：魏朝之死",
+      "capacity" : 15061
+    }, {
+      "id" : 4272,
+      "title" : "第十一章：怀安成婚",
+      "capacity" : 13150
+    } ]
+  }
+}

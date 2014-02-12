@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 3345,
+    "name" : "黑洞星海",
+    "author" : "星海之魂",
+    "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42256.jpg",
+    "summary" : "这是一个充满神奇的魔幻世界，在这个世界里人们以力量为尊，谁就是王者。",
+    "lastUpdateTime" : "2013-12-07 02:56:10",
+    "updateStatus" : 1,
+    "catId" : 126,
+    "catName" : "玄幻奇幻",
+    "capacity" : 54449
+  }
+}

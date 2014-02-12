@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 3459,
+    "name" : "红尘客栈",
+    "author" : "初六",
+    "coverUrl" : "",
+    "summary" : "天涯\n的尽头是风沙\n红尘\n的故事叫牵挂",
+    "lastUpdateTime" : "2013-12-05 22:09:00",
+    "updateStatus" : 1,
+    "catId" : 124,
+    "catName" : "古代言情",
+    "capacity" : 57668
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 3,
+    "totalItemCount" : 118,
+    "list" : [ {
+      "id" : 4782,
+      "title" : "读前请先看",
+      "capacity" : 1733
+    }, {
+      "id" : 4783,
+      "title" : "第一章：重生",
+      "capacity" : 7196
+    }, {
+      "id" : 4784,
+      "title" : "第二章：缘起",
+      "capacity" : 10197
+    }, {
+      "id" : 4785,
+      "title" : "第三章：尊贵",
+      "capacity" : 10396
+    }, {
+      "id" : 4786,
+      "title" : "第四章：出世",
+      "capacity" : 9384
+    }, {
+      "id" : 4787,
+      "title" : "第五章：帝临",
+      "capacity" : 10160
+    }, {
+      "id" : 4788,
+      "title" : "第六章：项链",
+      "capacity" : 9921
+    }, {
+      "id" : 4789,
+      "title" : "第七章：怪地",
+      "capacity" : 12066
+    }, {
+      "id" : 4790,
+      "title" : "第八章：乱闯",
+      "capacity" : 10851
+    }, {
+      "id" : 4791,
+      "title" : "第九章：谢天",
+      "capacity" : 13413
+    }, {
+      "id" : 4792,
+      "title" : "第十章：算计",
+      "capacity" : 12646
+    }, {
+      "id" : 4793,
+      "title" : "第十一章：觉醒",
+      "capacity" : 10307
+    }, {
+      "id" : 4794,
+      "title" : "第十二章：托付",
+      "capacity" : 12057
+    }, {
+      "id" : 4795,
+      "title" : "第十三章：报答",
+      "capacity" : 9315
+    }, {
+      "id" : 4796,
+      "title" : "第十四章：父归",
+      "capacity" : 9612
+    }, {
+      "id" : 4797,
+      "title" : "第十五章：审讯",
+      "capacity" : 9032
+    }, {
+      "id" : 4798,
+      "title" : "第十六章：坦白",
+      "capacity" : 9068
+    }, {
+      "id" : 4799,
+      "title" : "第十七章：成长",
+      "capacity" : 10312
+    }, {
+      "id" : 4800,
+      "title" : "第十八章：准备",
+      "capacity" : 10820
+    }, {
+      "id" : 4801,
+      "title" : "第十九章：惊觉",
+      "capacity" : 10632
+    }, {
+      "id" : 4802,
+      "title" : "第二十章：选秀",
+      "capacity" : 9296
+    }, {
+      "id" : 4803,
+      "title" : "第二十一章：觐见",
+      "capacity" : 9989
+    }, {
+      "id" : 4804,
+      "title" : "第二十二章：赐婚",
+      "capacity" : 9617
+    }, {
+      "id" : 4805,
+      "title" : "第二十三章：待嫁",
+      "capacity" : 9090
+    }, {
+      "id" : 4806,
+      "title" : "第二十四章：嫁妆",
+      "capacity" : 9485
+    }, {
+      "id" : 4807,
+      "title" : "第二十五章：出嫁",
+      "capacity" : 9998
+    }, {
+      "id" : 4808,
+      "title" : "第二十六章：大婚",
+      "capacity" : 10294
+    }, {
+      "id" : 4809,
+      "title" : "第二十七章：成婚",
+      "capacity" : 9395
+    }, {
+      "id" : 4810,
+      "title" : "第二十八章：请安",
+      "capacity" : 10284
+    }, {
+      "id" : 4811,
+      "title" : "第二十九章：午膳",
+      "capacity" : 9737
+    }, {
+      "id" : 4812,
+      "title" : "第三十章：怡宁",
+      "capacity" : 9889
+    }, {
+      "id" : 4813,
+      "title" : "第三十一章：胤禵",
+      "capacity" : 9819
+    }, {
+      "id" : 4814,
+      "title" : "第三十二章：宋氏",
+      "capacity" : 9395
+    }, {
+      "id" : 4815,
+      "title" : "第三十三章：婆媳",
+      "capacity" : 9652
+    }, {
+      "id" : 4816,
+      "title" : "第三十四章：贤惠",
+      "capacity" : 9359
+    }, {
+      "id" : 4817,
+      "title" : "第三十五章：亲信",
+      "capacity" : 9485
+    }, {
+      "id" : 4818,
+      "title" : "第三十六章：沐浴",
+      "capacity" : 9415
+    }, {
+      "id" : 4819,
+      "title" : "第三十七章：初夜",
+      "capacity" : 9438
+    }, {
+      "id" : 4820,
+      "title" : "第三十八章：局势",
+      "capacity" : 9479
+    }, {
+      "id" : 4821,
+      "title" : "第三十九章：局势（2）",
+      "capacity" : 9605
+    }, {
+      "id" : 4822,
+      "title" : "第四十章：金屋",
+      "capacity" : 9341
+    }, {
+      "id" : 4823,
+      "title" : "第四十一章：作画",
+      "capacity" : 9633
+    }, {
+      "id" : 4824,
+      "title" : "第四十二章：作画（2）",
+      "capacity" : 10014
+    }, {
+      "id" : 4825,
+      "title" : "第四十三章：惊变",
+      "capacity" : 9471
+    }, {
+      "id" : 4826,
+      "title" : "第四十四章：恐惧",
+      "capacity" : 9975
+    }, {
+      "id" : 4827,
+      "title" : "第四十五章：解惑",
+      "capacity" : 9598
+    }, {
+      "id" : 4828,
+      "title" : "第四十六章：解惑（2）",
+      "capacity" : 9467
+    }, {
+      "id" : 4829,
+      "title" : "第四十七章：坦诚",
+      "capacity" : 9447
+    }, {
+      "id" : 4830,
+      "title" : "第四十八章：真相",
+      "capacity" : 9748
+    }, {
+      "id" : 4831,
+      "title" : "第四十九章：融合（1）",
+      "capacity" : 5050
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 11,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2272,
+      "name" : "乱世红尘梦",
+      "updateStatus" : 1,
+      "distance" : 3882,
+      "memberId" : 6952
+    }, {
+      "id" : 2236,
+      "name" : "冥江漫漫",
+      "updateStatus" : 1,
+      "distance" : 638,
+      "memberId" : 2586
+    }, {
+      "id" : 3732,
+      "name" : "兰倾天下",
+      "updateStatus" : 1,
+      "distance" : 7320,
+      "memberId" : 2801
+    }, {
+      "id" : 2364,
+      "name" : "双城——消隐的传奇",
+      "updateStatus" : 1,
+      "distance" : 5197,
+      "memberId" : 3586
+    }, {
+      "id" : 3443,
+      "name" : "许你长安",
+      "updateStatus" : 1,
+      "distance" : 888,
+      "memberId" : 2188
+    }, {
+      "id" : 3348,
+      "name" : "杀手王妃的花心王爷",
+      "updateStatus" : 1,
+      "distance" : 9324,
+      "memberId" : 8472
+    }, {
+      "id" : 3397,
+      "name" : "红颜祸水：皇后潜潜水",
+      "updateStatus" : 1,
+      "distance" : 1805,
+      "memberId" : 6891
+    }, {
+      "id" : 3236,
+      "name" : "九尾女皇",
+      "updateStatus" : 1,
+      "distance" : 6198,
+      "memberId" : 4769
+    }, {
+      "id" : 3191,
+      "name" : "没有一个女孩不美丽",
+      "updateStatus" : 1,
+      "distance" : 559,
+      "memberId" : 4749
+    }, {
+      "id" : 2965,
+      "name" : "一嫁倾国",
+      "updateStatus" : 1,
+      "distance" : 6689,
+      "memberId" : 5014
+    }, {
+      "id" : 3613,
+      "name" : "剑翎之仙侣奇侠",
+      "updateStatus" : 1,
+      "distance" : 4001,
+      "memberId" : 2044
+    }, {
+      "id" : 2973,
+      "name" : "独占温宠",
+      "updateStatus" : 1,
+      "distance" : 4171,
+      "memberId" : 7567
+    }, {
+      "id" : 2952,
+      "name" : "沪城玦恋",
+      "updateStatus" : 1,
+      "distance" : 5845,
+      "memberId" : 6132
+    }, {
+      "id" : 2759,
+      "name" : "若无君，何来月",
+      "updateStatus" : 1,
+      "distance" : 7315,
+      "memberId" : 6764
+    }, {
+      "id" : 2159,
+      "name" : "雁翎刀",
+      "updateStatus" : 1,
+      "distance" : 5651,
+      "memberId" : 8050
+    }, {
+      "id" : 2464,
+      "name" : "微光角落",
+      "updateStatus" : 1,
+      "distance" : 6859,
+      "memberId" : 5258
+    }, {
+      "id" : 2166,
+      "name" : "仙岚异世情",
+      "updateStatus" : 1,
+      "distance" : 3128,
+      "memberId" : 5594
+    }, {
+      "id" : 2868,
+      "name" : "仙侠传说：繁华落尽君辞去",
+      "updateStatus" : 1,
+      "distance" : 669,
+      "memberId" : 6230
+    }, {
+      "id" : 3325,
+      "name" : "司宠",
+      "updateStatus" : 1,
+      "distance" : 9455,
+      "memberId" : 8352
+    }, {
+      "id" : 2713,
+      "name" : "凉茶温酒",
+      "updateStatus" : 1,
+      "distance" : 4149,
+      "memberId" : 6339
+    } ]
+  }
+}

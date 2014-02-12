@@ -1,0 +1,146 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 34,
+    "list" : [ {
+      "id" : 2560,
+      "title" : "第一章：倒霉穿越",
+      "capacity" : 5985
+    }, {
+      "id" : 2561,
+      "title" : "第二章：初来乍到",
+      "capacity" : 6521
+    }, {
+      "id" : 2562,
+      "title" : "第三章：势力初成",
+      "capacity" : 6485
+    }, {
+      "id" : 2563,
+      "title" : "第四章：赐婚",
+      "capacity" : 6176
+    }, {
+      "id" : 2564,
+      "title" : "第五章",
+      "capacity" : 6343
+    }, {
+      "id" : 2565,
+      "title" : "第六章：逛青楼",
+      "capacity" : 6193
+    }, {
+      "id" : 2566,
+      "title" : "第七章：青楼相遇",
+      "capacity" : 6911
+    }, {
+      "id" : 2567,
+      "title" : "第八章：要嫁了",
+      "capacity" : 6096
+    }, {
+      "id" : 2568,
+      "title" : "第九章：身份被破",
+      "capacity" : 6485
+    }, {
+      "id" : 2569,
+      "title" : "第十章：客栈开张",
+      "capacity" : 6617
+    }, {
+      "id" : 2570,
+      "title" : "第十一章：收留姐妹花",
+      "capacity" : 6500
+    }, {
+      "id" : 2571,
+      "title" : "第十二章：一曲“惊”四座",
+      "capacity" : 6779
+    }, {
+      "id" : 2572,
+      "title" : "第十三章：供娱乐的人来了",
+      "capacity" : 6749
+    }, {
+      "id" : 2573,
+      "title" : "第十四章：刺杀",
+      "capacity" : 7495
+    }, {
+      "id" : 2574,
+      "title" : "第十五章：回家",
+      "capacity" : 9158
+    }, {
+      "id" : 2575,
+      "title" : "第十六章：雪狐",
+      "capacity" : 17278
+    }, {
+      "id" : 2576,
+      "title" : "第十七章：回府",
+      "capacity" : 11308
+    }, {
+      "id" : 2577,
+      "title" : "第十八章：惩治",
+      "capacity" : 10165
+    }, {
+      "id" : 2578,
+      "title" : "第十九章：进宫",
+      "capacity" : 6282
+    }, {
+      "id" : 2579,
+      "title" : "第二十章：寿宴",
+      "capacity" : 9523
+    }, {
+      "id" : 2580,
+      "title" : "第二十一章：龙傲绝",
+      "capacity" : 7930
+    }, {
+      "id" : 2581,
+      "title" : "第二十二章：震惊，倾城楼",
+      "capacity" : 8421
+    }, {
+      "id" : 2582,
+      "title" : "第二十三章：偷鸡不成蚀把米",
+      "capacity" : 10348
+    }, {
+      "id" : 2583,
+      "title" : "第二十四章：找茬",
+      "capacity" : 6170
+    }, {
+      "id" : 2584,
+      "title" : "第二十五章：这家赌坊我要了",
+      "capacity" : 7784
+    }, {
+      "id" : 2585,
+      "title" : "第二十六章：地契到手",
+      "capacity" : 7846
+    }, {
+      "id" : 2586,
+      "title" : "第二十七章：商谈",
+      "capacity" : 8091
+    }, {
+      "id" : 2587,
+      "title" : "第二十八章：闹事",
+      "capacity" : 6006
+    }, {
+      "id" : 2588,
+      "title" : "第二十九章：谁揍得好就赏",
+      "capacity" : 7779
+    }, {
+      "id" : 2589,
+      "title" : "第三十章:绝刹盟",
+      "capacity" : 6596
+    }, {
+      "id" : 2590,
+      "title" : "第三十一章:蠢女人",
+      "capacity" : 5432
+    }, {
+      "id" : 2591,
+      "title" : "第三十二章:放人?没门",
+      "capacity" : 4909
+    }, {
+      "id" : 2592,
+      "title" : "第三十三章:我不要留下",
+      "capacity" : 3989
+    }, {
+      "id" : 2593,
+      "title" : "三十四章:家人的感觉",
+      "capacity" : 5286
+    } ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 26,
+    "list" : [ {
+      "id" : 2054,
+      "title" : "『霓裳』少年·往昔",
+      "capacity" : 3345
+    }, {
+      "id" : 2055,
+      "title" : "『霓裳』魂散·梦碎",
+      "capacity" : 3330
+    }, {
+      "id" : 2056,
+      "title" : "『霓裳』何去·归处",
+      "capacity" : 3499
+    }, {
+      "id" : 2057,
+      "title" : "『霓裳』长夜·无言",
+      "capacity" : 3493
+    }, {
+      "id" : 2058,
+      "title" : "『霓裳』难为·是谁",
+      "capacity" : 3137
+    }, {
+      "id" : 2059,
+      "title" : "『霓裳』难测·轻吻",
+      "capacity" : 3062
+    }, {
+      "id" : 2060,
+      "title" : "『霓裳』闲言·骤变",
+      "capacity" : 3692
+    }, {
+      "id" : 2061,
+      "title" : "『霓裳』坦露·自由",
+      "capacity" : 3525
+    }, {
+      "id" : 2062,
+      "title" : "『霓裳』奈何·病发",
+      "capacity" : 3326
+    }, {
+      "id" : 2063,
+      "title" : "『霓裳』风云·暗涌",
+      "capacity" : 3640
+    }, {
+      "id" : 2064,
+      "title" : "『霓裳』急讯·珣娘",
+      "capacity" : 4102
+    }, {
+      "id" : 2065,
+      "title" : "『霓裳』蹂躏·恶言",
+      "capacity" : 4102
+    }, {
+      "id" : 2066,
+      "title" : "『霓裳』清平·羞辱",
+      "capacity" : 3202
+    }, {
+      "id" : 2067,
+      "title" : "『霓裳』江湖·云散",
+      "capacity" : 4219
+    }, {
+      "id" : 2068,
+      "title" : "『霓裳』默言·伤决",
+      "capacity" : 4254
+    }, {
+      "id" : 2069,
+      "title" : "『霓裳』魂兮·归来（本卷终）",
+      "capacity" : 4512
+    }, {
+      "id" : 2070,
+      "title" : "『雪衣』坟中人",
+      "capacity" : 3418
+    }, {
+      "id" : 2071,
+      "title" : "『雪衣』集奇药",
+      "capacity" : 3445
+    }, {
+      "id" : 2072,
+      "title" : "『雪衣』伤其神",
+      "capacity" : 3361
+    }, {
+      "id" : 2073,
+      "title" : "『雪衣』月夜观",
+      "capacity" : 3124
+    }, {
+      "id" : 2074,
+      "title" : "『雪衣』长街游",
+      "capacity" : 3548
+    }, {
+      "id" : 2075,
+      "title" : "『雪衣』酒楼变",
+      "capacity" : 3587
+    }, {
+      "id" : 2076,
+      "title" : "『雪衣』莫恒决",
+      "capacity" : 4129
+    }, {
+      "id" : 2077,
+      "title" : "『雪衣』蛊虫术",
+      "capacity" : 3834
+    }, {
+      "id" : 2078,
+      "title" : "『雪衣』星霜换",
+      "capacity" : 4407
+    }, {
+      "id" : 2079,
+      "title" : "『雪衣』虫儿飞",
+      "capacity" : 4443
+    } ]
+  }
+}

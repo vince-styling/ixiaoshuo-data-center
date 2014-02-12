@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 2709,
+      "title" : "第一章：被背叛",
+      "capacity" : 6816
+    }, {
+      "id" : 2710,
+      "title" : "第二章 痛打狐狸精",
+      "capacity" : 6266
+    }, {
+      "id" : 2711,
+      "title" : "第三章 一枚魔兽蛋引发的悲剧",
+      "capacity" : 5170
+    }, {
+      "id" : 2712,
+      "title" : "第四章 不听话的魔宠",
+      "capacity" : 5490
+    }, {
+      "id" : 2713,
+      "title" : "第五章 曾经的噩梦",
+      "capacity" : 4747
+    }, {
+      "id" : 2714,
+      "title" : "第六章：雪儿别扭了",
+      "capacity" : 5137
+    } ]
+  }
+}

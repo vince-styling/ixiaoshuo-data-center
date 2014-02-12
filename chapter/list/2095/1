@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 3,
+    "totalItemCount" : 106,
+    "list" : [ {
+      "id" : 1068,
+      "title" : "第001章 私奔",
+      "capacity" : 6518
+    }, {
+      "id" : 1069,
+      "title" : "第002章 下山",
+      "capacity" : 7889
+    }, {
+      "id" : 1070,
+      "title" : "第003章 过门",
+      "capacity" : 6734
+    }, {
+      "id" : 1071,
+      "title" : "第004章 小姐很好",
+      "capacity" : 7609
+    }, {
+      "id" : 1072,
+      "title" : "第005章 摔倒",
+      "capacity" : 6707
+    }, {
+      "id" : 1073,
+      "title" : "第006章 蹴鞠",
+      "capacity" : 6743
+    }, {
+      "id" : 1074,
+      "title" : "第007章 定情信物",
+      "capacity" : 7562
+    }, {
+      "id" : 1075,
+      "title" : "第008章 探视",
+      "capacity" : 6126
+    }, {
+      "id" : 1076,
+      "title" : "第009章 李玉楼",
+      "capacity" : 6139
+    }, {
+      "id" : 1077,
+      "title" : "第010章 画像",
+      "capacity" : 6160
+    }, {
+      "id" : 1078,
+      "title" : "第011章 生日宴",
+      "capacity" : 6993
+    }, {
+      "id" : 1079,
+      "title" : "第012章 玄机",
+      "capacity" : 6451
+    }, {
+      "id" : 1080,
+      "title" : "第013章 鹦鹉",
+      "capacity" : 6519
+    }, {
+      "id" : 1081,
+      "title" : "第014章 小荣儿",
+      "capacity" : 6589
+    }, {
+      "id" : 1082,
+      "title" : "第015章 二叔",
+      "capacity" : 8564
+    }, {
+      "id" : 1083,
+      "title" : "第016章 叔侄情",
+      "capacity" : 6035
+    }, {
+      "id" : 1084,
+      "title" : "第017章 荷包牵出的缘分",
+      "capacity" : 6818
+    }, {
+      "id" : 1085,
+      "title" : "第018章 小将军睡着了",
+      "capacity" : 6926
+    }, {
+      "id" : 1086,
+      "title" : "第019章 报名",
+      "capacity" : 6477
+    }, {
+      "id" : 1087,
+      "title" : "第020章 豪门朋友",
+      "capacity" : 7360
+    }, {
+      "id" : 1088,
+      "title" : "第021章 之所以是情圣",
+      "capacity" : 8521
+    }, {
+      "id" : 1089,
+      "title" : "第022章 冷血鬼",
+      "capacity" : 7077
+    }, {
+      "id" : 1090,
+      "title" : "第023章 老人",
+      "capacity" : 6556
+    }, {
+      "id" : 1091,
+      "title" : "第024章 我是徐管家",
+      "capacity" : 6307
+    }, {
+      "id" : 1092,
+      "title" : "第025章 巫蛊",
+      "capacity" : 7289
+    }, {
+      "id" : 1093,
+      "title" : "第026章 缓兵之计",
+      "capacity" : 6845
+    }, {
+      "id" : 1094,
+      "title" : "第027章 官府很热闹",
+      "capacity" : 6654
+    }, {
+      "id" : 1095,
+      "title" : "第028章 较量",
+      "capacity" : 6137
+    }, {
+      "id" : 1096,
+      "title" : "第029章 派符",
+      "capacity" : 6587
+    }, {
+      "id" : 1097,
+      "title" : "第030章 痛",
+      "capacity" : 7036
+    }, {
+      "id" : 1098,
+      "title" : "第031章 独占神话",
+      "capacity" : 6000
+    }, {
+      "id" : 1099,
+      "title" : "第032章 可怕的男人争",
+      "capacity" : 6026
+    }, {
+      "id" : 1100,
+      "title" : "第033章 情圣加法二章",
+      "capacity" : 6188
+    }, {
+      "id" : 1101,
+      "title" : "第034章 盗",
+      "capacity" : 6597
+    }, {
+      "id" : 1102,
+      "title" : "第035章 育花",
+      "capacity" : 6063
+    }, {
+      "id" : 1103,
+      "title" : "第036章 神医style",
+      "capacity" : 6046
+    }, {
+      "id" : 1104,
+      "title" : "第037章 魔光初现",
+      "capacity" : 6832
+    }, {
+      "id" : 1105,
+      "title" : "第038章 表白",
+      "capacity" : 7735
+    }, {
+      "id" : 1106,
+      "title" : "第039章 第一次刺激",
+      "capacity" : 7772
+    }, {
+      "id" : 1107,
+      "title" : "第040章 出于爱",
+      "capacity" : 6058
+    }, {
+      "id" : 1108,
+      "title" : "第041章 第二次刺激（上）",
+      "capacity" : 6573
+    }, {
+      "id" : 1109,
+      "title" : "第042章 第二次刺激（下）",
+      "capacity" : 6639
+    }, {
+      "id" : 1110,
+      "title" : "第043章 哄小孩",
+      "capacity" : 6557
+    }, {
+      "id" : 1111,
+      "title" : "第044章 捉奸",
+      "capacity" : 6961
+    }, {
+      "id" : 1112,
+      "title" : "第045章 出诊",
+      "capacity" : 6538
+    }, {
+      "id" : 1113,
+      "title" : "第046章 亲密爱人",
+      "capacity" : 7371
+    }, {
+      "id" : 1114,
+      "title" : "第047章 奈何是人精",
+      "capacity" : 7042
+    }, {
+      "id" : 1115,
+      "title" : "第048章 生日喜乐会",
+      "capacity" : 7309
+    }, {
+      "id" : 1116,
+      "title" : "第049章 阴柔术",
+      "capacity" : 6194
+    }, {
+      "id" : 1117,
+      "title" : "第050章 新欢旧爱",
+      "capacity" : 7877
+    } ]
+  }
+}

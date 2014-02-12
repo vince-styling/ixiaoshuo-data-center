@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 4065,
+      "title" : "第五十章 全家打劫",
+      "capacity" : 7659
+    }, {
+      "id" : 4066,
+      "title" : "第五十一章 此命葬此崖？",
+      "capacity" : 9555
+    } ]
+  }
+}

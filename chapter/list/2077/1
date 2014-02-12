@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 1311,
+      "title" : "第一章 晴儿请愿",
+      "capacity" : 8906
+    }, {
+      "id" : 1312,
+      "title" : "第二章 商量私奔",
+      "capacity" : 6838
+    }, {
+      "id" : 1313,
+      "title" : "第三章 劫持事件",
+      "capacity" : 7428
+    }, {
+      "id" : 1314,
+      "title" : "第四章 复杂案情",
+      "capacity" : 7771
+    }, {
+      "id" : 1315,
+      "title" : "第五章 陈年往事",
+      "capacity" : 6381
+    }, {
+      "id" : 1316,
+      "title" : "第六章 青娅其人",
+      "capacity" : 8332
+    }, {
+      "id" : 1317,
+      "title" : "第七章 另有隐情",
+      "capacity" : 6810
+    }, {
+      "id" : 1318,
+      "title" : "第八章 尘埃落定",
+      "capacity" : 8005
+    }, {
+      "id" : 1319,
+      "title" : "第九章 疑似故人",
+      "capacity" : 7358
+    }, {
+      "id" : 1320,
+      "title" : "第十章 永燕情深",
+      "capacity" : 7885
+    }, {
+      "id" : 1321,
+      "title" : "第十一章 些许甜蜜",
+      "capacity" : 7699
+    }, {
+      "id" : 1322,
+      "title" : "第十二章 燕子拜师",
+      "capacity" : 7926
+    }, {
+      "id" : 1323,
+      "title" : "第十三章 晴儿私奔",
+      "capacity" : 7848
+    }, {
+      "id" : 1324,
+      "title" : "第十四章 千头万绪",
+      "capacity" : 6123
+    }, {
+      "id" : 1325,
+      "title" : "第十五章 吐露实情",
+      "capacity" : 6650
+    }, {
+      "id" : 1326,
+      "title" : "第十六章 重大线索",
+      "capacity" : 6991
+    }, {
+      "id" : 1327,
+      "title" : "第十七章 水落石出",
+      "capacity" : 7227
+    }, {
+      "id" : 1328,
+      "title" : "第十八章 紫康解疑",
+      "capacity" : 7179
+    }, {
+      "id" : 1329,
+      "title" : "第十九章 永燕练剑",
+      "capacity" : 6294
+    }, {
+      "id" : 1330,
+      "title" : "第二十章 太后刁难",
+      "capacity" : 6196
+    }, {
+      "id" : 1331,
+      "title" : "第二十一章 后续风波",
+      "capacity" : 6194
+    }, {
+      "id" : 1332,
+      "title" : "第二十二章 再见袭梦",
+      "capacity" : 6729
+    }, {
+      "id" : 1333,
+      "title" : "第二十三章 爱子下落",
+      "capacity" : 6401
+    }, {
+      "id" : 1334,
+      "title" : "第二十四章 紫燕开店",
+      "capacity" : 7210
+    }, {
+      "id" : 1335,
+      "title" : "第二十五章 结识欧阳",
+      "capacity" : 7665
+    }, {
+      "id" : 1336,
+      "title" : "第二十六章 两情相悦",
+      "capacity" : 7739
+    }, {
+      "id" : 1337,
+      "title" : "第二十七章 发现秘密",
+      "capacity" : 6651
+    }, {
+      "id" : 1338,
+      "title" : "第二十八章 棋社相聚",
+      "capacity" : 6942
+    }, {
+      "id" : 1339,
+      "title" : "第二十九章 沉冤昭雪",
+      "capacity" : 8028
+    }, {
+      "id" : 1340,
+      "title" : "第三十章 燕子失踪",
+      "capacity" : 6049
+    }, {
+      "id" : 1341,
+      "title" : "第三十一章 计划落败",
+      "capacity" : 7227
+    }, {
+      "id" : 1342,
+      "title" : "第三十二章 危机四伏",
+      "capacity" : 7479
+    }, {
+      "id" : 1343,
+      "title" : "第三十三章 推心置腹",
+      "capacity" : 6061
+    }, {
+      "id" : 1344,
+      "title" : "第三十四章 紫燕被劫",
+      "capacity" : 5875
+    }, {
+      "id" : 1345,
+      "title" : "第三十五章 千钧一发",
+      "capacity" : 6333
+    }, {
+      "id" : 1346,
+      "title" : "第三十六章 永燕冰释",
+      "capacity" : 5968
+    }, {
+      "id" : 1347,
+      "title" : "第三十七章 人言可畏",
+      "capacity" : 7833
+    }, {
+      "id" : 1348,
+      "title" : "第三十八章 正面交锋",
+      "capacity" : 9152
+    }, {
+      "id" : 1349,
+      "title" : "第三十九章 晴天霹雳",
+      "capacity" : 9293
+    }, {
+      "id" : 1350,
+      "title" : "第四十章 爱到妥协",
+      "capacity" : 9071
+    }, {
+      "id" : 1351,
+      "title" : "第四十一章 千头万绪",
+      "capacity" : 10019
+    }, {
+      "id" : 1352,
+      "title" : "第四十二章 倾诉衷肠",
+      "capacity" : 9083
+    }, {
+      "id" : 1353,
+      "title" : "第四十三章 仓促指婚",
+      "capacity" : 9093
+    }, {
+      "id" : 1354,
+      "title" : "第四十四章 晴儿殉情",
+      "capacity" : 9768
+    }, {
+      "id" : 1355,
+      "title" : "第四十五章 失而复得",
+      "capacity" : 9764
+    }, {
+      "id" : 1356,
+      "title" : "第四十六章 紫康矛盾",
+      "capacity" : 9625
+    }, {
+      "id" : 1357,
+      "title" : "第四十七章 尔康纳妾",
+      "capacity" : 9469
+    }, {
+      "id" : 1358,
+      "title" : "第四十八章 雨过天晴",
+      "capacity" : 9149
+    }, {
+      "id" : 1359,
+      "title" : "第四十九章 老四落马",
+      "capacity" : 9381
+    }, {
+      "id" : 1360,
+      "title" : "第五十章 孤注一掷",
+      "capacity" : 9601
+    } ]
+  }
+}

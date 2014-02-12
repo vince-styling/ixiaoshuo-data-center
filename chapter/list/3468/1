@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 1221,
+      "title" : "开篇絮语",
+      "capacity" : 318
+    }, {
+      "id" : 1222,
+      "title" : "《龙与蛇》前话",
+      "capacity" : 646
+    }, {
+      "id" : 1223,
+      "title" : "01.红绳断",
+      "capacity" : 6338
+    }, {
+      "id" : 1224,
+      "title" : "02.小惩大诫",
+      "capacity" : 6608
+    }, {
+      "id" : 1225,
+      "title" : "03.缘，非缘",
+      "capacity" : 6558
+    }, {
+      "id" : 1226,
+      "title" : "04.渡劫",
+      "capacity" : 6099
+    }, {
+      "id" : 1227,
+      "title" : "05.就此别过",
+      "capacity" : 6698
+    } ]
+  }
+}

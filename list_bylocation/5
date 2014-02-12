@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 5,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2312,
+      "name" : "栀子梦",
+      "updateStatus" : 1,
+      "distance" : 3891,
+      "memberId" : 5935
+    }, {
+      "id" : 2538,
+      "name" : "幸福百里",
+      "updateStatus" : 1,
+      "distance" : 5415,
+      "memberId" : 6158
+    }, {
+      "id" : 3080,
+      "name" : "死生契阔：墨遇小小",
+      "updateStatus" : 1,
+      "distance" : 1707,
+      "memberId" : 3926
+    }, {
+      "id" : 2498,
+      "name" : "飘落的信笺",
+      "updateStatus" : 1,
+      "distance" : 8686,
+      "memberId" : 5386
+    }, {
+      "id" : 3234,
+      "name" : "死神通法三部曲",
+      "updateStatus" : 1,
+      "distance" : 7386,
+      "memberId" : 6117
+    }, {
+      "id" : 2155,
+      "name" : "古剑情韵之花神泪",
+      "updateStatus" : 1,
+      "distance" : 2645,
+      "memberId" : 7430
+    }, {
+      "id" : 3354,
+      "name" : "复仇公主恋爱记",
+      "updateStatus" : 1,
+      "distance" : 6249,
+      "memberId" : 8104
+    }, {
+      "id" : 2393,
+      "name" : "剩女重生女警花：缉拿花花大少",
+      "updateStatus" : 1,
+      "distance" : 945,
+      "memberId" : 1091
+    }, {
+      "id" : 2116,
+      "name" : "妖孽皇太子：独宠下堂妃",
+      "updateStatus" : 2,
+      "distance" : 3778,
+      "memberId" : 1616
+    }, {
+      "id" : 2826,
+      "name" : "沐晴只到梨花薄",
+      "updateStatus" : 1,
+      "distance" : 5493,
+      "memberId" : 8085
+    }, {
+      "id" : 3451,
+      "name" : "屠花影",
+      "updateStatus" : 1,
+      "distance" : 3246,
+      "memberId" : 1280
+    }, {
+      "id" : 2568,
+      "name" : "爱情转变剂",
+      "updateStatus" : 1,
+      "distance" : 8319,
+      "memberId" : 5585
+    }, {
+      "id" : 2503,
+      "name" : "真实的选择",
+      "updateStatus" : 1,
+      "distance" : 8970,
+      "memberId" : 5718
+    }, {
+      "id" : 3273,
+      "name" : "神医皇后",
+      "updateStatus" : 1,
+      "distance" : 2012,
+      "memberId" : 1079
+    }, {
+      "id" : 3276,
+      "name" : "宫心计续集",
+      "updateStatus" : 1,
+      "distance" : 3838,
+      "memberId" : 6713
+    }, {
+      "id" : 3266,
+      "name" : "候鸟归来",
+      "updateStatus" : 1,
+      "distance" : 1636,
+      "memberId" : 4892
+    }, {
+      "id" : 3102,
+      "name" : "暗光",
+      "updateStatus" : 1,
+      "distance" : 8189,
+      "memberId" : 7984
+    }, {
+      "id" : 2496,
+      "name" : "赛罗之双生子的羁绊",
+      "updateStatus" : 1,
+      "distance" : 8050,
+      "memberId" : 7612
+    }, {
+      "id" : 3293,
+      "name" : "穿越之未知数",
+      "updateStatus" : 1,
+      "distance" : 6134,
+      "memberId" : 5085
+    }, {
+      "id" : 2078,
+      "name" : "绾君心",
+      "updateStatus" : 1,
+      "distance" : 7401,
+      "memberId" : 1810
+    } ]
+  }
+}

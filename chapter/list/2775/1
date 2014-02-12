@@ -1,0 +1,98 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 22,
+    "list" : [ {
+      "id" : 1281,
+      "title" : "第一章 重生 新生活",
+      "capacity" : 6366
+    }, {
+      "id" : 1282,
+      "title" : "第二章 开学、再遇冰山男",
+      "capacity" : 6228
+    }, {
+      "id" : 1283,
+      "title" : "第三章 不和我作对要死啊！",
+      "capacity" : 7453
+    }, {
+      "id" : 1284,
+      "title" : "第四章 莫名其妙的树敌",
+      "capacity" : 7878
+    }, {
+      "id" : 1285,
+      "title" : "第五章 行踪暴露",
+      "capacity" : 8568
+    }, {
+      "id" : 1286,
+      "title" : "第六章 敌人出现",
+      "capacity" : 7369
+    }, {
+      "id" : 1287,
+      "title" : "第七章 他们也是异能者！！",
+      "capacity" : 10001
+    }, {
+      "id" : 1288,
+      "title" : "第八章 坦白身份",
+      "capacity" : 6439
+    }, {
+      "id" : 1289,
+      "title" : "第九章 午饭风波",
+      "capacity" : 10181
+    }, {
+      "id" : 1290,
+      "title" : "第十章 舞蹈排练",
+      "capacity" : 7060
+    }, {
+      "id" : 1291,
+      "title" : "第十一章 一波未平一波又起",
+      "capacity" : 8396
+    }, {
+      "id" : 1292,
+      "title" : "第十二章 矛盾解开了",
+      "capacity" : 4794
+    }, {
+      "id" : 1293,
+      "title" : "第十三章 又遇实验异能者",
+      "capacity" : 11027
+    }, {
+      "id" : 1294,
+      "title" : "第十四章 去读慕容轩的心吧",
+      "capacity" : 12880
+    }, {
+      "id" : 1295,
+      "title" : "第十五章 威可可来啦",
+      "capacity" : 14422
+    }, {
+      "id" : 1296,
+      "title" : "第十六章 温馨的一天",
+      "capacity" : 13213
+    }, {
+      "id" : 1297,
+      "title" : "第十七章 暧昧的舞蹈",
+      "capacity" : 14126
+    }, {
+      "id" : 1298,
+      "title" : "第十八章 可可离开",
+      "capacity" : 7413
+    }, {
+      "id" : 1299,
+      "title" : "第十九章 慕容轩的女友",
+      "capacity" : 8101
+    }, {
+      "id" : 1300,
+      "title" : "第二十章 麻烦来咯",
+      "capacity" : 14114
+    }, {
+      "id" : 1301,
+      "title" : "第二十一章 校庆来临",
+      "capacity" : 9851
+    }, {
+      "id" : 1302,
+      "title" : "第二十二章 入住慕容轩的家",
+      "capacity" : 9326
+    } ]
+  }
+}

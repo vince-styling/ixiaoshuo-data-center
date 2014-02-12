@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 1955,
+      "title" : "第一章 秘密通道",
+      "capacity" : 7952
+    }, {
+      "id" : 1956,
+      "title" : "第二章 初遇",
+      "capacity" : 5286
+    }, {
+      "id" : 1957,
+      "title" : "第三章 贵人",
+      "capacity" : 5835
+    }, {
+      "id" : 1958,
+      "title" : "第四章 受伤",
+      "capacity" : 6206
+    }, {
+      "id" : 1959,
+      "title" : "第五章 发烧",
+      "capacity" : 7273
+    }, {
+      "id" : 1960,
+      "title" : "第六章 黄金船队",
+      "capacity" : 6045
+    }, {
+      "id" : 1961,
+      "title" : "第七章 龙叔",
+      "capacity" : 5101
+    }, {
+      "id" : 1962,
+      "title" : "第八章 私人医生",
+      "capacity" : 4200
+    } ]
+  }
+}

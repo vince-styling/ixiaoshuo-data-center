@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 1816,
+      "title" : "第一章 忆",
+      "capacity" : 5663
+    }, {
+      "id" : 1817,
+      "title" : "第二章 拒绝",
+      "capacity" : 4426
+    }, {
+      "id" : 1818,
+      "title" : "第三章 故人",
+      "capacity" : 4268
+    }, {
+      "id" : 1819,
+      "title" : "第四章 流言or事实",
+      "capacity" : 4259
+    }, {
+      "id" : 1820,
+      "title" : "第五章 梁凡的怒",
+      "capacity" : 4309
+    } ]
+  }
+}

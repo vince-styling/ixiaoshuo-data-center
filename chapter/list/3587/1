@@ -1,0 +1,82 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 18,
+    "list" : [ {
+      "id" : 2704,
+      "title" : "第一章偶遇",
+      "capacity" : 5594
+    }, {
+      "id" : 2705,
+      "title" : "第二章家事",
+      "capacity" : 6840
+    }, {
+      "id" : 2706,
+      "title" : "第三章职场",
+      "capacity" : 5850
+    }, {
+      "id" : 2707,
+      "title" : "第四章秘密",
+      "capacity" : 6031
+    }, {
+      "id" : 2708,
+      "title" : "第五章心动",
+      "capacity" : 5818
+    }, {
+      "id" : 2709,
+      "title" : "第六章受伤",
+      "capacity" : 6215
+    }, {
+      "id" : 2710,
+      "title" : "第七章贪污事件",
+      "capacity" : 5757
+    }, {
+      "id" : 2711,
+      "title" : "第八章疑似真相",
+      "capacity" : 5761
+    }, {
+      "id" : 2712,
+      "title" : "第九章爱无罪",
+      "capacity" : 5796
+    }, {
+      "id" : 2713,
+      "title" : "第十章他的过去",
+      "capacity" : 6190
+    }, {
+      "id" : 2714,
+      "title" : "第十一章告白",
+      "capacity" : 6011
+    }, {
+      "id" : 2715,
+      "title" : "第十二章 所有人的爱情",
+      "capacity" : 6354
+    }, {
+      "id" : 2716,
+      "title" : "第十三章 转机",
+      "capacity" : 6167
+    }, {
+      "id" : 2717,
+      "title" : "第十四章恋情曝光",
+      "capacity" : 6169
+    }, {
+      "id" : 2718,
+      "title" : "第十五章聚会",
+      "capacity" : 5803
+    }, {
+      "id" : 2719,
+      "title" : "第十六章聚会2",
+      "capacity" : 6012
+    }, {
+      "id" : 2720,
+      "title" : "第十七章她们每个人的爱情",
+      "capacity" : 6242
+    }, {
+      "id" : 2721,
+      "title" : "第十八章肖笑的回忆",
+      "capacity" : 6034
+    } ]
+  }
+}

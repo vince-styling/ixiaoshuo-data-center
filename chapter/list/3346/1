@@ -1,0 +1,102 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 23,
+    "list" : [ {
+      "id" : 1620,
+      "title" : "第一章 回家（一）",
+      "capacity" : 15759
+    }, {
+      "id" : 1621,
+      "title" : "第一章 回家（二）",
+      "capacity" : 4456
+    }, {
+      "id" : 1622,
+      "title" : "第二章 工作（1）",
+      "capacity" : 8427
+    }, {
+      "id" : 1623,
+      "title" : "第二章 工作（2）",
+      "capacity" : 17750
+    }, {
+      "id" : 1624,
+      "title" : "第三章 机缘（3）",
+      "capacity" : 8421
+    }, {
+      "id" : 1625,
+      "title" : "第三章 机缘（4）",
+      "capacity" : 15226
+    }, {
+      "id" : 1626,
+      "title" : "第四章 千年（1）",
+      "capacity" : 10142
+    }, {
+      "id" : 1627,
+      "title" : "第四章 千年（2）",
+      "capacity" : 13522
+    }, {
+      "id" : 1628,
+      "title" : "第五章 淡水（1）",
+      "capacity" : 5385
+    }, {
+      "id" : 1629,
+      "title" : "第五章 淡水（2）",
+      "capacity" : 7726
+    }, {
+      "id" : 1630,
+      "title" : "第五章 淡水（3）",
+      "capacity" : 6536
+    }, {
+      "id" : 1631,
+      "title" : "第六章 亢龙（1）",
+      "capacity" : 7186
+    }, {
+      "id" : 1632,
+      "title" : "第六章 亢龙2",
+      "capacity" : 19254
+    }, {
+      "id" : 1633,
+      "title" : "第七章 有悔（1）",
+      "capacity" : 7401
+    }, {
+      "id" : 1634,
+      "title" : "第七章 （有悔2）",
+      "capacity" : 6422
+    }, {
+      "id" : 1635,
+      "title" : "第七章 （有悔3）",
+      "capacity" : 10421
+    }, {
+      "id" : 1636,
+      "title" : "第八章 否极（1）",
+      "capacity" : 4510
+    }, {
+      "id" : 1637,
+      "title" : "第八章 否极（2）",
+      "capacity" : 3598
+    }, {
+      "id" : 1638,
+      "title" : "第八章 否极（3）",
+      "capacity" : 6185
+    }, {
+      "id" : 1639,
+      "title" : "第八章 否极（4）",
+      "capacity" : 6262
+    }, {
+      "id" : 1640,
+      "title" : "第八章 否极（5）",
+      "capacity" : 4764
+    }, {
+      "id" : 1641,
+      "title" : "第九章 搬家（1）",
+      "capacity" : 5423
+    }, {
+      "id" : 1642,
+      "title" : "第九章 搬家（2）",
+      "capacity" : 8816
+    } ]
+  }
+}

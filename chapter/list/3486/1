@@ -1,0 +1,154 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 36,
+    "list" : [ {
+      "id" : 3795,
+      "title" : "第一回 被猪砸",
+      "capacity" : 6419
+    }, {
+      "id" : 3796,
+      "title" : "第二回 司预",
+      "capacity" : 5737
+    }, {
+      "id" : 3797,
+      "title" : "第三回 友情",
+      "capacity" : 6245
+    }, {
+      "id" : 3798,
+      "title" : "第四回 阿尼玛卿",
+      "capacity" : 6317
+    }, {
+      "id" : 3799,
+      "title" : "第五回 受伤",
+      "capacity" : 6370
+    }, {
+      "id" : 3800,
+      "title" : "第六回 学校",
+      "capacity" : 7496
+    }, {
+      "id" : 3801,
+      "title" : "第七回 神秘人",
+      "capacity" : 7661
+    }, {
+      "id" : 3802,
+      "title" : "第八回 胡思乱想",
+      "capacity" : 6073
+    }, {
+      "id" : 3803,
+      "title" : "第九回 挨揍的人",
+      "capacity" : 8052
+    }, {
+      "id" : 3804,
+      "title" : "第十回 乔绎",
+      "capacity" : 7548
+    }, {
+      "id" : 3805,
+      "title" : "第十一回 诉伤",
+      "capacity" : 7394
+    }, {
+      "id" : 3806,
+      "title" : "第十二回 玩笑与猜测",
+      "capacity" : 6785
+    }, {
+      "id" : 3807,
+      "title" : "第十三回 浪漫",
+      "capacity" : 7990
+    }, {
+      "id" : 3808,
+      "title" : "第十四回 军训开始",
+      "capacity" : 7969
+    }, {
+      "id" : 3809,
+      "title" : "第十五回 体罚中",
+      "capacity" : 7514
+    }, {
+      "id" : 3810,
+      "title" : "第十六回 五分钟",
+      "capacity" : 7159
+    }, {
+      "id" : 3811,
+      "title" : "第十七回 训练",
+      "capacity" : 6378
+    }, {
+      "id" : 3812,
+      "title" : "第十八回 笑话",
+      "capacity" : 6338
+    }, {
+      "id" : 3813,
+      "title" : "第十九回 斯德哥尔摩症",
+      "capacity" : 7469
+    }, {
+      "id" : 3814,
+      "title" : "第二十回 嘁嘁蹦",
+      "capacity" : 6385
+    }, {
+      "id" : 3815,
+      "title" : "第二十一回 司预的桃花",
+      "capacity" : 6758
+    }, {
+      "id" : 3816,
+      "title" : "第二十二回 较劲",
+      "capacity" : 7810
+    }, {
+      "id" : 3817,
+      "title" : "第二十三回 结束进行时",
+      "capacity" : 12596
+    }, {
+      "id" : 3818,
+      "title" : "第二十四回 轻松的下午",
+      "capacity" : 8157
+    }, {
+      "id" : 3819,
+      "title" : "第二十五回 魔女将至",
+      "capacity" : 8718
+    }, {
+      "id" : 3820,
+      "title" : "第二十六回 彪悍对骂",
+      "capacity" : 12694
+    }, {
+      "id" : 3821,
+      "title" : "第二十七回 扯淡的一天",
+      "capacity" : 6696
+    }, {
+      "id" : 3822,
+      "title" : "第二十八回 小报复",
+      "capacity" : 9376
+    }, {
+      "id" : 3823,
+      "title" : "第二十九回 黄花菜",
+      "capacity" : 10656
+    }, {
+      "id" : 3824,
+      "title" : "第三十回 打架",
+      "capacity" : 7909
+    }, {
+      "id" : 3825,
+      "title" : "第三十一章 苏维",
+      "capacity" : 8300
+    }, {
+      "id" : 3826,
+      "title" : "第三十二回 犬与豕",
+      "capacity" : 7895
+    }, {
+      "id" : 3827,
+      "title" : "第三十三回 花甲清焖鸡",
+      "capacity" : 6107
+    }, {
+      "id" : 3828,
+      "title" : "第三十四回 动机理由",
+      "capacity" : 7768
+    }, {
+      "id" : 3829,
+      "title" : "第三十五回 偷吻",
+      "capacity" : 7186
+    }, {
+      "id" : 3830,
+      "title" : "第三十六回 弱美男",
+      "capacity" : 6765
+    } ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 23,
+    "list" : [ {
+      "id" : 4020,
+      "title" : "楔子 母亲的遗愿",
+      "capacity" : 6164
+    }, {
+      "id" : 4021,
+      "title" : "第一章 离开",
+      "capacity" : 6058
+    }, {
+      "id" : 4022,
+      "title" : "第二章 邂逅",
+      "capacity" : 6319
+    }, {
+      "id" : 4023,
+      "title" : "第三章",
+      "capacity" : 6049
+    }, {
+      "id" : 4024,
+      "title" : "第四章 生病",
+      "capacity" : 6264
+    }, {
+      "id" : 4025,
+      "title" : "第五章 倾的到来",
+      "capacity" : 6088
+    }, {
+      "id" : 4026,
+      "title" : "第六章 “父亲”",
+      "capacity" : 6928
+    }, {
+      "id" : 4027,
+      "title" : "第七章 倾，对不起",
+      "capacity" : 6108
+    }, {
+      "id" : 4028,
+      "title" : "第八章 一生",
+      "capacity" : 6504
+    }, {
+      "id" : 4029,
+      "title" : "第九章 放纵",
+      "capacity" : 6091
+    }, {
+      "id" : 4030,
+      "title" : "第十章 倾痊愈了！（周年庆）",
+      "capacity" : 6386
+    }, {
+      "id" : 4031,
+      "title" : "第十一章 黑色天堂",
+      "capacity" : 6447
+    }, {
+      "id" : 4032,
+      "title" : "第十二章 表白",
+      "capacity" : 6201
+    }, {
+      "id" : 4033,
+      "title" : "第十三章 被绑架",
+      "capacity" : 6475
+    }, {
+      "id" : 4034,
+      "title" : "第十四章 伤害",
+      "capacity" : 6225
+    }, {
+      "id" : 4035,
+      "title" : "第十五章 断指",
+      "capacity" : 6204
+    }, {
+      "id" : 4036,
+      "title" : "第十六章 回归",
+      "capacity" : 6216
+    }, {
+      "id" : 4037,
+      "title" : "第十七章 堕落",
+      "capacity" : 6413
+    }, {
+      "id" : 4038,
+      "title" : "第十八章 毕业",
+      "capacity" : 6322
+    }, {
+      "id" : 4039,
+      "title" : "第十九章 决定",
+      "capacity" : 6054
+    }, {
+      "id" : 4040,
+      "title" : "第二十章 伤害",
+      "capacity" : 6100
+    }, {
+      "id" : 4041,
+      "title" : "第二十一章 面试",
+      "capacity" : 6035
+    }, {
+      "id" : 4042,
+      "title" : "第二十二章 洛赋",
+      "capacity" : 5961
+    } ]
+  }
+}

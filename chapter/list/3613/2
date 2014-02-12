@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 1556,
+      "title" : "第50卷 楚及",
+      "capacity" : 951
+    }, {
+      "id" : 1557,
+      "title" : "第51卷 虚幻",
+      "capacity" : 2080
+    }, {
+      "id" : 1558,
+      "title" : "第52卷 金罗门秘密",
+      "capacity" : 4840
+    } ]
+  }
+}

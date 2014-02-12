@@ -1,0 +1,114 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 26,
+    "list" : [ {
+      "id" : 4611,
+      "title" : "第一章 蓬莱之战",
+      "capacity" : 6455
+    }, {
+      "id" : 4612,
+      "title" : "第二章 九尾族灭",
+      "capacity" : 7640
+    }, {
+      "id" : 4613,
+      "title" : "第三章 杀神长卿",
+      "capacity" : 8400
+    }, {
+      "id" : 4614,
+      "title" : "第四章 红狐出世",
+      "capacity" : 9410
+    }, {
+      "id" : 4615,
+      "title" : "第五章 蝴蝶夜澜",
+      "capacity" : 6828
+    }, {
+      "id" : 4616,
+      "title" : "第六章 任性狐儿",
+      "capacity" : 6926
+    }, {
+      "id" : 4617,
+      "title" : "第七章 狐猫大战",
+      "capacity" : 7503
+    }, {
+      "id" : 4618,
+      "title" : "第八章 心如稚子",
+      "capacity" : 6977
+    }, {
+      "id" : 4619,
+      "title" : "第九章 口吐鸡言",
+      "capacity" : 8096
+    }, {
+      "id" : 4620,
+      "title" : "第十章 不懂人事",
+      "capacity" : 6947
+    }, {
+      "id" : 4621,
+      "title" : "第十一章 离宫出走",
+      "capacity" : 7671
+    }, {
+      "id" : 4622,
+      "title" : "第十二章 所谓鸡神",
+      "capacity" : 8782
+    }, {
+      "id" : 4623,
+      "title" : "第十三章 偷鸡计划",
+      "capacity" : 8411
+    }, {
+      "id" : 4624,
+      "title" : "第十四章 杀鸡灭口",
+      "capacity" : 10017
+    }, {
+      "id" : 4625,
+      "title" : "第十五章 倾世容颜",
+      "capacity" : 8309
+    }, {
+      "id" : 4626,
+      "title" : "第十六章 古怪之处",
+      "capacity" : 7213
+    }, {
+      "id" : 4627,
+      "title" : "第十七章 狐狸认爹",
+      "capacity" : 9148
+    }, {
+      "id" : 4628,
+      "title" : "第十八章 诚心道歉",
+      "capacity" : 7045
+    }, {
+      "id" : 4629,
+      "title" : "第十九章 天雷降至",
+      "capacity" : 7250
+    }, {
+      "id" : 4630,
+      "title" : "第二十章 夜澜相救",
+      "capacity" : 7013
+    }, {
+      "id" : 4631,
+      "title" : "第二十一章 合欢之情",
+      "capacity" : 9232
+    }, {
+      "id" : 4632,
+      "title" : "第二十二章 当场捉奸",
+      "capacity" : 6552
+    }, {
+      "id" : 4633,
+      "title" : "第二十三章 谜团重重",
+      "capacity" : 3157
+    }, {
+      "id" : 4634,
+      "title" : "第二十四章 初感情意",
+      "capacity" : 4609
+    }, {
+      "id" : 4635,
+      "title" : "第二十五章 魔族生乱",
+      "capacity" : 7906
+    }, {
+      "id" : 4636,
+      "title" : "第二十六章 狂妄之神",
+      "capacity" : 8643
+    } ]
+  }
+}

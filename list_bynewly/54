@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 54,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3441,
+      "name" : "折香",
+      "summary" : "她是一颗微渺的星辰，纵然微弱，却绽放着她独有的光芒。别样的世界，她是无意间闯入的过客，这个世界不属于",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43298.jpg",
+      "updateStatus" : 1,
+      "capacity" : 13453,
+      "lastUpdateTime" : "2013-12-04 06:39:14"
+    }, {
+      "id" : 2792,
+      "name" : "依然在一起",
+      "summary" : "一帮幺蛾子年轻人的爱恨情愁。他们大概，肤白貌美，口若悬河，色令智昏，上天入地，妖行于世。有许多捧腹大",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47580.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5150607,
+      "lastUpdateTime" : "2013-12-04 06:01:11"
+    }, {
+      "id" : 3289,
+      "name" : "总裁养成记",
+      "summary" : "是一个热血青年，用满腔热情准备我自己今后的人生，干一场轰轰烈烈的事业，可人的理想和现实生活不可能是一",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 31738,
+      "lastUpdateTime" : "2013-12-04 05:12:55"
+    }, {
+      "id" : 3186,
+      "name" : "贪衾香",
+      "summary" : "“为有云屏无限娇，凤城寒尽怕春宵。无端嫁得金龟婿，辜负香衾事早朝。”哀怨的诗句从帝王嘴里旖旎甫出。羞",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41497.jpg",
+      "updateStatus" : 1,
+      "capacity" : 312970,
+      "lastUpdateTime" : "2013-12-04 04:57:17"
+    }, {
+      "id" : 3254,
+      "name" : "北京不眠",
+      "summary" : "几分愁肠，初出社会无意之中做了别人的小三。半杯酸楚，怎样逃离小三的命运和正妻的迫害？混乱职场，残忍的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46655.jpg",
+      "updateStatus" : 1,
+      "capacity" : 403072,
+      "lastUpdateTime" : "2013-12-04 04:46:25"
+    }, {
+      "id" : 2700,
+      "name" : "狐舞倾城：姐的世界你不懂",
+      "summary" : "首先，这是一个关于少女的故事其次，这是一个可能狗血的故事最后，欢迎观看简介：这是一个发生在女生身上的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44447.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9574542,
+      "lastUpdateTime" : "2013-12-04 03:52:59"
+    }, {
+      "id" : 2123,
+      "name" : "鬼歾",
+      "summary" : "曾经威震六界的一族，却因为背叛，沉默了千年。千年重生后的一切，是否依旧。“嗯，虽然我想起了事情的部分",
+      "coverUrl" : "",
+      "updateStatus" : 2,
+      "capacity" : 7943182,
+      "lastUpdateTime" : "2013-12-04 03:34:32"
+    }, {
+      "id" : 3269,
+      "name" : "时空之泪鸢尾花",
+      "summary" : "她听到这里觉得好幸福，好难过；胸口明明是满满的幸福，金蓝色眼泪却不停地往下掉，像天空的眼泪在阳光下闪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42538.jpg",
+      "updateStatus" : 1,
+      "capacity" : 162212,
+      "lastUpdateTime" : "2013-12-04 03:31:54"
+    }, {
+      "id" : 2555,
+      "name" : "嫁个如意郎君",
+      "summary" : "男人也有三从四德，“太太命令要听从，太太出门要跟从，太太说错要盲从”，“太太花钱要舍得，太太化妆要等",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47760.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4322950,
+      "lastUpdateTime" : "2013-12-04 02:49:01"
+    }, {
+      "id" : 3359,
+      "name" : "遇见等于错过",
+      "summary" : "上官言，请原谅，我爱你不是我可以阻止的，离开你却是我可以选择的。苏芙，你如愿以偿的让我爱上你，现在你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46142.jpg",
+      "updateStatus" : 1,
+      "capacity" : 214039,
+      "lastUpdateTime" : "2013-12-04 02:23:40"
+    }, {
+      "id" : 3705,
+      "name" : "管家系类：管家大人是女生！",
+      "summary" : "守护者与被守护的拼死争夺，谁才是最后赢家。骑士与王子只是童话故事的幻想角色，还是现实世界中我们的真实",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_2358.jpg",
+      "updateStatus" : 1,
+      "capacity" : 102652,
+      "lastUpdateTime" : "2013-12-04 01:53:19"
+    }, {
+      "id" : 2063,
+      "name" : "花花少主不言爱：吃定小妖精",
+      "summary" : "有个无赖老哥就是不靠谱！不就是爱吃了一点么，居然害得她被人捉去当宠物。看着手中挣扎不已的青灰色小貂，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16537.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8327086,
+      "lastUpdateTime" : "2013-12-04 01:41:18"
+    }, {
+      "id" : 2566,
+      "name" : "那些年，我和你",
+      "summary" : "大学毕业之后，田诺诺与李荀怀着自己的梦想开始奔走社会，路途中她们一起欢笑，一起流泪，一起奋斗，一起记",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44352.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8027784,
+      "lastUpdateTime" : "2013-12-04 01:05:40"
+    }, {
+      "id" : 2479,
+      "name" : "诡音：楼上的高跟鞋",
+      "summary" : "“姑娘，你每天晚上都回来这么晚啊？一个人多不安全啊！”“习惯了...”只是三个字却让刘高轩一阵颤栗.",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 9582940,
+      "lastUpdateTime" : "2013-12-04 00:58:54"
+    }, {
+      "id" : 2219,
+      "name" : "亡牢天羊",
+      "summary" : "亡牢天羊，杯具地好看。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22450.jpg",
+      "updateStatus" : 2,
+      "capacity" : 3676173,
+      "lastUpdateTime" : "2013-12-04 00:34:11"
+    }, {
+      "id" : 3391,
+      "name" : "天上掉下个大侍郎",
+      "summary" : "我不想要那么多侍郎，为什么侍郎滚滚而来呢。是谁说：天上不会掉馅饼，只会掉“陷阱”的！糊口！有句话是：",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42478.jpg",
+      "updateStatus" : 1,
+      "capacity" : 132999,
+      "lastUpdateTime" : "2013-12-03 23:53:01"
+    }, {
+      "id" : 2175,
+      "name" : "史上最强避雷法宝",
+      "summary" : "这里是一个修仙修魔的好地方。这是有未知的生物、灭迹的物种，它们强大而又蛮横；它们智商高绝，更甚者能口",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20752.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1909735,
+      "lastUpdateTime" : "2013-12-03 23:32:20"
+    }, {
+      "id" : 3013,
+      "name" : "4大魔女玩转学院",
+      "summary" : "想知道4个魔女如何玩转学院，阴差阳错的获得校草的“芳心”吗？那就来点击一下阅读本书，来看看吧！",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 1296740,
+      "lastUpdateTime" : "2013-12-03 23:27:04"
+    }, {
+      "id" : 2925,
+      "name" : "爱的华尔兹",
+      "summary" : "李依依刚上大二时爸妈去美国出差，归期不定时，哥哥从美国回来照顾自己，还带了个人回来。“爷，给姐笑一个",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46282.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4011354,
+      "lastUpdateTime" : "2013-12-03 22:54:54"
+    }, {
+      "id" : 2201,
+      "name" : "凌荒传",
+      "summary" : "老婆跑了，怎么办？追呗！神魂散了，怎么办？凑呗！老婆不记得自己了，怎么办？重新来过呗！当沉稳持重的八",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44349.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4819304,
+      "lastUpdateTime" : "2013-12-03 22:04:28"
+    } ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 37,
+    "list" : [ {
+      "id" : 2766,
+      "title" : "楔子",
+      "capacity" : 4232
+    }, {
+      "id" : 2767,
+      "title" : "001 街头奇遇",
+      "capacity" : 6828
+    }, {
+      "id" : 2768,
+      "title" : "002 无眠之夜（一）",
+      "capacity" : 8531
+    }, {
+      "id" : 2769,
+      "title" : "003 无眠之夜（二）",
+      "capacity" : 8276
+    }, {
+      "id" : 2770,
+      "title" : "004 诡异何先生",
+      "capacity" : 7777
+    }, {
+      "id" : 2771,
+      "title" : "005 中秋花灯会（一）",
+      "capacity" : 9845
+    }, {
+      "id" : 2772,
+      "title" : "006 中秋花灯会（二）",
+      "capacity" : 13564
+    }, {
+      "id" : 2773,
+      "title" : "007 夜探英王府",
+      "capacity" : 10219
+    }, {
+      "id" : 2774,
+      "title" : "008 拜师",
+      "capacity" : 14939
+    }, {
+      "id" : 2775,
+      "title" : "009 年夜再聚",
+      "capacity" : 11805
+    }, {
+      "id" : 2776,
+      "title" : "010 大闹皇宫（一）",
+      "capacity" : 8908
+    }, {
+      "id" : 2777,
+      "title" : "011 大闹皇宫（二）",
+      "capacity" : 9355
+    }, {
+      "id" : 2778,
+      "title" : "012 大闹皇宫（三）",
+      "capacity" : 6644
+    }, {
+      "id" : 2779,
+      "title" : "013 营救李家（一）",
+      "capacity" : 9672
+    }, {
+      "id" : 2780,
+      "title" : "014 营救李家（二）",
+      "capacity" : 9127
+    }, {
+      "id" : 2781,
+      "title" : "015 营救李家（三）",
+      "capacity" : 12722
+    }, {
+      "id" : 2782,
+      "title" : "016 离京",
+      "capacity" : 12402
+    }, {
+      "id" : 2783,
+      "title" : "017 幽迷谷（一）",
+      "capacity" : 10713
+    }, {
+      "id" : 2784,
+      "title" : "018 幽迷谷（二）",
+      "capacity" : 11663
+    }, {
+      "id" : 2785,
+      "title" : "019 幽迷谷（三）",
+      "capacity" : 11880
+    }, {
+      "id" : 2786,
+      "title" : "020 幽迷谷（四）",
+      "capacity" : 9434
+    }, {
+      "id" : 2787,
+      "title" : "021 幽迷谷（五）",
+      "capacity" : 10381
+    }, {
+      "id" : 2788,
+      "title" : "022 永别（一）",
+      "capacity" : 10224
+    }, {
+      "id" : 2789,
+      "title" : "023 永别（二）",
+      "capacity" : 11466
+    }, {
+      "id" : 2790,
+      "title" : "024 半面仙",
+      "capacity" : 10517
+    }, {
+      "id" : 2791,
+      "title" : "025 重逢（一）",
+      "capacity" : 10414
+    }, {
+      "id" : 2792,
+      "title" : "026 重逢（二）",
+      "capacity" : 10273
+    }, {
+      "id" : 2793,
+      "title" : "027 偷袭（一）",
+      "capacity" : 9121
+    }, {
+      "id" : 2794,
+      "title" : "028 偷袭（二）",
+      "capacity" : 16818
+    }, {
+      "id" : 2795,
+      "title" : "029 夜闯敌营（一）",
+      "capacity" : 10363
+    }, {
+      "id" : 2796,
+      "title" : "030 夜闯敌营（二）",
+      "capacity" : 10018
+    }, {
+      "id" : 2797,
+      "title" : "031 决战",
+      "capacity" : 15633
+    }, {
+      "id" : 2798,
+      "title" : "032 回京（一）",
+      "capacity" : 9730
+    }, {
+      "id" : 2799,
+      "title" : "033 回京（二）",
+      "capacity" : 9419
+    }, {
+      "id" : 2800,
+      "title" : "034 再过渝水城",
+      "capacity" : 11613
+    }, {
+      "id" : 2801,
+      "title" : "035 遇刺（一）",
+      "capacity" : 11740
+    }, {
+      "id" : 2802,
+      "title" : "036 遇刺（二）",
+      "capacity" : 72
+    } ]
+  }
+}

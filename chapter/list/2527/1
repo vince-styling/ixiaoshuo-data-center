@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 4036,
+      "title" : "第一章诞生——最强血继限界的继承者",
+      "capacity" : 4766
+    }, {
+      "id" : 4037,
+      "title" : "第二章九尾来袭",
+      "capacity" : 2993
+    }, {
+      "id" : 4038,
+      "title" : "第三章认主",
+      "capacity" : 2749
+    }, {
+      "id" : 4039,
+      "title" : "第四章幼年记事1",
+      "capacity" : 1890
+    }, {
+      "id" : 4040,
+      "title" : "第五章幼年记事2",
+      "capacity" : 1820
+    }, {
+      "id" : 4041,
+      "title" : "第六章最后的平静",
+      "capacity" : 2726
+    }, {
+      "id" : 4042,
+      "title" : "第七章争执",
+      "capacity" : 1772
+    } ]
+  }
+}

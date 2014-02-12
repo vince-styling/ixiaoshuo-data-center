@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 113,
+    "list" : [ {
+      "id" : 1918,
+      "title" : "九十八：防卷帘之心不可无",
+      "capacity" : 6223
+    }, {
+      "id" : 1919,
+      "title" : "九十九：床头吵床位断",
+      "capacity" : 9309
+    }, {
+      "id" : 1920,
+      "title" : "一百：孽镜要合欢",
+      "capacity" : 12668
+    }, {
+      "id" : 1921,
+      "title" : "一：我决定一百零一章开始重新叫第一章",
+      "capacity" : 5227
+    }, {
+      "id" : 1922,
+      "title" : "二：连环杀人案",
+      "capacity" : 9415
+    }, {
+      "id" : 1923,
+      "title" : "三：躺着也中枪的卷帘",
+      "capacity" : 9330
+    }, {
+      "id" : 1924,
+      "title" : "四：我家官人脾气大",
+      "capacity" : 8991
+    }, {
+      "id" : 1925,
+      "title" : "五：牛头马面丢死人",
+      "capacity" : 9226
+    }, {
+      "id" : 1926,
+      "title" : "六：牛头马面去巡山",
+      "capacity" : 9075
+    }, {
+      "id" : 1927,
+      "title" : "七：放弃琅秀",
+      "capacity" : 9104
+    }, {
+      "id" : 1928,
+      "title" : "八：琅秀的消失",
+      "capacity" : 9309
+    }, {
+      "id" : 1929,
+      "title" : "写到二十万的上架宣言",
+      "capacity" : 3087
+    }, {
+      "id" : 1930,
+      "title" : "六九月刊第一期",
+      "capacity" : 3386
+    } ]
+  }
+}

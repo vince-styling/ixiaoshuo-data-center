@@ -1,0 +1,102 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 23,
+    "list" : [ {
+      "id" : 2189,
+      "title" : "第一章 背叛,重生",
+      "capacity" : 9022
+    }, {
+      "id" : 2190,
+      "title" : "第二章 拜师",
+      "capacity" : 6972
+    }, {
+      "id" : 2191,
+      "title" : "第三章 三师兄，凤栖梧",
+      "capacity" : 7133
+    }, {
+      "id" : 2192,
+      "title" : "第四章 暧昧",
+      "capacity" : 6719
+    }, {
+      "id" : 2193,
+      "title" : "第五章 学艺之路",
+      "capacity" : 7481
+    }, {
+      "id" : 2194,
+      "title" : "第六章 小有所成",
+      "capacity" : 6761
+    }, {
+      "id" : 2195,
+      "title" : "第七章 师傅归来",
+      "capacity" : 6567
+    }, {
+      "id" : 2196,
+      "title" : "第八章 绝世秘籍",
+      "capacity" : 6953
+    }, {
+      "id" : 2197,
+      "title" : "第九章 撮合",
+      "capacity" : 7353
+    }, {
+      "id" : 2198,
+      "title" : "第十章 时光匆匆",
+      "capacity" : 6526
+    }, {
+      "id" : 2199,
+      "title" : "第十一章 初入江湖",
+      "capacity" : 7074
+    }, {
+      "id" : 2200,
+      "title" : "第十二章 小插曲",
+      "capacity" : 8008
+    }, {
+      "id" : 2201,
+      "title" : "第十三章 结伴同行",
+      "capacity" : 7960
+    }, {
+      "id" : 2202,
+      "title" : "第十四章 再次遇袭",
+      "capacity" : 8075
+    }, {
+      "id" : 2203,
+      "title" : "第十五章 珈莫城",
+      "capacity" : 7697
+    }, {
+      "id" : 2204,
+      "title" : "第十六章 杏林医馆",
+      "capacity" : 8191
+    }, {
+      "id" : 2205,
+      "title" : "第十七章 黑心老板",
+      "capacity" : 7798
+    }, {
+      "id" : 2206,
+      "title" : "第十八章 不长记性",
+      "capacity" : 7796
+    }, {
+      "id" : 2207,
+      "title" : "第十九章 喜事临门",
+      "capacity" : 7724
+    }, {
+      "id" : 2208,
+      "title" : "第二十章 风氏夫妇",
+      "capacity" : 7961
+    }, {
+      "id" : 2209,
+      "title" : "第二十一章 经商天赋",
+      "capacity" : 7716
+    }, {
+      "id" : 2210,
+      "title" : "第二十二章 改革",
+      "capacity" : 7824
+    }, {
+      "id" : 2211,
+      "title" : "第二十三章 厨艺",
+      "capacity" : 7752
+    } ]
+  }
+}

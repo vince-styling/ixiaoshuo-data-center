@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 3618,
+      "title" : "第一章 未婚夫？",
+      "capacity" : 6787
+    }, {
+      "id" : 3619,
+      "title" : "第二章 住进他们家",
+      "capacity" : 4107
+    }, {
+      "id" : 3620,
+      "title" : "第三章 三重打击",
+      "capacity" : 4871
+    }, {
+      "id" : 3621,
+      "title" : "第四章 伊斯学院",
+      "capacity" : 3300
+    }, {
+      "id" : 3622,
+      "title" : "第五章 白痴？",
+      "capacity" : 4986
+    }, {
+      "id" : 3623,
+      "title" : "第六章 脑瘤？",
+      "capacity" : 4360
+    }, {
+      "id" : 3624,
+      "title" : "第七章 王者气息",
+      "capacity" : 5219
+    }, {
+      "id" : 3625,
+      "title" : "第八章 哀求！",
+      "capacity" : 3277
+    }, {
+      "id" : 3626,
+      "title" : "第九章 送别",
+      "capacity" : 3243
+    }, {
+      "id" : 3627,
+      "title" : "第十章 林泽凯受伤",
+      "capacity" : 5924
+    }, {
+      "id" : 3628,
+      "title" : "第十一章 别墅里",
+      "capacity" : 5645
+    }, {
+      "id" : 3629,
+      "title" : "第十二章 转学生？",
+      "capacity" : 3302
+    }, {
+      "id" : 3630,
+      "title" : "第十三章 道歉！",
+      "capacity" : 4591
+    }, {
+      "id" : 3631,
+      "title" : "第十四章 被单上的殷红",
+      "capacity" : 4417
+    }, {
+      "id" : 3632,
+      "title" : "第十五章 十几年前",
+      "capacity" : 6824
+    }, {
+      "id" : 3633,
+      "title" : "第十六章 手术出了点意外",
+      "capacity" : 5433
+    }, {
+      "id" : 3634,
+      "title" : "第十七章 楼层的事情",
+      "capacity" : 6474
+    }, {
+      "id" : 3635,
+      "title" : "第十八章 不要丢下我",
+      "capacity" : 6317
+    }, {
+      "id" : 3636,
+      "title" : "第十九章 依旧没醒",
+      "capacity" : 7205
+    } ]
+  }
+}

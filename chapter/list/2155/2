@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 2219,
+      "title" : "第五十一章 掌门寿宴",
+      "capacity" : 5444
+    }, {
+      "id" : 2220,
+      "title" : "第五十二章 突起变故",
+      "capacity" : 3605
+    }, {
+      "id" : 2221,
+      "title" : "第五十三章 损失惨重",
+      "capacity" : 6236
+    } ]
+  }
+}

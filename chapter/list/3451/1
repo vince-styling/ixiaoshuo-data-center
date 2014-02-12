@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 2395,
+      "title" : "1）屠花雪域",
+      "capacity" : 8438
+    }, {
+      "id" : 2396,
+      "title" : "2）绝放芦花",
+      "capacity" : 7617
+    }, {
+      "id" : 2397,
+      "title" : "3）扶桑日及",
+      "capacity" : 6624
+    }, {
+      "id" : 2398,
+      "title" : "4）雨后毒菌",
+      "capacity" : 18122
+    }, {
+      "id" : 2399,
+      "title" : "5）僧曼陀罗",
+      "capacity" : 10547
+    }, {
+      "id" : 2400,
+      "title" : "6）凤凰血楹",
+      "capacity" : 9593
+    }, {
+      "id" : 2401,
+      "title" : "7）璎珞诱惑",
+      "capacity" : 11919
+    }, {
+      "id" : 2402,
+      "title" : "8）嗜血花剑",
+      "capacity" : 7015
+    } ]
+  }
+}

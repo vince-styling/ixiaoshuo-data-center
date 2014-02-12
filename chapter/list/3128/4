@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 4,
+    "totalPageCount" : 4,
+    "totalItemCount" : 154,
+    "list" : [ {
+      "id" : 4127,
+      "title" : "两校联谊-晚会告白【二】",
+      "capacity" : 3753
+    }, {
+      "id" : 4128,
+      "title" : "两校联谊-晚会告白【三】",
+      "capacity" : 4749
+    }, {
+      "id" : 4129,
+      "title" : "两校联谊-晚会告白【四】",
+      "capacity" : 3723
+    }, {
+      "id" : 4130,
+      "title" : "两校联谊-晚会告白【五】",
+      "capacity" : 4543
+    } ]
+  }
+}

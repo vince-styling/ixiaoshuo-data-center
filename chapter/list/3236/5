@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 5,
+    "totalPageCount" : 5,
+    "totalItemCount" : 206,
+    "list" : [ {
+      "id" : 1536,
+      "title" : "201 魔君现身",
+      "capacity" : 5173
+    }, {
+      "id" : 1537,
+      "title" : "202 软禁01",
+      "capacity" : 5331
+    }, {
+      "id" : 1538,
+      "title" : "203 软禁02",
+      "capacity" : 4659
+    }, {
+      "id" : 1539,
+      "title" : "204 大婚提前01",
+      "capacity" : 3498
+    }, {
+      "id" : 1540,
+      "title" : "205 大婚提前02",
+      "capacity" : 5577
+    }, {
+      "id" : 1541,
+      "title" : "澄文上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

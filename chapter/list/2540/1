@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 40,
+    "list" : [ {
+      "id" : 3796,
+      "title" : "1.天降魔法师",
+      "capacity" : 9716
+    }, {
+      "id" : 3797,
+      "title" : "2.流浪狗",
+      "capacity" : 9287
+    }, {
+      "id" : 3798,
+      "title" : "3.契约（上）",
+      "capacity" : 9922
+    }, {
+      "id" : 3799,
+      "title" : "4.契约（下）",
+      "capacity" : 8418
+    }, {
+      "id" : 3800,
+      "title" : "5.赋闲的魔法师",
+      "capacity" : 10934
+    }, {
+      "id" : 3801,
+      "title" : "6.贼",
+      "capacity" : 9695
+    }, {
+      "id" : 3802,
+      "title" : "7.魔法",
+      "capacity" : 9503
+    }, {
+      "id" : 3803,
+      "title" : "8.打工（上）",
+      "capacity" : 11352
+    }, {
+      "id" : 3804,
+      "title" : "9.打工（下）",
+      "capacity" : 9055
+    }, {
+      "id" : 3805,
+      "title" : "10.咖啡店的廉价劳动力",
+      "capacity" : 9359
+    }, {
+      "id" : 3806,
+      "title" : "11.食物中毒事件（上）",
+      "capacity" : 9453
+    }, {
+      "id" : 3807,
+      "title" : "12.食物中毒事件（下）",
+      "capacity" : 9234
+    }, {
+      "id" : 3808,
+      "title" : "13.店长的玩偶装（上）",
+      "capacity" : 10682
+    }, {
+      "id" : 3809,
+      "title" : "14.店长的玩偶装（下）",
+      "capacity" : 9960
+    }, {
+      "id" : 3810,
+      "title" : "15.敌方总BOSS",
+      "capacity" : 9977
+    }, {
+      "id" : 3811,
+      "title" : "16.听骆林讲故事",
+      "capacity" : 10126
+    }, {
+      "id" : 3812,
+      "title" : "17.灵魂与魔力",
+      "capacity" : 8774
+    }, {
+      "id" : 3813,
+      "title" : "18.辞职",
+      "capacity" : 9281
+    }, {
+      "id" : 3814,
+      "title" : "19.如同郊游的魔法实习",
+      "capacity" : 9385
+    }, {
+      "id" : 3815,
+      "title" : "20.夜游",
+      "capacity" : 9851
+    }, {
+      "id" : 3816,
+      "title" : "21.灰色巨狼",
+      "capacity" : 9504
+    }, {
+      "id" : 3817,
+      "title" : "22.未魔",
+      "capacity" : 9697
+    }, {
+      "id" : 3818,
+      "title" : "23.林善未知事务所",
+      "capacity" : 9037
+    }, {
+      "id" : 3819,
+      "title" : "24.魔法公会",
+      "capacity" : 10050
+    }, {
+      "id" : 3820,
+      "title" : "25.占卜师",
+      "capacity" : 9627
+    }, {
+      "id" : 3821,
+      "title" : "26.我能想到最意外的事",
+      "capacity" : 9537
+    }, {
+      "id" : 3822,
+      "title" : "27.注定陌路",
+      "capacity" : 9293
+    }, {
+      "id" : 3823,
+      "title" : "28.相亲",
+      "capacity" : 9441
+    }, {
+      "id" : 3824,
+      "title" : "29.闹鬼的钟楼",
+      "capacity" : 9319
+    }, {
+      "id" : 3825,
+      "title" : "30.鬼阙",
+      "capacity" : 9653
+    }, {
+      "id" : 3826,
+      "title" : "31.意料之外的访客",
+      "capacity" : 9247
+    }, {
+      "id" : 3827,
+      "title" : "32.担心",
+      "capacity" : 9078
+    }, {
+      "id" : 3828,
+      "title" : "33.噬魂影（上）",
+      "capacity" : 9146
+    }, {
+      "id" : 3829,
+      "title" : "34.噬魂影（下）",
+      "capacity" : 9935
+    }, {
+      "id" : 3830,
+      "title" : "35.一个人",
+      "capacity" : 9170
+    }, {
+      "id" : 3831,
+      "title" : "36.原本的生活",
+      "capacity" : 9372
+    }, {
+      "id" : 3832,
+      "title" : "37.来自未知的消息",
+      "capacity" : 9247
+    }, {
+      "id" : 3833,
+      "title" : "38.有渠",
+      "capacity" : 9506
+    }, {
+      "id" : 3834,
+      "title" : "39.时间罅隙",
+      "capacity" : 9334
+    }, {
+      "id" : 3835,
+      "title" : "40.病公子",
+      "capacity" : 9492
+    } ]
+  }
+}

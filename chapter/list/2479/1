@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 3279,
+      "title" : "第一章 装修",
+      "capacity" : 4348
+    }, {
+      "id" : 3280,
+      "title" : "第二章 夜班高跟鞋",
+      "capacity" : 3845
+    }, {
+      "id" : 3281,
+      "title" : "第三章 神秘的客户",
+      "capacity" : 4125
+    }, {
+      "id" : 3282,
+      "title" : "第四章 五年前的后遗症",
+      "capacity" : 4587
+    }, {
+      "id" : 3283,
+      "title" : "第五章 恐怖的五楼",
+      "capacity" : 4869
+    }, {
+      "id" : 3284,
+      "title" : "第六章 真相前的惊悚",
+      "capacity" : 5664
+    }, {
+      "id" : 3285,
+      "title" : "第七章 受到惊吓",
+      "capacity" : 4720
+    }, {
+      "id" : 3286,
+      "title" : "第八章 那个真的是鬼吗？",
+      "capacity" : 4344
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 52,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2278,
+      "name" : "美人狂：探囊取天下",
+      "updateStatus" : 1,
+      "distance" : 1277,
+      "memberId" : 7658
+    }, {
+      "id" : 2726,
+      "name" : "琉璃玉",
+      "updateStatus" : 1,
+      "distance" : 4036,
+      "memberId" : 5845
+    }, {
+      "id" : 3625,
+      "name" : "另类契约：爱上你，我的星座王子！",
+      "updateStatus" : 1,
+      "distance" : 8773,
+      "memberId" : 2812
+    }, {
+      "id" : 3112,
+      "name" : "刹那风华",
+      "updateStatus" : 1,
+      "distance" : 9951,
+      "memberId" : 1353
+    }, {
+      "id" : 3636,
+      "name" : "被抛弃的星球",
+      "updateStatus" : 1,
+      "distance" : 8419,
+      "memberId" : 1033
+    }, {
+      "id" : 2941,
+      "name" : "饿狼女扑羊记",
+      "updateStatus" : 1,
+      "distance" : 1246,
+      "memberId" : 7542
+    }, {
+      "id" : 2982,
+      "name" : "逃之妖妖",
+      "updateStatus" : 1,
+      "distance" : 4487,
+      "memberId" : 7904
+    }, {
+      "id" : 2186,
+      "name" : "落日传说",
+      "updateStatus" : 2,
+      "distance" : 2660,
+      "memberId" : 3386
+    }, {
+      "id" : 3410,
+      "name" : "窈窕佳人",
+      "updateStatus" : 1,
+      "distance" : 733,
+      "memberId" : 2847
+    }, {
+      "id" : 3415,
+      "name" : "黑道老大的冷酷男友",
+      "updateStatus" : 1,
+      "distance" : 2051,
+      "memberId" : 5760
+    }, {
+      "id" : 2231,
+      "name" : "女巫时节",
+      "updateStatus" : 1,
+      "distance" : 8011,
+      "memberId" : 2830
+    }, {
+      "id" : 2435,
+      "name" : "绝世青龙王",
+      "updateStatus" : 1,
+      "distance" : 3059,
+      "memberId" : 7657
+    }, {
+      "id" : 3188,
+      "name" : "网王之锦绣时年",
+      "updateStatus" : 1,
+      "distance" : 7919,
+      "memberId" : 3904
+    }, {
+      "id" : 3708,
+      "name" : "浮生境梦",
+      "updateStatus" : 1,
+      "distance" : 5881,
+      "memberId" : 5994
+    }, {
+      "id" : 2321,
+      "name" : "梦呓熙殇",
+      "updateStatus" : 1,
+      "distance" : 7612,
+      "memberId" : 4258
+    }, {
+      "id" : 2353,
+      "name" : "攻前辈的作战",
+      "updateStatus" : 1,
+      "distance" : 6666,
+      "memberId" : 5051
+    }, {
+      "id" : 2778,
+      "name" : "东山剑",
+      "updateStatus" : 1,
+      "distance" : 1373,
+      "memberId" : 1721
+    }, {
+      "id" : 3574,
+      "name" : "祁家楼外楼",
+      "updateStatus" : 1,
+      "distance" : 1618,
+      "memberId" : 4928
+    }, {
+      "id" : 3297,
+      "name" : "左手的秘密",
+      "updateStatus" : 1,
+      "distance" : 5112,
+      "memberId" : 2170
+    }, {
+      "id" : 3545,
+      "name" : "泪痕",
+      "updateStatus" : 1,
+      "distance" : 1299,
+      "memberId" : 6099
+    } ]
+  }
+}

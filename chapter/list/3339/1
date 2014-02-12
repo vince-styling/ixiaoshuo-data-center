@@ -1,0 +1,70 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 15,
+    "list" : [ {
+      "id" : 2584,
+      "title" : "第一章 穿越",
+      "capacity" : 9056
+    }, {
+      "id" : 2585,
+      "title" : "第二章 缘错",
+      "capacity" : 9494
+    }, {
+      "id" : 2586,
+      "title" : "第三章 赠猫",
+      "capacity" : 8843
+    }, {
+      "id" : 2587,
+      "title" : "第四章 提亲",
+      "capacity" : 9101
+    }, {
+      "id" : 2588,
+      "title" : "第五章 选妃",
+      "capacity" : 9148
+    }, {
+      "id" : 2589,
+      "title" : "第六章 归来",
+      "capacity" : 9121
+    }, {
+      "id" : 2590,
+      "title" : "第七章 诀别",
+      "capacity" : 9070
+    }, {
+      "id" : 2591,
+      "title" : "第八章 大婚",
+      "capacity" : 10217
+    }, {
+      "id" : 2592,
+      "title" : "第九章 帝陨",
+      "capacity" : 9068
+    }, {
+      "id" : 2593,
+      "title" : "第十章 新帝",
+      "capacity" : 9068
+    }, {
+      "id" : 2594,
+      "title" : "第十一章 相见",
+      "capacity" : 10570
+    }, {
+      "id" : 2595,
+      "title" : "第十二章 相认",
+      "capacity" : 9319
+    }, {
+      "id" : 2596,
+      "title" : "第十三章 隐瞒",
+      "capacity" : 8634
+    }, {
+      "id" : 2597,
+      "title" : "第十四章 重遇",
+      "capacity" : 10058
+    }, {
+      "id" : 2598,
+      "title" : "第十五章 照顾",
+      "capacity" : 9074
+    } ]
+  }
+}

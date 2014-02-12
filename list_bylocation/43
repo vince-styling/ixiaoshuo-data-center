@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 43,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3666,
+      "name" : "傲视苍穹：痴傻七小姐",
+      "updateStatus" : 1,
+      "distance" : 9094,
+      "memberId" : 3224
+    }, {
+      "id" : 3062,
+      "name" : "两年后的爱情",
+      "updateStatus" : 1,
+      "distance" : 8956,
+      "memberId" : 7469
+    }, {
+      "id" : 2058,
+      "name" : "护花三公主：蛊惑美男心",
+      "updateStatus" : 2,
+      "distance" : 2590,
+      "memberId" : 5963
+    }, {
+      "id" : 2761,
+      "name" : "德伯家的苔丝",
+      "updateStatus" : 1,
+      "distance" : 5076,
+      "memberId" : 2175
+    }, {
+      "id" : 2711,
+      "name" : "卿本佳人：第一女状元",
+      "updateStatus" : 1,
+      "distance" : 8639,
+      "memberId" : 1204
+    }, {
+      "id" : 3535,
+      "name" : "冥空以月",
+      "updateStatus" : 1,
+      "distance" : 8164,
+      "memberId" : 2355
+    }, {
+      "id" : 2362,
+      "name" : "青春小夜曲",
+      "updateStatus" : 2,
+      "distance" : 6191,
+      "memberId" : 1067
+    }, {
+      "id" : 3313,
+      "name" : "我的同桌顾亦辰",
+      "updateStatus" : 1,
+      "distance" : 8026,
+      "memberId" : 4869
+    }, {
+      "id" : 3664,
+      "name" : "眉心结，掌中线",
+      "updateStatus" : 1,
+      "distance" : 6619,
+      "memberId" : 5046
+    }, {
+      "id" : 3228,
+      "name" : "擎世圣王",
+      "updateStatus" : 1,
+      "distance" : 8759,
+      "memberId" : 7197
+    }, {
+      "id" : 3576,
+      "name" : "何故弦断梦",
+      "updateStatus" : 1,
+      "distance" : 9583,
+      "memberId" : 3908
+    }, {
+      "id" : 3317,
+      "name" : "花季里那个靠窗的女孩",
+      "updateStatus" : 1,
+      "distance" : 2645,
+      "memberId" : 3424
+    }, {
+      "id" : 3583,
+      "name" : "温情驻英年",
+      "updateStatus" : 1,
+      "distance" : 2470,
+      "memberId" : 5790
+    }, {
+      "id" : 3685,
+      "name" : "若痕",
+      "updateStatus" : 1,
+      "distance" : 6181,
+      "memberId" : 8794
+    }, {
+      "id" : 2318,
+      "name" : "特工穿越之时空轮回",
+      "updateStatus" : 2,
+      "distance" : 8710,
+      "memberId" : 8738
+    }, {
+      "id" : 2474,
+      "name" : "十早集",
+      "updateStatus" : 1,
+      "distance" : 3452,
+      "memberId" : 4124
+    }, {
+      "id" : 2853,
+      "name" : "特工老总红粉员工",
+      "updateStatus" : 1,
+      "distance" : 5529,
+      "memberId" : 2657
+    }, {
+      "id" : 3585,
+      "name" : "桃花醉之天下",
+      "updateStatus" : 1,
+      "distance" : 4904,
+      "memberId" : 4317
+    }, {
+      "id" : 2293,
+      "name" : "袖舞帝都",
+      "updateStatus" : 1,
+      "distance" : 7529,
+      "memberId" : 8677
+    }, {
+      "id" : 3679,
+      "name" : "青春情书",
+      "updateStatus" : 1,
+      "distance" : 4261,
+      "memberId" : 2303
+    } ]
+  }
+}

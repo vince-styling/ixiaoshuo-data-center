@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 82,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2244,
+      "name" : "揽君心：宠姬有阴谋",
+      "updateStatus" : 1,
+      "distance" : 9121,
+      "memberId" : 4009
+    }, {
+      "id" : 3251,
+      "name" : "博宇睿",
+      "updateStatus" : 1,
+      "distance" : 1538,
+      "memberId" : 7373
+    }, {
+      "id" : 3312,
+      "name" : "回祎录",
+      "updateStatus" : 1,
+      "distance" : 2959,
+      "memberId" : 7200
+    }, {
+      "id" : 2526,
+      "name" : "[网王]花菱の樱",
+      "updateStatus" : 1,
+      "distance" : 3752,
+      "memberId" : 7702
+    }, {
+      "id" : 2264,
+      "name" : "龙斗狂沙西辽传奇",
+      "updateStatus" : 1,
+      "distance" : 3009,
+      "memberId" : 6672
+    }, {
+      "id" : 2320,
+      "name" : "夏醉浅梦",
+      "updateStatus" : 1,
+      "distance" : 4010,
+      "memberId" : 5839
+    }, {
+      "id" : 3320,
+      "name" : "梦迷牡丹",
+      "updateStatus" : 1,
+      "distance" : 9344,
+      "memberId" : 1437
+    }, {
+      "id" : 3421,
+      "name" : "心动必碎",
+      "updateStatus" : 1,
+      "distance" : 3412,
+      "memberId" : 2908
+    }, {
+      "id" : 2982,
+      "name" : "逃之妖妖",
+      "updateStatus" : 1,
+      "distance" : 9366,
+      "memberId" : 8152
+    }, {
+      "id" : 3339,
+      "name" : "臆乱情迷",
+      "updateStatus" : 1,
+      "distance" : 9671,
+      "memberId" : 3072
+    }, {
+      "id" : 3332,
+      "name" : "不会失忆的爱",
+      "updateStatus" : 1,
+      "distance" : 1447,
+      "memberId" : 2865
+    }, {
+      "id" : 2652,
+      "name" : "墨世情缘对对碰",
+      "updateStatus" : 1,
+      "distance" : 9950,
+      "memberId" : 6225
+    }, {
+      "id" : 3352,
+      "name" : "沁语录",
+      "updateStatus" : 1,
+      "distance" : 1582,
+      "memberId" : 1039
+    }, {
+      "id" : 2661,
+      "name" : "复仇天使：你是我的蛊",
+      "updateStatus" : 1,
+      "distance" : 8838,
+      "memberId" : 1266
+    }, {
+      "id" : 2094,
+      "name" : "孽情殇",
+      "updateStatus" : 1,
+      "distance" : 6777,
+      "memberId" : 1393
+    }, {
+      "id" : 2355,
+      "name" : "五欢散之烈焰天下",
+      "updateStatus" : 1,
+      "distance" : 5342,
+      "memberId" : 5352
+    }, {
+      "id" : 3540,
+      "name" : "银魂王妃",
+      "updateStatus" : 1,
+      "distance" : 9963,
+      "memberId" : 3339
+    }, {
+      "id" : 3581,
+      "name" : "故人衣",
+      "updateStatus" : 1,
+      "distance" : 4974,
+      "memberId" : 8869
+    }, {
+      "id" : 2692,
+      "name" : "网王之阴阳师是学生",
+      "updateStatus" : 1,
+      "distance" : 2332,
+      "memberId" : 6309
+    }, {
+      "id" : 3662,
+      "name" : "窈窕君子",
+      "updateStatus" : 1,
+      "distance" : 5417,
+      "memberId" : 6524
+    } ]
+  }
+}

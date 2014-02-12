@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 3016,
+      "title" : "与狼同居（一）",
+      "capacity" : 9389
+    }, {
+      "id" : 3017,
+      "title" : "与狼同居（二）",
+      "capacity" : 9766
+    }, {
+      "id" : 3018,
+      "title" : "与狼同居（三）",
+      "capacity" : 6099
+    }, {
+      "id" : 3019,
+      "title" : "与狼同居（四）",
+      "capacity" : 10256
+    } ]
+  }
+}

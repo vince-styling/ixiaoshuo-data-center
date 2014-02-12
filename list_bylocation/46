@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 46,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2235,
+      "name" : "空忆落花。",
+      "updateStatus" : 1,
+      "distance" : 8468,
+      "memberId" : 8701
+    }, {
+      "id" : 3564,
+      "name" : "十二生肖女神的恋爱",
+      "updateStatus" : 1,
+      "distance" : 4067,
+      "memberId" : 6830
+    }, {
+      "id" : 2266,
+      "name" : "倾酌天下",
+      "updateStatus" : 1,
+      "distance" : 2494,
+      "memberId" : 6064
+    }, {
+      "id" : 2172,
+      "name" : "重生之倾城杀手",
+      "updateStatus" : 1,
+      "distance" : 8995,
+      "memberId" : 8347
+    }, {
+      "id" : 2897,
+      "name" : "瞎子王爷独宠调皮妃",
+      "updateStatus" : 1,
+      "distance" : 6269,
+      "memberId" : 5943
+    }, {
+      "id" : 2279,
+      "name" : "凤断谋",
+      "updateStatus" : 1,
+      "distance" : 3580,
+      "memberId" : 1942
+    }, {
+      "id" : 3533,
+      "name" : "落红颜",
+      "updateStatus" : 1,
+      "distance" : 5838,
+      "memberId" : 7284
+    }, {
+      "id" : 2605,
+      "name" : "无限之血统",
+      "updateStatus" : 1,
+      "distance" : 8210,
+      "memberId" : 2482
+    }, {
+      "id" : 3454,
+      "name" : "初心",
+      "updateStatus" : 1,
+      "distance" : 6052,
+      "memberId" : 8991
+    }, {
+      "id" : 2623,
+      "name" : "寻爱之雨过天晴",
+      "updateStatus" : 1,
+      "distance" : 992,
+      "memberId" : 6279
+    }, {
+      "id" : 2642,
+      "name" : "黑道特种部队",
+      "updateStatus" : 1,
+      "distance" : 2392,
+      "memberId" : 5404
+    }, {
+      "id" : 3029,
+      "name" : "双女穿越记",
+      "updateStatus" : 1,
+      "distance" : 821,
+      "memberId" : 8081
+    }, {
+      "id" : 3607,
+      "name" : "青葱，蒜不蒜",
+      "updateStatus" : 1,
+      "distance" : 8622,
+      "memberId" : 5499
+    }, {
+      "id" : 2960,
+      "name" : "时空之旅",
+      "updateStatus" : 1,
+      "distance" : 7642,
+      "memberId" : 1432
+    }, {
+      "id" : 3254,
+      "name" : "北京不眠",
+      "updateStatus" : 1,
+      "distance" : 810,
+      "memberId" : 1510
+    }, {
+      "id" : 2621,
+      "name" : "一路南北",
+      "updateStatus" : 1,
+      "distance" : 1219,
+      "memberId" : 2955
+    }, {
+      "id" : 3093,
+      "name" : "如果还能再爱",
+      "updateStatus" : 1,
+      "distance" : 3951,
+      "memberId" : 6956
+    }, {
+      "id" : 2430,
+      "name" : "一场梦如痴如醉",
+      "updateStatus" : 1,
+      "distance" : 1441,
+      "memberId" : 1516
+    }, {
+      "id" : 3343,
+      "name" : "许你水木两相依",
+      "updateStatus" : 1,
+      "distance" : 6149,
+      "memberId" : 4541
+    }, {
+      "id" : 2824,
+      "name" : "绿草如茵",
+      "updateStatus" : 1,
+      "distance" : 4820,
+      "memberId" : 3825
+    } ]
+  }
+}

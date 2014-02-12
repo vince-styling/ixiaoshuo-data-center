@@ -1,0 +1,118 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 27,
+    "list" : [ {
+      "id" : 1298,
+      "title" : "明天就可以看见结局了",
+      "capacity" : 6
+    }, {
+      "id" : 1299,
+      "title" : "楔子",
+      "capacity" : 6033
+    }, {
+      "id" : 1300,
+      "title" : "第一章 王者觉醒 上",
+      "capacity" : 9031
+    }, {
+      "id" : 1301,
+      "title" : "第二章 王者觉醒 中",
+      "capacity" : 9198
+    }, {
+      "id" : 1302,
+      "title" : "第三章 王者觉醒 下",
+      "capacity" : 9301
+    }, {
+      "id" : 1303,
+      "title" : "第四章 新的开始 上",
+      "capacity" : 9454
+    }, {
+      "id" : 1304,
+      "title" : "第五章 新的开始 下",
+      "capacity" : 9181
+    }, {
+      "id" : 1305,
+      "title" : "第六章 冥界之旅 上",
+      "capacity" : 9527
+    }, {
+      "id" : 1306,
+      "title" : "第七章 冥界之旅 下",
+      "capacity" : 9084
+    }, {
+      "id" : 1307,
+      "title" : "第八章 噩梦般的妖界 上",
+      "capacity" : 9297
+    }, {
+      "id" : 1308,
+      "title" : "第九章 噩梦般的妖界 下",
+      "capacity" : 9477
+    }, {
+      "id" : 1309,
+      "title" : "第十章 仙界岐遇 上",
+      "capacity" : 9229
+    }, {
+      "id" : 1310,
+      "title" : "第十一章 仙界岐遇 下",
+      "capacity" : 9281
+    }, {
+      "id" : 1311,
+      "title" : "第十二章 魔界的秘密 上",
+      "capacity" : 9275
+    }, {
+      "id" : 1312,
+      "title" : "第十三章 魔界的秘密 中",
+      "capacity" : 9154
+    }, {
+      "id" : 1313,
+      "title" : "第十四章 魔界的秘密 下",
+      "capacity" : 9102
+    }, {
+      "id" : 1314,
+      "title" : "第十五章 神界的天使",
+      "capacity" : 9327
+    }, {
+      "id" : 1315,
+      "title" : "第十六章 鬼歾之地",
+      "capacity" : 9423
+    }, {
+      "id" : 1316,
+      "title" : "第十七章 短暂的休息 上",
+      "capacity" : 9303
+    }, {
+      "id" : 1317,
+      "title" : "第十八章 短暂的休息 下",
+      "capacity" : 9132
+    }, {
+      "id" : 1318,
+      "title" : "第十九章 被忘记的觉醒",
+      "capacity" : 9182
+    }, {
+      "id" : 1319,
+      "title" : "第二十章 黄河事发 上",
+      "capacity" : 9110
+    }, {
+      "id" : 1320,
+      "title" : "第二十一章 黄河事发 下",
+      "capacity" : 9108
+    }, {
+      "id" : 1321,
+      "title" : "第二十二章 幻境破，遗迹现",
+      "capacity" : 9248
+    }, {
+      "id" : 1322,
+      "title" : "第二十三章 九婴与腾蛇",
+      "capacity" : 9397
+    }, {
+      "id" : 1323,
+      "title" : "第二十四章 有惊无险",
+      "capacity" : 9228
+    }, {
+      "id" : 1324,
+      "title" : "第二十五章 结局",
+      "capacity" : 3563
+    } ]
+  }
+}

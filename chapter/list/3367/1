@@ -1,0 +1,102 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 23,
+    "list" : [ {
+      "id" : 4325,
+      "title" : "楔子",
+      "capacity" : 8173
+    }, {
+      "id" : 4326,
+      "title" : "第一章 抢剑",
+      "capacity" : 8282
+    }, {
+      "id" : 4327,
+      "title" : "第二章 血骨剑认主",
+      "capacity" : 7855
+    }, {
+      "id" : 4328,
+      "title" : "第三章 案上香兰",
+      "capacity" : 6918
+    }, {
+      "id" : 4329,
+      "title" : "第四章 侠女初成",
+      "capacity" : 11362
+    }, {
+      "id" : 4330,
+      "title" : "第五章 初引赤蝶",
+      "capacity" : 8236
+    }, {
+      "id" : 4331,
+      "title" : "第六章 忆往昔",
+      "capacity" : 7278
+    }, {
+      "id" : 4332,
+      "title" : "第七章 杀神",
+      "capacity" : 6710
+    }, {
+      "id" : 4333,
+      "title" : "第八章 噩梦重现",
+      "capacity" : 8888
+    }, {
+      "id" : 4334,
+      "title" : "第九章 铁腕降匪帮",
+      "capacity" : 9092
+    }, {
+      "id" : 4335,
+      "title" : "第十章 手帕",
+      "capacity" : 9634
+    }, {
+      "id" : 4336,
+      "title" : "第十一章 被断袖",
+      "capacity" : 6767
+    }, {
+      "id" : 4337,
+      "title" : "第十二章 归家之人不恋家",
+      "capacity" : 6594
+    }, {
+      "id" : 4338,
+      "title" : "第十三章 救人负箭",
+      "capacity" : 6764
+    }, {
+      "id" : 4339,
+      "title" : "第十四章 万里疆域寻一人",
+      "capacity" : 6345
+    }, {
+      "id" : 4340,
+      "title" : "第十五章 梦中白蝶",
+      "capacity" : 7189
+    }, {
+      "id" : 4341,
+      "title" : "第十六章 飞仙舞",
+      "capacity" : 7609
+    }, {
+      "id" : 4342,
+      "title" : "第十七章 白帕红蝴蝶",
+      "capacity" : 6689
+    }, {
+      "id" : 4343,
+      "title" : "第十八章 不散之宴",
+      "capacity" : 6712
+    }, {
+      "id" : 4344,
+      "title" : "第十九章 非死不可",
+      "capacity" : 7729
+    }, {
+      "id" : 4345,
+      "title" : "第二十章 生死缠斗",
+      "capacity" : 7114
+    }, {
+      "id" : 4346,
+      "title" : "第二十一章 异乡聚首",
+      "capacity" : 6381
+    }, {
+      "id" : 4347,
+      "title" : "第二十二章 秘密",
+      "capacity" : 6075
+    } ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 3970,
+      "title" : "第二章 今夜偏知春气暖",
+      "capacity" : 3894
+    }, {
+      "id" : 3971,
+      "title" : "第三章 孤灯挑尽未成眠",
+      "capacity" : 3101
+    }, {
+      "id" : 3972,
+      "title" : "第一章 一笔泻尽兰清幽",
+      "capacity" : 6056
+    }, {
+      "id" : 3973,
+      "title" : "第四章 江山贫高何限意",
+      "capacity" : 3249
+    }, {
+      "id" : 3974,
+      "title" : "第五章 君道天涯共此时",
+      "capacity" : 3073
+    } ]
+  }
+}

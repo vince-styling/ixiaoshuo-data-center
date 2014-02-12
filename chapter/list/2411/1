@@ -1,0 +1,154 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 36,
+    "list" : [ {
+      "id" : 4493,
+      "title" : "第一章",
+      "capacity" : 4781
+    }, {
+      "id" : 4494,
+      "title" : "第二章",
+      "capacity" : 3938
+    }, {
+      "id" : 4495,
+      "title" : "第三章",
+      "capacity" : 3110
+    }, {
+      "id" : 4496,
+      "title" : "第四章",
+      "capacity" : 2750
+    }, {
+      "id" : 4497,
+      "title" : "第五章",
+      "capacity" : 3053
+    }, {
+      "id" : 4498,
+      "title" : "第六章",
+      "capacity" : 3512
+    }, {
+      "id" : 4499,
+      "title" : "第七章",
+      "capacity" : 3142
+    }, {
+      "id" : 4500,
+      "title" : "第八章",
+      "capacity" : 2750
+    }, {
+      "id" : 4501,
+      "title" : "第九章",
+      "capacity" : 2123
+    }, {
+      "id" : 4502,
+      "title" : "第十章",
+      "capacity" : 3557
+    }, {
+      "id" : 4503,
+      "title" : "第十一章",
+      "capacity" : 3626
+    }, {
+      "id" : 4504,
+      "title" : "第十二章 聚餐（1）",
+      "capacity" : 4259
+    }, {
+      "id" : 4505,
+      "title" : "第十三章 聚餐（2）",
+      "capacity" : 9106
+    }, {
+      "id" : 4506,
+      "title" : "第十四章 课时费引发的血案",
+      "capacity" : 14105
+    }, {
+      "id" : 4507,
+      "title" : "第十五章 实验室搬至临时棚",
+      "capacity" : 12496
+    }, {
+      "id" : 4508,
+      "title" : "第十六章 流水账",
+      "capacity" : 4124
+    }, {
+      "id" : 4509,
+      "title" : "第十七章 有关西西弗的故事",
+      "capacity" : 2231
+    }, {
+      "id" : 4510,
+      "title" : "第十八章 集体主义VS个人主义",
+      "capacity" : 12607
+    }, {
+      "id" : 4511,
+      "title" : "第二十章",
+      "capacity" : 3548
+    }, {
+      "id" : 4512,
+      "title" : "第二十一章",
+      "capacity" : 2688
+    }, {
+      "id" : 4513,
+      "title" : "第二十二章",
+      "capacity" : 2387
+    }, {
+      "id" : 4514,
+      "title" : "第二十三章",
+      "capacity" : 2945
+    }, {
+      "id" : 4515,
+      "title" : "第二十四章",
+      "capacity" : 2601
+    }, {
+      "id" : 4516,
+      "title" : "第二十五章 实验室十诫",
+      "capacity" : 3066
+    }, {
+      "id" : 4517,
+      "title" : "第二十六章",
+      "capacity" : 4116
+    }, {
+      "id" : 4518,
+      "title" : "第二十七章",
+      "capacity" : 5560
+    }, {
+      "id" : 4519,
+      "title" : "第二十八章",
+      "capacity" : 3467
+    }, {
+      "id" : 4520,
+      "title" : "第二十九章 扯皮",
+      "capacity" : 3515
+    }, {
+      "id" : 4521,
+      "title" : "第三十章",
+      "capacity" : 2594
+    }, {
+      "id" : 4522,
+      "title" : "第三十一章",
+      "capacity" : 3355
+    }, {
+      "id" : 4523,
+      "title" : "第三十二章 听老太太讲故事",
+      "capacity" : 3631
+    }, {
+      "id" : 4524,
+      "title" : "第三十三章 狗血的拍摄",
+      "capacity" : 3264
+    }, {
+      "id" : 4525,
+      "title" : "第三十四章",
+      "capacity" : 3267
+    }, {
+      "id" : 4526,
+      "title" : "第三十五章 衣着打扮",
+      "capacity" : 3123
+    }, {
+      "id" : 4527,
+      "title" : "第三十六章",
+      "capacity" : 2068
+    }, {
+      "id" : 4528,
+      "title" : "第三十七章",
+      "capacity" : 1154
+    } ]
+  }
+}

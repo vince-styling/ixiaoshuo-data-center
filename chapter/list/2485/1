@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 2423,
+      "title" : "第一节 真实的梦境",
+      "capacity" : 2160
+    }, {
+      "id" : 2424,
+      "title" : "第二节 校花与萝莉",
+      "capacity" : 7212
+    }, {
+      "id" : 2425,
+      "title" : "第三节 天台据点",
+      "capacity" : 2224
+    }, {
+      "id" : 2426,
+      "title" : "第四节 诡异的怀表",
+      "capacity" : 3423
+    }, {
+      "id" : 2427,
+      "title" : "第五节 超度，为了积德",
+      "capacity" : 4211
+    }, {
+      "id" : 2428,
+      "title" : "第六节 那不是魔术",
+      "capacity" : 1857
+    }, {
+      "id" : 2429,
+      "title" : "第七节 洁白的纸玫瑰",
+      "capacity" : 1200
+    }, {
+      "id" : 2430,
+      "title" : "第一节 古怪的陈智",
+      "capacity" : 2847
+    }, {
+      "id" : 2431,
+      "title" : "第二节 停尸间",
+      "capacity" : 3127
+    }, {
+      "id" : 2432,
+      "title" : "第三节 墓园里的孩子",
+      "capacity" : 2943
+    }, {
+      "id" : 2433,
+      "title" : "第四节 卖萌的刘婆婆",
+      "capacity" : 2822
+    } ]
+  }
+}

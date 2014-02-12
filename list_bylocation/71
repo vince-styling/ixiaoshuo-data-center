@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 71,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2584,
+      "name" : "再见，暴君总裁",
+      "updateStatus" : 1,
+      "distance" : 9184,
+      "memberId" : 6906
+    }, {
+      "id" : 2253,
+      "name" : "凤凰斗：刁蛮皇后不从夫",
+      "updateStatus" : 2,
+      "distance" : 2967,
+      "memberId" : 6211
+    }, {
+      "id" : 2052,
+      "name" : "总裁，我们始终背道相持",
+      "updateStatus" : 1,
+      "distance" : 9893,
+      "memberId" : 6784
+    }, {
+      "id" : 3127,
+      "name" : "重生之轻月浮华",
+      "updateStatus" : 2,
+      "distance" : 977,
+      "memberId" : 2135
+    }, {
+      "id" : 2538,
+      "name" : "幸福百里",
+      "updateStatus" : 1,
+      "distance" : 2551,
+      "memberId" : 3188
+    }, {
+      "id" : 3429,
+      "name" : "站在你身后为你撑起保护伞",
+      "updateStatus" : 1,
+      "distance" : 3259,
+      "memberId" : 7463
+    }, {
+      "id" : 2920,
+      "name" : "碧色佳人",
+      "updateStatus" : 1,
+      "distance" : 5011,
+      "memberId" : 2568
+    }, {
+      "id" : 3479,
+      "name" : "演艺小巨星",
+      "updateStatus" : 1,
+      "distance" : 1225,
+      "memberId" : 6113
+    }, {
+      "id" : 2585,
+      "name" : "孟璇传奇",
+      "updateStatus" : 1,
+      "distance" : 5057,
+      "memberId" : 6603
+    }, {
+      "id" : 2256,
+      "name" : "穿越东宫之碟中谍",
+      "updateStatus" : 2,
+      "distance" : 9344,
+      "memberId" : 6237
+    }, {
+      "id" : 2593,
+      "name" : "凤御圣月洛",
+      "updateStatus" : 1,
+      "distance" : 7093,
+      "memberId" : 8747
+    }, {
+      "id" : 3217,
+      "name" : "紫倾华羽",
+      "updateStatus" : 1,
+      "distance" : 1715,
+      "memberId" : 5695
+    }, {
+      "id" : 3193,
+      "name" : "三生三世，芙蓉幽幽",
+      "updateStatus" : 2,
+      "distance" : 2295,
+      "memberId" : 7184
+    }, {
+      "id" : 2444,
+      "name" : "花开花败，半夏未眠",
+      "updateStatus" : 1,
+      "distance" : 4531,
+      "memberId" : 2128
+    }, {
+      "id" : 2060,
+      "name" : "和亲九公主：霸爱拽夫君",
+      "updateStatus" : 2,
+      "distance" : 2525,
+      "memberId" : 7624
+    }, {
+      "id" : 3438,
+      "name" : "叶之于归",
+      "updateStatus" : 1,
+      "distance" : 5187,
+      "memberId" : 7156
+    }, {
+      "id" : 3726,
+      "name" : "君倾如月",
+      "updateStatus" : 1,
+      "distance" : 5698,
+      "memberId" : 2085
+    }, {
+      "id" : 3493,
+      "name" : "此时四季",
+      "updateStatus" : 1,
+      "distance" : 3294,
+      "memberId" : 7089
+    }, {
+      "id" : 3150,
+      "name" : "我是小丫",
+      "updateStatus" : 1,
+      "distance" : 5743,
+      "memberId" : 8875
+    }, {
+      "id" : 3148,
+      "name" : "听说你也爱我",
+      "updateStatus" : 1,
+      "distance" : 6156,
+      "memberId" : 5677
+    } ]
+  }
+}

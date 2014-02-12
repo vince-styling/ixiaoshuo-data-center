@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1024,
+      "title" : "第一章：昙花一现",
+      "capacity" : 4660
+    }, {
+      "id" : 1025,
+      "title" : "第二章:陌生请求",
+      "capacity" : 4853
+    }, {
+      "id" : 1026,
+      "title" : "第三章：物换星移",
+      "capacity" : 4554
+    } ]
+  }
+}

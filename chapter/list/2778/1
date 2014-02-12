@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 3682,
+      "title" : "第一章 钦差出城（一）",
+      "capacity" : 9097
+    }, {
+      "id" : 3683,
+      "title" : "第一章 钦差出城（二）",
+      "capacity" : 6119
+    }, {
+      "id" : 3684,
+      "title" : "第一章 钦差出城 （三）",
+      "capacity" : 8181
+    }, {
+      "id" : 3685,
+      "title" : "第一章 钦差出城 （四）",
+      "capacity" : 3602
+    }, {
+      "id" : 3686,
+      "title" : "第一章 钦差出城 （五）",
+      "capacity" : 4419
+    }, {
+      "id" : 3687,
+      "title" : "第二章 扬州探秘 （一）",
+      "capacity" : 8646
+    }, {
+      "id" : 3688,
+      "title" : "第二章 扬州探秘 （二）",
+      "capacity" : 5365
+    }, {
+      "id" : 3689,
+      "title" : "第二章 扬州探秘 （三）",
+      "capacity" : 6948
+    }, {
+      "id" : 3690,
+      "title" : "第二章 扬州探秘 （四）",
+      "capacity" : 5278
+    }, {
+      "id" : 3691,
+      "title" : "第二章 扬州探秘 （五）",
+      "capacity" : 7563
+    }, {
+      "id" : 3692,
+      "title" : "第二章 扬州探秘 （六）",
+      "capacity" : 4022
+    }, {
+      "id" : 3693,
+      "title" : "第二章 扬州探秘 （七）",
+      "capacity" : 4573
+    }, {
+      "id" : 3694,
+      "title" : "第二章 扬州探秘 （八）",
+      "capacity" : 5026
+    } ]
+  }
+}

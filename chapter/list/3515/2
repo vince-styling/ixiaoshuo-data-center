@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 55,
+    "list" : [ {
+      "id" : 4913,
+      "title" : "第五十一章",
+      "capacity" : 9501
+    }, {
+      "id" : 4914,
+      "title" : "第五十二章",
+      "capacity" : 11818
+    }, {
+      "id" : 4915,
+      "title" : "第五十三章",
+      "capacity" : 9320
+    }, {
+      "id" : 4916,
+      "title" : "第五十四章",
+      "capacity" : 11769
+    }, {
+      "id" : 4917,
+      "title" : "第五十五章",
+      "capacity" : 9805
+    } ]
+  }
+}

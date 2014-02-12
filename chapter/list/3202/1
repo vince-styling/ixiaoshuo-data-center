@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 2058,
+      "title" : "第一章 梦里花落知多少",
+      "capacity" : 3764
+    }, {
+      "id" : 2059,
+      "title" : "第二章 似曾相识燕归来",
+      "capacity" : 6869
+    }, {
+      "id" : 2060,
+      "title" : "第三章 惟有恨，丝难尽",
+      "capacity" : 4174
+    }, {
+      "id" : 2061,
+      "title" : "第四章 恍若昨日梦",
+      "capacity" : 3716
+    }, {
+      "id" : 2062,
+      "title" : "第五章 故人相逢是旧人",
+      "capacity" : 4738
+    }, {
+      "id" : 2063,
+      "title" : "第六章 可怜陌道不相识",
+      "capacity" : 3268
+    }, {
+      "id" : 2064,
+      "title" : "第七章 秋意浓，春意浓",
+      "capacity" : 5782
+    } ]
+  }
+}

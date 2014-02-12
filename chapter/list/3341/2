@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 60,
+    "list" : [ {
+      "id" : 2095,
+      "title" : "G大之约（3）",
+      "capacity" : 9690
+    }, {
+      "id" : 2096,
+      "title" : "G大之约（4）",
+      "capacity" : 9432
+    }, {
+      "id" : 2097,
+      "title" : "G大之约（5）",
+      "capacity" : 10078
+    }, {
+      "id" : 2098,
+      "title" : "G大之约（6）",
+      "capacity" : 10611
+    }, {
+      "id" : 2099,
+      "title" : "G大之约（7）",
+      "capacity" : 6492
+    }, {
+      "id" : 2100,
+      "title" : "G大之约（8）",
+      "capacity" : 5000
+    }, {
+      "id" : 2101,
+      "title" : "黑暗笼罩下的阳光（1）",
+      "capacity" : 5567
+    }, {
+      "id" : 2102,
+      "title" : "黑暗笼罩下的阳光（2）",
+      "capacity" : 6736
+    }, {
+      "id" : 2103,
+      "title" : "黑暗笼罩下的阳光（3）",
+      "capacity" : 6788
+    }, {
+      "id" : 2104,
+      "title" : "黑暗笼罩下的阳光（4）",
+      "capacity" : 4969
+    } ]
+  }
+}

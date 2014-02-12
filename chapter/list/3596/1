@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 4913,
+      "title" : "序",
+      "capacity" : 3115
+    }, {
+      "id" : 4914,
+      "title" : "一",
+      "capacity" : 3321
+    }, {
+      "id" : 4915,
+      "title" : "二",
+      "capacity" : 3246
+    }, {
+      "id" : 4916,
+      "title" : "三",
+      "capacity" : 2071
+    } ]
+  }
+}

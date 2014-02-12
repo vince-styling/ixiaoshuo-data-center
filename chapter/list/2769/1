@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 3826,
+      "title" : "第1章 偶遇隐士",
+      "capacity" : 6007
+    }, {
+      "id" : 3827,
+      "title" : "第2章 走进李府(一)",
+      "capacity" : 3101
+    }, {
+      "id" : 3828,
+      "title" : "第3章 走进李府（二）",
+      "capacity" : 3909
+    }, {
+      "id" : 3829,
+      "title" : "第四章 走进李府（三）",
+      "capacity" : 3316
+    }, {
+      "id" : 3830,
+      "title" : "第4章 相遇雍正",
+      "capacity" : 3068
+    } ]
+  }
+}

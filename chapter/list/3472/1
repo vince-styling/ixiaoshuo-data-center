@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 4683,
+      "title" : "楔子：",
+      "capacity" : 5200
+    }, {
+      "id" : 4684,
+      "title" : "1",
+      "capacity" : 7495
+    }, {
+      "id" : 4685,
+      "title" : "2",
+      "capacity" : 9464
+    } ]
+  }
+}

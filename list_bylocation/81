@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 81,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2852,
+      "name" : "花千世界",
+      "updateStatus" : 1,
+      "distance" : 5876,
+      "memberId" : 7140
+    }, {
+      "id" : 2155,
+      "name" : "古剑情韵之花神泪",
+      "updateStatus" : 1,
+      "distance" : 2939,
+      "memberId" : 4185
+    }, {
+      "id" : 2789,
+      "name" : "男人心事",
+      "updateStatus" : 1,
+      "distance" : 5795,
+      "memberId" : 8866
+    }, {
+      "id" : 2462,
+      "name" : "道听途说",
+      "updateStatus" : 1,
+      "distance" : 1107,
+      "memberId" : 6973
+    }, {
+      "id" : 2502,
+      "name" : "古剑奇谭之浮生执念",
+      "updateStatus" : 1,
+      "distance" : 5129,
+      "memberId" : 3586
+    }, {
+      "id" : 3213,
+      "name" : "光华琉璃只为一笑",
+      "updateStatus" : 1,
+      "distance" : 8749,
+      "memberId" : 7698
+    }, {
+      "id" : 3413,
+      "name" : "秦影宫箫夜",
+      "updateStatus" : 1,
+      "distance" : 6855,
+      "memberId" : 6390
+    }, {
+      "id" : 3626,
+      "name" : "错过了，还能爱吗？",
+      "updateStatus" : 1,
+      "distance" : 4190,
+      "memberId" : 8405
+    }, {
+      "id" : 3474,
+      "name" : "穿越还珠之乾隆是我的",
+      "updateStatus" : 1,
+      "distance" : 1206,
+      "memberId" : 2587
+    }, {
+      "id" : 3229,
+      "name" : "咫尺黑夜",
+      "updateStatus" : 1,
+      "distance" : 5714,
+      "memberId" : 5189
+    }, {
+      "id" : 3279,
+      "name" : "爱情决裂",
+      "updateStatus" : 1,
+      "distance" : 9483,
+      "memberId" : 6517
+    }, {
+      "id" : 2171,
+      "name" : "我是魔鬼的孩子",
+      "updateStatus" : 1,
+      "distance" : 9701,
+      "memberId" : 2986
+    }, {
+      "id" : 3493,
+      "name" : "此时四季",
+      "updateStatus" : 1,
+      "distance" : 3084,
+      "memberId" : 6572
+    }, {
+      "id" : 2958,
+      "name" : "伤痕落尽我依然等你",
+      "updateStatus" : 1,
+      "distance" : 3052,
+      "memberId" : 1275
+    }, {
+      "id" : 2435,
+      "name" : "绝世青龙王",
+      "updateStatus" : 1,
+      "distance" : 1987,
+      "memberId" : 7129
+    }, {
+      "id" : 3645,
+      "name" : "悠悠茶茗",
+      "updateStatus" : 1,
+      "distance" : 8141,
+      "memberId" : 8002
+    }, {
+      "id" : 2106,
+      "name" : "呆萌小淘妻：腹黑夫君吃定你",
+      "updateStatus" : 1,
+      "distance" : 5455,
+      "memberId" : 7843
+    }, {
+      "id" : 3217,
+      "name" : "紫倾华羽",
+      "updateStatus" : 1,
+      "distance" : 5282,
+      "memberId" : 2889
+    }, {
+      "id" : 2561,
+      "name" : "墨上清歌",
+      "updateStatus" : 1,
+      "distance" : 5915,
+      "memberId" : 4765
+    }, {
+      "id" : 2496,
+      "name" : "赛罗之双生子的羁绊",
+      "updateStatus" : 1,
+      "distance" : 6099,
+      "memberId" : 5445
+    } ]
+  }
+}

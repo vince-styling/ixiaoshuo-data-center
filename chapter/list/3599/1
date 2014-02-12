@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 4807,
+      "title" : "江湖篇（一）",
+      "capacity" : 10962
+    }, {
+      "id" : 4808,
+      "title" : "江湖篇（二）",
+      "capacity" : 10335
+    }, {
+      "id" : 4809,
+      "title" : "江湖篇（三）",
+      "capacity" : 10610
+    }, {
+      "id" : 4810,
+      "title" : "江湖篇（四）",
+      "capacity" : 11743
+    }, {
+      "id" : 4811,
+      "title" : "江湖篇（五）",
+      "capacity" : 7918
+    }, {
+      "id" : 4812,
+      "title" : "江湖篇（六）",
+      "capacity" : 8255
+    }, {
+      "id" : 4813,
+      "title" : "江湖篇（七）",
+      "capacity" : 9641
+    }, {
+      "id" : 4814,
+      "title" : "江湖篇（八）",
+      "capacity" : 8784
+    }, {
+      "id" : 4815,
+      "title" : "江湖篇（九）",
+      "capacity" : 9036
+    }, {
+      "id" : 4816,
+      "title" : "江湖篇（十）",
+      "capacity" : 10917
+    }, {
+      "id" : 4817,
+      "title" : "江湖篇（十一）",
+      "capacity" : 9318
+    }, {
+      "id" : 4818,
+      "title" : "江湖篇（十二）",
+      "capacity" : 9942
+    }, {
+      "id" : 4819,
+      "title" : "江湖篇（十三）",
+      "capacity" : 10224
+    }, {
+      "id" : 4820,
+      "title" : "江湖篇（十四）",
+      "capacity" : 8846
+    }, {
+      "id" : 4821,
+      "title" : "江湖篇（十五）",
+      "capacity" : 8613
+    }, {
+      "id" : 4822,
+      "title" : "江湖篇（十六）",
+      "capacity" : 12256
+    }, {
+      "id" : 4823,
+      "title" : "江湖篇（十七）",
+      "capacity" : 9517
+    }, {
+      "id" : 4824,
+      "title" : "江湖篇（十八）",
+      "capacity" : 10908
+    }, {
+      "id" : 4825,
+      "title" : "江湖篇（十九）",
+      "capacity" : 9597
+    } ]
+  }
+}

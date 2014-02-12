@@ -1,0 +1,134 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 31,
+    "list" : [ {
+      "id" : 1947,
+      "title" : "一 指婚七王爷",
+      "capacity" : 8261
+    }, {
+      "id" : 1948,
+      "title" : "二 嫁入草包王府",
+      "capacity" : 6777
+    }, {
+      "id" : 1949,
+      "title" : "三 初见竹青，怦然心动",
+      "capacity" : 6028
+    }, {
+      "id" : 1950,
+      "title" : "四 阿丘被打，王妃摆架子",
+      "capacity" : 7004
+    }, {
+      "id" : 1951,
+      "title" : "五 收买丫鬟心",
+      "capacity" : 7844
+    }, {
+      "id" : 1952,
+      "title" : "六 爬墙头，逛妓院",
+      "capacity" : 7466
+    }, {
+      "id" : 1953,
+      "title" : "七 妓院戏王爷",
+      "capacity" : 8425
+    }, {
+      "id" : 1954,
+      "title" : "八 下定决心追美男",
+      "capacity" : 8392
+    }, {
+      "id" : 1955,
+      "title" : "九 神秘黑衣人",
+      "capacity" : 6906
+    }, {
+      "id" : 1956,
+      "title" : "十 爱妃，本王要娶平妻",
+      "capacity" : 7406
+    }, {
+      "id" : 1957,
+      "title" : "十一 迎娶柳仙儿",
+      "capacity" : 7209
+    }, {
+      "id" : 1958,
+      "title" : "十二 给本王拉出去，杖责五十",
+      "capacity" : 11162
+    }, {
+      "id" : 1959,
+      "title" : "十三 竹青，这样就好了",
+      "capacity" : 8189
+    }, {
+      "id" : 1960,
+      "title" : "十四 茉雪，我等到她了",
+      "capacity" : 7363
+    }, {
+      "id" : 1961,
+      "title" : "十五 抓刺客啦",
+      "capacity" : 7815
+    }, {
+      "id" : 1962,
+      "title" : "十六 皇后召见",
+      "capacity" : 9346
+    }, {
+      "id" : 1963,
+      "title" : "十七 试探和交易",
+      "capacity" : 9860
+    }, {
+      "id" : 1964,
+      "title" : "十八 临行前的甜蜜和反常",
+      "capacity" : 6490
+    }, {
+      "id" : 1965,
+      "title" : "十九 半路遇袭一",
+      "capacity" : 7070
+    }, {
+      "id" : 1966,
+      "title" : "二十 半路遇袭二",
+      "capacity" : 7203
+    }, {
+      "id" : 1967,
+      "title" : "二十一 少年风临潼",
+      "capacity" : 7201
+    }, {
+      "id" : 1968,
+      "title" : "二十二 别扭的七王爷",
+      "capacity" : 7552
+    }, {
+      "id" : 1969,
+      "title" : "二十三 海上遇险",
+      "capacity" : 9989
+    }, {
+      "id" : 1970,
+      "title" : "二十四 蛇山之国",
+      "capacity" : 6447
+    }, {
+      "id" : 1971,
+      "title" : "二十五 有惊无险",
+      "capacity" : 6553
+    }, {
+      "id" : 1972,
+      "title" : "二十六 恶斗蛇群",
+      "capacity" : 7101
+    }, {
+      "id" : 1973,
+      "title" : "二十七 蛇国神秘人",
+      "capacity" : 7760
+    }, {
+      "id" : 1974,
+      "title" : "二十八 神蛇明玄",
+      "capacity" : 8205
+    }, {
+      "id" : 1975,
+      "title" : "二十九 大殿迷情",
+      "capacity" : 7651
+    }, {
+      "id" : 1976,
+      "title" : "三十 重见天日",
+      "capacity" : 6264
+    }, {
+      "id" : 1977,
+      "title" : "三十一 回府冲突",
+      "capacity" : 7794
+    } ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 57,
+    "list" : [ {
+      "id" : 2464,
+      "title" : "第四十九章",
+      "capacity" : 6223
+    }, {
+      "id" : 2465,
+      "title" : "第五十章",
+      "capacity" : 6388
+    }, {
+      "id" : 2466,
+      "title" : "第五十一章",
+      "capacity" : 6374
+    }, {
+      "id" : 2467,
+      "title" : "第五十二章",
+      "capacity" : 6251
+    }, {
+      "id" : 2468,
+      "title" : "第五十三章",
+      "capacity" : 6422
+    }, {
+      "id" : 2469,
+      "title" : "第五十四章",
+      "capacity" : 6394
+    }, {
+      "id" : 2470,
+      "title" : "第五十五章",
+      "capacity" : 6575
+    } ]
+  }
+}

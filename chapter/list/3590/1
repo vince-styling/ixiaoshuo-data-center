@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 2456,
+      "title" : "一至三",
+      "capacity" : 11669
+    }, {
+      "id" : 2457,
+      "title" : "四至六",
+      "capacity" : 9895
+    }, {
+      "id" : 2458,
+      "title" : "七至九",
+      "capacity" : 12523
+    }, {
+      "id" : 2459,
+      "title" : "十至十二",
+      "capacity" : 14888
+    }, {
+      "id" : 2460,
+      "title" : "十三十四~",
+      "capacity" : 10143
+    }, {
+      "id" : 2461,
+      "title" : "十五十六~",
+      "capacity" : 10028
+    }, {
+      "id" : 2462,
+      "title" : "十七，十八~",
+      "capacity" : 11008
+    } ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 60,
+    "list" : [ {
+      "id" : 1517,
+      "title" : "五十一章",
+      "capacity" : 9167
+    }, {
+      "id" : 1518,
+      "title" : "五十二章",
+      "capacity" : 9213
+    }, {
+      "id" : 1519,
+      "title" : "五十三章",
+      "capacity" : 9113
+    }, {
+      "id" : 1520,
+      "title" : "五十四章",
+      "capacity" : 9442
+    }, {
+      "id" : 1521,
+      "title" : "五十五章",
+      "capacity" : 9070
+    }, {
+      "id" : 1522,
+      "title" : "五十六章",
+      "capacity" : 9482
+    }, {
+      "id" : 1523,
+      "title" : "五十七章",
+      "capacity" : 9376
+    }, {
+      "id" : 1524,
+      "title" : "五十八章",
+      "capacity" : 9370
+    }, {
+      "id" : 1525,
+      "title" : "五十九章",
+      "capacity" : 9215
+    }, {
+      "id" : 1526,
+      "title" : "上架啦……",
+      "capacity" : 2232
+    } ]
+  }
+}

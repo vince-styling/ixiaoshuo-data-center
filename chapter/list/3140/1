@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 2609,
+      "title" : "第一章",
+      "capacity" : 9123
+    }, {
+      "id" : 2610,
+      "title" : "第二章",
+      "capacity" : 9223
+    }, {
+      "id" : 2611,
+      "title" : "第三章",
+      "capacity" : 9266
+    }, {
+      "id" : 2612,
+      "title" : "第四章",
+      "capacity" : 9064
+    } ]
+  }
+}

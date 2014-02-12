@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 4526,
+      "title" : "种族",
+      "capacity" : 66
+    }, {
+      "id" : 4527,
+      "title" : "上架通告",
+      "capacity" : 2232
+    }, {
+      "id" : 4528,
+      "title" : "玉蝶衣",
+      "capacity" : 72
+    }, {
+      "id" : 4529,
+      "title" : "1",
+      "capacity" : 8619
+    }, {
+      "id" : 4530,
+      "title" : "2",
+      "capacity" : 7719
+    }, {
+      "id" : 4531,
+      "title" : "3",
+      "capacity" : 7840
+    }, {
+      "id" : 4532,
+      "title" : "4",
+      "capacity" : 6628
+    }, {
+      "id" : 4533,
+      "title" : "5",
+      "capacity" : 6836
+    }, {
+      "id" : 4534,
+      "title" : "6",
+      "capacity" : 8751
+    }, {
+      "id" : 4535,
+      "title" : "7",
+      "capacity" : 7237
+    }, {
+      "id" : 4536,
+      "title" : "8",
+      "capacity" : 6774
+    }, {
+      "id" : 4537,
+      "title" : "9",
+      "capacity" : 6407
+    }, {
+      "id" : 4538,
+      "title" : "10",
+      "capacity" : 7059
+    } ]
+  }
+}

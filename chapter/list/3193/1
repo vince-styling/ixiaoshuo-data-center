@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 4886,
+      "title" : "离奇的梦",
+      "capacity" : 8413
+    }, {
+      "id" : 4887,
+      "title" : "穿越",
+      "capacity" : 8582
+    }, {
+      "id" : 4888,
+      "title" : "洗澡艳遇",
+      "capacity" : 11640
+    }, {
+      "id" : 4889,
+      "title" : "艳遇过后",
+      "capacity" : 12135
+    }, {
+      "id" : 4890,
+      "title" : "冲动的惩罚",
+      "capacity" : 5755
+    }, {
+      "id" : 4891,
+      "title" : "失身",
+      "capacity" : 15708
+    }, {
+      "id" : 4892,
+      "title" : "美人计",
+      "capacity" : 9464
+    }, {
+      "id" : 4893,
+      "title" : "芙蓉帐下",
+      "capacity" : 9794
+    }, {
+      "id" : 4894,
+      "title" : "月下天使",
+      "capacity" : 9930
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 14,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3129,
+      "name" : "（秦时+火影）滚来滚去滚成圆",
+      "updateStatus" : 1,
+      "distance" : 7530,
+      "memberId" : 5724
+    }, {
+      "id" : 3462,
+      "name" : "冷婢有毒",
+      "updateStatus" : 1,
+      "distance" : 7699,
+      "memberId" : 5439
+    }, {
+      "id" : 3292,
+      "name" : "菊之恋",
+      "updateStatus" : 1,
+      "distance" : 5064,
+      "memberId" : 7997
+    }, {
+      "id" : 2262,
+      "name" : "三生河畔等着你",
+      "updateStatus" : 1,
+      "distance" : 3892,
+      "memberId" : 1128
+    }, {
+      "id" : 2729,
+      "name" : "妃霸天下",
+      "updateStatus" : 1,
+      "distance" : 8883,
+      "memberId" : 7594
+    }, {
+      "id" : 3617,
+      "name" : "分手条约",
+      "updateStatus" : 1,
+      "distance" : 9959,
+      "memberId" : 8213
+    }, {
+      "id" : 2535,
+      "name" : "素锦流年祭",
+      "updateStatus" : 1,
+      "distance" : 4991,
+      "memberId" : 5251
+    }, {
+      "id" : 3576,
+      "name" : "何故弦断梦",
+      "updateStatus" : 1,
+      "distance" : 4293,
+      "memberId" : 6605
+    }, {
+      "id" : 3543,
+      "name" : "逆天七小姐：第一魔妃",
+      "updateStatus" : 1,
+      "distance" : 8400,
+      "memberId" : 5195
+    }, {
+      "id" : 2168,
+      "name" : "天神之使命",
+      "updateStatus" : 1,
+      "distance" : 4317,
+      "memberId" : 7233
+    }, {
+      "id" : 2739,
+      "name" : "紫色涅槃",
+      "updateStatus" : 1,
+      "distance" : 5400,
+      "memberId" : 1019
+    }, {
+      "id" : 2522,
+      "name" : "熊霸天下",
+      "updateStatus" : 1,
+      "distance" : 7652,
+      "memberId" : 2253
+    }, {
+      "id" : 3179,
+      "name" : "情深几许",
+      "updateStatus" : 1,
+      "distance" : 2922,
+      "memberId" : 6311
+    }, {
+      "id" : 3314,
+      "name" : "倾城薄雾，似水流年",
+      "updateStatus" : 2,
+      "distance" : 1773,
+      "memberId" : 4435
+    }, {
+      "id" : 2976,
+      "name" : "少女养成之就是赖上你",
+      "updateStatus" : 1,
+      "distance" : 9321,
+      "memberId" : 5261
+    }, {
+      "id" : 3223,
+      "name" : "风吹叶舞意悠然",
+      "updateStatus" : 1,
+      "distance" : 7721,
+      "memberId" : 5760
+    }, {
+      "id" : 2464,
+      "name" : "微光角落",
+      "updateStatus" : 1,
+      "distance" : 3582,
+      "memberId" : 4716
+    }, {
+      "id" : 2996,
+      "name" : "不懂，就别说出口",
+      "updateStatus" : 1,
+      "distance" : 1212,
+      "memberId" : 1699
+    }, {
+      "id" : 3319,
+      "name" : "狼性总裁：天后是我妻",
+      "updateStatus" : 1,
+      "distance" : 7202,
+      "memberId" : 1652
+    }, {
+      "id" : 2969,
+      "name" : "我的青春是一座迷宫",
+      "updateStatus" : 1,
+      "distance" : 2548,
+      "memberId" : 2227
+    } ]
+  }
+}

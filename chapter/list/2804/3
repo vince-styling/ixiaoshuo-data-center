@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 103,
+    "list" : [ {
+      "id" : 2323,
+      "title" : "101 买狗粮",
+      "capacity" : 3015
+    }, {
+      "id" : 2324,
+      "title" : "102 相遇",
+      "capacity" : 3287
+    }, {
+      "id" : 2325,
+      "title" : "上架公告+精彩剧透",
+      "capacity" : 3197
+    } ]
+  }
+}

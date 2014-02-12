@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 4734,
+      "title" : "第四十七章 慈父偏爱女",
+      "capacity" : 10209
+    }, {
+      "id" : 4735,
+      "title" : "第四十八章 丫头的秘密",
+      "capacity" : 6483
+    }, {
+      "id" : 4736,
+      "title" : "第四十九章 混入侯府当差",
+      "capacity" : 9398
+    }, {
+      "id" : 4737,
+      "title" : "第49+章 《谪仙冏冏谈》的《上架公告》",
+      "capacity" : 2286
+    } ]
+  }
+}

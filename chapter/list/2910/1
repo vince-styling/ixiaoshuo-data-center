@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 4879,
+      "title" : "第一章：初入职场",
+      "capacity" : 6384
+    }, {
+      "id" : 4880,
+      "title" : "第二章：妖孽现身",
+      "capacity" : 7443
+    }, {
+      "id" : 4881,
+      "title" : "第三章：忍住忍住，再忍住",
+      "capacity" : 6252
+    }, {
+      "id" : 4882,
+      "title" : "第四章：夜店偶遇",
+      "capacity" : 6435
+    }, {
+      "id" : 4883,
+      "title" : "第五章：不可思议的温柔",
+      "capacity" : 6065
+    }, {
+      "id" : 4884,
+      "title" : "第六章：残酷的现实",
+      "capacity" : 6286
+    }, {
+      "id" : 4885,
+      "title" : "第七章：意外",
+      "capacity" : 3811
+    }, {
+      "id" : 4886,
+      "title" : "第八章：悲催的米线",
+      "capacity" : 3853
+    } ]
+  }
+}

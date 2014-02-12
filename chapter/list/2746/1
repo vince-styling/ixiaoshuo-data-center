@@ -1,0 +1,74 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 16,
+    "list" : [ {
+      "id" : 4997,
+      "title" : "第一章 童年",
+      "capacity" : 10433
+    }, {
+      "id" : 4998,
+      "title" : "第二章 阴影",
+      "capacity" : 9537
+    }, {
+      "id" : 4999,
+      "title" : "第三章 重生",
+      "capacity" : 8902
+    }, {
+      "id" : 5000,
+      "title" : "第四章 苍天",
+      "capacity" : 9270
+    }, {
+      "id" : 5001,
+      "title" : "第五章 惊世的传承",
+      "capacity" : 8932
+    }, {
+      "id" : 5002,
+      "title" : "第六章 强者的对话",
+      "capacity" : 9774
+    }, {
+      "id" : 5003,
+      "title" : "第七章 会议",
+      "capacity" : 8739
+    }, {
+      "id" : 5004,
+      "title" : "第八章 立为圣女",
+      "capacity" : 6390
+    }, {
+      "id" : 5005,
+      "title" : "第九章 执念",
+      "capacity" : 7214
+    }, {
+      "id" : 5006,
+      "title" : "第十章 顿悟惹了祸",
+      "capacity" : 6979
+    }, {
+      "id" : 5007,
+      "title" : "第十一章 大战的前兆",
+      "capacity" : 6152
+    }, {
+      "id" : 5008,
+      "title" : "第十二章 大战的征兆（2）",
+      "capacity" : 7670
+    }, {
+      "id" : 5009,
+      "title" : "第13章 大战的前兆（3）",
+      "capacity" : 7892
+    }, {
+      "id" : 5010,
+      "title" : "第14章 逸天仙大战之琉璃星战役（一）",
+      "capacity" : 7086
+    }, {
+      "id" : 5011,
+      "title" : "第15章 逸天仙大战之琉璃星战役（二）",
+      "capacity" : 6854
+    }, {
+      "id" : 5012,
+      "title" : "第16章 逸天仙大战之琉璃星战役（三）",
+      "capacity" : 6207
+    } ]
+  }
+}

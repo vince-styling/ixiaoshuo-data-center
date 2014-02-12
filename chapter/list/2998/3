@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 104,
+    "list" : [ {
+      "id" : 4344,
+      "title" : "第101章",
+      "capacity" : 9525
+    }, {
+      "id" : 4345,
+      "title" : "第102章",
+      "capacity" : 9182
+    }, {
+      "id" : 4346,
+      "title" : "第103章",
+      "capacity" : 9155
+    }, {
+      "id" : 4347,
+      "title" : "第104章",
+      "capacity" : 7344
+    } ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 3,
+    "totalItemCount" : 118,
+    "list" : [ {
+      "id" : 3717,
+      "title" : "女生宿舍集体梦魇事件（一）",
+      "capacity" : 3878
+    }, {
+      "id" : 3718,
+      "title" : "二",
+      "capacity" : 4714
+    }, {
+      "id" : 3719,
+      "title" : "三",
+      "capacity" : 3774
+    }, {
+      "id" : 3720,
+      "title" : "四",
+      "capacity" : 3889
+    }, {
+      "id" : 3721,
+      "title" : "某业务楼闹鬼事件（一）",
+      "capacity" : 5564
+    }, {
+      "id" : 3722,
+      "title" : "（二）",
+      "capacity" : 4914
+    }, {
+      "id" : 3723,
+      "title" : "（三）",
+      "capacity" : 3206
+    }, {
+      "id" : 3724,
+      "title" : "（四）",
+      "capacity" : 4148
+    }, {
+      "id" : 3725,
+      "title" : "（五）",
+      "capacity" : 3968
+    }, {
+      "id" : 3726,
+      "title" : "头七还魂（一）",
+      "capacity" : 3860
+    }, {
+      "id" : 3727,
+      "title" : "（二）老张",
+      "capacity" : 3350
+    }, {
+      "id" : 3728,
+      "title" : "（三）长者心",
+      "capacity" : 7075
+    }, {
+      "id" : 3729,
+      "title" : "（四）偷天换日 嫁祸于人",
+      "capacity" : 7555
+    }, {
+      "id" : 3730,
+      "title" : "水鬼传说（一）",
+      "capacity" : 4793
+    }, {
+      "id" : 3731,
+      "title" : "（二）奇怪的水鬼",
+      "capacity" : 6626
+    }, {
+      "id" : 3732,
+      "title" : "（三）道士",
+      "capacity" : 6705
+    }, {
+      "id" : 3733,
+      "title" : "（四）揭穿",
+      "capacity" : 6401
+    }, {
+      "id" : 3734,
+      "title" : "学校镇邪传说（一）厕鬼",
+      "capacity" : 6368
+    }, {
+      "id" : 3735,
+      "title" : "（二）烂苹果",
+      "capacity" : 8856
+    }, {
+      "id" : 3736,
+      "title" : "（三）工地鬼棺",
+      "capacity" : 7055
+    }, {
+      "id" : 3737,
+      "title" : "（四）镇邪说",
+      "capacity" : 10259
+    }, {
+      "id" : 3738,
+      "title" : "（五）夜劫",
+      "capacity" : 9553
+    }, {
+      "id" : 3739,
+      "title" : "（六）还债",
+      "capacity" : 6504
+    }, {
+      "id" : 3740,
+      "title" : "乡间小路闹鬼传说（一）",
+      "capacity" : 6236
+    }, {
+      "id" : 3741,
+      "title" : "（二）鬼路",
+      "capacity" : 11297
+    }, {
+      "id" : 3742,
+      "title" : "（三）悲剧",
+      "capacity" : 9101
+    }, {
+      "id" : 3743,
+      "title" : "野鬼叫卖（一）",
+      "capacity" : 3201
+    }, {
+      "id" : 3744,
+      "title" : "（二）鬼节之夜",
+      "capacity" : 3157
+    }, {
+      "id" : 3745,
+      "title" : "三混沌摊",
+      "capacity" : 2343
+    }, {
+      "id" : 3746,
+      "title" : "四怪异的老板",
+      "capacity" : 1647
+    }, {
+      "id" : 3747,
+      "title" : "五秘事",
+      "capacity" : 1728
+    }, {
+      "id" : 3748,
+      "title" : "六往事",
+      "capacity" : 1855
+    }, {
+      "id" : 3749,
+      "title" : "七中招",
+      "capacity" : 1350
+    }, {
+      "id" : 3750,
+      "title" : "九呕吐",
+      "capacity" : 1263
+    }, {
+      "id" : 3751,
+      "title" : "十端倪",
+      "capacity" : 1439
+    }, {
+      "id" : 3752,
+      "title" : "十一冥币",
+      "capacity" : 1188
+    }, {
+      "id" : 3753,
+      "title" : "十二飘",
+      "capacity" : 475
+    }, {
+      "id" : 3754,
+      "title" : "十三寻",
+      "capacity" : 990
+    }, {
+      "id" : 3755,
+      "title" : "十四清洁工",
+      "capacity" : 1212
+    }, {
+      "id" : 3756,
+      "title" : "十五老鼠肉",
+      "capacity" : 1128
+    }, {
+      "id" : 3757,
+      "title" : "十六巷子",
+      "capacity" : 640
+    }, {
+      "id" : 3758,
+      "title" : "十七鼠尸",
+      "capacity" : 1061
+    }, {
+      "id" : 3759,
+      "title" : "十八恶心",
+      "capacity" : 706
+    }, {
+      "id" : 3760,
+      "title" : "水泥墙",
+      "capacity" : 631
+    }, {
+      "id" : 3761,
+      "title" : "困境",
+      "capacity" : 941
+    }, {
+      "id" : 3762,
+      "title" : "愤怒",
+      "capacity" : 595
+    }, {
+      "id" : 3763,
+      "title" : "合伙",
+      "capacity" : 704
+    }, {
+      "id" : 3764,
+      "title" : "光",
+      "capacity" : 635
+    }, {
+      "id" : 3765,
+      "title" : "凝固的时间",
+      "capacity" : 545
+    }, {
+      "id" : 3766,
+      "title" : "慌",
+      "capacity" : 665
+    } ]
+  }
+}

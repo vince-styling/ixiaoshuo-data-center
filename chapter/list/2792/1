@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 3976,
+      "title" : "chapter.01,1.第一章",
+      "capacity" : 9448
+    }, {
+      "id" : 3977,
+      "title" : "2.第二章",
+      "capacity" : 5739
+    }, {
+      "id" : 3978,
+      "title" : "3.第三章",
+      "capacity" : 7309
+    }, {
+      "id" : 3979,
+      "title" : "4.第四章",
+      "capacity" : 15659
+    } ]
+  }
+}

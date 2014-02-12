@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 3569,
+      "title" : "第一章 林安然回来了",
+      "capacity" : 11606
+    }, {
+      "id" : 3570,
+      "title" : "第二章 暗藏玄机的会议",
+      "capacity" : 6030
+    }, {
+      "id" : 3571,
+      "title" : "第三章 不要抢我的糖果",
+      "capacity" : 5076
+    } ]
+  }
+}

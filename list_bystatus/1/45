@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 45,
+    "totalPageCount" : 78,
+    "totalItemCount" : 1542,
+    "list" : [ {
+      "id" : 3171,
+      "name" : "豪门冷少：撞上复仇女王",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16755.jpg",
+      "summary" : "三年前的一次重逢，接踵而至的却是三年的梦魇……三年后，陈婧文再次踏上熟悉的城市，迎接她的是怎么样的际",
+      "updateStatus" : 1,
+      "capacity" : 301830,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2490,
+      "name" : "彩云国之一杯茶一辈子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18664.jpg",
+      "summary" : "从对爱情误以为的崇拜，直到离去时才知道伤心与痛苦，时间的流逝，毁去的容颜，经过无声的阶段，才终于知道",
+      "updateStatus" : 1,
+      "capacity" : 5806032,
+      "catName" : "同人其他"
+    }, {
+      "id" : 3710,
+      "name" : "最后一瓶冰红茶",
+      "coverUrl" : "",
+      "summary" : "那年喝过的冰红茶飘落风中，那年夏天的爱何去何从。",
+      "updateStatus" : 1,
+      "capacity" : 356416,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3739,
+      "name" : "狐媚天下：妖娆娘子腹黑爷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17201.jpg",
+      "summary" : "第一世，宝婵还是小十三的侍女，心心念念的做了芙蓉脆枣糕端到了书房，却不知怎生惹了我们十三爷不高兴，慌",
+      "updateStatus" : 1,
+      "capacity" : 381629,
+      "catName" : "仙侠修真"
+    }, {
+      "id" : 2672,
+      "name" : "迷雾豪门：诱妻上瘾",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45500.jpg",
+      "summary" : "“夏浅若，我们的一开始，不过就是逢场作戏”他可以心狠，可以手辣，却惟独对夏浅若做不到冷血心肠。一时的",
+      "updateStatus" : 1,
+      "capacity" : 1644621,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3616,
+      "name" : "重生商女之总裁请自重",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21944.jpg",
+      "summary" : "她是来自古代的一缕幽魂，冥冥中却来到了这个所谓人人平等，自由恋爱的现代世界，可是就在她二十四岁生日的",
+      "updateStatus" : 1,
+      "capacity" : 13094,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2128,
+      "name" : "幻莫一世，情殇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46956.jpg",
+      "summary" : "于族，她是万众瞩目的灵术师，于情，她是背弃了所有的情殇之魔，她只求得苍生平安，却不得不舍去全部身心。",
+      "updateStatus" : 1,
+      "capacity" : 3064791,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 3310,
+      "name" : "龙级猎人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20583.jpg",
+      "summary" : "她曾经是哥哥身边的跟屁虫，整天无忧无虑地缠着哥哥买这买那，拥有着天下间最天真的笑容。他曾经是学院的废",
+      "updateStatus" : 1,
+      "capacity" : 756599,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2743,
+      "name" : "青羽记",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15091.jpg",
+      "summary" : "家族守护神的美女继承人，拥有魔瞳的银发美少女，江湖第一捕的娇蛮妹妹，柔情似水的穷苦红颜，六扇门一代冷",
+      "updateStatus" : 1,
+      "capacity" : 1533338,
+      "catName" : "仙侠修真"
+    }, {
+      "id" : 3504,
+      "name" : "《心惜之落雪之殇》",
+      "coverUrl" : "",
+      "summary" : "繁星闪烁着耀眼的光华，他的出世，斗转星移。命运的辗轮已经开启，那满是疮痍的灵魂见怎样辗转，他和她还会",
+      "updateStatus" : 1,
+      "capacity" : 1097853,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 3223,
+      "name" : "风吹叶舞意悠然",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45334.jpg",
+      "summary" : "前世忠于爱情，却换来背叛今生愿享亲情，却终遭抛弃那么，就追求自由吧爱恨情仇悲欢离合我自悠然，笑看这世",
+      "updateStatus" : 1,
+      "capacity" : 794234,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 3695,
+      "name" : "大叔你要还我钱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46095.jpg",
+      "summary" : "下雨的夜，醉酒的人，孤身在马路上的小女孩，是命运的注定还是上天的安排？当命运的齿轮开始转动，又是谁改",
+      "updateStatus" : 1,
+      "capacity" : 497769,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2592,
+      "name" : "离途",
+      "coverUrl" : "",
+      "summary" : "我将踏上归程，亦或离途，只为那残破半垣的家乡。有谁听得见我泣血涟涟？可见我赤足立在南江之畔，寻那前生",
+      "updateStatus" : 1,
+      "capacity" : 5653043,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3269,
+      "name" : "时空之泪鸢尾花",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42538.jpg",
+      "summary" : "她听到这里觉得好幸福，好难过；胸口明明是满满的幸福，金蓝色眼泪却不停地往下掉，像天空的眼泪在阳光下闪",
+      "updateStatus" : 1,
+      "capacity" : 162212,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 3207,
+      "name" : "完美小娇妻之变脸",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20682.jpg",
+      "summary" : "上得了厅堂，下得了厨房；扮得了萝莉，演得了女王；听得了音乐会，吃得了大排档！虐心恋大升级！神秘男人的",
+      "updateStatus" : 1,
+      "capacity" : 1651445,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2555,
+      "name" : "嫁个如意郎君",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47760.jpg",
+      "summary" : "男人也有三从四德，“太太命令要听从，太太出门要跟从，太太说错要盲从”，“太太花钱要舍得，太太化妆要等",
+      "updateStatus" : 1,
+      "capacity" : 4322950,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3692,
+      "name" : "恶魔承传者",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_2037.jpg",
+      "summary" : "自古成者王、败者寇，让我恶魔的拳头来告诉你。披着白衣服的光明信徒们！你们穿白衣并不代表光明，是因为你",
+      "updateStatus" : 1,
+      "capacity" : 181690,
+      "catName" : "仙侠修真"
+    }, {
+      "id" : 2986,
+      "name" : "错过的爱情：总裁放过我",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44286.jpg",
+      "summary" : "林依然站在皇家大酒店门口，看着手中的vip金卡，眼睛有些被耀眼的金色漾花，自己真的要进去吗？或许有些",
+      "updateStatus" : 1,
+      "capacity" : 4041832,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2718,
+      "name" : "卿云意",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46971.jpg",
+      "summary" : "凤写意：“如果有一天，天下与我起了冲突，你会选什么？”听闻此言，那张倾城的脸上划过一抹苦涩，她原本以",
+      "updateStatus" : 1,
+      "capacity" : 8236255,
+      "catName" : "历史架空"
+    }, {
+      "id" : 2561,
+      "name" : "墨上清歌",
+      "coverUrl" : "",
+      "summary" : "她，素手芊芊，银发飘飘，在这一世她是过客，还是路人，是什么让她一度的坚强坚强，直到最后一刻都没有放弃",
+      "updateStatus" : 1,
+      "capacity" : 2116960,
+      "catName" : "仙侠修真"
+    } ]
+  }
+}

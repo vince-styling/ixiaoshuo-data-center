@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 10,
+    "list" : [ {
+      "id" : 3541,
+      "title" : "第一章 月圆",
+      "capacity" : 7251
+    }, {
+      "id" : 3542,
+      "title" : "第二章 缘起",
+      "capacity" : 8173
+    }, {
+      "id" : 3543,
+      "title" : "第三章 北海妖龙、南海蝴蝶",
+      "capacity" : 5638
+    }, {
+      "id" : 3544,
+      "title" : "第四章 逃离",
+      "capacity" : 8079
+    }, {
+      "id" : 3545,
+      "title" : "第五章 婕虞花",
+      "capacity" : 4869
+    }, {
+      "id" : 3546,
+      "title" : "第六章 相逢",
+      "capacity" : 8283
+    }, {
+      "id" : 3547,
+      "title" : "第七章 绾发",
+      "capacity" : 10820
+    }, {
+      "id" : 3548,
+      "title" : "第八章妙音碧落",
+      "capacity" : 6125
+    }, {
+      "id" : 3549,
+      "title" : "第九章驻足",
+      "capacity" : 8092
+    }, {
+      "id" : 3550,
+      "title" : "第十章 昭云渡",
+      "capacity" : 8768
+    } ]
+  }
+}

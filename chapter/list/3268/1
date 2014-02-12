@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 1286,
+      "title" : "第一章 心酸离去",
+      "capacity" : 6215
+    }, {
+      "id" : 1287,
+      "title" : "第二章 拜把子",
+      "capacity" : 3619
+    }, {
+      "id" : 1288,
+      "title" : "第三章 老三威武（一）",
+      "capacity" : 3199
+    }, {
+      "id" : 1289,
+      "title" : "第四章 老三威武（二）",
+      "capacity" : 3034
+    }, {
+      "id" : 1290,
+      "title" : "第五章 老三威武（三）",
+      "capacity" : 3056
+    }, {
+      "id" : 1291,
+      "title" : "第六章 老三威武（四）",
+      "capacity" : 3672
+    }, {
+      "id" : 1292,
+      "title" : "第七章 纸条惹的祸",
+      "capacity" : 4237
+    }, {
+      "id" : 1293,
+      "title" : "第八章 校园暴力（上）",
+      "capacity" : 3182
+    }, {
+      "id" : 1294,
+      "title" : "第九章 校园暴力（中）",
+      "capacity" : 3887
+    }, {
+      "id" : 1295,
+      "title" : "第十章 校园暴力（下）",
+      "capacity" : 4094
+    }, {
+      "id" : 1296,
+      "title" : "第十一章 夜闯熊帮（上）",
+      "capacity" : 3133
+    } ]
+  }
+}

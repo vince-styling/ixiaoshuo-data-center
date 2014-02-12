@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 10,
+    "list" : [ {
+      "id" : 2943,
+      "title" : "第一章 属性要自己立",
+      "capacity" : 9127
+    }, {
+      "id" : 2944,
+      "title" : "第二章 我是要成为花魁的男人",
+      "capacity" : 11334
+    }, {
+      "id" : 2945,
+      "title" : "第三章 敢不收我为徒试试",
+      "capacity" : 9403
+    }, {
+      "id" : 2946,
+      "title" : "第四章 花魁争夺战1",
+      "capacity" : 8630
+    }, {
+      "id" : 2947,
+      "title" : "第五章 花魁争夺战2",
+      "capacity" : 6426
+    }, {
+      "id" : 2948,
+      "title" : "第六章 如是如是",
+      "capacity" : 15498
+    }, {
+      "id" : 2949,
+      "title" : "第七章 好像出名了",
+      "capacity" : 9386
+    }, {
+      "id" : 2950,
+      "title" : "第八章 苏历",
+      "capacity" : 9355
+    }, {
+      "id" : 2951,
+      "title" : "第九章 身世",
+      "capacity" : 11678
+    }, {
+      "id" : 2952,
+      "title" : "第十章 真相往往难以接受1",
+      "capacity" : 10198
+    } ]
+  }
+}

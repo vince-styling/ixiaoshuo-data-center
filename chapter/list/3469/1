@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 2794,
+      "title" : "楔子",
+      "capacity" : 4295
+    }, {
+      "id" : 2795,
+      "title" : "第一章：多谢你的尿",
+      "capacity" : 10685
+    }, {
+      "id" : 2796,
+      "title" : "第二章：迟早会变强",
+      "capacity" : 5755
+    }, {
+      "id" : 2797,
+      "title" : "第三章：不被待见的女儿",
+      "capacity" : 6190
+    }, {
+      "id" : 2798,
+      "title" : "第四章：夺取幻兽（1）",
+      "capacity" : 4422
+    } ]
+  }
+}

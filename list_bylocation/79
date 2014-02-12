@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 79,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2420,
+      "name" : "双生之恋",
+      "updateStatus" : 1,
+      "distance" : 7167,
+      "memberId" : 5375
+    }, {
+      "id" : 3024,
+      "name" : "爱错",
+      "updateStatus" : 1,
+      "distance" : 4766,
+      "memberId" : 7349
+    }, {
+      "id" : 2680,
+      "name" : "若要爱，非你不可",
+      "updateStatus" : 1,
+      "distance" : 6961,
+      "memberId" : 1424
+    }, {
+      "id" : 2343,
+      "name" : "五界九州乱",
+      "updateStatus" : 1,
+      "distance" : 3090,
+      "memberId" : 7264
+    }, {
+      "id" : 3490,
+      "name" : "舍友是公主大人",
+      "updateStatus" : 1,
+      "distance" : 4588,
+      "memberId" : 4040
+    }, {
+      "id" : 3435,
+      "name" : "爱在大理",
+      "updateStatus" : 1,
+      "distance" : 1300,
+      "memberId" : 7207
+    }, {
+      "id" : 3693,
+      "name" : "综漫——萝莉女神的养成计划",
+      "updateStatus" : 1,
+      "distance" : 6200,
+      "memberId" : 1964
+    }, {
+      "id" : 3125,
+      "name" : "竹马太凶残",
+      "updateStatus" : 1,
+      "distance" : 4926,
+      "memberId" : 1761
+    }, {
+      "id" : 2403,
+      "name" : "愤怒的萤火虫",
+      "updateStatus" : 1,
+      "distance" : 4610,
+      "memberId" : 7345
+    }, {
+      "id" : 2436,
+      "name" : "爱不过匆匆一片点缀",
+      "updateStatus" : 1,
+      "distance" : 9432,
+      "memberId" : 6189
+    }, {
+      "id" : 2575,
+      "name" : "有生之年",
+      "updateStatus" : 1,
+      "distance" : 5810,
+      "memberId" : 1543
+    }, {
+      "id" : 2679,
+      "name" : "雪莲的桔梗花",
+      "updateStatus" : 1,
+      "distance" : 7198,
+      "memberId" : 5076
+    }, {
+      "id" : 3422,
+      "name" : "五十弦",
+      "updateStatus" : 1,
+      "distance" : 5615,
+      "memberId" : 1334
+    }, {
+      "id" : 2686,
+      "name" : "罂粟：血蔷薇",
+      "updateStatus" : 1,
+      "distance" : 8794,
+      "memberId" : 4377
+    }, {
+      "id" : 3425,
+      "name" : "网王之温柔缱绻的岁月",
+      "updateStatus" : 1,
+      "distance" : 1667,
+      "memberId" : 5551
+    }, {
+      "id" : 2807,
+      "name" : "忍住不说我爱你",
+      "updateStatus" : 1,
+      "distance" : 9624,
+      "memberId" : 7006
+    }, {
+      "id" : 2610,
+      "name" : "调皮千金异空游之拐跑王爷",
+      "updateStatus" : 1,
+      "distance" : 669,
+      "memberId" : 6970
+    }, {
+      "id" : 3142,
+      "name" : "重生女帝之桃花袭来",
+      "updateStatus" : 1,
+      "distance" : 8252,
+      "memberId" : 7001
+    }, {
+      "id" : 3210,
+      "name" : "自卑女孩的vip恋遇",
+      "updateStatus" : 1,
+      "distance" : 2927,
+      "memberId" : 5242
+    }, {
+      "id" : 3015,
+      "name" : "三境鏖锋录",
+      "updateStatus" : 1,
+      "distance" : 6765,
+      "memberId" : 6395
+    } ]
+  }
+}

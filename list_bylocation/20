@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 20,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2129,
+      "name" : "美人出逃：别惹弃妃",
+      "updateStatus" : 1,
+      "distance" : 4569,
+      "memberId" : 1864
+    }, {
+      "id" : 2971,
+      "name" : "穿越之皇后是富婆",
+      "updateStatus" : 1,
+      "distance" : 6973,
+      "memberId" : 8645
+    }, {
+      "id" : 2572,
+      "name" : "魔妃逆九天",
+      "updateStatus" : 1,
+      "distance" : 8017,
+      "memberId" : 5121
+    }, {
+      "id" : 2509,
+      "name" : "明月何故照秦时",
+      "updateStatus" : 2,
+      "distance" : 3305,
+      "memberId" : 6325
+    }, {
+      "id" : 2082,
+      "name" : "魔妃惑君心",
+      "updateStatus" : 1,
+      "distance" : 6249,
+      "memberId" : 8096
+    }, {
+      "id" : 2173,
+      "name" : "西游前传：天上掉下个沙和尚",
+      "updateStatus" : 1,
+      "distance" : 9685,
+      "memberId" : 3996
+    }, {
+      "id" : 2427,
+      "name" : "生活，就是一个园",
+      "updateStatus" : 1,
+      "distance" : 3272,
+      "memberId" : 2082
+    }, {
+      "id" : 3179,
+      "name" : "情深几许",
+      "updateStatus" : 1,
+      "distance" : 4949,
+      "memberId" : 8128
+    }, {
+      "id" : 3546,
+      "name" : "红颜若雪：情倾后宫",
+      "updateStatus" : 1,
+      "distance" : 6686,
+      "memberId" : 2006
+    }, {
+      "id" : 2341,
+      "name" : "系统之我的真命天子",
+      "updateStatus" : 1,
+      "distance" : 5556,
+      "memberId" : 8575
+    }, {
+      "id" : 3081,
+      "name" : "爱，谨行时光",
+      "updateStatus" : 1,
+      "distance" : 2550,
+      "memberId" : 2341
+    }, {
+      "id" : 3195,
+      "name" : "绝妃善类：倾城妖狐魅天下",
+      "updateStatus" : 1,
+      "distance" : 7616,
+      "memberId" : 4835
+    }, {
+      "id" : 3181,
+      "name" : "凝思阁",
+      "updateStatus" : 1,
+      "distance" : 6429,
+      "memberId" : 1887
+    }, {
+      "id" : 3474,
+      "name" : "穿越还珠之乾隆是我的",
+      "updateStatus" : 1,
+      "distance" : 4162,
+      "memberId" : 5684
+    }, {
+      "id" : 2209,
+      "name" : "高贵的囚徒",
+      "updateStatus" : 1,
+      "distance" : 4519,
+      "memberId" : 2625
+    }, {
+      "id" : 3241,
+      "name" : "王妃不优雅：玉面王爷掉线妃",
+      "updateStatus" : 1,
+      "distance" : 8494,
+      "memberId" : 5747
+    }, {
+      "id" : 3519,
+      "name" : "火影.平静的海面上泛起恋爱的浪花",
+      "updateStatus" : 1,
+      "distance" : 1240,
+      "memberId" : 1054
+    }, {
+      "id" : 2716,
+      "name" : "风华绝代红颜决",
+      "updateStatus" : 1,
+      "distance" : 4950,
+      "memberId" : 1884
+    }, {
+      "id" : 2335,
+      "name" : "穿越之我的精彩人生",
+      "updateStatus" : 1,
+      "distance" : 8742,
+      "memberId" : 5995
+    }, {
+      "id" : 2274,
+      "name" : "世家贵女",
+      "updateStatus" : 1,
+      "distance" : 5379,
+      "memberId" : 5967
+    } ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 3341,
+      "title" : "第一场戏：前奏",
+      "capacity" : 7289
+    }, {
+      "id" : 3342,
+      "title" : "第二幕：婚变",
+      "capacity" : 7649
+    }, {
+      "id" : 3343,
+      "title" : "第三幕：试婚",
+      "capacity" : 7336
+    }, {
+      "id" : 3344,
+      "title" : "第四幕：习惯",
+      "capacity" : 8059
+    } ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 2538,
+      "title" : "第一章",
+      "capacity" : 6543
+    }, {
+      "id" : 2539,
+      "title" : "第二章",
+      "capacity" : 7002
+    }, {
+      "id" : 2540,
+      "title" : "第三章",
+      "capacity" : 6617
+    }, {
+      "id" : 2541,
+      "title" : "第四章",
+      "capacity" : 6251
+    }, {
+      "id" : 2542,
+      "title" : "第五章",
+      "capacity" : 5376
+    }, {
+      "id" : 2543,
+      "title" : "第六章",
+      "capacity" : 5226
+    } ]
+  }
+}

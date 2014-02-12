@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 2294,
+      "title" : "第一章 说“茄子”",
+      "capacity" : 4194
+    }, {
+      "id" : 2295,
+      "title" : "第二章 那只再也找不回的猫",
+      "capacity" : 5037
+    }, {
+      "id" : 2296,
+      "title" : "第三章 敏柯是小偷",
+      "capacity" : 3446
+    } ]
+  }
+}

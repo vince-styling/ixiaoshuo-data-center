@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 4891,
+      "title" : "001章 我们分手吧",
+      "capacity" : 5045
+    }, {
+      "id" : 4892,
+      "title" : "002章 我失恋了",
+      "capacity" : 4441
+    }, {
+      "id" : 4893,
+      "title" : "003章 奇怪的戒指",
+      "capacity" : 3946
+    }, {
+      "id" : 4894,
+      "title" : "004章 奇怪的梦",
+      "capacity" : 3506
+    }, {
+      "id" : 4895,
+      "title" : "005章 登山",
+      "capacity" : 4254
+    }, {
+      "id" : 4896,
+      "title" : "006章 穿越了",
+      "capacity" : 4368
+    }, {
+      "id" : 4897,
+      "title" : "007章 失忆了",
+      "capacity" : 4004
+    }, {
+      "id" : 4898,
+      "title" : "008章 讲明身份",
+      "capacity" : 3987
+    }, {
+      "id" : 4899,
+      "title" : "009章 简夏茉出嫁",
+      "capacity" : 4319
+    }, {
+      "id" : 4900,
+      "title" : "010章 不幸遇难",
+      "capacity" : 3749
+    }, {
+      "id" : 4901,
+      "title" : "011章 逛集市",
+      "capacity" : 4289
+    } ]
+  }
+}

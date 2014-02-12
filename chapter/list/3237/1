@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 12,
+    "list" : [ {
+      "id" : 4378,
+      "title" : "第一章 楔子",
+      "capacity" : 15806
+    }, {
+      "id" : 4379,
+      "title" : "第二章 司徒家的三小姐",
+      "capacity" : 10310
+    }, {
+      "id" : 4380,
+      "title" : "第三章 司徒谦逼婚",
+      "capacity" : 8167
+    }, {
+      "id" : 4381,
+      "title" : "第四章 初遇凌王",
+      "capacity" : 6111
+    }, {
+      "id" : 4382,
+      "title" : "第五章 凌亲王",
+      "capacity" : 5449
+    }, {
+      "id" : 4383,
+      "title" : "第六章 艳惊四座",
+      "capacity" : 6941
+    }, {
+      "id" : 4384,
+      "title" : "第七章 断情绝义",
+      "capacity" : 9106
+    }, {
+      "id" : 4385,
+      "title" : "第八章 谈婚论嫁",
+      "capacity" : 8983
+    }, {
+      "id" : 4386,
+      "title" : "第九章 凤凰争艳",
+      "capacity" : 6712
+    }, {
+      "id" : 4387,
+      "title" : "第十章 小王爷",
+      "capacity" : 9240
+    }, {
+      "id" : 4388,
+      "title" : "第十一章 玉绫公主",
+      "capacity" : 7551
+    }, {
+      "id" : 4389,
+      "title" : "第十二章 赐婚",
+      "capacity" : 72
+    } ]
+  }
+}

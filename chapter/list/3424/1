@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 72,
+    "list" : [ {
+      "id" : 4541,
+      "title" : "序章 引言与介绍",
+      "capacity" : 4240
+    }, {
+      "id" : 4542,
+      "title" : "第一章 林祥",
+      "capacity" : 9782
+    }, {
+      "id" : 4543,
+      "title" : "第二章 领取任务",
+      "capacity" : 9981
+    }, {
+      "id" : 4544,
+      "title" : "第三章 炼制傀儡",
+      "capacity" : 9721
+    }, {
+      "id" : 4545,
+      "title" : "第四章 血冠狐",
+      "capacity" : 10557
+    }, {
+      "id" : 4546,
+      "title" : "第五章 迷天圣狐",
+      "capacity" : 10499
+    }, {
+      "id" : 4547,
+      "title" : "第六章 开始",
+      "capacity" : 9461
+    }, {
+      "id" : 4548,
+      "title" : "第七章 仙元宝塔",
+      "capacity" : 9295
+    }, {
+      "id" : 4549,
+      "title" : "第八章 阴阳大诅咒",
+      "capacity" : 9587
+    }, {
+      "id" : 4550,
+      "title" : "第九章 九座雕像九座墓碑",
+      "capacity" : 9420
+    }, {
+      "id" : 4551,
+      "title" : "第十章 魔尸傀儡",
+      "capacity" : 9065
+    }, {
+      "id" : 4552,
+      "title" : "第十一章 冤家路窄",
+      "capacity" : 9079
+    }, {
+      "id" : 4553,
+      "title" : "第十二章 开始行动",
+      "capacity" : 9391
+    }, {
+      "id" : 4554,
+      "title" : "第十三章 天水洞窟",
+      "capacity" : 9335
+    }, {
+      "id" : 4555,
+      "title" : "第十四章 热闹的天水洞窟",
+      "capacity" : 9524
+    }, {
+      "id" : 4556,
+      "title" : "第十五章 魔尸凶性",
+      "capacity" : 9358
+    }, {
+      "id" : 4557,
+      "title" : "第十六章 诅咒显现",
+      "capacity" : 9421
+    }, {
+      "id" : 4558,
+      "title" : "第十七章 崩溃的三女",
+      "capacity" : 9514
+    }, {
+      "id" : 4559,
+      "title" : "第十八章 新的身份",
+      "capacity" : 9234
+    }, {
+      "id" : 4560,
+      "title" : "第十九章 北灵城赵家",
+      "capacity" : 9536
+    }, {
+      "id" : 4561,
+      "title" : "第二十章 道侣",
+      "capacity" : 9486
+    }, {
+      "id" : 4562,
+      "title" : "第二十一章 灵妖塔与万妖洞",
+      "capacity" : 9317
+    }, {
+      "id" : 4563,
+      "title" : "第二十二章 决择与狩猎开始",
+      "capacity" : 9198
+    }, {
+      "id" : 4564,
+      "title" : "第二十三章 狩猎崖",
+      "capacity" : 9816
+    }, {
+      "id" : 4565,
+      "title" : "第二十四章 山洞中的一切",
+      "capacity" : 72
+    }, {
+      "id" : 4566,
+      "title" : "第二十五章 白袍老者",
+      "capacity" : 9556
+    }, {
+      "id" : 4567,
+      "title" : "第二十六章 风老与运雷珠",
+      "capacity" : 9224
+    }, {
+      "id" : 4568,
+      "title" : "第二十七章 血家血离",
+      "capacity" : 9513
+    }, {
+      "id" : 4569,
+      "title" : "第二十八章 排名",
+      "capacity" : 9627
+    }, {
+      "id" : 4570,
+      "title" : "第二十九章 震惊",
+      "capacity" : 9335
+    }, {
+      "id" : 4571,
+      "title" : "第三十章 阴阳运雷诀",
+      "capacity" : 9482
+    }, {
+      "id" : 4572,
+      "title" : "第三十一章 进塔",
+      "capacity" : 9582
+    }, {
+      "id" : 4573,
+      "title" : "第三十二章 妖胎蛟龙",
+      "capacity" : 9360
+    }, {
+      "id" : 4574,
+      "title" : "第三十三章 塔内疯狂",
+      "capacity" : 9638
+    }, {
+      "id" : 4575,
+      "title" : "第三十四章 出塔",
+      "capacity" : 9314
+    }, {
+      "id" : 4576,
+      "title" : "第三十五章 血脉融魂",
+      "capacity" : 9409
+    }, {
+      "id" : 4577,
+      "title" : "第三十六章 云阳城",
+      "capacity" : 9493
+    }, {
+      "id" : 4578,
+      "title" : "第三十七章 许修",
+      "capacity" : 9639
+    }, {
+      "id" : 4579,
+      "title" : "第三十八章 打爆",
+      "capacity" : 9375
+    }, {
+      "id" : 4580,
+      "title" : "第三十九章 合仙城外城",
+      "capacity" : 9540
+    }, {
+      "id" : 4581,
+      "title" : "第四十章 发威",
+      "capacity" : 9578
+    }, {
+      "id" : 4582,
+      "title" : "第四十一章 凤鸣草",
+      "capacity" : 9773
+    }, {
+      "id" : 4583,
+      "title" : "第四十二章 逼宫",
+      "capacity" : 9318
+    }, {
+      "id" : 4584,
+      "title" : "第四十三章 刘杀",
+      "capacity" : 9212
+    }, {
+      "id" : 4585,
+      "title" : "第四十四章 冲突",
+      "capacity" : 9539
+    }, {
+      "id" : 4586,
+      "title" : "第四十五章 结丹期强者",
+      "capacity" : 9639
+    }, {
+      "id" : 4587,
+      "title" : "第四十六章 捆仙绳",
+      "capacity" : 9641
+    }, {
+      "id" : 4588,
+      "title" : "第四十七章 女修炉鼎",
+      "capacity" : 8822
+    }, {
+      "id" : 4589,
+      "title" : "第四十八章 拍卖风波",
+      "capacity" : 9533
+    }, {
+      "id" : 4590,
+      "title" : "第四十九章 杀上门去",
+      "capacity" : 9357
+    } ]
+  }
+}

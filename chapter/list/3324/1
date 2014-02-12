@@ -1,0 +1,106 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 24,
+    "list" : [ {
+      "id" : 1023,
+      "title" : "遇见绝色",
+      "capacity" : 5476
+    }, {
+      "id" : 1024,
+      "title" : "青楼",
+      "capacity" : 3935
+    }, {
+      "id" : 1025,
+      "title" : "倾城美人是美男",
+      "capacity" : 3304
+    }, {
+      "id" : 1026,
+      "title" : "若烟",
+      "capacity" : 4715
+    }, {
+      "id" : 1027,
+      "title" : "与某绝色“同床共枕”",
+      "capacity" : 2881
+    }, {
+      "id" : 1028,
+      "title" : "俺爹娘告诉我做人要矜持",
+      "capacity" : 2891
+    }, {
+      "id" : 1029,
+      "title" : "幻术",
+      "capacity" : 3402
+    }, {
+      "id" : 1030,
+      "title" : "哭的理由",
+      "capacity" : 3322
+    }, {
+      "id" : 1031,
+      "title" : "茫然一吻",
+      "capacity" : 3061
+    }, {
+      "id" : 1032,
+      "title" : "人品好否？",
+      "capacity" : 3698
+    }, {
+      "id" : 1033,
+      "title" : "用命在赌",
+      "capacity" : 4977
+    }, {
+      "id" : 1034,
+      "title" : "千般回眸",
+      "capacity" : 2584
+    }, {
+      "id" : 1035,
+      "title" : "妖花",
+      "capacity" : 5160
+    }, {
+      "id" : 1036,
+      "title" : "躺着也中枪",
+      "capacity" : 2147
+    }, {
+      "id" : 1037,
+      "title" : "武林大会需要的是傻子",
+      "capacity" : 4679
+    }, {
+      "id" : 1038,
+      "title" : "绿发绿眼绿衣",
+      "capacity" : 4265
+    }, {
+      "id" : 1039,
+      "title" : "心若楚歌",
+      "capacity" : 3234
+    }, {
+      "id" : 1040,
+      "title" : "据说我是个奇迹",
+      "capacity" : 2763
+    }, {
+      "id" : 1041,
+      "title" : "火凰",
+      "capacity" : 2988
+    }, {
+      "id" : 1042,
+      "title" : "心有灵犀",
+      "capacity" : 2147
+    }, {
+      "id" : 1043,
+      "title" : "墨尘番外1",
+      "capacity" : 2326
+    }, {
+      "id" : 1044,
+      "title" : "墨尘番外2",
+      "capacity" : 2048
+    }, {
+      "id" : 1045,
+      "title" : "火眸",
+      "capacity" : 2427
+    }, {
+      "id" : 1046,
+      "title" : "云氏血案",
+      "capacity" : 2461
+    } ]
+  }
+}

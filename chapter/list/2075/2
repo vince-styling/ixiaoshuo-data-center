@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 57,
+    "list" : [ {
+      "id" : 3086,
+      "title" : "第二章 真一大师（38）",
+      "capacity" : 3328
+    }, {
+      "id" : 3087,
+      "title" : "第二章 真一大师（39）",
+      "capacity" : 4121
+    }, {
+      "id" : 3088,
+      "title" : "第三章 红衣（1）",
+      "capacity" : 3290
+    }, {
+      "id" : 3089,
+      "title" : "第三章 红衣（2）",
+      "capacity" : 3139
+    }, {
+      "id" : 3090,
+      "title" : "第三章 红衣（3）",
+      "capacity" : 3179
+    }, {
+      "id" : 3091,
+      "title" : "第三章 红衣（4）",
+      "capacity" : 3112
+    }, {
+      "id" : 3092,
+      "title" : "第三章 红衣（5）",
+      "capacity" : 3083
+    } ]
+  }
+}

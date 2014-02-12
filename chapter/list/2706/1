@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 10,
+    "list" : [ {
+      "id" : 2711,
+      "title" : "001序幕：出现量行",
+      "capacity" : 10877
+    }, {
+      "id" : 2712,
+      "title" : "002历程：强者降临",
+      "capacity" : 11252
+    }, {
+      "id" : 2713,
+      "title" : "003历程：圣帝夫城",
+      "capacity" : 13634
+    }, {
+      "id" : 2714,
+      "title" : "004历程：遭遇夜袭",
+      "capacity" : 13680
+    }, {
+      "id" : 2715,
+      "title" : "005历程：五代异武",
+      "capacity" : 9202
+    }, {
+      "id" : 2716,
+      "title" : "006历程：酒馆庆功",
+      "capacity" : 11822
+    }, {
+      "id" : 2717,
+      "title" : "007历程：命运抉择",
+      "capacity" : 10315
+    }, {
+      "id" : 2718,
+      "title" : "008历程：佣兵的荣誉",
+      "capacity" : 9252
+    }, {
+      "id" : 2719,
+      "title" : "009历程：第七代影舞者",
+      "capacity" : 9888
+    }, {
+      "id" : 2720,
+      "title" : "010历程：迎接死亡",
+      "capacity" : 72
+    } ]
+  }
+}

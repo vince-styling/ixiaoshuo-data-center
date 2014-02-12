@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 2813,
+      "title" : "第一章 意外之外",
+      "capacity" : 8224
+    }, {
+      "id" : 2814,
+      "title" : "第二章 惊蛰之余",
+      "capacity" : 6959
+    }, {
+      "id" : 2815,
+      "title" : "第三章 逼婚",
+      "capacity" : 7460
+    }, {
+      "id" : 2816,
+      "title" : "第四章长见识之后该闪就闪",
+      "capacity" : 6697
+    }, {
+      "id" : 2817,
+      "title" : "第五章 波折VS惊艳",
+      "capacity" : 8261
+    }, {
+      "id" : 2818,
+      "title" : "第六章 就这么些个情况",
+      "capacity" : 8041
+    }, {
+      "id" : 2819,
+      "title" : "第七章 迎亲前奏",
+      "capacity" : 6739
+    }, {
+      "id" : 2820,
+      "title" : "第八章 娶媳妇去",
+      "capacity" : 7436
+    }, {
+      "id" : 2821,
+      "title" : "第九章 拜堂多动魄",
+      "capacity" : 6483
+    }, {
+      "id" : 2822,
+      "title" : "第十章 魂魄转起",
+      "capacity" : 6770
+    }, {
+      "id" : 2823,
+      "title" : "第十一章 稍微有点明白了",
+      "capacity" : 6603
+    }, {
+      "id" : 2824,
+      "title" : "第十二章 游玩而已",
+      "capacity" : 9200
+    }, {
+      "id" : 2825,
+      "title" : "第十三章 偶遇还是缘分",
+      "capacity" : 9498
+    }, {
+      "id" : 2826,
+      "title" : "第十四章 一波未平一波又起",
+      "capacity" : 9226
+    }, {
+      "id" : 2827,
+      "title" : "第十五章 苏府一夜",
+      "capacity" : 9593
+    }, {
+      "id" : 2828,
+      "title" : "第十六章 出嫁",
+      "capacity" : 9326
+    }, {
+      "id" : 2829,
+      "title" : "第十七章 貌似嫁错地方了",
+      "capacity" : 9130
+    }, {
+      "id" : 2830,
+      "title" : "第十八章 寻薇儿",
+      "capacity" : 9305
+    }, {
+      "id" : 2831,
+      "title" : "第十九章 凌乱",
+      "capacity" : 9212
+    } ]
+  }
+}

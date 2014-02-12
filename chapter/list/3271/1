@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 50,
+    "list" : [ {
+      "id" : 4567,
+      "title" : "乃们不要紧张，一章节只要3分钱~！俺们生计全靠这点钱！",
+      "capacity" : 2236
+    }, {
+      "id" : 4568,
+      "title" : "VOL.0 半个结局",
+      "capacity" : 5676
+    }, {
+      "id" : 4569,
+      "title" : "VOL.1铁三角",
+      "capacity" : 9240
+    }, {
+      "id" : 4570,
+      "title" : "VOL.2一件大事",
+      "capacity" : 12671
+    }, {
+      "id" : 4571,
+      "title" : "VOL.3不追林文柯了",
+      "capacity" : 10981
+    }, {
+      "id" : 4572,
+      "title" : "VOL.4疯狗陆倾城",
+      "capacity" : 7666
+    }, {
+      "id" : 4573,
+      "title" : "VOL.5传言是打架的根本原因",
+      "capacity" : 7214
+    }, {
+      "id" : 4574,
+      "title" : "VOL.6别跟我妈一样教训我",
+      "capacity" : 7380
+    }, {
+      "id" : 4575,
+      "title" : "VOL.7意外，就是飞来横祸的意思",
+      "capacity" : 8948
+    }, {
+      "id" : 4576,
+      "title" : "VOL.8倾城，只要你高兴就好（1 ）",
+      "capacity" : 7309
+    }, {
+      "id" : 4577,
+      "title" : "VOL.9倾城，只要你高兴就好（2）",
+      "capacity" : 8267
+    }, {
+      "id" : 4578,
+      "title" : "VOL.10他们开始陷入一个沼泽",
+      "capacity" : 7148
+    }, {
+      "id" : 4579,
+      "title" : "VOL.11陆妈妈说，他很固执",
+      "capacity" : 7236
+    }, {
+      "id" : 4580,
+      "title" : "VOL.12煎饼回来了",
+      "capacity" : 5383
+    }, {
+      "id" : 4581,
+      "title" : "VOL.13有些话已经不能说了",
+      "capacity" : 7913
+    }, {
+      "id" : 4582,
+      "title" : "VOL.14瑕疵，碧玉",
+      "capacity" : 7067
+    }, {
+      "id" : 4583,
+      "title" : "VOL.15郁郁寡欢是种病",
+      "capacity" : 6519
+    }, {
+      "id" : 4584,
+      "title" : "VOL.16我分辨得清雨水和你眼泪",
+      "capacity" : 7226
+    }, {
+      "id" : 4585,
+      "title" : "VOL.17原来我早就有病了",
+      "capacity" : 9900
+    }, {
+      "id" : 4586,
+      "title" : "VOL.18谁说重逢喜悦",
+      "capacity" : 8224
+    }, {
+      "id" : 4587,
+      "title" : "VOL.19曾经我们幸福着吧",
+      "capacity" : 11521
+    }, {
+      "id" : 4588,
+      "title" : "VOL.20一群未知的不健全的人",
+      "capacity" : 7890
+    }, {
+      "id" : 4589,
+      "title" : "VOL.21她多贪婪，就算醉了还在拨撩他的心",
+      "capacity" : 7367
+    }, {
+      "id" : 4590,
+      "title" : "VOL.22那个背影，是漩涡，是风暴",
+      "capacity" : 4962
+    }, {
+      "id" : 4591,
+      "title" : "VOL.23难以捉摸的眼眸",
+      "capacity" : 6703
+    }, {
+      "id" : 4592,
+      "title" : "VOL.24过得比她还糟的人",
+      "capacity" : 6186
+    }, {
+      "id" : 4593,
+      "title" : "VOL.25被带入地狱的少女叫失足",
+      "capacity" : 7426
+    }, {
+      "id" : 4594,
+      "title" : "VOL.26尽管为你的左眼复仇好了",
+      "capacity" : 6395
+    }, {
+      "id" : 4595,
+      "title" : "VOL.27生活在充满泥泞的街道",
+      "capacity" : 7299
+    }, {
+      "id" : 4596,
+      "title" : "VOL.28这场戏叫“转折”",
+      "capacity" : 8198
+    }, {
+      "id" : 4597,
+      "title" : "VOL.29她的眼神那么明亮，甚至有些怪异",
+      "capacity" : 8509
+    }, {
+      "id" : 4598,
+      "title" : "VOL.30我要抢走你不珍惜的人",
+      "capacity" : 6766
+    }, {
+      "id" : 4599,
+      "title" : "VOL.31渐渐逼入边缘",
+      "capacity" : 6485
+    }, {
+      "id" : 4600,
+      "title" : "VOL.32一群怪胎，极端又畸形",
+      "capacity" : 7393
+    }, {
+      "id" : 4601,
+      "title" : "VOL.33在时间和情感重叠的阴影里热吻",
+      "capacity" : 6709
+    }, {
+      "id" : 4602,
+      "title" : "VOL.34荒唐的闹剧",
+      "capacity" : 6524
+    }, {
+      "id" : 4603,
+      "title" : "VOL.35我变态，并不是我自愿的",
+      "capacity" : 4826
+    }, {
+      "id" : 4604,
+      "title" : "VOL.36连陆倾城都不如",
+      "capacity" : 4368
+    }, {
+      "id" : 4605,
+      "title" : "VOL.37你不能毁了我儿子",
+      "capacity" : 5089
+    }, {
+      "id" : 4606,
+      "title" : "VOL.38本以为天平终于往我倾斜了",
+      "capacity" : 4487
+    }, {
+      "id" : 4607,
+      "title" : "VOL.39迎面而上的诱惑",
+      "capacity" : 3745
+    }, {
+      "id" : 4608,
+      "title" : "VOL.40他的存在该如何抹去（上）",
+      "capacity" : 3429
+    }, {
+      "id" : 4609,
+      "title" : "VOL.41他的存在该如何抹去（下）",
+      "capacity" : 3754
+    }, {
+      "id" : 4610,
+      "title" : "VOL.42脆弱侵蚀了神经",
+      "capacity" : 4691
+    }, {
+      "id" : 4611,
+      "title" : "VOL.43极端吞并了理性",
+      "capacity" : 3010
+    }, {
+      "id" : 4612,
+      "title" : "VOL.44这个城市，我会回来的",
+      "capacity" : 3714
+    }, {
+      "id" : 4613,
+      "title" : "VOL.45我们的世界，早已崩塌",
+      "capacity" : 5325
+    }, {
+      "id" : 4614,
+      "title" : "VOL.46分道扬镳的毕业季",
+      "capacity" : 5957
+    }, {
+      "id" : 4615,
+      "title" : "VOL.47“咱们结婚吧”",
+      "capacity" : 4171
+    }, {
+      "id" : 4616,
+      "title" : "VOL.48远隔重洋，好久不见",
+      "capacity" : 4026
+    } ]
+  }
+}

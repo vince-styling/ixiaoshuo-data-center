@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 57,
+    "list" : [ {
+      "id" : 2693,
+      "title" : "爱情重奏曲（五十一）",
+      "capacity" : 9297
+    }, {
+      "id" : 2694,
+      "title" : "爱情重奏曲（五十二）",
+      "capacity" : 9157
+    }, {
+      "id" : 2695,
+      "title" : "爱情重奏曲（五十三）",
+      "capacity" : 9226
+    }, {
+      "id" : 2696,
+      "title" : "爱情重奏曲（五十四）",
+      "capacity" : 9282
+    }, {
+      "id" : 2697,
+      "title" : "爱情重奏曲（五十五）",
+      "capacity" : 9161
+    }, {
+      "id" : 2698,
+      "title" : "上架公告",
+      "capacity" : 2232
+    }, {
+      "id" : 2699,
+      "title" : "上架公告说明",
+      "capacity" : 24
+    } ]
+  }
+}

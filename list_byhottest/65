@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 65,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3280,
+      "name" : "轻舞离歌",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20203.jpg",
+      "summary" : "一朝贪念，步步沦陷，情蛊穿肠，举盏无言。却怎奈何，任旧情难自弃，任倾尽一生，终化为荒野一柸黄土，只换",
+      "updateStatus" : 1,
+      "capacity" : 719807,
+      "readerCount" : 1139
+    }, {
+      "id" : 3097,
+      "name" : "穿越之丑凤倾城",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_4390.jpg",
+      "summary" : "她的样貌奇丑无比，脸上丑陋的图案使她被众人冷眼相看，就连亲身父母也嫌弃她的无奈，她的恨，她的痛，没有",
+      "updateStatus" : 1,
+      "capacity" : 208045,
+      "readerCount" : 1133
+    }, {
+      "id" : 3599,
+      "name" : "无声梦流水",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47446.jpg",
+      "summary" : "伴随着地狱之火，湮灭的一切，解开所有关于情的悲悯。岁月无声，掷地有声！",
+      "updateStatus" : 1,
+      "capacity" : 12877,
+      "readerCount" : 1129
+    }, {
+      "id" : 3216,
+      "name" : "渡魂斋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47318.jpg",
+      "summary" : "鬼差说，彼岸幽冥会收藏你的记忆，可是舍子往生却会连你深刻在骨血中的情都剥离……冥界往生使手上有一本往",
+      "updateStatus" : 1,
+      "capacity" : 152878,
+      "readerCount" : 1126
+    }, {
+      "id" : 3195,
+      "name" : "绝妃善类：倾城妖狐魅天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44036.jpg",
+      "summary" : "七千年前，他偷走了她的心，万劫不复。七千年后，他苦苦等待，她却完全把他忘记。他愿颠覆天下，只为换她笑",
+      "updateStatus" : 1,
+      "capacity" : 521681,
+      "readerCount" : 1117
+    }, {
+      "id" : 3052,
+      "name" : "林间季雨青冢",
+      "coverUrl" : "",
+      "summary" : "架空历史江湖情缘前世今生——————飞花缱绻，落叶缠绵。我愿与你相忘于江湖，便得此生不见。留我一人在",
+      "updateStatus" : 1,
+      "capacity" : 113765,
+      "readerCount" : 1115
+    }, {
+      "id" : 3496,
+      "name" : "一纸荒年",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46482.jpg",
+      "summary" : "她“巧遇”他，只是为了完成上级的任务，本以为能全身而退，却堕入情网。然而，暗门总部被炸，有人为救他而",
+      "updateStatus" : 1,
+      "capacity" : 617088,
+      "readerCount" : 1103
+    }, {
+      "id" : 3640,
+      "name" : "《浣冥》",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44280.jpg",
+      "summary" : "上古混沌开，天地初成。宇内自成神、人、冥无，三界。而其中最强大的是冥无界&middot;&middo",
+      "updateStatus" : 1,
+      "capacity" : 182019,
+      "readerCount" : 1098
+    }, {
+      "id" : 3067,
+      "name" : "总裁霸情：调教偷心贼娘子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22626.jpg",
+      "summary" : "古代正义侠盗女贼初若，一朝穿越到现代，惹上霸道腹黑总裁，从此生活精彩，笑料频频，且看一向偷盗钱财的她",
+      "updateStatus" : 1,
+      "capacity" : 34391,
+      "readerCount" : 1098
+    }, {
+      "id" : 3566,
+      "name" : "崎岖山路",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45904.jpg",
+      "summary" : "这里以两个农村孩子自我奋斗为主线，讲述八十年代至今农村生活的现实情况，描写了处于底层的农民生活的状况",
+      "updateStatus" : 1,
+      "capacity" : 399836,
+      "readerCount" : 1088
+    }, {
+      "id" : 3175,
+      "name" : "被岁月流放的青春",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43591.jpg",
+      "summary" : "唐夕是一位家庭、学业、事业、能力都非常普通的屌丝青年，在事业和感情的波折中，在这个特殊的时代经历着自",
+      "updateStatus" : 1,
+      "capacity" : 148000,
+      "readerCount" : 1079
+    }, {
+      "id" : 3570,
+      "name" : "挚爱傻夫君",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43982.jpg",
+      "summary" : "她是千年的杀手女王，但梦中总有一张俊颜闪过，很是熟悉。。。他是帝晨国的傻王，他的梦里总有一对美眸，他",
+      "updateStatus" : 1,
+      "capacity" : 983137,
+      "readerCount" : 1076
+    }, {
+      "id" : 3702,
+      "name" : "生生羁绊",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46146.jpg",
+      "summary" : "兜兜转转，明明是逃不过的劫却想要去逃，最后不过是伤人又伤几。所幸的是在经历了一个又一个的劫难之后我们",
+      "updateStatus" : 1,
+      "capacity" : 478323,
+      "readerCount" : 1075
+    }, {
+      "id" : 3612,
+      "name" : "家殇梦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46110.jpg",
+      "summary" : "青年作家桐子幼年丧母，继母的到来，让桐子的童年陷入了越来越深的苦难。慢慢长大后桐子开始反抗，可每一次",
+      "updateStatus" : 1,
+      "capacity" : 291649,
+      "readerCount" : 1071
+    }, {
+      "id" : 3337,
+      "name" : "旋转的漩涡",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43602.jpg",
+      "summary" : "为了逃避感情，她带着一颗千疮百孔的心独自一人来到一个陌生的城市生活。原本平淡的生活却因为他的出现，使",
+      "updateStatus" : 1,
+      "capacity" : 46610,
+      "readerCount" : 1069
+    }, {
+      "id" : 2915,
+      "name" : "女汉子养成记",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46265.jpg",
+      "summary" : "她是女性朋友眼中“若为男，必嫁之”，男性朋友中粗鲁、重义气的女汉子；家人眼中独立、坚强、无坚不摧的依",
+      "updateStatus" : 1,
+      "capacity" : 7678552,
+      "readerCount" : 1069
+    }, {
+      "id" : 3221,
+      "name" : "极品天骄：邪凤逆天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47483.jpg",
+      "summary" : "她，貌美却傲世张狂，清颜却媚眼冷峻，倚剑血洗天下，不畏不惧，不卑不亢。一朝是杀人不眨眼的女魔头，一朝",
+      "updateStatus" : 1,
+      "capacity" : 110598,
+      "readerCount" : 1066
+    }, {
+      "id" : 2805,
+      "name" : "记得爱过",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21050.jpg",
+      "summary" : "当她第一次看见枫落就喜欢上了这种色彩，然而她的家庭也如枫落一般渐渐枯黄，凋零，于是她学会了坚强；当她",
+      "updateStatus" : 1,
+      "capacity" : 9861946,
+      "readerCount" : 1052
+    }, {
+      "id" : 3320,
+      "name" : "梦迷牡丹",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46454.jpg",
+      "summary" : "讲述一个患有精神分裂症的女孩不断穿梭于不知是幻想还是梦与现实之间。梦里的武林纠葛和恩恩怨怨风起云涌、",
+      "updateStatus" : 1,
+      "capacity" : 292148,
+      "readerCount" : 1048
+    }, {
+      "id" : 3508,
+      "name" : "虾片恋情:融化冰山王子的小虾片",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44915.jpg",
+      "summary" : "有时候爱情就是来的那么浪漫，或许，缘分就是这样吧。一包虾片也可以引发一个不一样的爱情故事。让我们拭目",
+      "updateStatus" : 1,
+      "capacity" : 41707,
+      "readerCount" : 1046
+    } ]
+  }
+}

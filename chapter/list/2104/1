@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 4590,
+      "title" : "楔子",
+      "capacity" : 4964
+    }, {
+      "id" : 4591,
+      "title" : "第一话 山有扶苏 隰有荷华",
+      "capacity" : 3084
+    }, {
+      "id" : 4592,
+      "title" : "第一话 山有扶苏 隰有荷华（2）",
+      "capacity" : 7159
+    }, {
+      "id" : 4593,
+      "title" : "（3）",
+      "capacity" : 9873
+    } ]
+  }
+}

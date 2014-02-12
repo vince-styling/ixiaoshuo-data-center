@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 69,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3438,
+      "name" : "叶之于归",
+      "updateStatus" : 1,
+      "distance" : 9667,
+      "memberId" : 6071
+    }, {
+      "id" : 3154,
+      "name" : "体弱多病的魔法师",
+      "updateStatus" : 1,
+      "distance" : 9948,
+      "memberId" : 3261
+    }, {
+      "id" : 2803,
+      "name" : "幸好还有爱情",
+      "updateStatus" : 1,
+      "distance" : 7377,
+      "memberId" : 4731
+    }, {
+      "id" : 2049,
+      "name" : "红尘之弃妃觅爱",
+      "updateStatus" : 1,
+      "distance" : 2504,
+      "memberId" : 1256
+    }, {
+      "id" : 3638,
+      "name" : "青梅与竹马",
+      "updateStatus" : 1,
+      "distance" : 1263,
+      "memberId" : 1060
+    }, {
+      "id" : 2738,
+      "name" : "苦忘·浮生如梦",
+      "updateStatus" : 1,
+      "distance" : 8035,
+      "memberId" : 4168
+    }, {
+      "id" : 2976,
+      "name" : "少女养成之就是赖上你",
+      "updateStatus" : 1,
+      "distance" : 5574,
+      "memberId" : 2474
+    }, {
+      "id" : 2265,
+      "name" : "朗歌行",
+      "updateStatus" : 1,
+      "distance" : 1820,
+      "memberId" : 2045
+    }, {
+      "id" : 3257,
+      "name" : "相思引，魔王的羁绊",
+      "updateStatus" : 1,
+      "distance" : 6206,
+      "memberId" : 2691
+    }, {
+      "id" : 3526,
+      "name" : "桃花躲躲",
+      "updateStatus" : 1,
+      "distance" : 5714,
+      "memberId" : 8426
+    }, {
+      "id" : 3196,
+      "name" : "西地锦",
+      "updateStatus" : 1,
+      "distance" : 5670,
+      "memberId" : 4166
+    }, {
+      "id" : 3243,
+      "name" : "仙灭混沌",
+      "updateStatus" : 1,
+      "distance" : 837,
+      "memberId" : 3874
+    }, {
+      "id" : 2484,
+      "name" : "让我杀了你，爱人",
+      "updateStatus" : 1,
+      "distance" : 7793,
+      "memberId" : 2744
+    }, {
+      "id" : 3205,
+      "name" : "当冷公主遇上甜心少",
+      "updateStatus" : 1,
+      "distance" : 3427,
+      "memberId" : 2229
+    }, {
+      "id" : 2735,
+      "name" : "是前世还是今生",
+      "updateStatus" : 1,
+      "distance" : 1220,
+      "memberId" : 5308
+    }, {
+      "id" : 2736,
+      "name" : "我是石观音",
+      "updateStatus" : 1,
+      "distance" : 8653,
+      "memberId" : 5930
+    }, {
+      "id" : 2384,
+      "name" : "豪门霸宠：娇妻狠绝色",
+      "updateStatus" : 2,
+      "distance" : 7221,
+      "memberId" : 6932
+    }, {
+      "id" : 3504,
+      "name" : "《心惜之落雪之殇》",
+      "updateStatus" : 1,
+      "distance" : 4264,
+      "memberId" : 2652
+    }, {
+      "id" : 2701,
+      "name" : "漩涡长门在异界",
+      "updateStatus" : 2,
+      "distance" : 2867,
+      "memberId" : 4064
+    }, {
+      "id" : 2953,
+      "name" : "异世界的爱恋",
+      "updateStatus" : 1,
+      "distance" : 2798,
+      "memberId" : 7639
+    } ]
+  }
+}

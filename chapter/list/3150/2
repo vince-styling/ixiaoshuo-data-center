@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 1054,
+      "title" : "第50章：小翠探亲",
+      "capacity" : 10553
+    }, {
+      "id" : 1055,
+      "title" : "第51章：纸鸢",
+      "capacity" : 7602
+    }, {
+      "id" : 1056,
+      "title" : "第52章：接受",
+      "capacity" : 6196
+    } ]
+  }
+}

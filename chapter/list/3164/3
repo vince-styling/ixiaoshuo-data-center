@@ -1,0 +1,14 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 101,
+    "list" : [ {
+      "id" : 4305,
+      "title" : "第一百章：半人半尸",
+      "capacity" : 35159
+    } ]
+  }
+}

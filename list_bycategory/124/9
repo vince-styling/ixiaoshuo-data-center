@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 9,
+    "totalPageCount" : 16,
+    "totalItemCount" : 304,
+    "list" : [ {
+      "id" : 3084,
+      "name" : "倾世妖男",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46858.jpg",
+      "summary" : "他因相貌丑陋，出生后就被父母遗弃。十几年来受尽了世人的凌辱。但是内心充满抱负的他并不甘心向命运屈服，",
+      "updateStatus" : 1,
+      "capacity" : 247034,
+      "readerCount" : 3053
+    }, {
+      "id" : 3720,
+      "name" : "唯不忘相思",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20925.jpg",
+      "summary" : "苏媚：师承魔尊苏秦，为魔尊座下得意弟子之一。永元十一年，奉苏秦之命，以苏秦小女的身份入宫承宠，获取澜",
+      "updateStatus" : 1,
+      "capacity" : 435284,
+      "readerCount" : 2966
+    }, {
+      "id" : 2592,
+      "name" : "离途",
+      "coverUrl" : "",
+      "summary" : "我将踏上归程，亦或离途，只为那残破半垣的家乡。有谁听得见我泣血涟涟？可见我赤足立在南江之畔，寻那前生",
+      "updateStatus" : 1,
+      "capacity" : 5653043,
+      "readerCount" : 2841
+    }, {
+      "id" : 2555,
+      "name" : "嫁个如意郎君",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47760.jpg",
+      "summary" : "男人也有三从四德，“太太命令要听从，太太出门要跟从，太太说错要盲从”，“太太花钱要舍得，太太化妆要等",
+      "updateStatus" : 1,
+      "capacity" : 4322950,
+      "readerCount" : 2819
+    }, {
+      "id" : 3366,
+      "name" : "绝色江湖",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41349.jpg",
+      "summary" : "“诶，你听说了吗？”“怎么？”“出大事啦！”“大事？”若有一日，最乖巧的希嫆九公主离宫逃婚去了。若有",
+      "updateStatus" : 1,
+      "capacity" : 376401,
+      "readerCount" : 2756
+    }, {
+      "id" : 3355,
+      "name" : "野蛮小宫女",
+      "coverUrl" : "",
+      "summary" : "贝紫放孔明灯的胡乱愿望竟然会实现，神啊，我的妈呀，我以后可不敢在乱写了，写个穿越古代吧，还真穿越了&",
+      "updateStatus" : 1,
+      "capacity" : 569665,
+      "readerCount" : 2755
+    }, {
+      "id" : 3405,
+      "name" : "明月何处",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42076.jpg",
+      "summary" : "从大宋到北汉再到辽国，尽管经历的很多事情，明月贪玩的心仍没有改变。不如德芳他们，经历一生，都不为情所",
+      "updateStatus" : 1,
+      "capacity" : 843632,
+      "readerCount" : 2731
+    }, {
+      "id" : 2238,
+      "name" : "白发皇后：本宫不倾城",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_11811.jpg",
+      "summary" : "【女强文】他是人人鄙夷的草包王爷，长相不出众更是个弱不禁风的药篓子还生性风流，流连烟花之地她是人人鄙",
+      "updateStatus" : 1,
+      "capacity" : 6364382,
+      "readerCount" : 2731
+    }, {
+      "id" : 3204,
+      "name" : "侍郎娘子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45924.jpg",
+      "summary" : "她不过是颍川严氏的平民之女，为了探寻哥哥被贬的原因，男扮女装，参加科举，在朝堂上做了侍郎。天生对人面",
+      "updateStatus" : 1,
+      "capacity" : 601868,
+      "readerCount" : 2723
+    }, {
+      "id" : 3638,
+      "name" : "青梅与竹马",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43239.jpg",
+      "summary" : "郎骑竹马来，绕床弄青梅。她说：南沐席，只要你一句话，我便不理会亡国之仇，与你生死与共。他说：熙儿，此",
+      "updateStatus" : 1,
+      "capacity" : 317394,
+      "readerCount" : 2690
+    }, {
+      "id" : 3690,
+      "name" : "帝王劫：重生之丑女皇后",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46019.jpg",
+      "summary" : "究竟是爱，还是深入肺腑的恨？她，其貌不扬，却心地纯善，曾被人算计，遭帝王厌弃而被废冷宫，重生到五年之",
+      "updateStatus" : 1,
+      "capacity" : 155986,
+      "readerCount" : 2598
+    }, {
+      "id" : 3664,
+      "name" : "眉心结，掌中线",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44755.jpg",
+      "summary" : "这样的相遇，你可算得出结局？那一箭，射下的不只是个神仙，还是一段孽缘那一箭，射下的不只是一段孽缘，还",
+      "updateStatus" : 1,
+      "capacity" : 436158,
+      "readerCount" : 2579
+    }, {
+      "id" : 3186,
+      "name" : "贪衾香",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41497.jpg",
+      "summary" : "“为有云屏无限娇，凤城寒尽怕春宵。无端嫁得金龟婿，辜负香衾事早朝。”哀怨的诗句从帝王嘴里旖旎甫出。羞",
+      "updateStatus" : 1,
+      "capacity" : 312970,
+      "readerCount" : 2548
+    }, {
+      "id" : 2092,
+      "name" : "迟妆懒起",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47097.jpg",
+      "summary" : "我愿我最美好的愿望是与你一起，迟妆懒起，弄妆梳洗迟，懒起画峨眉。我不争不夺，只想庸碌此生，回头看白骨",
+      "updateStatus" : 1,
+      "capacity" : 9424336,
+      "readerCount" : 2492
+    }, {
+      "id" : 3443,
+      "name" : "许你长安",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46246.jpg",
+      "summary" : "是否，在她出嫁时也有人唱——桃之夭夭，灼灼其华。之子于归，宜其室家。可他享受不到那样平实的祝福，也许",
+      "updateStatus" : 1,
+      "capacity" : 345721,
+      "readerCount" : 2447
+    }, {
+      "id" : 3491,
+      "name" : "倾世逃妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41383.jpg",
+      "summary" : "她一家财万贯世界首富的三女儿,可过着下人般的生活.他为她开启了一扇窗,可又无情地关上.被冷酷的姐姐推",
+      "updateStatus" : 1,
+      "capacity" : 275213,
+      "readerCount" : 2354
+    }, {
+      "id" : 3389,
+      "name" : "芙蓉一纸欢",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44018.jpg",
+      "summary" : "许多年后，某园主懊恼万分。一失足成千古恨啊！他管妻不严，落得如此下场~夫人又赌气跑回娘家了！他连忙骑",
+      "updateStatus" : 1,
+      "capacity" : 48252,
+      "readerCount" : 2297
+    }, {
+      "id" : 3421,
+      "name" : "心动必碎",
+      "coverUrl" : "",
+      "summary" : "训诫文，穿越宫廷剧。",
+      "updateStatus" : 1,
+      "capacity" : 457578,
+      "readerCount" : 2294
+    }, {
+      "id" : 3398,
+      "name" : "泠夜梦初流光烬",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43349.jpg",
+      "summary" : "九泠曲吾本汉家女,出水岫云矶.垂手明如玉,十二楼台戏.承欢父膝下,娇痴母佑惜.舒颜海誓花,敛容鲛人泣",
+      "updateStatus" : 1,
+      "capacity" : 156718,
+      "readerCount" : 2289
+    }, {
+      "id" : 3655,
+      "name" : "平妻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45175.jpg",
+      "summary" : "三年征战之后，花赫女子的身份再也不能被无视，女子终归是要嫁人的，朝廷对他们有忌惮，二哥知道后便把他们",
+      "updateStatus" : 1,
+      "capacity" : 436526,
+      "readerCount" : 2274
+    } ]
+  }
+}

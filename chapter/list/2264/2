@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 55,
+    "list" : [ {
+      "id" : 2978,
+      "title" : "第十三章：借兵1",
+      "capacity" : 13648
+    }, {
+      "id" : 2979,
+      "title" : "第十三章：借兵2",
+      "capacity" : 11873
+    }, {
+      "id" : 2980,
+      "title" : "第十三章：借兵3",
+      "capacity" : 12328
+    }, {
+      "id" : 2981,
+      "title" : "第十三章：借兵4",
+      "capacity" : 14076
+    }, {
+      "id" : 2982,
+      "title" : "第十四章：暗流汹涌1",
+      "capacity" : 14189
+    } ]
+  }
+}

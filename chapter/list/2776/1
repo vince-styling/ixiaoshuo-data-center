@@ -1,0 +1,122 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 28,
+    "list" : [ {
+      "id" : 3975,
+      "title" : "第一节",
+      "capacity" : 8857
+    }, {
+      "id" : 3976,
+      "title" : "二",
+      "capacity" : 12861
+    }, {
+      "id" : 3977,
+      "title" : "三",
+      "capacity" : 9928
+    }, {
+      "id" : 3978,
+      "title" : "四",
+      "capacity" : 5123
+    }, {
+      "id" : 3979,
+      "title" : "五",
+      "capacity" : 8966
+    }, {
+      "id" : 3980,
+      "title" : "六",
+      "capacity" : 10165
+    }, {
+      "id" : 3981,
+      "title" : "七",
+      "capacity" : 11077
+    }, {
+      "id" : 3982,
+      "title" : "八",
+      "capacity" : 5959
+    }, {
+      "id" : 3983,
+      "title" : "九",
+      "capacity" : 14384
+    }, {
+      "id" : 3984,
+      "title" : "十",
+      "capacity" : 6066
+    }, {
+      "id" : 3985,
+      "title" : "十一",
+      "capacity" : 9167
+    }, {
+      "id" : 3986,
+      "title" : "十二",
+      "capacity" : 9084
+    }, {
+      "id" : 3987,
+      "title" : "十三",
+      "capacity" : 9110
+    }, {
+      "id" : 3988,
+      "title" : "十四",
+      "capacity" : 9143
+    }, {
+      "id" : 3989,
+      "title" : "十五",
+      "capacity" : 9169
+    }, {
+      "id" : 3990,
+      "title" : "十六",
+      "capacity" : 9186
+    }, {
+      "id" : 3991,
+      "title" : "十七",
+      "capacity" : 9088
+    }, {
+      "id" : 3992,
+      "title" : "十八",
+      "capacity" : 9151
+    }, {
+      "id" : 3993,
+      "title" : "１９",
+      "capacity" : 9301
+    }, {
+      "id" : 3994,
+      "title" : "２０",
+      "capacity" : 9120
+    }, {
+      "id" : 3995,
+      "title" : "２１",
+      "capacity" : 9335
+    }, {
+      "id" : 3996,
+      "title" : "２２",
+      "capacity" : 9206
+    }, {
+      "id" : 3997,
+      "title" : "２３",
+      "capacity" : 9242
+    }, {
+      "id" : 3998,
+      "title" : "２４",
+      "capacity" : 9145
+    }, {
+      "id" : 3999,
+      "title" : "２５",
+      "capacity" : 9264
+    }, {
+      "id" : 4000,
+      "title" : "２６",
+      "capacity" : 9142
+    }, {
+      "id" : 4001,
+      "title" : "２７",
+      "capacity" : 9355
+    }, {
+      "id" : 4002,
+      "title" : "２８",
+      "capacity" : 9265
+    } ]
+  }
+}

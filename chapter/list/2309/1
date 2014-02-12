@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 30,
+    "list" : [ {
+      "id" : 2522,
+      "title" : "001 追击穷寇",
+      "capacity" : 3087
+    }, {
+      "id" : 2523,
+      "title" : "002 反遭暗算",
+      "capacity" : 4446
+    }, {
+      "id" : 2524,
+      "title" : "003 商贾陆府",
+      "capacity" : 3260
+    }, {
+      "id" : 2525,
+      "title" : "004 错穿为奴",
+      "capacity" : 3580
+    }, {
+      "id" : 2526,
+      "title" : "005 王朝末年",
+      "capacity" : 3600
+    }, {
+      "id" : 2527,
+      "title" : "006 贫富悬殊",
+      "capacity" : 3470
+    }, {
+      "id" : 2528,
+      "title" : "007 街头枪战",
+      "capacity" : 3199
+    }, {
+      "id" : 2529,
+      "title" : "008 保全一人",
+      "capacity" : 3138
+    }, {
+      "id" : 2530,
+      "title" : "009 在劫难逃",
+      "capacity" : 3647
+    }, {
+      "id" : 2531,
+      "title" : "010 傲气凛然",
+      "capacity" : 3581
+    }, {
+      "id" : 2532,
+      "title" : "011 前清学士",
+      "capacity" : 3603
+    }, {
+      "id" : 2533,
+      "title" : "012 初次相见",
+      "capacity" : 3756
+    }, {
+      "id" : 2534,
+      "title" : "013 触景伤情",
+      "capacity" : 3923
+    }, {
+      "id" : 2535,
+      "title" : "014 收为义女",
+      "capacity" : 4078
+    }, {
+      "id" : 2536,
+      "title" : "015 专人伺候",
+      "capacity" : 3289
+    }, {
+      "id" : 2537,
+      "title" : "016 丫环小九",
+      "capacity" : 3336
+    }, {
+      "id" : 2538,
+      "title" : "017 冷眼相对",
+      "capacity" : 4829
+    }, {
+      "id" : 2539,
+      "title" : "018 暗中较劲",
+      "capacity" : 4076
+    }, {
+      "id" : 2540,
+      "title" : "019 洋人舞厅",
+      "capacity" : 3070
+    }, {
+      "id" : 2541,
+      "title" : "020 国人拒入",
+      "capacity" : 3355
+    }, {
+      "id" : 2542,
+      "title" : "021 卓越舞姿",
+      "capacity" : 3530
+    }, {
+      "id" : 2543,
+      "title" : "022 佘家少爷",
+      "capacity" : 4521
+    }, {
+      "id" : 2544,
+      "title" : "023 洋行失窃",
+      "capacity" : 4194
+    }, {
+      "id" : 2545,
+      "title" : "024 巧布陷阱",
+      "capacity" : 3982
+    }, {
+      "id" : 2546,
+      "title" : "025 请贼入翁",
+      "capacity" : 4816
+    }, {
+      "id" : 2547,
+      "title" : "026 智勇双全",
+      "capacity" : 5267
+    }, {
+      "id" : 2548,
+      "title" : "027 再遇佳人",
+      "capacity" : 5453
+    }, {
+      "id" : 2549,
+      "title" : "028 帅哥舞伴",
+      "capacity" : 6463
+    }, {
+      "id" : 2550,
+      "title" : "029 炫富攀比",
+      "capacity" : 5173
+    }, {
+      "id" : 2551,
+      "title" : "030 口舌之争",
+      "capacity" : 6500
+    } ]
+  }
+}

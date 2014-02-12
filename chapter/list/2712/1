@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 78,
+    "list" : [ {
+      "id" : 1535,
+      "title" : "花灯会",
+      "capacity" : 7798
+    }, {
+      "id" : 1536,
+      "title" : "我就知道、你一定会来。",
+      "capacity" : 8016
+    }, {
+      "id" : 1537,
+      "title" : "3.植物人",
+      "capacity" : 7862
+    }, {
+      "id" : 1538,
+      "title" : "4.皇上",
+      "capacity" : 7727
+    }, {
+      "id" : 1539,
+      "title" : "5.兰妃",
+      "capacity" : 8403
+    }, {
+      "id" : 1540,
+      "title" : "6.安茹雪的二哥。",
+      "capacity" : 6813
+    }, {
+      "id" : 1541,
+      "title" : "五菜一汤",
+      "capacity" : 7522
+    }, {
+      "id" : 1542,
+      "title" : "入宫",
+      "capacity" : 9066
+    }, {
+      "id" : 1543,
+      "title" : "20玉镯",
+      "capacity" : 9066
+    }, {
+      "id" : 1544,
+      "title" : "10.母仪天下",
+      "capacity" : 9251
+    }, {
+      "id" : 1545,
+      "title" : "11.打兰妃的主意",
+      "capacity" : 9072
+    }, {
+      "id" : 1546,
+      "title" : "12.我不喜欢你。",
+      "capacity" : 9010
+    }, {
+      "id" : 1547,
+      "title" : "13.正面交锋",
+      "capacity" : 9108
+    }, {
+      "id" : 1548,
+      "title" : "兰妃仙逝",
+      "capacity" : 9081
+    }, {
+      "id" : 1549,
+      "title" : "参见皇上",
+      "capacity" : 9181
+    }, {
+      "id" : 1550,
+      "title" : "16.女将军来也。",
+      "capacity" : 9084
+    }, {
+      "id" : 1551,
+      "title" : "17.谁放屁。",
+      "capacity" : 9203
+    }, {
+      "id" : 1552,
+      "title" : "18.斗狼",
+      "capacity" : 9058
+    }, {
+      "id" : 1553,
+      "title" : "19.有爱",
+      "capacity" : 9114
+    }, {
+      "id" : 1554,
+      "title" : "20.螳螂捕蝉黄雀在后",
+      "capacity" : 9306
+    }, {
+      "id" : 1555,
+      "title" : "21.召见华王。",
+      "capacity" : 9332
+    }, {
+      "id" : 1556,
+      "title" : "22.蕙附子",
+      "capacity" : 9075
+    }, {
+      "id" : 1557,
+      "title" : "23.交战",
+      "capacity" : 9118
+    }, {
+      "id" : 1558,
+      "title" : "24.李哲熙与安茹雪缠绵",
+      "capacity" : 9096
+    }, {
+      "id" : 1559,
+      "title" : "25.黎准请客",
+      "capacity" : 9213
+    }, {
+      "id" : 1560,
+      "title" : "26.安宁李哲熙吊在车上",
+      "capacity" : 9155
+    }, {
+      "id" : 1561,
+      "title" : "27.一人换两人",
+      "capacity" : 9578
+    }, {
+      "id" : 1562,
+      "title" : "28.生死一线",
+      "capacity" : 9047
+    }, {
+      "id" : 1563,
+      "title" : "29.胜利",
+      "capacity" : 9405
+    }, {
+      "id" : 1564,
+      "title" : "30.男女有别。",
+      "capacity" : 9317
+    }, {
+      "id" : 1565,
+      "title" : "31.家属闹城。",
+      "capacity" : 9186
+    }, {
+      "id" : 1566,
+      "title" : "32.鹬蚌相争，渔翁得利。",
+      "capacity" : 9291
+    }, {
+      "id" : 1567,
+      "title" : "33.元帅，不好了",
+      "capacity" : 9924
+    }, {
+      "id" : 1568,
+      "title" : "34.三个兄弟换三座城池。",
+      "capacity" : 9671
+    }, {
+      "id" : 1569,
+      "title" : "35.唯女子与小人难养也",
+      "capacity" : 9937
+    }, {
+      "id" : 1570,
+      "title" : "36.一天放一千。",
+      "capacity" : 9283
+    }, {
+      "id" : 1571,
+      "title" : "37.跟班赵东升",
+      "capacity" : 9260
+    }, {
+      "id" : 1572,
+      "title" : "38.那些人性命终究没保住。",
+      "capacity" : 9869
+    }, {
+      "id" : 1573,
+      "title" : "39.安茹雪李哲熙激吻。",
+      "capacity" : 9372
+    }, {
+      "id" : 1574,
+      "title" : "40.九爷会见安茹雪",
+      "capacity" : 9066
+    }, {
+      "id" : 1575,
+      "title" : "41.背影",
+      "capacity" : 9053
+    }, {
+      "id" : 1576,
+      "title" : "42.御池边",
+      "capacity" : 9105
+    }, {
+      "id" : 1577,
+      "title" : "43.三夫人的不堪往事",
+      "capacity" : 9102
+    }, {
+      "id" : 1578,
+      "title" : "44.腹黑男，安宁",
+      "capacity" : 9515
+    }, {
+      "id" : 1579,
+      "title" : "45.明瓦廊山",
+      "capacity" : 9179
+    }, {
+      "id" : 1580,
+      "title" : "46.和亲王",
+      "capacity" : 9165
+    }, {
+      "id" : 1581,
+      "title" : "47.最毒的蛇。",
+      "capacity" : 9542
+    }, {
+      "id" : 1582,
+      "title" : "48.然，我长活一世，却能记住你说的每一话",
+      "capacity" : 9132
+    }, {
+      "id" : 1583,
+      "title" : "49.一起都是我自作多情",
+      "capacity" : 9117
+    }, {
+      "id" : 1584,
+      "title" : "50.遇上竹叶青。",
+      "capacity" : 8992
+    } ]
+  }
+}

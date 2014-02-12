@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 3486,
+      "title" : "第1章 男神出场",
+      "capacity" : 9064
+    }, {
+      "id" : 3487,
+      "title" : "第2章 我去读武校！",
+      "capacity" : 11321
+    }, {
+      "id" : 3488,
+      "title" : "第3章 未来的成龙、李连杰？",
+      "capacity" : 7455
+    }, {
+      "id" : 3489,
+      "title" : "第4章 遇上了夜游的不良少年",
+      "capacity" : 6375
+    }, {
+      "id" : 3490,
+      "title" : "第5章 清早的春光",
+      "capacity" : 8797
+    }, {
+      "id" : 3491,
+      "title" : "第6章 初入武校",
+      "capacity" : 6374
+    }, {
+      "id" : 3492,
+      "title" : "第7章 摸女生屁股",
+      "capacity" : 9856
+    }, {
+      "id" : 3493,
+      "title" : "第8章 异能之体激发",
+      "capacity" : 7585
+    }, {
+      "id" : 3494,
+      "title" : "第9章 任督二脉贯通！",
+      "capacity" : 6814
+    }, {
+      "id" : 3495,
+      "title" : "第10章 偷窥野战",
+      "capacity" : 6794
+    }, {
+      "id" : 3496,
+      "title" : "第11章 异能知识的“科普”",
+      "capacity" : 8122
+    }, {
+      "id" : 3497,
+      "title" : "第12章 K.O！",
+      "capacity" : 8114
+    }, {
+      "id" : 3498,
+      "title" : "第13章 英雄救美（一）",
+      "capacity" : 72
+    } ]
+  }
+}

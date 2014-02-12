@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 24,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2613,
+      "name" : "红楼梦呓",
+      "updateStatus" : 1,
+      "distance" : 1349,
+      "memberId" : 5260
+    }, {
+      "id" : 2468,
+      "name" : "天堂巴士444",
+      "updateStatus" : 1,
+      "distance" : 536,
+      "memberId" : 1801
+    }, {
+      "id" : 2829,
+      "name" : "女兽与美郎",
+      "updateStatus" : 1,
+      "distance" : 3663,
+      "memberId" : 1766
+    }, {
+      "id" : 2818,
+      "name" : "时光铭刻之痕",
+      "updateStatus" : 1,
+      "distance" : 8442,
+      "memberId" : 8802
+    }, {
+      "id" : 3645,
+      "name" : "悠悠茶茗",
+      "updateStatus" : 1,
+      "distance" : 3224,
+      "memberId" : 7812
+    }, {
+      "id" : 3365,
+      "name" : "夜已阑珊",
+      "updateStatus" : 1,
+      "distance" : 3044,
+      "memberId" : 8622
+    }, {
+      "id" : 2687,
+      "name" : "朝歌叶璇",
+      "updateStatus" : 1,
+      "distance" : 7636,
+      "memberId" : 4101
+    }, {
+      "id" : 3360,
+      "name" : "泡沫太寒冷",
+      "updateStatus" : 1,
+      "distance" : 923,
+      "memberId" : 4116
+    }, {
+      "id" : 2213,
+      "name" : "群芳谱",
+      "updateStatus" : 2,
+      "distance" : 8097,
+      "memberId" : 6533
+    }, {
+      "id" : 3648,
+      "name" : "完美自杀",
+      "updateStatus" : 1,
+      "distance" : 8378,
+      "memberId" : 4695
+    }, {
+      "id" : 3348,
+      "name" : "杀手王妃的花心王爷",
+      "updateStatus" : 1,
+      "distance" : 2752,
+      "memberId" : 1788
+    }, {
+      "id" : 2209,
+      "name" : "高贵的囚徒",
+      "updateStatus" : 1,
+      "distance" : 7572,
+      "memberId" : 6894
+    }, {
+      "id" : 2565,
+      "name" : "冯子莫",
+      "updateStatus" : 1,
+      "distance" : 4317,
+      "memberId" : 2152
+    }, {
+      "id" : 3591,
+      "name" : "小羊别闹，来吃草",
+      "updateStatus" : 2,
+      "distance" : 1023,
+      "memberId" : 6109
+    }, {
+      "id" : 2303,
+      "name" : "阎末瑶",
+      "updateStatus" : 1,
+      "distance" : 8336,
+      "memberId" : 2082
+    }, {
+      "id" : 2756,
+      "name" : "乖宝宝阵线联盟之一：帅宝贝别使坏",
+      "updateStatus" : 1,
+      "distance" : 4648,
+      "memberId" : 5334
+    }, {
+      "id" : 2582,
+      "name" : "特工归来：王妃策倾天下",
+      "updateStatus" : 1,
+      "distance" : 8805,
+      "memberId" : 6268
+    }, {
+      "id" : 2875,
+      "name" : "宝贝，我真的爱你",
+      "updateStatus" : 1,
+      "distance" : 5503,
+      "memberId" : 8141
+    }, {
+      "id" : 3619,
+      "name" : "结婚规则：一生就要你一人",
+      "updateStatus" : 1,
+      "distance" : 6820,
+      "memberId" : 4448
+    }, {
+      "id" : 3200,
+      "name" : "你若不来，我便不老",
+      "updateStatus" : 1,
+      "distance" : 7657,
+      "memberId" : 6734
+    } ]
+  }
+}

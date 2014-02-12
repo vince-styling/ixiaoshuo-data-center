@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 103,
+    "list" : [ {
+      "id" : 2242,
+      "title" : "第一百零一章 进入洞府",
+      "capacity" : 5642
+    }, {
+      "id" : 2243,
+      "title" : "第一百零二章 古宝水月刃",
+      "capacity" : 7578
+    }, {
+      "id" : 2244,
+      "title" : "《上架公告》",
+      "capacity" : 2232
+    } ]
+  }
+}

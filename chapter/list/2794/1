@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 1042,
+      "title" : "入学",
+      "capacity" : 4648
+    }, {
+      "id" : 1043,
+      "title" : "诱惑",
+      "capacity" : 7431
+    }, {
+      "id" : 1044,
+      "title" : "殇",
+      "capacity" : 10738
+    }, {
+      "id" : 1045,
+      "title" : "阴谋",
+      "capacity" : 9235
+    } ]
+  }
+}

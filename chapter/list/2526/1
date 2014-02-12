@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 1232,
+      "title" : "第一章 花菱·归来",
+      "capacity" : 10494
+    }, {
+      "id" : 1233,
+      "title" : "第二章 花菱·姐姐",
+      "capacity" : 10610
+    }, {
+      "id" : 1234,
+      "title" : "第三章 花菱·新女",
+      "capacity" : 10760
+    }, {
+      "id" : 1235,
+      "title" : "第四章 花菱·冰帝",
+      "capacity" : 11228
+    }, {
+      "id" : 1236,
+      "title" : "第五章 花菱·友人",
+      "capacity" : 11575
+    }, {
+      "id" : 1237,
+      "title" : "第六章 花菱·熟稔",
+      "capacity" : 12168
+    }, {
+      "id" : 1238,
+      "title" : "第七章 花菱·练习",
+      "capacity" : 14398
+    }, {
+      "id" : 1239,
+      "title" : "第八章 花菱·微笑",
+      "capacity" : 10981
+    }, {
+      "id" : 1240,
+      "title" : "第九章 花菱·偶遇",
+      "capacity" : 11212
+    }, {
+      "id" : 1241,
+      "title" : "第十章 花菱·探望",
+      "capacity" : 12058
+    }, {
+      "id" : 1242,
+      "title" : "第十一章 花菱·结怨",
+      "capacity" : 12752
+    } ]
+  }
+}

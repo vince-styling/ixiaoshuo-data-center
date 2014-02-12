@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 56,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2848,
+      "name" : "一路烟花美",
+      "summary" : "自婚姻破碎以来，我就一直在想一个问题，为什么曾经那么相爱的人会分开，我一直想，一直以来都喜欢在网络上",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 7449276,
+      "lastUpdateTime" : "2013-12-03 15:20:07"
+    }, {
+      "id" : 2957,
+      "name" : "让时间说真话",
+      "summary" : "懵懂青涩的年少初恋随着青春岁月的流失在他的心中愈加刻骨，那个调皮捣蛋却隐忍坚强的女孩，在他跋扈的人生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47578.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9674066,
+      "lastUpdateTime" : "2013-12-03 14:58:26"
+    }, {
+      "id" : 3317,
+      "name" : "花季里那个靠窗的女孩",
+      "summary" : "新浪认证微博：http://url.cn/HzP8Zl全新题材的日记+公路青春文学，惊爆眼球的文字力",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16503.jpg",
+      "updateStatus" : 1,
+      "capacity" : 244518,
+      "lastUpdateTime" : "2013-12-03 10:23:07"
+    }, {
+      "id" : 2465,
+      "name" : "双魂神探",
+      "summary" : "三个人，四个灵魂。叠加的双魂神探，左手牵着妖孽法医，右手拎着腹黑天师。诡异的案件，不怕！有她双魂神探",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47780.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9044119,
+      "lastUpdateTime" : "2013-12-03 10:17:34"
+    }, {
+      "id" : 2506,
+      "name" : "再见，青春",
+      "summary" : "21世纪，我们的青春，随着岁月慢慢溜走，那些80后，已慢慢退去他们的青春岁月，我，从离开学校，慢慢步",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22502.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7335838,
+      "lastUpdateTime" : "2013-12-03 08:38:13"
+    }, {
+      "id" : 2750,
+      "name" : "仇爱",
+      "summary" : "他，冷血无情的天罗第一杀手，身价不菲却孤寂冷漠从不快乐，只为杀人而杀人，这只因他心中，有一个永远的痛",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46134.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7836390,
+      "lastUpdateTime" : "2013-12-03 07:56:06"
+    }, {
+      "id" : 2271,
+      "name" : "沙僧西行记略",
+      "summary" : "迷恋《沙僧日记》，《李逵日记》等书的朋友们，可以收藏本书，因为我私底下认为《沙僧西行记略》已然达到了",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22299.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4568322,
+      "lastUpdateTime" : "2013-12-03 07:55:13"
+    }, {
+      "id" : 2068,
+      "name" : "红妆无忧",
+      "summary" : "君王逐鹿天下，烽火四起，只为问鼎中原！红颜倾国倾力，步步生莲，只愿为君唱一曲盛世凯歌！他，亡国皇子！",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19281.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7282003,
+      "lastUpdateTime" : "2013-12-03 07:24:19"
+    }, {
+      "id" : 2466,
+      "name" : "寻魂记之称霸地狱",
+      "summary" : "一场意外的车祸，牵扯的确是一场黑暗的阴阳交易！为了寻找爱人丢失的魂魄，他中了奸计困身地狱之中。一场偶",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46115.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2668491,
+      "lastUpdateTime" : "2013-12-03 07:08:18"
+    }, {
+      "id" : 2080,
+      "name" : "宫偷十二钗：步步惊魂",
+      "summary" : "你试过同成百上千个女人争夺一个男人吗？你试过冒着生命危险与一个男人偷情吗？在这里，一切皆有可能。如果",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47184.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7578951,
+      "lastUpdateTime" : "2013-12-03 06:57:10"
+    }, {
+      "id" : 3128,
+      "name" : "遇上你遇上爱：丫头，哪里逃",
+      "summary" : "孤独的度过17年的孤儿生活，意外的亲生父母来相认，转校的第一天遇到了妖孽般的他，冰山似的他，又超级苦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44779.jpg",
+      "updateStatus" : 1,
+      "capacity" : 875037,
+      "lastUpdateTime" : "2013-12-03 06:44:24"
+    }, {
+      "id" : 2922,
+      "name" : "用我一生：许你欢颜",
+      "summary" : "4s店的销售菜鸟许逸欢不知走了什么狗屎运，今天居然被她逮到一个大客户，而且这个大客户还是一个超级大帅",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46665.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7139955,
+      "lastUpdateTime" : "2013-12-03 06:33:01"
+    }, {
+      "id" : 2584,
+      "name" : "再见，暴君总裁",
+      "summary" : "记住！你可以腹黑，可以霸道，可以暴君，但是姐可以转身，爱谁谁！这是正常女子的反应。可有的女子温柔得如",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41775.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8244913,
+      "lastUpdateTime" : "2013-12-03 06:25:52"
+    }, {
+      "id" : 3122,
+      "name" : "跟踪狂",
+      "summary" : "我是仙道彰，毕业于东大，在别人看来，我是一个在正常不过的人，但实际上我是一个有缺口且神经质的人，我不",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47608.jpg",
+      "updateStatus" : 1,
+      "capacity" : 214829,
+      "lastUpdateTime" : "2013-12-03 06:08:59"
+    }, {
+      "id" : 2762,
+      "name" : "笛吟，离殇 ",
+      "summary" : "倾国系列之五国篇天下五分渐渐生出颓势，五国之间矛盾积压各国不和由来已久。恰逢将乱未乱之时，二十二年满",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47438.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9528924,
+      "lastUpdateTime" : "2013-12-03 05:31:54"
+    }, {
+      "id" : 3069,
+      "name" : "假想敌",
+      "summary" : "穆然学成归国后第一天就在酒吧撞上喝醉了的万里，姑娘第一眼看到他跟看见了鬼一样，第二眼便和以前一样看到",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43442.jpg",
+      "updateStatus" : 1,
+      "capacity" : 398351,
+      "lastUpdateTime" : "2013-12-03 04:58:28"
+    }, {
+      "id" : 3570,
+      "name" : "挚爱傻夫君",
+      "summary" : "她是千年的杀手女王，但梦中总有一张俊颜闪过，很是熟悉。。。他是帝晨国的傻王，他的梦里总有一对美眸，他",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43982.jpg",
+      "updateStatus" : 1,
+      "capacity" : 983137,
+      "lastUpdateTime" : "2013-12-03 04:16:46"
+    }, {
+      "id" : 2310,
+      "name" : "小石劫",
+      "summary" : "她是无忧无虑的一枚小小妖石，借着钟灵毓秀天地之气幻化成人，无心无情游历在天地之间，一事一轮回，千回百",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45517.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3902011,
+      "lastUpdateTime" : "2013-12-03 04:05:45"
+    }, {
+      "id" : 2442,
+      "name" : "峰回路转只见君",
+      "summary" : "作为一个宅女，萧潇说的最多的一句话就是——“三次元无爱，估计我这辈子是嫁不出去了，除非我硬盘里的二次",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47867.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5107958,
+      "lastUpdateTime" : "2013-12-03 04:01:59"
+    }, {
+      "id" : 2040,
+      "name" : "误闯总裁领地，哪里逃！",
+      "summary" : "如果，并不怎么熟的两人偶然亲在了一起，一个荷尔蒙飙升一个脸红心跳，说明了什么？如果，互不待见的两个人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17825.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2926783,
+      "lastUpdateTime" : "2013-12-03 03:40:01"
+    } ]
+  }
+}

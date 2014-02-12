@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 4994,
+      "title" : "读心术①",
+      "capacity" : 7499
+    }, {
+      "id" : 4995,
+      "title" : "读心术②",
+      "capacity" : 7481
+    }, {
+      "id" : 4996,
+      "title" : "读心术③",
+      "capacity" : 7060
+    } ]
+  }
+}

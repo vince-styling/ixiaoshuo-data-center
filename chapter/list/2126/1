@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 12,
+    "list" : [ {
+      "id" : 3692,
+      "title" : "序",
+      "capacity" : 3788
+    }, {
+      "id" : 3693,
+      "title" : "第一章 道祖",
+      "capacity" : 16128
+    }, {
+      "id" : 3694,
+      "title" : "第二章 小公主拜师学艺，泾阳城比武招亲",
+      "capacity" : 17812
+    }, {
+      "id" : 3695,
+      "title" : "第三章 朝歌 聚、散",
+      "capacity" : 11055
+    }, {
+      "id" : 3696,
+      "title" : "第四章 青青子衿",
+      "capacity" : 5226
+    }, {
+      "id" : 3697,
+      "title" : "第五章 神农教PK轩辕帮",
+      "capacity" : 9176
+    }, {
+      "id" : 3698,
+      "title" : "第六章 悠悠我心",
+      "capacity" : 7703
+    }, {
+      "id" : 3699,
+      "title" : "第七章 苦心人 天不负 三千越甲可吞吴",
+      "capacity" : 7629
+    }, {
+      "id" : 3700,
+      "title" : "第八章 西施范蠡",
+      "capacity" : 9408
+    }, {
+      "id" : 3701,
+      "title" : "第九章 乞丐与佳人",
+      "capacity" : 10430
+    }, {
+      "id" : 3702,
+      "title" : "第十章 小萝莉的那些事",
+      "capacity" : 6735
+    }, {
+      "id" : 3703,
+      "title" : "第十一章 彭城遇袭",
+      "capacity" : 7445
+    } ]
+  }
+}

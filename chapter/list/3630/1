@@ -1,0 +1,166 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 39,
+    "list" : [ {
+      "id" : 4609,
+      "title" : "楔子",
+      "capacity" : 1918
+    }, {
+      "id" : 4610,
+      "title" : "第一章Hello我是若妃（1）",
+      "capacity" : 3676
+    }, {
+      "id" : 4611,
+      "title" : "Hello 我是若妃（2）",
+      "capacity" : 14632
+    }, {
+      "id" : 4612,
+      "title" : "hello 我是若妃（3）",
+      "capacity" : 14438
+    }, {
+      "id" : 4613,
+      "title" : "Hello 我是若妃（4）",
+      "capacity" : 10279
+    }, {
+      "id" : 4614,
+      "title" : "Hello 我是若妃（5）",
+      "capacity" : 4286
+    }, {
+      "id" : 4615,
+      "title" : "Hello 我是若妃（6）",
+      "capacity" : 5820
+    }, {
+      "id" : 4616,
+      "title" : "Hello 我是若妃（7）",
+      "capacity" : 4957
+    }, {
+      "id" : 4617,
+      "title" : "若心 早已冷透（1）",
+      "capacity" : 6686
+    }, {
+      "id" : 4618,
+      "title" : "若心 早已冷透（2）",
+      "capacity" : 5193
+    }, {
+      "id" : 4619,
+      "title" : "若心 早已冷透（3）",
+      "capacity" : 10111
+    }, {
+      "id" : 4620,
+      "title" : "若心 早已冷透（4）",
+      "capacity" : 9883
+    }, {
+      "id" : 4621,
+      "title" : "若心 早已冷透（5）",
+      "capacity" : 6388
+    }, {
+      "id" : 4622,
+      "title" : "若心 早已冷透（6）",
+      "capacity" : 9485
+    }, {
+      "id" : 4623,
+      "title" : "妃意 并非此意（1）",
+      "capacity" : 11638
+    }, {
+      "id" : 4624,
+      "title" : "妃意 并非此意（2）",
+      "capacity" : 6536
+    }, {
+      "id" : 4625,
+      "title" : "妃意 并非此意（3）",
+      "capacity" : 8268
+    }, {
+      "id" : 4626,
+      "title" : "妃意 并非此意（4）",
+      "capacity" : 9429
+    }, {
+      "id" : 4627,
+      "title" : "妃意 并非此意（5）",
+      "capacity" : 13595
+    }, {
+      "id" : 4628,
+      "title" : "真相 若即若离（1）",
+      "capacity" : 10039
+    }, {
+      "id" : 4629,
+      "title" : "真相 若即若离（2）",
+      "capacity" : 12023
+    }, {
+      "id" : 4630,
+      "title" : "真相 若即若离（3）",
+      "capacity" : 8889
+    }, {
+      "id" : 4631,
+      "title" : "真相 若即若离（4）",
+      "capacity" : 7770
+    }, {
+      "id" : 4632,
+      "title" : "真相 若即若离（5）",
+      "capacity" : 11615
+    }, {
+      "id" : 4633,
+      "title" : "真相 若即若离（6）",
+      "capacity" : 7583
+    }, {
+      "id" : 4634,
+      "title" : "真相 若即若离（7）",
+      "capacity" : 9609
+    }, {
+      "id" : 4635,
+      "title" : "耳语 妃你莫属（1）",
+      "capacity" : 11186
+    }, {
+      "id" : 4636,
+      "title" : "耳语 妃你莫属（2）",
+      "capacity" : 9429
+    }, {
+      "id" : 4637,
+      "title" : "耳语 妃你莫属（3）",
+      "capacity" : 7239
+    }, {
+      "id" : 4638,
+      "title" : "耳语 妃你莫属（4）",
+      "capacity" : 11215
+    }, {
+      "id" : 4639,
+      "title" : "耳语 妃你莫属（5）",
+      "capacity" : 9356
+    }, {
+      "id" : 4640,
+      "title" : "耳语 妃你莫属（6）",
+      "capacity" : 7360
+    }, {
+      "id" : 4641,
+      "title" : "耳语 妃你莫属（7）",
+      "capacity" : 8745
+    }, {
+      "id" : 4642,
+      "title" : "耳语 妃你莫属（8）",
+      "capacity" : 12683
+    }, {
+      "id" : 4643,
+      "title" : "耳语 妃你莫属（9）",
+      "capacity" : 11715
+    }, {
+      "id" : 4644,
+      "title" : "耳语 妃你莫属（10）",
+      "capacity" : 7539
+    }, {
+      "id" : 4645,
+      "title" : "漠然 若非当初（1）",
+      "capacity" : 10343
+    }, {
+      "id" : 4646,
+      "title" : "漠然 若非当初（2）",
+      "capacity" : 10295
+    }, {
+      "id" : 4647,
+      "title" : "漠然 若非当初（3）",
+      "capacity" : 15275
+    } ]
+  }
+}

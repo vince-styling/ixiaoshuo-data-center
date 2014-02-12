@@ -1,0 +1,78 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 67,
+    "list" : [ {
+      "id" : 3084,
+      "title" : "试水（上）",
+      "capacity" : 5661
+    }, {
+      "id" : 3085,
+      "title" : "试水（中）",
+      "capacity" : 5545
+    }, {
+      "id" : 3086,
+      "title" : "试水（下）",
+      "capacity" : 6445
+    }, {
+      "id" : 3087,
+      "title" : "亦师亦友",
+      "capacity" : 6732
+    }, {
+      "id" : 3088,
+      "title" : "理想",
+      "capacity" : 6775
+    }, {
+      "id" : 3089,
+      "title" : "现实",
+      "capacity" : 6338
+    }, {
+      "id" : 3090,
+      "title" : "醉酒",
+      "capacity" : 6580
+    }, {
+      "id" : 3091,
+      "title" : "迷途1",
+      "capacity" : 6763
+    }, {
+      "id" : 3092,
+      "title" : "迷途2",
+      "capacity" : 6725
+    }, {
+      "id" : 3093,
+      "title" : "迷途3",
+      "capacity" : 6518
+    }, {
+      "id" : 3094,
+      "title" : "迷途4",
+      "capacity" : 6213
+    }, {
+      "id" : 3095,
+      "title" : "迷途5",
+      "capacity" : 6327
+    }, {
+      "id" : 3096,
+      "title" : "迷途6",
+      "capacity" : 6110
+    }, {
+      "id" : 3097,
+      "title" : "迷途7",
+      "capacity" : 6255
+    }, {
+      "id" : 3098,
+      "title" : "迷途8",
+      "capacity" : 6261
+    }, {
+      "id" : 3099,
+      "title" : "迷途9",
+      "capacity" : 5973
+    }, {
+      "id" : 3100,
+      "title" : "迷途10",
+      "capacity" : 7301
+    } ]
+  }
+}

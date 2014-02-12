@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 1688,
+      "title" : "一、去日留痕",
+      "capacity" : 8830
+    }, {
+      "id" : 1689,
+      "title" : "二、雅努斯·守护神",
+      "capacity" : 5356
+    }, {
+      "id" : 1690,
+      "title" : "三、谢谢青春",
+      "capacity" : 11187
+    }, {
+      "id" : 1691,
+      "title" : "四、杀人庄·风夕院",
+      "capacity" : 14648
+    }, {
+      "id" : 1692,
+      "title" : "四、杀人庄·风夕院",
+      "capacity" : 14648
+    }, {
+      "id" : 1693,
+      "title" : "五、青春·转身",
+      "capacity" : 13111
+    }, {
+      "id" : 1694,
+      "title" : "六、一剑飘香",
+      "capacity" : 14763
+    }, {
+      "id" : 1695,
+      "title" : "七、别再等待",
+      "capacity" : 11642
+    }, {
+      "id" : 1696,
+      "title" : "八、问花无语",
+      "capacity" : 15814
+    } ]
+  }
+}

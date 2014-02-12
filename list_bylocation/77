@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 77,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3412,
+      "name" : "请在原地等等我",
+      "updateStatus" : 1,
+      "distance" : 8055,
+      "memberId" : 6988
+    }, {
+      "id" : 2075,
+      "name" : "青衣镇",
+      "updateStatus" : 1,
+      "distance" : 1197,
+      "memberId" : 8864
+    }, {
+      "id" : 2489,
+      "name" : "雪落的声音",
+      "updateStatus" : 1,
+      "distance" : 1778,
+      "memberId" : 1603
+    }, {
+      "id" : 2629,
+      "name" : "触碰纯白的爱恋",
+      "updateStatus" : 1,
+      "distance" : 7610,
+      "memberId" : 3544
+    }, {
+      "id" : 2967,
+      "name" : "渐爱，深爱",
+      "updateStatus" : 1,
+      "distance" : 9871,
+      "memberId" : 3917
+    }, {
+      "id" : 2170,
+      "name" : "轮回三生劫",
+      "updateStatus" : 1,
+      "distance" : 9024,
+      "memberId" : 3131
+    }, {
+      "id" : 3054,
+      "name" : "宫：殇世绝恋",
+      "updateStatus" : 1,
+      "distance" : 1804,
+      "memberId" : 5842
+    }, {
+      "id" : 3697,
+      "name" : "一路有爱陪着亲",
+      "updateStatus" : 1,
+      "distance" : 7127,
+      "memberId" : 2429
+    }, {
+      "id" : 2823,
+      "name" : "情结若楚",
+      "updateStatus" : 1,
+      "distance" : 8155,
+      "memberId" : 3724
+    }, {
+      "id" : 2533,
+      "name" : "泪倾城之梦汐醉",
+      "updateStatus" : 1,
+      "distance" : 4430,
+      "memberId" : 6429
+    }, {
+      "id" : 3658,
+      "name" : "昙花一现，经年不灭",
+      "updateStatus" : 1,
+      "distance" : 7789,
+      "memberId" : 1513
+    }, {
+      "id" : 2560,
+      "name" : "穿越女尊之桃花朵朵开",
+      "updateStatus" : 1,
+      "distance" : 8575,
+      "memberId" : 8253
+    }, {
+      "id" : 2499,
+      "name" : "我在路口等你",
+      "updateStatus" : 1,
+      "distance" : 8843,
+      "memberId" : 3650
+    }, {
+      "id" : 3521,
+      "name" : "总裁很霸道：老婆。你非我莫属",
+      "updateStatus" : 1,
+      "distance" : 615,
+      "memberId" : 8105
+    }, {
+      "id" : 2144,
+      "name" : "英雄道",
+      "updateStatus" : 2,
+      "distance" : 4498,
+      "memberId" : 7052
+    }, {
+      "id" : 3127,
+      "name" : "重生之轻月浮华",
+      "updateStatus" : 2,
+      "distance" : 3883,
+      "memberId" : 4230
+    }, {
+      "id" : 3612,
+      "name" : "家殇梦",
+      "updateStatus" : 1,
+      "distance" : 8766,
+      "memberId" : 5344
+    }, {
+      "id" : 2973,
+      "name" : "独占温宠",
+      "updateStatus" : 1,
+      "distance" : 8376,
+      "memberId" : 4733
+    }, {
+      "id" : 3724,
+      "name" : "白泽之神",
+      "updateStatus" : 1,
+      "distance" : 4239,
+      "memberId" : 4485
+    }, {
+      "id" : 3197,
+      "name" : "暮叶年华",
+      "updateStatus" : 1,
+      "distance" : 7684,
+      "memberId" : 5263
+    } ]
+  }
+}

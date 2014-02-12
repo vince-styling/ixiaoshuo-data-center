@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 12,
+    "list" : [ {
+      "id" : 1590,
+      "title" : "第一章 不期而遇",
+      "capacity" : 17548
+    }, {
+      "id" : 1591,
+      "title" : "第二章 再次相遇",
+      "capacity" : 17101
+    }, {
+      "id" : 1592,
+      "title" : "第三章 原来是应该认识",
+      "capacity" : 15923
+    }, {
+      "id" : 1593,
+      "title" : "第四章 不为人知的往事",
+      "capacity" : 3052
+    }, {
+      "id" : 1594,
+      "title" : "第五章 掉下泳池",
+      "capacity" : 7460
+    }, {
+      "id" : 1595,
+      "title" : "第六章 被曝光",
+      "capacity" : 5954
+    }, {
+      "id" : 1596,
+      "title" : "第七章 道歉",
+      "capacity" : 5564
+    }, {
+      "id" : 1597,
+      "title" : "第八章 真相",
+      "capacity" : 6852
+    }, {
+      "id" : 1598,
+      "title" : "第九章 争吵",
+      "capacity" : 3741
+    }, {
+      "id" : 1599,
+      "title" : "第十章 搬出去",
+      "capacity" : 4884
+    }, {
+      "id" : 1600,
+      "title" : "第十一章 劝说失败",
+      "capacity" : 5851
+    }, {
+      "id" : 1601,
+      "title" : "第十二章 不像女儿 不像妈妈",
+      "capacity" : 5098
+    } ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 72,
+    "list" : [ {
+      "id" : 2571,
+      "title" : "阁楼【二】",
+      "capacity" : 5306
+    }, {
+      "id" : 2572,
+      "title" : "阁楼【三】",
+      "capacity" : 6361
+    }, {
+      "id" : 2573,
+      "title" : "阁楼【四】",
+      "capacity" : 7160
+    }, {
+      "id" : 2574,
+      "title" : "搏杀【一】",
+      "capacity" : 6261
+    }, {
+      "id" : 2575,
+      "title" : "搏杀【二】",
+      "capacity" : 6765
+    }, {
+      "id" : 2576,
+      "title" : "搏杀【三】",
+      "capacity" : 6767
+    }, {
+      "id" : 2577,
+      "title" : "搏杀【四】",
+      "capacity" : 6225
+    }, {
+      "id" : 2578,
+      "title" : "搏杀【五】",
+      "capacity" : 3391
+    }, {
+      "id" : 2579,
+      "title" : "归来",
+      "capacity" : 6525
+    }, {
+      "id" : 2580,
+      "title" : "登基【一】",
+      "capacity" : 5681
+    }, {
+      "id" : 2581,
+      "title" : "登基【二】",
+      "capacity" : 6215
+    }, {
+      "id" : 2582,
+      "title" : "登基【三】",
+      "capacity" : 6535
+    }, {
+      "id" : 2583,
+      "title" : "登基【四】",
+      "capacity" : 6535
+    }, {
+      "id" : 2584,
+      "title" : "登基【五】",
+      "capacity" : 7059
+    }, {
+      "id" : 2585,
+      "title" : "刺客【一】",
+      "capacity" : 3526
+    }, {
+      "id" : 2586,
+      "title" : "刺客【二】",
+      "capacity" : 3949
+    }, {
+      "id" : 2587,
+      "title" : "刺客【三】",
+      "capacity" : 4035
+    }, {
+      "id" : 2588,
+      "title" : "刺客【四】",
+      "capacity" : 4689
+    }, {
+      "id" : 2589,
+      "title" : "刺客【五】",
+      "capacity" : 4233
+    }, {
+      "id" : 2590,
+      "title" : "刺客【六】",
+      "capacity" : 4749
+    }, {
+      "id" : 2591,
+      "title" : "昭告【一】",
+      "capacity" : 2655
+    }, {
+      "id" : 2592,
+      "title" : "昭告【二】",
+      "capacity" : 4502
+    } ]
+  }
+}

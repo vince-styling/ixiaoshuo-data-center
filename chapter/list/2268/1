@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 30,
+    "list" : [ {
+      "id" : 2916,
+      "title" : "一",
+      "capacity" : 9065
+    }, {
+      "id" : 2917,
+      "title" : "二",
+      "capacity" : 6507
+    }, {
+      "id" : 2918,
+      "title" : "三",
+      "capacity" : 12114
+    }, {
+      "id" : 2919,
+      "title" : "四",
+      "capacity" : 9045
+    }, {
+      "id" : 2920,
+      "title" : "五",
+      "capacity" : 9412
+    }, {
+      "id" : 2921,
+      "title" : "六",
+      "capacity" : 12118
+    }, {
+      "id" : 2922,
+      "title" : "七",
+      "capacity" : 12089
+    }, {
+      "id" : 2923,
+      "title" : "八",
+      "capacity" : 12222
+    }, {
+      "id" : 2924,
+      "title" : "九",
+      "capacity" : 15132
+    }, {
+      "id" : 2925,
+      "title" : "十",
+      "capacity" : 9098
+    }, {
+      "id" : 2926,
+      "title" : "十一",
+      "capacity" : 9124
+    }, {
+      "id" : 2927,
+      "title" : "十二",
+      "capacity" : 9113
+    }, {
+      "id" : 2928,
+      "title" : "十三",
+      "capacity" : 9223
+    }, {
+      "id" : 2929,
+      "title" : "十四",
+      "capacity" : 9205
+    }, {
+      "id" : 2930,
+      "title" : "十五",
+      "capacity" : 9137
+    }, {
+      "id" : 2931,
+      "title" : "十六",
+      "capacity" : 9135
+    }, {
+      "id" : 2932,
+      "title" : "十七",
+      "capacity" : 9191
+    }, {
+      "id" : 2933,
+      "title" : "十八",
+      "capacity" : 9063
+    }, {
+      "id" : 2934,
+      "title" : "十九",
+      "capacity" : 9212
+    }, {
+      "id" : 2935,
+      "title" : "二十",
+      "capacity" : 9202
+    }, {
+      "id" : 2936,
+      "title" : "二十一",
+      "capacity" : 9059
+    }, {
+      "id" : 2937,
+      "title" : "二十二",
+      "capacity" : 9274
+    }, {
+      "id" : 2938,
+      "title" : "二十三",
+      "capacity" : 9121
+    }, {
+      "id" : 2939,
+      "title" : "二十四",
+      "capacity" : 9061
+    }, {
+      "id" : 2940,
+      "title" : "二十五",
+      "capacity" : 9126
+    }, {
+      "id" : 2941,
+      "title" : "二十六",
+      "capacity" : 9049
+    }, {
+      "id" : 2942,
+      "title" : "二十七",
+      "capacity" : 9065
+    }, {
+      "id" : 2943,
+      "title" : "二十八",
+      "capacity" : 9484
+    }, {
+      "id" : 2944,
+      "title" : "二十九",
+      "capacity" : 9194
+    }, {
+      "id" : 2945,
+      "title" : "三十",
+      "capacity" : 9113
+    } ]
+  }
+}

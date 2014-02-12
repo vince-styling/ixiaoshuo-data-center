@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 2920,
+      "title" : "心痛的意外（2）",
+      "capacity" : 2872
+    }, {
+      "id" : 2921,
+      "title" : "心痛的意外（3）",
+      "capacity" : 3050
+    }, {
+      "id" : 2922,
+      "title" : "心痛的意外（4）",
+      "capacity" : 3077
+    }, {
+      "id" : 2923,
+      "title" : "情敌的出现(1)",
+      "capacity" : 3068
+    } ]
+  }
+}

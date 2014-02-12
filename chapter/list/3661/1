@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 2585,
+      "title" : "锦州三月，过客",
+      "capacity" : 12109
+    }, {
+      "id" : 2586,
+      "title" : "藏剑秋瑟 初始",
+      "capacity" : 13111
+    }, {
+      "id" : 2587,
+      "title" : "良辰美景，谁看",
+      "capacity" : 12019
+    }, {
+      "id" : 2588,
+      "title" : "珠光宝气，入幕",
+      "capacity" : 13033
+    } ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 1043,
+      "title" : "第一章，给我连衣裙",
+      "capacity" : 16179
+    }, {
+      "id" : 1044,
+      "title" : "第二章，回应的海",
+      "capacity" : 18074
+    }, {
+      "id" : 1045,
+      "title" : "第三章，遇见老同学",
+      "capacity" : 14413
+    }, {
+      "id" : 1046,
+      "title" : "第四章，一条裙子",
+      "capacity" : 16333
+    }, {
+      "id" : 1047,
+      "title" : "第五章，婚礼上",
+      "capacity" : 14470
+    }, {
+      "id" : 1048,
+      "title" : "第六章，新生活",
+      "capacity" : 11819
+    }, {
+      "id" : 1049,
+      "title" : "第七章，再遇",
+      "capacity" : 9753
+    }, {
+      "id" : 1050,
+      "title" : "第八章，那女孩",
+      "capacity" : 7252
+    }, {
+      "id" : 1051,
+      "title" : "第九章，游成名的爱",
+      "capacity" : 9220
+    }, {
+      "id" : 1052,
+      "title" : "第十章，报复",
+      "capacity" : 9872
+    }, {
+      "id" : 1053,
+      "title" : "第十一章，我分不开你的心",
+      "capacity" : 6755
+    }, {
+      "id" : 1054,
+      "title" : "第十二章，许愿",
+      "capacity" : 6910
+    }, {
+      "id" : 1055,
+      "title" : "第十三章，女鬼",
+      "capacity" : 4350
+    } ]
+  }
+}

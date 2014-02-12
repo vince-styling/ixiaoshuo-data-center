@@ -1,0 +1,182 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 43,
+    "list" : [ {
+      "id" : 3879,
+      "title" : "上架公告",
+      "capacity" : 1950
+    }, {
+      "id" : 3880,
+      "title" : "第一章",
+      "capacity" : 10435
+    }, {
+      "id" : 3881,
+      "title" : "第二章",
+      "capacity" : 10711
+    }, {
+      "id" : 3882,
+      "title" : "第三章",
+      "capacity" : 10699
+    }, {
+      "id" : 3883,
+      "title" : "第四章",
+      "capacity" : 9822
+    }, {
+      "id" : 3884,
+      "title" : "第五章",
+      "capacity" : 9966
+    }, {
+      "id" : 3885,
+      "title" : "第六章",
+      "capacity" : 9762
+    }, {
+      "id" : 3886,
+      "title" : "第七章",
+      "capacity" : 9833
+    }, {
+      "id" : 3887,
+      "title" : "第八章",
+      "capacity" : 9622
+    }, {
+      "id" : 3888,
+      "title" : "第九章",
+      "capacity" : 9761
+    }, {
+      "id" : 3889,
+      "title" : "第十章",
+      "capacity" : 9624
+    }, {
+      "id" : 3890,
+      "title" : "第十一章",
+      "capacity" : 10022
+    }, {
+      "id" : 3891,
+      "title" : "第十二章",
+      "capacity" : 9828
+    }, {
+      "id" : 3892,
+      "title" : "第十三章",
+      "capacity" : 9749
+    }, {
+      "id" : 3893,
+      "title" : "第十四章",
+      "capacity" : 9597
+    }, {
+      "id" : 3894,
+      "title" : "第十五章",
+      "capacity" : 9614
+    }, {
+      "id" : 3895,
+      "title" : "第十六章",
+      "capacity" : 9384
+    }, {
+      "id" : 3896,
+      "title" : "第十七章",
+      "capacity" : 9330
+    }, {
+      "id" : 3897,
+      "title" : "第十八章",
+      "capacity" : 9458
+    }, {
+      "id" : 3898,
+      "title" : "第十九章",
+      "capacity" : 9292
+    }, {
+      "id" : 3899,
+      "title" : "第二十章",
+      "capacity" : 9373
+    }, {
+      "id" : 3900,
+      "title" : "第二十一章",
+      "capacity" : 9182
+    }, {
+      "id" : 3901,
+      "title" : "第二十二章",
+      "capacity" : 9310
+    }, {
+      "id" : 3902,
+      "title" : "第二十三章",
+      "capacity" : 9337
+    }, {
+      "id" : 3903,
+      "title" : "第二十五章",
+      "capacity" : 9156
+    }, {
+      "id" : 3904,
+      "title" : "第二十四章",
+      "capacity" : 9408
+    }, {
+      "id" : 3905,
+      "title" : "第二十五章",
+      "capacity" : 9156
+    }, {
+      "id" : 3906,
+      "title" : "第二十六章",
+      "capacity" : 9350
+    }, {
+      "id" : 3907,
+      "title" : "第二十七章",
+      "capacity" : 9346
+    }, {
+      "id" : 3908,
+      "title" : "第二十八章",
+      "capacity" : 9322
+    }, {
+      "id" : 3909,
+      "title" : "第二十九章",
+      "capacity" : 9276
+    }, {
+      "id" : 3910,
+      "title" : "第三十章",
+      "capacity" : 9383
+    }, {
+      "id" : 3911,
+      "title" : "第三十一章",
+      "capacity" : 9352
+    }, {
+      "id" : 3912,
+      "title" : "第三十二章",
+      "capacity" : 9283
+    }, {
+      "id" : 3913,
+      "title" : "第三十三章",
+      "capacity" : 9346
+    }, {
+      "id" : 3914,
+      "title" : "第三十四章",
+      "capacity" : 9321
+    }, {
+      "id" : 3915,
+      "title" : "第三十五章",
+      "capacity" : 9366
+    }, {
+      "id" : 3916,
+      "title" : "第三十六章",
+      "capacity" : 9426
+    }, {
+      "id" : 3917,
+      "title" : "第三十七章",
+      "capacity" : 9348
+    }, {
+      "id" : 3918,
+      "title" : "第三十八章",
+      "capacity" : 9417
+    }, {
+      "id" : 3919,
+      "title" : "第三十九章",
+      "capacity" : 9197
+    }, {
+      "id" : 3920,
+      "title" : "第四十章",
+      "capacity" : 9265
+    }, {
+      "id" : 3921,
+      "title" : "第四十一章",
+      "capacity" : 9413
+    } ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 4390,
+      "title" : "第一章：千年女尸",
+      "capacity" : 10121
+    }, {
+      "id" : 4391,
+      "title" : "第二章：梦回千年汉室",
+      "capacity" : 9937
+    }, {
+      "id" : 4392,
+      "title" : "第三章：噩梦缠身",
+      "capacity" : 10306
+    }, {
+      "id" : 4393,
+      "title" : "第四章：梦回千年",
+      "capacity" : 11157
+    } ]
+  }
+}

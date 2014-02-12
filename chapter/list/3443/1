@@ -1,0 +1,114 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 26,
+    "list" : [ {
+      "id" : 4120,
+      "title" : "第一章 世外桃源",
+      "capacity" : 4322
+    }, {
+      "id" : 4121,
+      "title" : "第二章 落落清欢",
+      "capacity" : 7261
+    }, {
+      "id" : 4122,
+      "title" : "第三章 长歌与卿",
+      "capacity" : 6179
+    }, {
+      "id" : 4123,
+      "title" : "第四章 青山隐隐",
+      "capacity" : 5770
+    }, {
+      "id" : 4124,
+      "title" : "第五章 假面真情",
+      "capacity" : 6860
+    }, {
+      "id" : 4125,
+      "title" : "第六章 鸳鸯祠堂",
+      "capacity" : 6276
+    }, {
+      "id" : 4126,
+      "title" : "第七章 心悦君兮",
+      "capacity" : 6786
+    }, {
+      "id" : 4127,
+      "title" : "第八章 东海意如",
+      "capacity" : 8295
+    }, {
+      "id" : 4128,
+      "title" : "第九章 天覆阵法",
+      "capacity" : 7144
+    }, {
+      "id" : 4129,
+      "title" : "第十章 一日安稳",
+      "capacity" : 7762
+    }, {
+      "id" : 4130,
+      "title" : "第十一章 白玉响铃",
+      "capacity" : 6637
+    }, {
+      "id" : 4131,
+      "title" : "第十二章 盘龙之壁",
+      "capacity" : 9172
+    }, {
+      "id" : 4132,
+      "title" : "第十三章 浮生若梦",
+      "capacity" : 8936
+    }, {
+      "id" : 4133,
+      "title" : "第十四章 偶遇渡头",
+      "capacity" : 7528
+    }, {
+      "id" : 4134,
+      "title" : "第十五章 火鹤花海",
+      "capacity" : 6433
+    }, {
+      "id" : 4135,
+      "title" : "第十六章 元始天尊",
+      "capacity" : 7374
+    }, {
+      "id" : 4136,
+      "title" : "第十七章 昔日种种",
+      "capacity" : 7279
+    }, {
+      "id" : 4137,
+      "title" : "第十八章 此生不换",
+      "capacity" : 8202
+    }, {
+      "id" : 4138,
+      "title" : "第十九章 倾情天涯",
+      "capacity" : 9284
+    }, {
+      "id" : 4139,
+      "title" : "第二十章 姐妹同心（上）",
+      "capacity" : 9410
+    }, {
+      "id" : 4140,
+      "title" : "第二十一章 姐妹同心（下）",
+      "capacity" : 10082
+    }, {
+      "id" : 4141,
+      "title" : "第二十二章 妖神初现",
+      "capacity" : 9332
+    }, {
+      "id" : 4142,
+      "title" : "第二十三章 兜兜转转",
+      "capacity" : 9213
+    }, {
+      "id" : 4143,
+      "title" : "第二十四章 夜阑人静",
+      "capacity" : 9658
+    }, {
+      "id" : 4144,
+      "title" : "第二十五章 奈何奈何",
+      "capacity" : 9131
+    }, {
+      "id" : 4145,
+      "title" : "第二十六章 归于静谧",
+      "capacity" : 9676
+    } ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 2859,
+      "title" : "楔子",
+      "capacity" : 5959
+    }, {
+      "id" : 2860,
+      "title" : "行走在雨中",
+      "capacity" : 3042
+    }, {
+      "id" : 2861,
+      "title" : "初入学园之交友",
+      "capacity" : 3022
+    }, {
+      "id" : 2862,
+      "title" : "关于凤栗赫之出门受阻",
+      "capacity" : 2775
+    }, {
+      "id" : 2863,
+      "title" : "集会",
+      "capacity" : 2583
+    } ]
+  }
+}

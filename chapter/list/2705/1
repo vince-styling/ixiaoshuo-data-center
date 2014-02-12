@@ -1,0 +1,66 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 14,
+    "list" : [ {
+      "id" : 3167,
+      "title" : "第一章 文氏",
+      "capacity" : 11175
+    }, {
+      "id" : 3168,
+      "title" : "第二章 联姻",
+      "capacity" : 7936
+    }, {
+      "id" : 3169,
+      "title" : "第三章 阴谋",
+      "capacity" : 9943
+    }, {
+      "id" : 3170,
+      "title" : "第四章 报仇",
+      "capacity" : 8041
+    }, {
+      "id" : 3171,
+      "title" : "第五章 收养",
+      "capacity" : 10397
+    }, {
+      "id" : 3172,
+      "title" : "第六章 寿宴",
+      "capacity" : 12550
+    }, {
+      "id" : 3173,
+      "title" : "第七章 滚云兽",
+      "capacity" : 9598
+    }, {
+      "id" : 3174,
+      "title" : "第八章 身份",
+      "capacity" : 10218
+    }, {
+      "id" : 3175,
+      "title" : "第九章 掌权",
+      "capacity" : 9588
+    }, {
+      "id" : 3176,
+      "title" : "第十章 红菊",
+      "capacity" : 8457
+    }, {
+      "id" : 3177,
+      "title" : "第十一章 任务",
+      "capacity" : 9575
+    }, {
+      "id" : 3178,
+      "title" : "第十二章 白菊",
+      "capacity" : 9850
+    }, {
+      "id" : 3179,
+      "title" : "第十三章 劫",
+      "capacity" : 8823
+    }, {
+      "id" : 3180,
+      "title" : "第十四章 魂灵兽",
+      "capacity" : 7360
+    } ]
+  }
+}

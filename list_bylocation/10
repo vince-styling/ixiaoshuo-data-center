@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 10,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3335,
+      "name" : "埋葬在青春里的爱恋",
+      "updateStatus" : 1,
+      "distance" : 762,
+      "memberId" : 7299
+    }, {
+      "id" : 2089,
+      "name" : "旷世奇恋",
+      "updateStatus" : 1,
+      "distance" : 6871,
+      "memberId" : 7595
+    }, {
+      "id" : 2653,
+      "name" : "恶魔让你遇见我",
+      "updateStatus" : 1,
+      "distance" : 2505,
+      "memberId" : 2857
+    }, {
+      "id" : 3431,
+      "name" : "修真女配混末世",
+      "updateStatus" : 1,
+      "distance" : 6374,
+      "memberId" : 4956
+    }, {
+      "id" : 2135,
+      "name" : "阵惊天下",
+      "updateStatus" : 2,
+      "distance" : 1323,
+      "memberId" : 8889
+    }, {
+      "id" : 3539,
+      "name" : "恶魔少爷的失宠玩偶",
+      "updateStatus" : 1,
+      "distance" : 2722,
+      "memberId" : 3924
+    }, {
+      "id" : 2344,
+      "name" : "枫林残恋",
+      "updateStatus" : 1,
+      "distance" : 6525,
+      "memberId" : 8544
+    }, {
+      "id" : 3257,
+      "name" : "相思引，魔王的羁绊",
+      "updateStatus" : 1,
+      "distance" : 2481,
+      "memberId" : 6697
+    }, {
+      "id" : 3700,
+      "name" : "江湖囧事录",
+      "updateStatus" : 1,
+      "distance" : 4571,
+      "memberId" : 2009
+    }, {
+      "id" : 3288,
+      "name" : "契约情人之滚下我的床",
+      "updateStatus" : 1,
+      "distance" : 527,
+      "memberId" : 3417
+    }, {
+      "id" : 2931,
+      "name" : "蝶风之交错的缘",
+      "updateStatus" : 1,
+      "distance" : 1552,
+      "memberId" : 5503
+    }, {
+      "id" : 3152,
+      "name" : "晚晴空",
+      "updateStatus" : 1,
+      "distance" : 8720,
+      "memberId" : 3489
+    }, {
+      "id" : 2435,
+      "name" : "绝世青龙王",
+      "updateStatus" : 1,
+      "distance" : 4928,
+      "memberId" : 3907
+    }, {
+      "id" : 2218,
+      "name" : "谁欲人王",
+      "updateStatus" : 1,
+      "distance" : 9971,
+      "memberId" : 5527
+    }, {
+      "id" : 3560,
+      "name" : "豪门虐恋：多情二少独宠疯丫头",
+      "updateStatus" : 1,
+      "distance" : 5342,
+      "memberId" : 6940
+    }, {
+      "id" : 3276,
+      "name" : "宫心计续集",
+      "updateStatus" : 1,
+      "distance" : 5360,
+      "memberId" : 5698
+    }, {
+      "id" : 3637,
+      "name" : "万里月明",
+      "updateStatus" : 1,
+      "distance" : 2712,
+      "memberId" : 7032
+    }, {
+      "id" : 2537,
+      "name" : "一馨二逸",
+      "updateStatus" : 1,
+      "distance" : 7354,
+      "memberId" : 2579
+    }, {
+      "id" : 3692,
+      "name" : "恶魔承传者",
+      "updateStatus" : 1,
+      "distance" : 4614,
+      "memberId" : 3575
+    }, {
+      "id" : 3179,
+      "name" : "情深几许",
+      "updateStatus" : 1,
+      "distance" : 2405,
+      "memberId" : 1295
+    } ]
+  }
+}

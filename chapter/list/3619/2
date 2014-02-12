@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 58,
+    "list" : [ {
+      "id" : 2894,
+      "title" : "雨姻整人记6",
+      "capacity" : 2541
+    }, {
+      "id" : 2895,
+      "title" : "雨姻整人记7",
+      "capacity" : 3225
+    }, {
+      "id" : 2896,
+      "title" : "雨姻整人记8",
+      "capacity" : 2850
+    }, {
+      "id" : 2897,
+      "title" : "雨姻整人记9",
+      "capacity" : 2894
+    }, {
+      "id" : 2898,
+      "title" : "雨姻整人记10",
+      "capacity" : 3664
+    }, {
+      "id" : 2899,
+      "title" : "误会了1",
+      "capacity" : 3205
+    }, {
+      "id" : 2900,
+      "title" : "误会了2",
+      "capacity" : 3503
+    }, {
+      "id" : 2901,
+      "title" : "误会了3",
+      "capacity" : 3281
+    } ]
+  }
+}

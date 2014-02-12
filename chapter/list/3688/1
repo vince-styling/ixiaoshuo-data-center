@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 2104,
+      "title" : "第一章 花引",
+      "capacity" : 9427
+    }, {
+      "id" : 2105,
+      "title" : "第二章 海棠",
+      "capacity" : 10071
+    }, {
+      "id" : 2106,
+      "title" : "第三章 海棠（二）",
+      "capacity" : 9988
+    } ]
+  }
+}

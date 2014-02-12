@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 4260,
+      "title" : "第一章 这是三年前的故事 (上)",
+      "capacity" : 9140
+    }, {
+      "id" : 4261,
+      "title" : "第二章 这是三年前的故事 (下)",
+      "capacity" : 9104
+    }, {
+      "id" : 4262,
+      "title" : "第三章 求婚",
+      "capacity" : 9358
+    }, {
+      "id" : 4263,
+      "title" : "第四章 三十六计，走为上计",
+      "capacity" : 9677
+    }, {
+      "id" : 4264,
+      "title" : "第五章 其实我还想着你",
+      "capacity" : 9080
+    }, {
+      "id" : 4265,
+      "title" : "第六章 假若我们是两情相悦",
+      "capacity" : 9564
+    }, {
+      "id" : 4266,
+      "title" : "第七章 你这个无赖！",
+      "capacity" : 10857
+    }, {
+      "id" : 4267,
+      "title" : "第八章 怎么会是他",
+      "capacity" : 9365
+    }, {
+      "id" : 4268,
+      "title" : "第九章 谈判？",
+      "capacity" : 9385
+    }, {
+      "id" : 4269,
+      "title" : "第十章 我要跟你离婚！",
+      "capacity" : 9198
+    }, {
+      "id" : 4270,
+      "title" : "第十一章 随遇而安吧",
+      "capacity" : 7935
+    }, {
+      "id" : 4271,
+      "title" : "第十二章 １００級副本",
+      "capacity" : 9152
+    }, {
+      "id" : 4272,
+      "title" : "第十三章 你整过容吗？",
+      "capacity" : 8672
+    }, {
+      "id" : 4273,
+      "title" : "第十四章 往事（一）",
+      "capacity" : 7930
+    }, {
+      "id" : 4274,
+      "title" : "第十五章 往事（二）",
+      "capacity" : 7824
+    }, {
+      "id" : 4275,
+      "title" : "第十六章 放下",
+      "capacity" : 9147
+    }, {
+      "id" : 4276,
+      "title" : "第十七章 回家",
+      "capacity" : 9162
+    }, {
+      "id" : 4277,
+      "title" : "第十八章 原來他就是他",
+      "capacity" : 9077
+    }, {
+      "id" : 4278,
+      "title" : "第十九章 华洛",
+      "capacity" : 7925
+    } ]
+  }
+}

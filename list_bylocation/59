@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 59,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3134,
+      "name" : "山河暮色凉",
+      "updateStatus" : 1,
+      "distance" : 8693,
+      "memberId" : 8372
+    }, {
+      "id" : 3000,
+      "name" : "陪君共此生",
+      "updateStatus" : 1,
+      "distance" : 8280,
+      "memberId" : 3238
+    }, {
+      "id" : 3094,
+      "name" : "云端",
+      "updateStatus" : 1,
+      "distance" : 4682,
+      "memberId" : 1199
+    }, {
+      "id" : 3178,
+      "name" : "穿越之红柚偏甜",
+      "updateStatus" : 1,
+      "distance" : 9380,
+      "memberId" : 5348
+    }, {
+      "id" : 2757,
+      "name" : "总裁溺恋之是祸躲不过",
+      "updateStatus" : 1,
+      "distance" : 4479,
+      "memberId" : 5035
+    }, {
+      "id" : 3218,
+      "name" : "爱之梦",
+      "updateStatus" : 1,
+      "distance" : 9336,
+      "memberId" : 2475
+    }, {
+      "id" : 2506,
+      "name" : "再见，青春",
+      "updateStatus" : 1,
+      "distance" : 1063,
+      "memberId" : 5754
+    }, {
+      "id" : 2320,
+      "name" : "夏醉浅梦",
+      "updateStatus" : 1,
+      "distance" : 9195,
+      "memberId" : 2421
+    }, {
+      "id" : 3560,
+      "name" : "豪门虐恋：多情二少独宠疯丫头",
+      "updateStatus" : 1,
+      "distance" : 1628,
+      "memberId" : 2237
+    }, {
+      "id" : 3304,
+      "name" : "缘何一夜凋零",
+      "updateStatus" : 1,
+      "distance" : 4721,
+      "memberId" : 7075
+    }, {
+      "id" : 2193,
+      "name" : "笑傲仙狂",
+      "updateStatus" : 1,
+      "distance" : 3213,
+      "memberId" : 8408
+    }, {
+      "id" : 2935,
+      "name" : "双生迷爱",
+      "updateStatus" : 1,
+      "distance" : 2085,
+      "memberId" : 4376
+    }, {
+      "id" : 2416,
+      "name" : "临时情人",
+      "updateStatus" : 2,
+      "distance" : 3503,
+      "memberId" : 1445
+    }, {
+      "id" : 2973,
+      "name" : "独占温宠",
+      "updateStatus" : 1,
+      "distance" : 7278,
+      "memberId" : 6419
+    }, {
+      "id" : 3158,
+      "name" : "敕勒风云",
+      "updateStatus" : 1,
+      "distance" : 8443,
+      "memberId" : 1649
+    }, {
+      "id" : 3196,
+      "name" : "西地锦",
+      "updateStatus" : 1,
+      "distance" : 4537,
+      "memberId" : 2301
+    }, {
+      "id" : 3208,
+      "name" : "冥铭之国",
+      "updateStatus" : 1,
+      "distance" : 3588,
+      "memberId" : 4213
+    }, {
+      "id" : 2392,
+      "name" : "刁蛮丫头很温柔",
+      "updateStatus" : 2,
+      "distance" : 7490,
+      "memberId" : 7151
+    }, {
+      "id" : 2323,
+      "name" : "旖梦泪",
+      "updateStatus" : 1,
+      "distance" : 8959,
+      "memberId" : 8125
+    }, {
+      "id" : 2881,
+      "name" : "豪门：公主不愁嫁",
+      "updateStatus" : 1,
+      "distance" : 2825,
+      "memberId" : 7938
+    } ]
+  }
+}

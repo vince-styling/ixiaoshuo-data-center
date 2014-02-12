@@ -1,0 +1,110 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 25,
+    "list" : [ {
+      "id" : 1556,
+      "title" : "1",
+      "capacity" : 32256
+    }, {
+      "id" : 1557,
+      "title" : "2",
+      "capacity" : 17504
+    }, {
+      "id" : 1558,
+      "title" : "3",
+      "capacity" : 12039
+    }, {
+      "id" : 1559,
+      "title" : "4",
+      "capacity" : 13869
+    }, {
+      "id" : 1560,
+      "title" : "5",
+      "capacity" : 12062
+    }, {
+      "id" : 1561,
+      "title" : "6",
+      "capacity" : 12113
+    }, {
+      "id" : 1562,
+      "title" : "7",
+      "capacity" : 13094
+    }, {
+      "id" : 1563,
+      "title" : "8",
+      "capacity" : 10703
+    }, {
+      "id" : 1564,
+      "title" : "9",
+      "capacity" : 10454
+    }, {
+      "id" : 1565,
+      "title" : "10",
+      "capacity" : 10835
+    }, {
+      "id" : 1566,
+      "title" : "11",
+      "capacity" : 10613
+    }, {
+      "id" : 1567,
+      "title" : "12",
+      "capacity" : 10201
+    }, {
+      "id" : 1568,
+      "title" : "13",
+      "capacity" : 9471
+    }, {
+      "id" : 1569,
+      "title" : "14",
+      "capacity" : 10910
+    }, {
+      "id" : 1570,
+      "title" : "15",
+      "capacity" : 11428
+    }, {
+      "id" : 1571,
+      "title" : "16",
+      "capacity" : 12923
+    }, {
+      "id" : 1572,
+      "title" : "17",
+      "capacity" : 11811
+    }, {
+      "id" : 1573,
+      "title" : "18",
+      "capacity" : 11743
+    }, {
+      "id" : 1574,
+      "title" : "19",
+      "capacity" : 10326
+    }, {
+      "id" : 1575,
+      "title" : "20",
+      "capacity" : 10901
+    }, {
+      "id" : 1576,
+      "title" : "21",
+      "capacity" : 12052
+    }, {
+      "id" : 1577,
+      "title" : "22",
+      "capacity" : 11220
+    }, {
+      "id" : 1578,
+      "title" : "23",
+      "capacity" : 11780
+    }, {
+      "id" : 1579,
+      "title" : "24",
+      "capacity" : 11202
+    }, {
+      "id" : 1580,
+      "title" : "25",
+      "capacity" : 8314
+    } ]
+  }
+}

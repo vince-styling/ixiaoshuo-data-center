@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 30,
+    "list" : [ {
+      "id" : 3778,
+      "title" : "【第一章 生机】",
+      "capacity" : 9367
+    }, {
+      "id" : 3779,
+      "title" : "【第二章 时机】",
+      "capacity" : 9557
+    }, {
+      "id" : 3780,
+      "title" : "【第三章 见机】",
+      "capacity" : 11868
+    }, {
+      "id" : 3781,
+      "title" : "【第四章 寻机】",
+      "capacity" : 10336
+    }, {
+      "id" : 3782,
+      "title" : "【第五章 换机】",
+      "capacity" : 9557
+    }, {
+      "id" : 3783,
+      "title" : "【第六章 玄机】",
+      "capacity" : 9845
+    }, {
+      "id" : 3784,
+      "title" : "【第七章 良机】",
+      "capacity" : 10416
+    }, {
+      "id" : 3785,
+      "title" : "【第八章 天机】",
+      "capacity" : 10869
+    }, {
+      "id" : 3786,
+      "title" : "【第九章 无缘】",
+      "capacity" : 9410
+    }, {
+      "id" : 3787,
+      "title" : "【第十章 孽缘】",
+      "capacity" : 10009
+    }, {
+      "id" : 3788,
+      "title" : "【第十一章 伤缘】",
+      "capacity" : 9409
+    }, {
+      "id" : 3789,
+      "title" : "【第十二章 断缘】",
+      "capacity" : 10019
+    }, {
+      "id" : 3790,
+      "title" : "【第十三章 亲缘】",
+      "capacity" : 9856
+    }, {
+      "id" : 3791,
+      "title" : "【第十四章 续缘】",
+      "capacity" : 10162
+    }, {
+      "id" : 3792,
+      "title" : "【第十五章 丹缘】",
+      "capacity" : 10655
+    }, {
+      "id" : 3793,
+      "title" : "【第十六章 有缘】",
+      "capacity" : 9894
+    }, {
+      "id" : 3794,
+      "title" : "【第十七章 舌巧】",
+      "capacity" : 10976
+    }, {
+      "id" : 3795,
+      "title" : "【第十八章 时巧】",
+      "capacity" : 10416
+    }, {
+      "id" : 3796,
+      "title" : "【第十九章 无巧】",
+      "capacity" : 9851
+    }, {
+      "id" : 3797,
+      "title" : "【第二十章 心巧】",
+      "capacity" : 11493
+    }, {
+      "id" : 3798,
+      "title" : "【第二十一章 言巧】",
+      "capacity" : 10280
+    }, {
+      "id" : 3799,
+      "title" : "【第二十二章 手巧】",
+      "capacity" : 9416
+    }, {
+      "id" : 3800,
+      "title" : "【第二十三章 取巧】",
+      "capacity" : 10705
+    }, {
+      "id" : 3801,
+      "title" : "【第二十四章 机巧】",
+      "capacity" : 9686
+    }, {
+      "id" : 3802,
+      "title" : "【第二十五章 开合】",
+      "capacity" : 9664
+    }, {
+      "id" : 3803,
+      "title" : "【第二十六章 计合】",
+      "capacity" : 10326
+    }, {
+      "id" : 3804,
+      "title" : "【第二十七章 不合】",
+      "capacity" : 9894
+    }, {
+      "id" : 3805,
+      "title" : "【第二十八章 会合】",
+      "capacity" : 9814
+    }, {
+      "id" : 3806,
+      "title" : "【第二十九章 人合】",
+      "capacity" : 9715
+    }, {
+      "id" : 3807,
+      "title" : "[楔子•离人不归]",
+      "capacity" : 4391
+    } ]
+  }
+}

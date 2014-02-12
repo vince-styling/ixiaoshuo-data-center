@@ -1,0 +1,14 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 101,
+    "list" : [ {
+      "id" : 3924,
+      "title" : "第一百零一章",
+      "capacity" : 6188
+    } ]
+  }
+}

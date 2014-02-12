@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 9,
+    "totalPageCount" : 12,
+    "totalItemCount" : 240,
+    "list" : [ {
+      "id" : 3055,
+      "name" : "双龙戏凤",
+      "author" : "淡然吹雪",
+      "summary" : "她，上官月不仅穿越了这次还重生了?宇国靖王为治心仪之人，逼得自己的结发妻身葬绝情崖下。在次穿越重生，",
+      "updateStatus" : 1,
+      "catName" : "古代言情",
+      "capacity" : 276653,
+      "coverUrl" : null
+    }, {
+      "id" : 3058,
+      "name" : "米虫的王爷梦",
+      "author" : "葛笑笑",
+      "summary" : "当一道光带着我们可爱的女猪开始了她的穿越之旅，当她遭遇了一个有一个的可爱的事情，遇见一个有一个美男之",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 647242,
+      "coverUrl" : null
+    }, {
+      "id" : 3477,
+      "name" : "穿越之千年缘",
+      "author" : "紫月流影",
+      "summary" : "坠入凡尘历经千年，再续千年缘。",
+      "updateStatus" : 1,
+      "catName" : "古代言情",
+      "capacity" : 348052,
+      "coverUrl" : null
+    }, {
+      "id" : 3509,
+      "name" : "秋以为期",
+      "author" : "乌子虚",
+      "summary" : "泛黄的古医书，神奇的穿越旅，不一样的世界，不一样的女神医。华佗，那是她的师傅；探案，那是她的直觉；验",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 166333,
+      "coverUrl" : null
+    }, {
+      "id" : 3622,
+      "name" : "妃澄勿扰：这个嬷嬷赛倾城",
+      "author" : "安汐盐",
+      "summary" : "现代龙套小演员爆笑穿越老宫廷老嬷嬷，还竟然独霸天下第一美男心！演绎宫廷嬷嬷+复国间谍+叛党王妃？开妓",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 479888,
+      "coverUrl" : null
+    }, {
+      "id" : 3631,
+      "name" : "嗨！军官们！",
+      "author" : "尕尛",
+      "summary" : "女主灵魂穿越至一战之后的德国，从六岁的女童开始度过魏玛丽公国最艰难的十年为了爱的人不得不踏上硝烟弥漫",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 253802,
+      "coverUrl" : null
+    }, {
+      "id" : 2610,
+      "name" : "调皮千金异空游之拐跑王爷",
+      "author" : "Q淇",
+      "summary" : "现代的调皮千金，为了活命迷迷糊糊的穿越到了异空撞到了酷王爷不知会擦出怎样的火花呢......女主：蒋",
+      "updateStatus" : 1,
+      "catName" : "古代言情",
+      "capacity" : 8807552,
+      "coverUrl" : null
+    }, {
+      "id" : 2116,
+      "name" : "妖孽皇太子：独宠下堂妃",
+      "author" : "冷冰",
+      "summary" : "前夫太冷太无情，休掉！太子很美很妖孽，扑倒！穿越女守则最重要的便是：踢走渣男，扑倒极品，唯我独妻！—",
+      "updateStatus" : 2,
+      "catName" : "穿越异界",
+      "capacity" : 5865236,
+      "coverUrl" : null
+    }, {
+      "id" : 2543,
+      "name" : "异人魔兽情缘游",
+      "author" : "嫣礼",
+      "summary" : "魔兽世界？有没有搞错？！冲锋护体！杀戮盛宴！脸盆大的火球飞过来了！（惊恐）难道这里就是传说中的卡利姆",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 9968647,
+      "coverUrl" : null
+    }, {
+      "id" : 3408,
+      "name" : "综恐一梦一回",
+      "author" : "言若雨馨",
+      "summary" : "她，白乔乔原本只是现实世界一个普通的女汉子，因为什么任务而穿梭在各个世界里。第一个世界，她悲催的穿越",
+      "updateStatus" : 1,
+      "catName" : "灵异悬疑",
+      "capacity" : 110142,
+      "coverUrl" : null
+    }, {
+      "id" : 2897,
+      "name" : "瞎子王爷独宠调皮妃",
+      "author" : "灵儿姑娘",
+      "summary" : "“啪、啪、啪。”“是哪个该死的居然敢打本小姐的屁股！”甘灵儿愤怒的大吼。只可惜嘴里发出的居然是“咿咿",
+      "updateStatus" : 1,
+      "catName" : "古代言情",
+      "capacity" : 9205255,
+      "coverUrl" : null
+    }, {
+      "id" : 3675,
+      "name" : "绝世之第一公主",
+      "author" : "淡玥惜灵",
+      "summary" : "现代她是能力出众的隐士家主，一个帝国组织的宫主，可惜仍然逃不过被背叛的命运;一朝穿越她成为一朝公主，",
+      "updateStatus" : 1,
+      "catName" : "玄幻奇幻",
+      "capacity" : 1168904,
+      "coverUrl" : null
+    }, {
+      "id" : 3093,
+      "name" : "如果还能再爱",
+      "author" : "程以二",
+      "summary" : "看过很多都市爱情类小说，始终觉得过于梦幻，不够现实，一直在酝酿一部能够让读者看过之后有所感触的作品。",
+      "updateStatus" : 1,
+      "catName" : "都市校园",
+      "capacity" : 902472,
+      "coverUrl" : null
+    }, {
+      "id" : 2230,
+      "name" : "妖殇惑世",
+      "author" : "浮世茶蘼",
+      "summary" : "简介：她是杀手之王，才艺惊人。性格嗜血腹黑无耻。她是将军养女，才艺平庸。性格懦弱天真蠢笨。❀❀===",
+      "updateStatus" : 1,
+      "catName" : "玄幻奇幻",
+      "capacity" : 1084895,
+      "coverUrl" : null
+    }, {
+      "id" : 3262,
+      "name" : "爱，在遥远的彼方",
+      "author" : "望月千寻",
+      "summary" : "搞笑大纲“娘，我在自家牌楼前摆了个擂台！”一个粉嘟嘟的小男孩得意扬扬的拍着自己的小胸脯道。“小子，你",
+      "updateStatus" : 1,
+      "catName" : "古代言情",
+      "capacity" : 168465,
+      "coverUrl" : null
+    }, {
+      "id" : 2907,
+      "name" : "紫弦俏孤女",
+      "author" : "沐夏筝晴",
+      "summary" : "现代少女误打误撞穿越时空来到架空历史的天朝，成了天朝的三公主。又有什么阴谋将要开始？有些事冥冥之中就",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 7346995,
+      "coverUrl" : null
+    }, {
+      "id" : 3515,
+      "name" : "相思明叶",
+      "author" : "蔓城",
+      "summary" : "从小跟着穿越老妈，受着现代加古代奇怪教育模式长大的邢思叶跟着父母回到了自己权倾天下的家。面对新婚夫君",
+      "updateStatus" : 1,
+      "catName" : "古代言情",
+      "capacity" : 583953,
+      "coverUrl" : null
+    }, {
+      "id" : 3246,
+      "name" : "到白首",
+      "author" : "小爷我姓周",
+      "summary" : "21世纪的富二代渣男苏锦与女博士月皎穿越到架空女尊国，分别附身在当朝丞相独子和女王爷的身上，由此引发",
+      "updateStatus" : 1,
+      "catName" : "历史架空",
+      "capacity" : 1506423,
+      "coverUrl" : null
+    }, {
+      "id" : 3673,
+      "name" : "美男在侧:霸气男女",
+      "author" : "艾爷",
+      "summary" : "跳个崖，竟然穿越了？那好吧，既来之则安之，低调不行，那就高调生活，美男成全群，只要一个足以，情敌众多",
+      "updateStatus" : 1,
+      "catName" : "历史架空",
+      "capacity" : 27374,
+      "coverUrl" : null
+    }, {
+      "id" : 2256,
+      "name" : "穿越东宫之碟中谍",
+      "author" : "子衿陆离",
+      "summary" : "倒霉女李楠自杀未遂，走上时下最潮的重生道路——穿越到五国割据的架空大陆，成为陈国太子妃。东宫之内的阴",
+      "updateStatus" : 2,
+      "catName" : "历史架空",
+      "capacity" : 7817731,
+      "coverUrl" : null
+    } ]
+  }
+}

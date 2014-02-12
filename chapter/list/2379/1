@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 1288,
+      "title" : "首章",
+      "capacity" : 3208
+    }, {
+      "id" : 1289,
+      "title" : "黑执事1",
+      "capacity" : 4084
+    }, {
+      "id" : 1290,
+      "title" : "黑执事2",
+      "capacity" : 10119
+    }, {
+      "id" : 1291,
+      "title" : "黑执事3",
+      "capacity" : 7130
+    }, {
+      "id" : 1292,
+      "title" : "黑执事4",
+      "capacity" : 5962
+    }, {
+      "id" : 1293,
+      "title" : "黑执事5",
+      "capacity" : 7081
+    }, {
+      "id" : 1294,
+      "title" : "黑执事6",
+      "capacity" : 7282
+    }, {
+      "id" : 1295,
+      "title" : "黑执事7",
+      "capacity" : 4090
+    }, {
+      "id" : 1296,
+      "title" : "黑执事8",
+      "capacity" : 5641
+    }, {
+      "id" : 1297,
+      "title" : "黑执事9",
+      "capacity" : 9781
+    }, {
+      "id" : 1298,
+      "title" : "黑执事10",
+      "capacity" : 4416
+    }, {
+      "id" : 1299,
+      "title" : "黑执事11",
+      "capacity" : 3939
+    }, {
+      "id" : 1300,
+      "title" : "黑执事12",
+      "capacity" : 5916
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 8,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3733,
+      "name" : "公主白雪",
+      "updateStatus" : 1,
+      "distance" : 2442,
+      "memberId" : 1575
+    }, {
+      "id" : 2413,
+      "name" : "冤冤相抱",
+      "updateStatus" : 1,
+      "distance" : 8790,
+      "memberId" : 2957
+    }, {
+      "id" : 3550,
+      "name" : "少年光辉红了霞",
+      "updateStatus" : 1,
+      "distance" : 3204,
+      "memberId" : 6817
+    }, {
+      "id" : 2243,
+      "name" : "独宠之命中注定",
+      "updateStatus" : 1,
+      "distance" : 5360,
+      "memberId" : 2433
+    }, {
+      "id" : 2435,
+      "name" : "绝世青龙王",
+      "updateStatus" : 1,
+      "distance" : 8197,
+      "memberId" : 6640
+    }, {
+      "id" : 3222,
+      "name" : "恶魔先生的猫小姐",
+      "updateStatus" : 1,
+      "distance" : 791,
+      "memberId" : 7324
+    }, {
+      "id" : 2681,
+      "name" : "巅峰之我为帝王",
+      "updateStatus" : 1,
+      "distance" : 7941,
+      "memberId" : 4799
+    }, {
+      "id" : 3445,
+      "name" : "落叶清欢",
+      "updateStatus" : 1,
+      "distance" : 6675,
+      "memberId" : 8279
+    }, {
+      "id" : 3687,
+      "name" : "至尊天下：霸占绝色鬼颜妃",
+      "updateStatus" : 1,
+      "distance" : 4742,
+      "memberId" : 5173
+    }, {
+      "id" : 2961,
+      "name" : "喜荣华正好",
+      "updateStatus" : 1,
+      "distance" : 8933,
+      "memberId" : 5178
+    }, {
+      "id" : 3443,
+      "name" : "许你长安",
+      "updateStatus" : 1,
+      "distance" : 7574,
+      "memberId" : 3755
+    }, {
+      "id" : 2490,
+      "name" : "彩云国之一杯茶一辈子",
+      "updateStatus" : 1,
+      "distance" : 6474,
+      "memberId" : 3031
+    }, {
+      "id" : 3430,
+      "name" : "于红尘中遇见你",
+      "updateStatus" : 1,
+      "distance" : 2424,
+      "memberId" : 5417
+    }, {
+      "id" : 2315,
+      "name" : "一诺双生劫",
+      "updateStatus" : 1,
+      "distance" : 8405,
+      "memberId" : 2942
+    }, {
+      "id" : 3345,
+      "name" : "黑洞星海",
+      "updateStatus" : 1,
+      "distance" : 3618,
+      "memberId" : 2688
+    }, {
+      "id" : 2253,
+      "name" : "凤凰斗：刁蛮皇后不从夫",
+      "updateStatus" : 2,
+      "distance" : 4383,
+      "memberId" : 8730
+    }, {
+      "id" : 3579,
+      "name" : "吕三东穿越记之终极终班",
+      "updateStatus" : 1,
+      "distance" : 2975,
+      "memberId" : 1043
+    }, {
+      "id" : 3239,
+      "name" : "一情二恨三生缘",
+      "updateStatus" : 1,
+      "distance" : 1167,
+      "memberId" : 3172
+    }, {
+      "id" : 2092,
+      "name" : "迟妆懒起",
+      "updateStatus" : 1,
+      "distance" : 5614,
+      "memberId" : 8731
+    }, {
+      "id" : 3085,
+      "name" : "姑娘，你没有穿鞋",
+      "updateStatus" : 1,
+      "distance" : 2647,
+      "memberId" : 7500
+    } ]
+  }
+}

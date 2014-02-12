@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 106,
+    "list" : [ {
+      "id" : 4978,
+      "title" : "第一百章 例行的小小剧场哈",
+      "capacity" : 3462
+    }, {
+      "id" : 4979,
+      "title" : "第一百零一章 那场误会的戏",
+      "capacity" : 3197
+    }, {
+      "id" : 4980,
+      "title" : "第一百零二章 岳父岳母大作战",
+      "capacity" : 3125
+    }, {
+      "id" : 4981,
+      "title" : "第一百零三章 爱睡觉的小懒猫",
+      "capacity" : 3092
+    }, {
+      "id" : 4982,
+      "title" : "第一百零四章 今天的新任务",
+      "capacity" : 3321
+    }, {
+      "id" : 4983,
+      "title" : "第一百零五章 意外惊喜",
+      "capacity" : 3181
+    } ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 4451,
+      "title" : "重生 这世我来守护你",
+      "capacity" : 10759
+    }, {
+      "id" : 4452,
+      "title" : "这女人是老天爷派来拆的柳家家破人亡的吧",
+      "capacity" : 5524
+    }, {
+      "id" : 4453,
+      "title" : "如梦一场 阿煜让我们重新相爱吧",
+      "capacity" : 3811
+    } ]
+  }
+}

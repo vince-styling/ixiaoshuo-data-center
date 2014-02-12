@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 3452,
+      "title" : "第一章 异世觉醒",
+      "capacity" : 8945
+    }, {
+      "id" : 3453,
+      "title" : "第二章 上汤玉莲",
+      "capacity" : 8302
+    }, {
+      "id" : 3454,
+      "title" : "第三章 苦痛流离",
+      "capacity" : 8235
+    } ]
+  }
+}

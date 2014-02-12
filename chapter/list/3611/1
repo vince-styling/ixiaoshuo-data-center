@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 2371,
+      "title" : "花期将至",
+      "capacity" : 1434
+    }, {
+      "id" : 2372,
+      "title" : "海的另一边",
+      "capacity" : 2908
+    }, {
+      "id" : 2373,
+      "title" : "苏E牌照的车",
+      "capacity" : 3049
+    }, {
+      "id" : 2374,
+      "title" : "一世欢",
+      "capacity" : 3004
+    }, {
+      "id" : 2375,
+      "title" : "长相守",
+      "capacity" : 3524
+    }, {
+      "id" : 2376,
+      "title" : "可我还是不能爱你",
+      "capacity" : 3981
+    }, {
+      "id" : 2377,
+      "title" : "易乱洛阳",
+      "capacity" : 5393
+    } ]
+  }
+}

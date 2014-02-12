@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 103,
+    "list" : [ {
+      "id" : 1122,
+      "title" : "第三十九章 捆仙绳",
+      "capacity" : 4916
+    }, {
+      "id" : 1123,
+      "title" : "第四十章 我是她男人",
+      "capacity" : 5085
+    }, {
+      "id" : 1124,
+      "title" : "澄文上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

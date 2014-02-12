@@ -1,0 +1,78 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 17,
+    "list" : [ {
+      "id" : 3910,
+      "title" : "青楼美男恋缠绵",
+      "capacity" : 4976
+    }, {
+      "id" : 3911,
+      "title" : "宫围幽幽情几许",
+      "capacity" : 8387
+    }, {
+      "id" : 3912,
+      "title" : "醉卧午后不自禁",
+      "capacity" : 6465
+    }, {
+      "id" : 3913,
+      "title" : "风波起",
+      "capacity" : 7996
+    }, {
+      "id" : 3914,
+      "title" : "细腻情丝",
+      "capacity" : 8333
+    }, {
+      "id" : 3915,
+      "title" : "初见端倪",
+      "capacity" : 6184
+    }, {
+      "id" : 3916,
+      "title" : "王爷美男在怀",
+      "capacity" : 15786
+    }, {
+      "id" : 3917,
+      "title" : "风起云涌温情存",
+      "capacity" : 8158
+    }, {
+      "id" : 3918,
+      "title" : "皇宫盛宴",
+      "capacity" : 9348
+    }, {
+      "id" : 3919,
+      "title" : "王爷的隐秘",
+      "capacity" : 5316
+    }, {
+      "id" : 3920,
+      "title" : "巫蛊之术",
+      "capacity" : 6892
+    }, {
+      "id" : 3921,
+      "title" : "偶遇故人",
+      "capacity" : 10326
+    }, {
+      "id" : 3922,
+      "title" : "一室春色",
+      "capacity" : 8668
+    }, {
+      "id" : 3923,
+      "title" : "王爷乐不思蜀",
+      "capacity" : 6188
+    }, {
+      "id" : 3924,
+      "title" : "暧昧到天明",
+      "capacity" : 9546
+    }, {
+      "id" : 3925,
+      "title" : "楚钰，你该死",
+      "capacity" : 8131
+    }, {
+      "id" : 3926,
+      "title" : "容湮的主动",
+      "capacity" : 7691
+    } ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 7,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3525,
+      "name" : "枯时花笑",
+      "summary" : "如果你说对不起，我会对你说我爱你……对于路言来说，乔俨安可以给她全部她要的，可是，林晓伟却是她放不下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42603.jpg",
+      "updateStatus" : 1,
+      "capacity" : 56331,
+      "lastUpdateTime" : "2013-12-27 05:28:37"
+    }, {
+      "id" : 2650,
+      "name" : "我要稳稳的幸福",
+      "summary" : "第一次写文，请大家多多指教。高瑞卿，天才女律师，因为一场官司而身陷无法脱身。这究竟是劫，还是缘……未",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45615.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3615848,
+      "lastUpdateTime" : "2013-12-27 05:28:18"
+    }, {
+      "id" : 3636,
+      "name" : "被抛弃的星球",
+      "summary" : "白依依冷幽默爱吐槽宅女一名，嫁与温柔居家男司马空南。过着烟熏火燎的小日子，有一日附庸风雅买了一本高贵",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47156.jpg",
+      "updateStatus" : 1,
+      "capacity" : 118680,
+      "lastUpdateTime" : "2013-12-27 03:44:02"
+    }, {
+      "id" : 2289,
+      "name" : "暴虐王爷风流妃",
+      "summary" : "嫦娥应悔偷灵药，碧海青天夜夜心。她本月宫嫦娥，只为贪恋与丈夫的一世情缘，情愿轮回百世，嬉戏人间。无耐",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 7147205,
+      "lastUpdateTime" : "2013-12-27 03:12:57"
+    }, {
+      "id" : 2171,
+      "name" : "我是魔鬼的孩子",
+      "summary" : "一个从小在黑帮长大的女孩姚乐，步入大学后爱上了一个男孩，可是她永远也想不到这只是一场阴谋的开始。当蝎",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45053.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7224248,
+      "lastUpdateTime" : "2013-12-27 02:10:53"
+    }, {
+      "id" : 2306,
+      "name" : "穿越之蒙家将军",
+      "summary" : "篱菊不求春芳早，但愿馨香已满楼；穿越时空，从一名打擂高手，成为一名大秦名将，他享尽了爱情里的温馨甜美",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47656.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4780024,
+      "lastUpdateTime" : "2013-12-27 02:06:12"
+    }, {
+      "id" : 2086,
+      "name" : "落柳归冢",
+      "summary" : "“曾经我以为只要我登上天下的巅峰，就可以保护一切我在乎的人；现在我才发现，走到那步之后，天下早已没有",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21570.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9388793,
+      "lastUpdateTime" : "2013-12-27 01:53:50"
+    }, {
+      "id" : 3051,
+      "name" : "执念恨",
+      "summary" : "她是命里的一国之母，她任性，自私，狂妄，狠毒....她恨他，恨他的纠缠，恨他的剥夺，恨他毁灭了她的人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47641.jpg",
+      "updateStatus" : 2,
+      "capacity" : 94249,
+      "lastUpdateTime" : "2013-12-27 01:47:06"
+    }, {
+      "id" : 3105,
+      "name" : "花心总裁拜金娇妻",
+      "summary" : "恨爱系列凌彦天：21岁，既是凌氏集团的总裁，又是阎门的老大。冷酷无情的男人，在他眼里女人除了用来暖床",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 55902,
+      "lastUpdateTime" : "2013-12-27 01:23:30"
+    }, {
+      "id" : 2109,
+      "name" : "开门迎客",
+      "summary" : "为什么要选择我？洛晚昔经常蹲在门槛上问老天。我不过是随地大小便了，您这算是惩罚我么？我生活美满幸福自",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15442.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2263926,
+      "lastUpdateTime" : "2013-12-27 00:47:13"
+    }, {
+      "id" : 2944,
+      "name" : "嬗变",
+      "summary" : "莫子谦深爱着柳艳，表哥孟晓雷深爱着励思嘉，这本是幸福的两对，却因为一个月高风黑的夜晚，柳艳在放学路上",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47731.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2074899,
+      "lastUpdateTime" : "2013-12-27 00:09:40"
+    }, {
+      "id" : 3736,
+      "name" : "狂",
+      "summary" : "她只有5岁，但她灵兽众多，身边也是美男如云。",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 698671,
+      "lastUpdateTime" : "2013-12-26 23:49:13"
+    }, {
+      "id" : 2045,
+      "name" : "你是我的女人",
+      "summary" : "他出生于贵族，拥有高贵的血统她出生于平凡人家，低贱的身份他是位皇家空军飞行员她只是个打酱油的小明星缘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47755.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7687073,
+      "lastUpdateTime" : "2013-12-26 23:34:49"
+    }, {
+      "id" : 3553,
+      "name" : "堕妃：嗜血妖",
+      "summary" : "五年前，众人恶她弃她，小小的宫家藏躲得如履薄冰；五年后，众人羡她妒她，万里河山内以千里跪拜作嫁……护",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 208105,
+      "lastUpdateTime" : "2013-12-26 23:15:19"
+    }, {
+      "id" : 2623,
+      "name" : "寻爱之雨过天晴",
+      "summary" : "“晴晴，记得一定要幸福&middot;&middot;&middot;&middot;&middot",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46211.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4434304,
+      "lastUpdateTime" : "2013-12-26 22:58:09"
+    }, {
+      "id" : 2325,
+      "name" : "彼岸花仙",
+      "summary" : "前世今生，情牵一线。穿越时空，只为真爱。历经艰辛，找寻真相。彼岸花开，相念相惜。花开彼岸，莫失莫忘。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21369.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7389409,
+      "lastUpdateTime" : "2013-12-26 22:13:16"
+    }, {
+      "id" : 2817,
+      "name" : "谁爱过我",
+      "summary" : "曾经的朋友，过去的男友，他们因为无聊卷进了一个无辜人。笑看她被流氓玷污，只是想可笑证明自己比别人纯洁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18036.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9797390,
+      "lastUpdateTime" : "2013-12-26 22:08:58"
+    }, {
+      "id" : 2560,
+      "name" : "穿越女尊之桃花朵朵开",
+      "summary" : "叶小花莫明其妙地逛街逛到了不知名的时空，也逛进了等待着她的重重迷雾。用她的话说就是：有中五百万的运气",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45062.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8025952,
+      "lastUpdateTime" : "2013-12-26 20:35:36"
+    }, {
+      "id" : 3578,
+      "name" : "我在外滩十八号等你",
+      "summary" : "听说，谁先爱上谁就输了。她不顾一切来到这里，就是为了有一天能在茫茫人海中遇到他。问一句：当初为何就那",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46461.jpg",
+      "updateStatus" : 1,
+      "capacity" : 268966,
+      "lastUpdateTime" : "2013-12-26 20:32:34"
+    }, {
+      "id" : 3390,
+      "name" : "贺兰山下阵如云",
+      "summary" : "",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 45951,
+      "lastUpdateTime" : "2013-12-26 19:39:29"
+    } ]
+  }
+}

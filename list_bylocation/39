@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 39,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2729,
+      "name" : "妃霸天下",
+      "updateStatus" : 1,
+      "distance" : 3586,
+      "memberId" : 6385
+    }, {
+      "id" : 2579,
+      "name" : "萧瑟兰阁倚花愁",
+      "updateStatus" : 1,
+      "distance" : 7161,
+      "memberId" : 5844
+    }, {
+      "id" : 2849,
+      "name" : "缘来还是你",
+      "updateStatus" : 1,
+      "distance" : 4854,
+      "memberId" : 5628
+    }, {
+      "id" : 2048,
+      "name" : "嗜血毒妃虐红尘",
+      "updateStatus" : 1,
+      "distance" : 4652,
+      "memberId" : 4804
+    }, {
+      "id" : 2880,
+      "name" : "卿本红颜之妃常杀手",
+      "updateStatus" : 1,
+      "distance" : 6888,
+      "memberId" : 5119
+    }, {
+      "id" : 3358,
+      "name" : "败家小姐炫情",
+      "updateStatus" : 1,
+      "distance" : 4696,
+      "memberId" : 3165
+    }, {
+      "id" : 2281,
+      "name" : "花照",
+      "updateStatus" : 1,
+      "distance" : 9021,
+      "memberId" : 8159
+    }, {
+      "id" : 2072,
+      "name" : "绝色医仙：迫嫁公主绝情帝",
+      "updateStatus" : 2,
+      "distance" : 2106,
+      "memberId" : 3503
+    }, {
+      "id" : 2085,
+      "name" : "琉璃坊",
+      "updateStatus" : 1,
+      "distance" : 2973,
+      "memberId" : 5843
+    }, {
+      "id" : 3275,
+      "name" : "暗昙",
+      "updateStatus" : 1,
+      "distance" : 7802,
+      "memberId" : 7963
+    }, {
+      "id" : 2762,
+      "name" : "笛吟，离殇 ",
+      "updateStatus" : 1,
+      "distance" : 9545,
+      "memberId" : 5216
+    }, {
+      "id" : 3676,
+      "name" : "时光少女",
+      "updateStatus" : 1,
+      "distance" : 4961,
+      "memberId" : 1672
+    }, {
+      "id" : 3101,
+      "name" : "外来的爱情",
+      "updateStatus" : 1,
+      "distance" : 3347,
+      "memberId" : 5885
+    }, {
+      "id" : 2315,
+      "name" : "一诺双生劫",
+      "updateStatus" : 1,
+      "distance" : 5128,
+      "memberId" : 5560
+    }, {
+      "id" : 3645,
+      "name" : "悠悠茶茗",
+      "updateStatus" : 1,
+      "distance" : 657,
+      "memberId" : 8007
+    }, {
+      "id" : 2738,
+      "name" : "苦忘·浮生如梦",
+      "updateStatus" : 1,
+      "distance" : 9374,
+      "memberId" : 3587
+    }, {
+      "id" : 2401,
+      "name" : "拾爱：蚀骨之恋",
+      "updateStatus" : 1,
+      "distance" : 8862,
+      "memberId" : 3331
+    }, {
+      "id" : 2613,
+      "name" : "红楼梦呓",
+      "updateStatus" : 1,
+      "distance" : 2003,
+      "memberId" : 4289
+    }, {
+      "id" : 2565,
+      "name" : "冯子莫",
+      "updateStatus" : 1,
+      "distance" : 9432,
+      "memberId" : 7963
+    }, {
+      "id" : 2109,
+      "name" : "开门迎客",
+      "updateStatus" : 1,
+      "distance" : 9160,
+      "memberId" : 1661
+    } ]
+  }
+}

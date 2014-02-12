@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 30,
+    "totalPageCount" : 31,
+    "totalItemCount" : 616,
+    "list" : [ {
+      "id" : 2678,
+      "name" : "柠檬微酸",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47897.jpg",
+      "summary" : "那一年，他们遇见，他“捡”回了她。那一次，他们互相伤害，他爱上了她。爱一个人是疼痛的，他选择了疼痛，",
+      "updateStatus" : 1,
+      "capacity" : 1366051,
+      "readerCount" : 213
+    }, {
+      "id" : 3438,
+      "name" : "叶之于归",
+      "coverUrl" : "",
+      "summary" : "“如果我想见你，就不会等到明天。可是叶于归，我已经等了七年，我不知道还会不会有下一个七年……”叶于归",
+      "updateStatus" : 1,
+      "capacity" : 36499,
+      "readerCount" : 210
+    }, {
+      "id" : 3453,
+      "name" : "菜鸟也不是好骗的",
+      "coverUrl" : "",
+      "summary" : "就算是个职场小菜鸟又怎样，我还是有人爱有人疼的好不好，虽然他做不了男朋友，但比你们这些个臭男人好多了",
+      "updateStatus" : 1,
+      "capacity" : 28406,
+      "readerCount" : 205
+    }, {
+      "id" : 3743,
+      "name" : "噬血公主与噬魂王子",
+      "coverUrl" : "",
+      "summary" : "她是美丽而又噬血的公主，而他是一个大冰山，恶魔与冰山，那个会是最后的赢家呢？一个个美女，一个个帅哥，",
+      "updateStatus" : 1,
+      "capacity" : 69286,
+      "readerCount" : 203
+    }, {
+      "id" : 3266,
+      "name" : "候鸟归来",
+      "coverUrl" : "",
+      "summary" : "“我在你心里，有没有一点特别？就怕你终究没发现，我还是在你身边。”这是韩若曦对顾宸玺说过的一句话。韩",
+      "updateStatus" : 1,
+      "capacity" : 50845,
+      "readerCount" : 195
+    }, {
+      "id" : 2050,
+      "name" : "那些纯纯的爱恋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43091.jpg",
+      "summary" : "这是小宝青春系列的第一部，校园版。雪儿和寒的故事，傻傻纯纯的爱，你是否会想起曾经的你，又或是现在的你",
+      "updateStatus" : 1,
+      "capacity" : 4259501,
+      "readerCount" : 194
+    }, {
+      "id" : 3617,
+      "name" : "分手条约",
+      "coverUrl" : "",
+      "summary" : "他爱她，他恨她，他对她爱恨两难；爱她？其实自己也不知道爱她什么。恨她？其实自己也不知道恨她什么。只是",
+      "updateStatus" : 1,
+      "capacity" : 32686,
+      "readerCount" : 193
+    }, {
+      "id" : 3143,
+      "name" : "去日留痕",
+      "coverUrl" : "",
+      "summary" : "一群忧伤善良且微笑的孩子,喜欢在好风如水的晚上独自坐在桃花下看月亮的若风,他游离在破碎的爱情与恍惚的",
+      "updateStatus" : 1,
+      "capacity" : 56130,
+      "readerCount" : 188
+    }, {
+      "id" : 3144,
+      "name" : "诗人的手指",
+      "coverUrl" : "",
+      "summary" : "以剧本的方式写小说,跳跃性的情节每一个都是独立的,又浑然天成.每个人物多姿多彩终究走向自己的宿命,一",
+      "updateStatus" : 1,
+      "capacity" : 50395,
+      "readerCount" : 187
+    }, {
+      "id" : 3697,
+      "name" : "一路有爱陪着亲",
+      "coverUrl" : "",
+      "summary" : "一个被误会的身份，真实往往是不一样的美好。",
+      "updateStatus" : 1,
+      "capacity" : 66658,
+      "readerCount" : 187
+    }, {
+      "id" : 2825,
+      "name" : "相守时光中",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45709.jpg",
+      "summary" : "原以为不可能再在一起的两个人，没想到兜兜转转了那么多年却因为意外的相亲而再次起涟漪，到底他们是否能相",
+      "updateStatus" : 1,
+      "capacity" : 4648535,
+      "readerCount" : 182
+    }, {
+      "id" : 3322,
+      "name" : "爱情倒时差",
+      "coverUrl" : "",
+      "summary" : "他，一位华夏国的低层少年，他，不畏各种强大的势力，他憧憬着未来，他，令各种修炼界的人闻风丧胆，他，冷",
+      "updateStatus" : 1,
+      "capacity" : 80975,
+      "readerCount" : 182
+    }, {
+      "id" : 3568,
+      "name" : "追爱记：迟钝的爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46207.jpg",
+      "summary" : "他说：“到了拉斯维加斯以后，你不许住校！”她丢了一个卫生球眼给他，愤愤的说：“凭什么？我就偏要住校，",
+      "updateStatus" : 1,
+      "capacity" : 229582,
+      "readerCount" : 180
+    }, {
+      "id" : 3356,
+      "name" : "玫瑰重影",
+      "coverUrl" : "",
+      "summary" : "这是一座光怪陆离的城市，摆脱不了灯红酒绿和浮华喧嚣。这是一座充满了回忆的城市，五年前的爱恨情仇就像是",
+      "updateStatus" : 1,
+      "capacity" : 55937,
+      "readerCount" : 173
+    }, {
+      "id" : 3261,
+      "name" : "腐化了的灿烂年华",
+      "coverUrl" : "",
+      "summary" : "她说：“苏明佑，如若我连自己都不爱了，那便是世界末日了。”",
+      "updateStatus" : 1,
+      "capacity" : 42958,
+      "readerCount" : 167
+    }, {
+      "id" : 3192,
+      "name" : "流年清欢",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42040.jpg",
+      "summary" : "遇到他的时候，她十三岁，豆蔻年华，并不懂什么是爱。遇到她的时候，他十六岁，年少轻狂，却看懂她的忧伤她",
+      "updateStatus" : 1,
+      "capacity" : 230009,
+      "readerCount" : 166
+    }, {
+      "id" : 3680,
+      "name" : "潇洒小姐执着先生",
+      "coverUrl" : "",
+      "summary" : "一个漂亮的漂移，甩进车库，熄火，从副座上拿过银色高跟鞋，换下耐克板鞋，抓起LV，用鞋尖一顶，摔门。沿",
+      "updateStatus" : 1,
+      "capacity" : 97601,
+      "readerCount" : 162
+    }, {
+      "id" : 3326,
+      "name" : "暖暖的",
+      "coverUrl" : "",
+      "summary" : "你是我的太阳，这句话，不知让她感动了多少回，其实，她并不是他的太阳，而他才是她的太阳，点亮了她的内心",
+      "updateStatus" : 1,
+      "capacity" : 290572,
+      "readerCount" : 161
+    }, {
+      "id" : 3081,
+      "name" : "爱，谨行时光",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47447.jpg",
+      "summary" : "温怀瑾，命运捉弄的女子，曾经生活在父慈母爱的家庭，万千宠爱与一身，十六岁的时候父亲因为贪污被收监，母",
+      "updateStatus" : 1,
+      "capacity" : 22879,
+      "readerCount" : 159
+    }, {
+      "id" : 3283,
+      "name" : "掠心总裁：爹地，你弱爆了！",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47164.jpg",
+      "summary" : "蓝若雪——一个为了父亲和继母的婚姻而努力卑微的活着的女生。冷天赫———一个拥有亿万身家但是却单身的多",
+      "updateStatus" : 1,
+      "capacity" : 275379,
+      "readerCount" : 157
+    } ]
+  }
+}

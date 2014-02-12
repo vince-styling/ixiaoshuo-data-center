@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 1604,
+      "title" : "第一章 再见老友",
+      "capacity" : 10302
+    }, {
+      "id" : 1605,
+      "title" : "第二章 医院？监狱。逃离！",
+      "capacity" : 7956
+    }, {
+      "id" : 1606,
+      "title" : "第三章 初遇女孩",
+      "capacity" : 9415
+    }, {
+      "id" : 1607,
+      "title" : "第四章 奇怪的女孩",
+      "capacity" : 7864
+    }, {
+      "id" : 1608,
+      "title" : "第五章 无心的往事",
+      "capacity" : 6902
+    }, {
+      "id" : 1609,
+      "title" : "第六章 与方钲的往事",
+      "capacity" : 6934
+    }, {
+      "id" : 1610,
+      "title" : "第七章 可怜的小威廉",
+      "capacity" : 7515
+    } ]
+  }
+}

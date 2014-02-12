@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 70,
+    "list" : [ {
+      "id" : 2392,
+      "title" : "第一章 四界",
+      "capacity" : 9332
+    }, {
+      "id" : 2393,
+      "title" : "第二章 训练",
+      "capacity" : 9166
+    }, {
+      "id" : 2394,
+      "title" : "第三章 不同的敌人",
+      "capacity" : 9418
+    }, {
+      "id" : 2395,
+      "title" : "第四章 令人震惊的战斗",
+      "capacity" : 9437
+    }, {
+      "id" : 2396,
+      "title" : "第五章 乱家灭",
+      "capacity" : 9182
+    }, {
+      "id" : 2397,
+      "title" : "第六章 身在阎罗",
+      "capacity" : 9524
+    }, {
+      "id" : 2398,
+      "title" : "第七章 挑战",
+      "capacity" : 9508
+    }, {
+      "id" : 2399,
+      "title" : "第八章 再战",
+      "capacity" : 9359
+    }, {
+      "id" : 2400,
+      "title" : "第九章 战断刃",
+      "capacity" : 9180
+    }, {
+      "id" : 2401,
+      "title" : "第十章 战斩首",
+      "capacity" : 9984
+    }, {
+      "id" : 2402,
+      "title" : "第十一章 修罗场",
+      "capacity" : 9109
+    }, {
+      "id" : 2403,
+      "title" : "第十二章 血洗印度世家",
+      "capacity" : 9609
+    }, {
+      "id" : 2404,
+      "title" : "第十三章 阎罗王召见",
+      "capacity" : 9130
+    }, {
+      "id" : 2405,
+      "title" : "第十四章 任务",
+      "capacity" : 9441
+    }, {
+      "id" : 2406,
+      "title" : "第十五章 小蝶",
+      "capacity" : 9447
+    }, {
+      "id" : 2407,
+      "title" : "第十六章 林中厮杀",
+      "capacity" : 9052
+    }, {
+      "id" : 2408,
+      "title" : "第十七章 惨烈",
+      "capacity" : 9148
+    }, {
+      "id" : 2409,
+      "title" : "第十八章 获救",
+      "capacity" : 9170
+    }, {
+      "id" : 2410,
+      "title" : "第十九章 杀戮之夜",
+      "capacity" : 9081
+    }, {
+      "id" : 2411,
+      "title" : "第二十章 杀生的战斗",
+      "capacity" : 9153
+    }, {
+      "id" : 2412,
+      "title" : "第二十一章 收徒",
+      "capacity" : 9068
+    }, {
+      "id" : 2413,
+      "title" : "弟二十二章 天生天养",
+      "capacity" : 9071
+    }, {
+      "id" : 2414,
+      "title" : "第二十三章 矛盾爆发",
+      "capacity" : 9173
+    }, {
+      "id" : 2415,
+      "title" : "第二十四章 刀客重伤",
+      "capacity" : 9249
+    }, {
+      "id" : 2416,
+      "title" : "第二十五章 试探",
+      "capacity" : 9113
+    }, {
+      "id" : 2417,
+      "title" : "第二十六章 梵蒂城",
+      "capacity" : 9232
+    }, {
+      "id" : 2418,
+      "title" : "第二十七章 绞斗场的战斗",
+      "capacity" : 9070
+    }, {
+      "id" : 2419,
+      "title" : "第二十八章 肥猫",
+      "capacity" : 9071
+    }, {
+      "id" : 2420,
+      "title" : "第二十九章 战",
+      "capacity" : 9097
+    }, {
+      "id" : 2421,
+      "title" : "第三十章 红鬼出场",
+      "capacity" : 9191
+    }, {
+      "id" : 2422,
+      "title" : "第三十一章 入陈家",
+      "capacity" : 9073
+    }, {
+      "id" : 2423,
+      "title" : "第三十二章 他的名字叫红魔",
+      "capacity" : 9035
+    }, {
+      "id" : 2424,
+      "title" : "第三十三章 回卧牛村",
+      "capacity" : 9379
+    }, {
+      "id" : 2425,
+      "title" : "第三十四章 血战",
+      "capacity" : 9102
+    }, {
+      "id" : 2426,
+      "title" : "第三十五章 来历不明的暗信",
+      "capacity" : 9102
+    }, {
+      "id" : 2427,
+      "title" : "第三十六章 不好的预感",
+      "capacity" : 9197
+    }, {
+      "id" : 2428,
+      "title" : "第三十七章 纷争开始",
+      "capacity" : 9026
+    }, {
+      "id" : 2429,
+      "title" : "第三十八章 真相？",
+      "capacity" : 9066
+    }, {
+      "id" : 2430,
+      "title" : "第三十九章 入张家",
+      "capacity" : 9085
+    }, {
+      "id" : 2431,
+      "title" : "第四十章 突破",
+      "capacity" : 9065
+    }, {
+      "id" : 2432,
+      "title" : "第四十一章 战斗开始",
+      "capacity" : 9159
+    }, {
+      "id" : 2433,
+      "title" : "第四十二章 逃脱",
+      "capacity" : 9028
+    }, {
+      "id" : 2434,
+      "title" : "第四十三章 鹰空城",
+      "capacity" : 9038
+    }, {
+      "id" : 2435,
+      "title" : "第四十四章 被盯上了",
+      "capacity" : 9222
+    }, {
+      "id" : 2436,
+      "title" : "第四十五章 阴险霍雷",
+      "capacity" : 9103
+    }, {
+      "id" : 2437,
+      "title" : "第四十六章 遇刺",
+      "capacity" : 9085
+    }, {
+      "id" : 2438,
+      "title" : "第四十七章 引狼入霍府",
+      "capacity" : 9190
+    }, {
+      "id" : 2439,
+      "title" : "第四十八章 遭陷害",
+      "capacity" : 9328
+    }, {
+      "id" : 2440,
+      "title" : "第四十九章 绞杀",
+      "capacity" : 9086
+    }, {
+      "id" : 2441,
+      "title" : "第五十章 重伤",
+      "capacity" : 9668
+    } ]
+  }
+}

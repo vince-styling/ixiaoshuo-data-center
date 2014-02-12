@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 1688,
+      "title" : "第四十八章 上",
+      "capacity" : 3119
+    }, {
+      "id" : 1689,
+      "title" : "第四十九章 中",
+      "capacity" : 5590
+    } ]
+  }
+}

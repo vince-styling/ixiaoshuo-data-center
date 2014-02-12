@@ -1,0 +1,134 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 31,
+    "list" : [ {
+      "id" : 1789,
+      "title" : "第一章 为妞而打",
+      "capacity" : 12609
+    }, {
+      "id" : 1790,
+      "title" : "第二章顽劣不改",
+      "capacity" : 13526
+    }, {
+      "id" : 1791,
+      "title" : "第三章最后一星期",
+      "capacity" : 8171
+    }, {
+      "id" : 1792,
+      "title" : "第四章书哪儿去了",
+      "capacity" : 5779
+    }, {
+      "id" : 1793,
+      "title" : "第五章无法沟通",
+      "capacity" : 6970
+    }, {
+      "id" : 1794,
+      "title" : "第六章冷言共对",
+      "capacity" : 6504
+    }, {
+      "id" : 1795,
+      "title" : "第七章长大的代价",
+      "capacity" : 5766
+    }, {
+      "id" : 1796,
+      "title" : "第八章类似同待遇",
+      "capacity" : 6056
+    }, {
+      "id" : 1797,
+      "title" : "第九章吃饭亦不安宁",
+      "capacity" : 9438
+    }, {
+      "id" : 1798,
+      "title" : "第十章母亲以己举例",
+      "capacity" : 6937
+    }, {
+      "id" : 1799,
+      "title" : "第十一章难以入睡",
+      "capacity" : 7510
+    }, {
+      "id" : 1800,
+      "title" : "第十二章转性",
+      "capacity" : 10530
+    }, {
+      "id" : 1801,
+      "title" : "第十三章生意难做",
+      "capacity" : 5288
+    }, {
+      "id" : 1802,
+      "title" : "第十四章回忆",
+      "capacity" : 9163
+    }, {
+      "id" : 1803,
+      "title" : "第十五章班主任",
+      "capacity" : 6948
+    }, {
+      "id" : 1804,
+      "title" : "第十六章 色狼",
+      "capacity" : 9937
+    }, {
+      "id" : 1805,
+      "title" : "第十七章蹭饭",
+      "capacity" : 6811
+    }, {
+      "id" : 1806,
+      "title" : "第十八章最后一天",
+      "capacity" : 10211
+    }, {
+      "id" : 1807,
+      "title" : "第十九章叮嘱",
+      "capacity" : 12496
+    }, {
+      "id" : 1808,
+      "title" : "第二十章中考",
+      "capacity" : 12777
+    }, {
+      "id" : 1809,
+      "title" : "第二十一章庆祝中考",
+      "capacity" : 10972
+    }, {
+      "id" : 1810,
+      "title" : "第二十二章嚣张",
+      "capacity" : 10659
+    }, {
+      "id" : 1811,
+      "title" : "第二十三章你们说你们的",
+      "capacity" : 9647
+    }, {
+      "id" : 1812,
+      "title" : "第二十四章感动欲泪",
+      "capacity" : 9899
+    }, {
+      "id" : 1813,
+      "title" : "第二十五章疼上加疼",
+      "capacity" : 11783
+    }, {
+      "id" : 1814,
+      "title" : "第二十六章我撞伤了你，我背你走",
+      "capacity" : 11036
+    }, {
+      "id" : 1815,
+      "title" : "第二十七章彻夜不归",
+      "capacity" : 15545
+    }, {
+      "id" : 1816,
+      "title" : "第二十八章家家有本难念的经",
+      "capacity" : 10069
+    }, {
+      "id" : 1817,
+      "title" : "第二十九章男朋友",
+      "capacity" : 11724
+    }, {
+      "id" : 1818,
+      "title" : "第三十章 玩（一）",
+      "capacity" : 10548
+    }, {
+      "id" : 1819,
+      "title" : "第三十一章 玩（二）",
+      "capacity" : 12592
+    } ]
+  }
+}

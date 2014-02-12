@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 70,
+    "totalPageCount" : 78,
+    "totalItemCount" : 1542,
+    "list" : [ {
+      "id" : 3586,
+      "name" : "千年之轮回",
+      "coverUrl" : "",
+      "summary" : "千年轮回不变的爱，只为寻找对方，相见不相识，但一定会再次拥有“冰儿，你若心中有我，树敌三千又如何”“",
+      "updateStatus" : 1,
+      "capacity" : 164974,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3312,
+      "name" : "回祎录",
+      "coverUrl" : "",
+      "summary" : "回忆里记载的不是只有过往的记忆，还承载了流向未来的暗涌。每个人的回忆都是如此。萧祎和萧安是双胞胎，一",
+      "updateStatus" : 1,
+      "capacity" : 133100,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2328,
+      "name" : "江山美男归我管",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44860.jpg",
+      "summary" : "五百年来，华国流传这样一则传说：“女从异世来，是为圣女，有治世之能，必将一统东西，再创华国盛世！”她",
+      "updateStatus" : 1,
+      "capacity" : 6772871,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 3714,
+      "name" : "王爷的仙妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46934.jpg",
+      "summary" : "十五年前是个一个孤儿！十五年后竟成为亿万小富婆兼职法师！一朝穿越回到古代！竟发现自己惊天的身世！一个",
+      "updateStatus" : 1,
+      "capacity" : 195923,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 3467,
+      "name" : "驻足",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43480.jpg",
+      "summary" : "是不是每一个人，都可以为你驻足？是不是每一个人，都可以明知道你是在欺骗他，却甘之若饴？是不是每一个人",
+      "updateStatus" : 1,
+      "capacity" : 26576,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3677,
+      "name" : "不要丢下我，好不好",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46906.jpg",
+      "summary" : "哥哥爱上妹妹。。妹妹喜欢上哥哥。。这段禁忌之恋。。将何去何从。。",
+      "updateStatus" : 1,
+      "capacity" : 387219,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3518,
+      "name" : "寻花",
+      "coverUrl" : "",
+      "summary" : "一朝穿越至蘩花大陆，改变了生命应有的轨迹远古的声音，传入耳畔。“吸血鬼，污恶的生物，地狱的魔物，以血",
+      "updateStatus" : 1,
+      "capacity" : 31695,
+      "catName" : "古代言情"
+    }, {
+      "id" : 2568,
+      "name" : "爱情转变剂",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44012.jpg",
+      "summary" : "打架天后安彩婧，最近倒霉运，在家被老妈姐姐压着，在外被帅哥粘着，祸不单行。什么？什么叫有帅哥注意着你",
+      "updateStatus" : 1,
+      "capacity" : 5377988,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2717,
+      "name" : "修罗王妃：血战三关",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22118.jpg",
+      "summary" : "传言镇北将军长的恰似猛张飞……传言镇北将军一只手可以拧下一个蛮金人的头……传言镇北将军暴戾成性，杀人",
+      "updateStatus" : 1,
+      "capacity" : 3717611,
+      "catName" : "历史架空"
+    }, {
+      "id" : 2169,
+      "name" : "诛情冰天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43505.jpg",
+      "summary" : "荒凉大漠奏响一曲英雄红颜的挽歌——上邪，我欲与君相知，长命无绝衰。生未同衾，求死同穴，盼得来世续前缘",
+      "updateStatus" : 1,
+      "capacity" : 8186536,
+      "catName" : "仙侠修真"
+    }, {
+      "id" : 3459,
+      "name" : "红尘客栈",
+      "coverUrl" : "",
+      "summary" : "天涯的尽头是风沙红尘的故事叫牵挂",
+      "updateStatus" : 1,
+      "capacity" : 57668,
+      "catName" : "古代言情"
+    }, {
+      "id" : 2495,
+      "name" : "一个农村女人的蝴蝶梦",
+      "coverUrl" : "",
+      "summary" : "我讲的是一个真实的故事；这个故事发生在我的故乡河南---黄河岸边一个古老的村庄：男主人公是我中学时代",
+      "updateStatus" : 1,
+      "capacity" : 3463330,
+      "catName" : "同人其他"
+    }, {
+      "id" : 3289,
+      "name" : "总裁养成记",
+      "coverUrl" : "",
+      "summary" : "是一个热血青年，用满腔热情准备我自己今后的人生，干一场轰轰烈烈的事业，可人的理想和现实生活不可能是一",
+      "updateStatus" : 1,
+      "capacity" : 31738,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3731,
+      "name" : "尘心凡念",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46015.jpg",
+      "summary" : "魔界解封，为阻止魔尊曜炽再度扰乱三界，寻找神人再次封印迫在眉睫。然而于此同时，她在线轴上渐渐苏醒。她",
+      "updateStatus" : 1,
+      "capacity" : 547515,
+      "catName" : "仙侠修真"
+    }, {
+      "id" : 3519,
+      "name" : "火影.平静的海面上泛起恋爱的浪花",
+      "coverUrl" : "",
+      "summary" : "忍界大战之后，鸣人打败了斑，为忍界带来了和平时代。大蛇丸改邪归正的回归，佐助终于也回到木叶。经过大蛇",
+      "updateStatus" : 1,
+      "capacity" : 72528,
+      "catName" : "同人其他"
+    }, {
+      "id" : 3611,
+      "name" : "Closetoflame",
+      "coverUrl" : "",
+      "summary" : "小小说合成的集子，暗色重扣，人情温暖，暗色灵魂，心灵深处的念想，也反应一点社会黑暗，但不会揭露的太露",
+      "updateStatus" : 1,
+      "capacity" : 109028,
+      "catName" : "同人其他"
+    }, {
+      "id" : 3659,
+      "name" : "回头，爱还在原地等你",
+      "coverUrl" : "",
+      "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容",
+      "updateStatus" : 1,
+      "capacity" : 83724,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3102,
+      "name" : "暗光",
+      "coverUrl" : "",
+      "summary" : "生而丧母的阿乐注定得不到亲人的爱，滥赌嗜酒的父亲动辄打骂，拳脚相加。终于，年幼的阿乐选择了离开，并由",
+      "updateStatus" : 1,
+      "capacity" : 50634,
+      "catName" : "都市校园"
+    }, {
+      "id" : 3110,
+      "name" : "三生情缘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21976.jpg",
+      "summary" : "第一世她，皇甫静轩，堂堂皇甫家嫡出之女，为了他，一生规行矩步，以夫为天，临死前依旧为他呕心沥血，保他",
+      "updateStatus" : 1,
+      "capacity" : 213188,
+      "catName" : "古代言情"
+    }, {
+      "id" : 3734,
+      "name" : "哈喽，我的间谍机器人王子",
+      "coverUrl" : "",
+      "summary" : "天上会掉下来什么？鸟粪？雨滴？馅儿饼？错！天上会掉下来火箭！不是神舟七号、八号，是外星人的火箭！什么",
+      "updateStatus" : 1,
+      "capacity" : 43145,
+      "catName" : "都市校园"
+    } ]
+  }
+}

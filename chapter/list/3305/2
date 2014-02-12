@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 4314,
+      "title" : "第二章 10 不要和陌生人说话-2",
+      "capacity" : 5947
+    }, {
+      "id" : 4315,
+      "title" : "第二章 011 红衣服女人",
+      "capacity" : 5042
+    }, {
+      "id" : 4316,
+      "title" : "第二章 011 红衣服女人-2",
+      "capacity" : 4317
+    }, {
+      "id" : 4317,
+      "title" : "澄文上架公告",
+      "capacity" : 1948
+    } ]
+  }
+}

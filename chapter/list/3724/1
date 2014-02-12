@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 10,
+    "list" : [ {
+      "id" : 1283,
+      "title" : "第一话",
+      "capacity" : 6075
+    }, {
+      "id" : 1284,
+      "title" : "第二话",
+      "capacity" : 10308
+    }, {
+      "id" : 1285,
+      "title" : "第三话",
+      "capacity" : 6973
+    }, {
+      "id" : 1286,
+      "title" : "第四话",
+      "capacity" : 5756
+    }, {
+      "id" : 1287,
+      "title" : "第五话",
+      "capacity" : 9982
+    }, {
+      "id" : 1288,
+      "title" : "第六话",
+      "capacity" : 8456
+    }, {
+      "id" : 1289,
+      "title" : "第七话",
+      "capacity" : 8320
+    }, {
+      "id" : 1290,
+      "title" : "第八话",
+      "capacity" : 5226
+    }, {
+      "id" : 1291,
+      "title" : "第九话",
+      "capacity" : 6440
+    }, {
+      "id" : 1292,
+      "title" : "第十话",
+      "capacity" : 5591
+    } ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 2836,
+      "title" : "一，初入幽谷",
+      "capacity" : 18202
+    }, {
+      "id" : 2837,
+      "title" : "二，赤炎之地，岩浆之王",
+      "capacity" : 13922
+    }, {
+      "id" : 2838,
+      "title" : "三， 妖",
+      "capacity" : 19132
+    }, {
+      "id" : 2839,
+      "title" : "四， 春色将阑",
+      "capacity" : 15909
+    } ]
+  }
+}

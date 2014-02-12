@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 3,
+    "totalItemCount" : 102,
+    "list" : [ {
+      "id" : 1073,
+      "title" : "墉城（下）",
+      "capacity" : 3749
+    }, {
+      "id" : 1074,
+      "title" : "寒意（上）",
+      "capacity" : 3595
+    }, {
+      "id" : 1075,
+      "title" : "寒意（下）",
+      "capacity" : 3303
+    }, {
+      "id" : 1076,
+      "title" : "诛心",
+      "capacity" : 5364
+    }, {
+      "id" : 1077,
+      "title" : "北宫 (上)",
+      "capacity" : 3284
+    }, {
+      "id" : 1078,
+      "title" : "北宫 (下)",
+      "capacity" : 3819
+    }, {
+      "id" : 1079,
+      "title" : "发难（上）",
+      "capacity" : 3413
+    }, {
+      "id" : 1080,
+      "title" : "发难 （下）",
+      "capacity" : 2934
+    }, {
+      "id" : 1081,
+      "title" : "慈悲（上）",
+      "capacity" : 3150
+    }, {
+      "id" : 1082,
+      "title" : "慈悲（下）",
+      "capacity" : 4446
+    }, {
+      "id" : 1083,
+      "title" : "薄冰",
+      "capacity" : 6036
+    }, {
+      "id" : 1084,
+      "title" : "家宴（上）",
+      "capacity" : 4233
+    }, {
+      "id" : 1085,
+      "title" : "家宴（下）",
+      "capacity" : 2711
+    }, {
+      "id" : 1086,
+      "title" : "丝缕",
+      "capacity" : 6846
+    }, {
+      "id" : 1087,
+      "title" : "笙歌（上）",
+      "capacity" : 3521
+    }, {
+      "id" : 1088,
+      "title" : "笙歌（下）",
+      "capacity" : 3715
+    }, {
+      "id" : 1089,
+      "title" : "逼迫（上）",
+      "capacity" : 3269
+    }, {
+      "id" : 1090,
+      "title" : "逼迫（下）",
+      "capacity" : 3926
+    }, {
+      "id" : 1091,
+      "title" : "囚爱（上）",
+      "capacity" : 3576
+    }, {
+      "id" : 1092,
+      "title" : "囚爱（下）",
+      "capacity" : 3439
+    }, {
+      "id" : 1093,
+      "title" : "煎熬（上）",
+      "capacity" : 2814
+    }, {
+      "id" : 1094,
+      "title" : "煎熬（下）",
+      "capacity" : 3649
+    }, {
+      "id" : 1095,
+      "title" : "再孕（上）",
+      "capacity" : 3359
+    }, {
+      "id" : 1096,
+      "title" : "再孕（下）",
+      "capacity" : 3390
+    }, {
+      "id" : 1097,
+      "title" : "迁怒（上）",
+      "capacity" : 3659
+    }, {
+      "id" : 1098,
+      "title" : "迁怒（下）",
+      "capacity" : 4393
+    }, {
+      "id" : 1099,
+      "title" : "将离（上）",
+      "capacity" : 3324
+    }, {
+      "id" : 1100,
+      "title" : "将离（下）",
+      "capacity" : 3421
+    }, {
+      "id" : 1101,
+      "title" : "神光（上）",
+      "capacity" : 3296
+    }, {
+      "id" : 1102,
+      "title" : "神光（下）",
+      "capacity" : 3726
+    }, {
+      "id" : 1103,
+      "title" : "动摇（上）",
+      "capacity" : 2972
+    }, {
+      "id" : 1104,
+      "title" : "动摇（下）",
+      "capacity" : 4700
+    }, {
+      "id" : 1105,
+      "title" : "落空（上）",
+      "capacity" : 3131
+    }, {
+      "id" : 1106,
+      "title" : "落空（下）",
+      "capacity" : 4639
+    }, {
+      "id" : 1107,
+      "title" : "麟凤（上）",
+      "capacity" : 3406
+    }, {
+      "id" : 1108,
+      "title" : "麟凤（下）",
+      "capacity" : 4432
+    }, {
+      "id" : 1109,
+      "title" : "蛮儿（上）",
+      "capacity" : 3105
+    }, {
+      "id" : 1110,
+      "title" : "蛮儿（下）",
+      "capacity" : 3345
+    }, {
+      "id" : 1111,
+      "title" : "祭天（上）",
+      "capacity" : 3640
+    }, {
+      "id" : 1112,
+      "title" : "祭天（下）",
+      "capacity" : 3345
+    }, {
+      "id" : 1113,
+      "title" : "温情（上）",
+      "capacity" : 3800
+    }, {
+      "id" : 1114,
+      "title" : "温情（下）",
+      "capacity" : 3408
+    }, {
+      "id" : 1115,
+      "title" : "听雨（上）",
+      "capacity" : 3875
+    }, {
+      "id" : 1116,
+      "title" : "听雨（下）",
+      "capacity" : 3141
+    }, {
+      "id" : 1117,
+      "title" : "弃爱",
+      "capacity" : 4772
+    }, {
+      "id" : 1118,
+      "title" : "蕹州（上）",
+      "capacity" : 2442
+    }, {
+      "id" : 1119,
+      "title" : "蕹州（下）",
+      "capacity" : 3247
+    }, {
+      "id" : 1120,
+      "title" : "有鬼",
+      "capacity" : 4036
+    }, {
+      "id" : 1121,
+      "title" : "宁寺（上）",
+      "capacity" : 2952
+    }, {
+      "id" : 1122,
+      "title" : "宁寺(下）",
+      "capacity" : 3291
+    } ]
+  }
+}

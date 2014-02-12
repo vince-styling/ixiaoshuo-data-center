@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 1519,
+      "title" : "人物简介",
+      "capacity" : 2936
+    }, {
+      "id" : 1520,
+      "title" : "狼狈为奸上学去",
+      "capacity" : 3170
+    }, {
+      "id" : 1521,
+      "title" : "最佳损友，翻墙，打架",
+      "capacity" : 7087
+    }, {
+      "id" : 1522,
+      "title" : "初见同学，老师",
+      "capacity" : 3103
+    }, {
+      "id" : 1523,
+      "title" : "遇竹马",
+      "capacity" : 5182
+    } ]
+  }
+}

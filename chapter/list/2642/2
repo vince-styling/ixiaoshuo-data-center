@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 5039,
+      "title" : "第五十章 自有妙招",
+      "capacity" : 4723
+    }, {
+      "id" : 5040,
+      "title" : "第五十一章 猛虎出笼",
+      "capacity" : 4319
+    }, {
+      "id" : 5041,
+      "title" : "第五十二章 王氏企业",
+      "capacity" : 3914
+    }, {
+      "id" : 5042,
+      "title" : "第五十三章 满城追捕",
+      "capacity" : 3515
+    } ]
+  }
+}

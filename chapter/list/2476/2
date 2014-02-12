@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 55,
+    "list" : [ {
+      "id" : 4824,
+      "title" : "第十二章 恐吓（三）",
+      "capacity" : 5195
+    }, {
+      "id" : 4825,
+      "title" : "第十二章 恐吓（四）",
+      "capacity" : 6054
+    }, {
+      "id" : 4826,
+      "title" : "第十二章 恐吓（五）",
+      "capacity" : 7224
+    }, {
+      "id" : 4827,
+      "title" : "第十三章 神秘指纹（一）",
+      "capacity" : 9848
+    }, {
+      "id" : 4828,
+      "title" : "上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 120,
+    "list" : [ {
+      "id" : 1382,
+      "title" : "斗法",
+      "capacity" : 9041
+    }, {
+      "id" : 1383,
+      "title" : "布阵",
+      "capacity" : 18141
+    }, {
+      "id" : 1384,
+      "title" : "麻烦上门",
+      "capacity" : 18089
+    }, {
+      "id" : 1385,
+      "title" : "危机",
+      "capacity" : 18129
+    }, {
+      "id" : 1386,
+      "title" : "算账",
+      "capacity" : 18101
+    }, {
+      "id" : 1387,
+      "title" : "收获",
+      "capacity" : 18139
+    }, {
+      "id" : 1388,
+      "title" : "阴阳太极",
+      "capacity" : 18247
+    }, {
+      "id" : 1389,
+      "title" : "壮大",
+      "capacity" : 18081
+    }, {
+      "id" : 1390,
+      "title" : "世界大变",
+      "capacity" : 18144
+    }, {
+      "id" : 1391,
+      "title" : "花精",
+      "capacity" : 9033
+    }, {
+      "id" : 1392,
+      "title" : "动手",
+      "capacity" : 9063
+    }, {
+      "id" : 1393,
+      "title" : "报复",
+      "capacity" : 9142
+    }, {
+      "id" : 1394,
+      "title" : "密谋",
+      "capacity" : 7313
+    }, {
+      "id" : 1395,
+      "title" : "刺杀",
+      "capacity" : 8894
+    }, {
+      "id" : 1396,
+      "title" : "扣击",
+      "capacity" : 15532
+    }, {
+      "id" : 1397,
+      "title" : "心径（一）",
+      "capacity" : 10285
+    }, {
+      "id" : 1398,
+      "title" : "心境（二）",
+      "capacity" : 7657
+    }, {
+      "id" : 1399,
+      "title" : "招亲（一）",
+      "capacity" : 9154
+    }, {
+      "id" : 1400,
+      "title" : "招亲（二）",
+      "capacity" : 9793
+    }, {
+      "id" : 1401,
+      "title" : "招亲（三）",
+      "capacity" : 8759
+    } ]
+  }
+}

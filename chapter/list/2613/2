@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 2858,
+      "title" : "前缘（5）",
+      "capacity" : 7535
+    }, {
+      "id" : 2859,
+      "title" : "前缘（6）",
+      "capacity" : 7705
+    }, {
+      "id" : 2860,
+      "title" : "前缘（7）",
+      "capacity" : 7552
+    } ]
+  }
+}

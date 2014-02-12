@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 4063,
+      "title" : "第一章 改变的轨迹",
+      "capacity" : 6080
+    }, {
+      "id" : 4064,
+      "title" : "第二章 十尾狐：语",
+      "capacity" : 6188
+    }, {
+      "id" : 4065,
+      "title" : "第三章 字苑 号极乐姬",
+      "capacity" : 6747
+    }, {
+      "id" : 4066,
+      "title" : "第四章 天下之厌恶之人",
+      "capacity" : 7344
+    }, {
+      "id" : 4067,
+      "title" : "第五章 妖媚之客01",
+      "capacity" : 3418
+    } ]
+  }
+}

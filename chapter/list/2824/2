@@ -1,0 +1,74 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 66,
+    "list" : [ {
+      "id" : 3416,
+      "title" : "(四十五)（2）",
+      "capacity" : 5025
+    }, {
+      "id" : 3417,
+      "title" : "（四十五）（3）",
+      "capacity" : 3720
+    }, {
+      "id" : 3418,
+      "title" : "四十六",
+      "capacity" : 3264
+    }, {
+      "id" : 3419,
+      "title" : "（四十六）（2）",
+      "capacity" : 3291
+    }, {
+      "id" : 3420,
+      "title" : "（四十六）（3）",
+      "capacity" : 1895
+    }, {
+      "id" : 3421,
+      "title" : "四十七",
+      "capacity" : 3587
+    }, {
+      "id" : 3422,
+      "title" : "（四十七）（2）",
+      "capacity" : 1198
+    }, {
+      "id" : 3423,
+      "title" : "（四十七）（3）",
+      "capacity" : 3197
+    }, {
+      "id" : 3424,
+      "title" : "四十八",
+      "capacity" : 1615
+    }, {
+      "id" : 3425,
+      "title" : "四十八（2）",
+      "capacity" : 3377
+    }, {
+      "id" : 3426,
+      "title" : "四十八（3）",
+      "capacity" : 3765
+    }, {
+      "id" : 3427,
+      "title" : "四十八（4）",
+      "capacity" : 2153
+    }, {
+      "id" : 3428,
+      "title" : "四十九",
+      "capacity" : 3549
+    }, {
+      "id" : 3429,
+      "title" : "四十九（2）",
+      "capacity" : 3813
+    }, {
+      "id" : 3430,
+      "title" : "四十九（3）",
+      "capacity" : 3330
+    }, {
+      "id" : 3431,
+      "title" : "五十",
+      "capacity" : 4611
+    } ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 56,
+    "list" : [ {
+      "id" : 3340,
+      "title" : "五一",
+      "capacity" : 3325
+    }, {
+      "id" : 3341,
+      "title" : "五二",
+      "capacity" : 3112
+    }, {
+      "id" : 3342,
+      "title" : "五三",
+      "capacity" : 3217
+    }, {
+      "id" : 3343,
+      "title" : "五四",
+      "capacity" : 3163
+    }, {
+      "id" : 3344,
+      "title" : "五五",
+      "capacity" : 3047
+    }, {
+      "id" : 3345,
+      "title" : "五六",
+      "capacity" : 3314
+    } ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 21,
+    "list" : [ {
+      "id" : 4254,
+      "title" : "第一章（1）",
+      "capacity" : 8895
+    }, {
+      "id" : 4255,
+      "title" : "第一章（2）",
+      "capacity" : 6290
+    }, {
+      "id" : 4256,
+      "title" : "第二章（1）",
+      "capacity" : 8755
+    }, {
+      "id" : 4257,
+      "title" : "第二章（2）",
+      "capacity" : 10059
+    }, {
+      "id" : 4258,
+      "title" : "第三章（1）",
+      "capacity" : 9213
+    }, {
+      "id" : 4259,
+      "title" : "第三章（2）",
+      "capacity" : 9321
+    }, {
+      "id" : 4260,
+      "title" : "第四章（1）",
+      "capacity" : 9081
+    }, {
+      "id" : 4261,
+      "title" : "第四章（2）",
+      "capacity" : 5972
+    }, {
+      "id" : 4262,
+      "title" : "第五章（1）",
+      "capacity" : 8958
+    }, {
+      "id" : 4263,
+      "title" : "第五章（2）",
+      "capacity" : 9244
+    }, {
+      "id" : 4264,
+      "title" : "第六章（1）",
+      "capacity" : 7414
+    }, {
+      "id" : 4265,
+      "title" : "第六章（2）",
+      "capacity" : 6535
+    }, {
+      "id" : 4266,
+      "title" : "第七章（1）",
+      "capacity" : 6807
+    }, {
+      "id" : 4267,
+      "title" : "第七章（2）",
+      "capacity" : 4298
+    }, {
+      "id" : 4268,
+      "title" : "第八章（1）",
+      "capacity" : 6454
+    }, {
+      "id" : 4269,
+      "title" : "第八章（2）",
+      "capacity" : 7914
+    }, {
+      "id" : 4270,
+      "title" : "第九章（1）",
+      "capacity" : 4301
+    }, {
+      "id" : 4271,
+      "title" : "第九章（2）",
+      "capacity" : 3265
+    }, {
+      "id" : 4272,
+      "title" : "第十章（1）",
+      "capacity" : 6901
+    }, {
+      "id" : 4273,
+      "title" : "第十章（2）",
+      "capacity" : 8683
+    }, {
+      "id" : 4274,
+      "title" : "第十一章（1）",
+      "capacity" : 8298
+    } ]
+  }
+}

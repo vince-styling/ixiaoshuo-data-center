@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 4,
+    "totalPageCount" : 4,
+    "totalItemCount" : 159,
+    "list" : [ {
+      "id" : 2864,
+      "title" : "第一名媛",
+      "capacity" : 5589
+    }, {
+      "id" : 2865,
+      "title" : "俊赫番外（一）",
+      "capacity" : 9386
+    }, {
+      "id" : 2866,
+      "title" : "俊赫番外（二）",
+      "capacity" : 4503
+    }, {
+      "id" : 2867,
+      "title" : "俊赫番外（三）",
+      "capacity" : 9253
+    }, {
+      "id" : 2868,
+      "title" : "俊赫番外（四）",
+      "capacity" : 4679
+    }, {
+      "id" : 2869,
+      "title" : "芷欣番外（一）",
+      "capacity" : 4901
+    }, {
+      "id" : 2870,
+      "title" : "芷欣番外（二）",
+      "capacity" : 9663
+    }, {
+      "id" : 2871,
+      "title" : "芷欣番外（三）",
+      "capacity" : 4655
+    }, {
+      "id" : 2872,
+      "title" : "芷欣番外（四）",
+      "capacity" : 4814
+    } ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 16,
+    "list" : [ {
+      "id" : 4955,
+      "title" : "第一章 北城清晚",
+      "capacity" : 7265
+    }, {
+      "id" : 4956,
+      "title" : "第二章 暖冬依旧",
+      "capacity" : 9489
+    }, {
+      "id" : 4957,
+      "title" : "第三章 江梅渐好",
+      "capacity" : 7609
+    }, {
+      "id" : 4958,
+      "title" : "第四章 梦里箫音（一）",
+      "capacity" : 9727
+    }, {
+      "id" : 4959,
+      "title" : "第五章 梦里箫音（二）",
+      "capacity" : 8177
+    }, {
+      "id" : 4960,
+      "title" : "第六章 梦里箫音（三）",
+      "capacity" : 8026
+    }, {
+      "id" : 4961,
+      "title" : "第七章 黄昏向浓（一）",
+      "capacity" : 9661
+    }, {
+      "id" : 4962,
+      "title" : "第八章 黄昏向浓（二）",
+      "capacity" : 12846
+    }, {
+      "id" : 4963,
+      "title" : "第九章 黄昏向浓（三）",
+      "capacity" : 9341
+    }, {
+      "id" : 4964,
+      "title" : "第十章 黄昏向浓（四）",
+      "capacity" : 9046
+    }, {
+      "id" : 4965,
+      "title" : "第十一章 昊昊苍天",
+      "capacity" : 11917
+    }, {
+      "id" : 4966,
+      "title" : "第十二章 遥遥归期（一）",
+      "capacity" : 8081
+    }, {
+      "id" : 4967,
+      "title" : "第十三章 遥遥归期（二）",
+      "capacity" : 8932
+    }, {
+      "id" : 4968,
+      "title" : "第十四章 遥遥归期（三）",
+      "capacity" : 9170
+    }, {
+      "id" : 4969,
+      "title" : "第十五章 春寒犹在",
+      "capacity" : 9557
+    }, {
+      "id" : 4970,
+      "title" : "第十六章 梨白蕊香",
+      "capacity" : 10184
+    } ]
+  }
+}

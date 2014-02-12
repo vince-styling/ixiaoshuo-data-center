@@ -1,0 +1,66 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 14,
+    "list" : [ {
+      "id" : 2482,
+      "title" : "前传 屠杀之夜",
+      "capacity" : 6393
+    }, {
+      "id" : 2483,
+      "title" : "第一章 通缉令",
+      "capacity" : 6494
+    }, {
+      "id" : 2484,
+      "title" : "第二章 初次相遇",
+      "capacity" : 6303
+    }, {
+      "id" : 2485,
+      "title" : "第三章 你，差远了",
+      "capacity" : 6479
+    }, {
+      "id" : 2486,
+      "title" : "第四章 匿名信",
+      "capacity" : 6201
+    }, {
+      "id" : 2487,
+      "title" : "第五章 黑色药丸",
+      "capacity" : 6969
+    }, {
+      "id" : 2488,
+      "title" : "第六章 危机感，再战",
+      "capacity" : 7900
+    }, {
+      "id" : 2489,
+      "title" : "第七章 兽潮战斗与解药",
+      "capacity" : 6599
+    }, {
+      "id" : 2490,
+      "title" : "第八章 影魂，完胜！",
+      "capacity" : 6937
+    }, {
+      "id" : 2491,
+      "title" : "第九章 咒师",
+      "capacity" : 6975
+    }, {
+      "id" : 2492,
+      "title" : "第十章 生日Party",
+      "capacity" : 7000
+    }, {
+      "id" : 2493,
+      "title" : "第十一章 休闲了",
+      "capacity" : 6533
+    }, {
+      "id" : 2494,
+      "title" : "第十二章 梦",
+      "capacity" : 6811
+    }, {
+      "id" : 2495,
+      "title" : "第十三章 见一个杀一个",
+      "capacity" : 6716
+    } ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 12,
+    "list" : [ {
+      "id" : 2307,
+      "title" : "智商拙计的作者的自我介绍",
+      "capacity" : 865
+    }, {
+      "id" : 2308,
+      "title" : "那个~说一下书群号",
+      "capacity" : 23
+    }, {
+      "id" : 2309,
+      "title" : "关于一件事情，那就是……",
+      "capacity" : 716
+    }, {
+      "id" : 2310,
+      "title" : "2013.8.22 请假条",
+      "capacity" : 240
+    }, {
+      "id" : 2311,
+      "title" : "算了，与其请假，还不如直接更改更新频率",
+      "capacity" : 758
+    }, {
+      "id" : 2312,
+      "title" : "2013.8.25 一夜1.5W字挑战！",
+      "capacity" : 240
+    }, {
+      "id" : 2313,
+      "title" : "开学了，请个长假~~~",
+      "capacity" : 740
+    }, {
+      "id" : 2314,
+      "title" : "才停更一个月，那不科学的阅读量是肿么回事？！",
+      "capacity" : 587
+    }, {
+      "id" : 2315,
+      "title" : "我要TJ了！",
+      "capacity" : 1453
+    }, {
+      "id" : 2316,
+      "title" : "没事回来转转~",
+      "capacity" : 496
+    }, {
+      "id" : 2317,
+      "title" : "序章——孤岛",
+      "capacity" : 2889
+    }, {
+      "id" : 2318,
+      "title" : "第一章——暴风雨只是个开始（未完）",
+      "capacity" : 66716
+    } ]
+  }
+}

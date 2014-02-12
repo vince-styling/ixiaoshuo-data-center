@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 50,
+    "list" : [ {
+      "id" : 3297,
+      "title" : "第一章 初到",
+      "capacity" : 9673
+    }, {
+      "id" : 3298,
+      "title" : "第二章 百人",
+      "capacity" : 6818
+    }, {
+      "id" : 3299,
+      "title" : "第三章 开始",
+      "capacity" : 6083
+    }, {
+      "id" : 3300,
+      "title" : "第四章 活着",
+      "capacity" : 3122
+    }, {
+      "id" : 3301,
+      "title" : "第五章 学习",
+      "capacity" : 4624
+    }, {
+      "id" : 3302,
+      "title" : "第六章 爱竹",
+      "capacity" : 4861
+    }, {
+      "id" : 3303,
+      "title" : "第七章 温暖",
+      "capacity" : 3153
+    }, {
+      "id" : 3304,
+      "title" : "第八章 变化",
+      "capacity" : 3123
+    }, {
+      "id" : 3305,
+      "title" : "第九章 情愫",
+      "capacity" : 3029
+    }, {
+      "id" : 3306,
+      "title" : "第十章 心计",
+      "capacity" : 3009
+    }, {
+      "id" : 3307,
+      "title" : "第十一章 调戏",
+      "capacity" : 3019
+    }, {
+      "id" : 3308,
+      "title" : "第十二章 生气",
+      "capacity" : 3028
+    }, {
+      "id" : 3309,
+      "title" : "第十三章 吻",
+      "capacity" : 3010
+    }, {
+      "id" : 3310,
+      "title" : "第十四章 选择",
+      "capacity" : 3036
+    }, {
+      "id" : 3311,
+      "title" : "第十五章 生死（一）",
+      "capacity" : 3010
+    }, {
+      "id" : 3312,
+      "title" : "第十六章 生死（二）",
+      "capacity" : 3119
+    }, {
+      "id" : 3313,
+      "title" : "第十七章 生死（三）",
+      "capacity" : 3011
+    }, {
+      "id" : 3314,
+      "title" : "第十八章 改变",
+      "capacity" : 3012
+    }, {
+      "id" : 3315,
+      "title" : "第十九章 隔阂",
+      "capacity" : 3542
+    }, {
+      "id" : 3316,
+      "title" : "第二十章 虚伪",
+      "capacity" : 3024
+    }, {
+      "id" : 3317,
+      "title" : "第二十一章 离心（一）",
+      "capacity" : 3157
+    }, {
+      "id" : 3318,
+      "title" : "第二十二章 离心（二）",
+      "capacity" : 4496
+    }, {
+      "id" : 3319,
+      "title" : "第二十三章 离心（三）",
+      "capacity" : 4365
+    }, {
+      "id" : 3320,
+      "title" : "第二十四章 身世（一）",
+      "capacity" : 3090
+    }, {
+      "id" : 3321,
+      "title" : "第二十五章 身世（二）",
+      "capacity" : 4231
+    }, {
+      "id" : 3322,
+      "title" : "第二十六章 平静（一）",
+      "capacity" : 3113
+    }, {
+      "id" : 3323,
+      "title" : "第二十七章 平静（二）",
+      "capacity" : 3092
+    }, {
+      "id" : 3324,
+      "title" : "番外 楚离（一）",
+      "capacity" : 3364
+    }, {
+      "id" : 3325,
+      "title" : "番外 楚离 （二）",
+      "capacity" : 3873
+    }, {
+      "id" : 3326,
+      "title" : "第一章 离开（一）",
+      "capacity" : 3136
+    }, {
+      "id" : 3327,
+      "title" : "第二章 离开（二）",
+      "capacity" : 3250
+    }, {
+      "id" : 3328,
+      "title" : "第三章 分离（一）",
+      "capacity" : 3292
+    }, {
+      "id" : 3329,
+      "title" : "第四章 分离（二）",
+      "capacity" : 3288
+    }, {
+      "id" : 3330,
+      "title" : "第五章 身份（一）",
+      "capacity" : 3129
+    }, {
+      "id" : 3331,
+      "title" : "第六章 身份（二）",
+      "capacity" : 3199
+    }, {
+      "id" : 3332,
+      "title" : "第七章 身份（三）",
+      "capacity" : 3165
+    }, {
+      "id" : 3333,
+      "title" : "第八章 身份（四）",
+      "capacity" : 3104
+    }, {
+      "id" : 3334,
+      "title" : "第九章 身份（五）",
+      "capacity" : 3314
+    }, {
+      "id" : 3335,
+      "title" : "第十章 身份（六）",
+      "capacity" : 3116
+    }, {
+      "id" : 3336,
+      "title" : "第十一章 身份（七）",
+      "capacity" : 3348
+    }, {
+      "id" : 3337,
+      "title" : "第十二章 身份（八）",
+      "capacity" : 3307
+    }, {
+      "id" : 3338,
+      "title" : "第十三章 揭穿（一）",
+      "capacity" : 3043
+    }, {
+      "id" : 3339,
+      "title" : "第十四章 揭穿（二）",
+      "capacity" : 3353
+    }, {
+      "id" : 3340,
+      "title" : "第十五章 揭穿（三）",
+      "capacity" : 3311
+    }, {
+      "id" : 3341,
+      "title" : "第十六章 揭穿（四）",
+      "capacity" : 3033
+    }, {
+      "id" : 3342,
+      "title" : "第十七章 哥哥（一）",
+      "capacity" : 3106
+    }, {
+      "id" : 3343,
+      "title" : "第十八章 哥哥（二）",
+      "capacity" : 3261
+    }, {
+      "id" : 3344,
+      "title" : "第十九章 哥哥 （三）",
+      "capacity" : 3199
+    }, {
+      "id" : 3345,
+      "title" : "第二十章 回家（一）",
+      "capacity" : 3396
+    }, {
+      "id" : 3346,
+      "title" : "第二十一章 回家（二）",
+      "capacity" : 3217
+    } ]
+  }
+}

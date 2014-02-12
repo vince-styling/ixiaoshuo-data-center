@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 3982,
+      "title" : "兰逝",
+      "capacity" : 9242
+    }, {
+      "id" : 3983,
+      "title" : "墨衣公子",
+      "capacity" : 5089
+    }, {
+      "id" : 3984,
+      "title" : "墨衣公子（二）",
+      "capacity" : 4794
+    }, {
+      "id" : 3985,
+      "title" : "毒杀",
+      "capacity" : 5379
+    }, {
+      "id" : 3986,
+      "title" : "毒杀（二）",
+      "capacity" : 4690
+    } ]
+  }
+}

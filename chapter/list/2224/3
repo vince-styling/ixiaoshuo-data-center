@@ -1,0 +1,14 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 101,
+    "list" : [ {
+      "id" : 3716,
+      "title" : "写给我亲亲亲爱的读者",
+      "capacity" : 816
+    } ]
+  }
+}

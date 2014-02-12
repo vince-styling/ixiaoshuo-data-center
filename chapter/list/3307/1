@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 1805,
+      "title" : "第一章 家庭破碎",
+      "capacity" : 6307
+    }, {
+      "id" : 1806,
+      "title" : "第二章 募捐",
+      "capacity" : 7615
+    }, {
+      "id" : 1807,
+      "title" : "第三章 辍学打工",
+      "capacity" : 8323
+    }, {
+      "id" : 1808,
+      "title" : "第四章 青涩",
+      "capacity" : 7143
+    }, {
+      "id" : 1809,
+      "title" : "第五章 探病",
+      "capacity" : 6325
+    }, {
+      "id" : 1810,
+      "title" : "第六章 课代表风波",
+      "capacity" : 7075
+    }, {
+      "id" : 1811,
+      "title" : "第七章 你是我的知己",
+      "capacity" : 6391
+    } ]
+  }
+}

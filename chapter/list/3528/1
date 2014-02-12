@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 12,
+    "list" : [ {
+      "id" : 2022,
+      "title" : "第1章 夜半马蹄声",
+      "capacity" : 8772
+    }, {
+      "id" : 2023,
+      "title" : "第2章 神医古明",
+      "capacity" : 7019
+    }, {
+      "id" : 2024,
+      "title" : "第3章 富贵草包",
+      "capacity" : 6526
+    }, {
+      "id" : 2025,
+      "title" : "第4章 先生护航",
+      "capacity" : 7203
+    }, {
+      "id" : 2026,
+      "title" : "第5章 大漠王",
+      "capacity" : 6134
+    }, {
+      "id" : 2027,
+      "title" : "第6章 神秘哑人",
+      "capacity" : 7346
+    }, {
+      "id" : 2028,
+      "title" : "第7章 三菜一汤",
+      "capacity" : 8405
+    }, {
+      "id" : 2029,
+      "title" : "第8章 心尖人儿",
+      "capacity" : 8551
+    }, {
+      "id" : 2030,
+      "title" : "第9章 招医皇榜",
+      "capacity" : 6827
+    }, {
+      "id" : 2031,
+      "title" : "第10章 百花捧月",
+      "capacity" : 5374
+    }, {
+      "id" : 2032,
+      "title" : "第11章 护花金佛",
+      "capacity" : 8474
+    }, {
+      "id" : 2033,
+      "title" : "第12章 玉肌膏",
+      "capacity" : 8167
+    } ]
+  }
+}

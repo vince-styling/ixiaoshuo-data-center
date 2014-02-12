@@ -1,0 +1,142 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 33,
+    "list" : [ {
+      "id" : 2937,
+      "title" : "序",
+      "capacity" : 1365
+    }, {
+      "id" : 2938,
+      "title" : "壹【迷烟】",
+      "capacity" : 3923
+    }, {
+      "id" : 2939,
+      "title" : "贰【司马】",
+      "capacity" : 3224
+    }, {
+      "id" : 2940,
+      "title" : "叁【洛城】",
+      "capacity" : 3738
+    }, {
+      "id" : 2941,
+      "title" : "肆【相国府】",
+      "capacity" : 3813
+    }, {
+      "id" : 2942,
+      "title" : "伍【爹爹】",
+      "capacity" : 3150
+    }, {
+      "id" : 2943,
+      "title" : "陆【血莲】",
+      "capacity" : 4154
+    }, {
+      "id" : 2944,
+      "title" : "柒【守候】",
+      "capacity" : 3027
+    }, {
+      "id" : 2945,
+      "title" : "捌【南疆】",
+      "capacity" : 3419
+    }, {
+      "id" : 2946,
+      "title" : "镹【离开】",
+      "capacity" : 3784
+    }, {
+      "id" : 2947,
+      "title" : "拾【跋涉】",
+      "capacity" : 3027
+    }, {
+      "id" : 2948,
+      "title" : "拾壹【叶玉】",
+      "capacity" : 4606
+    }, {
+      "id" : 2949,
+      "title" : "壹【初见】",
+      "capacity" : 3168
+    }, {
+      "id" : 2950,
+      "title" : "贰【天界】",
+      "capacity" : 2832
+    }, {
+      "id" : 2951,
+      "title" : "叁【魔君】",
+      "capacity" : 3228
+    }, {
+      "id" : 2952,
+      "title" : "肆【功宴】",
+      "capacity" : 3041
+    }, {
+      "id" : 2953,
+      "title" : "伍【无用】",
+      "capacity" : 5333
+    }, {
+      "id" : 2954,
+      "title" : "壹【为仙】",
+      "capacity" : 2907
+    }, {
+      "id" : 2955,
+      "title" : "贰【武斗①】",
+      "capacity" : 3823
+    }, {
+      "id" : 2956,
+      "title" : "叁【武斗②】",
+      "capacity" : 4843
+    }, {
+      "id" : 2957,
+      "title" : "肆【武斗③】",
+      "capacity" : 4158
+    }, {
+      "id" : 2958,
+      "title" : "伍【变故】",
+      "capacity" : 3905
+    }, {
+      "id" : 2959,
+      "title" : "陆【苍年】",
+      "capacity" : 3764
+    }, {
+      "id" : 2960,
+      "title" : "柒【天池】",
+      "capacity" : 2097
+    }, {
+      "id" : 2961,
+      "title" : "捌【桃树】",
+      "capacity" : 4196
+    }, {
+      "id" : 2962,
+      "title" : "镹【回府】",
+      "capacity" : 2904
+    }, {
+      "id" : 2963,
+      "title" : "拾【在意】",
+      "capacity" : 3377
+    }, {
+      "id" : 2964,
+      "title" : "拾壹【结果】",
+      "capacity" : 3119
+    }, {
+      "id" : 2965,
+      "title" : "拾贰【佛路①】",
+      "capacity" : 2383
+    }, {
+      "id" : 2966,
+      "title" : "拾叁【佛路②】",
+      "capacity" : 3935
+    }, {
+      "id" : 2967,
+      "title" : "拾肆【重伤】",
+      "capacity" : 4117
+    }, {
+      "id" : 2968,
+      "title" : "拾伍【求助】",
+      "capacity" : 3705
+    }, {
+      "id" : 2969,
+      "title" : "番外【叶茗】",
+      "capacity" : 4366
+    } ]
+  }
+}

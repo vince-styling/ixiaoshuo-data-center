@@ -1,0 +1,66 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 14,
+    "list" : [ {
+      "id" : 3988,
+      "title" : "第一章",
+      "capacity" : 10556
+    }, {
+      "id" : 3989,
+      "title" : "第二章",
+      "capacity" : 10356
+    }, {
+      "id" : 3990,
+      "title" : "第三章 同游灵隐寺",
+      "capacity" : 9534
+    }, {
+      "id" : 3991,
+      "title" : "第四章 约会",
+      "capacity" : 9573
+    }, {
+      "id" : 3992,
+      "title" : "第五章 真相",
+      "capacity" : 9147
+    }, {
+      "id" : 3993,
+      "title" : "第六章 意料之外",
+      "capacity" : 9605
+    }, {
+      "id" : 3994,
+      "title" : "第七章 订婚（一）",
+      "capacity" : 9496
+    }, {
+      "id" : 3995,
+      "title" : "第八章 订婚（二）",
+      "capacity" : 8142
+    }, {
+      "id" : 3996,
+      "title" : "第九章 订婚（三）",
+      "capacity" : 10448
+    }, {
+      "id" : 3997,
+      "title" : "第十章 番外一",
+      "capacity" : 9119
+    }, {
+      "id" : 3998,
+      "title" : "第十一章 订婚（四）",
+      "capacity" : 9160
+    }, {
+      "id" : 3999,
+      "title" : "第十二章",
+      "capacity" : 10689
+    }, {
+      "id" : 4000,
+      "title" : "第十三章",
+      "capacity" : 8027
+    }, {
+      "id" : 4001,
+      "title" : "第十四章",
+      "capacity" : 9092
+    } ]
+  }
+}

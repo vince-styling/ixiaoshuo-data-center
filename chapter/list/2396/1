@@ -1,0 +1,94 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 21,
+    "list" : [ {
+      "id" : 1306,
+      "title" : "1，从别后，忆相逢",
+      "capacity" : 8414
+    }, {
+      "id" : 1307,
+      "title" : "2.当李寻欢再遇林诗音",
+      "capacity" : 7689
+    }, {
+      "id" : 1308,
+      "title" : "3.“新一、兰”组合",
+      "capacity" : 5525
+    }, {
+      "id" : 1309,
+      "title" : "4.令狐兰",
+      "capacity" : 3136
+    }, {
+      "id" : 1310,
+      "title" : "5.血腥往事",
+      "capacity" : 496
+    }, {
+      "id" : 1311,
+      "title" : "6.出走的李寻欢背叛了留下来的龙啸云",
+      "capacity" : 8995
+    }, {
+      "id" : 1312,
+      "title" : "7.令狐兰吃醋了",
+      "capacity" : 4484
+    }, {
+      "id" : 1313,
+      "title" : "8.为了女神而做的交易",
+      "capacity" : 7764
+    }, {
+      "id" : 1314,
+      "title" : "1.谁对谁一往情深",
+      "capacity" : 6126
+    }, {
+      "id" : 1315,
+      "title" : "2.樱花手链",
+      "capacity" : 4784
+    }, {
+      "id" : 1316,
+      "title" : "3.董事长千金",
+      "capacity" : 6599
+    }, {
+      "id" : 1317,
+      "title" : "4.曾经沧海难为水",
+      "capacity" : 8183
+    }, {
+      "id" : 1318,
+      "title" : "5.再赴南京",
+      "capacity" : 10521
+    }, {
+      "id" : 1319,
+      "title" : "6.多情却被无情恼",
+      "capacity" : 8376
+    }, {
+      "id" : 1320,
+      "title" : "7.分手不可挽回",
+      "capacity" : 7833
+    }, {
+      "id" : 1321,
+      "title" : "8. 我什么都不在乎",
+      "capacity" : 6401
+    }, {
+      "id" : 1322,
+      "title" : "1.同学少年皆不贱",
+      "capacity" : 6450
+    }, {
+      "id" : 1323,
+      "title" : "2.为新一抱不平的北京妞儿",
+      "capacity" : 10483
+    }, {
+      "id" : 1324,
+      "title" : "3.绿野的朱小姐",
+      "capacity" : 7514
+    }, {
+      "id" : 1325,
+      "title" : "4.苏佳卉再次败下阵来",
+      "capacity" : 8180
+    }, {
+      "id" : 1326,
+      "title" : "澄文上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 37,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2422,
+      "name" : "豪门恩怨：恋上谁的妻",
+      "updateStatus" : 1,
+      "distance" : 6788,
+      "memberId" : 8604
+    }, {
+      "id" : 2829,
+      "name" : "女兽与美郎",
+      "updateStatus" : 1,
+      "distance" : 6572,
+      "memberId" : 6959
+    }, {
+      "id" : 3200,
+      "name" : "你若不来，我便不老",
+      "updateStatus" : 1,
+      "distance" : 7011,
+      "memberId" : 4452
+    }, {
+      "id" : 3137,
+      "name" : "只要你还在这里",
+      "updateStatus" : 1,
+      "distance" : 3887,
+      "memberId" : 6713
+    }, {
+      "id" : 3685,
+      "name" : "若痕",
+      "updateStatus" : 1,
+      "distance" : 1347,
+      "memberId" : 4432
+    }, {
+      "id" : 2262,
+      "name" : "三生河畔等着你",
+      "updateStatus" : 1,
+      "distance" : 4217,
+      "memberId" : 4788
+    }, {
+      "id" : 2926,
+      "name" : "清宫情史",
+      "updateStatus" : 1,
+      "distance" : 3676,
+      "memberId" : 5214
+    }, {
+      "id" : 3326,
+      "name" : "暖暖的",
+      "updateStatus" : 1,
+      "distance" : 5504,
+      "memberId" : 2512
+    }, {
+      "id" : 2680,
+      "name" : "若要爱，非你不可",
+      "updateStatus" : 1,
+      "distance" : 5954,
+      "memberId" : 2044
+    }, {
+      "id" : 2790,
+      "name" : "三世豪门：极品娇妻来袭",
+      "updateStatus" : 1,
+      "distance" : 9724,
+      "memberId" : 2528
+    }, {
+      "id" : 2709,
+      "name" : "至尊特工：狂凤逆九天",
+      "updateStatus" : 1,
+      "distance" : 3162,
+      "memberId" : 4845
+    }, {
+      "id" : 2300,
+      "name" : "蛇眸繁花",
+      "updateStatus" : 2,
+      "distance" : 3325,
+      "memberId" : 5329
+    }, {
+      "id" : 3448,
+      "name" : "荼蘼花未开",
+      "updateStatus" : 1,
+      "distance" : 945,
+      "memberId" : 6592
+    }, {
+      "id" : 3632,
+      "name" : "幽谷之殇",
+      "updateStatus" : 1,
+      "distance" : 9280,
+      "memberId" : 3313
+    }, {
+      "id" : 2114,
+      "name" : "未婚妈妈，首席太霸道",
+      "updateStatus" : 2,
+      "distance" : 9779,
+      "memberId" : 4219
+    }, {
+      "id" : 2879,
+      "name" : "恨别离之乱世情殇",
+      "updateStatus" : 1,
+      "distance" : 2856,
+      "memberId" : 8205
+    }, {
+      "id" : 2105,
+      "name" : "是谁弯下小蛮腰",
+      "updateStatus" : 1,
+      "distance" : 7471,
+      "memberId" : 4085
+    }, {
+      "id" : 2084,
+      "name" : "紫月星尘",
+      "updateStatus" : 1,
+      "distance" : 8752,
+      "memberId" : 5590
+    }, {
+      "id" : 2508,
+      "name" : "剑神？不是吧",
+      "updateStatus" : 1,
+      "distance" : 5817,
+      "memberId" : 6008
+    }, {
+      "id" : 2513,
+      "name" : "溺爱",
+      "updateStatus" : 1,
+      "distance" : 7112,
+      "memberId" : 6435
+    } ]
+  }
+}

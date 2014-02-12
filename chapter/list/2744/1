@@ -1,0 +1,138 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 32,
+    "list" : [ {
+      "id" : 3192,
+      "title" : "第一章：猎妖师荆衡",
+      "capacity" : 5998
+    }, {
+      "id" : 3193,
+      "title" : "第二章：重庆",
+      "capacity" : 4472
+    }, {
+      "id" : 3194,
+      "title" : "第三章：奇怪的事",
+      "capacity" : 5991
+    }, {
+      "id" : 3195,
+      "title" : "第四章：再遇荆衡",
+      "capacity" : 4254
+    }, {
+      "id" : 3196,
+      "title" : "第五章：魔界与鲛人",
+      "capacity" : 4866
+    }, {
+      "id" : 3197,
+      "title" : "第六章：有神西焱",
+      "capacity" : 4958
+    }, {
+      "id" : 3198,
+      "title" : "第七章：傀儡之偶",
+      "capacity" : 5041
+    }, {
+      "id" : 3199,
+      "title" : "第八章：瑶池仙宴",
+      "capacity" : 5668
+    }, {
+      "id" : 3200,
+      "title" : "第九章：惊变",
+      "capacity" : 4609
+    }, {
+      "id" : 3201,
+      "title" : "第十章：玉石俱焚",
+      "capacity" : 4860
+    }, {
+      "id" : 3202,
+      "title" : "第十一章：西焱之怒",
+      "capacity" : 5369
+    }, {
+      "id" : 3203,
+      "title" : "第十二章：上古玄冰",
+      "capacity" : 5080
+    }, {
+      "id" : 3204,
+      "title" : "第十三章：寒气之谜",
+      "capacity" : 5115
+    }, {
+      "id" : 3205,
+      "title" : "第十四章：丧失灵力",
+      "capacity" : 5252
+    }, {
+      "id" : 3206,
+      "title" : "第十五章：梦境里的人",
+      "capacity" : 5795
+    }, {
+      "id" : 3207,
+      "title" : "第十六章：出门在外",
+      "capacity" : 5087
+    }, {
+      "id" : 3208,
+      "title" : "第十七章：幽冥鬼界",
+      "capacity" : 5529
+    }, {
+      "id" : 3209,
+      "title" : "第十八章：二宝的故事",
+      "capacity" : 5069
+    }, {
+      "id" : 3210,
+      "title" : "第十九章：被挟持了",
+      "capacity" : 5750
+    }, {
+      "id" : 3211,
+      "title" : "第二十章：脱困了",
+      "capacity" : 5107
+    }, {
+      "id" : 3212,
+      "title" : "第二十一章：意外来袭",
+      "capacity" : 5232
+    }, {
+      "id" : 3213,
+      "title" : "第二十二章：好强的代价",
+      "capacity" : 5192
+    }, {
+      "id" : 3214,
+      "title" : "第二十三章：明姬明音",
+      "capacity" : 5437
+    }, {
+      "id" : 3215,
+      "title" : "第二十四章：有女杜霖",
+      "capacity" : 5552
+    }, {
+      "id" : 3216,
+      "title" : "第二十五章：太墟过往",
+      "capacity" : 5732
+    }, {
+      "id" : 3217,
+      "title" : "第二十六章：转机来了",
+      "capacity" : 5589
+    }, {
+      "id" : 3218,
+      "title" : "第二十七章：转机危机",
+      "capacity" : 5386
+    }, {
+      "id" : 3219,
+      "title" : "第二十八章：绝处逢生？",
+      "capacity" : 5576
+    }, {
+      "id" : 3220,
+      "title" : "第二十九章：又入虎穴",
+      "capacity" : 5291
+    }, {
+      "id" : 3221,
+      "title" : "第三十章：杜霖身世",
+      "capacity" : 5489
+    }, {
+      "id" : 3222,
+      "title" : "第三十一章：韬光养晦",
+      "capacity" : 5511
+    }, {
+      "id" : 3223,
+      "title" : "第三十二章：又见杜霖",
+      "capacity" : 6140
+    } ]
+  }
+}

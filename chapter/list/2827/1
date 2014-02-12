@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 4466,
+      "title" : "序言",
+      "capacity" : 3263
+    }, {
+      "id" : 4467,
+      "title" : "第一章 一条自由的鱼",
+      "capacity" : 7251
+    }, {
+      "id" : 4468,
+      "title" : "第二章 不能承受之痛",
+      "capacity" : 6071
+    }, {
+      "id" : 4469,
+      "title" : "第三章 曾相识",
+      "capacity" : 7354
+    } ]
+  }
+}

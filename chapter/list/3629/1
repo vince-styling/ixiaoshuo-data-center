@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 4186,
+      "title" : "为爱痴狂",
+      "capacity" : 3802
+    }, {
+      "id" : 4187,
+      "title" : "十年",
+      "capacity" : 2257
+    }, {
+      "id" : 4188,
+      "title" : "孤独患者",
+      "capacity" : 2294
+    } ]
+  }
+}

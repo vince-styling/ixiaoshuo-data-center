@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 3320,
+      "title" : "章1 烟花楼中初见面",
+      "capacity" : 3501
+    }, {
+      "id" : 3321,
+      "title" : "章2 金殿面圣",
+      "capacity" : 3343
+    }, {
+      "id" : 3322,
+      "title" : "章3 探子千雾",
+      "capacity" : 3329
+    }, {
+      "id" : 3323,
+      "title" : "章4 长街惊魂",
+      "capacity" : 3070
+    }, {
+      "id" : 3324,
+      "title" : "章5 进府",
+      "capacity" : 6043
+    }, {
+      "id" : 3325,
+      "title" : "章6 看戏",
+      "capacity" : 6095
+    }, {
+      "id" : 3326,
+      "title" : "章7 吓人",
+      "capacity" : 3062
+    }, {
+      "id" : 3327,
+      "title" : "章8 千面美童子",
+      "capacity" : 6055
+    }, {
+      "id" : 3328,
+      "title" : "章9 害我我就弄死你",
+      "capacity" : 3238
+    }, {
+      "id" : 3329,
+      "title" : "章10 死装到底",
+      "capacity" : 3051
+    }, {
+      "id" : 3330,
+      "title" : "章11 十年海棠心满殇",
+      "capacity" : 3138
+    }, {
+      "id" : 3331,
+      "title" : "章12 沐浴时小心背后",
+      "capacity" : 3462
+    }, {
+      "id" : 3332,
+      "title" : "章13 桃红（一）",
+      "capacity" : 3058
+    }, {
+      "id" : 3333,
+      "title" : "章14 桃红（二）",
+      "capacity" : 3077
+    }, {
+      "id" : 3334,
+      "title" : "章15 殿中龙虎斗",
+      "capacity" : 3041
+    }, {
+      "id" : 3335,
+      "title" : "章16 桃红的踌躇",
+      "capacity" : 3050
+    }, {
+      "id" : 3336,
+      "title" : "章17 送菜风波",
+      "capacity" : 3044
+    }, {
+      "id" : 3337,
+      "title" : "章18 找碴（上）",
+      "capacity" : 3123
+    }, {
+      "id" : 3338,
+      "title" : "章19 找碴（下）",
+      "capacity" : 3219
+    } ]
+  }
+}

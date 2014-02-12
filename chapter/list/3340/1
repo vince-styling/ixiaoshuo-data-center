@@ -1,0 +1,66 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 14,
+    "list" : [ {
+      "id" : 2679,
+      "title" : "第一章 叶氏荻秋",
+      "capacity" : 6135
+    }, {
+      "id" : 2680,
+      "title" : "第二章 巧遇黑衣男子",
+      "capacity" : 6232
+    }, {
+      "id" : 2681,
+      "title" : "第三章 藏锋神鹰",
+      "capacity" : 6113
+    }, {
+      "id" : 2682,
+      "title" : "第四章 原来他是云枫",
+      "capacity" : 7971
+    }, {
+      "id" : 2683,
+      "title" : "第五章 我来救你",
+      "capacity" : 6253
+    }, {
+      "id" : 2684,
+      "title" : "第六章 被算计了",
+      "capacity" : 8333
+    }, {
+      "id" : 2685,
+      "title" : "第七章 出门遇鬼",
+      "capacity" : 6211
+    }, {
+      "id" : 2686,
+      "title" : "第八章 钻心蛊毒黑蛇花",
+      "capacity" : 6452
+    }, {
+      "id" : 2687,
+      "title" : "第九章 截杀",
+      "capacity" : 8978
+    }, {
+      "id" : 2688,
+      "title" : "英雄救美",
+      "capacity" : 4913
+    }, {
+      "id" : 2689,
+      "title" : "别有洞天",
+      "capacity" : 5353
+    }, {
+      "id" : 2690,
+      "title" : "第十二章 阴谋阳谋",
+      "capacity" : 7236
+    }, {
+      "id" : 2691,
+      "title" : "第十三章 岩谷血战",
+      "capacity" : 6150
+    }, {
+      "id" : 2692,
+      "title" : "第十四章 渔翁得利",
+      "capacity" : 8811
+    } ]
+  }
+}

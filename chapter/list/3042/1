@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 4253,
+      "title" : "作品介绍",
+      "capacity" : 2343
+    }, {
+      "id" : 4254,
+      "title" : "第一章升学考",
+      "capacity" : 11781
+    }, {
+      "id" : 4255,
+      "title" : "第二章假期计划",
+      "capacity" : 6235
+    }, {
+      "id" : 4256,
+      "title" : "第三章无孔不入",
+      "capacity" : 5487
+    }, {
+      "id" : 4257,
+      "title" : "新人作品《翼之痛枫之殇》，求点击，求收藏，求推荐~~~~",
+      "capacity" : 4757
+    }, {
+      "id" : 4258,
+      "title" : "第五章这才叫幸福",
+      "capacity" : 6706
+    } ]
+  }
+}

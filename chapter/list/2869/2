@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 2010,
+      "title" : "第五十一章 混乱的国家（一）",
+      "capacity" : 4412
+    }, {
+      "id" : 2011,
+      "title" : "第五十二章 混乱的国家（二）",
+      "capacity" : 4181
+    }, {
+      "id" : 2012,
+      "title" : "第五十三章 混乱的国家（三）",
+      "capacity" : 4095
+    }, {
+      "id" : 2013,
+      "title" : "第五十四章 真假天女",
+      "capacity" : 4407
+    } ]
+  }
+}

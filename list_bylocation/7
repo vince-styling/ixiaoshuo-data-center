@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 7,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2978,
+      "name" : "妃宠不可",
+      "updateStatus" : 1,
+      "distance" : 2460,
+      "memberId" : 7453
+    }, {
+      "id" : 2212,
+      "name" : "禁天乱纪元",
+      "updateStatus" : 1,
+      "distance" : 3293,
+      "memberId" : 8136
+    }, {
+      "id" : 2504,
+      "name" : "综主霹雳白鹿即吾心",
+      "updateStatus" : 1,
+      "distance" : 4276,
+      "memberId" : 2587
+    }, {
+      "id" : 2959,
+      "name" : "是现实太现实之面具",
+      "updateStatus" : 1,
+      "distance" : 5159,
+      "memberId" : 5162
+    }, {
+      "id" : 2363,
+      "name" : "慕尘雪",
+      "updateStatus" : 1,
+      "distance" : 6687,
+      "memberId" : 4192
+    }, {
+      "id" : 2145,
+      "name" : "江湖乱：白首不负待君归",
+      "updateStatus" : 1,
+      "distance" : 5400,
+      "memberId" : 4887
+    }, {
+      "id" : 2798,
+      "name" : "随心而动",
+      "updateStatus" : 1,
+      "distance" : 8177,
+      "memberId" : 5715
+    }, {
+      "id" : 3059,
+      "name" : "倾世鬼王",
+      "updateStatus" : 1,
+      "distance" : 5526,
+      "memberId" : 6360
+    }, {
+      "id" : 2415,
+      "name" : "学生起义军",
+      "updateStatus" : 2,
+      "distance" : 5492,
+      "memberId" : 2247
+    }, {
+      "id" : 3401,
+      "name" : "狂2",
+      "updateStatus" : 1,
+      "distance" : 9712,
+      "memberId" : 1309
+    }, {
+      "id" : 2867,
+      "name" : "子兰",
+      "updateStatus" : 1,
+      "distance" : 2514,
+      "memberId" : 3287
+    }, {
+      "id" : 2434,
+      "name" : "邪逆乾坤",
+      "updateStatus" : 1,
+      "distance" : 1700,
+      "memberId" : 8510
+    }, {
+      "id" : 2570,
+      "name" : "情挑深情夫君",
+      "updateStatus" : 1,
+      "distance" : 4764,
+      "memberId" : 6003
+    }, {
+      "id" : 2953,
+      "name" : "异世界的爱恋",
+      "updateStatus" : 1,
+      "distance" : 3767,
+      "memberId" : 2335
+    }, {
+      "id" : 3413,
+      "name" : "秦影宫箫夜",
+      "updateStatus" : 1,
+      "distance" : 879,
+      "memberId" : 1426
+    }, {
+      "id" : 2834,
+      "name" : "时间逐雨",
+      "updateStatus" : 1,
+      "distance" : 5602,
+      "memberId" : 2023
+    }, {
+      "id" : 2875,
+      "name" : "宝贝，我真的爱你",
+      "updateStatus" : 1,
+      "distance" : 1831,
+      "memberId" : 2736
+    }, {
+      "id" : 2336,
+      "name" : "妃似毒：皇子快逃命",
+      "updateStatus" : 1,
+      "distance" : 6399,
+      "memberId" : 3058
+    }, {
+      "id" : 2741,
+      "name" : "三生回眸间，一念成魔时",
+      "updateStatus" : 1,
+      "distance" : 7591,
+      "memberId" : 7824
+    }, {
+      "id" : 3397,
+      "name" : "红颜祸水：皇后潜潜水",
+      "updateStatus" : 1,
+      "distance" : 4788,
+      "memberId" : 1181
+    } ]
+  }
+}

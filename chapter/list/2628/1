@@ -1,0 +1,102 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 23,
+    "list" : [ {
+      "id" : 3936,
+      "title" : "1 四年，回来了",
+      "capacity" : 7636
+    }, {
+      "id" : 3937,
+      "title" : "2 四年后又相见",
+      "capacity" : 9169
+    }, {
+      "id" : 3938,
+      "title" : "3 我回来了，你还在吗",
+      "capacity" : 9566
+    }, {
+      "id" : 3939,
+      "title" : "4 拿什么来纪念我们的重逢1",
+      "capacity" : 9798
+    }, {
+      "id" : 3940,
+      "title" : "5 拿什么来纪念我们的重逢2",
+      "capacity" : 9674
+    }, {
+      "id" : 3941,
+      "title" : "6 拿什么来纪念我们的重逢3",
+      "capacity" : 9685
+    }, {
+      "id" : 3942,
+      "title" : "7 情侣装",
+      "capacity" : 9832
+    }, {
+      "id" : 3943,
+      "title" : "8纯洁的曾经1",
+      "capacity" : 9866
+    }, {
+      "id" : 3944,
+      "title" : "9 纯洁的曾经2",
+      "capacity" : 9519
+    }, {
+      "id" : 3945,
+      "title" : "10 纯洁的曾经3",
+      "capacity" : 9183
+    }, {
+      "id" : 3946,
+      "title" : "11 丽江之行",
+      "capacity" : 9973
+    }, {
+      "id" : 3947,
+      "title" : "12 丽江之夜",
+      "capacity" : 9402
+    }, {
+      "id" : 3948,
+      "title" : "13 丽江之夜晚畅谈",
+      "capacity" : 9244
+    }, {
+      "id" : 3949,
+      "title" : "14 K市见家长",
+      "capacity" : 9563
+    }, {
+      "id" : 3950,
+      "title" : "15 她是你的女朋友",
+      "capacity" : 9662
+    }, {
+      "id" : 3951,
+      "title" : "16 你知道你是小三吗",
+      "capacity" : 9464
+    }, {
+      "id" : 3952,
+      "title" : "17 “皇后”驾到1",
+      "capacity" : 4577
+    }, {
+      "id" : 3953,
+      "title" : "18“皇后”驾到2",
+      "capacity" : 5084
+    }, {
+      "id" : 3954,
+      "title" : "19被小三",
+      "capacity" : 9510
+    }, {
+      "id" : 3955,
+      "title" : "20 我们在一起",
+      "capacity" : 9688
+    }, {
+      "id" : 3956,
+      "title" : "21 真的在一起",
+      "capacity" : 9361
+    }, {
+      "id" : 3957,
+      "title" : "22 改变只因为遇到了你",
+      "capacity" : 10130
+    }, {
+      "id" : 3958,
+      "title" : "23 别和我说你爱我，你不配",
+      "capacity" : 9507
+    } ]
+  }
+}

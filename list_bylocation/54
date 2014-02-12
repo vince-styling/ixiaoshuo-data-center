@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 54,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3083,
+      "name" : "情难自禁",
+      "updateStatus" : 1,
+      "distance" : 2654,
+      "memberId" : 2268
+    }, {
+      "id" : 2989,
+      "name" : "恶魔与天使之吻",
+      "updateStatus" : 1,
+      "distance" : 2842,
+      "memberId" : 1794
+    }, {
+      "id" : 3679,
+      "name" : "青春情书",
+      "updateStatus" : 1,
+      "distance" : 672,
+      "memberId" : 3959
+    }, {
+      "id" : 2515,
+      "name" : "青春兵路",
+      "updateStatus" : 2,
+      "distance" : 1854,
+      "memberId" : 6486
+    }, {
+      "id" : 2193,
+      "name" : "笑傲仙狂",
+      "updateStatus" : 1,
+      "distance" : 1531,
+      "memberId" : 4648
+    }, {
+      "id" : 3347,
+      "name" : "冷艳傲骨：毒物小姐狠嚣张",
+      "updateStatus" : 1,
+      "distance" : 2726,
+      "memberId" : 2417
+    }, {
+      "id" : 2889,
+      "name" : "帅哥，麻烦给我一张果照",
+      "updateStatus" : 1,
+      "distance" : 9689,
+      "memberId" : 4382
+    }, {
+      "id" : 2799,
+      "name" : "雪寻雪见",
+      "updateStatus" : 1,
+      "distance" : 3475,
+      "memberId" : 1786
+    }, {
+      "id" : 3224,
+      "name" : "快乐公主流浪记",
+      "updateStatus" : 1,
+      "distance" : 9348,
+      "memberId" : 6538
+    }, {
+      "id" : 2496,
+      "name" : "赛罗之双生子的羁绊",
+      "updateStatus" : 1,
+      "distance" : 1364,
+      "memberId" : 5061
+    }, {
+      "id" : 3432,
+      "name" : "我在这里，你在哪",
+      "updateStatus" : 1,
+      "distance" : 4119,
+      "memberId" : 4871
+    }, {
+      "id" : 2712,
+      "name" : "人比花娇",
+      "updateStatus" : 1,
+      "distance" : 1477,
+      "memberId" : 2320
+    }, {
+      "id" : 2046,
+      "name" : "疼在左手指间",
+      "updateStatus" : 1,
+      "distance" : 3510,
+      "memberId" : 6004
+    }, {
+      "id" : 3220,
+      "name" : "噬心扇",
+      "updateStatus" : 1,
+      "distance" : 9006,
+      "memberId" : 8508
+    }, {
+      "id" : 3727,
+      "name" : "繁华错",
+      "updateStatus" : 1,
+      "distance" : 8714,
+      "memberId" : 7717
+    }, {
+      "id" : 2211,
+      "name" : "神魂锁炼",
+      "updateStatus" : 1,
+      "distance" : 1815,
+      "memberId" : 1807
+    }, {
+      "id" : 3446,
+      "name" : "本草纲目",
+      "updateStatus" : 1,
+      "distance" : 2590,
+      "memberId" : 3616
+    }, {
+      "id" : 3349,
+      "name" : "宁负苍天",
+      "updateStatus" : 1,
+      "distance" : 9412,
+      "memberId" : 2666
+    }, {
+      "id" : 3724,
+      "name" : "白泽之神",
+      "updateStatus" : 1,
+      "distance" : 1254,
+      "memberId" : 1301
+    }, {
+      "id" : 2539,
+      "name" : "沙漏时光",
+      "updateStatus" : 1,
+      "distance" : 3258,
+      "memberId" : 5710
+    } ]
+  }
+}

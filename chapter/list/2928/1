@@ -1,0 +1,82 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 18,
+    "list" : [ {
+      "id" : 4447,
+      "title" : "第一章：碰瓷专业户",
+      "capacity" : 9402
+    }, {
+      "id" : 4448,
+      "title" : "第二章：与小偷赛跑",
+      "capacity" : 9804
+    }, {
+      "id" : 4449,
+      "title" : "第三章：英雄救美",
+      "capacity" : 12042
+    }, {
+      "id" : 4450,
+      "title" : "第四章：UFO,我的家",
+      "capacity" : 9687
+    }, {
+      "id" : 4451,
+      "title" : "第五章：谣言的可怕",
+      "capacity" : 10813
+    }, {
+      "id" : 4452,
+      "title" : "第六章：展望美好生活",
+      "capacity" : 9238
+    }, {
+      "id" : 4453,
+      "title" : "第七章：竟然是你",
+      "capacity" : 11782
+    }, {
+      "id" : 4454,
+      "title" : "第八章：噩梦的根源",
+      "capacity" : 12924
+    }, {
+      "id" : 4455,
+      "title" : "第九章：复仇之路",
+      "capacity" : 9883
+    }, {
+      "id" : 4456,
+      "title" : "第十章：迎战系花",
+      "capacity" : 9758
+    }, {
+      "id" : 4457,
+      "title" : "第十一章：上演狗血剧",
+      "capacity" : 9263
+    }, {
+      "id" : 4458,
+      "title" : "第十二章：街头暴走",
+      "capacity" : 9239
+    }, {
+      "id" : 4459,
+      "title" : "第十三章：时间开玩笑",
+      "capacity" : 9459
+    }, {
+      "id" : 4460,
+      "title" : "第十四章：被开除了！",
+      "capacity" : 10008
+    }, {
+      "id" : 4461,
+      "title" : "第十五章：他的复仇",
+      "capacity" : 9147
+    }, {
+      "id" : 4462,
+      "title" : "第十六章：对峙",
+      "capacity" : 3867
+    }, {
+      "id" : 4463,
+      "title" : "第十七章：秘密",
+      "capacity" : 3800
+    }, {
+      "id" : 4464,
+      "title" : "第十八章：报案",
+      "capacity" : 5646
+    } ]
+  }
+}

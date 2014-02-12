@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1873,
+      "title" : "序",
+      "capacity" : 3285
+    }, {
+      "id" : 1874,
+      "title" : "第一章",
+      "capacity" : 5853
+    }, {
+      "id" : 1875,
+      "title" : "第二章",
+      "capacity" : 5331
+    } ]
+  }
+}

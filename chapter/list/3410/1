@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 3829,
+      "title" : "第一章：美人如玉君无双",
+      "capacity" : 7754
+    }, {
+      "id" : 3830,
+      "title" : "第二章：奈何君心卿不知",
+      "capacity" : 8874
+    }, {
+      "id" : 3831,
+      "title" : "第三章：愁心几许夜无眠",
+      "capacity" : 16814
+    }, {
+      "id" : 3832,
+      "title" : "第四章：恍惊始有人如旧",
+      "capacity" : 15530
+    }, {
+      "id" : 3833,
+      "title" : "第五章：瑾玉华年伊人见",
+      "capacity" : 27280
+    }, {
+      "id" : 3834,
+      "title" : "第六章：缘何不识也相逢",
+      "capacity" : 19278
+    }, {
+      "id" : 3835,
+      "title" : "第七章：最是牵心丽人颜",
+      "capacity" : 23934
+    }, {
+      "id" : 3836,
+      "title" : "第八章:难得初遇有惊鸿",
+      "capacity" : 13692
+    } ]
+  }
+}

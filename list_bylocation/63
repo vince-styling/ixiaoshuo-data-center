@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 63,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3490,
+      "name" : "舍友是公主大人",
+      "updateStatus" : 1,
+      "distance" : 1777,
+      "memberId" : 7374
+    }, {
+      "id" : 2762,
+      "name" : "笛吟，离殇 ",
+      "updateStatus" : 1,
+      "distance" : 6593,
+      "memberId" : 8817
+    }, {
+      "id" : 3702,
+      "name" : "生生羁绊",
+      "updateStatus" : 1,
+      "distance" : 3396,
+      "memberId" : 6082
+    }, {
+      "id" : 2104,
+      "name" : "那一世红莲雨",
+      "updateStatus" : 1,
+      "distance" : 1374,
+      "memberId" : 6211
+    }, {
+      "id" : 3636,
+      "name" : "被抛弃的星球",
+      "updateStatus" : 1,
+      "distance" : 9802,
+      "memberId" : 1447
+    }, {
+      "id" : 3423,
+      "name" : "其叶沃若",
+      "updateStatus" : 1,
+      "distance" : 7689,
+      "memberId" : 7550
+    }, {
+      "id" : 2455,
+      "name" : "孤子",
+      "updateStatus" : 1,
+      "distance" : 3708,
+      "memberId" : 1340
+    }, {
+      "id" : 2151,
+      "name" : "缘来是我们",
+      "updateStatus" : 1,
+      "distance" : 3780,
+      "memberId" : 1823
+    }, {
+      "id" : 2313,
+      "name" : "囧冠天下",
+      "updateStatus" : 1,
+      "distance" : 4302,
+      "memberId" : 5006
+    }, {
+      "id" : 3337,
+      "name" : "旋转的漩涡",
+      "updateStatus" : 1,
+      "distance" : 4660,
+      "memberId" : 6923
+    }, {
+      "id" : 3208,
+      "name" : "冥铭之国",
+      "updateStatus" : 1,
+      "distance" : 5343,
+      "memberId" : 8416
+    }, {
+      "id" : 2612,
+      "name" : "女汉子成长史",
+      "updateStatus" : 1,
+      "distance" : 9706,
+      "memberId" : 3005
+    }, {
+      "id" : 2774,
+      "name" : "穿越之农家女初长成",
+      "updateStatus" : 1,
+      "distance" : 2421,
+      "memberId" : 4053
+    }, {
+      "id" : 2620,
+      "name" : "CF之黑马突起",
+      "updateStatus" : 1,
+      "distance" : 3093,
+      "memberId" : 5659
+    }, {
+      "id" : 3214,
+      "name" : "穿越之妖精的尾巴",
+      "updateStatus" : 1,
+      "distance" : 766,
+      "memberId" : 1900
+    }, {
+      "id" : 2208,
+      "name" : "定为君妻",
+      "updateStatus" : 1,
+      "distance" : 5536,
+      "memberId" : 1768
+    }, {
+      "id" : 2967,
+      "name" : "渐爱，深爱",
+      "updateStatus" : 1,
+      "distance" : 7091,
+      "memberId" : 3202
+    }, {
+      "id" : 2580,
+      "name" : "琉璃碎",
+      "updateStatus" : 1,
+      "distance" : 9042,
+      "memberId" : 1834
+    }, {
+      "id" : 2342,
+      "name" : "吸血鬼寻爱",
+      "updateStatus" : 1,
+      "distance" : 2724,
+      "memberId" : 1545
+    }, {
+      "id" : 2704,
+      "name" : "幻世至秘",
+      "updateStatus" : 1,
+      "distance" : 1416,
+      "memberId" : 3668
+    } ]
+  }
+}

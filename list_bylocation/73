@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 73,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2087,
+      "name" : "婳诡录",
+      "updateStatus" : 1,
+      "distance" : 7174,
+      "memberId" : 8126
+    }, {
+      "id" : 2887,
+      "name" : "文飞絮飏",
+      "updateStatus" : 1,
+      "distance" : 5576,
+      "memberId" : 6969
+    }, {
+      "id" : 3596,
+      "name" : "不要在一起",
+      "updateStatus" : 1,
+      "distance" : 6061,
+      "memberId" : 3953
+    }, {
+      "id" : 3020,
+      "name" : "五行武侠",
+      "updateStatus" : 1,
+      "distance" : 7528,
+      "memberId" : 6298
+    }, {
+      "id" : 3457,
+      "name" : "与君行：王妃临天下",
+      "updateStatus" : 1,
+      "distance" : 8964,
+      "memberId" : 6809
+    }, {
+      "id" : 2174,
+      "name" : "华夏神域",
+      "updateStatus" : 1,
+      "distance" : 4796,
+      "memberId" : 8941
+    }, {
+      "id" : 2271,
+      "name" : "沙僧西行记略",
+      "updateStatus" : 1,
+      "distance" : 1960,
+      "memberId" : 6712
+    }, {
+      "id" : 3322,
+      "name" : "爱情倒时差",
+      "updateStatus" : 1,
+      "distance" : 5483,
+      "memberId" : 1965
+    }, {
+      "id" : 3394,
+      "name" : "混混少爷的小气公主",
+      "updateStatus" : 1,
+      "distance" : 8671,
+      "memberId" : 4348
+    }, {
+      "id" : 2428,
+      "name" : "包办婚嫁",
+      "updateStatus" : 1,
+      "distance" : 9487,
+      "memberId" : 1988
+    }, {
+      "id" : 2776,
+      "name" : "时空魔法师",
+      "updateStatus" : 1,
+      "distance" : 4751,
+      "memberId" : 6118
+    }, {
+      "id" : 2691,
+      "name" : "网王之绮梦玥恋",
+      "updateStatus" : 1,
+      "distance" : 9081,
+      "memberId" : 8022
+    }, {
+      "id" : 2444,
+      "name" : "花开花败，半夏未眠",
+      "updateStatus" : 1,
+      "distance" : 3338,
+      "memberId" : 4902
+    }, {
+      "id" : 3708,
+      "name" : "浮生境梦",
+      "updateStatus" : 1,
+      "distance" : 5249,
+      "memberId" : 5952
+    }, {
+      "id" : 2484,
+      "name" : "让我杀了你，爱人",
+      "updateStatus" : 1,
+      "distance" : 5758,
+      "memberId" : 2615
+    }, {
+      "id" : 2877,
+      "name" : "总裁，我只是你的棋子",
+      "updateStatus" : 1,
+      "distance" : 3255,
+      "memberId" : 5286
+    }, {
+      "id" : 2152,
+      "name" : "九转轮回诀",
+      "updateStatus" : 1,
+      "distance" : 5089,
+      "memberId" : 4394
+    }, {
+      "id" : 2651,
+      "name" : "黑暗之争：天道征程",
+      "updateStatus" : 1,
+      "distance" : 3847,
+      "memberId" : 4756
+    }, {
+      "id" : 2296,
+      "name" : "梦穿康熙换乾坤",
+      "updateStatus" : 1,
+      "distance" : 6594,
+      "memberId" : 2241
+    }, {
+      "id" : 2373,
+      "name" : "小子们，上课请勿搞基",
+      "updateStatus" : 2,
+      "distance" : 2709,
+      "memberId" : 5439
+    } ]
+  }
+}

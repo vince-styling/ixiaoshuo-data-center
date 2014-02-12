@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 1709,
+      "title" : "楔子婚礼—殇",
+      "capacity" : 6599
+    }, {
+      "id" : 1710,
+      "title" : "第一章穿越—废物七小姐",
+      "capacity" : 5902
+    }, {
+      "id" : 1711,
+      "title" : "第二章见—丞相爹爹",
+      "capacity" : 6205
+    }, {
+      "id" : 1712,
+      "title" : "第三章逛街—偶遇",
+      "capacity" : 7879
+    } ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 2173,
+      "title" : "楔子",
+      "capacity" : 7405
+    }, {
+      "id" : 2174,
+      "title" : "第一章 邂逅",
+      "capacity" : 4735
+    }, {
+      "id" : 2175,
+      "title" : "第二章 情人关系",
+      "capacity" : 5044
+    } ]
+  }
+}

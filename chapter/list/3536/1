@@ -1,0 +1,78 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 17,
+    "list" : [ {
+      "id" : 4903,
+      "title" : "浅草知树",
+      "capacity" : 8267
+    }, {
+      "id" : 4904,
+      "title" : "未成功的辞职",
+      "capacity" : 8168
+    }, {
+      "id" : 4905,
+      "title" : "初识海带头",
+      "capacity" : 7131
+    }, {
+      "id" : 4906,
+      "title" : "社团？我才没有",
+      "capacity" : 8023
+    }, {
+      "id" : 4907,
+      "title" : "都大赛前夕",
+      "capacity" : 10105
+    }, {
+      "id" : 4908,
+      "title" : "都大赛",
+      "capacity" : 11260
+    }, {
+      "id" : 4909,
+      "title" : "海带迷路记",
+      "capacity" : 9157
+    }, {
+      "id" : 4910,
+      "title" : "迹部？老板？",
+      "capacity" : 9457
+    }, {
+      "id" : 4911,
+      "title" : "幸村的病发",
+      "capacity" : 11590
+    }, {
+      "id" : 4912,
+      "title" : "初入青学",
+      "capacity" : 12213
+    }, {
+      "id" : 4913,
+      "title" : "青学一天游",
+      "capacity" : 11444
+    }, {
+      "id" : 4914,
+      "title" : "冰帝一天游",
+      "capacity" : 10981
+    }, {
+      "id" : 4915,
+      "title" : "冰帝一天游（下）",
+      "capacity" : 16036
+    }, {
+      "id" : 4916,
+      "title" : "友谊赛（上）",
+      "capacity" : 8941
+    }, {
+      "id" : 4917,
+      "title" : "友谊赛（中）",
+      "capacity" : 9856
+    }, {
+      "id" : 4918,
+      "title" : "友谊赛（下）",
+      "capacity" : 9024
+    }, {
+      "id" : 4919,
+      "title" : "帮切原补习",
+      "capacity" : 8970
+    } ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 50,
+    "list" : [ {
+      "id" : 2582,
+      "title" : "第一章",
+      "capacity" : 2972
+    }, {
+      "id" : 2583,
+      "title" : "第二章",
+      "capacity" : 3905
+    }, {
+      "id" : 2584,
+      "title" : "第三章",
+      "capacity" : 4411
+    }, {
+      "id" : 2585,
+      "title" : "第四章",
+      "capacity" : 4786
+    }, {
+      "id" : 2586,
+      "title" : "第五章",
+      "capacity" : 5741
+    }, {
+      "id" : 2587,
+      "title" : "第六章",
+      "capacity" : 5288
+    }, {
+      "id" : 2588,
+      "title" : "第七章",
+      "capacity" : 5526
+    }, {
+      "id" : 2589,
+      "title" : "第八章",
+      "capacity" : 5511
+    }, {
+      "id" : 2590,
+      "title" : "第九章",
+      "capacity" : 4993
+    }, {
+      "id" : 2591,
+      "title" : "第十章",
+      "capacity" : 5187
+    }, {
+      "id" : 2592,
+      "title" : "第十一章",
+      "capacity" : 5046
+    }, {
+      "id" : 2593,
+      "title" : "第十二章",
+      "capacity" : 5209
+    }, {
+      "id" : 2594,
+      "title" : "第十三章",
+      "capacity" : 5610
+    }, {
+      "id" : 2595,
+      "title" : "第十四章",
+      "capacity" : 5419
+    }, {
+      "id" : 2596,
+      "title" : "第十五章",
+      "capacity" : 5257
+    }, {
+      "id" : 2597,
+      "title" : "第十六章",
+      "capacity" : 4938
+    }, {
+      "id" : 2598,
+      "title" : "第十七章",
+      "capacity" : 5312
+    }, {
+      "id" : 2599,
+      "title" : "第十八章",
+      "capacity" : 6154
+    }, {
+      "id" : 2600,
+      "title" : "第十九章",
+      "capacity" : 6233
+    }, {
+      "id" : 2601,
+      "title" : "第二十章",
+      "capacity" : 6540
+    }, {
+      "id" : 2602,
+      "title" : "第二十一章",
+      "capacity" : 8067
+    }, {
+      "id" : 2603,
+      "title" : "第二十二章",
+      "capacity" : 5377
+    }, {
+      "id" : 2604,
+      "title" : "第二十三章",
+      "capacity" : 6309
+    }, {
+      "id" : 2605,
+      "title" : "第二十四章",
+      "capacity" : 5307
+    }, {
+      "id" : 2606,
+      "title" : "第二十五章",
+      "capacity" : 5505
+    }, {
+      "id" : 2607,
+      "title" : "第二十六章",
+      "capacity" : 6834
+    }, {
+      "id" : 2608,
+      "title" : "第二十七章",
+      "capacity" : 6156
+    }, {
+      "id" : 2609,
+      "title" : "第二十八章",
+      "capacity" : 5534
+    }, {
+      "id" : 2610,
+      "title" : "第二十九章",
+      "capacity" : 6363
+    }, {
+      "id" : 2611,
+      "title" : "第三十章",
+      "capacity" : 6073
+    }, {
+      "id" : 2612,
+      "title" : "第三十一章",
+      "capacity" : 6199
+    }, {
+      "id" : 2613,
+      "title" : "第三十二章 冲动",
+      "capacity" : 4042
+    }, {
+      "id" : 2614,
+      "title" : "第三十三章 坚强的背后",
+      "capacity" : 6283
+    }, {
+      "id" : 2615,
+      "title" : "第三十四章 有机可乘",
+      "capacity" : 7065
+    }, {
+      "id" : 2616,
+      "title" : "第三十五章 阴差阳错",
+      "capacity" : 9710
+    }, {
+      "id" : 2617,
+      "title" : "第三十六章 更胜一筹",
+      "capacity" : 9520
+    }, {
+      "id" : 2618,
+      "title" : "第三十七章 幸福",
+      "capacity" : 9682
+    }, {
+      "id" : 2619,
+      "title" : "第三十八章 真相",
+      "capacity" : 10396
+    }, {
+      "id" : 2620,
+      "title" : "第三十九章 除去紫菡",
+      "capacity" : 10011
+    }, {
+      "id" : 2621,
+      "title" : "第四十章 顺理成章",
+      "capacity" : 10280
+    }, {
+      "id" : 2622,
+      "title" : "第四十一章 万花楼风波",
+      "capacity" : 9873
+    }, {
+      "id" : 2623,
+      "title" : "第四十二章 爱你我很心痛",
+      "capacity" : 10103
+    }, {
+      "id" : 2624,
+      "title" : "第四十三章 三颗导火索",
+      "capacity" : 10202
+    }, {
+      "id" : 2625,
+      "title" : "第四十四章 真相大白",
+      "capacity" : 9947
+    }, {
+      "id" : 2626,
+      "title" : "第四十五章 莫不相认 太子公主嫁到",
+      "capacity" : 9943
+    }, {
+      "id" : 2627,
+      "title" : "第四十六章 误把悦悦当珍妃",
+      "capacity" : 9997
+    }, {
+      "id" : 2628,
+      "title" : "第四十七章 忠言逆耳 误会深邃",
+      "capacity" : 9965
+    }, {
+      "id" : 2629,
+      "title" : "第四十八章 ‘珍妃’得宠 太子设计",
+      "capacity" : 11140
+    }, {
+      "id" : 2630,
+      "title" : "第四十九章 贵妃被废，陈家入狱",
+      "capacity" : 9991
+    }, {
+      "id" : 2631,
+      "title" : "上架公告",
+      "capacity" : 2236
+    } ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 44,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3095,
+      "name" : "墨色眼瞳中的温柔",
+      "updateStatus" : 1,
+      "distance" : 863,
+      "memberId" : 7186
+    }, {
+      "id" : 2484,
+      "name" : "让我杀了你，爱人",
+      "updateStatus" : 1,
+      "distance" : 8258,
+      "memberId" : 1123
+    }, {
+      "id" : 2546,
+      "name" : "风流公子：赖上重生佳人",
+      "updateStatus" : 1,
+      "distance" : 3194,
+      "memberId" : 7283
+    }, {
+      "id" : 3116,
+      "name" : "乱剑源德之九狱之书",
+      "updateStatus" : 1,
+      "distance" : 3145,
+      "memberId" : 2540
+    }, {
+      "id" : 3312,
+      "name" : "回祎录",
+      "updateStatus" : 1,
+      "distance" : 8582,
+      "memberId" : 6185
+    }, {
+      "id" : 2872,
+      "name" : "口是心非：那个女人的谎言",
+      "updateStatus" : 1,
+      "distance" : 9957,
+      "memberId" : 6390
+    }, {
+      "id" : 2393,
+      "name" : "剩女重生女警花：缉拿花花大少",
+      "updateStatus" : 1,
+      "distance" : 5970,
+      "memberId" : 1086
+    }, {
+      "id" : 3223,
+      "name" : "风吹叶舞意悠然",
+      "updateStatus" : 1,
+      "distance" : 3881,
+      "memberId" : 7066
+    }, {
+      "id" : 2492,
+      "name" : "网战尖兵",
+      "updateStatus" : 1,
+      "distance" : 987,
+      "memberId" : 4288
+    }, {
+      "id" : 3374,
+      "name" : "逢酒醉花阴",
+      "updateStatus" : 1,
+      "distance" : 8738,
+      "memberId" : 3877
+    }, {
+      "id" : 2126,
+      "name" : "纯钧剑",
+      "updateStatus" : 1,
+      "distance" : 1904,
+      "memberId" : 6860
+    }, {
+      "id" : 2683,
+      "name" : "总有一个人能陪我一起老",
+      "updateStatus" : 1,
+      "distance" : 6980,
+      "memberId" : 2680
+    }, {
+      "id" : 2639,
+      "name" : "来不及说出口的爱",
+      "updateStatus" : 1,
+      "distance" : 4726,
+      "memberId" : 4898
+    }, {
+      "id" : 3163,
+      "name" : "最初与最后",
+      "updateStatus" : 1,
+      "distance" : 3405,
+      "memberId" : 5057
+    }, {
+      "id" : 2826,
+      "name" : "沐晴只到梨花薄",
+      "updateStatus" : 1,
+      "distance" : 6109,
+      "memberId" : 1428
+    }, {
+      "id" : 2069,
+      "name" : "庶女二嫁：暴君，来暖床",
+      "updateStatus" : 2,
+      "distance" : 5782,
+      "memberId" : 2435
+    }, {
+      "id" : 3585,
+      "name" : "桃花醉之天下",
+      "updateStatus" : 1,
+      "distance" : 5030,
+      "memberId" : 6284
+    }, {
+      "id" : 3213,
+      "name" : "光华琉璃只为一笑",
+      "updateStatus" : 1,
+      "distance" : 3936,
+      "memberId" : 7937
+    }, {
+      "id" : 3283,
+      "name" : "掠心总裁：爹地，你弱爆了！",
+      "updateStatus" : 1,
+      "distance" : 5441,
+      "memberId" : 3759
+    }, {
+      "id" : 2046,
+      "name" : "疼在左手指间",
+      "updateStatus" : 1,
+      "distance" : 5463,
+      "memberId" : 8398
+    } ]
+  }
+}

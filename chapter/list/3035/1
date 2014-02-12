@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 2844,
+      "title" : "楔子",
+      "capacity" : 5543
+    }, {
+      "id" : 2845,
+      "title" : "魔头归来",
+      "capacity" : 3501
+    }, {
+      "id" : 2846,
+      "title" : "东都学院",
+      "capacity" : 4276
+    }, {
+      "id" : 2847,
+      "title" : "龙氏兄妹——龙汐和龙俊泽",
+      "capacity" : 2922
+    }, {
+      "id" : 2848,
+      "title" : "又一对欢喜冤家",
+      "capacity" : 4081
+    } ]
+  }
+}

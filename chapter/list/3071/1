@@ -1,0 +1,78 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 17,
+    "list" : [ {
+      "id" : 4053,
+      "title" : "Chapter 01-1 雪雾·追袭",
+      "capacity" : 11460
+    }, {
+      "id" : 4054,
+      "title" : "Chapter 01-2 雪雾·冰隐",
+      "capacity" : 9329
+    }, {
+      "id" : 4055,
+      "title" : "Chapter 01-3 雪雾·远光",
+      "capacity" : 11035
+    }, {
+      "id" : 4056,
+      "title" : "Chapter 02-1 星耀刻纹•战端",
+      "capacity" : 15902
+    }, {
+      "id" : 4057,
+      "title" : "Chapter 02-2 星耀刻纹·冥古",
+      "capacity" : 17577
+    }, {
+      "id" : 4058,
+      "title" : "Chapter 02-3 星耀刻纹·冰莲",
+      "capacity" : 15482
+    }, {
+      "id" : 4059,
+      "title" : "Chapter 03-1 索墨森门扉·星殿骑士",
+      "capacity" : 9416
+    }, {
+      "id" : 4060,
+      "title" : "Chapter 03-2 索墨森门扉·断空",
+      "capacity" : 12742
+    }, {
+      "id" : 4061,
+      "title" : "Chapter 03-3 索墨森门扉·西泽斯城（上）",
+      "capacity" : 10530
+    }, {
+      "id" : 4062,
+      "title" : "Chapter 03-4 索墨森门扉·西泽斯城（下）",
+      "capacity" : 9550
+    }, {
+      "id" : 4063,
+      "title" : "Chapter 04-1 败亡者之书·奥汀",
+      "capacity" : 9580
+    }, {
+      "id" : 4064,
+      "title" : "Chapter 04-2 败亡者之书·问答",
+      "capacity" : 9738
+    }, {
+      "id" : 4065,
+      "title" : "Chapter 04-3 败亡者之书·白族",
+      "capacity" : 10376
+    }, {
+      "id" : 4066,
+      "title" : "Chapter 05-1 雷鸣地狱·暗杀者",
+      "capacity" : 13469
+    }, {
+      "id" : 4067,
+      "title" : "Chapter 05-2 雷鸣地狱·月夜狂宴",
+      "capacity" : 9437
+    }, {
+      "id" : 4068,
+      "title" : "Chapter 05-3 雷鸣地狱·卡伦",
+      "capacity" : 10050
+    }, {
+      "id" : 4069,
+      "title" : "Chapter 05-4 雷鸣地狱·凶兽咆吼",
+      "capacity" : 72
+    } ]
+  }
+}

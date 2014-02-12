@@ -1,0 +1,194 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 46,
+    "list" : [ {
+      "id" : 1357,
+      "title" : "第一章 初识",
+      "capacity" : 6305
+    }, {
+      "id" : 1358,
+      "title" : "第二章 间歇性失语症",
+      "capacity" : 6499
+    }, {
+      "id" : 1359,
+      "title" : "第三章 不配合的古怪",
+      "capacity" : 3677
+    }, {
+      "id" : 1360,
+      "title" : "第四章 刹那间的温柔",
+      "capacity" : 3264
+    }, {
+      "id" : 1361,
+      "title" : "第五章事出有因",
+      "capacity" : 4011
+    }, {
+      "id" : 1362,
+      "title" : "第六章 拙劣的借口",
+      "capacity" : 3163
+    }, {
+      "id" : 1363,
+      "title" : "第七章 逸风的豪华生日party1",
+      "capacity" : 4444
+    }, {
+      "id" : 1364,
+      "title" : "第八章 逸风的豪华生日party 2",
+      "capacity" : 2889
+    }, {
+      "id" : 1365,
+      "title" : "第九章 逸风的豪华生日party3",
+      "capacity" : 2868
+    }, {
+      "id" : 1366,
+      "title" : "第十章 恰逢英俊少年1",
+      "capacity" : 4013
+    }, {
+      "id" : 1367,
+      "title" : "第十一章 全场焦点",
+      "capacity" : 2912
+    }, {
+      "id" : 1368,
+      "title" : "第十二章 女神出场",
+      "capacity" : 2536
+    }, {
+      "id" : 1369,
+      "title" : "第十三章 假面舞会1",
+      "capacity" : 3520
+    }, {
+      "id" : 1370,
+      "title" : "第十四章 假面舞会2",
+      "capacity" : 2292
+    }, {
+      "id" : 1371,
+      "title" : "第十五章 不翼而飞的一百元",
+      "capacity" : 2729
+    }, {
+      "id" : 1372,
+      "title" : "第十六章 不差钱",
+      "capacity" : 2953
+    }, {
+      "id" : 1373,
+      "title" : "第十七章 看上“牛仔裤”",
+      "capacity" : 3350
+    }, {
+      "id" : 1374,
+      "title" : "第十八章 衰神附体",
+      "capacity" : 3023
+    }, {
+      "id" : 1375,
+      "title" : "第十九章 英雄救美",
+      "capacity" : 2556
+    }, {
+      "id" : 1376,
+      "title" : "第二十章 迟迟钟鼓初长夜1",
+      "capacity" : 3397
+    }, {
+      "id" : 1377,
+      "title" : "第二十一章 迟迟钟鼓初长夜2",
+      "capacity" : 3895
+    }, {
+      "id" : 1378,
+      "title" : "白宫1",
+      "capacity" : 3710
+    }, {
+      "id" : 1379,
+      "title" : "第二十三章 白宫2",
+      "capacity" : 3553
+    }, {
+      "id" : 1380,
+      "title" : "第二十四章 成眷属",
+      "capacity" : 3112
+    }, {
+      "id" : 1381,
+      "title" : "第二十五章 秘密",
+      "capacity" : 3556
+    }, {
+      "id" : 1382,
+      "title" : "第二十六章 表白",
+      "capacity" : 4004
+    }, {
+      "id" : 1383,
+      "title" : "第二十七章 遇情敌",
+      "capacity" : 3632
+    }, {
+      "id" : 1384,
+      "title" : "第二十八章 跟踪",
+      "capacity" : 4980
+    }, {
+      "id" : 1385,
+      "title" : "第二十九章 惊艳",
+      "capacity" : 4913
+    }, {
+      "id" : 1386,
+      "title" : "第三十章 笨笨的蛋蛋",
+      "capacity" : 4486
+    }, {
+      "id" : 1387,
+      "title" : "第三十一章 作弊",
+      "capacity" : 9526
+    }, {
+      "id" : 1388,
+      "title" : "第三十二章 饭堂风波",
+      "capacity" : 9237
+    }, {
+      "id" : 1389,
+      "title" : "第三十三章 夜店",
+      "capacity" : 9888
+    }, {
+      "id" : 1390,
+      "title" : "第三十四章 恣意妄为的青春",
+      "capacity" : 9559
+    }, {
+      "id" : 1391,
+      "title" : "第三十五章 戏幕开场",
+      "capacity" : 9680
+    }, {
+      "id" : 1392,
+      "title" : "第三十六章 戏幕中端",
+      "capacity" : 9890
+    }, {
+      "id" : 1393,
+      "title" : "第三十七章 戏幕高潮",
+      "capacity" : 9327
+    }, {
+      "id" : 1394,
+      "title" : "第三十八章 水落石出",
+      "capacity" : 9575
+    }, {
+      "id" : 1395,
+      "title" : "第三十九章 危机四伏",
+      "capacity" : 9090
+    }, {
+      "id" : 1396,
+      "title" : "第四十章 离别",
+      "capacity" : 9194
+    }, {
+      "id" : 1397,
+      "title" : "第四十一章 琥珀色眼睛",
+      "capacity" : 9613
+    }, {
+      "id" : 1398,
+      "title" : "第四十二章 妙不可言的缘分",
+      "capacity" : 9109
+    }, {
+      "id" : 1399,
+      "title" : "第四十三章 误会重重",
+      "capacity" : 10032
+    }, {
+      "id" : 1400,
+      "title" : "第四十四章 美少年的奇怪癖好",
+      "capacity" : 9067
+    }, {
+      "id" : 1401,
+      "title" : "第四十五章 失物招领",
+      "capacity" : 9169
+    }, {
+      "id" : 1402,
+      "title" : "第四十六章 宛若水中央",
+      "capacity" : 9601
+    } ]
+  }
+}

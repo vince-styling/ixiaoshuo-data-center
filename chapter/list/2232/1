@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 4254,
+      "title" : "楔子",
+      "capacity" : 3449
+    }, {
+      "id" : 4255,
+      "title" : "1.一饭之恩",
+      "capacity" : 9407
+    }, {
+      "id" : 4256,
+      "title" : "2.卖身青楼",
+      "capacity" : 72
+    }, {
+      "id" : 4257,
+      "title" : "3.花魁之争",
+      "capacity" : 72
+    } ]
+  }
+}

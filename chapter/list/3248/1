@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 3931,
+      "title" : "玄斧故事梗概",
+      "capacity" : 12063
+    }, {
+      "id" : 3932,
+      "title" : "第三章：内忧外患 十万火急1",
+      "capacity" : 3575
+    }, {
+      "id" : 3933,
+      "title" : "第三章：内忧外患 十万火急2",
+      "capacity" : 3072
+    } ]
+  }
+}

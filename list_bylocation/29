@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 29,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2926,
+      "name" : "清宫情史",
+      "updateStatus" : 1,
+      "distance" : 5579,
+      "memberId" : 8138
+    }, {
+      "id" : 3230,
+      "name" : "霹雳戢武王妹控玉仔酱油记",
+      "updateStatus" : 1,
+      "distance" : 7549,
+      "memberId" : 5633
+    }, {
+      "id" : 2423,
+      "name" : "天价前妻：绝情总裁的契约情人",
+      "updateStatus" : 1,
+      "distance" : 1661,
+      "memberId" : 3814
+    }, {
+      "id" : 2085,
+      "name" : "琉璃坊",
+      "updateStatus" : 1,
+      "distance" : 8329,
+      "memberId" : 4458
+    }, {
+      "id" : 2147,
+      "name" : "不当神仙也爱你",
+      "updateStatus" : 2,
+      "distance" : 5361,
+      "memberId" : 3079
+    }, {
+      "id" : 3324,
+      "name" : "娘子，不许口是心非",
+      "updateStatus" : 1,
+      "distance" : 3309,
+      "memberId" : 5847
+    }, {
+      "id" : 2324,
+      "name" : "一代平妃",
+      "updateStatus" : 2,
+      "distance" : 6638,
+      "memberId" : 6193
+    }, {
+      "id" : 3167,
+      "name" : "凤武九霄：一品庶女傲天下",
+      "updateStatus" : 1,
+      "distance" : 1114,
+      "memberId" : 5497
+    }, {
+      "id" : 2193,
+      "name" : "笑傲仙狂",
+      "updateStatus" : 1,
+      "distance" : 3262,
+      "memberId" : 7261
+    }, {
+      "id" : 3138,
+      "name" : "黑色的梦境",
+      "updateStatus" : 1,
+      "distance" : 3200,
+      "memberId" : 3023
+    }, {
+      "id" : 2485,
+      "name" : "眸魂记",
+      "updateStatus" : 1,
+      "distance" : 5223,
+      "memberId" : 3909
+    }, {
+      "id" : 3347,
+      "name" : "冷艳傲骨：毒物小姐狠嚣张",
+      "updateStatus" : 1,
+      "distance" : 5275,
+      "memberId" : 7409
+    }, {
+      "id" : 2315,
+      "name" : "一诺双生劫",
+      "updateStatus" : 1,
+      "distance" : 7608,
+      "memberId" : 5738
+    }, {
+      "id" : 3735,
+      "name" : "穿越之修真吐槽娘",
+      "updateStatus" : 1,
+      "distance" : 5876,
+      "memberId" : 3666
+    }, {
+      "id" : 3037,
+      "name" : "简单的幸福",
+      "updateStatus" : 1,
+      "distance" : 9889,
+      "memberId" : 3212
+    }, {
+      "id" : 3290,
+      "name" : "婚然厚爱",
+      "updateStatus" : 1,
+      "distance" : 9431,
+      "memberId" : 7936
+    }, {
+      "id" : 2212,
+      "name" : "禁天乱纪元",
+      "updateStatus" : 1,
+      "distance" : 9236,
+      "memberId" : 6350
+    }, {
+      "id" : 2349,
+      "name" : "不相信国",
+      "updateStatus" : 1,
+      "distance" : 9372,
+      "memberId" : 8157
+    }, {
+      "id" : 2083,
+      "name" : "卿本庶女",
+      "updateStatus" : 2,
+      "distance" : 6745,
+      "memberId" : 8636
+    }, {
+      "id" : 2093,
+      "name" : "废柴王妃：相公欠调教",
+      "updateStatus" : 1,
+      "distance" : 2022,
+      "memberId" : 3536
+    } ]
+  }
+}

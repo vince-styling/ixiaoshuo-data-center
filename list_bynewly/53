@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 53,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2538,
+      "name" : "幸福百里",
+      "summary" : "善良可爱的她，是洛氏集团的千金二小姐——洛欣婷，论姿色、才艺、才情当属第一，在她的眼中，一切都是美好",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45335.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8382512,
+      "lastUpdateTime" : "2013-12-04 19:59:13"
+    }, {
+      "id" : 2446,
+      "name" : "安否，掠掳之来去的幸福",
+      "summary" : "一个美貌双全的名牌大学生，正在满怀醋意地拿着杯子，手中的白色粉末在她手中停顿-----。她想起了，另",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20906.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7648786,
+      "lastUpdateTime" : "2013-12-04 19:58:12"
+    }, {
+      "id" : 3639,
+      "name" : "疯狂的机械师",
+      "summary" : "片段：咦？”张木忽然发现还有一张纸制品，特殊职业转职证明——凭借这张证明，你可以选择随机的变异的职业",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42571.jpg",
+      "updateStatus" : 2,
+      "capacity" : 1207782,
+      "lastUpdateTime" : "2013-12-04 19:57:55"
+    }, {
+      "id" : 2210,
+      "name" : "神魔罗曼史",
+      "summary" : "一个异时空中，四足鼎立。战争四起，乱世中，美人乡神族中出现了一个个传奇人物……",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 8096669,
+      "lastUpdateTime" : "2013-12-04 19:45:35"
+    }, {
+      "id" : 3145,
+      "name" : "在云彼端",
+      "summary" : "天空阴暗，背影，单薄，苍凉，孤寂。风吹得她黑色的衣袖措措作响，仿佛在世界尽头，她身上有种与生俱来的黑",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 95384,
+      "lastUpdateTime" : "2013-12-04 18:50:06"
+    }, {
+      "id" : 3720,
+      "name" : "唯不忘相思",
+      "summary" : "苏媚：师承魔尊苏秦，为魔尊座下得意弟子之一。永元十一年，奉苏秦之命，以苏秦小女的身份入宫承宠，获取澜",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20925.jpg",
+      "updateStatus" : 1,
+      "capacity" : 435284,
+      "lastUpdateTime" : "2013-12-04 17:56:12"
+    }, {
+      "id" : 2285,
+      "name" : "天织雪",
+      "summary" : "他说：“跟我回去，可好？”他眼睛看不见，伸手却那样利落。“你叫我去找你，是等着嫁给我吗？”“等我好了",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20932.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1681149,
+      "lastUpdateTime" : "2013-12-04 17:18:47"
+    }, {
+      "id" : 2358,
+      "name" : "君不君，臣不臣",
+      "summary" : "穿越？啊哈，我要苏完天下美男。哎，说的我好像穿越成女的一样。战乱？啊哈，我要行侠天下，成为一代大侠。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47230.jpg",
+      "updateStatus" : 1,
+      "capacity" : 2771373,
+      "lastUpdateTime" : "2013-12-04 16:27:27"
+    }, {
+      "id" : 2667,
+      "name" : "那些旧时光雕刻的记忆",
+      "summary" : "十七岁的男生错过了青梅竹马的女生，却又遇见了另一个女生，鼓起勇气想追求自己的爱情，却被伤的遍体鳞伤，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46774.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4656088,
+      "lastUpdateTime" : "2013-12-04 15:51:20"
+    }, {
+      "id" : 2491,
+      "name" : "网游之睡睡也能成高手",
+      "summary" : "『新武』并不是全球第一个拟真游戏，但却是唯一春天玩得起的游戏但是谁告诉她这是怎么一回事？有人像她一样",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45941.jpg",
+      "updateStatus" : 1,
+      "capacity" : 3937533,
+      "lastUpdateTime" : "2013-12-04 15:35:22"
+    }, {
+      "id" : 2223,
+      "name" : "浩瀚风云录",
+      "summary" : "一个身负血海深仇的人族三太子，一部人神妖魔的风云乱世，一个新的世界——“浩瀚”。一神，二城，三陆，四",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45982.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1240180,
+      "lastUpdateTime" : "2013-12-04 15:22:33"
+    }, {
+      "id" : 2859,
+      "name" : "罪与孽交织的孽爱",
+      "summary" : "像是一出剧本，该遇见的总会遇见，也总不能预见。和玫瑰一样带着刺，还艳丽的带着毒。",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 6870164,
+      "lastUpdateTime" : "2013-12-04 15:03:47"
+    }, {
+      "id" : 3207,
+      "name" : "完美小娇妻之变脸",
+      "summary" : "上得了厅堂，下得了厨房；扮得了萝莉，演得了女王；听得了音乐会，吃得了大排档！虐心恋大升级！神秘男人的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20682.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1651445,
+      "lastUpdateTime" : "2013-12-04 14:57:12"
+    }, {
+      "id" : 3648,
+      "name" : "完美自杀",
+      "summary" : "“我爱的人自杀了，就在浴室里，我不能接受，请相信，我简直痛彻心扉。”**自杀抑或他杀，答案就在这个房",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44833.jpg",
+      "updateStatus" : 1,
+      "capacity" : 381975,
+      "lastUpdateTime" : "2013-12-04 14:12:18"
+    }, {
+      "id" : 2074,
+      "name" : "我们本无缘",
+      "summary" : "茜纱窗下，我本无缘，黄土垄中，卿何薄命。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47028.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8753565,
+      "lastUpdateTime" : "2013-12-04 10:01:03"
+    }, {
+      "id" : 2377,
+      "name" : "猜火车",
+      "summary" : "【晋江首发】这是一段扭曲的爱恋——因为爱你啊，所以不得不让你死掉啊，与其让你在别人的怀中绽放开花，不",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 2247830,
+      "lastUpdateTime" : "2013-12-04 08:52:26"
+    }, {
+      "id" : 2274,
+      "name" : "世家贵女",
+      "summary" : "如果穿越是老天对沈婷的优待的话，那么同时有更优秀的现代女穿过来这算怎么回事儿，额外奖励？难道她只是女",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21879.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5729827,
+      "lastUpdateTime" : "2013-12-04 08:44:59"
+    }, {
+      "id" : 2873,
+      "name" : "今辰",
+      "summary" : "八年后再次相遇，叶辰是顶着T市副市的光环重新进入程敛今的生命，也打破了程敛今原来平静的生活。叶辰自始",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20441.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5878562,
+      "lastUpdateTime" : "2013-12-04 08:38:54"
+    }, {
+      "id" : 2279,
+      "name" : "凤断谋",
+      "summary" : "静月宫的旧主逝，新主易。桃花下她对他倾城一笑，秋叶下他对她只手指天。明明相爱的两个灵魂却阴差阳错的变",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19627.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8423086,
+      "lastUpdateTime" : "2013-12-04 07:09:10"
+    }, {
+      "id" : 2107,
+      "name" : "嚣张王妃：霸爱俊王爷",
+      "summary" : "她，警界精英，爱红妆也爱武装，不料意外穿越，睁开眼已变身新婚弃妃。他，尊贵无比的平江王，却在新婚之夜",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14294.jpg",
+      "updateStatus" : 2,
+      "capacity" : 2563156,
+      "lastUpdateTime" : "2013-12-04 06:55:23"
+    } ]
+  }
+}

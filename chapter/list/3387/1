@@ -1,0 +1,202 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 48,
+    "list" : [ {
+      "id" : 2761,
+      "title" : "第一章 初遇",
+      "capacity" : 9331
+    }, {
+      "id" : 2762,
+      "title" : "第二章 相识",
+      "capacity" : 8646
+    }, {
+      "id" : 2763,
+      "title" : "第三章 决意",
+      "capacity" : 9023
+    }, {
+      "id" : 2764,
+      "title" : "第四章 求师",
+      "capacity" : 11306
+    }, {
+      "id" : 2765,
+      "title" : "第五章 拜师",
+      "capacity" : 13270
+    }, {
+      "id" : 2766,
+      "title" : "第六章 起风",
+      "capacity" : 13706
+    }, {
+      "id" : 2767,
+      "title" : "第七章 云涌",
+      "capacity" : 11749
+    }, {
+      "id" : 2768,
+      "title" : "第八章 云散",
+      "capacity" : 11157
+    }, {
+      "id" : 2769,
+      "title" : "第九章 年华",
+      "capacity" : 16095
+    }, {
+      "id" : 2770,
+      "title" : "第十章 人情",
+      "capacity" : 14623
+    }, {
+      "id" : 2771,
+      "title" : "第十一章 争夺",
+      "capacity" : 7983
+    }, {
+      "id" : 2772,
+      "title" : "第十二章 玄机",
+      "capacity" : 14955
+    }, {
+      "id" : 2773,
+      "title" : "第十三章 踢馆",
+      "capacity" : 15790
+    }, {
+      "id" : 2774,
+      "title" : "第十四章 化解",
+      "capacity" : 12994
+    }, {
+      "id" : 2775,
+      "title" : "第十五章 无猜",
+      "capacity" : 8981
+    }, {
+      "id" : 2776,
+      "title" : "第十六章 莫测",
+      "capacity" : 11193
+    }, {
+      "id" : 2777,
+      "title" : "第十七章 暗起",
+      "capacity" : 14213
+    }, {
+      "id" : 2778,
+      "title" : "第十八章 初难",
+      "capacity" : 13814
+    }, {
+      "id" : 2779,
+      "title" : "第十九章 初醒",
+      "capacity" : 9848
+    }, {
+      "id" : 2780,
+      "title" : "第二十章 东风",
+      "capacity" : 17950
+    }, {
+      "id" : 2781,
+      "title" : "第二十一章 萌芽",
+      "capacity" : 10628
+    }, {
+      "id" : 2782,
+      "title" : "第二十二章 情思",
+      "capacity" : 15003
+    }, {
+      "id" : 2783,
+      "title" : "第二十三章 谶语",
+      "capacity" : 14228
+    }, {
+      "id" : 2784,
+      "title" : "第二十四章 情苗",
+      "capacity" : 9464
+    }, {
+      "id" : 2785,
+      "title" : "第二十五章 戏理",
+      "capacity" : 10948
+    }, {
+      "id" : 2786,
+      "title" : "第二十六章 情愁",
+      "capacity" : 7272
+    }, {
+      "id" : 2787,
+      "title" : "第二十七章 解铃",
+      "capacity" : 11868
+    }, {
+      "id" : 2788,
+      "title" : "第二十八章 定情",
+      "capacity" : 8685
+    }, {
+      "id" : 2789,
+      "title" : "第二十九章 昔梦",
+      "capacity" : 8134
+    }, {
+      "id" : 2790,
+      "title" : "第三十章 欲言",
+      "capacity" : 9934
+    }, {
+      "id" : 2791,
+      "title" : "第三十一章 赌约",
+      "capacity" : 11581
+    }, {
+      "id" : 2792,
+      "title" : "第三十二章 拜年",
+      "capacity" : 6462
+    }, {
+      "id" : 2793,
+      "title" : "第三十三章 警语",
+      "capacity" : 7750
+    }, {
+      "id" : 2794,
+      "title" : "第三十四",
+      "capacity" : 10588
+    }, {
+      "id" : 2795,
+      "title" : "第三十五章 路转",
+      "capacity" : 9957
+    }, {
+      "id" : 2796,
+      "title" : "第三十六章 梦醒",
+      "capacity" : 11415
+    }, {
+      "id" : 2797,
+      "title" : "第三十七章 昼晦",
+      "capacity" : 11967
+    }, {
+      "id" : 2798,
+      "title" : "第三十八章 拨弦",
+      "capacity" : 10919
+    }, {
+      "id" : 2799,
+      "title" : "第三十九章 相错",
+      "capacity" : 11904
+    }, {
+      "id" : 2800,
+      "title" : "第四十章 横心",
+      "capacity" : 9293
+    }, {
+      "id" : 2801,
+      "title" : "第四十一章 再逢",
+      "capacity" : 9779
+    }, {
+      "id" : 2802,
+      "title" : "第四十二章 相别",
+      "capacity" : 12001
+    }, {
+      "id" : 2803,
+      "title" : "第四十三章 鬼话",
+      "capacity" : 11543
+    }, {
+      "id" : 2804,
+      "title" : "第四十四章 命格",
+      "capacity" : 13542
+    }, {
+      "id" : 2805,
+      "title" : "第四十五章 入天",
+      "capacity" : 11668
+    }, {
+      "id" : 2806,
+      "title" : "第四十六章 惊天",
+      "capacity" : 13199
+    }, {
+      "id" : 2807,
+      "title" : "第四十七章 薄命",
+      "capacity" : 9357
+    }, {
+      "id" : 2808,
+      "title" : "第四十八章 水尽",
+      "capacity" : 18333
+    } ]
+  }
+}

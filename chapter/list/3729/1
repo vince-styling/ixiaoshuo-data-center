@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 1931,
+      "title" : "楔子.雨夜梦回",
+      "capacity" : 3097
+    }, {
+      "id" : 1932,
+      "title" : "Chapter.001犯罪预告",
+      "capacity" : 3520
+    }, {
+      "id" : 1933,
+      "title" : "Chapter.002元旦庙会",
+      "capacity" : 3704
+    } ]
+  }
+}

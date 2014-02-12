@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 1079,
+      "title" : "闯荡",
+      "capacity" : 3690
+    }, {
+      "id" : 1080,
+      "title" : "闯荡 2",
+      "capacity" : 4209
+    }, {
+      "id" : 1081,
+      "title" : "闯荡3",
+      "capacity" : 4260
+    }, {
+      "id" : 1082,
+      "title" : "闯荡4",
+      "capacity" : 3786
+    }, {
+      "id" : 1083,
+      "title" : "闯荡5",
+      "capacity" : 3089
+    }, {
+      "id" : 1084,
+      "title" : "闯荡6 紫藤1",
+      "capacity" : 3338
+    }, {
+      "id" : 1085,
+      "title" : "紫藤2",
+      "capacity" : 3353
+    }, {
+      "id" : 1086,
+      "title" : "紫藤3",
+      "capacity" : 3218
+    }, {
+      "id" : 1087,
+      "title" : "紫藤4",
+      "capacity" : 3169
+    } ]
+  }
+}

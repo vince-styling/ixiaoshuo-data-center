@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 8,
+    "totalPageCount" : 31,
+    "totalItemCount" : 616,
+    "list" : [ {
+      "id" : 2994,
+      "name" : "低入尘埃终将花开",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44684.jpg",
+      "summary" : "阴谋似无底黑洞，贪婪阴险的人性，权利与欲望蠢蠢欲动，谁将护谁安好？傲骨跋扈的他在他们的感情世界里为何",
+      "updateStatus" : 1,
+      "capacity" : 3334681,
+      "readerCount" : 10340
+    }, {
+      "id" : 2909,
+      "name" : "十六岁的青春期",
+      "coverUrl" : "",
+      "summary" : "我叫萧泊轩，在十八中上学，因为某种原因，从小学就被人欺负，本以为到初中会有些好转，但是老天不放过我，",
+      "updateStatus" : 2,
+      "capacity" : 5366751,
+      "readerCount" : 10322
+    }, {
+      "id" : 2538,
+      "name" : "幸福百里",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45335.jpg",
+      "summary" : "善良可爱的她，是洛氏集团的千金二小姐——洛欣婷，论姿色、才艺、才情当属第一，在她的眼中，一切都是美好",
+      "updateStatus" : 1,
+      "capacity" : 8382512,
+      "readerCount" : 10293
+    }, {
+      "id" : 2839,
+      "name" : "花开深秋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46210.jpg",
+      "summary" : "小说以主人公陈明溪与林暮帆以及暮帆女友冯兰的感情变化为主线，其中穿插着林家上一代被尘封的秘密和感情。",
+      "updateStatus" : 1,
+      "capacity" : 1386838,
+      "readerCount" : 10248
+    }, {
+      "id" : 3198,
+      "name" : "灵异轮回",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43890.jpg",
+      "summary" : "洪飞是一个黄金分析师，由于对于‘七年的爱’的眷恋，一直未婚，准备放下以前种种往昔的时候，一场车祸带他",
+      "updateStatus" : 1,
+      "capacity" : 468231,
+      "readerCount" : 10137
+    }, {
+      "id" : 2801,
+      "name" : "女神物语",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45668.jpg",
+      "summary" : "慕容季子从大一开始暗恋许璟雯，大二结束的那天表白被拒绝，他又继续暗恋着她。而同时，也有女生喜欢他。但",
+      "updateStatus" : 1,
+      "capacity" : 7023235,
+      "readerCount" : 10099
+    }, {
+      "id" : 2783,
+      "name" : "半夏",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42025.jpg",
+      "summary" : "作为一个彪悍的女汉子，我的目标是找到一个可以媲美《网球王子》里幸村精市的少年当蓝颜知己。可是神之子没",
+      "updateStatus" : 1,
+      "capacity" : 2480210,
+      "readerCount" : 10095
+    }, {
+      "id" : 2757,
+      "name" : "总裁溺恋之是祸躲不过",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47439.jpg",
+      "summary" : "她，一名大学毕业一年的幼教老师，长辈眼中的乖乖女，除了上班就是宅家，不太上进，喜欢适当的米虫生活。他",
+      "updateStatus" : 1,
+      "capacity" : 8845121,
+      "readerCount" : 10083
+    }, {
+      "id" : 2646,
+      "name" : "满园紫苏",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45829.jpg",
+      "summary" : "她是商场巨鳄的遗孤，身家千亿，改头换面，隐藏身份，独自隐居到海边别墅；他是孤儿，却不甘命运，搏击商海",
+      "updateStatus" : 1,
+      "capacity" : 4205322,
+      "readerCount" : 10031
+    }, {
+      "id" : 2405,
+      "name" : "恨与爱的边缘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46685.jpg",
+      "summary" : "前十六年，她的世界里只有母爱，也许是小时候母亲善意的谎言让她对那个不曾谋面的父亲有了一丝期待，可是十",
+      "updateStatus" : 1,
+      "capacity" : 5551733,
+      "readerCount" : 9937
+    }, {
+      "id" : 2793,
+      "name" : "帅气少爷求KISS",
+      "coverUrl" : "",
+      "summary" : "明明出生在富豪之家，却要忍受着比佣人还要苦的待遇，有人说童年是人生最快乐的日子，而我却在童年度过了一",
+      "updateStatus" : 1,
+      "capacity" : 4279884,
+      "readerCount" : 9904
+    }, {
+      "id" : 2789,
+      "name" : "男人心事",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45736.jpg",
+      "summary" : "每个人都有一段属于自己的故事，每个故事都有着不同的色彩。本书讲述了四个男人的情感故事，他们是最好的哥",
+      "updateStatus" : 1,
+      "capacity" : 2693013,
+      "readerCount" : 9894
+    }, {
+      "id" : 2780,
+      "name" : "人生的旅途",
+      "coverUrl" : "",
+      "summary" : "从一个悲剧人生跨越了一段时间，生活变得更加幸福。当你遇到挫折是不要变挫折打败，要努力往前直走。。。前",
+      "updateStatus" : 1,
+      "capacity" : 5851316,
+      "readerCount" : 9841
+    }, {
+      "id" : 2448,
+      "name" : "似水流年之梦起（详尽版）",
+      "coverUrl" : "",
+      "summary" : "一个质朴、羞涩的少年，一场变故，多重劫难，又曾经历过怎样的爱恨情仇，直至走向不归？一个残缺、创伤的家",
+      "updateStatus" : 1,
+      "capacity" : 1472918,
+      "readerCount" : 9834
+    }, {
+      "id" : 2819,
+      "name" : "医狂天下：驯服邪恶暗帝",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47618.jpg",
+      "summary" : "曾经他靠近她是为了利用她，当目的实现，他才发现自己不知不觉已经将心遗失，蓦然回首，那人已经消失得无影",
+      "updateStatus" : 1,
+      "capacity" : 2639255,
+      "readerCount" : 9781
+    }, {
+      "id" : 2905,
+      "name" : "再一次爱上你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21559.jpg",
+      "summary" : "山间的九月给人印象最深的就是那深深浅浅的黄，以及那偶尔映入眼帘的绿。漫山遍野的落叶，在地上铺了厚厚的",
+      "updateStatus" : 1,
+      "capacity" : 5488180,
+      "readerCount" : 9656
+    }, {
+      "id" : 3334,
+      "name" : "我非007",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15388.jpg",
+      "summary" : "杨旭本来是一个无忧无虑的中学生，有一天他知道了自己的身世。为了给父母报仇他参加了国家的秘密组织……渐",
+      "updateStatus" : 1,
+      "capacity" : 2900282,
+      "readerCount" : 9602
+    }, {
+      "id" : 2636,
+      "name" : "结婚这件事",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47419.jpg",
+      "summary" : "家庭，关于爱情，关于亲情，关于夫妻，关于公婆，关于孩子，如何平息一切矛盾，衍生新的平衡。加油！！",
+      "updateStatus" : 1,
+      "capacity" : 6977526,
+      "readerCount" : 9539
+    }, {
+      "id" : 2669,
+      "name" : "遗爱绝情娇妻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22510.jpg",
+      "summary" : "五年前的一场本该美好的旅行，最后变成了与最亲最爱的姐姐的永别。五年来，被软禁在一座城市内过着灰姑娘变",
+      "updateStatus" : 1,
+      "capacity" : 2909665,
+      "readerCount" : 9510
+    }, {
+      "id" : 2927,
+      "name" : "风艳离色",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46160.jpg",
+      "summary" : "一天，夏小璃心血来潮，抱着坐在旁边正在看文件的那个人的手臂，满心期待的问：“对你而言，我是什么？”江",
+      "updateStatus" : 1,
+      "capacity" : 5190967,
+      "readerCount" : 9486
+    } ]
+  }
+}

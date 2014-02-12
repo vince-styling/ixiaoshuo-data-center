@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 1858,
+      "title" : "第一章 公交偶遇",
+      "capacity" : 6533
+    }, {
+      "id" : 1859,
+      "title" : "第二章 老板，你太看得起我了",
+      "capacity" : 6970
+    }, {
+      "id" : 1860,
+      "title" : "第三章 不要可爱，要温柔！",
+      "capacity" : 7479
+    }, {
+      "id" : 1861,
+      "title" : "第四章 第二次战役又输了",
+      "capacity" : 6747
+    }, {
+      "id" : 1862,
+      "title" : "第五章 小野猫，注定是我的",
+      "capacity" : 7575
+    }, {
+      "id" : 1863,
+      "title" : "第六章 跟踪",
+      "capacity" : 6500
+    } ]
+  }
+}

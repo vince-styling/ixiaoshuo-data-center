@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 4901,
+      "title" : "作品相关",
+      "capacity" : 315
+    }, {
+      "id" : 4902,
+      "title" : "第一章",
+      "capacity" : 5116
+    }, {
+      "id" : 4903,
+      "title" : "第二章",
+      "capacity" : 5492
+    }, {
+      "id" : 4904,
+      "title" : "第三章",
+      "capacity" : 5434
+    }, {
+      "id" : 4905,
+      "title" : "第四章",
+      "capacity" : 4329
+    }, {
+      "id" : 4906,
+      "title" : "第五章",
+      "capacity" : 953
+    }, {
+      "id" : 4907,
+      "title" : "第六章",
+      "capacity" : 6076
+    }, {
+      "id" : 4908,
+      "title" : "第七章",
+      "capacity" : 4520
+    }, {
+      "id" : 4909,
+      "title" : "第八章",
+      "capacity" : 4066
+    }, {
+      "id" : 4910,
+      "title" : "第八章",
+      "capacity" : 3731
+    }, {
+      "id" : 4911,
+      "title" : "第九章",
+      "capacity" : 8343
+    }, {
+      "id" : 4912,
+      "title" : "第十章",
+      "capacity" : 9019
+    }, {
+      "id" : 4913,
+      "title" : "第十一章",
+      "capacity" : 6637
+    } ]
+  }
+}

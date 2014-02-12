@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 2085,
+      "title" : "穿越了",
+      "capacity" : 3307
+    }, {
+      "id" : 2086,
+      "title" : "沐浴遇刺",
+      "capacity" : 4067
+    }, {
+      "id" : 2087,
+      "title" : "决定治国",
+      "capacity" : 3303
+    }, {
+      "id" : 2088,
+      "title" : "上朝",
+      "capacity" : 2718
+    }, {
+      "id" : 2089,
+      "title" : "还是治国吧",
+      "capacity" : 3488
+    }, {
+      "id" : 2090,
+      "title" : "路虎",
+      "capacity" : 2576
+    } ]
+  }
+}

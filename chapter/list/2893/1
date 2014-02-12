@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 4912,
+      "title" : "楔子",
+      "capacity" : 3060
+    }, {
+      "id" : 4913,
+      "title" : "Chapter1：有个男子名叫陌简竹",
+      "capacity" : 3389
+    }, {
+      "id" : 4914,
+      "title" : "Chapter2：我知道他的心里有一条毒蛇",
+      "capacity" : 6319
+    }, {
+      "id" : 4915,
+      "title" : "Chapter3：幸福很早就离我而去了",
+      "capacity" : 5396
+    }, {
+      "id" : 4916,
+      "title" : "Chapter4：摩天轮下印记幸福",
+      "capacity" : 8162
+    }, {
+      "id" : 4917,
+      "title" : "Chapter5：新人晚会",
+      "capacity" : 7672
+    } ]
+  }
+}

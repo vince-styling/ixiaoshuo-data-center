@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 106,
+    "list" : [ {
+      "id" : 4147,
+      "title" : "第一百章 震惊（上）",
+      "capacity" : 3731
+    }, {
+      "id" : 4148,
+      "title" : "第一百零一章 震惊（中）",
+      "capacity" : 3643
+    }, {
+      "id" : 4149,
+      "title" : "第一百零二章 震惊（下）",
+      "capacity" : 3407
+    }, {
+      "id" : 4150,
+      "title" : "第一百零三章 伤逝",
+      "capacity" : 9259
+    }, {
+      "id" : 4151,
+      "title" : "第一百零四章 冲刷",
+      "capacity" : 9731
+    }, {
+      "id" : 4152,
+      "title" : "不能免俗的上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

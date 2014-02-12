@@ -1,0 +1,118 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 27,
+    "list" : [ {
+      "id" : 2311,
+      "title" : "第一章 初遇",
+      "capacity" : 4969
+    }, {
+      "id" : 2312,
+      "title" : "第二章 博弈",
+      "capacity" : 6605
+    }, {
+      "id" : 2313,
+      "title" : "第三章 大婚",
+      "capacity" : 3883
+    }, {
+      "id" : 2314,
+      "title" : "第四章 危机",
+      "capacity" : 11159
+    }, {
+      "id" : 2315,
+      "title" : "第五章 争宠",
+      "capacity" : 15072
+    }, {
+      "id" : 2316,
+      "title" : "第六章 废妃",
+      "capacity" : 23292
+    }, {
+      "id" : 2317,
+      "title" : "第七章 冷宫",
+      "capacity" : 9466
+    }, {
+      "id" : 2318,
+      "title" : "第八章 出逃",
+      "capacity" : 9191
+    }, {
+      "id" : 2319,
+      "title" : "第九章 回宫",
+      "capacity" : 9408
+    }, {
+      "id" : 2320,
+      "title" : "第十章 显灵",
+      "capacity" : 12722
+    }, {
+      "id" : 2321,
+      "title" : "第十一章 国丧",
+      "capacity" : 10702
+    }, {
+      "id" : 2322,
+      "title" : "第十二章 蝗灾",
+      "capacity" : 12181
+    }, {
+      "id" : 2323,
+      "title" : "第十三章 花毒",
+      "capacity" : 9186
+    }, {
+      "id" : 2324,
+      "title" : "第十四章 偷香",
+      "capacity" : 10050
+    }, {
+      "id" : 2325,
+      "title" : "第十五章 锄奸（上）",
+      "capacity" : 9834
+    }, {
+      "id" : 2326,
+      "title" : "第十六章 锄奸（下）",
+      "capacity" : 10619
+    }, {
+      "id" : 2327,
+      "title" : "第十七章 谣言（上）",
+      "capacity" : 9428
+    }, {
+      "id" : 2328,
+      "title" : "第十八章 谣言（中）",
+      "capacity" : 9712
+    }, {
+      "id" : 2329,
+      "title" : "第十九章 谣言（下）",
+      "capacity" : 10100
+    }, {
+      "id" : 2330,
+      "title" : "第二十章 分娩（上）",
+      "capacity" : 9451
+    }, {
+      "id" : 2331,
+      "title" : "第二十一章 分娩（下）",
+      "capacity" : 10946
+    }, {
+      "id" : 2332,
+      "title" : "第二十二章 康复",
+      "capacity" : 11052
+    }, {
+      "id" : 2333,
+      "title" : "第二十三章 出发",
+      "capacity" : 9132
+    }, {
+      "id" : 2334,
+      "title" : "第二十四章 选才（一）",
+      "capacity" : 9424
+    }, {
+      "id" : 2335,
+      "title" : "第二十五章 选才（二）",
+      "capacity" : 9690
+    }, {
+      "id" : 2336,
+      "title" : "第二十六章 选才（三）",
+      "capacity" : 9592
+    }, {
+      "id" : 2337,
+      "title" : "第二十七章 选才（四）",
+      "capacity" : 72
+    } ]
+  }
+}

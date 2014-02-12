@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 11,
+    "totalPageCount" : 16,
+    "totalItemCount" : 304,
+    "list" : [ {
+      "id" : 2933,
+      "name" : "古尸奇缘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48025.jpg",
+      "summary" : "伊人香消玉碎楼阁幽静迷香思绪飘渺，倩影袅袅，彷如柔骨伴膝上青丝挽君深处回眸梨花千行箫声凄凄，薄雨绵绵",
+      "updateStatus" : 1,
+      "capacity" : 8851961,
+      "readerCount" : 1643
+    }, {
+      "id" : 2897,
+      "name" : "瞎子王爷独宠调皮妃",
+      "coverUrl" : "",
+      "summary" : "“啪、啪、啪。”“是哪个该死的居然敢打本小姐的屁股！”甘灵儿愤怒的大吼。只可惜嘴里发出的居然是“咿咿",
+      "updateStatus" : 1,
+      "capacity" : 9205255,
+      "readerCount" : 1625
+    }, {
+      "id" : 2097,
+      "name" : "俊俏佳公子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46060.jpg",
+      "summary" : "喂，你怎么就不能好好听我说呢。”某男气急败坏的跟在慧欣屁股后面，懊恼布满了整张帅气的脸庞。李慧欣突然",
+      "updateStatus" : 1,
+      "capacity" : 3987784,
+      "readerCount" : 1610
+    }, {
+      "id" : 3296,
+      "name" : "斜阳晚照",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44254.jpg",
+      "summary" : "金色箭矢开启尘封的往事，人性的贪婪再一次泯灭良知，螳螂捕蝉，黄雀在后，到底谁才是真正的高手？几个家族",
+      "updateStatus" : 1,
+      "capacity" : 197964,
+      "readerCount" : 1567
+    }, {
+      "id" : 3152,
+      "name" : "晚晴空",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47063.jpg",
+      "summary" : "【光绪皇帝与珍妃的不朽之恋】天真烂漫、聪颖秀慧、灵巧动人、温柔体贴，他这样形容她。巧言令色、狐媚害人",
+      "updateStatus" : 1,
+      "capacity" : 249392,
+      "readerCount" : 1492
+    }, {
+      "id" : 3262,
+      "name" : "爱，在遥远的彼方",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47519.jpg",
+      "summary" : "搞笑大纲“娘，我在自家牌楼前摆了个擂台！”一个粉嘟嘟的小男孩得意扬扬的拍着自己的小胸脯道。“小子，你",
+      "updateStatus" : 1,
+      "capacity" : 168465,
+      "readerCount" : 1470
+    }, {
+      "id" : 3483,
+      "name" : "君子谋：锦绣山河",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47233.jpg",
+      "summary" : "一朝抄没，千金变宫娥，步步为营，深陷权谋斗争。几番离合，宫阙终变土灰，群雄并起，逐鹿问鼎，忍看红妆胭",
+      "updateStatus" : 1,
+      "capacity" : 147910,
+      "readerCount" : 1460
+    }, {
+      "id" : 3515,
+      "name" : "相思明叶",
+      "coverUrl" : "",
+      "summary" : "从小跟着穿越老妈，受着现代加古代奇怪教育模式长大的邢思叶跟着父母回到了自己权倾天下的家。面对新婚夫君",
+      "updateStatus" : 1,
+      "capacity" : 583953,
+      "readerCount" : 1429
+    }, {
+      "id" : 3526,
+      "name" : "桃花躲躲",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20944.jpg",
+      "summary" : "当她将最后一个猎物诱杀之后，却因为她的大意被垂死的猎物反咬一口，再次睁开眼睛，却发现自己竟意外的穿越",
+      "updateStatus" : 1,
+      "capacity" : 921866,
+      "readerCount" : 1411
+    }, {
+      "id" : 3387,
+      "name" : "帐中歌，离恨天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44484.jpg",
+      "summary" : "【傅红雪X叶开衍生西皮，余其扬X金九龄】青梅竹马两小无猜的昔年旧事，抵不过历史横流命运波折。小跟班和",
+      "updateStatus" : 1,
+      "capacity" : 28927,
+      "readerCount" : 1396
+    }, {
+      "id" : 3159,
+      "name" : "红尘陌路",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45928.jpg",
+      "summary" : "红尘路上的偶遇，原来都是算计，却还是种下真情。他因她生了夺权的心，她因他放下了萦绕心头的恨。只是天若",
+      "updateStatus" : 1,
+      "capacity" : 414284,
+      "readerCount" : 1395
+    }, {
+      "id" : 3687,
+      "name" : "至尊天下：霸占绝色鬼颜妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47624.jpg",
+      "summary" : "富二代起床气女王躺着也中枪，意外的车祸让鬼差把魂勾错，将她安置古代丞相府之嫡女的体内。什么？把她安置",
+      "updateStatus" : 1,
+      "capacity" : 529746,
+      "readerCount" : 1378
+    }, {
+      "id" : 2065,
+      "name" : "昭华散",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19408.jpg",
+      "summary" : "【古风版】一念之间成为圣朝公主，城墙之后，已是和亲辽国的王妃。万般皆是命，半点不由人。她仿佛记得那时",
+      "updateStatus" : 2,
+      "capacity" : 9075192,
+      "readerCount" : 1376
+    }, {
+      "id" : 3662,
+      "name" : "窈窕君子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47019.jpg",
+      "summary" : "这是一个毫无节操的摄政王吐槽史，和一群人不断的掉节操的故事，女尊，但是是正常向。一朝风云变，南齐朝政",
+      "updateStatus" : 1,
+      "capacity" : 241009,
+      "readerCount" : 1373
+    }, {
+      "id" : 3555,
+      "name" : "锦书谁寄相思语",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19440.jpg",
+      "summary" : "谁说过的相濡以沫，谁赋予的落落思语，谁留下的转瞬春华，谁给你的北川锦书...他们还在演着那别离的戏，",
+      "updateStatus" : 1,
+      "capacity" : 698932,
+      "readerCount" : 1340
+    }, {
+      "id" : 2923,
+      "name" : "帝王业：誓不为妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47190.jpg",
+      "summary" : "这是一场男人之间权和名的较量。也是情与欲的纠缠。他们沉沦于权利的漩涡，她们努力挽回最初的真情。。。。",
+      "updateStatus" : 1,
+      "capacity" : 2303216,
+      "readerCount" : 1321
+    }, {
+      "id" : 2906,
+      "name" : "拐个俏郎君",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47292.jpg",
+      "summary" : "身为堂堂一国公主的谢华清现在正面临着生死大危机！为什么要这么说呢？因为她把向来很小心眼儿的神医谷谷主",
+      "updateStatus" : 1,
+      "capacity" : 6697631,
+      "readerCount" : 1303
+    }, {
+      "id" : 3730,
+      "name" : "美人殇之彼岸花开",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41988.jpg",
+      "summary" : "当仇恨蒙蔽你的双眼，不知你何时才能想起儿时的我，就算你不记得，那又如何，由我来守护你的快乐。江山再美",
+      "updateStatus" : 1,
+      "capacity" : 82990,
+      "readerCount" : 1272
+    }, {
+      "id" : 2965,
+      "name" : "一嫁倾国",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42335.jpg",
+      "summary" : "出逃公主的绝世爱情一纸婚书改变了她的一生，她愤然离开，希望能找到属于自己的爱情，兜兜转转，一切仍旧回",
+      "updateStatus" : 1,
+      "capacity" : 7094138,
+      "readerCount" : 1268
+    }, {
+      "id" : 3657,
+      "name" : "不知我梦",
+      "coverUrl" : "",
+      "summary" : "\"你呢，就像是冰冷的雨，所以我就一定要变成风!\"\"为什么。\"\"因为这样才可以和你不离不弃生死缱绻啊。",
+      "updateStatus" : 1,
+      "capacity" : 189752,
+      "readerCount" : 1260
+    } ]
+  }
+}

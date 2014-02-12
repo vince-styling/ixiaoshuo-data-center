@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 6,
+    "totalPageCount" : 10,
+    "totalItemCount" : 183,
+    "list" : [ {
+      "id" : 2982,
+      "name" : "逃之妖妖",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19092.jpg",
+      "summary" : "有一个拥有招鬼体质的爹，夏昭灵也就认了尼玛现在告诉她她是招妖的体质是闹哪般当她还小毛孩儿，信你鬼话呢",
+      "updateStatus" : 1,
+      "capacity" : 6919865,
+      "readerCount" : 3836
+    }, {
+      "id" : 2211,
+      "name" : "神魂锁炼",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21436.jpg",
+      "summary" : "一场无聊的三角游戏使得炼玉与其两位好友一起坠入异世，陌生的世界，熟悉的气息，失踪的好友，面对这一切，",
+      "updateStatus" : 1,
+      "capacity" : 1773447,
+      "readerCount" : 3683
+    }, {
+      "id" : 3107,
+      "name" : "世间冷暖",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20959.jpg",
+      "summary" : "被男友背叛，还来不及伤心，就发生了各种变故，什么，劫难还没完吗？从地摊上买的手链，却可以驱逐她最害怕",
+      "updateStatus" : 1,
+      "capacity" : 919408,
+      "readerCount" : 3558
+    }, {
+      "id" : 3222,
+      "name" : "恶魔先生的猫小姐",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45755.jpg",
+      "summary" : "城市的夜晚褪去了白日的喧嚣，午夜的街头空无一人，一切都只是暴风雨前的宁静。黑暗中异族的生物蠢蠢欲动。",
+      "updateStatus" : 1,
+      "capacity" : 82868,
+      "readerCount" : 3451
+    }, {
+      "id" : 2229,
+      "name" : "异界之神路传说",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_9309.jpg",
+      "summary" : "一场意外让他经历了很多不可思议的事。可随之而来背叛、伤害、追杀让他不得不让自己变得更强。为了自己，为",
+      "updateStatus" : 1,
+      "capacity" : 7249882,
+      "readerCount" : 3390
+    }, {
+      "id" : 3091,
+      "name" : "丛林法则，末世女王风",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44610.jpg",
+      "summary" : "雅玛人2013世界末日的预言并没有兑现，100多年过去了，人们已经淡忘，科技进入了一个新高度并持续发",
+      "updateStatus" : 1,
+      "capacity" : 216162,
+      "readerCount" : 3370
+    }, {
+      "id" : 2188,
+      "name" : "王之祭坛",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15772.jpg",
+      "summary" : "千年前的一场大战，让天，地两界与人界结下了不解之仇。千年之后，两界卷土重来，新大路上瞬间战火不灭。他",
+      "updateStatus" : 2,
+      "capacity" : 1668493,
+      "readerCount" : 3125
+    }, {
+      "id" : 3523,
+      "name" : "圣界天域",
+      "coverUrl" : "",
+      "summary" : "天地之间，无数片空间相连。万千世界，演绎着一个又一个传奇！在这里，宗门林立，地盘分明，五大域执掌天地",
+      "updateStatus" : 1,
+      "capacity" : 1002784,
+      "readerCount" : 3122
+    }, {
+      "id" : 2704,
+      "name" : "幻世至秘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47872.jpg",
+      "summary" : "一颗来自天界创造的幻世宝珠，背后隐藏了多少秘密？一个融入了五国生灵的灵珠，又为何要遭受灭顶之灾？灵木",
+      "updateStatus" : 1,
+      "capacity" : 8439803,
+      "readerCount" : 3089
+    }, {
+      "id" : 2488,
+      "name" : "奇灵公主",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_11479.jpg",
+      "summary" : "仙术，仙友，仙情，你想拥有哪一样？抑或是，你不想失去哪一样？答案是能够选择的吗？对于杳一，答案是无法",
+      "updateStatus" : 2,
+      "capacity" : 2183420,
+      "readerCount" : 3066
+    }, {
+      "id" : 2343,
+      "name" : "五界九州乱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44346.jpg",
+      "summary" : "风家亡，乱家灭。犬门现，九州乱。秦皇不语，阎王不怒，明王不动。山海龙王，九州乱王，枭雄秦王，红发阎王",
+      "updateStatus" : 1,
+      "capacity" : 5108576,
+      "readerCount" : 2977
+    }, {
+      "id" : 2194,
+      "name" : "创世迷途",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19361.jpg",
+      "summary" : "主人公于宙（王哲）为了自己创造超等智慧生命的梦想，与灭世神达成契约，来到异界寻求创世的方法。于是修仙",
+      "updateStatus" : 2,
+      "capacity" : 4996307,
+      "readerCount" : 2966
+    }, {
+      "id" : 2128,
+      "name" : "幻莫一世，情殇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46956.jpg",
+      "summary" : "于族，她是万众瞩目的灵术师，于情，她是背弃了所有的情殇之魔，她只求得苍生平安，却不得不舍去全部身心。",
+      "updateStatus" : 1,
+      "capacity" : 3064791,
+      "readerCount" : 2896
+    }, {
+      "id" : 3310,
+      "name" : "龙级猎人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20583.jpg",
+      "summary" : "她曾经是哥哥身边的跟屁虫，整天无忧无虑地缠着哥哥买这买那，拥有着天下间最天真的笑容。他曾经是学院的废",
+      "updateStatus" : 1,
+      "capacity" : 756599,
+      "readerCount" : 2894
+    }, {
+      "id" : 3504,
+      "name" : "《心惜之落雪之殇》",
+      "coverUrl" : "",
+      "summary" : "繁星闪烁着耀眼的光华，他的出世，斗转星移。命运的辗轮已经开启，那满是疮痍的灵魂见怎样辗转，他和她还会",
+      "updateStatus" : 1,
+      "capacity" : 1097853,
+      "readerCount" : 2887
+    }, {
+      "id" : 3223,
+      "name" : "风吹叶舞意悠然",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45334.jpg",
+      "summary" : "前世忠于爱情，却换来背叛今生愿享亲情，却终遭抛弃那么，就追求自由吧爱恨情仇悲欢离合我自悠然，笑看这世",
+      "updateStatus" : 1,
+      "capacity" : 794234,
+      "readerCount" : 2861
+    }, {
+      "id" : 2209,
+      "name" : "高贵的囚徒",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46272.jpg",
+      "summary" : "王城的二皇子风羽一直不被人看好，被看好的是他骁勇善战的哥哥风轨，他对王位也没什么感觉，过着夜夜笙歌的",
+      "updateStatus" : 1,
+      "capacity" : 7286728,
+      "readerCount" : 2742
+    }, {
+      "id" : 3149,
+      "name" : "风仪万千",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44304.jpg",
+      "summary" : "风仪霜，穿越到梵天大陆的异世之魂。四岁惨遭灭门，以颠覆苍茫为己任。清冷孤绝，冷睨世情。极端压抑，犀利",
+      "updateStatus" : 1,
+      "capacity" : 573504,
+      "readerCount" : 2650
+    }, {
+      "id" : 2686,
+      "name" : "罂粟：血蔷薇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21926.jpg",
+      "summary" : "在那个弱肉强食的世界，能让自己活下去的只有力量。当看到同伴为了保护自己而被敌人残忍杀害的那一刹那，两",
+      "updateStatus" : 1,
+      "capacity" : 9804112,
+      "readerCount" : 2562
+    }, {
+      "id" : 2198,
+      "name" : "花开浮生：花乱莫倾城",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16332.jpg",
+      "summary" : "以我之名，许你一世荣宠。以我之命，换你一生安好。这个世上，我只愿和你比肩。若是毁去身躯，废去神石，能",
+      "updateStatus" : 2,
+      "capacity" : 3556118,
+      "readerCount" : 2552
+    } ]
+  }
+}

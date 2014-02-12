@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 3567,
+    "name" : "你必须知道的事",
+    "author" : "默语",
+    "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18699.jpg",
+    "summary" : "爱情从哪里开始的？我不记得了，我只知道，不知不觉中，我只能看见你，我不介意站在你的身后，只希望有一天，哪怕一个瞬间，你能回过头，对我微笑。",
+    "lastUpdateTime" : "2013-11-22 00:16:47",
+    "updateStatus" : 2,
+    "catId" : 130,
+    "catName" : "都市校园",
+    "capacity" : 444147
+  }
+}

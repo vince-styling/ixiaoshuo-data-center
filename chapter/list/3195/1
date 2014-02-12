@@ -1,0 +1,186 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 44,
+    "list" : [ {
+      "id" : 1359,
+      "title" : "第一章 暧昧穿越",
+      "capacity" : 4656
+    }, {
+      "id" : 1360,
+      "title" : "第一章 （2）",
+      "capacity" : 3505
+    }, {
+      "id" : 1361,
+      "title" : "第二章 现场春宫戏",
+      "capacity" : 5298
+    }, {
+      "id" : 1362,
+      "title" : "第二章 （2）",
+      "capacity" : 5164
+    }, {
+      "id" : 1363,
+      "title" : "第三章 夜遇采花大盗",
+      "capacity" : 4128
+    }, {
+      "id" : 1364,
+      "title" : "第三章 （2）",
+      "capacity" : 5644
+    }, {
+      "id" : 1365,
+      "title" : "第三章 （3）",
+      "capacity" : 3324
+    }, {
+      "id" : 1366,
+      "title" : "第四章 暧昧情丝",
+      "capacity" : 4377
+    }, {
+      "id" : 1367,
+      "title" : "第四章 （2）",
+      "capacity" : 3284
+    }, {
+      "id" : 1368,
+      "title" : "第五章 意乱情迷",
+      "capacity" : 3739
+    }, {
+      "id" : 1369,
+      "title" : "第五章 （2）",
+      "capacity" : 4382
+    }, {
+      "id" : 1370,
+      "title" : "第六章 讨上门来的桃花债",
+      "capacity" : 4289
+    }, {
+      "id" : 1371,
+      "title" : "第六章 （2）",
+      "capacity" : 4998
+    }, {
+      "id" : 1372,
+      "title" : "第七章 侍寝",
+      "capacity" : 5523
+    }, {
+      "id" : 1373,
+      "title" : "第七章 （2）",
+      "capacity" : 4159
+    }, {
+      "id" : 1374,
+      "title" : "第八章 众男夺女",
+      "capacity" : 4182
+    }, {
+      "id" : 1375,
+      "title" : "第八章 （2）",
+      "capacity" : 3490
+    }, {
+      "id" : 1376,
+      "title" : "第八章 （3）",
+      "capacity" : 5516
+    }, {
+      "id" : 1377,
+      "title" : "第九章 性命攸关",
+      "capacity" : 3550
+    }, {
+      "id" : 1378,
+      "title" : "第九章 （2）",
+      "capacity" : 4855
+    }, {
+      "id" : 1379,
+      "title" : "第十章 粉红色的梦",
+      "capacity" : 3814
+    }, {
+      "id" : 1380,
+      "title" : "第十章 （2）",
+      "capacity" : 4774
+    }, {
+      "id" : 1381,
+      "title" : "第十一章 欲求不满",
+      "capacity" : 5144
+    }, {
+      "id" : 1382,
+      "title" : "第十一章 （2）",
+      "capacity" : 3348
+    }, {
+      "id" : 1383,
+      "title" : "第十二章 报仇雪恨",
+      "capacity" : 3314
+    }, {
+      "id" : 1384,
+      "title" : "第十二章 （2）",
+      "capacity" : 4865
+    }, {
+      "id" : 1385,
+      "title" : "第十三章 漫柔被害",
+      "capacity" : 3830
+    }, {
+      "id" : 1386,
+      "title" : "第十三章 （2）",
+      "capacity" : 5147
+    }, {
+      "id" : 1387,
+      "title" : "第十四章 被献皇上",
+      "capacity" : 4044
+    }, {
+      "id" : 1388,
+      "title" : "第十四章 （2）",
+      "capacity" : 4037
+    }, {
+      "id" : 1389,
+      "title" : "第十五章 倩女幽魂",
+      "capacity" : 3512
+    }, {
+      "id" : 1390,
+      "title" : "第十五章 （2）",
+      "capacity" : 4359
+    }, {
+      "id" : 1391,
+      "title" : "第十六章 险象环生",
+      "capacity" : 4175
+    }, {
+      "id" : 1392,
+      "title" : "第十六章 （2）",
+      "capacity" : 3960
+    }, {
+      "id" : 1393,
+      "title" : "第十六章 （3）",
+      "capacity" : 5300
+    }, {
+      "id" : 1394,
+      "title" : "第十七章 二次大战",
+      "capacity" : 3298
+    }, {
+      "id" : 1395,
+      "title" : "第十七章 （2）",
+      "capacity" : 3832
+    }, {
+      "id" : 1396,
+      "title" : "第十七章 （3）",
+      "capacity" : 3706
+    }, {
+      "id" : 1397,
+      "title" : "第十八章 尘封的真相",
+      "capacity" : 4295
+    }, {
+      "id" : 1398,
+      "title" : "第十八章 （2）",
+      "capacity" : 3518
+    }, {
+      "id" : 1399,
+      "title" : "第十八章 （3）",
+      "capacity" : 6016
+    }, {
+      "id" : 1400,
+      "title" : "第十九章 比赛前夕",
+      "capacity" : 3438
+    }, {
+      "id" : 1401,
+      "title" : "第十九章 （2）",
+      "capacity" : 3413
+    }, {
+      "id" : 1402,
+      "title" : "第二十章 危险擂台赛",
+      "capacity" : 3173
+    } ]
+  }
+}

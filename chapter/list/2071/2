@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 4992,
+      "title" : "第五十一章 倾力相助",
+      "capacity" : 10644
+    }, {
+      "id" : 4993,
+      "title" : "第五十二章 无情帝王家",
+      "capacity" : 10175
+    }, {
+      "id" : 4994,
+      "title" : "第五十三章 素兰受宠",
+      "capacity" : 9216
+    }, {
+      "id" : 4995,
+      "title" : "上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

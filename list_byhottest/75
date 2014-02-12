@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 75,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3614,
+      "name" : "二八不婚",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46898.jpg",
+      "summary" : "新文，关于友情爱情。在你心中，到底友情和爱情孰轻孰重，这你知道吗？当你无比坚定的说出那个答案之后，当",
+      "updateStatus" : 1,
+      "capacity" : 189712,
+      "readerCount" : 442
+    }, {
+      "id" : 3446,
+      "name" : "本草纲目",
+      "coverUrl" : "",
+      "summary" : "对不起，如果你想找的是那本李时珍先人的医学著作，那么我想你得换过网页了，这本书完全不是你想的那样，我",
+      "updateStatus" : 1,
+      "capacity" : 64202,
+      "readerCount" : 438
+    }, {
+      "id" : 3085,
+      "name" : "姑娘，你没有穿鞋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20118.jpg",
+      "summary" : "姑娘，你的鞋掉了……简介各种无力，请看正文。",
+      "updateStatus" : 1,
+      "capacity" : 629829,
+      "readerCount" : 437
+    }, {
+      "id" : 3651,
+      "name" : "《听见了吗？我来了》",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45823.jpg",
+      "summary" : "只要孩子平安降生，我就让你离开。往后你想去哪里，干什么，只要踏出这里就再与我无关。——季珉源张维新，",
+      "updateStatus" : 1,
+      "capacity" : 103203,
+      "readerCount" : 437
+    }, {
+      "id" : 3460,
+      "name" : "悄悄告诉你",
+      "coverUrl" : "",
+      "summary" : "无工作状态持续久了，自从找到了新工作，史悄悄几乎每晚都会做梦，梦醒后就运用自己的鬼斧神工让故事跃然纸",
+      "updateStatus" : 1,
+      "capacity" : 47008,
+      "readerCount" : 434
+    }, {
+      "id" : 3621,
+      "name" : "竹歪桃花三两枝",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44873.jpg",
+      "summary" : "一枝桃花一见倾心，二枝桃花捉弄生情，三枝桃花遍地黄金。男配一号：卒（卒于胎死腹中）男配二号：卒（卒于",
+      "updateStatus" : 1,
+      "capacity" : 552724,
+      "readerCount" : 433
+    }, {
+      "id" : 3193,
+      "name" : "三生三世，芙蓉幽幽",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44507.jpg",
+      "summary" : "那是一个英雄辈出的年代。那是一幅江山美人的画卷。那是一个感人至深的故事。是执子之手，与子偕老。还是坐",
+      "updateStatus" : 2,
+      "capacity" : 51865,
+      "readerCount" : 430
+    }, {
+      "id" : 2373,
+      "name" : "小子们，上课请勿搞基",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43393.jpg",
+      "summary" : "米老师抚脸嗔笑：“一群臭小子、小基佬……TM高考了给老娘认真点！不管乃们是嘛兄弟禁断、嘛竹马情深、嘛",
+      "updateStatus" : 2,
+      "capacity" : 5634784,
+      "readerCount" : 418
+    }, {
+      "id" : 3708,
+      "name" : "浮生境梦",
+      "coverUrl" : "",
+      "summary" : "千年梦，弹指间，往事如水淡如烟。芳华现，梦仙缘，情爱成梦人难圆。浮生叹，轮回换，情字原来是梦幻。曲已",
+      "updateStatus" : 1,
+      "capacity" : 151923,
+      "readerCount" : 415
+    }, {
+      "id" : 3577,
+      "name" : "柔弱四小姐霸道四王爷",
+      "coverUrl" : "",
+      "summary" : "可爱：“没有了历史老师，我怎么活！！”某莹。。“你非要和我斗，看本小姐用21新概念P死你！”某莹。。",
+      "updateStatus" : 1,
+      "capacity" : 133837,
+      "readerCount" : 415
+    }, {
+      "id" : 3374,
+      "name" : "逢酒醉花阴",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45184.jpg",
+      "summary" : "唐朝末年，人心冷漠，超纲腐败，太监当道。一个女孩被人随手丢在大街上，身为太监的刘克明把女孩带回家中，",
+      "updateStatus" : 1,
+      "capacity" : 64226,
+      "readerCount" : 414
+    }, {
+      "id" : 3150,
+      "name" : "我是小丫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44809.jpg",
+      "summary" : "一个现代社会打拼的女子，在中元节的时候不幸被鬼缠身，掐死，在地府即将还阳的时候，却被告知自己要去一个",
+      "updateStatus" : 1,
+      "capacity" : 213878,
+      "readerCount" : 413
+    }, {
+      "id" : 3654,
+      "name" : "红颜香粉",
+      "coverUrl" : "",
+      "summary" : "一个逃婚的王妃，一个追婚的王爷，她不爱他，他却爱着爱，包容她的一切，最后他用真爱换回那人的爱~~~",
+      "updateStatus" : 1,
+      "capacity" : 38369,
+      "readerCount" : 412
+    }, {
+      "id" : 3162,
+      "name" : "真龙天下：倾世侠妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47772.jpg",
+      "summary" : "一个因为皇室之争落入江湖的王爷，一个从下游走江湖的女孩，两人从相识相知到相恋，又从陌路道携手一生……",
+      "updateStatus" : 1,
+      "capacity" : 144870,
+      "readerCount" : 406
+    }, {
+      "id" : 3263,
+      "name" : "君臣一心",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42421.jpg",
+      "summary" : "她被这个地方囚禁了二十几年，离开一直是希望，但是被人赶走与自行离开让她选的话……还用选么？……陛下，",
+      "updateStatus" : 1,
+      "capacity" : 1259774,
+      "readerCount" : 406
+    }, {
+      "id" : 2577,
+      "name" : "恶少总裁：薄宠小娇妻",
+      "coverUrl" : "",
+      "summary" : "你不知道，在我的心里你是最重要的哪一个，为了你放弃整个世界，也无所谓，只要能留你在我身边，这辈子，我",
+      "updateStatus" : 1,
+      "capacity" : 4288726,
+      "readerCount" : 405
+    }, {
+      "id" : 3390,
+      "name" : "贺兰山下阵如云",
+      "coverUrl" : "",
+      "summary" : "",
+      "updateStatus" : 1,
+      "capacity" : 45951,
+      "readerCount" : 403
+    }, {
+      "id" : 3667,
+      "name" : "且行且见",
+      "coverUrl" : "",
+      "summary" : "时空限制了我们，习惯限制了我们，思维限制了我们，强劲舆论般的劝慰让我们陷入实际不再挣扎，让我们在白昼",
+      "updateStatus" : 1,
+      "capacity" : 483617,
+      "readerCount" : 400
+    }, {
+      "id" : 3458,
+      "name" : "极品女宠王妃",
+      "coverUrl" : "",
+      "summary" : "她，为他放下了最为傲的身份，但到头来却只换来了他的话：我要的你给不起，就这样罢了。就这样等了，爱了，",
+      "updateStatus" : 1,
+      "capacity" : 121154,
+      "readerCount" : 399
+    }, {
+      "id" : 3311,
+      "name" : "韩菲之黑道女帝",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44991.jpg",
+      "summary" : "黑道，日日夜夜的在刀口上舔血、只能赌命的地方。一局，赢,则生，输,则死，没有后路可以退。这，就是她必",
+      "updateStatus" : 1,
+      "capacity" : 874605,
+      "readerCount" : 398
+    } ]
+  }
+}

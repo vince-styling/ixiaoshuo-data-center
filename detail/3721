@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 3721,
+    "name" : "这个是妖精大人",
+    "author" : "僵尸娘",
+    "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14580.jpg",
+    "summary" : "魔法少女驾到，\n骑着扫帚，带着黑猫，一袭魔法黑袍，\n天降而下，读心少年悲从何见？\n少年呐，带着你读心的本领，跟着姐姐混吧！\n一本破旧不堪的魔法书，承载着遗失的古老魔法。\n少年呐，想解开你能读人心的魔法么？\n难道魔法与魔女不可兼得？少年侧目...",
+    "lastUpdateTime" : "2013-12-19 23:08:00",
+    "updateStatus" : 1,
+    "catId" : 126,
+    "catName" : "玄幻奇幻",
+    "capacity" : 27756
+  }
+}

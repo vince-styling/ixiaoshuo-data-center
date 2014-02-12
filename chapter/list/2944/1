@@ -1,0 +1,70 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 15,
+    "list" : [ {
+      "id" : 2239,
+      "title" : "第一章（1）",
+      "capacity" : 9404
+    }, {
+      "id" : 2240,
+      "title" : "《第一章（2）",
+      "capacity" : 6367
+    }, {
+      "id" : 2241,
+      "title" : "《第一章（3）",
+      "capacity" : 7707
+    }, {
+      "id" : 2242,
+      "title" : "第一章（4）",
+      "capacity" : 10107
+    }, {
+      "id" : 2243,
+      "title" : "《第二章》（1）",
+      "capacity" : 6685
+    }, {
+      "id" : 2244,
+      "title" : "《第二章》（2）",
+      "capacity" : 4160
+    }, {
+      "id" : 2245,
+      "title" : "《第二章》（3）",
+      "capacity" : 5550
+    }, {
+      "id" : 2246,
+      "title" : "第二章（4）",
+      "capacity" : 4959
+    }, {
+      "id" : 2247,
+      "title" : "第二章（5）",
+      "capacity" : 4401
+    }, {
+      "id" : 2248,
+      "title" : "第二章（6）",
+      "capacity" : 2997
+    }, {
+      "id" : 2249,
+      "title" : "第二章（7）",
+      "capacity" : 4007
+    }, {
+      "id" : 2250,
+      "title" : "第二章（8）",
+      "capacity" : 4586
+    }, {
+      "id" : 2251,
+      "title" : "第二章（9）",
+      "capacity" : 3108
+    }, {
+      "id" : 2252,
+      "title" : "第二章（10）",
+      "capacity" : 3017
+    }, {
+      "id" : 2253,
+      "title" : "第三章（1）",
+      "capacity" : 6613
+    } ]
+  }
+}

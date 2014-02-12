@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 3053,
+      "title" : "【001】搜罗男人",
+      "capacity" : 4524
+    }, {
+      "id" : 3054,
+      "title" : "【002】艳猎出现",
+      "capacity" : 3962
+    }, {
+      "id" : 3055,
+      "title" : "【003】芳菲云水阁",
+      "capacity" : 4022
+    } ]
+  }
+}

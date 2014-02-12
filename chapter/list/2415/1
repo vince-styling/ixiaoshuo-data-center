@@ -1,0 +1,182 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 43,
+    "list" : [ {
+      "id" : 3747,
+      "title" : "《学生起义军》更新公告",
+      "capacity" : 3090
+    }, {
+      "id" : 3748,
+      "title" : "非正文，作者生日特别篇",
+      "capacity" : 3116
+    }, {
+      "id" : 3749,
+      "title" : "序章",
+      "capacity" : 7334
+    }, {
+      "id" : 3750,
+      "title" : "第一章",
+      "capacity" : 11040
+    }, {
+      "id" : 3751,
+      "title" : "第二章",
+      "capacity" : 11215
+    }, {
+      "id" : 3752,
+      "title" : "第三章",
+      "capacity" : 10190
+    }, {
+      "id" : 3753,
+      "title" : "第四章",
+      "capacity" : 10555
+    }, {
+      "id" : 3754,
+      "title" : "第五章",
+      "capacity" : 9984
+    }, {
+      "id" : 3755,
+      "title" : "第六章",
+      "capacity" : 9561
+    }, {
+      "id" : 3756,
+      "title" : "第七章",
+      "capacity" : 9792
+    }, {
+      "id" : 3757,
+      "title" : "第八章",
+      "capacity" : 10012
+    }, {
+      "id" : 3758,
+      "title" : "第九章",
+      "capacity" : 9312
+    }, {
+      "id" : 3759,
+      "title" : "第十章",
+      "capacity" : 4128
+    }, {
+      "id" : 3760,
+      "title" : "第十一章",
+      "capacity" : 9525
+    }, {
+      "id" : 3761,
+      "title" : "第十二章",
+      "capacity" : 10624
+    }, {
+      "id" : 3762,
+      "title" : "第十三章",
+      "capacity" : 9256
+    }, {
+      "id" : 3763,
+      "title" : "第十四章",
+      "capacity" : 10771
+    }, {
+      "id" : 3764,
+      "title" : "第十五章",
+      "capacity" : 10678
+    }, {
+      "id" : 3765,
+      "title" : "第十六章",
+      "capacity" : 9640
+    }, {
+      "id" : 3766,
+      "title" : "第十七章",
+      "capacity" : 9595
+    }, {
+      "id" : 3767,
+      "title" : "第十八章",
+      "capacity" : 9557
+    }, {
+      "id" : 3768,
+      "title" : "第十九章",
+      "capacity" : 9065
+    }, {
+      "id" : 3769,
+      "title" : "第二十章",
+      "capacity" : 3692
+    }, {
+      "id" : 3770,
+      "title" : "第二十一章",
+      "capacity" : 9130
+    }, {
+      "id" : 3771,
+      "title" : "第二十二章",
+      "capacity" : 9066
+    }, {
+      "id" : 3772,
+      "title" : "第二十三章",
+      "capacity" : 9076
+    }, {
+      "id" : 3773,
+      "title" : "第二十四章",
+      "capacity" : 8875
+    }, {
+      "id" : 3774,
+      "title" : "第二十五章",
+      "capacity" : 9625
+    }, {
+      "id" : 3775,
+      "title" : "第二十六章",
+      "capacity" : 9471
+    }, {
+      "id" : 3776,
+      "title" : "第二十七章",
+      "capacity" : 9074
+    }, {
+      "id" : 3777,
+      "title" : "第二十八章",
+      "capacity" : 8997
+    }, {
+      "id" : 3778,
+      "title" : "第二十九章",
+      "capacity" : 8874
+    }, {
+      "id" : 3779,
+      "title" : "第三十章",
+      "capacity" : 4236
+    }, {
+      "id" : 3780,
+      "title" : "第三十一章",
+      "capacity" : 8835
+    }, {
+      "id" : 3781,
+      "title" : "第三十二章",
+      "capacity" : 8783
+    }, {
+      "id" : 3782,
+      "title" : "第三十三章",
+      "capacity" : 9056
+    }, {
+      "id" : 3783,
+      "title" : "第三十四章",
+      "capacity" : 9097
+    }, {
+      "id" : 3784,
+      "title" : "第三十五章",
+      "capacity" : 8820
+    }, {
+      "id" : 3785,
+      "title" : "第三十六章",
+      "capacity" : 8936
+    }, {
+      "id" : 3786,
+      "title" : "第三十七章",
+      "capacity" : 8967
+    }, {
+      "id" : 3787,
+      "title" : "第三十八章",
+      "capacity" : 9039
+    }, {
+      "id" : 3788,
+      "title" : "第三十九章",
+      "capacity" : 8832
+    }, {
+      "id" : 3789,
+      "title" : "第四十章",
+      "capacity" : 3898
+    } ]
+  }
+}

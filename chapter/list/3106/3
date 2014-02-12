@@ -1,0 +1,138 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 3,
+    "totalItemCount" : 132,
+    "list" : [ {
+      "id" : 1914,
+      "title" : "尘埃落定",
+      "capacity" : 2960
+    }, {
+      "id" : 1915,
+      "title" : "有风铃的地方是就是家",
+      "capacity" : 4342
+    }, {
+      "id" : 1916,
+      "title" : "故人上",
+      "capacity" : 3959
+    }, {
+      "id" : 1917,
+      "title" : "故人下",
+      "capacity" : 3828
+    }, {
+      "id" : 1918,
+      "title" : "未婚妻",
+      "capacity" : 4031
+    }, {
+      "id" : 1919,
+      "title" : "墨白可怜的未婚妻·····",
+      "capacity" : 4764
+    }, {
+      "id" : 1920,
+      "title" : "愤怒的尚渐",
+      "capacity" : 5623
+    }, {
+      "id" : 1921,
+      "title" : "杀戮",
+      "capacity" : 4010
+    }, {
+      "id" : 1922,
+      "title" : "交易",
+      "capacity" : 3259
+    }, {
+      "id" : 1923,
+      "title" : "暴力师徒俩",
+      "capacity" : 3997
+    }, {
+      "id" : 1924,
+      "title" : "离开",
+      "capacity" : 3518
+    }, {
+      "id" : 1925,
+      "title" : "无人知道的委任仪式",
+      "capacity" : 4019
+    }, {
+      "id" : 1926,
+      "title" : "将军",
+      "capacity" : 4911
+    }, {
+      "id" : 1927,
+      "title" : "集体会议+军队任名",
+      "capacity" : 5209
+    }, {
+      "id" : 1928,
+      "title" : "查寝",
+      "capacity" : 4729
+    }, {
+      "id" : 1929,
+      "title" : "训练",
+      "capacity" : 3805
+    }, {
+      "id" : 1930,
+      "title" : "玩具",
+      "capacity" : 5685
+    }, {
+      "id" : 1931,
+      "title" : "什么是战场",
+      "capacity" : 4024
+    }, {
+      "id" : 1932,
+      "title" : "奇怪的训练上",
+      "capacity" : 4918
+    }, {
+      "id" : 1933,
+      "title" : "奇怪的训练下",
+      "capacity" : 4476
+    }, {
+      "id" : 1934,
+      "title" : "恼羞成怒的尚渐",
+      "capacity" : 3638
+    }, {
+      "id" : 1935,
+      "title" : "武器",
+      "capacity" : 4379
+    }, {
+      "id" : 1936,
+      "title" : "被找到了上",
+      "capacity" : 3414
+    }, {
+      "id" : 1937,
+      "title" : "被找到了下",
+      "capacity" : 4144
+    }, {
+      "id" : 1938,
+      "title" : "候伯",
+      "capacity" : 3431
+    }, {
+      "id" : 1939,
+      "title" : "番外一：圣诞节的约定上",
+      "capacity" : 3811
+    }, {
+      "id" : 1940,
+      "title" : "番外一：圣诞节的约定中",
+      "capacity" : 3784
+    }, {
+      "id" : 1941,
+      "title" : "番外一：圣诞节的约定下",
+      "capacity" : 5714
+    }, {
+      "id" : 1942,
+      "title" : "番外：师父与师叔的那些激情岁月一",
+      "capacity" : 3197
+    }, {
+      "id" : 1943,
+      "title" : "师傅与师叔的那些激情岁月二",
+      "capacity" : 3529
+    }, {
+      "id" : 1944,
+      "title" : "师傅与师叔的激情岁月三",
+      "capacity" : 4014
+    }, {
+      "id" : 1945,
+      "title" : "师傅与师叔的激情岁月四",
+      "capacity" : 3244
+    } ]
+  }
+}

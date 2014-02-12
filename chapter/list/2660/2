@@ -1,0 +1,122 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 78,
+    "list" : [ {
+      "id" : 1428,
+      "title" : "51 得意的少年",
+      "capacity" : 9427
+    }, {
+      "id" : 1429,
+      "title" : "52 冬眠的王八",
+      "capacity" : 3123
+    }, {
+      "id" : 1430,
+      "title" : "53 和谈",
+      "capacity" : 6147
+    }, {
+      "id" : 1431,
+      "title" : "54 突变",
+      "capacity" : 9172
+    }, {
+      "id" : 1432,
+      "title" : "55 单挑",
+      "capacity" : 9329
+    }, {
+      "id" : 1433,
+      "title" : "56 霸天娱乐公司",
+      "capacity" : 9526
+    }, {
+      "id" : 1434,
+      "title" : "57 许青青",
+      "capacity" : 9516
+    }, {
+      "id" : 1435,
+      "title" : "58 没有如果",
+      "capacity" : 9335
+    }, {
+      "id" : 1436,
+      "title" : "59 医院危机",
+      "capacity" : 10154
+    }, {
+      "id" : 1437,
+      "title" : "60 跑啊（上）",
+      "capacity" : 5011
+    }, {
+      "id" : 1438,
+      "title" : "61 跑啊（下）",
+      "capacity" : 6128
+    }, {
+      "id" : 1439,
+      "title" : "62 死个球的了",
+      "capacity" : 6076
+    }, {
+      "id" : 1440,
+      "title" : "63别墅风云",
+      "capacity" : 6280
+    }, {
+      "id" : 1441,
+      "title" : "65孤立无援",
+      "capacity" : 7902
+    }, {
+      "id" : 1442,
+      "title" : "66忍不是目的",
+      "capacity" : 9114
+    }, {
+      "id" : 1443,
+      "title" : "67夏雨果的离开",
+      "capacity" : 9463
+    }, {
+      "id" : 1444,
+      "title" : "68酒吧激战（上）",
+      "capacity" : 9216
+    }, {
+      "id" : 1445,
+      "title" : "69酒吧激战（下）",
+      "capacity" : 9327
+    }, {
+      "id" : 1446,
+      "title" : "70冷对白眼嘲笑，惯听闲言碎语",
+      "capacity" : 9192
+    }, {
+      "id" : 1447,
+      "title" : "71我从不记仇",
+      "capacity" : 9400
+    }, {
+      "id" : 1448,
+      "title" : "72重逢？离别？",
+      "capacity" : 9717
+    }, {
+      "id" : 1449,
+      "title" : "73监狱风雨（一）",
+      "capacity" : 9192
+    }, {
+      "id" : 1450,
+      "title" : "74饭呢！！",
+      "capacity" : 9405
+    }, {
+      "id" : 1451,
+      "title" : "75老子是败类！",
+      "capacity" : 9388
+    }, {
+      "id" : 1452,
+      "title" : "76不眠之夜（上）",
+      "capacity" : 9215
+    }, {
+      "id" : 1453,
+      "title" : "77不眠之夜（下）",
+      "capacity" : 9252
+    }, {
+      "id" : 1454,
+      "title" : "78好戏开场",
+      "capacity" : 9141
+    }, {
+      "id" : 1455,
+      "title" : "上架公告",
+      "capacity" : 2236
+    } ]
+  }
+}

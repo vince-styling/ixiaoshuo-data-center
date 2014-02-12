@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 3602,
+      "title" : "0、楔子",
+      "capacity" : 3043
+    }, {
+      "id" : 3603,
+      "title" : "1、缘起",
+      "capacity" : 3060
+    }, {
+      "id" : 3604,
+      "title" : "2、天降",
+      "capacity" : 4226
+    }, {
+      "id" : 3605,
+      "title" : "3、冷男",
+      "capacity" : 9130
+    }, {
+      "id" : 3606,
+      "title" : "4、包袱",
+      "capacity" : 8785
+    }, {
+      "id" : 3607,
+      "title" : "5、腹黑",
+      "capacity" : 2855
+    }, {
+      "id" : 3608,
+      "title" : "6、吐血",
+      "capacity" : 3673
+    }, {
+      "id" : 3609,
+      "title" : "7、误会",
+      "capacity" : 1685
+    }, {
+      "id" : 3610,
+      "title" : "8、学院",
+      "capacity" : 3598
+    }, {
+      "id" : 3611,
+      "title" : "9、受伤",
+      "capacity" : 4098
+    }, {
+      "id" : 3612,
+      "title" : "10、万俟",
+      "capacity" : 5470
+    }, {
+      "id" : 3613,
+      "title" : "11、佑天",
+      "capacity" : 4228
+    }, {
+      "id" : 3614,
+      "title" : "12、危险",
+      "capacity" : 19363
+    } ]
+  }
+}

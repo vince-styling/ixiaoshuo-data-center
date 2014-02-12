@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 67,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3707,
+      "name" : "白银传说",
+      "summary" : "“从北方一直到北方的尽头从世界的尽头到时间的尽头在冰川的背后，在誓言的前头，我的爱与传说一样久……”",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19646.jpg",
+      "updateStatus" : 1,
+      "capacity" : 220777,
+      "lastUpdateTime" : "2013-11-28 09:49:00"
+    }, {
+      "id" : 3548,
+      "name" : "只见青山妩媚",
+      "summary" : "命运与日后的磨难紧紧在一起，而天地之间的一场浩劫正悄无声息地拉开序幕。等待着他们的究竟是简单的磨练，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47095.jpg",
+      "updateStatus" : 1,
+      "capacity" : 12200,
+      "lastUpdateTime" : "2013-11-28 09:17:26"
+    }, {
+      "id" : 2170,
+      "name" : "轮回三生劫",
+      "summary" : "缘定三生，缘证三生。三生石在中国是一个神秘古老而美丽的传说。三生石面前见证了无数催人泪下可歌可泣的爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_5346.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6036799,
+      "lastUpdateTime" : "2013-11-28 09:05:54"
+    }, {
+      "id" : 2398,
+      "name" : "千里共月光",
+      "summary" : "青春有很多遗憾，而遗憾，是最好的结局。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46287.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9415650,
+      "lastUpdateTime" : "2013-11-28 07:14:16"
+    }, {
+      "id" : 3074,
+      "name" : "王子，请把我带回家",
+      "summary" : "韩雅唯，名字温柔而本质却恰恰相反的女生，在爷爷威逼利诱下进入蒂斯学院就读。初进学院就遇到了痴情种高崎",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 72805,
+      "lastUpdateTime" : "2013-11-28 06:59:21"
+    }, {
+      "id" : 2199,
+      "name" : "选道",
+      "summary" : "无尽寰宇，浩瀚星空。。。金羽抬望宇宙，看见两尊强者正在大气层外生死比斗，强悍的神通激撞在一起，为一片",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15924.jpg",
+      "updateStatus" : 2,
+      "capacity" : 6737931,
+      "lastUpdateTime" : "2013-11-28 06:22:59"
+    }, {
+      "id" : 3130,
+      "name" : "冷情总裁，我不爱",
+      "summary" : "从见到他开始，她就陷入了一串又一串的麻烦中。而罪魁祸首就是他！无奈之下，向他求助，不料这个冷血的男人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19972.jpg",
+      "updateStatus" : 1,
+      "capacity" : 569723,
+      "lastUpdateTime" : "2013-11-28 05:16:07"
+    }, {
+      "id" : 3175,
+      "name" : "被岁月流放的青春",
+      "summary" : "唐夕是一位家庭、学业、事业、能力都非常普通的屌丝青年，在事业和感情的波折中，在这个特殊的时代经历着自",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43591.jpg",
+      "updateStatus" : 1,
+      "capacity" : 148000,
+      "lastUpdateTime" : "2013-11-28 04:44:48"
+    }, {
+      "id" : 2246,
+      "name" : "王爷，你给本宫趴下",
+      "summary" : "【表面是欢脱的】据说，人间有种职业叫做穿越天界有种惩处叫做轮回那她九生九死，往来穿梭，算个啥？再说，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15032.jpg",
+      "updateStatus" : 2,
+      "capacity" : 2201147,
+      "lastUpdateTime" : "2013-11-28 04:41:58"
+    }, {
+      "id" : 2148,
+      "name" : "江湖夜雨十年灯之诗酒篇",
+      "summary" : "坎坷经年，宝剑成篇，风雨自行。曾怒马鲜衣，歌楼舞影；舒琴把剑，小筑遗情。纵酒红尘，两杯三友，买醉癫狂",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18285.jpg",
+      "updateStatus" : 2,
+      "capacity" : 1978111,
+      "lastUpdateTime" : "2013-11-28 04:10:41"
+    }, {
+      "id" : 3252,
+      "name" : "一辈子，在一起",
+      "summary" : "快到期末了。。不定期发文了T-T“如果可以，能和我再次在一起吗？”“若有如果？。。。可惜这世界上没有",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44765.jpg",
+      "updateStatus" : 1,
+      "capacity" : 112980,
+      "lastUpdateTime" : "2013-11-28 04:06:41"
+    }, {
+      "id" : 3466,
+      "name" : "流年纪",
+      "summary" : "我姓韶，在童年、青春的时候曾经演绎着一段真实的故事，也许每一个人都有这样一段故事，我们把它称为流年。",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 110799,
+      "lastUpdateTime" : "2013-11-28 04:02:32"
+    }, {
+      "id" : 3574,
+      "name" : "祁家楼外楼",
+      "summary" : "她在楼外楼很久了，久的就她自己都记不得了。当年时候，她把算盘打的啪啪乱响。精打细算的过着日子。她以为",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46805.jpg",
+      "updateStatus" : 1,
+      "capacity" : 30508,
+      "lastUpdateTime" : "2013-11-28 04:00:42"
+    }, {
+      "id" : 3569,
+      "name" : "奇山鬼谭",
+      "summary" : "演化出来的法则，才不是什么既定的不可变，山精妖怪什么的，又可爱又可怕；人鬼殊途？敢爱就要自己走出一条",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43544.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1712129,
+      "lastUpdateTime" : "2013-11-28 03:09:56"
+    }, {
+      "id" : 2676,
+      "name" : "君悦我心",
+      "summary" : "白之仪第一天上班，就被泼了一桶冷水，透心凉啊，差点被搞成一级伤残。一群花样年华的写作者，全部窝在一栋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47874.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5832847,
+      "lastUpdateTime" : "2013-11-28 02:07:20"
+    }, {
+      "id" : 3557,
+      "name" : "无知岁月",
+      "summary" : "无",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 135770,
+      "lastUpdateTime" : "2013-11-28 01:26:55"
+    }, {
+      "id" : 2532,
+      "name" : "芫花",
+      "summary" : "每一朵花都有自己的花语，而每一个话语对应着不同的爱情故事。而我，作为唯一能知晓所有花朵真正花语以及花",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47762.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9069635,
+      "lastUpdateTime" : "2013-11-28 00:48:21"
+    }, {
+      "id" : 2526,
+      "name" : "[网王]花菱の樱",
+      "summary" : "闪耀迷人如同星光般纯粹耀眼的金色及膝长发，蒲扇般的睫毛，琉璃色的瞳孔，如同贵族公主般倾城的耀眼容颜，",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 2206911,
+      "lastUpdateTime" : "2013-11-28 00:26:10"
+    }, {
+      "id" : 2076,
+      "name" : "灵魂调",
+      "summary" : "苏落月，也就是本小姐，醉酒之后，就莫名其妙的回到了古代，回去也就算了，我也就啥也不说了，可为什么让我",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47431.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6379277,
+      "lastUpdateTime" : "2013-11-27 22:49:13"
+    }, {
+      "id" : 3151,
+      "name" : "神秘特务之炸弹小姐",
+      "summary" : "特务去上学？谁信？她们一个比一个狠，一个比一个二。一次任务，把她们的生活弄得天翻地覆的，情敌？未婚妻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42496.jpg",
+      "updateStatus" : 1,
+      "capacity" : 252675,
+      "lastUpdateTime" : "2013-11-27 22:28:59"
+    } ]
+  }
+}

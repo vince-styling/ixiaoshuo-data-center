@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 3071,
+      "title" : "第一章 妖精",
+      "capacity" : 3276
+    }, {
+      "id" : 3072,
+      "title" : "第二章 素颜",
+      "capacity" : 2447
+    }, {
+      "id" : 3073,
+      "title" : "第三章",
+      "capacity" : 3955
+    }, {
+      "id" : 3074,
+      "title" : "第四章 沉沦",
+      "capacity" : 72
+    } ]
+  }
+}

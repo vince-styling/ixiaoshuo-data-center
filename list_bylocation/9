@@ -1,0 +1,130 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 9,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3392,
+      "name" : "重生，投胎投错家",
+      "updateStatus" : 1,
+      "distance" : 5660,
+      "memberId" : 4887
+    }, {
+      "id" : 3125,
+      "name" : "竹马太凶残",
+      "updateStatus" : 1,
+      "distance" : 3741,
+      "memberId" : 3608
+    }, {
+      "id" : 2979,
+      "name" : "未殇",
+      "updateStatus" : 1,
+      "distance" : 4111,
+      "memberId" : 1719
+    }, {
+      "id" : 2258,
+      "name" : "爆笑冤家：你的地盘我做主",
+      "updateStatus" : 1,
+      "distance" : 5325,
+      "memberId" : 6627
+    }, {
+      "id" : 3408,
+      "name" : "综恐一梦一回",
+      "updateStatus" : 1,
+      "distance" : 7228,
+      "memberId" : 8800
+    }, {
+      "id" : 3696,
+      "name" : "负心王爷，囚宠失身王妃",
+      "updateStatus" : 1,
+      "distance" : 4081,
+      "memberId" : 5843
+    }, {
+      "id" : 2224,
+      "name" : "拯救吸血鬼",
+      "updateStatus" : 1,
+      "distance" : 3363,
+      "memberId" : 6002
+    }, {
+      "id" : 2675,
+      "name" : "总裁的契约情人！",
+      "updateStatus" : 1,
+      "distance" : 533,
+      "memberId" : 4628
+    }, {
+      "id" : 3685,
+      "name" : "若痕",
+      "updateStatus" : 1,
+      "distance" : 9332,
+      "memberId" : 8376
+    }, {
+      "id" : 2723,
+      "name" : "宝贝我宠你",
+      "updateStatus" : 1,
+      "distance" : 6313,
+      "memberId" : 8875
+    }, {
+      "id" : 3204,
+      "name" : "侍郎娘子",
+      "updateStatus" : 1,
+      "distance" : 5127,
+      "memberId" : 1283
+    }, {
+      "id" : 2474,
+      "name" : "十早集",
+      "updateStatus" : 1,
+      "distance" : 7724,
+      "memberId" : 2614
+    }, {
+      "id" : 2237,
+      "name" : "桃花嫁",
+      "updateStatus" : 2,
+      "distance" : 2007,
+      "memberId" : 1342
+    }, {
+      "id" : 3686,
+      "name" : "美人谋：宠妃不贤良",
+      "updateStatus" : 1,
+      "distance" : 9009,
+      "memberId" : 4838
+    }, {
+      "id" : 2150,
+      "name" : "最",
+      "updateStatus" : 1,
+      "distance" : 8306,
+      "memberId" : 6264
+    }, {
+      "id" : 3106,
+      "name" : "被流放的女将军",
+      "updateStatus" : 1,
+      "distance" : 8343,
+      "memberId" : 7206
+    }, {
+      "id" : 2125,
+      "name" : "恨海情天",
+      "updateStatus" : 1,
+      "distance" : 8141,
+      "memberId" : 6403
+    }, {
+      "id" : 3367,
+      "name" : "血仙·舞",
+      "updateStatus" : 1,
+      "distance" : 2534,
+      "memberId" : 4184
+    }, {
+      "id" : 3259,
+      "name" : "静若安好愉怡一生",
+      "updateStatus" : 1,
+      "distance" : 6078,
+      "memberId" : 6871
+    }, {
+      "id" : 3073,
+      "name" : "飞禽走兽除魔记",
+      "updateStatus" : 1,
+      "distance" : 8088,
+      "memberId" : 5300
+    } ]
+  }
+}

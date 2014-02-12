@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 62,
+    "list" : [ {
+      "id" : 1205,
+      "title" : "欢乐时光三",
+      "capacity" : 2365
+    }, {
+      "id" : 1206,
+      "title" : "欢乐时光四",
+      "capacity" : 3177
+    }, {
+      "id" : 1207,
+      "title" : "欢乐时光五",
+      "capacity" : 1893
+    }, {
+      "id" : 1208,
+      "title" : "神秘基地一",
+      "capacity" : 3315
+    }, {
+      "id" : 1209,
+      "title" : "神秘基地二",
+      "capacity" : 2096
+    }, {
+      "id" : 1210,
+      "title" : "神秘基地三",
+      "capacity" : 3100
+    }, {
+      "id" : 1211,
+      "title" : "神秘基地四",
+      "capacity" : 2290
+    }, {
+      "id" : 1212,
+      "title" : "神秘及第五",
+      "capacity" : 2461
+    }, {
+      "id" : 1213,
+      "title" : "神秘基地六",
+      "capacity" : 2626
+    }, {
+      "id" : 1214,
+      "title" : "神秘基地七",
+      "capacity" : 3819
+    }, {
+      "id" : 1215,
+      "title" : "神秘基地八",
+      "capacity" : 3577
+    }, {
+      "id" : 1216,
+      "title" : "神秘基地九",
+      "capacity" : 3760
+    } ]
+  }
+}

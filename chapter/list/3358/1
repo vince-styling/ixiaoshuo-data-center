@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 10,
+    "list" : [ {
+      "id" : 3840,
+      "title" : "小片段",
+      "capacity" : 8374
+    }, {
+      "id" : 3841,
+      "title" : "第一章 首次",
+      "capacity" : 3279
+    }, {
+      "id" : 3842,
+      "title" : "第二章 初次见面",
+      "capacity" : 4039
+    }, {
+      "id" : 3843,
+      "title" : "第三章 多个：兄弟",
+      "capacity" : 4529
+    }, {
+      "id" : 3844,
+      "title" : "第四章 凌家 小王子",
+      "capacity" : 3912
+    }, {
+      "id" : 3845,
+      "title" : "第五章 零度冰山",
+      "capacity" : 2623
+    }, {
+      "id" : 3846,
+      "title" : "第六章 现实巧遇",
+      "capacity" : 3199
+    }, {
+      "id" : 3847,
+      "title" : "第七章 买衣服是这样的",
+      "capacity" : 5461
+    }, {
+      "id" : 3848,
+      "title" : "第八章 乱",
+      "capacity" : 4667
+    }, {
+      "id" : 3849,
+      "title" : "第九章 解决方法",
+      "capacity" : 3708
+    } ]
+  }
+}

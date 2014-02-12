@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 4252,
+      "title" : "第一章【军梦】",
+      "capacity" : 72
+    }, {
+      "id" : 4253,
+      "title" : "第二章【初恋】第一集",
+      "capacity" : 7213
+    }, {
+      "id" : 4254,
+      "title" : "第二集【初恋】",
+      "capacity" : 5478
+    }, {
+      "id" : 4255,
+      "title" : "第三集【初恋】",
+      "capacity" : 72
+    } ]
+  }
+}

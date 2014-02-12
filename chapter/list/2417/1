@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 3733,
+      "title" : "Chapter 1",
+      "capacity" : 35715
+    }, {
+      "id" : 3734,
+      "title" : "Chapter 2",
+      "capacity" : 36619
+    }, {
+      "id" : 3735,
+      "title" : "Chapter 3",
+      "capacity" : 26915
+    }, {
+      "id" : 3736,
+      "title" : "Chapter 4",
+      "capacity" : 35882
+    }, {
+      "id" : 3737,
+      "title" : "Chapter 5",
+      "capacity" : 32339
+    }, {
+      "id" : 3738,
+      "title" : "Chapter 6",
+      "capacity" : 30580
+    }, {
+      "id" : 3739,
+      "title" : "Chapter 7",
+      "capacity" : 26716
+    }, {
+      "id" : 3740,
+      "title" : "Chapter 8",
+      "capacity" : 31071
+    }, {
+      "id" : 3741,
+      "title" : "Chapter 9",
+      "capacity" : 26178
+    }, {
+      "id" : 3742,
+      "title" : "Chapter 10",
+      "capacity" : 33645
+    }, {
+      "id" : 3743,
+      "title" : "《不飞的天使》上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

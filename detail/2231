@@ -1,0 +1,16 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "id" : 2231,
+    "name" : "女巫时节",
+    "author" : "苏落",
+    "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47665.jpg",
+    "summary" : "一个以巫术传承的家族，经历着一个又一个的时代。",
+    "lastUpdateTime" : "2013-11-21 03:20:45",
+    "updateStatus" : 1,
+    "catId" : 126,
+    "catName" : "玄幻奇幻",
+    "capacity" : 6754983
+  }
+}

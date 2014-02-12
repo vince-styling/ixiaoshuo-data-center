@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 9,
+    "totalPageCount" : 78,
+    "totalItemCount" : 1542,
+    "list" : [ {
+      "id" : 2580,
+      "name" : "琉璃碎",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46245.jpg",
+      "summary" : "无论是神魔的玩笑，还是命运的作弄，既然让她在这个光怪陆离的世界里得以借尸还魂，重活一回。那么，就算有",
+      "updateStatus" : 1,
+      "capacity" : 2677967,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 3000,
+      "name" : "陪君共此生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47145.jpg",
+      "summary" : "她是一朵误落风尘的花，她是一颗沾染尘埃的明珠，浓妆艳抹是她的面具，清冷孤傲是她的本性，她是柳诗，流芳",
+      "updateStatus" : 1,
+      "capacity" : 9117988,
+      "catName" : "古代言情"
+    }, {
+      "id" : 2928,
+      "name" : "双面总裁：我的老公是哪位？",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46170.jpg",
+      "summary" : "安宁打死也不会承认连续三天新闻头版的那个疯女人是自己！安阳安慰她，“好歹是出了一回名不是，要知道多少",
+      "updateStatus" : 1,
+      "capacity" : 5624071,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2461,
+      "name" : "我和僵尸有个约会",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44874.jpg",
+      "summary" : "僵尸，集天地怨气秽气而生，不老、不死、不灭，被天地人三界摒弃在众生六道之外，浪荡无依、流离失所，在人",
+      "updateStatus" : 1,
+      "capacity" : 7168915,
+      "catName" : "灵异悬疑"
+    }, {
+      "id" : 2925,
+      "name" : "爱的华尔兹",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46282.jpg",
+      "summary" : "李依依刚上大二时爸妈去美国出差，归期不定时，哥哥从美国回来照顾自己，还带了个人回来。“爷，给姐笑一个",
+      "updateStatus" : 1,
+      "capacity" : 4011354,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2451,
+      "name" : "穿越前世来爱你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44670.jpg",
+      "summary" : "缘定三生三世，谁相信？！但是缘分扑簌迷离，缘起缘灭，命运之神是否在冥冥之中安排了一切还是，真的是三生",
+      "updateStatus" : 1,
+      "capacity" : 9792741,
+      "catName" : "古代言情"
+    }, {
+      "id" : 2710,
+      "name" : "山海妖忆抄",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41709.jpg",
+      "summary" : "民间传说的水分太大了，你都不知道哪句是真、哪句是假！如果跟你说，喧嚣繁杂的大都市里有妖怪，还不是一只",
+      "updateStatus" : 1,
+      "capacity" : 7629874,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2294,
+      "name" : "颠沛流离",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47604.jpg",
+      "summary" : "二十一世纪的女特工，执行任务时不幸坠落万丈深渊，在之前有过一段刻骨铭心的爱情却没有结果，她很幸运投胎",
+      "updateStatus" : 1,
+      "capacity" : 9907360,
+      "catName" : "历史架空"
+    }, {
+      "id" : 2323,
+      "name" : "旖梦泪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19874.jpg",
+      "summary" : "旖梦泪，旖梦泪……她多么希望这是一场梦，然而真实的发生却不容许她去质疑。转世的轮回里，她因自杀、还情",
+      "updateStatus" : 1,
+      "capacity" : 6908550,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 2075,
+      "name" : "青衣镇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47183.jpg",
+      "summary" : "密闭的木箱从天而降，我来自哪里？青衣如何逃脱姐姐红衣的追杀？张泉灵和青衣是青梅竹马，能否走到最后？红",
+      "updateStatus" : 1,
+      "capacity" : 1642795,
+      "catName" : "古代言情"
+    }, {
+      "id" : 2142,
+      "name" : "修真界疯子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18202.jpg",
+      "summary" : "他是一个小混混更是一个痞子所以千万别用好人的眼光看他，否则你会吃亏的。可这个痞子有一个做人的原则那就",
+      "updateStatus" : 1,
+      "capacity" : 5660868,
+      "catName" : "仙侠修真"
+    }, {
+      "id" : 2218,
+      "name" : "谁欲人王",
+      "coverUrl" : "",
+      "summary" : "懵懂少年,机缘巧合再世为人.异世重生,多经离难,锻其身,练其智,凭借自有超理念与知识闯天下,觅真爱,",
+      "updateStatus" : 1,
+      "capacity" : 3337808,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2865,
+      "name" : "溺宠妖牌王妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44668.jpg",
+      "summary" : "她是穿越而来的腹黑公主，他是冷漠无情的夜国王爷。当腹黑公主遇到冷漠王爷会发生怎样的故事？他对所有人冷",
+      "updateStatus" : 1,
+      "capacity" : 8099503,
+      "catName" : "穿越异界"
+    }, {
+      "id" : 3154,
+      "name" : "体弱多病的魔法师",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17974.jpg",
+      "summary" : "在一个普通的人类难以成为魔法师的世界里，约昂使用了禁忌的魔石，一旦用后就得以使用者自身生命力作为代价",
+      "updateStatus" : 1,
+      "capacity" : 2375723,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2836,
+      "name" : "霸爱总裁：爱妻是无尾熊",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_13950.jpg",
+      "summary" : "骑得了美男，睡得了大树！穿的了小可爱，卖的了无赖功夫。男人男人，我要吃内个绿色植物，狐狸狐狸，我要扯",
+      "updateStatus" : 1,
+      "capacity" : 2240351,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2775,
+      "name" : "实验品女孩的桃花运",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47310.jpg",
+      "summary" : "她是一个异能实验品，成功则活，失败则毁。但她作为最成功的实验品，不仅拥有自己的意识，还向往着普通的生",
+      "updateStatus" : 1,
+      "capacity" : 6745027,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2989,
+      "name" : "恶魔与天使之吻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47756.jpg",
+      "summary" : "李冰是一个一直在孤单的流浪的人，直到她再次回到大学所在的城市，在一副作品面前遇见了慕容白，然后再遇见",
+      "updateStatus" : 1,
+      "capacity" : 6801950,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2605,
+      "name" : "无限之血统",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47225.jpg",
+      "summary" : "“用你们的鲜血，来取悦我吧”它对着所有人奸笑道。“他是不是忘吃药了？”林萧无奈的摆了摆手。“何弃疗！",
+      "updateStatus" : 1,
+      "capacity" : 3440695,
+      "catName" : "玄幻奇幻"
+    }, {
+      "id" : 2435,
+      "name" : "绝世青龙王",
+      "coverUrl" : "",
+      "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容",
+      "updateStatus" : 1,
+      "capacity" : 1648093,
+      "catName" : "都市校园"
+    }, {
+      "id" : 2895,
+      "name" : "暗卫哥哥请爱我",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43959.jpg",
+      "summary" : "一个女穿男爱上面瘫暗卫而努力掰弯面瘫暗卫的故事。国家不止一个我，不会灭。而我只有你一个。如果你希望我",
+      "updateStatus" : 1,
+      "capacity" : 4525889,
+      "catName" : "古代言情"
+    } ]
+  }
+}

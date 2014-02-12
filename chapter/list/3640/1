@@ -1,0 +1,62 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 13,
+    "list" : [ {
+      "id" : 1821,
+      "title" : "第一章 误入冥幻森林",
+      "capacity" : 7493
+    }, {
+      "id" : 1822,
+      "title" : "第二章 遇到竹精",
+      "capacity" : 6512
+    }, {
+      "id" : 1823,
+      "title" : "第三章 桃姬",
+      "capacity" : 7235
+    }, {
+      "id" : 1824,
+      "title" : "第四章 浣冥",
+      "capacity" : 6961
+    }, {
+      "id" : 1825,
+      "title" : "第五章 选择",
+      "capacity" : 6976
+    }, {
+      "id" : 1826,
+      "title" : "第六章 极玉峰",
+      "capacity" : 5484
+    }, {
+      "id" : 1827,
+      "title" : "第七章 金雀",
+      "capacity" : 21350
+    }, {
+      "id" : 1828,
+      "title" : "第八章 下山",
+      "capacity" : 22153
+    }, {
+      "id" : 1829,
+      "title" : "第九章 往生客栈",
+      "capacity" : 36174
+    }, {
+      "id" : 1830,
+      "title" : "第十章 翠香村",
+      "capacity" : 24559
+    }, {
+      "id" : 1831,
+      "title" : "第十一章 水碧",
+      "capacity" : 24284
+    }, {
+      "id" : 1832,
+      "title" : "第十二章 流雨阁",
+      "capacity" : 17904
+    }, {
+      "id" : 1833,
+      "title" : "第十三章 晚溪",
+      "capacity" : 11240
+    } ]
+  }
+}

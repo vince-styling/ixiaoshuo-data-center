@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 3,
+    "totalItemCount" : 118,
+    "list" : [ {
+      "id" : 1408,
+      "title" : "第一章 海源",
+      "capacity" : 10405
+    }, {
+      "id" : 1409,
+      "title" : "第二章 上古遗迹",
+      "capacity" : 9819
+    }, {
+      "id" : 1410,
+      "title" : "第三章 遗迹开启",
+      "capacity" : 10020
+    }, {
+      "id" : 1411,
+      "title" : "第四章 结界",
+      "capacity" : 9654
+    }, {
+      "id" : 1412,
+      "title" : "第五章 剑海阁",
+      "capacity" : 7711
+    }, {
+      "id" : 1413,
+      "title" : "第六章 喷涌的宝泉",
+      "capacity" : 9388
+    }, {
+      "id" : 1414,
+      "title" : "第七章 冲突",
+      "capacity" : 10465
+    }, {
+      "id" : 1415,
+      "title" : "第八章 十招",
+      "capacity" : 9290
+    }, {
+      "id" : 1416,
+      "title" : "第九章 粉色光柱",
+      "capacity" : 10014
+    }, {
+      "id" : 1417,
+      "title" : "第十章 莅临",
+      "capacity" : 9334
+    }, {
+      "id" : 1418,
+      "title" : "第十一章 奇袭",
+      "capacity" : 9637
+    }, {
+      "id" : 1419,
+      "title" : "第十二章 血火晶",
+      "capacity" : 9575
+    }, {
+      "id" : 1420,
+      "title" : "第十三章 天下第一魔晶",
+      "capacity" : 10373
+    }, {
+      "id" : 1421,
+      "title" : "第十四章 崭新的人生",
+      "capacity" : 10274
+    }, {
+      "id" : 1422,
+      "title" : "第十五章 准备",
+      "capacity" : 9651
+    }, {
+      "id" : 1423,
+      "title" : "第十六章 逃遁",
+      "capacity" : 9818
+    }, {
+      "id" : 1424,
+      "title" : "第十七章 危局",
+      "capacity" : 10089
+    }, {
+      "id" : 1425,
+      "title" : "第十八章 魔鲨潮",
+      "capacity" : 10818
+    }, {
+      "id" : 1426,
+      "title" : "第十九章 光阵",
+      "capacity" : 10013
+    }, {
+      "id" : 1427,
+      "title" : "第二十章 萧航",
+      "capacity" : 10772
+    }, {
+      "id" : 1428,
+      "title" : "第二十一章 帝龙",
+      "capacity" : 9631
+    }, {
+      "id" : 1429,
+      "title" : "第二十二章 风剑游龙",
+      "capacity" : 10264
+    }, {
+      "id" : 1430,
+      "title" : "第二十三章 项氏商行",
+      "capacity" : 10453
+    }, {
+      "id" : 1431,
+      "title" : "第二十四章 陆天豪",
+      "capacity" : 10442
+    }, {
+      "id" : 1432,
+      "title" : "第二十五章 一招",
+      "capacity" : 9501
+    }, {
+      "id" : 1433,
+      "title" : "第二十六章 鹤老",
+      "capacity" : 9620
+    }, {
+      "id" : 1434,
+      "title" : "第二十七章 六等炼晶师",
+      "capacity" : 10420
+    }, {
+      "id" : 1435,
+      "title" : "第二十八章 炼晶之道",
+      "capacity" : 10643
+    }, {
+      "id" : 1436,
+      "title" : "第二十九章 狂能晶",
+      "capacity" : 9872
+    }, {
+      "id" : 1437,
+      "title" : "第三十章 突破了",
+      "capacity" : 10802
+    }, {
+      "id" : 1438,
+      "title" : "第三十一章 迪光拍卖会",
+      "capacity" : 10245
+    }, {
+      "id" : 1439,
+      "title" : "第三十二章 生灵丹",
+      "capacity" : 10223
+    }, {
+      "id" : 1440,
+      "title" : "第三十三章 天绝毒，断娇",
+      "capacity" : 10019
+    }, {
+      "id" : 1441,
+      "title" : "第三十四章 神秘小兽",
+      "capacity" : 9608
+    }, {
+      "id" : 1442,
+      "title" : "第三十五章 竞拍",
+      "capacity" : 9537
+    }, {
+      "id" : 1443,
+      "title" : "第三十六章 上天不公",
+      "capacity" : 10143
+    }, {
+      "id" : 1444,
+      "title" : "第三十七章 狂息水",
+      "capacity" : 10137
+    }, {
+      "id" : 1445,
+      "title" : "第三十八章 交换",
+      "capacity" : 9684
+    }, {
+      "id" : 1446,
+      "title" : "第三十九章 黄泉地刀",
+      "capacity" : 9523
+    }, {
+      "id" : 1447,
+      "title" : "第四十章 项阮的实力",
+      "capacity" : 10081
+    }, {
+      "id" : 1448,
+      "title" : "第四十一章 孔渝援手",
+      "capacity" : 10382
+    }, {
+      "id" : 1449,
+      "title" : "第四十二章 追杀",
+      "capacity" : 9116
+    }, {
+      "id" : 1450,
+      "title" : "第四十三章 封印",
+      "capacity" : 10564
+    }, {
+      "id" : 1451,
+      "title" : "第四十四章 湖底宝藏",
+      "capacity" : 9111
+    }, {
+      "id" : 1452,
+      "title" : "第四十五章 御气诀",
+      "capacity" : 10261
+    }, {
+      "id" : 1453,
+      "title" : "第四十六章 再见孔渝",
+      "capacity" : 10459
+    }, {
+      "id" : 1454,
+      "title" : "第四十七章 勾结",
+      "capacity" : 9761
+    }, {
+      "id" : 1455,
+      "title" : "第四十八章 斩金科",
+      "capacity" : 10804
+    }, {
+      "id" : 1456,
+      "title" : "第四十九章 融金之怒",
+      "capacity" : 10450
+    }, {
+      "id" : 1457,
+      "title" : "第五十章 前往项晶族",
+      "capacity" : 9686
+    } ]
+  }
+}

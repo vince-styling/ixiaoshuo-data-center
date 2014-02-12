@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 2566,
+      "title" : "第一章 我叫白日梦·天真",
+      "capacity" : 10093
+    }, {
+      "id" : 2567,
+      "title" : "第二章 这不是招惹",
+      "capacity" : 11315
+    }, {
+      "id" : 2568,
+      "title" : "第三章 但愿不多余",
+      "capacity" : 10793
+    }, {
+      "id" : 2569,
+      "title" : "第四章 家有家的味道（上）",
+      "capacity" : 10300
+    }, {
+      "id" : 2570,
+      "title" : "第五章 家有家的味道（下）",
+      "capacity" : 11284
+    }, {
+      "id" : 2571,
+      "title" : "第六章 你若开口",
+      "capacity" : 9394
+    }, {
+      "id" : 2572,
+      "title" : "第七章 室友",
+      "capacity" : 9412
+    }, {
+      "id" : 2573,
+      "title" : "第八章 你真是一个傻瓜",
+      "capacity" : 12505
+    }, {
+      "id" : 2574,
+      "title" : "第九章 其实我不喜欢这样的自己",
+      "capacity" : 6457
+    }, {
+      "id" : 2575,
+      "title" : "第十章 我该如何去感动",
+      "capacity" : 9835
+    }, {
+      "id" : 2576,
+      "title" : "第十一章 朋友还是敌人",
+      "capacity" : 10034
+    } ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 69,
+    "list" : [ {
+      "id" : 4533,
+      "title" : "上架公告",
+      "capacity" : 2671
+    }, {
+      "id" : 4534,
+      "title" : "序",
+      "capacity" : 4693
+    }, {
+      "id" : 4535,
+      "title" : "初遇",
+      "capacity" : 6286
+    }, {
+      "id" : 4536,
+      "title" : "结识",
+      "capacity" : 5666
+    }, {
+      "id" : 4537,
+      "title" : "模拟考",
+      "capacity" : 4547
+    }, {
+      "id" : 4538,
+      "title" : "惊讶的家教",
+      "capacity" : 6324
+    }, {
+      "id" : 4539,
+      "title" : "惊讶的家教2",
+      "capacity" : 4497
+    }, {
+      "id" : 4540,
+      "title" : "期末考试",
+      "capacity" : 7949
+    }, {
+      "id" : 4541,
+      "title" : "暑假的亦玩亦学",
+      "capacity" : 5302
+    }, {
+      "id" : 4542,
+      "title" : "暑假的亦玩亦学2",
+      "capacity" : 6111
+    }, {
+      "id" : 4543,
+      "title" : "新学期的转学生",
+      "capacity" : 5283
+    }, {
+      "id" : 4544,
+      "title" : "第一次风波",
+      "capacity" : 5380
+    }, {
+      "id" : 4545,
+      "title" : "新学期第一次测验",
+      "capacity" : 5205
+    }, {
+      "id" : 4546,
+      "title" : "意外",
+      "capacity" : 4796
+    }, {
+      "id" : 4547,
+      "title" : "意外2",
+      "capacity" : 4927
+    }, {
+      "id" : 4548,
+      "title" : "意外3",
+      "capacity" : 4505
+    }, {
+      "id" : 4549,
+      "title" : "林青家的一夜",
+      "capacity" : 4532
+    }, {
+      "id" : 4550,
+      "title" : "改变",
+      "capacity" : 4443
+    }, {
+      "id" : 4551,
+      "title" : "端午的意外",
+      "capacity" : 5199
+    }, {
+      "id" : 4552,
+      "title" : "复发",
+      "capacity" : 4803
+    }, {
+      "id" : 4553,
+      "title" : "恶化",
+      "capacity" : 4112
+    }, {
+      "id" : 4554,
+      "title" : "惊现！师冰基的妈妈",
+      "capacity" : 3967
+    }, {
+      "id" : 4555,
+      "title" : "出院后生活",
+      "capacity" : 4197
+    }, {
+      "id" : 4556,
+      "title" : "吃醋",
+      "capacity" : 3944
+    }, {
+      "id" : 4557,
+      "title" : "祸不单行",
+      "capacity" : 3737
+    }, {
+      "id" : 4558,
+      "title" : "急救",
+      "capacity" : 4271
+    }, {
+      "id" : 4559,
+      "title" : "又现师冰基母亲",
+      "capacity" : 5652
+    }, {
+      "id" : 4560,
+      "title" : "悄然的离开",
+      "capacity" : 4004
+    }, {
+      "id" : 4561,
+      "title" : "调皮与捣蛋",
+      "capacity" : 4087
+    }, {
+      "id" : 4562,
+      "title" : "康复的迹象",
+      "capacity" : 3668
+    }, {
+      "id" : 4563,
+      "title" : "回忆",
+      "capacity" : 4177
+    }, {
+      "id" : 4564,
+      "title" : "番外-01 访问开胃陈",
+      "capacity" : 3289
+    }, {
+      "id" : 4565,
+      "title" : "K歌大赛",
+      "capacity" : 3631
+    }, {
+      "id" : 4566,
+      "title" : "K歌大赛2",
+      "capacity" : 3567
+    }, {
+      "id" : 4567,
+      "title" : "K歌大赛3",
+      "capacity" : 4059
+    }, {
+      "id" : 4568,
+      "title" : "预赛分牌号",
+      "capacity" : 4118
+    }, {
+      "id" : 4569,
+      "title" : "预赛前的最后一次聚会",
+      "capacity" : 6781
+    }, {
+      "id" : 4570,
+      "title" : "预赛前的最后一次聚会2",
+      "capacity" : 5282
+    }, {
+      "id" : 4571,
+      "title" : "预赛",
+      "capacity" : 5561
+    }, {
+      "id" : 4572,
+      "title" : "预赛2",
+      "capacity" : 6276
+    }, {
+      "id" : 4573,
+      "title" : "预赛3",
+      "capacity" : 6856
+    }, {
+      "id" : 4574,
+      "title" : "预赛4",
+      "capacity" : 3049
+    }, {
+      "id" : 4575,
+      "title" : "预赛结果",
+      "capacity" : 4911
+    }, {
+      "id" : 4576,
+      "title" : "复赛",
+      "capacity" : 4170
+    }, {
+      "id" : 4577,
+      "title" : "复赛2",
+      "capacity" : 4403
+    }, {
+      "id" : 4578,
+      "title" : "复赛3",
+      "capacity" : 4129
+    }, {
+      "id" : 4579,
+      "title" : "复赛4",
+      "capacity" : 4129
+    }, {
+      "id" : 4580,
+      "title" : "复赛5",
+      "capacity" : 3358
+    }, {
+      "id" : 4581,
+      "title" : "复赛6",
+      "capacity" : 3995
+    }, {
+      "id" : 4582,
+      "title" : "复赛7",
+      "capacity" : 4557
+    } ]
+  }
+}

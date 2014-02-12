@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 4442,
+      "title" : "第051章 《霸王戟》",
+      "capacity" : 6392
+    }, {
+      "id" : 4443,
+      "title" : "第052章 消除记忆",
+      "capacity" : 6488
+    }, {
+      "id" : 4444,
+      "title" : "第053章 混乱的某男生宿舍",
+      "capacity" : 6574
+    }, {
+      "id" : 4445,
+      "title" : "第054章 杉林对话",
+      "capacity" : 6230
+    } ]
+  }
+}

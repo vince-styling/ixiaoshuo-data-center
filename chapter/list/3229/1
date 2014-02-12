@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 2014,
+      "title" : "引子",
+      "capacity" : 6154
+    }, {
+      "id" : 2015,
+      "title" : "第一章",
+      "capacity" : 2883
+    }, {
+      "id" : 2016,
+      "title" : "第二章",
+      "capacity" : 2128
+    }, {
+      "id" : 2017,
+      "title" : "第三章",
+      "capacity" : 2960
+    }, {
+      "id" : 2018,
+      "title" : "第四章",
+      "capacity" : 3043
+    } ]
+  }
+}

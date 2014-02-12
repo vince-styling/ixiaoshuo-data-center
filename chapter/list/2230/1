@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 12,
+    "list" : [ {
+      "id" : 1991,
+      "title" : "第一章：穿越嫁人",
+      "capacity" : 5531
+    }, {
+      "id" : 1992,
+      "title" : "世界等级",
+      "capacity" : 4889
+    }, {
+      "id" : 1993,
+      "title" : "第二章：被贬为妾",
+      "capacity" : 6277
+    }, {
+      "id" : 1994,
+      "title" : "第三章：紫魅郡主",
+      "capacity" : 4063
+    }, {
+      "id" : 1995,
+      "title" : "第四章：前往圣月",
+      "capacity" : 4618
+    }, {
+      "id" : 1996,
+      "title" : "第五章：绝命暗杀",
+      "capacity" : 3667
+    }, {
+      "id" : 1997,
+      "title" : "第六章：曼珠骨戒",
+      "capacity" : 5534
+    }, {
+      "id" : 1998,
+      "title" : "第七章：血殇尊者",
+      "capacity" : 7522
+    }, {
+      "id" : 1999,
+      "title" : "第八章：两年岁月",
+      "capacity" : 3465
+    }, {
+      "id" : 2000,
+      "title" : "第九章：菩提盛宴",
+      "capacity" : 12651
+    }, {
+      "id" : 2001,
+      "title" : "第十章：才艺惊人",
+      "capacity" : 11677
+    }, {
+      "id" : 2002,
+      "title" : "第十一章：比武胜利",
+      "capacity" : 7361
+    } ]
+  }
+}

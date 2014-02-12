@@ -1,0 +1,54 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 11,
+    "list" : [ {
+      "id" : 2746,
+      "title" : "序章",
+      "capacity" : 3174
+    }, {
+      "id" : 2747,
+      "title" : "第一章 刺杀",
+      "capacity" : 8481
+    }, {
+      "id" : 2748,
+      "title" : "第二章 肖不凡",
+      "capacity" : 9407
+    }, {
+      "id" : 2749,
+      "title" : "第三章 算卦",
+      "capacity" : 9417
+    }, {
+      "id" : 2750,
+      "title" : "第四章 善恶",
+      "capacity" : 8866
+    }, {
+      "id" : 2751,
+      "title" : "第五章 他的决定",
+      "capacity" : 8585
+    }, {
+      "id" : 2752,
+      "title" : "第六章 提防",
+      "capacity" : 9119
+    }, {
+      "id" : 2753,
+      "title" : "第七章 四海宴",
+      "capacity" : 9624
+    }, {
+      "id" : 2754,
+      "title" : "第八章 无题",
+      "capacity" : 8534
+    }, {
+      "id" : 2755,
+      "title" : "第九章 略显端倪",
+      "capacity" : 9817
+    }, {
+      "id" : 2756,
+      "title" : "第十章 再遇素手",
+      "capacity" : 6236
+    } ]
+  }
+}

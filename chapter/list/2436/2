@@ -1,0 +1,14 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 51,
+    "list" : [ {
+      "id" : 2091,
+      "title" : "纳尼！高校界老大玩转商场",
+      "capacity" : 3328
+    } ]
+  }
+}

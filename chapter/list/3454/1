@@ -1,0 +1,50 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 10,
+    "list" : [ {
+      "id" : 1620,
+      "title" : "一、 隐藏初心",
+      "capacity" : 6258
+    }, {
+      "id" : 1621,
+      "title" : "二、逃跑",
+      "capacity" : 4491
+    }, {
+      "id" : 1622,
+      "title" : "三、当我老大",
+      "capacity" : 5343
+    }, {
+      "id" : 1623,
+      "title" : "（四）北京、北京",
+      "capacity" : 6943
+    }, {
+      "id" : 1624,
+      "title" : "（五）人齐了",
+      "capacity" : 4161
+    }, {
+      "id" : 1625,
+      "title" : "（六）学妹，我们认识",
+      "capacity" : 6380
+    }, {
+      "id" : 1626,
+      "title" : "（七）踊跃参加",
+      "capacity" : 10098
+    }, {
+      "id" : 1627,
+      "title" : "（八）抽签",
+      "capacity" : 4961
+    }, {
+      "id" : 1628,
+      "title" : "（九）决赛",
+      "capacity" : 9643
+    }, {
+      "id" : 1629,
+      "title" : "(十)蝴蝶飞舞",
+      "capacity" : 9198
+    } ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 14,
+    "list" : [ {
+      "id" : 2396,
+      "title" : "引子",
+      "capacity" : 2410
+    }, {
+      "id" : 2397,
+      "title" : "逼婚",
+      "capacity" : 9470
+    }, {
+      "id" : 2398,
+      "title" : "拜堂",
+      "capacity" : 9463
+    }, {
+      "id" : 2399,
+      "title" : "洞房",
+      "capacity" : 8834
+    }, {
+      "id" : 2400,
+      "title" : "会亲",
+      "capacity" : 10135
+    }, {
+      "id" : 2401,
+      "title" : "佛经",
+      "capacity" : 8770
+    }, {
+      "id" : 2402,
+      "title" : "失约",
+      "capacity" : 8843
+    }, {
+      "id" : 2403,
+      "title" : "侮辱",
+      "capacity" : 9835
+    }, {
+      "id" : 2404,
+      "title" : "美人",
+      "capacity" : 9136
+    }, {
+      "id" : 2405,
+      "title" : "回宫",
+      "capacity" : 9703
+    }, {
+      "id" : 2406,
+      "title" : "再遇",
+      "capacity" : 9564
+    }, {
+      "id" : 2407,
+      "title" : "李裕",
+      "capacity" : 8960
+    }, {
+      "id" : 2408,
+      "title" : "华清",
+      "capacity" : 9935
+    }, {
+      "id" : 2409,
+      "title" : "夜市",
+      "capacity" : 10121
+    } ]
+  }
+}

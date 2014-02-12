@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 4627,
+      "title" : "浪漫游乐园",
+      "capacity" : 4659
+    }, {
+      "id" : 4628,
+      "title" : "渐变回忆",
+      "capacity" : 5063
+    }, {
+      "id" : 4629,
+      "title" : "只是一个梦",
+      "capacity" : 3625
+    }, {
+      "id" : 4630,
+      "title" : "缺了你，真的好痛",
+      "capacity" : 7049
+    }, {
+      "id" : 4631,
+      "title" : "熟悉的温暖",
+      "capacity" : 3286
+    } ]
+  }
+}

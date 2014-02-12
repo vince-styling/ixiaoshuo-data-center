@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 9,
+    "list" : [ {
+      "id" : 2223,
+      "title" : "chapter 1 相遇",
+      "capacity" : 6045
+    }, {
+      "id" : 2224,
+      "title" : "chapter 2 人蛇",
+      "capacity" : 11479
+    }, {
+      "id" : 2225,
+      "title" : "chapter 3 蔷薇",
+      "capacity" : 3864
+    }, {
+      "id" : 2226,
+      "title" : "chapter 4 桦仁",
+      "capacity" : 4600
+    }, {
+      "id" : 2227,
+      "title" : "chapter 5 故事",
+      "capacity" : 10077
+    }, {
+      "id" : 2228,
+      "title" : "chapter 6 变故",
+      "capacity" : 7505
+    }, {
+      "id" : 2229,
+      "title" : "chapter 7 实验",
+      "capacity" : 6503
+    }, {
+      "id" : 2230,
+      "title" : "chapter 8 转变",
+      "capacity" : 9767
+    }, {
+      "id" : 2231,
+      "title" : "chapter 9 荒月",
+      "capacity" : 12635
+    } ]
+  }
+}

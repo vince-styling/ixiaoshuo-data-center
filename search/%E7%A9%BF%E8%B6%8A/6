@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 6,
+    "totalPageCount" : 12,
+    "totalItemCount" : 240,
+    "list" : [ {
+      "id" : 2296,
+      "name" : "梦穿康熙换乾坤",
+      "author" : "弘毅·知难",
+      "summary" : "梦穿康熙朝，勉力换乾坤！一个普通的当代公务员，混迹职场，感悟爱情，却横遭变数——一场大梦，醒来被穿越",
+      "updateStatus" : 1,
+      "catName" : "历史架空",
+      "capacity" : 4303360,
+      "coverUrl" : null
+    }, {
+      "id" : 3267,
+      "name" : "穿越之花本纯粹",
+      "author" : "昔年烟雨",
+      "summary" : "在一次意外，我来到了一个陌生的国度，老天让我遇到了和你长相相同的男子，这是命运的抉择，还是老天又一次",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 241730,
+      "coverUrl" : null
+    }, {
+      "id" : 2732,
+      "name" : "至死不渝之搞怪王妃",
+      "author" : "雪紫紫xy",
+      "summary" : "她，二十一世纪的超能才女，武术联盟的总冠军，竟在领奖时被一不明飞行物给砸穿越了，哎，叫她情以何堪不在",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 4336962,
+      "coverUrl" : null
+    }, {
+      "id" : 2280,
+      "name" : "金玉奇缘：暴戾王爷的冷情妃",
+      "author" : "雨中蔷薇",
+      "summary" : "欧阳雪琪因屡次相亲失败，被父亲逼迫嫁给了自己讨厌的对象，在结婚当天遭炸雷袭击，穿越到了古代，原以为可",
+      "updateStatus" : 1,
+      "catName" : "历史架空",
+      "capacity" : 9370555,
+      "coverUrl" : null
+    }, {
+      "id" : 2932,
+      "name" : "肥妞翻身之痴心错付",
+      "author" : "草木君",
+      "summary" : "难道，我穿越了？站在铜镜前，我终于看到了那个叫“如春”的真身，FUCK，这尼妈是闹哪样？还让不让人接",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 3184432,
+      "coverUrl" : null
+    }, {
+      "id" : 2113,
+      "name" : "战神王爷狂妄妃",
+      "author" : "安若夏",
+      "summary" : "【红尘初妆，山河无疆，命格无双】她，黑道枭雄，生杀予夺，惊才绝艳。他，战神王爷，杀伐决断,翻手为云，",
+      "updateStatus" : 2,
+      "catName" : "穿越异界",
+      "capacity" : 8073814,
+      "coverUrl" : null
+    }, {
+      "id" : 2299,
+      "name" : "冷宫太子妃：殿下，别乱来",
+      "author" : "背对藏镜人",
+      "summary" : "【孙家传奇】第一部穿越？不稀奇。替嫁？不稀奇。皇妃？也不稀奇。但天杀的为啥她遇上稀奇的太子殿下住冷宫",
+      "updateStatus" : 2,
+      "catName" : "穿越异界",
+      "capacity" : 2633957,
+      "coverUrl" : null
+    }, {
+      "id" : 2769,
+      "name" : "穿越清朝之蓦然回首",
+      "author" : "喜晴天",
+      "summary" : "不经意间的穿越，演绎了一段让人心动的故事。生活在21世纪的栗夏儿,穿梭在茫茫人海之中,曾经对爱充满幻",
+      "updateStatus" : 1,
+      "catName" : "古代言情",
+      "capacity" : 1034754,
+      "coverUrl" : null
+    }, {
+      "id" : 2053,
+      "name" : "古堡游戏：吸血恶魔别过来",
+      "author" : "九香",
+      "summary" : "她裴乐乐自问也没做过什么亏心事，好不容易活到这么大，怎么就莫名其妙的穿越了呢？谁来告诉她，为什么会有",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 3154949,
+      "coverUrl" : null
+    }, {
+      "id" : 2178,
+      "name" : "穿越之朔月传奇",
+      "author" : "暗夜无霜",
+      "summary" : "一场车祸就那样结束了云枫悲催的人生，在好心的鬼差的帮衬下她穿越来到了金盛帝国开始她新的生活。对于萧朔",
+      "updateStatus" : 1,
+      "catName" : "古代言情",
+      "capacity" : 1891698,
+      "coverUrl" : null
+    }, {
+      "id" : 2362,
+      "name" : "青春小夜曲",
+      "author" : "婠婠",
+      "summary" : "高中学生赵小碗，获得神秘人指引，修炼长生，只要获得感人动听的故事，便能长生。她收集的故事有奇幻的梦中",
+      "updateStatus" : 2,
+      "catName" : "幻想耽美",
+      "capacity" : 3275596,
+      "coverUrl" : null
+    }, {
+      "id" : 2252,
+      "name" : "弃妃之笑看人生一世风流",
+      "author" : "画意诗情带笑意",
+      "summary" : "穿越成一个可有可无的王妃，所谓的夫君根本就忘了自己的存在，妙！于是每天化妆成丫鬟左逛逛，右逛逛，逛出",
+      "updateStatus" : 2,
+      "catName" : "历史架空",
+      "capacity" : 8664951,
+      "coverUrl" : null
+    }, {
+      "id" : 2946,
+      "name" : "穿得人情",
+      "author" : "尹茉",
+      "summary" : "作品简介作品信息“小丫头，你听着，不管你是谁，又有何目的。从现在开始，你是我的，也只能是我的，哪也别",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 7653560,
+      "coverUrl" : null
+    }, {
+      "id" : 3029,
+      "name" : "双女穿越记",
+      "author" : "樱梓汐",
+      "summary" : "话说这年头人人玩穿越，车祸穿、跳楼穿、雷劈穿.....总之是因有尽有，无奇不有。但是咱们可不同，是跟",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 4541191,
+      "coverUrl" : null
+    }, {
+      "id" : 3444,
+      "name" : "童星穿越记",
+      "author" : "爱の雨",
+      "summary" : "作品原名是【童星穿越记：在古代也散发光芒】的可是字数太多，只好改成【童星穿越记】了希望大家喜欢“可是",
+      "updateStatus" : 1,
+      "catName" : "历史架空",
+      "capacity" : 1105898,
+      "coverUrl" : null
+    }, {
+      "id" : 2118,
+      "name" : "替身美妃休想逃",
+      "author" : "月满西楼",
+      "summary" : "她，一朝穿越，成为皇帝最受宠爱的梅妃娘娘。只是，为何这宠冠六宫的娘娘竟然还是完璧之身！那风流天子狠辣",
+      "updateStatus" : 2,
+      "catName" : "穿越异界",
+      "capacity" : 4908770,
+      "coverUrl" : null
+    }, {
+      "id" : 2707,
+      "name" : "噬魂特种兵：浴火霸天下",
+      "author" : "漠尘镜",
+      "summary" : "她本是某特种部队的女特种兵，代号哑雀，刚刚才通过特种兵的考核，早就做好了随时为祖国献身的准备，不过因",
+      "updateStatus" : 1,
+      "catName" : "玄幻奇幻",
+      "capacity" : 4038073,
+      "coverUrl" : null
+    }, {
+      "id" : 2581,
+      "name" : "月上梨花白",
+      "author" : "木桥禾",
+      "summary" : "一朝穿越，暗波横流。他是慕国的三殿下，白衣翩翩，温文尔雅。一见钟情，两相利用，她为他甘心逆天而行，却",
+      "updateStatus" : 1,
+      "catName" : "穿越异界",
+      "capacity" : 8961257,
+      "coverUrl" : null
+    }, {
+      "id" : 2598,
+      "name" : "穿越之瑶禛馨",
+      "author" : "蜜兮薇",
+      "summary" : "某月黑风高夜。两人的夜间活动只差最后一步了，可希瑶总是推三阻四的不让胤禛继续，咱们四爷顿时怒了。他喘",
+      "updateStatus" : 1,
+      "catName" : "历史架空",
+      "capacity" : 1734847,
+      "coverUrl" : null
+    }, {
+      "id" : 2255,
+      "name" : "穿越之我的儿子是弘昼",
+      "author" : "贝西西",
+      "summary" : "一个是从三百多年后穿越而来的现代女子，成为雍正的小妾，拥有了自己渴望多年的儿子，她为什么会被康熙和雍",
+      "updateStatus" : 2,
+      "catName" : "历史架空",
+      "capacity" : 3903302,
+      "coverUrl" : null
+    } ]
+  }
+}

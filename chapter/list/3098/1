@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 2702,
+      "title" : "第一章：屈辱",
+      "capacity" : 8955
+    }, {
+      "id" : 2703,
+      "title" : "第二章：这是属于你的传承",
+      "capacity" : 6162
+    }, {
+      "id" : 2704,
+      "title" : "第三章：肉身九重又如何",
+      "capacity" : 7401
+    }, {
+      "id" : 2705,
+      "title" : "第四章：一个必杀的机会",
+      "capacity" : 6558
+    } ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 17,
+    "list" : [ {
+      "id" : 4573,
+      "title" : "初见",
+      "capacity" : 3154
+    }, {
+      "id" : 4574,
+      "title" : "报到",
+      "capacity" : 4823
+    }, {
+      "id" : 4575,
+      "title" : "八卦",
+      "capacity" : 3845
+    }, {
+      "id" : 4576,
+      "title" : "谈心",
+      "capacity" : 5714
+    }, {
+      "id" : 4577,
+      "title" : "再遇",
+      "capacity" : 5811
+    }, {
+      "id" : 4578,
+      "title" : "救美",
+      "capacity" : 5341
+    }, {
+      "id" : 4579,
+      "title" : "隐情",
+      "capacity" : 9981
+    }, {
+      "id" : 4580,
+      "title" : "大华",
+      "capacity" : 10775
+    }, {
+      "id" : 4581,
+      "title" : "独处",
+      "capacity" : 10612
+    }, {
+      "id" : 4582,
+      "title" : "真情",
+      "capacity" : 12253
+    }, {
+      "id" : 4583,
+      "title" : "病历",
+      "capacity" : 9833
+    }, {
+      "id" : 4584,
+      "title" : "夜晚",
+      "capacity" : 9152
+    }, {
+      "id" : 4585,
+      "title" : "噩耗",
+      "capacity" : 7493
+    }, {
+      "id" : 4586,
+      "title" : "摊牌",
+      "capacity" : 11251
+    }, {
+      "id" : 4587,
+      "title" : "锋芒",
+      "capacity" : 9541
+    }, {
+      "id" : 4588,
+      "title" : "情定",
+      "capacity" : 11723
+    }, {
+      "id" : 4589,
+      "title" : "共枕",
+      "capacity" : 9746
+    } ]
+  }
+}

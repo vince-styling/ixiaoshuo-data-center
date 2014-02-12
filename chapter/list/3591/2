@@ -1,0 +1,86 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 69,
+    "list" : [ {
+      "id" : 1622,
+      "title" : "chapter【51】茶楼的谈判",
+      "capacity" : 9561
+    }, {
+      "id" : 1623,
+      "title" : "chapter【52】重要的决定",
+      "capacity" : 9110
+    }, {
+      "id" : 1624,
+      "title" : "chapter【53】群起而攻之",
+      "capacity" : 8955
+    }, {
+      "id" : 1625,
+      "title" : "chapter【54】你让我流泪",
+      "capacity" : 9254
+    }, {
+      "id" : 1626,
+      "title" : "chapter【55】你让我心碎",
+      "capacity" : 9240
+    }, {
+      "id" : 1627,
+      "title" : "chapter【56】消失的祁祁",
+      "capacity" : 9134
+    }, {
+      "id" : 1628,
+      "title" : "chapter【57】你到底在哪儿",
+      "capacity" : 8802
+    }, {
+      "id" : 1629,
+      "title" : "chapter【58】不能说再见",
+      "capacity" : 8779
+    }, {
+      "id" : 1630,
+      "title" : "chapter【59】谭美炎打人",
+      "capacity" : 8782
+    }, {
+      "id" : 1631,
+      "title" : "chapter【60】神抢手家族",
+      "capacity" : 9866
+    }, {
+      "id" : 1632,
+      "title" : "chapter【61】游戏房偶遇",
+      "capacity" : 8913
+    }, {
+      "id" : 1633,
+      "title" : "chapter【62】灭族赛开打",
+      "capacity" : 9512
+    }, {
+      "id" : 1634,
+      "title" : "chapter【63】祁祁的生日",
+      "capacity" : 9205
+    }, {
+      "id" : 1635,
+      "title" : "chapter【64】厕所的激情",
+      "capacity" : 9093
+    }, {
+      "id" : 1636,
+      "title" : "chapter【65】小羊住院了",
+      "capacity" : 9280
+    }, {
+      "id" : 1637,
+      "title" : "chapter【66】病床大结局",
+      "capacity" : 9111
+    }, {
+      "id" : 1638,
+      "title" : "番外【一】",
+      "capacity" : 7308
+    }, {
+      "id" : 1639,
+      "title" : "番外【二】",
+      "capacity" : 2705
+    }, {
+      "id" : 1640,
+      "title" : "番外【三】",
+      "capacity" : 2731
+    } ]
+  }
+}

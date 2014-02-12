@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 4629,
+      "title" : "锋芒毕露",
+      "capacity" : 7073
+    }, {
+      "id" : 4630,
+      "title" : "她吻到嘴巴上了",
+      "capacity" : 6621
+    }, {
+      "id" : 4631,
+      "title" : "上架公告和Vip章节剧情介绍",
+      "capacity" : 1227
+    } ]
+  }
+}

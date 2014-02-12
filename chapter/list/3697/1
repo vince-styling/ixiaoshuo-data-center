@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 3042,
+      "title" : "第一章：父亲",
+      "capacity" : 3454
+    }, {
+      "id" : 3043,
+      "title" : "第二章：条件",
+      "capacity" : 3525
+    }, {
+      "id" : 3044,
+      "title" : "第三章：电话",
+      "capacity" : 3177
+    }, {
+      "id" : 3045,
+      "title" : "第四章：温情",
+      "capacity" : 3026
+    } ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 4989,
+      "title" : "作者想要说的话",
+      "capacity" : 1064
+    }, {
+      "id" : 4990,
+      "title" : "第一章 我是混混",
+      "capacity" : 3500
+    }, {
+      "id" : 4991,
+      "title" : "第二章 进入部队",
+      "capacity" : 6632
+    }, {
+      "id" : 4992,
+      "title" : "第三章 看谁整谁",
+      "capacity" : 3434
+    }, {
+      "id" : 4993,
+      "title" : "第四章 秘密计划",
+      "capacity" : 5437
+    }, {
+      "id" : 4994,
+      "title" : "第五章 搞定事情",
+      "capacity" : 5452
+    }, {
+      "id" : 4995,
+      "title" : "第六章 完善设施",
+      "capacity" : 4709
+    }, {
+      "id" : 4996,
+      "title" : "第七章 遇到杀手",
+      "capacity" : 4883
+    }, {
+      "id" : 4997,
+      "title" : "第八章 难免受挫",
+      "capacity" : 4119
+    }, {
+      "id" : 4998,
+      "title" : "第九章 文哥失忆",
+      "capacity" : 3219
+    }, {
+      "id" : 4999,
+      "title" : "第十章 医生绝望",
+      "capacity" : 4267
+    }, {
+      "id" : 5000,
+      "title" : "第十一章 文哥康复",
+      "capacity" : 3449
+    }, {
+      "id" : 5001,
+      "title" : "第十二章 欺人太甚",
+      "capacity" : 3749
+    }, {
+      "id" : 5002,
+      "title" : "第十三章 开始反击",
+      "capacity" : 4333
+    }, {
+      "id" : 5003,
+      "title" : "第十四章 不比人数",
+      "capacity" : 5692
+    }, {
+      "id" : 5004,
+      "title" : "第十五章 审问色子",
+      "capacity" : 3538
+    }, {
+      "id" : 5005,
+      "title" : "第十六章 帮派瓦解",
+      "capacity" : 3757
+    }, {
+      "id" : 5006,
+      "title" : "第十七章 紧急逃离",
+      "capacity" : 4323
+    }, {
+      "id" : 5007,
+      "title" : "第十八章 学习生涯",
+      "capacity" : 3798
+    }, {
+      "id" : 5008,
+      "title" : "第十九章 学校生活",
+      "capacity" : 3512
+    }, {
+      "id" : 5009,
+      "title" : "第二十章 不可思议",
+      "capacity" : 3467
+    }, {
+      "id" : 5010,
+      "title" : "第二十一章 开始干架",
+      "capacity" : 4365
+    }, {
+      "id" : 5011,
+      "title" : "第二十二章 开始行动",
+      "capacity" : 3407
+    }, {
+      "id" : 5012,
+      "title" : "第二十三章 卷土归来",
+      "capacity" : 3999
+    }, {
+      "id" : 5013,
+      "title" : "第二十四章 开始群斗",
+      "capacity" : 4242
+    }, {
+      "id" : 5014,
+      "title" : "第二十五章 称霸一方",
+      "capacity" : 3390
+    }, {
+      "id" : 5015,
+      "title" : "第二十六章 我是文哥",
+      "capacity" : 3337
+    }, {
+      "id" : 5016,
+      "title" : "第二十七章 帮派挑衅",
+      "capacity" : 3709
+    }, {
+      "id" : 5017,
+      "title" : "第二十八章 出谋划策",
+      "capacity" : 3864
+    }, {
+      "id" : 5018,
+      "title" : "第二十九章 全部解决",
+      "capacity" : 3638
+    }, {
+      "id" : 5019,
+      "title" : "第三十章 帮战开始",
+      "capacity" : 3758
+    }, {
+      "id" : 5020,
+      "title" : "第三十一章 只剩一个",
+      "capacity" : 3492
+    }, {
+      "id" : 5021,
+      "title" : "第三十二章 收到巨款",
+      "capacity" : 3129
+    }, {
+      "id" : 5022,
+      "title" : "第三十三章 赶出居民",
+      "capacity" : 3562
+    }, {
+      "id" : 5023,
+      "title" : "第三十四章 重返校园",
+      "capacity" : 3568
+    }, {
+      "id" : 5024,
+      "title" : "第三十五章 独霸校园",
+      "capacity" : 3436
+    }, {
+      "id" : 5025,
+      "title" : "第三十六章 威胁校长",
+      "capacity" : 4029
+    }, {
+      "id" : 5026,
+      "title" : "第三十七章 全体群殴",
+      "capacity" : 3494
+    }, {
+      "id" : 5027,
+      "title" : "第三十八章 碰到怪人",
+      "capacity" : 2992
+    }, {
+      "id" : 5028,
+      "title" : "第三十九章 神秘古球",
+      "capacity" : 3182
+    }, {
+      "id" : 5029,
+      "title" : "第四十章 回忆往事",
+      "capacity" : 3344
+    }, {
+      "id" : 5030,
+      "title" : "第四十一章 大闹商场",
+      "capacity" : 4025
+    }, {
+      "id" : 5031,
+      "title" : "第四十二章 帮助小偷",
+      "capacity" : 3855
+    }, {
+      "id" : 5032,
+      "title" : "第四十三章 酒吧之乱",
+      "capacity" : 4062
+    }, {
+      "id" : 5033,
+      "title" : "第四十四章 小赚一笔",
+      "capacity" : 3518
+    }, {
+      "id" : 5034,
+      "title" : "第四十五章 再获金钱",
+      "capacity" : 3272
+    }, {
+      "id" : 5035,
+      "title" : "第四十六章 杀人任务",
+      "capacity" : 3473
+    }, {
+      "id" : 5036,
+      "title" : "第四十七章 不知所措",
+      "capacity" : 3360
+    }, {
+      "id" : 5037,
+      "title" : "第四十八章这是什么",
+      "capacity" : 3620
+    }, {
+      "id" : 5038,
+      "title" : "第四十九章 心中有数",
+      "capacity" : 4076
+    } ]
+  }
+}

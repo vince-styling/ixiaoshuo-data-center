@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 76,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 3535,
+      "name" : "冥空以月",
+      "summary" : "我叫黄彦言，在我暂时还不清楚自己的未来时，我还叫黄彦言，这是我的故事，不知是不是我的故事。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41595.jpg",
+      "updateStatus" : 1,
+      "capacity" : 300560,
+      "lastUpdateTime" : "2013-11-24 01:32:49"
+    }, {
+      "id" : 2094,
+      "name" : "孽情殇",
+      "summary" : "她，如空谷幽兰，唯愿所系之人平安康健，却卷入一系列江湖争斗，身不由己。身负血海深仇，不得不与所爱之人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42631.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1841258,
+      "lastUpdateTime" : "2013-11-24 00:22:05"
+    }, {
+      "id" : 2694,
+      "name" : "安有斯君待何年",
+      "summary" : "因为不怕被他讨厌，所以抢走他的女朋友，因为怕被他讨厌，所以在那之后离他离得远远的。五年的时间用来忘掉",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43524.jpg",
+      "updateStatus" : 2,
+      "capacity" : 6066295,
+      "lastUpdateTime" : "2013-11-24 00:20:59"
+    }, {
+      "id" : 3170,
+      "name" : "哥哥，我愿为你染红这个世界",
+      "summary" : "“是呀，哥哥这些人都是我杀的，谁让他们敢染指我最爱的哥哥呢？”少女微笑着看着少年，如天真孩童一般，他",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46718.jpg",
+      "updateStatus" : 1,
+      "capacity" : 163163,
+      "lastUpdateTime" : "2013-11-23 23:49:54"
+    }, {
+      "id" : 2639,
+      "name" : "来不及说出口的爱",
+      "summary" : "是前世犯下的错还是这本就是孽缘，本来就是青梅竹马的两人为何会发展成现在这个样子，相见不相识，相遇不相",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47463.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6909384,
+      "lastUpdateTime" : "2013-11-23 23:38:04"
+    }, {
+      "id" : 2361,
+      "name" : "豪门溺爱：一追到底",
+      "summary" : "女孩大胆的指着另一个女孩问道：“你敢要我么？娶我如何？”另一女孩胆怯的望着她：“娶你是什么意思？”女",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20148.jpg",
+      "updateStatus" : 2,
+      "capacity" : 8654704,
+      "lastUpdateTime" : "2013-11-23 22:01:36"
+    }, {
+      "id" : 2727,
+      "name" : "无奸不商",
+      "summary" : "她穿了，因为一个不太好启齿的原因。尼玛，怎么不好启齿了，只不过是因为几个套套，哪里有暧昧，哪里有□的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47144.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8221278,
+      "lastUpdateTime" : "2013-11-23 21:32:18"
+    }, {
+      "id" : 2887,
+      "name" : "文飞絮飏",
+      "summary" : "穿越前，她是医药界的新星，却因为家庭问题、情感纠葛魂穿异域；穿越后，相同的医学世家，不同的是，没有了",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45345.jpg",
+      "updateStatus" : 1,
+      "capacity" : 8972729,
+      "lastUpdateTime" : "2013-11-23 21:10:38"
+    }, {
+      "id" : 3076,
+      "name" : "豪门相公：我们圆房吧",
+      "summary" : "古代穿越到现代，惊慌、无措的时候，他满脸的疼惜，说：“有我，一切都不用怕。”不过外出一趟，从不见媒体",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22505.jpg",
+      "updateStatus" : 1,
+      "capacity" : 13682,
+      "lastUpdateTime" : "2013-11-23 20:53:52"
+    }, {
+      "id" : 2409,
+      "name" : "异世界的盛宴",
+      "summary" : "卷一转学的第一天，她被神秘的面具男引到了被学院视为禁地枫林里。第一面见到他，却被他的“美貌”迷惑，在",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22328.jpg",
+      "updateStatus" : 1,
+      "capacity" : 4472239,
+      "lastUpdateTime" : "2013-11-23 20:44:11"
+    }, {
+      "id" : 2173,
+      "name" : "西游前传：天上掉下个沙和尚",
+      "summary" : "颠覆你观念的西游前传横空来袭，一个贯穿500年的跌宕起伏！谁说沙僧注定屌丝命？一个成天捧着锅碗瓢盆讲",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20149.jpg",
+      "updateStatus" : 1,
+      "capacity" : 1279690,
+      "lastUpdateTime" : "2013-11-23 20:22:30"
+    }, {
+      "id" : 2243,
+      "name" : "独宠之命中注定",
+      "summary" : "她该相信谁？她能相信谁？此刻，她不想见任何人，不想看见许诺会等她却已与另一名女子孕育了孩子的徐辰轩，",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19016.jpg",
+      "updateStatus" : 1,
+      "capacity" : 7732637,
+      "lastUpdateTime" : "2013-11-23 20:17:34"
+    }, {
+      "id" : 2631,
+      "name" : "顽皮少女的异样人生",
+      "summary" : "“曾经，我只喜欢你，甚至爱你爱到不可理喻的地步。”她梨花带雨的对他哭诉，但心里知道很多事一旦错过变不",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46444.jpg",
+      "updateStatus" : 1,
+      "capacity" : 6993650,
+      "lastUpdateTime" : "2013-11-23 18:41:02"
+    }, {
+      "id" : 3457,
+      "name" : "与君行：王妃临天下",
+      "summary" : "呸~该死的判官把她这个极品爱钱女扔到这个鸟不拉屎的鬼地方！人家都是穿越遇美男！她是穿越遇蛇王！千辛万",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_12080.jpg",
+      "updateStatus" : 1,
+      "capacity" : 817692,
+      "lastUpdateTime" : "2013-11-23 18:34:55"
+    }, {
+      "id" : 3530,
+      "name" : "总裁莫追：小女人带球跑",
+      "summary" : "她迷迷糊糊中失去自己的第一次，却不想这是他爸爸的计划，她的一夜，十万块。当她从好友家回去是，家已不再",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 89211,
+      "lastUpdateTime" : "2013-11-23 18:15:55"
+    }, {
+      "id" : 2318,
+      "name" : "特工穿越之时空轮回",
+      "summary" : "她，继承父亲的衣钵，为寻求父亲失踪的原因，掉入了父亲研究的时空里。他，幼年登位，首辅太后辅政，冷眼旁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18789.jpg",
+      "updateStatus" : 2,
+      "capacity" : 5587369,
+      "lastUpdateTime" : "2013-11-23 17:47:04"
+    }, {
+      "id" : 2280,
+      "name" : "金玉奇缘：暴戾王爷的冷情妃",
+      "summary" : "欧阳雪琪因屡次相亲失败，被父亲逼迫嫁给了自己讨厌的对象，在结婚当天遭炸雷袭击，穿越到了古代，原以为可",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20113.jpg",
+      "updateStatus" : 1,
+      "capacity" : 9370555,
+      "lastUpdateTime" : "2013-11-23 17:38:10"
+    }, {
+      "id" : 2905,
+      "name" : "再一次爱上你",
+      "summary" : "山间的九月给人印象最深的就是那深深浅浅的黄，以及那偶尔映入眼帘的绿。漫山遍野的落叶，在地上铺了厚厚的",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21559.jpg",
+      "updateStatus" : 1,
+      "capacity" : 5488180,
+      "lastUpdateTime" : "2013-11-23 17:14:15"
+    }, {
+      "id" : 2576,
+      "name" : "四人行",
+      "summary" : "讲一个宿舍的四个女生碰到鬼的故事。",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 8969487,
+      "lastUpdateTime" : "2013-11-23 17:11:27"
+    }, {
+      "id" : 3397,
+      "name" : "红颜祸水：皇后潜潜水",
+      "summary" : "古往今来，人生在世，都逃不过一个情字，无论是亲情亦或是爱情，春：是万物的复苏，夏：是桑拿的浴池；秋：",
+      "coverUrl" : "",
+      "updateStatus" : 1,
+      "capacity" : 133513,
+      "lastUpdateTime" : "2013-11-23 15:13:37"
+    } ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 29,
+    "list" : [ {
+      "id" : 1898,
+      "title" : "一 狐狸尾巴",
+      "capacity" : 7086
+    }, {
+      "id" : 1899,
+      "title" : "二 温文如玉",
+      "capacity" : 3611
+    }, {
+      "id" : 1900,
+      "title" : "三 媳妇媳妇",
+      "capacity" : 6344
+    }, {
+      "id" : 1901,
+      "title" : "四 儿子母亲",
+      "capacity" : 3222
+    }, {
+      "id" : 1902,
+      "title" : "五 红颜知己",
+      "capacity" : 3406
+    }, {
+      "id" : 1903,
+      "title" : "六 貌比潘安",
+      "capacity" : 5683
+    }, {
+      "id" : 1904,
+      "title" : "七 真假慕容",
+      "capacity" : 4953
+    }, {
+      "id" : 1905,
+      "title" : "八 智慧轻功",
+      "capacity" : 5689
+    }, {
+      "id" : 1906,
+      "title" : "九 群雄逐鹿",
+      "capacity" : 7376
+    }, {
+      "id" : 1907,
+      "title" : "十 司徒镜渊",
+      "capacity" : 6379
+    }, {
+      "id" : 1908,
+      "title" : "十一 是谁做的",
+      "capacity" : 7254
+    }, {
+      "id" : 1909,
+      "title" : "十二 大王乌贼",
+      "capacity" : 8568
+    }, {
+      "id" : 1910,
+      "title" : "十三 怒雷怒颜",
+      "capacity" : 10858
+    }, {
+      "id" : 1911,
+      "title" : "十四 小唯贞子",
+      "capacity" : 10892
+    }, {
+      "id" : 1912,
+      "title" : "十五 老无所依",
+      "capacity" : 10108
+    }, {
+      "id" : 1913,
+      "title" : "十六 痞子医生",
+      "capacity" : 9039
+    }, {
+      "id" : 1914,
+      "title" : "十七 司徒司马",
+      "capacity" : 7857
+    }, {
+      "id" : 1915,
+      "title" : "十八 爸爸别走",
+      "capacity" : 10839
+    }, {
+      "id" : 1916,
+      "title" : "十九 师兄师弟",
+      "capacity" : 8191
+    }, {
+      "id" : 1917,
+      "title" : "二十 交叉路口",
+      "capacity" : 8300
+    }, {
+      "id" : 1918,
+      "title" : "二一 盗王出手",
+      "capacity" : 7832
+    }, {
+      "id" : 1919,
+      "title" : "二二 泫然欲泣",
+      "capacity" : 8122
+    }, {
+      "id" : 1920,
+      "title" : "二三 负心薄幸",
+      "capacity" : 8365
+    }, {
+      "id" : 1921,
+      "title" : "二四 兵戎相见",
+      "capacity" : 7541
+    }, {
+      "id" : 1922,
+      "title" : "二五 爹爹再见",
+      "capacity" : 8075
+    }, {
+      "id" : 1923,
+      "title" : "二六 势均力敌",
+      "capacity" : 7645
+    }, {
+      "id" : 1924,
+      "title" : "二七 桃花源记",
+      "capacity" : 9776
+    }, {
+      "id" : 1925,
+      "title" : "二八 争风吃醋",
+      "capacity" : 7065
+    }, {
+      "id" : 1926,
+      "title" : "二九 二虎相争",
+      "capacity" : 8031
+    } ]
+  }
+}

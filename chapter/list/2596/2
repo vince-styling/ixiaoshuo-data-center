@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 53,
+    "list" : [ {
+      "id" : 1738,
+      "title" : "第五十一章 疑云惨淡",
+      "capacity" : 8676
+    }, {
+      "id" : 1739,
+      "title" : "第五十二章 爱到忘了世界的存在",
+      "capacity" : 8085
+    }, {
+      "id" : 1740,
+      "title" : "上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 37,
+    "list" : [ {
+      "id" : 3337,
+      "title" : "第一章 梦魇",
+      "capacity" : 7245
+    }, {
+      "id" : 3338,
+      "title" : "第二章 表哥",
+      "capacity" : 6261
+    }, {
+      "id" : 3339,
+      "title" : "第三章 祭拜",
+      "capacity" : 6247
+    }, {
+      "id" : 3340,
+      "title" : "第四章 少年时的纠葛",
+      "capacity" : 7346
+    }, {
+      "id" : 3341,
+      "title" : "第五章 被威胁了",
+      "capacity" : 6392
+    }, {
+      "id" : 3342,
+      "title" : "第六章 感冒风波",
+      "capacity" : 6157
+    }, {
+      "id" : 3343,
+      "title" : "第七章 顺路",
+      "capacity" : 6268
+    }, {
+      "id" : 3344,
+      "title" : "第八章 分手",
+      "capacity" : 6179
+    }, {
+      "id" : 3345,
+      "title" : "第九章 去你妹的威胁",
+      "capacity" : 9347
+    }, {
+      "id" : 3346,
+      "title" : "第十章 告一段落",
+      "capacity" : 9064
+    }, {
+      "id" : 3347,
+      "title" : "第十一章 车祸",
+      "capacity" : 14510
+    }, {
+      "id" : 3348,
+      "title" : "第十二章 突变",
+      "capacity" : 8622
+    }, {
+      "id" : 3349,
+      "title" : "第十三章 赔偿",
+      "capacity" : 7359
+    }, {
+      "id" : 3350,
+      "title" : "第十四章 报考",
+      "capacity" : 6571
+    }, {
+      "id" : 3351,
+      "title" : "第十五章 不砸不相识",
+      "capacity" : 7824
+    }, {
+      "id" : 3352,
+      "title" : "第十六章 相识不如偶遇",
+      "capacity" : 10816
+    }, {
+      "id" : 3353,
+      "title" : "第十七章 朋友",
+      "capacity" : 5265
+    }, {
+      "id" : 3354,
+      "title" : "第十八章 三陪生活",
+      "capacity" : 9131
+    }, {
+      "id" : 3355,
+      "title" : "第十九章 别扭的孩子",
+      "capacity" : 8100
+    }, {
+      "id" : 3356,
+      "title" : "第二十章 和魔鬼的交易",
+      "capacity" : 9718
+    }, {
+      "id" : 3357,
+      "title" : "第二十一章 伤年",
+      "capacity" : 9211
+    }, {
+      "id" : 3358,
+      "title" : "第二十二章 怪物",
+      "capacity" : 9661
+    }, {
+      "id" : 3359,
+      "title" : "第二十三章 噩梦",
+      "capacity" : 11036
+    }, {
+      "id" : 3360,
+      "title" : "第二十四章 嫁给我（一）",
+      "capacity" : 3666
+    }, {
+      "id" : 3361,
+      "title" : "第二十四章 嫁给我（二）",
+      "capacity" : 5429
+    }, {
+      "id" : 3362,
+      "title" : "第二十四章 嫁给我（三）",
+      "capacity" : 3614
+    }, {
+      "id" : 3363,
+      "title" : "第二十五章 初吻后遗症（一）",
+      "capacity" : 3264
+    }, {
+      "id" : 3364,
+      "title" : "第二十五章 初吻后遗症（二）",
+      "capacity" : 4290
+    }, {
+      "id" : 3365,
+      "title" : "第二十六章 吃醋（一）",
+      "capacity" : 3429
+    }, {
+      "id" : 3366,
+      "title" : "第二十六章 吃醋（二）",
+      "capacity" : 5375
+    }, {
+      "id" : 3367,
+      "title" : "第二十七章 亲人（一）",
+      "capacity" : 3395
+    }, {
+      "id" : 3368,
+      "title" : "第二十七章亲人（二）",
+      "capacity" : 3358
+    }, {
+      "id" : 3369,
+      "title" : "第二十七章 亲人（三）",
+      "capacity" : 3368
+    }, {
+      "id" : 3370,
+      "title" : "第二十八章 搅乱的算计（一）",
+      "capacity" : 3369
+    }, {
+      "id" : 3371,
+      "title" : "第二十八章搅乱的算计（二）",
+      "capacity" : 3274
+    }, {
+      "id" : 3372,
+      "title" : "第二十九章 离开（一）",
+      "capacity" : 4128
+    }, {
+      "id" : 3373,
+      "title" : "第二十九章离开（二）",
+      "capacity" : 3538
+    } ]
+  }
+}

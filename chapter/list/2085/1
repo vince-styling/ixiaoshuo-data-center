@@ -1,0 +1,58 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 12,
+    "list" : [ {
+      "id" : 2524,
+      "title" : "楔子",
+      "capacity" : 3509
+    }, {
+      "id" : 2525,
+      "title" : "只身入江湖（改）",
+      "capacity" : 10217
+    }, {
+      "id" : 2526,
+      "title" : "相逢不相识（改）",
+      "capacity" : 9651
+    }, {
+      "id" : 2527,
+      "title" : "天朝睿王爷（改）",
+      "capacity" : 7487
+    }, {
+      "id" : 2528,
+      "title" : "是你不是你（改）",
+      "capacity" : 9888
+    }, {
+      "id" : 2529,
+      "title" : "青楼绝天下",
+      "capacity" : 8989
+    }, {
+      "id" : 2530,
+      "title" : "凤凰还朝",
+      "capacity" : 8936
+    }, {
+      "id" : 2531,
+      "title" : "密室中的筹谋与争执",
+      "capacity" : 9940
+    }, {
+      "id" : 2532,
+      "title" : "第十章",
+      "capacity" : 72
+    }, {
+      "id" : 2533,
+      "title" : "洛水画舫",
+      "capacity" : 9162
+    }, {
+      "id" : 2534,
+      "title" : "沈家有母（一）",
+      "capacity" : 4029
+    }, {
+      "id" : 2535,
+      "title" : "沈家有母（二）",
+      "capacity" : 3305
+    } ]
+  }
+}

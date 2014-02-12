@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 3004,
+      "title" : "第五十一章花魁是疯婆子",
+      "capacity" : 6194
+    }, {
+      "id" : 3005,
+      "title" : "第五十二章都是演技派1",
+      "capacity" : 6368
+    }, {
+      "id" : 3006,
+      "title" : "第五十三章都是演技派2",
+      "capacity" : 6282
+    }, {
+      "id" : 3007,
+      "title" : "第五十四章 局中局（一）",
+      "capacity" : 6627
+    } ]
+  }
+}

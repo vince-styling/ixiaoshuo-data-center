@@ -1,0 +1,98 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 22,
+    "list" : [ {
+      "id" : 3553,
+      "title" : "第一章 镇国兵院",
+      "capacity" : 6430
+    }, {
+      "id" : 3554,
+      "title" : "第二章 祖孙闲话",
+      "capacity" : 6199
+    }, {
+      "id" : 3555,
+      "title" : "第三章 孟璇公子",
+      "capacity" : 6291
+    }, {
+      "id" : 3556,
+      "title" : "第四章 驸马府宴会",
+      "capacity" : 7078
+    }, {
+      "id" : 3557,
+      "title" : "第五章 凤梧疯傻",
+      "capacity" : 6230
+    }, {
+      "id" : 3558,
+      "title" : "第六章 化名救命",
+      "capacity" : 7192
+    }, {
+      "id" : 3559,
+      "title" : "第七章 凤梧成婚",
+      "capacity" : 7673
+    }, {
+      "id" : 3560,
+      "title" : "第八章 洞房迷情",
+      "capacity" : 5360
+    }, {
+      "id" : 3561,
+      "title" : "第九章 银质徽章",
+      "capacity" : 7708
+    }, {
+      "id" : 3562,
+      "title" : "第十章 孟卿离京",
+      "capacity" : 9437
+    }, {
+      "id" : 3563,
+      "title" : "第十一章 徐父回京",
+      "capacity" : 7993
+    }, {
+      "id" : 3564,
+      "title" : "第十二章 名仕夜话",
+      "capacity" : 7481
+    }, {
+      "id" : 3565,
+      "title" : "第十三章 弹劾案定",
+      "capacity" : 6271
+    }, {
+      "id" : 3566,
+      "title" : "第十四章 孟璇受伤",
+      "capacity" : 6406
+    }, {
+      "id" : 3567,
+      "title" : "第十五章 情窦初开",
+      "capacity" : 6922
+    }, {
+      "id" : 3568,
+      "title" : "第十六章 孟卿的婚事",
+      "capacity" : 7518
+    }, {
+      "id" : 3569,
+      "title" : "第十七章 莫离剑法",
+      "capacity" : 7039
+    }, {
+      "id" : 3570,
+      "title" : "第十八章 投诗入幕",
+      "capacity" : 8111
+    }, {
+      "id" : 3571,
+      "title" : "第十九章 灵动烟云",
+      "capacity" : 7844
+    }, {
+      "id" : 3572,
+      "title" : "第二十章 花厅对弈",
+      "capacity" : 9075
+    }, {
+      "id" : 3573,
+      "title" : "第二十一章 莫离心诀",
+      "capacity" : 7980
+    }, {
+      "id" : 3574,
+      "title" : "第二十二章 鬼谷无涯",
+      "capacity" : 8074
+    } ]
+  }
+}

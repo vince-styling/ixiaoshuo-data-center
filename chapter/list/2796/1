@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 3295,
+      "title" : "第一章 首席秘书",
+      "capacity" : 3088
+    }, {
+      "id" : 3296,
+      "title" : "第二章 帝国酒店",
+      "capacity" : 4922
+    }, {
+      "id" : 3297,
+      "title" : "第三章 程氏集团",
+      "capacity" : 4181
+    } ]
+  }
+}

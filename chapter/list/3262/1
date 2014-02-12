@@ -1,0 +1,74 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 16,
+    "list" : [ {
+      "id" : 3743,
+      "title" : "第一章 帘卷西风，人比黄花瘦",
+      "capacity" : 11429
+    }, {
+      "id" : 3744,
+      "title" : "第二章 晋王弃妃凤离忧",
+      "capacity" : 10765
+    }, {
+      "id" : 3745,
+      "title" : "第三章 大闹晋王府",
+      "capacity" : 10332
+    }, {
+      "id" : 3746,
+      "title" : "第四章 腹黑王爷",
+      "capacity" : 10383
+    }, {
+      "id" : 3747,
+      "title" : "第五章 禁足",
+      "capacity" : 9573
+    }, {
+      "id" : 3748,
+      "title" : "第六章 夜探飞星居",
+      "capacity" : 9691
+    }, {
+      "id" : 3749,
+      "title" : "第七章 皇家宴会",
+      "capacity" : 9490
+    }, {
+      "id" : 3750,
+      "title" : "第八章 北斗天赐，哥哥？恋人？",
+      "capacity" : 9905
+    }, {
+      "id" : 3751,
+      "title" : "第九章 催眠师，迷心之术",
+      "capacity" : 9520
+    }, {
+      "id" : 3752,
+      "title" : "第十章 送嫁",
+      "capacity" : 9384
+    }, {
+      "id" : 3753,
+      "title" : "第十一章 镜湖仙客",
+      "capacity" : 10500
+    }, {
+      "id" : 3754,
+      "title" : "第十二章 美型攻VS腹黑受",
+      "capacity" : 9619
+    }, {
+      "id" : 3755,
+      "title" : "第十三章 美女如云",
+      "capacity" : 9602
+    }, {
+      "id" : 3756,
+      "title" : "第十四章 腹黑宝宝登场",
+      "capacity" : 9910
+    }, {
+      "id" : 3757,
+      "title" : "第十五章 无赖司空夜",
+      "capacity" : 11263
+    }, {
+      "id" : 3758,
+      "title" : "第十六章 再见西林文耀",
+      "capacity" : 9684
+    } ]
+  }
+}

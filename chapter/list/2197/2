@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 4142,
+      "title" : "僵尸也穿越(1)",
+      "capacity" : 9308
+    }, {
+      "id" : 4143,
+      "title" : "终于上架啦！",
+      "capacity" : 2236
+    } ]
+  }
+}

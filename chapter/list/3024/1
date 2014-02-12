@@ -1,0 +1,22 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 2606,
+      "title" : "第一章 我终于放开你",
+      "capacity" : 5179
+    }, {
+      "id" : 2607,
+      "title" : "第二章 四个人",
+      "capacity" : 3980
+    }, {
+      "id" : 2608,
+      "title" : "第三章 初遇",
+      "capacity" : 6798
+    } ]
+  }
+}

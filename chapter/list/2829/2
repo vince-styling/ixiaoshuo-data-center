@@ -1,0 +1,14 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 51,
+    "list" : [ {
+      "id" : 3708,
+      "title" : "上架公告",
+      "capacity" : 2232
+    } ]
+  }
+}

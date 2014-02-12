@@ -1,0 +1,42 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 2347,
+      "title" : "人物角色",
+      "capacity" : 2621
+    }, {
+      "id" : 2348,
+      "title" : "第一章 最后一天啊。",
+      "capacity" : 2940
+    }, {
+      "id" : 2349,
+      "title" : "第二章 初见三位王子",
+      "capacity" : 3380
+    }, {
+      "id" : 2350,
+      "title" : "第三章 遇见贱人",
+      "capacity" : 2998
+    }, {
+      "id" : 2351,
+      "title" : "第四章 涵和哥哥回来了",
+      "capacity" : 3165
+    }, {
+      "id" : 2352,
+      "title" : "第五章 死要面子活受罪",
+      "capacity" : 3117
+    }, {
+      "id" : 2353,
+      "title" : "第六章 另外两位情敌",
+      "capacity" : 3106
+    }, {
+      "id" : 2354,
+      "title" : "第七章 我看你们是真想死是吧!",
+      "capacity" : 3208
+    } ]
+  }
+}

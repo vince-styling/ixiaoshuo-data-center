@@ -1,0 +1,30 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 55,
+    "list" : [ {
+      "id" : 3645,
+      "title" : "第四章 【熟人重聚】",
+      "capacity" : 3187
+    }, {
+      "id" : 3646,
+      "title" : "第五章 【真相气人】",
+      "capacity" : 4959
+    }, {
+      "id" : 3647,
+      "title" : "第六章 【又被卡油】",
+      "capacity" : 5937
+    }, {
+      "id" : 3648,
+      "title" : "第七章 【被作画了】",
+      "capacity" : 3442
+    }, {
+      "id" : 3649,
+      "title" : "第八章",
+      "capacity" : 3107
+    } ]
+  }
+}

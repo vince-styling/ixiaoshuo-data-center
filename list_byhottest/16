@@ -1,0 +1,170 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 16,
+    "totalPageCount" : 85,
+    "totalItemCount" : 1681,
+    "list" : [ {
+      "id" : 2173,
+      "name" : "西游前传：天上掉下个沙和尚",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20149.jpg",
+      "summary" : "颠覆你观念的西游前传横空来袭，一个贯穿500年的跌宕起伏！谁说沙僧注定屌丝命？一个成天捧着锅碗瓢盆讲",
+      "updateStatus" : 1,
+      "capacity" : 1279690,
+      "readerCount" : 12672
+    }, {
+      "id" : 2396,
+      "name" : "冷爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18850.jpg",
+      "summary" : "年少的爱情往往都是浪漫而美好，而戴新一长达十年的苦涩暗恋史，却从他和朱樱共享一个不可告人的秘密开始…",
+      "updateStatus" : 2,
+      "capacity" : 9691984,
+      "readerCount" : 12664
+    }, {
+      "id" : 2803,
+      "name" : "幸好还有爱情",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44957.jpg",
+      "summary" : "她以为她最终会和他在一起即便只是为了赎罪可是不知不觉间她却有点贪心她想给另一个男人爱情也想得到另一段",
+      "updateStatus" : 1,
+      "capacity" : 3717470,
+      "readerCount" : 12662
+    }, {
+      "id" : 2293,
+      "name" : "袖舞帝都",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47221.jpg",
+      "summary" : "你爱我吗？爱是什么？我一生只宠女人。偌大的宫殿冷冷清清，君，你知否？这皇宫里至高至深的千年孤独？",
+      "updateStatus" : 1,
+      "capacity" : 1771662,
+      "readerCount" : 12655
+    }, {
+      "id" : 2881,
+      "name" : "豪门：公主不愁嫁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17178.jpg",
+      "summary" : "豪门深深，一切，远不是想象中的轻松自在。明明不相爱，但却该死的相配。能有什么办法？父母的要求，政商联",
+      "updateStatus" : 1,
+      "capacity" : 8302065,
+      "readerCount" : 12556
+    }, {
+      "id" : 2766,
+      "name" : "远梦轻无力",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41385.jpg",
+      "summary" : "她的身份因多舛的命运而不断变换。.............术江国的郡主也好，大珣国的贵族千金也好，地",
+      "updateStatus" : 1,
+      "capacity" : 6637965,
+      "readerCount" : 12527
+    }, {
+      "id" : 2949,
+      "name" : "流云蝶",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46334.jpg",
+      "summary" : "为了阻止天君与邪君的战争……为了维护人间的安静和谐气氛……她果断翘家……只有这样，战争才会停止……她",
+      "updateStatus" : 1,
+      "capacity" : 5547496,
+      "readerCount" : 12525
+    }, {
+      "id" : 2633,
+      "name" : "三姐妹之抚顺顽皮小野猫",
+      "coverUrl" : "",
+      "summary" : "无聊黑少乘公交？巧遇炸毛小野猫！偶买噶的…为抚顺炸毛小野猫，黑少，看你的了…----------（P",
+      "updateStatus" : 1,
+      "capacity" : 4797182,
+      "readerCount" : 12502
+    }, {
+      "id" : 2977,
+      "name" : "致我们的青春",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44494.jpg",
+      "summary" : "A市又下雨了，这次的雨仿佛怎么也下不完般淅淅沥沥的拍打着水泥地。耳边好像传来一阵阵忧伤的歌曲般令人静",
+      "updateStatus" : 1,
+      "capacity" : 1175522,
+      "readerCount" : 12492
+    }, {
+      "id" : 2645,
+      "name" : "我知道你本善良",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47670.jpg",
+      "summary" : "幸福的人都一样，不幸的人各有各的不幸。蒋岚是名职业码字手，意外被疯狂流动作案的杀人犯给劫持了，虽然生",
+      "updateStatus" : 1,
+      "capacity" : 8257011,
+      "readerCount" : 12480
+    }, {
+      "id" : 2259,
+      "name" : "一树梨花散，散，散",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18513.jpg",
+      "summary" : "所执悠，有着最崇高的身份，过着最低位的生活一场被刻意营造的海难，却由自己的亲人制造一场无望的眷恋，一",
+      "updateStatus" : 2,
+      "capacity" : 9346772,
+      "readerCount" : 12470
+    }, {
+      "id" : 2531,
+      "name" : "烟雨紫蓬山",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47527.jpg",
+      "summary" : "青春懵懂、混沌不堪、美好憧憬...那些年，不想混却混着的日子，祭奠独有的酸涩记忆......云容含骤",
+      "updateStatus" : 1,
+      "capacity" : 8235873,
+      "readerCount" : 12455
+    }, {
+      "id" : 2146,
+      "name" : "灭魔玄殇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_9997.jpg",
+      "summary" : "混世少年，穿越大唐，继承姜子牙道法，从而开始了一段惊心动魄的奇幻之旅！斩妖除恶，降魔救世！调笑阎王，",
+      "updateStatus" : 1,
+      "capacity" : 7547952,
+      "readerCount" : 12419
+    }, {
+      "id" : 2047,
+      "name" : "越长大越现实",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47340.jpg",
+      "summary" : "这个世界原本是有童话的，可无奈的是人总是要长大的。廖美靖、嘉善新、李雪芸，简毅等人的一天天的长大，一",
+      "updateStatus" : 1,
+      "capacity" : 1937108,
+      "readerCount" : 12412
+    }, {
+      "id" : 2847,
+      "name" : "沫誓沫望",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45609.jpg",
+      "summary" : "在你的生命中是不是有这样一个人，给过你很多很美好的回忆。所有凝结在一起的美好并不是为了证明失去的难过",
+      "updateStatus" : 1,
+      "capacity" : 9992799,
+      "readerCount" : 12408
+    }, {
+      "id" : 2107,
+      "name" : "嚣张王妃：霸爱俊王爷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14294.jpg",
+      "summary" : "她，警界精英，爱红妆也爱武装，不料意外穿越，睁开眼已变身新婚弃妃。他，尊贵无比的平江王，却在新婚之夜",
+      "updateStatus" : 2,
+      "capacity" : 2563156,
+      "readerCount" : 12358
+    }, {
+      "id" : 2119,
+      "name" : "花舞七国",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22528.jpg",
+      "summary" : "——我从来没有想过，就是我们这样几个人，将来会改变整个天下的格局。到那个时候，七雄争霸，天下纷乱；而",
+      "updateStatus" : 1,
+      "capacity" : 5548893,
+      "readerCount" : 12345
+    }, {
+      "id" : 2647,
+      "name" : "冷少巧追豪门俏千金",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43596.jpg",
+      "summary" : "一场娃娃亲，让两个人的命运从此系下一条交界线，她的笑，在发现他的爱后展现出来，原本幸福的摸样在一次绑",
+      "updateStatus" : 1,
+      "capacity" : 7027753,
+      "readerCount" : 12345
+    }, {
+      "id" : 2542,
+      "name" : "陌上桑之初心",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45674.jpg",
+      "summary" : "她，误入围城，受尽歧视而欲罢不能；他，执著信仰，看尽冷眼，柳暗花明之际，却危机四伏；她，是命中注定的",
+      "updateStatus" : 1,
+      "capacity" : 3360894,
+      "readerCount" : 12341
+    }, {
+      "id" : 2767,
+      "name" : "美人目",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45909.jpg",
+      "summary" : "他纤长的手指触到映着一抹红影的池面，想要紧紧抓住，那抹红影却随着水波散去。他抬起头，隐约间似乎看到一",
+      "updateStatus" : 1,
+      "capacity" : 1425392,
+      "readerCount" : 12338
+    } ]
+  }
+}

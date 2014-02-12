@@ -1,0 +1,18 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 52,
+    "list" : [ {
+      "id" : 2628,
+      "title" : "第一章 始相遇 50 腹背受敌（下）",
+      "capacity" : 10238
+    }, {
+      "id" : 2629,
+      "title" : "不可免俗的上架公告",
+      "capacity" : 2778
+    } ]
+  }
+}

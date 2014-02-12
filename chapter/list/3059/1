@@ -1,0 +1,66 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 14,
+    "list" : [ {
+      "id" : 4674,
+      "title" : "楔子",
+      "capacity" : 2208
+    }, {
+      "id" : 4675,
+      "title" : "第一章 穿越了？",
+      "capacity" : 5446
+    }, {
+      "id" : 4676,
+      "title" : "第二章 万鬼之王",
+      "capacity" : 5198
+    }, {
+      "id" : 4677,
+      "title" : "第三章 我保护你",
+      "capacity" : 4784
+    }, {
+      "id" : 4678,
+      "title" : "第四章 乘奔御风",
+      "capacity" : 5128
+    }, {
+      "id" : 4679,
+      "title" : "第五章 无知者无畏",
+      "capacity" : 5008
+    }, {
+      "id" : 4680,
+      "title" : "第六章 露馅了",
+      "capacity" : 4625
+    }, {
+      "id" : 4681,
+      "title" : "第七章 离家出走",
+      "capacity" : 4791
+    }, {
+      "id" : 4682,
+      "title" : "第八章 又烫又硬",
+      "capacity" : 4671
+    }, {
+      "id" : 4683,
+      "title" : "第九章 人缘太差",
+      "capacity" : 4889
+    }, {
+      "id" : 4684,
+      "title" : "第十章 百鬼夜行",
+      "capacity" : 4597
+    }, {
+      "id" : 4685,
+      "title" : "第十一章 来者不善",
+      "capacity" : 4594
+    }, {
+      "id" : 4686,
+      "title" : "第十二章 大敌当前",
+      "capacity" : 4876
+    }, {
+      "id" : 4687,
+      "title" : "第十三章 两军交战",
+      "capacity" : 4889
+    } ]
+  }
+}

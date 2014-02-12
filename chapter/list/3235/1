@@ -1,0 +1,38 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 3691,
+      "title" : "楔子",
+      "capacity" : 3557
+    }, {
+      "id" : 3692,
+      "title" : "第一章 我讨厌她",
+      "capacity" : 4789
+    }, {
+      "id" : 3693,
+      "title" : "第二章 换办公室",
+      "capacity" : 4482
+    }, {
+      "id" : 3694,
+      "title" : "第三章 八字全阴",
+      "capacity" : 4704
+    }, {
+      "id" : 3695,
+      "title" : "第四章 凶案照片",
+      "capacity" : 4515
+    }, {
+      "id" : 3696,
+      "title" : "第五章 因吓生怒",
+      "capacity" : 4252
+    }, {
+      "id" : 3697,
+      "title" : "第六章 相忘江湖",
+      "capacity" : 4340
+    } ]
+  }
+}

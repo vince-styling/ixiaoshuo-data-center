@@ -1,0 +1,210 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 58,
+    "list" : [ {
+      "id" : 4856,
+      "title" : "楔子；",
+      "capacity" : 6777
+    }, {
+      "id" : 4857,
+      "title" : "第一章；余生",
+      "capacity" : 6740
+    }, {
+      "id" : 4858,
+      "title" : "第二章；转学",
+      "capacity" : 6887
+    }, {
+      "id" : 4859,
+      "title" : "第三章；暗杀",
+      "capacity" : 6843
+    }, {
+      "id" : 4860,
+      "title" : "第四章；异感",
+      "capacity" : 6930
+    }, {
+      "id" : 4861,
+      "title" : "第五章；下雨",
+      "capacity" : 6436
+    }, {
+      "id" : 4862,
+      "title" : "第六章；噩梦",
+      "capacity" : 6622
+    }, {
+      "id" : 4863,
+      "title" : "第七章；私聚",
+      "capacity" : 6835
+    }, {
+      "id" : 4864,
+      "title" : "第八章；同居",
+      "capacity" : 7010
+    }, {
+      "id" : 4865,
+      "title" : "第九章；抉择",
+      "capacity" : 6687
+    }, {
+      "id" : 4866,
+      "title" : "第十章；Avenger",
+      "capacity" : 6759
+    }, {
+      "id" : 4867,
+      "title" : "第十一章；超级无敌终极班级派对",
+      "capacity" : 6568
+    }, {
+      "id" : 4868,
+      "title" : "第十二章；猎杀",
+      "capacity" : 5915
+    }, {
+      "id" : 4869,
+      "title" : "第十三章；杀人",
+      "capacity" : 6783
+    }, {
+      "id" : 4870,
+      "title" : "第十四章；眼泪吧唧",
+      "capacity" : 7276
+    }, {
+      "id" : 4871,
+      "title" : "第十五章；不一样的子诺",
+      "capacity" : 6783
+    }, {
+      "id" : 4872,
+      "title" : "第十六章；Avenger的主旨",
+      "capacity" : 6558
+    }, {
+      "id" : 4873,
+      "title" : "第十七章；正式成员",
+      "capacity" : 6851
+    }, {
+      "id" : 4874,
+      "title" : "第十八章；派对尾声",
+      "capacity" : 6975
+    }, {
+      "id" : 4875,
+      "title" : "第十九章；老左的女神",
+      "capacity" : 6968
+    }, {
+      "id" : 4876,
+      "title" : "第二十章；老左的爱情",
+      "capacity" : 7041
+    }, {
+      "id" : 4877,
+      "title" : "第二十一章；超能力的本源",
+      "capacity" : 6824
+    }, {
+      "id" : 4878,
+      "title" : "第二十二章；龙十八",
+      "capacity" : 7323
+    }, {
+      "id" : 4879,
+      "title" : "第二十三章；超能失控",
+      "capacity" : 6806
+    }, {
+      "id" : 4880,
+      "title" : "第二十四章；无视超能力",
+      "capacity" : 7022
+    }, {
+      "id" : 4881,
+      "title" : "第二十五章；初试神威！",
+      "capacity" : 6823
+    }, {
+      "id" : 4882,
+      "title" : "第二十六章；龙组插曲",
+      "capacity" : 7571
+    }, {
+      "id" : 4883,
+      "title" : "第二十七章；旧疾",
+      "capacity" : 6682
+    }, {
+      "id" : 4884,
+      "title" : "第二十八章；身份迷离",
+      "capacity" : 6609
+    }, {
+      "id" : 4885,
+      "title" : "第二十九章；SS级的大招",
+      "capacity" : 7295
+    }, {
+      "id" : 4886,
+      "title" : "第三十章；禁药（Lead to heaven）",
+      "capacity" : 6748
+    }, {
+      "id" : 4887,
+      "title" : "第三十一章；神小组",
+      "capacity" : 6866
+    }, {
+      "id" : 4888,
+      "title" : "第三十二章；记忆碎片",
+      "capacity" : 6992
+    }, {
+      "id" : 4889,
+      "title" : "第三十三章；吴俊东",
+      "capacity" : 6584
+    }, {
+      "id" : 4890,
+      "title" : "第三十四章；历史",
+      "capacity" : 7086
+    }, {
+      "id" : 4891,
+      "title" : "第三十五章；龙组来袭",
+      "capacity" : 6593
+    }, {
+      "id" : 4892,
+      "title" : "第三十六章；当今的教育界",
+      "capacity" : 7558
+    }, {
+      "id" : 4893,
+      "title" : "第三十七章；萱无忧",
+      "capacity" : 7649
+    }, {
+      "id" : 4894,
+      "title" : "第三十八章；回忆往昔",
+      "capacity" : 8413
+    }, {
+      "id" : 4895,
+      "title" : "第三十九章；婷姐疑云",
+      "capacity" : 6660
+    }, {
+      "id" : 4896,
+      "title" : "第四十章；斗！",
+      "capacity" : 7006
+    }, {
+      "id" : 4897,
+      "title" : "第四十一章；回到最初",
+      "capacity" : 6903
+    }, {
+      "id" : 4898,
+      "title" : "第四十二章；和解",
+      "capacity" : 8443
+    }, {
+      "id" : 4899,
+      "title" : "第四十三章；神秘少女",
+      "capacity" : 7627
+    }, {
+      "id" : 4900,
+      "title" : "第四十四章；庐山真面目",
+      "capacity" : 6828
+    }, {
+      "id" : 4901,
+      "title" : "第四十五章；怪物大叔",
+      "capacity" : 7587
+    }, {
+      "id" : 4902,
+      "title" : "第四十六章；人造神",
+      "capacity" : 7482
+    }, {
+      "id" : 4903,
+      "title" : "第四十七章；重创！",
+      "capacity" : 8334
+    }, {
+      "id" : 4904,
+      "title" : "第四十八章；变化",
+      "capacity" : 8629
+    }, {
+      "id" : 4905,
+      "title" : "第四十九章；诺亚",
+      "capacity" : 7818
+    } ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 23,
+    "list" : [ {
+      "id" : 2314,
+      "title" : "关于玄学",
+      "capacity" : 8042
+    }, {
+      "id" : 2315,
+      "title" : "第一章 姐姐的失踪",
+      "capacity" : 14597
+    }, {
+      "id" : 2316,
+      "title" : "第二章 谷丽？姐姐？",
+      "capacity" : 13733
+    }, {
+      "id" : 2317,
+      "title" : "第三章 参军",
+      "capacity" : 14080
+    }, {
+      "id" : 2318,
+      "title" : "第四章 车内乱斗",
+      "capacity" : 14914
+    }, {
+      "id" : 2319,
+      "title" : "第五章 军旅生涯",
+      "capacity" : 14336
+    }, {
+      "id" : 2320,
+      "title" : "第六章 破世界记录了",
+      "capacity" : 14020
+    }, {
+      "id" : 2321,
+      "title" : "第七章 军校？龙五大队？",
+      "capacity" : 13812
+    }, {
+      "id" : 2322,
+      "title" : "第八章 无后坐力",
+      "capacity" : 14053
+    }, {
+      "id" : 2323,
+      "title" : "第九章 展露伸手",
+      "capacity" : 14911
+    }, {
+      "id" : 2324,
+      "title" : "第十章 抉择",
+      "capacity" : 12868
+    }, {
+      "id" : 2325,
+      "title" : "第十一章 生死奈何桥",
+      "capacity" : 13682
+    }, {
+      "id" : 2326,
+      "title" : "第十二章 龙五特种大队",
+      "capacity" : 13155
+    }, {
+      "id" : 2327,
+      "title" : "第十三章 禁天扰动",
+      "capacity" : 13661
+    }, {
+      "id" : 2328,
+      "title" : "第十四章 玄龟道",
+      "capacity" : 13009
+    }, {
+      "id" : 2329,
+      "title" : "第十五章 前进向着轩辕大陆",
+      "capacity" : 13284
+    }, {
+      "id" : 2330,
+      "title" : "第十六章 突入",
+      "capacity" : 13374
+    }, {
+      "id" : 2331,
+      "title" : "第十七章 秦始天尊嬴政",
+      "capacity" : 13384
+    }, {
+      "id" : 2332,
+      "title" : "第十八章 九天道",
+      "capacity" : 13923
+    }, {
+      "id" : 2333,
+      "title" : "第一章 白尾小儿",
+      "capacity" : 9273
+    }, {
+      "id" : 2334,
+      "title" : "第二章 人小鬼大",
+      "capacity" : 9963
+    }, {
+      "id" : 2335,
+      "title" : "第三章 白尾天才",
+      "capacity" : 9531
+    }, {
+      "id" : 2336,
+      "title" : "第四章 送货",
+      "capacity" : 9711
+    } ]
+  }
+}

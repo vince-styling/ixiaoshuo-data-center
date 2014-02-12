@@ -1,0 +1,34 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 6,
+    "list" : [ {
+      "id" : 2505,
+      "title" : "第一章：老同学",
+      "capacity" : 4036
+    }, {
+      "id" : 2506,
+      "title" : "第二章：启程",
+      "capacity" : 3617
+    }, {
+      "id" : 2507,
+      "title" : "第三章：导游",
+      "capacity" : 4733
+    }, {
+      "id" : 2508,
+      "title" : "第四章：车队",
+      "capacity" : 4442
+    }, {
+      "id" : 2509,
+      "title" : "第五章：枪声",
+      "capacity" : 3714
+    }, {
+      "id" : 2510,
+      "title" : "第六章：石缝",
+      "capacity" : 4668
+    } ]
+  }
+}

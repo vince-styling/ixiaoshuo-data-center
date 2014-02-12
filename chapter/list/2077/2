@@ -1,0 +1,26 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 54,
+    "list" : [ {
+      "id" : 1361,
+      "title" : "第五十一章 阴差阳错",
+      "capacity" : 9432
+    }, {
+      "id" : 1362,
+      "title" : "第五十二章 爱的奇迹",
+      "capacity" : 9169
+    }, {
+      "id" : 1363,
+      "title" : "第五十三章 一线希望",
+      "capacity" : 9764
+    }, {
+      "id" : 1364,
+      "title" : "上架公告",
+      "capacity" : 2158
+    } ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 17,
+    "list" : [ {
+      "id" : 1835,
+      "title" : "楔子 君要臣死，臣不得不死",
+      "capacity" : 6948
+    }, {
+      "id" : 1836,
+      "title" : "第一回 拜入医门",
+      "capacity" : 6633
+    }, {
+      "id" : 1837,
+      "title" : "第二回 又遇沈烨洛",
+      "capacity" : 6392
+    }, {
+      "id" : 1838,
+      "title" : "第三回 军师",
+      "capacity" : 6556
+    }, {
+      "id" : 1839,
+      "title" : "第四回 围困",
+      "capacity" : 6089
+    }, {
+      "id" : 1840,
+      "title" : "第五回 逃离",
+      "capacity" : 5951
+    }, {
+      "id" : 1841,
+      "title" : "第六回 公子无双",
+      "capacity" : 5879
+    }, {
+      "id" : 1842,
+      "title" : "第七回 水落石出",
+      "capacity" : 6382
+    }, {
+      "id" : 1843,
+      "title" : "第八回 当我媳妇呗",
+      "capacity" : 6576
+    }, {
+      "id" : 1844,
+      "title" : "第九回 捣毁",
+      "capacity" : 8784
+    }, {
+      "id" : 1845,
+      "title" : "第十章 金丝雀罢了",
+      "capacity" : 7537
+    }, {
+      "id" : 1846,
+      "title" : "第十一章 皇贵妃",
+      "capacity" : 5642
+    }, {
+      "id" : 1847,
+      "title" : "第十三章 漠然",
+      "capacity" : 4858
+    }, {
+      "id" : 1848,
+      "title" : "第十四章 残魂未亡",
+      "capacity" : 6094
+    }, {
+      "id" : 1849,
+      "title" : "第十五章 完整",
+      "capacity" : 8430
+    }, {
+      "id" : 1850,
+      "title" : "第十六章 鸢梓",
+      "capacity" : 6590
+    }, {
+      "id" : 1851,
+      "title" : "第十七章 盛典",
+      "capacity" : 4936
+    } ]
+  }
+}

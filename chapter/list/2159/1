@@ -1,0 +1,102 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 23,
+    "list" : [ {
+      "id" : 1063,
+      "title" : "第一章 比武大会",
+      "capacity" : 9986
+    }, {
+      "id" : 1064,
+      "title" : "第二章 丐帮污衣",
+      "capacity" : 9321
+    }, {
+      "id" : 1065,
+      "title" : "第三章 青龙门",
+      "capacity" : 8327
+    }, {
+      "id" : 1066,
+      "title" : "第四章 丐帮净衣",
+      "capacity" : 7306
+    }, {
+      "id" : 1067,
+      "title" : "第五章 深夜偷袭",
+      "capacity" : 6209
+    }, {
+      "id" : 1068,
+      "title" : "第六章 惊鸿一燕",
+      "capacity" : 6284
+    }, {
+      "id" : 1069,
+      "title" : "第七章 义结金兰",
+      "capacity" : 7925
+    }, {
+      "id" : 1070,
+      "title" : "第八章 月牙山",
+      "capacity" : 7564
+    }, {
+      "id" : 1071,
+      "title" : "第九章 白虎门变故",
+      "capacity" : 5495
+    }, {
+      "id" : 1072,
+      "title" : "第十章 平定内乱",
+      "capacity" : 6712
+    }, {
+      "id" : 1073,
+      "title" : "第十一章 颇多隐情",
+      "capacity" : 9182
+    }, {
+      "id" : 1074,
+      "title" : "第十二章 大战凌霄宫",
+      "capacity" : 8042
+    }, {
+      "id" : 1075,
+      "title" : "第十三章 决斗忠义崖",
+      "capacity" : 13469
+    }, {
+      "id" : 1076,
+      "title" : "第十四章 搬请救兵",
+      "capacity" : 5783
+    }, {
+      "id" : 1077,
+      "title" : "第十五章 大难不死",
+      "capacity" : 6755
+    }, {
+      "id" : 1078,
+      "title" : "第十六章 武功典籍",
+      "capacity" : 7060
+    }, {
+      "id" : 1079,
+      "title" : "第十七章 兄弟重逢",
+      "capacity" : 6837
+    }, {
+      "id" : 1080,
+      "title" : "第十八章 强援到来",
+      "capacity" : 6765
+    }, {
+      "id" : 1081,
+      "title" : "第十九章 再战凌霄宫",
+      "capacity" : 6387
+    }, {
+      "id" : 1082,
+      "title" : "第二十章 鹰虽凶猛也怕燕",
+      "capacity" : 6282
+    }, {
+      "id" : 1083,
+      "title" : "第二十一章 赤燕无情 挚友死别",
+      "capacity" : 6695
+    }, {
+      "id" : 1084,
+      "title" : "第二十二章 掌门之位",
+      "capacity" : 8249
+    }, {
+      "id" : 1085,
+      "title" : "第二十三章 留书离别",
+      "capacity" : 8423
+    } ]
+  }
+}
