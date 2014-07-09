@@ -6,11 +6,12 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3408,
-      "name" : "综恐一梦一回",
+      "id" : 3722,
+      "name" : "夏日妍妍正好眠",
       "updateStatus" : 1,
-      "distance" : 8427,
-      "memberId" : 3337
+      "distance" : 7414,
+      "memberId" : 6559,
+      "bothType" : false
     } ]
   }
 }

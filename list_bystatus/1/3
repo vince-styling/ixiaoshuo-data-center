@@ -12,7 +12,8 @@
       "summary" : "景诺从不曾想过飞黄腾达，只要可以与相爱的执手相对，便足矣。可是，这却成了生前最是奢侈的愿望。不过还好",
       "updateStatus" : 1,
       "capacity" : 3865293,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2862,
       "name" : "侵他城占他国上他床",
@@ -20,7 +21,8 @@
       "summary" : "他的诡媚，像沐浴着鲜血盛开的曼陀罗花，带着致命的吸引力，尽管知道靠近就会死亡，可是没人抵挡的住这么致",
       "updateStatus" : 1,
       "capacity" : 9121416,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2320,
       "name" : "夏醉浅梦",
@@ -28,7 +30,8 @@
       "summary" : "她原本就是个16出头的女孩，却因一次无意吵闹而出事故穿越到莫名的准备覆灭的朝代。她还是会跟人吵架、打",
       "updateStatus" : 1,
       "capacity" : 4979012,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2936,
       "name" : "谁言依雪泪墨池",
@@ -36,7 +39,8 @@
       "summary" : "爱了十年，念了十年，到头来却是一场空！原来现在才明白喜欢只是一个人的事，相爱才是两个人的事。一人的爱",
       "updateStatus" : 1,
       "capacity" : 5864250,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2871,
       "name" : "吾心似未央",
@@ -44,7 +48,8 @@
       "summary" : "世界上最大的过错不是错过，而是我们彼此都爱着对方，其中一方却一直保持沉默。沈俊熙说：“未央，我们一起",
       "updateStatus" : 1,
       "capacity" : 5835348,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2179,
       "name" : "嫡女翻身：美人倾流年",
@@ -52,7 +57,8 @@
       "summary" : "穿越而来，背负本尊嘱托。她斗庶母，整庶姐，只为早日离开牢笼。黎雪学士：偶然邂逅，他对她一见倾心，发誓",
       "updateStatus" : 1,
       "capacity" : 5949802,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2649,
       "name" : "女配",
@@ -60,7 +66,8 @@
       "summary" : "你是知道我是不会离开你；你是知道我是真的爱你；你是知道即使你对不起我；我也会原谅你。所以你才不珍惜。",
       "updateStatus" : 1,
       "capacity" : 8616660,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2474,
       "name" : "十早集",
@@ -68,7 +75,8 @@
       "summary" : "一个破镜重圆的家庭；一段近代离奇的往事；一位怀着佛主慈悲之心的古人，他超脱一切，他融汇佛家八苦，用最",
       "updateStatus" : 1,
       "capacity" : 6110920,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2364,
       "name" : "双城——消隐的传奇",
@@ -76,7 +84,8 @@
       "summary" : "《双城》共分四章消隐的传奇，另一个先知，临界之王，从此离开彼有别于其他网路作品，更倾向于纯文学表达方",
       "updateStatus" : 1,
       "capacity" : 7032663,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2548,
       "name" : "绝色白衣帝师",
@@ -84,7 +93,8 @@
       "summary" : "她是一名混血儿，无意间她穿越到了一个未知的世界，但是在这里她用她的聪明才智成为了状元。并且成为了皇子",
       "updateStatus" : 1,
       "capacity" : 1073095,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2136,
       "name" : "替身王爷：妖妃有点萌",
@@ -92,7 +102,8 @@
       "summary" : "女主她师傅和男主他妈是很无良的一对儿好朋友。男主他妈这辈子就认真且热衷过一件事，就是嫁给男主他爸以及",
       "updateStatus" : 1,
       "capacity" : 5827149,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2349,
       "name" : "不相信国",
@@ -100,7 +111,8 @@
       "summary" : "不相信国几年前的一场儿童人体试验，在公众的强烈抗议下终止实验，然而一百名被遗弃儿童中却仅有一名幸存，",
       "updateStatus" : 1,
       "capacity" : 8535146,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2856,
       "name" : "风诉",
@@ -108,7 +120,8 @@
       "summary" : "曾经简单舒适的生活，被一次任务所打破，原本平凡的魔族少女，一步一步走进阴谋与背叛之中，支撑她走到最后",
       "updateStatus" : 1,
       "capacity" : 4448443,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2258,
       "name" : "爆笑冤家：你的地盘我做主",
@@ -116,7 +129,8 @@
       "summary" : "一对情侣在牛头马面的失误下被带到地府，遇到一个紧跟时尚潮流的阎王爷，被告知两人需要永生永世经历相遇相",
       "updateStatus" : 1,
       "capacity" : 1692621,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2465,
       "name" : "双魂神探",
@@ -124,7 +138,8 @@
       "summary" : "三个人，四个灵魂。叠加的双魂神探，左手牵着妖孽法医，右手拎着腹黑天师。诡异的案件，不怕！有她双魂神探",
       "updateStatus" : 1,
       "capacity" : 9044119,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2223,
       "name" : "浩瀚风云录",
@@ -132,7 +147,8 @@
       "summary" : "一个身负血海深仇的人族三太子，一部人神妖魔的风云乱世，一个新的世界——“浩瀚”。一神，二城，三陆，四",
       "updateStatus" : 1,
       "capacity" : 1240180,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2329,
       "name" : "绝色兽妃戏天下",
@@ -140,7 +156,8 @@
       "summary" : "她是军火女皇，王牌杀手，一场恶毒背叛，一朝时空交错。被自己的姐姐打死？人人轻贱的萧家小姐却死而复生，",
       "updateStatus" : 1,
       "capacity" : 5510233,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2634,
       "name" : "白日说梦",
@@ -148,7 +165,8 @@
       "summary" : "张宏高考落榜之后，不堪家庭的压力、社会的鄙视，成功逃离了家门，来到一个陌生的城市，耗尽钱财费尽周折之",
       "updateStatus" : 1,
       "capacity" : 5908299,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2854,
       "name" : "清音冷",
@@ -156,7 +174,8 @@
       "summary" : "神秘的古域，一个守护者，一个秘密。他和她的初次相遇是这个古域中最美的城中。她和他的第二次相遇仍是这里",
       "updateStatus" : 1,
       "capacity" : 9894707,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2079,
       "name" : "祸乱天下之南泽有宝",
@@ -164,7 +183,8 @@
       "summary" : "\"她哪是女人！女人都是水做的，她就是一捧沙子！\"“她不是沙子，她是火，玉石俱焚的火，思念成灾的火。”",
       "updateStatus" : 1,
       "capacity" : 5802809,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "summary" : "在一个普通的人类难以成为魔法师的世界里，约昂使用了禁忌的魔石，一旦用后就得以使用者自身生命力作为代价",
       "updateStatus" : 1,
       "capacity" : 2375723,
-      "readerCount" : 14725
+      "readerCount" : 14725,
+      "bothType" : false
     }, {
       "id" : 2775,
       "name" : "实验品女孩的桃花运",
@@ -20,7 +21,8 @@
       "summary" : "她是一个异能实验品，成功则活，失败则毁。但她作为最成功的实验品，不仅拥有自己的意识，还向往着普通的生",
       "updateStatus" : 1,
       "capacity" : 6745027,
-      "readerCount" : 14711
+      "readerCount" : 14711,
+      "bothType" : false
     }, {
       "id" : 2605,
       "name" : "无限之血统",
@@ -28,7 +30,8 @@
       "summary" : "“用你们的鲜血，来取悦我吧”它对着所有人奸笑道。“他是不是忘吃药了？”林萧无奈的摆了摆手。“何弃疗！",
       "updateStatus" : 1,
       "capacity" : 3440695,
-      "readerCount" : 14685
+      "readerCount" : 14685,
+      "bothType" : false
     }, {
       "id" : 2558,
       "name" : "唯吾独尊：废物公主傲天下",
@@ -36,7 +39,8 @@
       "summary" : "她欧阳阳现代白领，同样也是现代古武家族的天才。却因为自己的变态弟弟而身死。一朝穿越却成为云国的废物公",
       "updateStatus" : 1,
       "capacity" : 1134061,
-      "readerCount" : 14606
+      "readerCount" : 14606,
+      "bothType" : false
     }, {
       "id" : 2852,
       "name" : "花千世界",
@@ -44,7 +48,8 @@
       "summary" : "古有创世之花与起源之草，成就花千世界今有十大圣花与十大神草，引发世界纷争花千世界，群雄林立，人才辈出",
       "updateStatus" : 1,
       "capacity" : 9573578,
-      "readerCount" : 14596
+      "readerCount" : 14596,
+      "bothType" : true
     }, {
       "id" : 2898,
       "name" : "天戒",
@@ -52,7 +57,8 @@
       "summary" : "前世的某一世是女神，前世的某一世是女王，前世的某一世是御姐，这一世、是女D丝。哎~~~真是凤凰生孔雀",
       "updateStatus" : 1,
       "capacity" : 2695890,
-      "readerCount" : 14551
+      "readerCount" : 14551,
+      "bothType" : false
     }, {
       "id" : 2552,
       "name" : "顽妃双刃斩天下",
@@ -60,7 +66,8 @@
       "summary" : "“不管你是谁，后台多硬，认识多少人。别动我兄弟！更别打我男人的主意。更加不能欺负我父母，不然我会让你",
       "updateStatus" : 1,
       "capacity" : 1223211,
-      "readerCount" : 14507
+      "readerCount" : 14507,
+      "bothType" : false
     }, {
       "id" : 2698,
       "name" : "混世神魔",
@@ -68,7 +75,8 @@
       "summary" : "一位现代青年在自己坚持不懈的努力下，走上了一条修真之道；然而对于修真，他还是一个懵懂无知的青年；于是",
       "updateStatus" : 1,
       "capacity" : 3027430,
-      "readerCount" : 14278
+      "readerCount" : 14278,
+      "bothType" : false
     }, {
       "id" : 2702,
       "name" : "光与暗之命运狂想曲",
@@ -76,7 +84,8 @@
       "summary" : "神秘的雅尔法拉大陆上的姐弟俩，从他们生下来的那个一刻起就注定了不平凡的人生，也画下了完全不同的人生轨",
       "updateStatus" : 1,
       "capacity" : 2541921,
-      "readerCount" : 13895
+      "readerCount" : 13895,
+      "bothType" : false
     }, {
       "id" : 2226,
       "name" : "浴火之凰",
@@ -84,7 +93,8 @@
       "summary" : "“白暮汐！”凌傲的心仿佛被什么揪住，第一次感觉到自己的无力。白暮汐的身体渐渐跌落，白色的衣角伴着血液",
       "updateStatus" : 1,
       "capacity" : 8504112,
-      "readerCount" : 13512
+      "readerCount" : 13512,
+      "bothType" : false
     }, {
       "id" : 2298,
       "name" : "重生联盟之绝代风华",
@@ -92,7 +102,8 @@
       "summary" : "厌倦了隐世家族的争斗，她以决绝的方式结束了这一切。却不料……遇上了重生这回事。这一世，她以大联盟宋家",
       "updateStatus" : 1,
       "capacity" : 4686445,
-      "readerCount" : 13166
+      "readerCount" : 13166,
+      "bothType" : false
     }, {
       "id" : 2699,
       "name" : "繁花烬之绝世倾城",
@@ -100,7 +111,8 @@
       "summary" : "繁华满幕之景，离人终是断肠。我们几乎用生命去经历这场红尘之劫，竟是一曲旷世悲歌。冰冷的剑刺破你火热的",
       "updateStatus" : 1,
       "capacity" : 2812515,
-      "readerCount" : 13162
+      "readerCount" : 13162,
+      "bothType" : false
     }, {
       "id" : 2123,
       "name" : "鬼歾",
@@ -108,7 +120,8 @@
       "summary" : "曾经威震六界的一族，却因为背叛，沉默了千年。千年重生后的一切，是否依旧。“嗯，虽然我想起了事情的部分",
       "updateStatus" : 2,
       "capacity" : 7943182,
-      "readerCount" : 13065
+      "readerCount" : 13065,
+      "bothType" : false
     }, {
       "id" : 2242,
       "name" : "断刃天涯",
@@ -116,7 +129,8 @@
       "summary" : "诸神的黄昏，是上天的惩罚，还是重生的预兆。作为英雄诞生之地的阿拉德大陆却成为了人世间最后一方净土，谁",
       "updateStatus" : 1,
       "capacity" : 7099460,
-      "readerCount" : 13039
+      "readerCount" : 13039,
+      "bothType" : false
     }, {
       "id" : 2709,
       "name" : "至尊特工：狂凤逆九天",
@@ -124,7 +138,8 @@
       "summary" : "我要翻手为云覆手为雨我要那些废物匍匐在我的脚下我要站在顶端漠望天下聚散离合转逆九天间引我为王为父母为",
       "updateStatus" : 1,
       "capacity" : 1477680,
-      "readerCount" : 12978
+      "readerCount" : 12978,
+      "bothType" : false
     }, {
       "id" : 2192,
       "name" : "灵幻",
@@ -132,7 +147,8 @@
       "summary" : "墨羽，一个名不见经传的高中生，生活在一颗蔚蓝色的星球中！没钱、没车、没房、没背景，总结起来就是个“四",
       "updateStatus" : 2,
       "capacity" : 6869980,
-      "readerCount" : 12324
+      "readerCount" : 12324,
+      "bothType" : false
     }, {
       "id" : 3401,
       "name" : "狂2",
@@ -140,7 +156,8 @@
       "summary" : "她原本是杀手组织中的一员，却不小心穿越到了异世。",
       "updateStatus" : 1,
       "capacity" : 2285437,
-      "readerCount" : 12245
+      "readerCount" : 12245,
+      "bothType" : false
     }, {
       "id" : 2196,
       "name" : "似梦非梦：我的前世今生",
@@ -148,7 +165,8 @@
       "summary" : "前世因，今世果。一个未饮孟婆汤，在今世的梦里不断忆起前世的女子，她的人生将会有怎样的波折和磨难？",
       "updateStatus" : 2,
       "capacity" : 5797014,
-      "readerCount" : 12150
+      "readerCount" : 12150,
+      "bothType" : false
     }, {
       "id" : 3002,
       "name" : "微笑的告死者",
@@ -156,7 +174,8 @@
       "summary" : "何为恨？何又为爱？十岁时，她明白了。初尝，却是已失去所有。“站上强者的巅峰”，这是我与你一生的约定！",
       "updateStatus" : 1,
       "capacity" : 9529866,
-      "readerCount" : 12145
+      "readerCount" : 12145,
+      "bothType" : true
     }, {
       "id" : 2239,
       "name" : "都市修仙巅峰传说",
@@ -164,7 +183,8 @@
       "summary" : "在这浩荡的宇宙中，有一颗神奇的星球。里面居住着各种生物。就在此时天空中五股不同的力量居然往同一个地方",
       "updateStatus" : 1,
       "capacity" : 2493992,
-      "readerCount" : 12067
+      "readerCount" : 12067,
+      "bothType" : true
     } ]
   }
 }

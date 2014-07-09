@@ -12,7 +12,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 2551528,
-      "lastUpdateTime" : "2013-12-12 06:23:01"
+      "lastUpdateTime" : "2013-12-12 06:23:01",
+      "bothType" : true
     }, {
       "id" : 3480,
       "name" : "妖传——岁与千陌",
@@ -20,7 +21,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 95151,
-      "lastUpdateTime" : "2013-12-12 05:37:10"
+      "lastUpdateTime" : "2013-12-12 05:37:10",
+      "bothType" : true
     }, {
       "id" : 2359,
       "name" : "羽落殇心醉红尘",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21917.jpg",
       "updateStatus" : 2,
       "capacity" : 4324780,
-      "lastUpdateTime" : "2013-12-12 04:42:14"
+      "lastUpdateTime" : "2013-12-12 04:42:14",
+      "bothType" : false
     }, {
       "id" : 2350,
       "name" : "蝶缘痴恋",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47789.jpg",
       "updateStatus" : 1,
       "capacity" : 2925389,
-      "lastUpdateTime" : "2013-12-12 04:35:54"
+      "lastUpdateTime" : "2013-12-12 04:35:54",
+      "bothType" : false
     }, {
       "id" : 2743,
       "name" : "青羽记",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15091.jpg",
       "updateStatus" : 1,
       "capacity" : 1533338,
-      "lastUpdateTime" : "2013-12-12 04:25:53"
+      "lastUpdateTime" : "2013-12-12 04:25:53",
+      "bothType" : false
     }, {
       "id" : 2180,
       "name" : "极品刀神",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47435.jpg",
       "updateStatus" : 1,
       "capacity" : 2990553,
-      "lastUpdateTime" : "2013-12-12 03:50:14"
+      "lastUpdateTime" : "2013-12-12 03:50:14",
+      "bothType" : false
     }, {
       "id" : 3561,
       "name" : "穿越之唯爱有你",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44941.jpg",
       "updateStatus" : 1,
       "capacity" : 49874,
-      "lastUpdateTime" : "2013-12-12 03:34:30"
+      "lastUpdateTime" : "2013-12-12 03:34:30",
+      "bothType" : false
     }, {
       "id" : 2167,
       "name" : "妃同寻常：王爷接招吧",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45239.jpg",
       "updateStatus" : 1,
       "capacity" : 1813891,
-      "lastUpdateTime" : "2013-12-12 03:27:00"
+      "lastUpdateTime" : "2013-12-12 03:27:00",
+      "bothType" : false
     }, {
       "id" : 2379,
       "name" : "观众也难做",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47306.jpg",
       "updateStatus" : 1,
       "capacity" : 1530448,
-      "lastUpdateTime" : "2013-12-12 03:23:16"
+      "lastUpdateTime" : "2013-12-12 03:23:16",
+      "bothType" : true
     }, {
       "id" : 2732,
       "name" : "至死不渝之搞怪王妃",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22830.jpg",
       "updateStatus" : 1,
       "capacity" : 4336962,
-      "lastUpdateTime" : "2013-12-12 03:18:45"
+      "lastUpdateTime" : "2013-12-12 03:18:45",
+      "bothType" : false
     }, {
       "id" : 3450,
       "name" : "浮光",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18612.jpg",
       "updateStatus" : 1,
       "capacity" : 171299,
-      "lastUpdateTime" : "2013-12-12 01:41:11"
+      "lastUpdateTime" : "2013-12-12 01:41:11",
+      "bothType" : false
     }, {
       "id" : 2388,
       "name" : "倾世执着",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16011.jpg",
       "updateStatus" : 2,
       "capacity" : 5913483,
-      "lastUpdateTime" : "2013-12-12 01:19:47"
+      "lastUpdateTime" : "2013-12-12 01:19:47",
+      "bothType" : true
     }, {
       "id" : 3341,
       "name" : "生于暮晨死于暮歌",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16577.jpg",
       "updateStatus" : 1,
       "capacity" : 179397,
-      "lastUpdateTime" : "2013-12-12 00:24:40"
+      "lastUpdateTime" : "2013-12-12 00:24:40",
+      "bothType" : true
     }, {
       "id" : 3106,
       "name" : "被流放的女将军",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17834.jpg",
       "updateStatus" : 1,
       "capacity" : 220835,
-      "lastUpdateTime" : "2013-12-12 00:22:24"
+      "lastUpdateTime" : "2013-12-12 00:22:24",
+      "bothType" : false
     }, {
       "id" : 3523,
       "name" : "圣界天域",
@@ -124,7 +138,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 1002784,
-      "lastUpdateTime" : "2013-12-12 00:21:28"
+      "lastUpdateTime" : "2013-12-12 00:21:28",
+      "bothType" : true
     }, {
       "id" : 3692,
       "name" : "恶魔承传者",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_2037.jpg",
       "updateStatus" : 1,
       "capacity" : 181690,
-      "lastUpdateTime" : "2013-12-12 00:19:06"
+      "lastUpdateTime" : "2013-12-12 00:19:06",
+      "bothType" : false
     }, {
       "id" : 2942,
       "name" : "手可摘星辰",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46753.jpg",
       "updateStatus" : 1,
       "capacity" : 5266471,
-      "lastUpdateTime" : "2013-12-11 23:45:24"
+      "lastUpdateTime" : "2013-12-11 23:45:24",
+      "bothType" : true
     }, {
       "id" : 3596,
       "name" : "不要在一起",
@@ -148,7 +165,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 71442,
-      "lastUpdateTime" : "2013-12-11 23:37:12"
+      "lastUpdateTime" : "2013-12-11 23:37:12",
+      "bothType" : true
     }, {
       "id" : 3208,
       "name" : "冥铭之国",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16378.jpg",
       "updateStatus" : 1,
       "capacity" : 810443,
-      "lastUpdateTime" : "2013-12-11 23:31:22"
+      "lastUpdateTime" : "2013-12-11 23:31:22",
+      "bothType" : false
     }, {
       "id" : 2319,
       "name" : "绝代风华：魅惑帝王心",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20981.jpg",
       "updateStatus" : 2,
       "capacity" : 9303636,
-      "lastUpdateTime" : "2013-12-11 23:11:06"
+      "lastUpdateTime" : "2013-12-11 23:11:06",
+      "bothType" : false
     } ]
   }
 }

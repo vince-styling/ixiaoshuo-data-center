@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44570.jpg",
       "updateStatus" : 1,
       "capacity" : 208965,
-      "lastUpdateTime" : "2013-12-21 03:29:13"
+      "lastUpdateTime" : "2013-12-21 03:29:13",
+      "bothType" : true
     }, {
       "id" : 2311,
       "name" : "凤血",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47262.jpg",
       "updateStatus" : 1,
       "capacity" : 4492507,
-      "lastUpdateTime" : "2013-12-21 03:23:56"
+      "lastUpdateTime" : "2013-12-21 03:23:56",
+      "bothType" : true
     }, {
       "id" : 2648,
       "name" : "浮生琉璃路",
@@ -28,7 +30,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 5542171,
-      "lastUpdateTime" : "2013-12-21 03:02:54"
+      "lastUpdateTime" : "2013-12-21 03:02:54",
+      "bothType" : false
     }, {
       "id" : 3717,
       "name" : "异界纵横",
@@ -36,7 +39,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 111352,
-      "lastUpdateTime" : "2013-12-21 01:42:24"
+      "lastUpdateTime" : "2013-12-21 01:42:24",
+      "bothType" : false
     }, {
       "id" : 3097,
       "name" : "穿越之丑凤倾城",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_4390.jpg",
       "updateStatus" : 1,
       "capacity" : 208045,
-      "lastUpdateTime" : "2013-12-21 00:47:50"
+      "lastUpdateTime" : "2013-12-21 00:47:50",
+      "bothType" : false
     }, {
       "id" : 3250,
       "name" : "极点之境",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19998.jpg",
       "updateStatus" : 1,
       "capacity" : 1018947,
-      "lastUpdateTime" : "2013-12-20 23:35:09"
+      "lastUpdateTime" : "2013-12-20 23:35:09",
+      "bothType" : false
     }, {
       "id" : 3283,
       "name" : "掠心总裁：爹地，你弱爆了！",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47164.jpg",
       "updateStatus" : 1,
       "capacity" : 275379,
-      "lastUpdateTime" : "2013-12-20 23:17:16"
+      "lastUpdateTime" : "2013-12-20 23:17:16",
+      "bothType" : false
     }, {
       "id" : 2870,
       "name" : "爱情有多远",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47368.jpg",
       "updateStatus" : 1,
       "capacity" : 4784457,
-      "lastUpdateTime" : "2013-12-20 23:17:13"
+      "lastUpdateTime" : "2013-12-20 23:17:13",
+      "bothType" : false
     }, {
       "id" : 3095,
       "name" : "墨色眼瞳中的温柔",
@@ -76,7 +84,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 24997,
-      "lastUpdateTime" : "2013-12-20 22:55:57"
+      "lastUpdateTime" : "2013-12-20 22:55:57",
+      "bothType" : false
     }, {
       "id" : 3226,
       "name" : "奇迹少年",
@@ -84,7 +93,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 29968,
-      "lastUpdateTime" : "2013-12-20 22:01:49"
+      "lastUpdateTime" : "2013-12-20 22:01:49",
+      "bothType" : false
     }, {
       "id" : 3672,
       "name" : "只愿得君心",
@@ -92,7 +102,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 210678,
-      "lastUpdateTime" : "2013-12-20 21:42:35"
+      "lastUpdateTime" : "2013-12-20 21:42:35",
+      "bothType" : true
     }, {
       "id" : 3108,
       "name" : "金豆豆是宝贝疙瘩",
@@ -100,7 +111,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 133203,
-      "lastUpdateTime" : "2013-12-20 21:13:57"
+      "lastUpdateTime" : "2013-12-20 21:13:57",
+      "bothType" : false
     }, {
       "id" : 3006,
       "name" : "君在水之湄",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42062.jpg",
       "updateStatus" : 1,
       "capacity" : 8504594,
-      "lastUpdateTime" : "2013-12-20 21:02:50"
+      "lastUpdateTime" : "2013-12-20 21:02:50",
+      "bothType" : false
     }, {
       "id" : 3511,
       "name" : "为续雪香",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43366.jpg",
       "updateStatus" : 1,
       "capacity" : 198425,
-      "lastUpdateTime" : "2013-12-20 20:54:47"
+      "lastUpdateTime" : "2013-12-20 20:54:47",
+      "bothType" : false
     }, {
       "id" : 2819,
       "name" : "医狂天下：驯服邪恶暗帝",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47618.jpg",
       "updateStatus" : 1,
       "capacity" : 2639255,
-      "lastUpdateTime" : "2013-12-20 20:33:04"
+      "lastUpdateTime" : "2013-12-20 20:33:04",
+      "bothType" : true
     }, {
       "id" : 3512,
       "name" : "朱颜修仙记",
@@ -132,7 +147,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 275265,
-      "lastUpdateTime" : "2013-12-20 20:16:21"
+      "lastUpdateTime" : "2013-12-20 20:16:21",
+      "bothType" : false
     }, {
       "id" : 2603,
       "name" : "墨瞳物语",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46527.jpg",
       "updateStatus" : 1,
       "capacity" : 4981050,
-      "lastUpdateTime" : "2013-12-20 18:50:41"
+      "lastUpdateTime" : "2013-12-20 18:50:41",
+      "bothType" : true
     }, {
       "id" : 2410,
       "name" : "霸情总裁：女人，别太冷",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15978.jpg",
       "updateStatus" : 2,
       "capacity" : 4356399,
-      "lastUpdateTime" : "2013-12-20 18:20:17"
+      "lastUpdateTime" : "2013-12-20 18:20:17",
+      "bothType" : false
     }, {
       "id" : 2176,
       "name" : "重生之堕仙",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47155.jpg",
       "updateStatus" : 1,
       "capacity" : 4966205,
-      "lastUpdateTime" : "2013-12-20 17:55:14"
+      "lastUpdateTime" : "2013-12-20 17:55:14",
+      "bothType" : false
     }, {
       "id" : 3234,
       "name" : "死神通法三部曲",
@@ -164,7 +183,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 10738,
-      "lastUpdateTime" : "2013-12-20 17:14:45"
+      "lastUpdateTime" : "2013-12-20 17:14:45",
+      "bothType" : false
     } ]
   }
 }

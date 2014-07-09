@@ -12,7 +12,8 @@
       "summary" : "第一个她，行尸走肉般地活在宫廷中。她是一个活人，却早已经死了。第二个她，隐身匿迹般地死在宫廷中。她是",
       "updateStatus" : 1,
       "capacity" : 7615771,
-      "readerCount" : 18810
+      "readerCount" : 18810,
+      "bothType" : false
     }, {
       "id" : 2566,
       "name" : "那些年，我和你",
@@ -20,7 +21,8 @@
       "summary" : "大学毕业之后，田诺诺与李荀怀着自己的梦想开始奔走社会，路途中她们一起欢笑，一起流泪，一起奋斗，一起记",
       "updateStatus" : 1,
       "capacity" : 8027784,
-      "readerCount" : 18782
+      "readerCount" : 18782,
+      "bothType" : false
     }, {
       "id" : 2517,
       "name" : "家教之七色光芒",
@@ -28,7 +30,8 @@
       "summary" : "这是黑手党的世界，黑暗、残酷、暴力、弱肉强食、适者生存！这也是少年的世界，青春、热血、友爱、激情四射",
       "updateStatus" : 1,
       "capacity" : 6082533,
-      "readerCount" : 18782
+      "readerCount" : 18782,
+      "bothType" : false
     }, {
       "id" : 2849,
       "name" : "缘来还是你",
@@ -36,7 +39,8 @@
       "summary" : "年少时的记忆，青年时的经历，都比不上以后的安稳……喂，那边的白痴太子，说你呢，笑什么笑炫耀你牙齿白啊",
       "updateStatus" : 1,
       "capacity" : 6569364,
-      "readerCount" : 18771
+      "readerCount" : 18771,
+      "bothType" : true
     }, {
       "id" : 2985,
       "name" : "重生之红梅烙",
@@ -44,7 +48,8 @@
       "summary" : "内容介绍：意外重生，竟变成梅家废材，前世繁华不在，如今又该怎样扭转人生。魔界至尊，遭遇何种竟会仇恨至",
       "updateStatus" : 1,
       "capacity" : 1800463,
-      "readerCount" : 18761
+      "readerCount" : 18761,
+      "bothType" : true
     }, {
       "id" : 2896,
       "name" : "三界风云之魅影",
@@ -52,7 +57,8 @@
       "summary" : "帝都繁华的市井当中，一位名叫公孙牧的年轻人偶遇了一位风流倜傥的贵公子伊瞬华，不曾想这次偶遇为魅族的存",
       "updateStatus" : 1,
       "capacity" : 9773629,
-      "readerCount" : 18744
+      "readerCount" : 18744,
+      "bothType" : false
     }, {
       "id" : 2064,
       "name" : "百变夫君猎顽妻",
@@ -60,7 +66,8 @@
       "summary" : "\"什么？要我嫁给那个混蛋太子，他哪根筋搭错了啊？\"“不就是和他睡了一晚么？我都不介意？他介意个啥？想",
       "updateStatus" : 2,
       "capacity" : 8318072,
-      "readerCount" : 18740
+      "readerCount" : 18740,
+      "bothType" : false
     }, {
       "id" : 2308,
       "name" : "月牙",
@@ -68,7 +75,8 @@
       "summary" : "她是谁？是女巫？是怪物？还是天使？这样一个不为人知的生命体，她的存在对于世间是福还是祸？正邪交织的血",
       "updateStatus" : 1,
       "capacity" : 7540691,
-      "readerCount" : 18706
+      "readerCount" : 18706,
+      "bothType" : true
     }, {
       "id" : 2282,
       "name" : "凤动九天：一等皇妃倾天下",
@@ -76,7 +84,8 @@
       "summary" : "仇恨，让她从一个原本快乐无忧的孩子成为了笑容灿烂的“郡主”；阴谋，让她从一个原本享尽荣华的公主成为了",
       "updateStatus" : 1,
       "capacity" : 2093905,
-      "readerCount" : 18697
+      "readerCount" : 18697,
+      "bothType" : false
     }, {
       "id" : 2919,
       "name" : "柚子",
@@ -84,7 +93,8 @@
       "summary" : "“难忘那片美丽的星空，因为星空下，我们还在一起。爸爸妈妈，我们会手挽手，一直走下去，无论未来是否还有",
       "updateStatus" : 1,
       "capacity" : 5446802,
-      "readerCount" : 18682
+      "readerCount" : 18682,
+      "bothType" : false
     }, {
       "id" : 2077,
       "name" : "还珠之我们之间的爱情如空气",
@@ -92,7 +102,8 @@
       "summary" : "其实在还珠格格第三部没有开播之前我就设想了无数次第三部的情节和内容，可是看了第三部以后，不禁心生失望",
       "updateStatus" : 1,
       "capacity" : 2413286,
-      "readerCount" : 18625
+      "readerCount" : 18625,
+      "bothType" : false
     }, {
       "id" : 2945,
       "name" : "烟月飞鸟",
@@ -100,7 +111,8 @@
       "summary" : "笑叹智穷不知今况终成空，刀钝人乏恩断义绝梦方破，路荒已叹饱览足迹没人懂，多年往烟雨穿过红尘滚滚我没看",
       "updateStatus" : 1,
       "capacity" : 3321036,
-      "readerCount" : 18590
+      "readerCount" : 18590,
+      "bothType" : true
     }, {
       "id" : 2720,
       "name" : "你怎么还不死回来",
@@ -108,7 +120,8 @@
       "summary" : "这是一个内心炸毛的女人和N个闷骚无情商男人们如何攻下寂寞空虚高手大BOSS的故事。为了生存她要巴结从",
       "updateStatus" : 1,
       "capacity" : 2920784,
-      "readerCount" : 18564
+      "readerCount" : 18564,
+      "bothType" : false
     }, {
       "id" : 2963,
       "name" : "丽江的春天",
@@ -116,7 +129,8 @@
       "summary" : "丽江，不仅是发呆免费的“悠闲天堂”，也是诱惑撩人的“艳遇天堂”。失业又失恋的愤怒文艺女青年春晓流浪到",
       "updateStatus" : 1,
       "capacity" : 4836440,
-      "readerCount" : 18561
+      "readerCount" : 18561,
+      "bothType" : false
     }, {
       "id" : 2081,
       "name" : "命定一瞬，执念一生",
@@ -124,7 +138,8 @@
       "summary" : "人生若只如初见，何事秋风悲画扇。等闲变却故人心，却道故心人易变。骊山语罢清宵半，泪雨霖铃终不怨。何如",
       "updateStatus" : 1,
       "capacity" : 5195672,
-      "readerCount" : 18529
+      "readerCount" : 18529,
+      "bothType" : true
     }, {
       "id" : 2960,
       "name" : "时空之旅",
@@ -132,7 +147,8 @@
       "summary" : "被陨石流甩出银河系额，貌似情况有些严重……路遇神兽额，一顿烤鱼，能化干戈为玉帛，化神兽为萌宠，走出去",
       "updateStatus" : 1,
       "capacity" : 3545134,
-      "readerCount" : 18514
+      "readerCount" : 18514,
+      "bothType" : false
     }, {
       "id" : 2202,
       "name" : "妖精张华的回忆录",
@@ -140,7 +156,8 @@
       "summary" : "一个腐朽的帝国在战乱中摇摇欲坠。贵族们过着嗜虐、吸毒、嗜血、嗜尸的糜烂生活；革命者则愤慨、凶残、虚伪",
       "updateStatus" : 1,
       "capacity" : 9126229,
-      "readerCount" : 18459
+      "readerCount" : 18459,
+      "bothType" : false
     }, {
       "id" : 2662,
       "name" : "最初的美好",
@@ -148,7 +165,8 @@
       "summary" : "“如果有来生，我不愿再遇见你,如果能忘记，我宁愿从不记起如果我们不曾相识，又岂会相爱,如果我们一早就",
       "updateStatus" : 1,
       "capacity" : 3213868,
-      "readerCount" : 18435
+      "readerCount" : 18435,
+      "bothType" : false
     }, {
       "id" : 2143,
       "name" : "重生修炼龙祖",
@@ -156,7 +174,8 @@
       "summary" : "电生平淡的生活了一生，与别人相比活到92岁高龄是件很幸福的事，但即使如此面临生死离别也是件痛苦的事，",
       "updateStatus" : 2,
       "capacity" : 8531324,
-      "readerCount" : 18430
+      "readerCount" : 18430,
+      "bothType" : false
     }, {
       "id" : 2572,
       "name" : "魔妃逆九天",
@@ -164,7 +183,8 @@
       "summary" : "她，21世纪的杀手——嗜。无情，就好像她根本就没有心，更不知情为何物！一朝穿越，她成为沐家四小姐。在",
       "updateStatus" : 1,
       "capacity" : 1484289,
-      "readerCount" : 18421
+      "readerCount" : 18421,
+      "bothType" : false
     } ]
   }
 }

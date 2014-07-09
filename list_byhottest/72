@@ -12,7 +12,8 @@
       "summary" : "大业四十五年，中原女尊大陆，皋陶、南吴、室离三分天下，唯室离阁主牧逐君以男子身份独霸一方，妩媚风流，",
       "updateStatus" : 1,
       "capacity" : 61735,
-      "readerCount" : 626
+      "readerCount" : 626,
+      "bothType" : false
     }, {
       "id" : 3490,
       "name" : "舍友是公主大人",
@@ -20,7 +21,8 @@
       "summary" : "刚进学校的第一天，舍友是位冷漠少女。一脸杀气的她，竟会和校草们说笑。真是不解，当打开教室的门时，惊天",
       "updateStatus" : 1,
       "capacity" : 112904,
-      "readerCount" : 622
+      "readerCount" : 622,
+      "bothType" : true
     }, {
       "id" : 3051,
       "name" : "执念恨",
@@ -28,7 +30,8 @@
       "summary" : "她是命里的一国之母，她任性，自私，狂妄，狠毒....她恨他，恨他的纠缠，恨他的剥夺，恨他毁灭了她的人",
       "updateStatus" : 2,
       "capacity" : 94249,
-      "readerCount" : 622
+      "readerCount" : 622,
+      "bothType" : false
     }, {
       "id" : 3100,
       "name" : "这不是王者归来",
@@ -36,7 +39,8 @@
       "summary" : "一位绝美的发小，冷酷寡言却温柔护短；一位儒雅的蓝颜，温柔隽永却深藏秘密；一对财阀的公子千金兄妹，开朗",
       "updateStatus" : 1,
       "capacity" : 1098325,
-      "readerCount" : 620
+      "readerCount" : 620,
+      "bothType" : true
     }, {
       "id" : 2972,
       "name" : "MoMo大陆传奇",
@@ -44,7 +48,8 @@
       "summary" : "她，一个21世纪的大腐女、大剩女，在机缘巧合之下来的了一个叫MoMo大陆的地方；她，贪财、贪吃，到处",
       "updateStatus" : 1,
       "capacity" : 2479212,
-      "readerCount" : 619
+      "readerCount" : 619,
+      "bothType" : false
     }, {
       "id" : 3108,
       "name" : "金豆豆是宝贝疙瘩",
@@ -52,7 +57,8 @@
       "summary" : "“宝贝~”带着浓浓的尾音的男生传进了一个长得非常卡哇伊的女孩儿的耳朵里面。被打扰了自己午睡的女孩儿顿",
       "updateStatus" : 1,
       "capacity" : 133203,
-      "readerCount" : 617
+      "readerCount" : 617,
+      "bothType" : false
     }, {
       "id" : 3254,
       "name" : "北京不眠",
@@ -60,7 +66,8 @@
       "summary" : "几分愁肠，初出社会无意之中做了别人的小三。半杯酸楚，怎样逃离小三的命运和正妻的迫害？混乱职场，残忍的",
       "updateStatus" : 1,
       "capacity" : 403072,
-      "readerCount" : 612
+      "readerCount" : 612,
+      "bothType" : false
     }, {
       "id" : 3302,
       "name" : "幽冥女王：猖狂天下",
@@ -68,7 +75,8 @@
       "summary" : "鲜为人知的秘辛，扑朔迷离的真相，她无意搅乱这表面宁静的天下。神魔大战背后究竟隐藏着什么样的秘密？她的",
       "updateStatus" : 1,
       "capacity" : 20792,
-      "readerCount" : 606
+      "readerCount" : 606,
+      "bothType" : false
     }, {
       "id" : 3194,
       "name" : "北漂女的情和欲",
@@ -76,7 +84,8 @@
       "summary" : "姓名；宁蕾，女，20岁，身高，160，皮肤白，体重108，个性张扬，温柔随和。虽然不是像明星一样的漂",
       "updateStatus" : 1,
       "capacity" : 17025,
-      "readerCount" : 604
+      "readerCount" : 604,
+      "bothType" : false
     }, {
       "id" : 3718,
       "name" : "弱水三千，只饮一瓢",
@@ -84,7 +93,8 @@
       "summary" : "“哥，我喜欢上她了，对不起。”“&middot;&middot;&middot;&middot;&m",
       "updateStatus" : 1,
       "capacity" : 11450,
-      "readerCount" : 604
+      "readerCount" : 604,
+      "bothType" : false
     }, {
       "id" : 3412,
       "name" : "请在原地等等我",
@@ -92,7 +102,8 @@
       "summary" : "天各一方的她和他，因为彼此的父母走到了一起，生活在了一个屋檐下。如果不是束缚在自己内心的地位区别，他",
       "updateStatus" : 1,
       "capacity" : 144952,
-      "readerCount" : 602
+      "readerCount" : 602,
+      "bothType" : false
     }, {
       "id" : 3415,
       "name" : "黑道老大的冷酷男友",
@@ -100,7 +111,8 @@
       "summary" : "冷血寒是一个容易心软的女孩，在她很小的时候遇到了比她大两岁的男孩，这个男孩第一眼看到她就喜欢上了她，",
       "updateStatus" : 1,
       "capacity" : 504890,
-      "readerCount" : 601
+      "readerCount" : 601,
+      "bothType" : false
     }, {
       "id" : 3537,
       "name" : "倾尽天下，乱世红颜",
@@ -108,7 +120,8 @@
       "summary" : "“生生世世永不分离！”这是他与她许下的诺言那一世，她，奄奄一息，他，舍命相救，终究逃不过命运的安排。",
       "updateStatus" : 1,
       "capacity" : 161799,
-      "readerCount" : 593
+      "readerCount" : 593,
+      "bothType" : false
     }, {
       "id" : 3564,
       "name" : "十二生肖女神的恋爱",
@@ -116,7 +129,8 @@
       "summary" : "生肖鼠对应水瓶，五行属性水，守护星天王星，有个性的爱。生肖牛对应摩羯，五行属性土，守护星土星，孤独的",
       "updateStatus" : 1,
       "capacity" : 25503,
-      "readerCount" : 592
+      "readerCount" : 592,
+      "bothType" : false
     }, {
       "id" : 3251,
       "name" : "博宇睿",
@@ -124,7 +138,8 @@
       "summary" : "他爱上好朋友的男朋友得到他的同时他却离开他然后他才明白原来他们是旧识原来他不是好朋友的男朋友原来,他",
       "updateStatus" : 1,
       "capacity" : 83765,
-      "readerCount" : 585
+      "readerCount" : 585,
+      "bothType" : false
     }, {
       "id" : 3128,
       "name" : "遇上你遇上爱：丫头，哪里逃",
@@ -132,7 +147,8 @@
       "summary" : "孤独的度过17年的孤儿生活，意外的亲生父母来相认，转校的第一天遇到了妖孽般的他，冰山似的他，又超级苦",
       "updateStatus" : 1,
       "capacity" : 875037,
-      "readerCount" : 584
+      "readerCount" : 584,
+      "bothType" : false
     }, {
       "id" : 2327,
       "name" : "尚古谪仙传：谪仙囧囧谈",
@@ -140,7 +156,8 @@
       "summary" : "虫眼看天下：一只飞天小仙萤火虫——“囧囧”笔下的三界------------------------",
       "updateStatus" : 1,
       "capacity" : 4542726,
-      "readerCount" : 580
+      "readerCount" : 580,
+      "bothType" : false
     }, {
       "id" : 3488,
       "name" : "仙魔劫，因缘错",
@@ -148,7 +165,8 @@
       "summary" : "无数人的自私，将两个本无交集的孩子捆绑在一起，彻底改变了她们的命运。世间最为牢固的母女亲情，轻易便被",
       "updateStatus" : 1,
       "capacity" : 40733,
-      "readerCount" : 576
+      "readerCount" : 576,
+      "bothType" : false
     }, {
       "id" : 3344,
       "name" : "诀爱（乱世胧伊）",
@@ -156,7 +174,8 @@
       "summary" : "天下缭乱，世事纷扰，三大君王暗黑较量，究竟鹿死谁手？烟雨朦胧，所谓伊人，在水一方，一个女孩，她是一份",
       "updateStatus" : 1,
       "capacity" : 88000,
-      "readerCount" : 575
+      "readerCount" : 575,
+      "bothType" : true
     }, {
       "id" : 3693,
       "name" : "综漫——萝莉女神的养成计划",
@@ -164,7 +183,8 @@
       "summary" : "穿成萝莉？这没什么。穿成女神？我很蛋定。宙斯的孙女？没事没事。崩坏的世界？轻松就好。正太遍地都是？真",
       "updateStatus" : 1,
       "capacity" : 79899,
-      "readerCount" : 573
+      "readerCount" : 573,
+      "bothType" : true
     } ]
   }
 }

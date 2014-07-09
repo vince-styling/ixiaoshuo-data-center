@@ -12,7 +12,8 @@
       "summary" : "我叫黄彦言，在我暂时还不清楚自己的未来时，我还叫黄彦言，这是我的故事，不知是不是我的故事。",
       "updateStatus" : 1,
       "capacity" : 300560,
-      "readerCount" : 4353
+      "readerCount" : 4353,
+      "bothType" : false
     }, {
       "id" : 2487,
       "name" : "冷月星空",
@@ -20,7 +21,8 @@
       "summary" : "夜风来袭，夹杂着一股浓烈的血腥味，空气中弥漫着些许哀怨忧伤，漆黑的夜里无数纠结的心释放着内心仇恨的火",
       "updateStatus" : 1,
       "capacity" : 5572952,
-      "readerCount" : 4341
+      "readerCount" : 4341,
+      "bothType" : false
     }, {
       "id" : 3286,
       "name" : "倾心已久，狼崽吼吼",
@@ -28,7 +30,8 @@
       "summary" : "薇薇安曾在家里养了只狼崽子，狼崽子总有天要长大吧，萌生这个想法后，薇薇安女王一脚把人踹出去。谁晓得狼",
       "updateStatus" : 1,
       "capacity" : 709556,
-      "readerCount" : 4327
+      "readerCount" : 4327,
+      "bothType" : true
     }, {
       "id" : 2726,
       "name" : "琉璃玉",
@@ -36,7 +39,8 @@
       "summary" : "她，22世纪天才女特工，带着一身装备来到冷兵器时代，她会怕什么？打仗？千军万马横扫无压力。他，21世",
       "updateStatus" : 1,
       "capacity" : 1568231,
-      "readerCount" : 4323
+      "readerCount" : 4323,
+      "bothType" : false
     }, {
       "id" : 2352,
       "name" : "血缘诅咒之墨儒篇",
@@ -44,7 +48,8 @@
       "summary" : "天地之争，大洲诞生，神明起源，诅咒降临……我为什么要活着，我也不知道，只是觉得好累，好想快点死去……",
       "updateStatus" : 1,
       "capacity" : 6260976,
-      "readerCount" : 4316
+      "readerCount" : 4316,
+      "bothType" : false
     }, {
       "id" : 3077,
       "name" : "青春盛宴之青春貌似童话",
@@ -52,7 +57,8 @@
       "summary" : "这是一场青春盛宴,曾经我拿生命去承载的人,最后的最后不过是一场浮华,谢谢你教会了我深爱.曾经以为不可",
       "updateStatus" : 1,
       "capacity" : 377521,
-      "readerCount" : 4310
+      "readerCount" : 4310,
+      "bothType" : false
     }, {
       "id" : 2279,
       "name" : "凤断谋",
@@ -60,7 +66,8 @@
       "summary" : "静月宫的旧主逝，新主易。桃花下她对他倾城一笑，秋叶下他对她只手指天。明明相爱的两个灵魂却阴差阳错的变",
       "updateStatus" : 1,
       "capacity" : 8423086,
-      "readerCount" : 4306
+      "readerCount" : 4306,
+      "bothType" : false
     }, {
       "id" : 2973,
       "name" : "独占温宠",
@@ -68,7 +75,8 @@
       "summary" : "他是军人，在战场上有着绝对冷静的判断力与敏捷的行动力；她是一个小小画师，在偶然的情况下，她救了他，本",
       "updateStatus" : 1,
       "capacity" : 8766117,
-      "readerCount" : 4285
+      "readerCount" : 4285,
+      "bothType" : false
     }, {
       "id" : 3713,
       "name" : "冰凌花开",
@@ -76,7 +84,8 @@
       "summary" : "冰凌，她在充满香樟树的的的宁城长大，她五岁那年开始便和外婆相依为命，从小便十分自立，然而十七岁那年，",
       "updateStatus" : 1,
       "capacity" : 1082852,
-      "readerCount" : 4231
+      "readerCount" : 4231,
+      "bothType" : false
     }, {
       "id" : 2652,
       "name" : "墨世情缘对对碰",
@@ -84,7 +93,8 @@
       "summary" : "这里有史上最爱搞怪好整人的金家三姐弟：大姐金雪苒，其弟金昊哲的评价是“外表纯真像个女神，内心腹黑像个",
       "updateStatus" : 1,
       "capacity" : 8285459,
-      "readerCount" : 4224
+      "readerCount" : 4224,
+      "bothType" : false
     }, {
       "id" : 3239,
       "name" : "一情二恨三生缘",
@@ -92,7 +102,8 @@
       "summary" : "命定一生的情人，一场误会，一次车祸，让深爱彼此的两个人分隔两界。女主勇于挑战自我，在意识空间的明暗两",
       "updateStatus" : 1,
       "capacity" : 1142371,
-      "readerCount" : 4216
+      "readerCount" : 4216,
+      "bothType" : false
     }, {
       "id" : 3619,
       "name" : "结婚规则：一生就要你一人",
@@ -100,7 +111,8 @@
       "summary" : "“哥哥，你爱我么？”“爱”“那你就别结婚了，我也不嫁了，咋俩在一起好不好？”“为什么呢？”少年一身休",
       "updateStatus" : 1,
       "capacity" : 211733,
-      "readerCount" : 4199
+      "readerCount" : 4199,
+      "bothType" : false
     }, {
       "id" : 2976,
       "name" : "少女养成之就是赖上你",
@@ -108,7 +120,8 @@
       "summary" : "这是什么世道？连睡个觉都有可能睡死？可怜的她才十八岁，就这样香消玉殒了吗？什么，小鬼勾错魂了，那能让",
       "updateStatus" : 1,
       "capacity" : 5412982,
-      "readerCount" : 4196
+      "readerCount" : 4196,
+      "bothType" : false
     }, {
       "id" : 2571,
       "name" : "弦断只影",
@@ -116,7 +129,8 @@
       "summary" : "一把古琴，一段至死不渝的情缘，在武林的腥风血雨中，随着身世之谜的层层揭开，又会有怎样的惊天秘密，而在",
       "updateStatus" : 1,
       "capacity" : 6009516,
-      "readerCount" : 4184
+      "readerCount" : 4184,
+      "bothType" : false
     }, {
       "id" : 2681,
       "name" : "巅峰之我为帝王",
@@ -124,7 +138,8 @@
       "summary" : "本平凡的他受辱，自尊心强的他立志变强，也许上天给他机会让他不平凡，这次机会会带给他什么？一步步攀上世",
       "updateStatus" : 1,
       "capacity" : 9062532,
-      "readerCount" : 4175
+      "readerCount" : 4175,
+      "bothType" : false
     }, {
       "id" : 3134,
       "name" : "山河暮色凉",
@@ -132,7 +147,8 @@
       "summary" : "我穿越了千年的时光才来到你面前你没有认出我，我不怪你我们一起经历了那么多风雨、生死与共我以为我已经可",
       "updateStatus" : 1,
       "capacity" : 380506,
-      "readerCount" : 4170
+      "readerCount" : 4170,
+      "bothType" : true
     }, {
       "id" : 3035,
       "name" : "黑色殿下：丫头，认输吧",
@@ -140,7 +156,8 @@
       "summary" : "中二女和腹黑男的故事！初见，他温和如玉，如一缕春风；身残志坚，风华绝代。个屁啦！她要真是这么想，她就",
       "updateStatus" : 1,
       "capacity" : 1145959,
-      "readerCount" : 4167
+      "readerCount" : 4167,
+      "bothType" : false
     }, {
       "id" : 3078,
       "name" : "苍梧之涅槃凤后",
@@ -148,7 +165,8 @@
       "summary" : "一个现世伤痕累累的女强人在完成自己的复仇之后生无可恋时竟遭遇车祸重生到异世，异世的她附身在一个面容全",
       "updateStatus" : 1,
       "capacity" : 966406,
-      "readerCount" : 4166
+      "readerCount" : 4166,
+      "bothType" : false
     }, {
       "id" : 2626,
       "name" : "花开画中花",
@@ -156,7 +174,8 @@
       "summary" : "如果没有遇到他，温贤华会在平淡中度过这看似漫长确是转瞬即逝的一年。如果没有遇到他，她依然是在单纯中寻",
       "updateStatus" : 1,
       "capacity" : 1914807,
-      "readerCount" : 4155
+      "readerCount" : 4155,
+      "bothType" : false
     }, {
       "id" : 2278,
       "name" : "美人狂：探囊取天下",
@@ -164,7 +183,8 @@
       "summary" : "探囊取物，比喻一个东西极易得到。可——“拿个江山，也——无异于探囊取天下！”这——是何等的狂傲！她们",
       "updateStatus" : 1,
       "capacity" : 1039409,
-      "readerCount" : 4145
+      "readerCount" : 4145,
+      "bothType" : false
     } ]
   }
 }

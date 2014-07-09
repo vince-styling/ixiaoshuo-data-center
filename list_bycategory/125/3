@@ -12,7 +12,8 @@
       "summary" : "虚无裂缝出现的巨蛋，经历世界的破灭。流落凡尘，化身为人。其在凡人手中长大，千魔万险，一步一步走向巅峰",
       "updateStatus" : 1,
       "capacity" : 943193,
-      "readerCount" : 5699
+      "readerCount" : 5699,
+      "bothType" : true
     }, {
       "id" : 2126,
       "name" : "纯钧剑",
@@ -20,7 +21,8 @@
       "summary" : "列国时代，华夏民族进入了最为血性最为豪情的时代。是一个凡有血性皆可争的大争之世，战场，文坛，武林，迸",
       "updateStatus" : 1,
       "capacity" : 2219694,
-      "readerCount" : 5684
+      "readerCount" : 5684,
+      "bothType" : false
     }, {
       "id" : 2140,
       "name" : "傲剑江湖",
@@ -28,7 +30,8 @@
       "summary" : "他是独孤九剑传人令狐冲的爱子，又是曾被江湖人誉为武林神话的龙啸天之子，他英俊潇洒，气度不凡，他身负绝",
       "updateStatus" : 1,
       "capacity" : 4283145,
-      "readerCount" : 5605
+      "readerCount" : 5605,
+      "bothType" : false
     }, {
       "id" : 2175,
       "name" : "史上最强避雷法宝",
@@ -36,7 +39,8 @@
       "summary" : "这里是一个修仙修魔的好地方。这是有未知的生物、灭迹的物种，它们强大而又蛮横；它们智商高绝，更甚者能口",
       "updateStatus" : 1,
       "capacity" : 1909735,
-      "readerCount" : 5427
+      "readerCount" : 5427,
+      "bothType" : false
     }, {
       "id" : 2182,
       "name" : "妖纵异世：逆天血煞女",
@@ -44,7 +48,8 @@
       "summary" : "“经脉尽毁，不过废物一个！”“我凤家没有这个脸面，去认回一个经脉尽毁的废物！”；阴谋，陷害，步步杀招",
       "updateStatus" : 1,
       "capacity" : 3085563,
-      "readerCount" : 5398
+      "readerCount" : 5398,
+      "bothType" : false
     }, {
       "id" : 3737,
       "name" : "忐忑修真路",
@@ -52,7 +57,8 @@
       "summary" : "她本是最平凡不过的女子，却意外来到一个陌生的世界，这里以强者为尊，强者就是王法，霸者就是道理，这里杀",
       "updateStatus" : 1,
       "capacity" : 233911,
-      "readerCount" : 5041
+      "readerCount" : 5041,
+      "bothType" : true
     }, {
       "id" : 2745,
       "name" : "再次重生后的创世传奇",
@@ -60,7 +66,8 @@
       "summary" : "再次醒来，林涵发现又回到了地球，又回到了妈妈的肚子里，连带着上次穿越到修真世界的记忆。终于回来了，可",
       "updateStatus" : 1,
       "capacity" : 8770661,
-      "readerCount" : 4988
+      "readerCount" : 4988,
+      "bothType" : true
     }, {
       "id" : 3184,
       "name" : "安歌陌上花",
@@ -68,7 +75,8 @@
       "summary" : "陌上花开，不见归人……",
       "updateStatus" : 1,
       "capacity" : 234798,
-      "readerCount" : 4980
+      "readerCount" : 4980,
+      "bothType" : true
     }, {
       "id" : 3709,
       "name" : "莲仙",
@@ -76,7 +84,8 @@
       "summary" : "前世：她是睥睨九州，与仙界玉帝平起平坐的灵界尊主迦叶。他是仙界叱咤风云，赫赫有名的兵马大元帅，天蓬。",
       "updateStatus" : 1,
       "capacity" : 1453768,
-      "readerCount" : 4852
+      "readerCount" : 4852,
+      "bothType" : false
     }, {
       "id" : 2144,
       "name" : "英雄道",
@@ -84,7 +93,8 @@
       "summary" : "生于悠悠乱世，隐于安逸盛世。游侠到底为了什么而在现代社会复出？神功破魅像是法术，也像是武技，它到底是",
       "updateStatus" : 2,
       "capacity" : 3233862,
-      "readerCount" : 4683
+      "readerCount" : 4683,
+      "bothType" : false
     }, {
       "id" : 2149,
       "name" : "登天谣",
@@ -92,7 +102,8 @@
       "summary" : "茫茫天地间，亘古太初前。自古至今，岁月无情，红颜白发，人杰迟暮。无极的道图、盛开的葬花、磅礴的大墓、",
       "updateStatus" : 2,
       "capacity" : 3296519,
-      "readerCount" : 4522
+      "readerCount" : 4522,
+      "bothType" : true
     }, {
       "id" : 3594,
       "name" : "浮生梦",
@@ -100,7 +111,8 @@
       "summary" : "命运，是虚无缥缈又似如影随形。不知道你是否相信、或说是同意，命运这个东西。如果你是一只海鸟，你注定翱",
       "updateStatus" : 1,
       "capacity" : 1566146,
-      "readerCount" : 4020
+      "readerCount" : 4020,
+      "bothType" : false
     }, {
       "id" : 3613,
       "name" : "剑翎之仙侣奇侠",
@@ -108,7 +120,8 @@
       "summary" : "他们怀着不同的目的，走到一起完成主线任务，历经刀山火海，夺取仙剑，集齐玄冰轮，净水轮，苍火轮，毁金轮",
       "updateStatus" : 1,
       "capacity" : 942421,
-      "readerCount" : 3589
+      "readerCount" : 3589,
+      "bothType" : false
     }, {
       "id" : 3424,
       "name" : "九婴传",
@@ -116,7 +129,8 @@
       "summary" : "主角穿越到异界，得到一部逆天法诀《九婴诀》，从此纵横异界，登上颠峰，游走各个世界中。本书将为你讲述一",
       "updateStatus" : 1,
       "capacity" : 138413,
-      "readerCount" : 3449
+      "readerCount" : 3449,
+      "bothType" : false
     }, {
       "id" : 2153,
       "name" : "醉清风：师父你别跑",
@@ -124,7 +138,8 @@
       "summary" : "她是天生的异类，他是凌霄宫清玄真人的首座弟子。明明就是性格不合看不对眼，可偏偏又逃离不了。是天生孽缘",
       "updateStatus" : 1,
       "capacity" : 6710774,
-      "readerCount" : 3398
+      "readerCount" : 3398,
+      "bothType" : true
     }, {
       "id" : 2161,
       "name" : "天河巨图",
@@ -132,7 +147,8 @@
       "summary" : "为那些，生活在社会底层，而不放弃生活的人喝彩！为了那些不甘平庸而不懈努力与拼搏的人喝彩！为那些在苦苦",
       "updateStatus" : 2,
       "capacity" : 1114254,
-      "readerCount" : 3311
+      "readerCount" : 3311,
+      "bothType" : false
     }, {
       "id" : 2597,
       "name" : "醉月星辰之月倾天下",
@@ -140,7 +156,8 @@
       "summary" : "月若水，夜如冰，倾世天下又怎敌你的美，落箫引，影剑移，袖手江湖又何妨？从此红尘相伴，策马天涯，一笑泯",
       "updateStatus" : 1,
       "capacity" : 4556200,
-      "readerCount" : 3274
+      "readerCount" : 3274,
+      "bothType" : true
     }, {
       "id" : 3006,
       "name" : "君在水之湄",
@@ -148,7 +165,8 @@
       "summary" : "好不容易以为遇到了真命天子，迫不及待的闪婚，然而，老天还真是不眷顾她。闪婚的代价，就是电闪雷鸣中被带",
       "updateStatus" : 1,
       "capacity" : 8504594,
-      "readerCount" : 3183
+      "readerCount" : 3183,
+      "bothType" : false
     }, {
       "id" : 3461,
       "name" : "束缚中的约定",
@@ -156,7 +174,8 @@
       "summary" : "《我愿用千年情，换你一世温柔。我愿用千年思，换你一日爱恋》错误的开始，延续了千年的伤痛，到最后明白了",
       "updateStatus" : 1,
       "capacity" : 1152472,
-      "readerCount" : 3003
+      "readerCount" : 3003,
+      "bothType" : false
     }, {
       "id" : 3739,
       "name" : "狐媚天下：妖娆娘子腹黑爷",
@@ -164,7 +183,8 @@
       "summary" : "第一世，宝婵还是小十三的侍女，心心念念的做了芙蓉脆枣糕端到了书房，却不知怎生惹了我们十三爷不高兴，慌",
       "updateStatus" : 1,
       "capacity" : 381629,
-      "readerCount" : 2934
+      "readerCount" : 2934,
+      "bothType" : false
     } ]
   }
 }

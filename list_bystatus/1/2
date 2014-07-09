@@ -12,7 +12,8 @@
       "summary" : "她，从小就喜欢他，以为默默追随就是永恒，所以，一直站在他的身后。他，以为她会一直站在他的身后，所以，",
       "updateStatus" : 1,
       "capacity" : 7417857,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2822,
       "name" : "追妻攻略：腹黑BOSS不好惹",
@@ -20,7 +21,8 @@
       "summary" : "程遇坐在沙发上气定神闲地喝着茶，看着那个进进出出忙碌的女人。“何疏影，去洗水果！”“何疏影，我饿了，",
       "updateStatus" : 1,
       "capacity" : 1971877,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2796,
       "name" : "风流老板俏秘书",
@@ -28,7 +30,8 @@
       "summary" : "古北辰，古氏集团的老总，长相俊美却是风流成性。凌语，古北辰的首席女秘书。拥有较好的容颜和性感的身材，",
       "updateStatus" : 1,
       "capacity" : 8184984,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2840,
       "name" : "爱情三部曲之爱情重奏曲",
@@ -36,7 +39,8 @@
       "summary" : "以爱情为主线，讲述都市青年。有彷徨，有挣扎，有正义，有邪恶……然而生活本身就是充满可能，五味陈杂吧。",
       "updateStatus" : 1,
       "capacity" : 7110371,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2190,
       "name" : "天山之雪",
@@ -44,7 +48,8 @@
       "summary" : "《雪落》篇——本来匆忙逃婚的天雪登上了飞往异国的飞机，却没有想到遇到空难，本以为会就此丧命的天雪却没",
       "updateStatus" : 1,
       "capacity" : 5479737,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2334,
       "name" : "异时空情恋之殿下不要忽悠我",
@@ -52,7 +57,8 @@
       "summary" : "倾心相恋，却换来刻骨铭心的背叛。“林逸之，我以莲华圣女的鲜血诅咒你，诅咒你下一世深深爱上一个人，却求",
       "updateStatus" : 1,
       "capacity" : 7488953,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2398,
       "name" : "千里共月光",
@@ -60,7 +66,8 @@
       "summary" : "青春有很多遗憾，而遗憾，是最好的结局。",
       "updateStatus" : 1,
       "capacity" : 9415650,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2613,
       "name" : "红楼梦呓",
@@ -68,7 +75,8 @@
       "summary" : "天上掉下个林姐姐，她熟读《红楼梦》，她的师父是惊才绝艳的容若公子，她的夫婿是位高权重的北静王。翻云覆",
       "updateStatus" : 1,
       "capacity" : 2018928,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2926,
       "name" : "清宫情史",
@@ -76,7 +84,8 @@
       "summary" : "这是关于乾隆的故事。人生如梦，从清朝而来。巴林氏，名婉君，本可以安闲逍遥地过自己与习连翊的举案齐眉。",
       "updateStatus" : 1,
       "capacity" : 3728842,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2496,
       "name" : "赛罗之双生子的羁绊",
@@ -84,7 +93,8 @@
       "summary" : "前世的他在父母的鲜血中诞生，病魔缠身一生只有短短十六载，善良坚强的他在众多医生护士的鼓励照顾下撑到了",
       "updateStatus" : 1,
       "capacity" : 6776174,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2206,
       "name" : "蔷薇公爵",
@@ -92,7 +102,8 @@
       "summary" : "公爵家的千金失踪后完全变了一个性格又重新回到了家族的属地，这一次等待她的是全新的生活，深夜里耳畔响起",
       "updateStatus" : 1,
       "capacity" : 2467395,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2980,
       "name" : "穿越做将军",
@@ -100,7 +111,8 @@
       "summary" : "怎么拥有的娇妻美妾，如何得到了时空隧道的钥匙，怎样打通了任督二脉成为绝世高手，又是咋样成为乾隆皇帝的",
       "updateStatus" : 1,
       "capacity" : 2605748,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2578,
       "name" : "毕业不分手",
@@ -108,7 +120,8 @@
       "summary" : "一个情场商场均得意，风流倜傥，长相妖孽，阅女无数，百花丛中过，片叶不沾身；一个长相清丽可人，原本弱水",
       "updateStatus" : 1,
       "capacity" : 6260526,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2347,
       "name" : "绝配主仆",
@@ -116,7 +129,8 @@
       "summary" : "他是风流快活的逍遥王爷，他是王爷身边的冷面侍从。他倾尽天下只为了一个他，任由他冷酷寡淡，自有一腔热血",
       "updateStatus" : 1,
       "capacity" : 7163857,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : true
     }, {
       "id" : 2269,
       "name" : "女皇倾国萌天下",
@@ -124,7 +138,8 @@
       "summary" : "当腹黑霸气伪萝莉遇到傲娇正直小正太。是正太养成还是御姐变形记？她遇到他那年八岁。两人吵闹不停。她仗着",
       "updateStatus" : 1,
       "capacity" : 9308235,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2891,
       "name" : "天使也会哭泣",
@@ -132,7 +147,8 @@
       "summary" : "每个人身边都会有一个守护天使。他们总是默默地守护在深爱的人身边。不奢求任何回报。伊少哲14&deg;",
       "updateStatus" : 1,
       "capacity" : 1827278,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2868,
       "name" : "仙侠传说：繁华落尽君辞去",
@@ -140,7 +156,8 @@
       "summary" : "一个关于人神魔妖的狗血伦乱恋情，可能牵扯到伦理纲常，一个架空的世界，一个混乱的体质，一个出现了无限次",
       "updateStatus" : 1,
       "capacity" : 4165900,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2795,
       "name" : "那年美得像遗憾",
@@ -148,7 +165,8 @@
       "summary" : "暗恋这回事，永远只有受害者而没有受益者。青春里错过的那个谁，永远是最美的遗憾。陈夕拾知道，从她十六岁",
       "updateStatus" : 1,
       "capacity" : 5427784,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2833,
       "name" : "蓬莱",
@@ -156,7 +174,8 @@
       "summary" : " 五代后唐时期，江湖三大势力之一的司马庄庄主突然迎来一位客人，这位客人便是当朝宰相张硕。不知什么原因",
       "updateStatus" : 1,
       "capacity" : 1063626,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2817,
       "name" : "谁爱过我",
@@ -164,7 +183,8 @@
       "summary" : "曾经的朋友，过去的男友，他们因为无聊卷进了一个无辜人。笑看她被流氓玷污，只是想可笑证明自己比别人纯洁",
       "updateStatus" : 1,
       "capacity" : 9797390,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     } ]
   }
 }

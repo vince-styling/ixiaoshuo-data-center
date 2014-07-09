@@ -12,7 +12,8 @@
       "summary" : "在内蒙古乌兰布和大沙漠中，有一个灰土土的村落叫《一碗村》，那是我童年的所在。村里发生了许多奇怪的故事",
       "updateStatus" : 1,
       "capacity" : 1547228,
-      "readerCount" : 3926
+      "readerCount" : 3926,
+      "bothType" : false
     }, {
       "id" : 2534,
       "name" : "墨劫",
@@ -20,7 +21,8 @@
       "summary" : "她，乃上古灵族墨族继承人，如一朵半开的幼莲，亭亭玉立于水中，美丽不可方物。当一朵谁知莲心的炽热，足以",
       "updateStatus" : 1,
       "capacity" : 9886228,
-      "readerCount" : 3923
+      "readerCount" : 3923,
+      "bothType" : false
     }, {
       "id" : 2882,
       "name" : "那些年错过的爱情",
@@ -28,7 +30,8 @@
       "summary" : "那些年我们错过的爱情，当你爱上了的时候，一切都将挽回不了。曾经在你面前的幸福，你亲手毁灭，现在知道珍",
       "updateStatus" : 1,
       "capacity" : 2234680,
-      "readerCount" : 3921
+      "readerCount" : 3921,
+      "bothType" : false
     }, {
       "id" : 3168,
       "name" : "我在你的记忆中走过",
@@ -36,7 +39,8 @@
       "summary" : "或许每个人心里都有一个童话，期望着自己成为童话的主角。可是，不是每个人都可以抱着这个梦走下去。一个人",
       "updateStatus" : 1,
       "capacity" : 992074,
-      "readerCount" : 3914
+      "readerCount" : 3914,
+      "bothType" : false
     }, {
       "id" : 3376,
       "name" : "你是古人哎",
@@ -44,7 +48,8 @@
       "summary" : "这个小子貌似和她生活的不是在同一个维度啊！这么多奇奇怪怪的背后，难道她遇上的，真是传说中的古代人活化",
       "updateStatus" : 1,
       "capacity" : 549687,
-      "readerCount" : 3912
+      "readerCount" : 3912,
+      "bothType" : false
     }, {
       "id" : 2861,
       "name" : "妖孽殿下：魅惑冷情阁主",
@@ -52,7 +57,8 @@
       "summary" : "【叙述版】凤离城内有店名往生往生阁，忆往生，迎来送往，人鬼妖不忌店主曰彼岸，彼岸花花开彼岸，奈何桥边",
       "updateStatus" : 1,
       "capacity" : 6948482,
-      "readerCount" : 3899
+      "readerCount" : 3899,
+      "bothType" : false
     }, {
       "id" : 2225,
       "name" : "梵卓的白色蔷薇",
@@ -60,7 +66,8 @@
       "summary" : "我的羽翼是雪一样的纯白我的眼眸是宝石般的浅蓝我的长发是恋人之血染就的深红守望者，守望着这个交错真实与",
       "updateStatus" : 1,
       "capacity" : 1964660,
-      "readerCount" : 3897
+      "readerCount" : 3897,
+      "bothType" : false
     }, {
       "id" : 2931,
       "name" : "蝶风之交错的缘",
@@ -68,7 +75,8 @@
       "summary" : "一千年前，她只是一只弱小的凤蝶，因被他不经意间所佑，便一直苦苦找寻他的下落，他却毫无所踪。一千年后，",
       "updateStatus" : 1,
       "capacity" : 3227387,
-      "readerCount" : 3880
+      "readerCount" : 3880,
+      "bothType" : true
     }, {
       "id" : 3648,
       "name" : "完美自杀",
@@ -76,7 +84,8 @@
       "summary" : "“我爱的人自杀了，就在浴室里，我不能接受，请相信，我简直痛彻心扉。”**自杀抑或他杀，答案就在这个房",
       "updateStatus" : 1,
       "capacity" : 381975,
-      "readerCount" : 3870
+      "readerCount" : 3870,
+      "bothType" : false
     }, {
       "id" : 3388,
       "name" : "栩你一世言如歌",
@@ -84,7 +93,8 @@
       "summary" : "他是江湖第一帮派帮主，她是第二帮派继承人。一场跨越国界的联姻，却让本该敌对的他们结为夫妻。命运坎坷，",
       "updateStatus" : 1,
       "capacity" : 157783,
-      "readerCount" : 3867
+      "readerCount" : 3867,
+      "bothType" : false
     }, {
       "id" : 2701,
       "name" : "漩涡长门在异界",
@@ -92,7 +102,8 @@
       "summary" : "忍界传奇漩涡长门死后，其灵魂在异界重生，且看长门如何在异界再次开创奇迹！",
       "updateStatus" : 2,
       "capacity" : 3202602,
-      "readerCount" : 3845
+      "readerCount" : 3845,
+      "bothType" : false
     }, {
       "id" : 2982,
       "name" : "逃之妖妖",
@@ -100,7 +111,8 @@
       "summary" : "有一个拥有招鬼体质的爹，夏昭灵也就认了尼玛现在告诉她她是招妖的体质是闹哪般当她还小毛孩儿，信你鬼话呢",
       "updateStatus" : 1,
       "capacity" : 6919865,
-      "readerCount" : 3836
+      "readerCount" : 3836,
+      "bothType" : false
     }, {
       "id" : 2463,
       "name" : "兼职的侦探",
@@ -108,7 +120,8 @@
       "summary" : "有一种职业叫part-timejob。有一种侦探叫被迫当侦探。有一种网友叫永远不靠谱。所以，也就有了",
       "updateStatus" : 1,
       "capacity" : 4297805,
-      "readerCount" : 3833
+      "readerCount" : 3833,
+      "bothType" : false
     }, {
       "id" : 3517,
       "name" : "王子殿下的弱智未婚妻",
@@ -116,7 +129,8 @@
       "summary" : "她，李木雅，本是高高在上的李氏千金小姐，五岁时因遭家族商业对手的绑架，父母因在赎他的路上车祸身亡，她",
       "updateStatus" : 1,
       "capacity" : 330901,
-      "readerCount" : 3826
+      "readerCount" : 3826,
+      "bothType" : false
     }, {
       "id" : 2317,
       "name" : "江湖任我行",
@@ -124,7 +138,8 @@
       "summary" : "她，机智、聪颖、开朗活泼，是二十一世纪新出‘江湖’的魔术师。她，顽固、泼辣、不讲情理，是风云涌动时期",
       "updateStatus" : 1,
       "capacity" : 1952427,
-      "readerCount" : 3823
+      "readerCount" : 3823,
+      "bothType" : false
     }, {
       "id" : 2432,
       "name" : "危险游戏：八月仲夏夜未央",
@@ -132,7 +147,8 @@
       "summary" : "这是一场金钱与爱情的较量！叶未央，大学毕业收到的礼物却是父亲的死亡通知单，随着这一张纸，她的人生和父",
       "updateStatus" : 1,
       "capacity" : 2783467,
-      "readerCount" : 3822
+      "readerCount" : 3822,
+      "bothType" : false
     }, {
       "id" : 3336,
       "name" : "旷世绝恋：洛水弹琴不谈情",
@@ -140,7 +156,8 @@
       "summary" : "为了逃避商业联姻，他逼她成为自己的女人。“这就是你离开我的下场！”当她以为自己只是工具的时候，他却发",
       "updateStatus" : 1,
       "capacity" : 743041,
-      "readerCount" : 3821
+      "readerCount" : 3821,
+      "bothType" : false
     }, {
       "id" : 2807,
       "name" : "忍住不说我爱你",
@@ -148,7 +165,8 @@
       "summary" : "第一次见她时，她扬起脸一本正经地对他旁边的人说，那个，你歌词唱错了。第二次见她时，她一脸悲愤，看到自",
       "updateStatus" : 1,
       "capacity" : 7000462,
-      "readerCount" : 3820
+      "readerCount" : 3820,
+      "bothType" : false
     }, {
       "id" : 2631,
       "name" : "顽皮少女的异样人生",
@@ -156,7 +174,8 @@
       "summary" : "“曾经，我只喜欢你，甚至爱你爱到不可理喻的地步。”她梨花带雨的对他哭诉，但心里知道很多事一旦错过变不",
       "updateStatus" : 1,
       "capacity" : 6993650,
-      "readerCount" : 3806
+      "readerCount" : 3806,
+      "bothType" : false
     }, {
       "id" : 2445,
       "name" : "饰心",
@@ -164,7 +183,8 @@
       "summary" : "木汐尧和季繁华相识在浮世道场，相知在西歌中学，相惜于千秦城C大。失去彼此消息的五年里，才真正清楚面对",
       "updateStatus" : 1,
       "capacity" : 2667685,
-      "readerCount" : 3804
+      "readerCount" : 3804,
+      "bothType" : false
     } ]
   }
 }

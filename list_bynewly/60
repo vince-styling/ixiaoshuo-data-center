@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_5299.jpg",
       "updateStatus" : 1,
       "capacity" : 16752,
-      "lastUpdateTime" : "2013-12-02 00:58:47"
+      "lastUpdateTime" : "2013-12-02 00:58:47",
+      "bothType" : true
     }, {
       "id" : 3331,
       "name" : "武警婚约之山东佳人",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45330.jpg",
       "updateStatus" : 1,
       "capacity" : 29299,
-      "lastUpdateTime" : "2013-12-01 23:09:33"
+      "lastUpdateTime" : "2013-12-01 23:09:33",
+      "bothType" : true
     }, {
       "id" : 2748,
       "name" : "如果邂逅",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47505.jpg",
       "updateStatus" : 1,
       "capacity" : 2051379,
-      "lastUpdateTime" : "2013-12-01 22:24:08"
+      "lastUpdateTime" : "2013-12-01 22:24:08",
+      "bothType" : false
     }, {
       "id" : 2778,
       "name" : "东山剑",
@@ -36,7 +39,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 4929793,
-      "lastUpdateTime" : "2013-12-01 22:16:31"
+      "lastUpdateTime" : "2013-12-01 22:16:31",
+      "bothType" : false
     }, {
       "id" : 3036,
       "name" : "此生堪华年",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22110.jpg",
       "updateStatus" : 1,
       "capacity" : 6948417,
-      "lastUpdateTime" : "2013-12-01 21:52:46"
+      "lastUpdateTime" : "2013-12-01 21:52:46",
+      "bothType" : false
     }, {
       "id" : 2469,
       "name" : "盗墓诡迹",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16599.jpg",
       "updateStatus" : 1,
       "capacity" : 4392289,
-      "lastUpdateTime" : "2013-12-01 21:26:03"
+      "lastUpdateTime" : "2013-12-01 21:26:03",
+      "bothType" : false
     }, {
       "id" : 3399,
       "name" : "太子殿下，不爱请休妻",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47598.jpg",
       "updateStatus" : 1,
       "capacity" : 38545,
-      "lastUpdateTime" : "2013-12-01 21:10:41"
+      "lastUpdateTime" : "2013-12-01 21:10:41",
+      "bothType" : true
     }, {
       "id" : 2784,
       "name" : "恶魔少爷伪天使",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41589.jpg",
       "updateStatus" : 1,
       "capacity" : 5806166,
-      "lastUpdateTime" : "2013-12-01 20:45:36"
+      "lastUpdateTime" : "2013-12-01 20:45:36",
+      "bothType" : false
     }, {
       "id" : 3257,
       "name" : "相思引，魔王的羁绊",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20152.jpg",
       "updateStatus" : 1,
       "capacity" : 675620,
-      "lastUpdateTime" : "2013-12-01 20:32:24"
+      "lastUpdateTime" : "2013-12-01 20:32:24",
+      "bothType" : false
     }, {
       "id" : 2294,
       "name" : "颠沛流离",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47604.jpg",
       "updateStatus" : 1,
       "capacity" : 9907360,
-      "lastUpdateTime" : "2013-12-01 20:32:18"
+      "lastUpdateTime" : "2013-12-01 20:32:18",
+      "bothType" : false
     }, {
       "id" : 3033,
       "name" : "惊尘梦：冷情女子惑情夫",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45429.jpg",
       "updateStatus" : 1,
       "capacity" : 6967848,
-      "lastUpdateTime" : "2013-12-01 20:12:58"
+      "lastUpdateTime" : "2013-12-01 20:12:58",
+      "bothType" : true
     }, {
       "id" : 3116,
       "name" : "乱剑源德之九狱之书",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47965.jpg",
       "updateStatus" : 1,
       "capacity" : 211079,
-      "lastUpdateTime" : "2013-12-01 20:07:40"
+      "lastUpdateTime" : "2013-12-01 20:07:40",
+      "bothType" : false
     }, {
       "id" : 2489,
       "name" : "雪落的声音",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47010.jpg",
       "updateStatus" : 1,
       "capacity" : 6383580,
-      "lastUpdateTime" : "2013-12-01 19:58:05"
+      "lastUpdateTime" : "2013-12-01 19:58:05",
+      "bothType" : true
     }, {
       "id" : 2539,
       "name" : "沙漏时光",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44862.jpg",
       "updateStatus" : 1,
       "capacity" : 6539472,
-      "lastUpdateTime" : "2013-12-01 19:15:55"
+      "lastUpdateTime" : "2013-12-01 19:15:55",
+      "bothType" : true
     }, {
       "id" : 2615,
       "name" : "皇妃传",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46398.jpg",
       "updateStatus" : 1,
       "capacity" : 1832582,
-      "lastUpdateTime" : "2013-12-01 18:11:53"
+      "lastUpdateTime" : "2013-12-01 18:11:53",
+      "bothType" : true
     }, {
       "id" : 2599,
       "name" : "流年何处飞花去",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47835.jpg",
       "updateStatus" : 1,
       "capacity" : 3909934,
-      "lastUpdateTime" : "2013-12-01 15:46:04"
+      "lastUpdateTime" : "2013-12-01 15:46:04",
+      "bothType" : false
     }, {
       "id" : 2723,
       "name" : "宝贝我宠你",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47322.jpg",
       "updateStatus" : 1,
       "capacity" : 1941879,
-      "lastUpdateTime" : "2013-12-01 14:41:31"
+      "lastUpdateTime" : "2013-12-01 14:41:31",
+      "bothType" : false
     }, {
       "id" : 2328,
       "name" : "江山美男归我管",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44860.jpg",
       "updateStatus" : 1,
       "capacity" : 6772871,
-      "lastUpdateTime" : "2013-12-01 14:31:46"
+      "lastUpdateTime" : "2013-12-01 14:31:46",
+      "bothType" : false
     }, {
       "id" : 2493,
       "name" : "救个男友回家过关",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15777.jpg",
       "updateStatus" : 1,
       "capacity" : 1010948,
-      "lastUpdateTime" : "2013-12-01 13:38:01"
+      "lastUpdateTime" : "2013-12-01 13:38:01",
+      "bothType" : true
     }, {
       "id" : 2995,
       "name" : "《魔武乱世》",
@@ -164,7 +183,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 4750422,
-      "lastUpdateTime" : "2013-12-01 09:51:21"
+      "lastUpdateTime" : "2013-12-01 09:51:21",
+      "bothType" : false
     } ]
   }
 }

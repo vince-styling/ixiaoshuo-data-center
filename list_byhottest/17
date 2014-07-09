@@ -12,7 +12,8 @@
       "summary" : "墨羽，一个名不见经传的高中生，生活在一颗蔚蓝色的星球中！没钱、没车、没房、没背景，总结起来就是个“四",
       "updateStatus" : 2,
       "capacity" : 6869980,
-      "readerCount" : 12324
+      "readerCount" : 12324,
+      "bothType" : false
     }, {
       "id" : 2746,
       "name" : "遗忘之约",
@@ -20,7 +21,8 @@
       "summary" : "每个人都有一根入心很深的刺，只要轻轻一碰，心就会剧痛。那些被遗忘在时间长河里的沙烁，就像拼图的碎片，",
       "updateStatus" : 1,
       "capacity" : 3559608,
-      "readerCount" : 12311
+      "readerCount" : 12311,
+      "bothType" : false
     }, {
       "id" : 3401,
       "name" : "狂2",
@@ -28,7 +30,8 @@
       "summary" : "她原本是杀手组织中的一员，却不小心穿越到了异世。",
       "updateStatus" : 1,
       "capacity" : 2285437,
-      "readerCount" : 12245
+      "readerCount" : 12245,
+      "bothType" : false
     }, {
       "id" : 2073,
       "name" : "清娆蓝梦",
@@ -36,7 +39,8 @@
       "summary" : "琉璃幻？未央梦？她是一个明媚纯情的女子，他们是风华绝代的俊美男子。那年舞榭场，繁华地，属于她的宿命开",
       "updateStatus" : 1,
       "capacity" : 9532091,
-      "readerCount" : 12223
+      "readerCount" : 12223,
+      "bothType" : true
     }, {
       "id" : 2262,
       "name" : "三生河畔等着你",
@@ -44,7 +48,8 @@
       "summary" : "初恋是什么感觉，什么颜色？甜的、粉色的？白杏雨活了很久，还是很清晰的记得那个感觉。她曾经很恨很恨许凛",
       "updateStatus" : 1,
       "capacity" : 8864378,
-      "readerCount" : 12162
+      "readerCount" : 12162,
+      "bothType" : false
     }, {
       "id" : 2196,
       "name" : "似梦非梦：我的前世今生",
@@ -52,7 +57,8 @@
       "summary" : "前世因，今世果。一个未饮孟婆汤，在今世的梦里不断忆起前世的女子，她的人生将会有怎样的波折和磨难？",
       "updateStatus" : 2,
       "capacity" : 5797014,
-      "readerCount" : 12150
+      "readerCount" : 12150,
+      "bothType" : false
     }, {
       "id" : 3002,
       "name" : "微笑的告死者",
@@ -60,7 +66,8 @@
       "summary" : "何为恨？何又为爱？十岁时，她明白了。初尝，却是已失去所有。“站上强者的巅峰”，这是我与你一生的约定！",
       "updateStatus" : 1,
       "capacity" : 9529866,
-      "readerCount" : 12145
+      "readerCount" : 12145,
+      "bothType" : false
     }, {
       "id" : 2246,
       "name" : "王爷，你给本宫趴下",
@@ -68,7 +75,8 @@
       "summary" : "【表面是欢脱的】据说，人间有种职业叫做穿越天界有种惩处叫做轮回那她九生九死，往来穿梭，算个啥？再说，",
       "updateStatus" : 2,
       "capacity" : 2201147,
-      "readerCount" : 12125
+      "readerCount" : 12125,
+      "bothType" : false
     }, {
       "id" : 2810,
       "name" : "深爱不能醒",
@@ -76,7 +84,8 @@
       "summary" : "他放手，放她自由，自作主张以为成全了她，给了她想要的生活方式，可是结果，真是可笑的结果。四年前，最后",
       "updateStatus" : 1,
       "capacity" : 7749061,
-      "readerCount" : 12070
+      "readerCount" : 12070,
+      "bothType" : true
     }, {
       "id" : 2239,
       "name" : "都市修仙巅峰传说",
@@ -84,7 +93,8 @@
       "summary" : "在这浩荡的宇宙中，有一颗神奇的星球。里面居住着各种生物。就在此时天空中五股不同的力量居然往同一个地方",
       "updateStatus" : 1,
       "capacity" : 2493992,
-      "readerCount" : 12067
+      "readerCount" : 12067,
+      "bothType" : false
     }, {
       "id" : 2630,
       "name" : "腹黑女帝倾天下",
@@ -92,7 +102,8 @@
       "summary" : "某女分分钟从黑道老大变身萌系小太女，宫廷水深，可对于默默这种老油条来说，正是如鱼得水，相得映彰。养精",
       "updateStatus" : 1,
       "capacity" : 8954619,
-      "readerCount" : 12062
+      "readerCount" : 12062,
+      "bothType" : false
     }, {
       "id" : 2355,
       "name" : "五欢散之烈焰天下",
@@ -100,7 +111,8 @@
       "summary" : "十六年前一个雨夜，一个刚出生的孩童遭遇遗弃，被苍古山长老收养，收为徒弟，唤名胡理智，寓意做任何事情都",
       "updateStatus" : 1,
       "capacity" : 4900734,
-      "readerCount" : 12036
+      "readerCount" : 12036,
+      "bothType" : false
     }, {
       "id" : 2954,
       "name" : "大神卖身不卖艺",
@@ -108,7 +120,8 @@
       "summary" : "一座似锦繁城，她和他在冥冥注定中交织起千丝万缕；一款当红网游，她和他们在素不相识中堆积起深厚情义。当",
       "updateStatus" : 1,
       "capacity" : 6299927,
-      "readerCount" : 12030
+      "readerCount" : 12030,
+      "bothType" : false
     }, {
       "id" : 2159,
       "name" : "雁翎刀",
@@ -116,7 +129,8 @@
       "summary" : "大将生来胆气豪，腰横秋水雁翎刀。雁翎刀销声匿迹数十载后重出江湖，掀起了又一波腥风血雨。江湖多少人为了",
       "updateStatus" : 1,
       "capacity" : 7673796,
-      "readerCount" : 12024
+      "readerCount" : 12024,
+      "bothType" : false
     }, {
       "id" : 2559,
       "name" : "锁爱",
@@ -124,7 +138,8 @@
       "summary" : "“你能不能别老这么缠着我，你放过我行不行啊，算我求你了。”女主一脸痛苦的说道。“不能”男主一如既往的",
       "updateStatus" : 1,
       "capacity" : 6158442,
-      "readerCount" : 12013
+      "readerCount" : 12013,
+      "bothType" : false
     }, {
       "id" : 2150,
       "name" : "最",
@@ -132,7 +147,8 @@
       "summary" : "世人都道，雪界神君，孤傲清冷，凭借自己一身的能力，为她的子民开天辟地，创造属于自己的国度，其一身能力",
       "updateStatus" : 1,
       "capacity" : 6259412,
-      "readerCount" : 12011
+      "readerCount" : 12011,
+      "bothType" : false
     }, {
       "id" : 2788,
       "name" : "五月，安然",
@@ -140,7 +156,8 @@
       "summary" : "五月的离开让阿然痛彻心扉，夏安与阿末的出现让阿然在心灵上得到了巨大的安慰，于是他们之间就展开了不解的",
       "updateStatus" : 1,
       "capacity" : 4867086,
-      "readerCount" : 12004
+      "readerCount" : 12004,
+      "bothType" : true
     }, {
       "id" : 2111,
       "name" : "官家小妾",
@@ -148,7 +165,8 @@
       "summary" : "扬州总兵叶家的庶出九小姐的叶轻离，本想平凡度过一生的她，却嫁入公卿之家成了平南侯莫逸晨的第四位小妾，",
       "updateStatus" : 1,
       "capacity" : 9527583,
-      "readerCount" : 11936
+      "readerCount" : 11936,
+      "bothType" : false
     }, {
       "id" : 3010,
       "name" : "冤家，咱布梨布吃",
@@ -156,7 +174,8 @@
       "summary" : "某天，我们亲爱的凌大明星感冒了！身为助理的苏小黎苏同志义不容辞应该照顾好大明星！所以就有了这段对话：",
       "updateStatus" : 1,
       "capacity" : 9625493,
-      "readerCount" : 11911
+      "readerCount" : 11911,
+      "bothType" : true
     }, {
       "id" : 2518,
       "name" : "君醉红颜",
@@ -164,7 +183,8 @@
       "summary" : "三年相思，却以一桩政治婚姻了断，她的爱情抵不过江山社稷，只能嫁给素未谋面的冷酷君王。他只当她是一枚政",
       "updateStatus" : 1,
       "capacity" : 4862062,
-      "readerCount" : 11902
+      "readerCount" : 11902,
+      "bothType" : false
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "summary" : "科幻机战未来弑神守护梦想",
       "updateStatus" : 2,
       "capacity" : 6350616,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 3703,
       "name" : "六脸",
@@ -20,7 +21,8 @@
       "summary" : "一个人用六张脸皮活着，她们到底会怎么经历怎么样的生活！",
       "updateStatus" : 2,
       "capacity" : 198861,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2828,
       "name" : "风声",
@@ -28,7 +30,8 @@
       "summary" : "风声迅疾而至，又呼啸而过命运在轮回中旋转却永远无法逃脱背后的掌控孤独奋战于光明与黑暗之间在鲜血与枪林",
       "updateStatus" : 2,
       "capacity" : 3160668,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2161,
       "name" : "天河巨图",
@@ -36,7 +39,8 @@
       "summary" : "为那些，生活在社会底层，而不放弃生活的人喝彩！为了那些不甘平庸而不懈努力与拼搏的人喝彩！为那些在苦苦",
       "updateStatus" : 2,
       "capacity" : 1114254,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3318,
       "name" : "灯火阑珊爱未尽",
@@ -44,7 +48,8 @@
       "summary" : "她本是流落在外的私生女，被带回苏家时。她以自我的姿态高贵的生活着。极尽她母亲的优雅，可是，自那以后她",
       "updateStatus" : 2,
       "capacity" : 108095,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2188,
       "name" : "王之祭坛",
@@ -52,7 +57,8 @@
       "summary" : "千年前的一场大战，让天，地两界与人界结下了不解之仇。千年之后，两界卷土重来，新大路上瞬间战火不灭。他",
       "updateStatus" : 2,
       "capacity" : 1668493,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2488,
       "name" : "奇灵公主",
@@ -60,7 +66,8 @@
       "summary" : "仙术，仙友，仙情，你想拥有哪一样？抑或是，你不想失去哪一样？答案是能够选择的吗？对于杳一，答案是无法",
       "updateStatus" : 2,
       "capacity" : 2183420,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2194,
       "name" : "创世迷途",
@@ -68,7 +75,8 @@
       "summary" : "主人公于宙（王哲）为了自己创造超等智慧生命的梦想，与灭世神达成契约，来到异界寻求创世的方法。于是修仙",
       "updateStatus" : 2,
       "capacity" : 4996307,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2390,
       "name" : "最初的仪式，最后的爱情",
@@ -76,7 +84,8 @@
       "summary" : "经历过爱情的人生才是美好的，经不起考验的爱情是不深刻的。美好的爱情使人生丰富，经得起考验的爱情是完美",
       "updateStatus" : 2,
       "capacity" : 1981133,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3117,
       "name" : "总裁少女成长记",
@@ -84,7 +93,8 @@
       "summary" : "因为是独女，便是商业帝国的唯一继承者。但是看着将自己视如珍宝的爷爷鬓游白丝，她只求一年的时间，找到能",
       "updateStatus" : 2,
       "capacity" : 1163641,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2359,
       "name" : "羽落殇心醉红尘",
@@ -92,7 +102,8 @@
       "summary" : "白绫纱，青丝发，你眉目亦如画恍惚间，相望早已无话，心如麻千古月，付韶华，那一瞬成刹那逝年华，转身泪流",
       "updateStatus" : 2,
       "capacity" : 4324780,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2198,
       "name" : "花开浮生：花乱莫倾城",
@@ -100,7 +111,8 @@
       "summary" : "以我之名，许你一世荣宠。以我之命，换你一生安好。这个世上，我只愿和你比肩。若是毁去身躯，废去神石，能",
       "updateStatus" : 2,
       "capacity" : 3556118,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2219,
       "name" : "亡牢天羊",
@@ -108,7 +120,8 @@
       "summary" : "亡牢天羊，杯具地好看。",
       "updateStatus" : 2,
       "capacity" : 3676173,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2392,
       "name" : "刁蛮丫头很温柔",
@@ -116,7 +129,8 @@
       "summary" : "超反应异能、超速度异能、超神力异能、摄魂异能、读神异能、魅惑异能……天呐，这都是一群什么人呐！她，刁",
       "updateStatus" : 2,
       "capacity" : 6377457,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3639,
       "name" : "疯狂的机械师",
@@ -124,7 +138,8 @@
       "summary" : "片段：咦？”张木忽然发现还有一张纸制品，特殊职业转职证明——凭借这张证明，你可以选择随机的变异的职业",
       "updateStatus" : 2,
       "capacity" : 1207782,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2397,
       "name" : "暧昧是青春的爱情",
@@ -132,7 +147,8 @@
       "summary" : "新浪认证微博：http://url.cn/HzP8Zl离奇狗血的初遇，让这群疯狂少男少女会聚一堂，一",
       "updateStatus" : 2,
       "capacity" : 1808448,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2138,
       "name" : "妖孽，快到仙姑碗里来",
@@ -140,7 +156,8 @@
       "summary" : "一朝逃婚，她从天而降，将一袒胸露怀妖孽男子砸在身下。他笑得明媚：“这位姑娘，请问还要同在下身上趴多久",
       "updateStatus" : 2,
       "capacity" : 9277532,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 2116,
       "name" : "妖孽皇太子：独宠下堂妃",
@@ -148,7 +165,8 @@
       "summary" : "前夫太冷太无情，休掉！太子很美很妖孽，扑倒！穿越女守则最重要的便是：踢走渣男，扑倒极品，唯我独妻！—",
       "updateStatus" : 2,
       "capacity" : 5865236,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3567,
       "name" : "你必须知道的事",
@@ -156,7 +174,8 @@
       "summary" : "爱情从哪里开始的？我不记得了，我只知道，不知不觉中，我只能看见你，我不介意站在你的身后，只希望有一天",
       "updateStatus" : 2,
       "capacity" : 444147,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3242,
       "name" : "王爷的重生小冷妃",
@@ -164,7 +183,8 @@
       "summary" : "我曾经爱上一个人，爱他的点点滴滴。我们在一起生活了六年，他从来没说娶我，但我们这样一直生活在一起我就",
       "updateStatus" : 2,
       "capacity" : 1001443,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     } ]
   }
 }

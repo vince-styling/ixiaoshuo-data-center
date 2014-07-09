@@ -12,7 +12,8 @@
       "summary" : "琉璃幻？未央梦？她是一个明媚纯情的女子，他们是风华绝代的俊美男子。那年舞榭场，繁华地，属于她的宿命开",
       "updateStatus" : 1,
       "capacity" : 9532091,
-      "readerCount" : 12223
+      "readerCount" : 12223,
+      "bothType" : false
     }, {
       "id" : 2630,
       "name" : "腹黑女帝倾天下",
@@ -20,7 +21,8 @@
       "summary" : "某女分分钟从黑道老大变身萌系小太女，宫廷水深，可对于默默这种老油条来说，正是如鱼得水，相得映彰。养精",
       "updateStatus" : 1,
       "capacity" : 8954619,
-      "readerCount" : 12062
+      "readerCount" : 12062,
+      "bothType" : false
     }, {
       "id" : 2111,
       "name" : "官家小妾",
@@ -28,7 +30,8 @@
       "summary" : "扬州总兵叶家的庶出九小姐的叶轻离，本想平凡度过一生的她，却嫁入公卿之家成了平南侯莫逸晨的第四位小妾，",
       "updateStatus" : 1,
       "capacity" : 9527583,
-      "readerCount" : 11936
+      "readerCount" : 11936,
+      "bothType" : false
     }, {
       "id" : 2903,
       "name" : "诱饵王妃",
@@ -36,7 +39,8 @@
       "summary" : "她身为当朝太尉的女儿，爱上她的是当今皇帝同父异母的亲弟弟，不过这段原本是最为幸福的婚姻却是经历了一次",
       "updateStatus" : 1,
       "capacity" : 4526459,
-      "readerCount" : 11901
+      "readerCount" : 11901,
+      "bothType" : false
     }, {
       "id" : 2830,
       "name" : "待我长发及腰",
@@ -44,7 +48,8 @@
       "summary" : "她站在人前，无能，好色，骄奢放荡，刁蛮任性她转过身背过人群，美丽，聪明，善良，绝世倾城她来自于未来，",
       "updateStatus" : 1,
       "capacity" : 7379718,
-      "readerCount" : 11848
+      "readerCount" : 11848,
+      "bothType" : true
     }, {
       "id" : 2546,
       "name" : "风流公子：赖上重生佳人",
@@ -52,7 +57,8 @@
       "summary" : "明明已经死去的人，为什么两年之后又重新回到了他的生命之中。究竟是不是同一个人。为什么回来的时候身旁还",
       "updateStatus" : 1,
       "capacity" : 1613835,
-      "readerCount" : 11786
+      "readerCount" : 11786,
+      "bothType" : false
     }, {
       "id" : 2770,
       "name" : "绝世桃花扇",
@@ -60,7 +66,8 @@
       "summary" : "一场误会，拉开了两人的距离，种种的原因，让他们再也无法相爱。她，贵为邻国公主，领兵攻入了他的皇城，那",
       "updateStatus" : 1,
       "capacity" : 9164052,
-      "readerCount" : 11570
+      "readerCount" : 11570,
+      "bothType" : true
     }, {
       "id" : 2557,
       "name" : "美人颜如玉",
@@ -68,7 +75,8 @@
       "summary" : "“小颜，脸伸过来。”在某人嚣张的眼神下，我只能我只能示弱的伸过小脸，任由他捏圆搓扁。唉，想当年，我秦",
       "updateStatus" : 1,
       "capacity" : 9958804,
-      "readerCount" : 11470
+      "readerCount" : 11470,
+      "bothType" : false
     }, {
       "id" : 2859,
       "name" : "罪与孽交织的孽爱",
@@ -76,7 +84,8 @@
       "summary" : "像是一出剧本，该遇见的总会遇见，也总不能预见。和玫瑰一样带着刺，还艳丽的带着毒。",
       "updateStatus" : 1,
       "capacity" : 6870164,
-      "readerCount" : 11426
+      "readerCount" : 11426,
+      "bothType" : false
     }, {
       "id" : 2940,
       "name" : "秦汉·流云浮生",
@@ -84,7 +93,8 @@
       "summary" : "他是旧韩之人，而她为秦人，本应是水火不容。他一心刺秦复韩，怎奈少时海棠树下遇见了她……原本是情投意合",
       "updateStatus" : 1,
       "capacity" : 7561203,
-      "readerCount" : 11378
+      "readerCount" : 11378,
+      "bothType" : false
     }, {
       "id" : 2060,
       "name" : "和亲九公主：霸爱拽夫君",
@@ -92,7 +102,8 @@
       "summary" : "她，一个爹不亲娘不要的九公主，无权无势无颜面，活得比谁都长命是她的愿望，向来人不犯我我不犯人，人若犯",
       "updateStatus" : 2,
       "capacity" : 6429154,
-      "readerCount" : 11359
+      "readerCount" : 11359,
+      "bothType" : false
     }, {
       "id" : 2587,
       "name" : "漫漫碧桃开",
@@ -100,7 +111,8 @@
       "summary" : "作为天界里最倒霉的花仙，千年之前，我因顽皮不小心将月仙树上的姻缘线弄得一团糟，而被月神惩罚奴役，从此",
       "updateStatus" : 1,
       "capacity" : 6206347,
-      "readerCount" : 11341
+      "readerCount" : 11341,
+      "bothType" : false
     }, {
       "id" : 2772,
       "name" : "盛逝芳华",
@@ -108,7 +120,8 @@
       "summary" : "",
       "updateStatus" : 1,
       "capacity" : 7912623,
-      "readerCount" : 11093
+      "readerCount" : 11093,
+      "bothType" : false
     }, {
       "id" : 2069,
       "name" : "庶女二嫁：暴君，来暖床",
@@ -116,7 +129,8 @@
       "summary" : "一场暗杀，她出卖灵魂，苟活于世。五分宠，五分虐；她的主子助她登顶，给她权势，纵她复仇；却……强了她的",
       "updateStatus" : 2,
       "capacity" : 8890187,
-      "readerCount" : 10923
+      "readerCount" : 10923,
+      "bothType" : false
     }, {
       "id" : 2066,
       "name" : "祸爱三生：嗜血夺天下",
@@ -124,7 +138,8 @@
       "summary" : "他是睥睨天下的冷酷世子，爱情于他而言不过一颗棋子，需之则用，用之则弃，毫不可惜。她是惨遭灭门的相国千",
       "updateStatus" : 1,
       "capacity" : 3587104,
-      "readerCount" : 10885
+      "readerCount" : 10885,
+      "bothType" : false
     }, {
       "id" : 2771,
       "name" : "鸾情错，妃本无良",
@@ -132,7 +147,8 @@
       "summary" : "她，懦弱、花痴又废才……一纸圣喻，嫁与爱慕的他为妻，却在大婚前期莫名落水身亡。她，腹黑、冷情又聪明…",
       "updateStatus" : 1,
       "capacity" : 5190540,
-      "readerCount" : 10810
+      "readerCount" : 10810,
+      "bothType" : false
     }, {
       "id" : 2966,
       "name" : "乱世桃花",
@@ -140,7 +156,8 @@
       "summary" : "剑尖直指他的咽喉，握剑的手在微微颤抖，他却浑不在意，只是静静的看着她，声音凛冽而忧伤：“为了他，你竟",
       "updateStatus" : 1,
       "capacity" : 8544782,
-      "readerCount" : 10809
+      "readerCount" : 10809,
+      "bothType" : false
     }, {
       "id" : 3039,
       "name" : "一世迷离",
@@ -148,7 +165,8 @@
       "summary" : "她们是一母同胞的亲姐妹，却是两种截然不同的待遇。姐姐备受恩宠，妹妹却不受待见。他是万受瞩目的骄子，妹",
       "updateStatus" : 1,
       "capacity" : 7829483,
-      "readerCount" : 10791
+      "readerCount" : 10791,
+      "bothType" : true
     }, {
       "id" : 2968,
       "name" : "重生之待到记忆镂空时",
@@ -156,7 +174,8 @@
       "summary" : "有些事情是你无从想象后也无从考究的。这是蓝析萌对于自己穿越至佣都国的将军府里后，再次发出的感叹。本不",
       "updateStatus" : 2,
       "capacity" : 4926796,
-      "readerCount" : 10613
+      "readerCount" : 10613,
+      "bothType" : false
     }, {
       "id" : 2243,
       "name" : "独宠之命中注定",
@@ -164,7 +183,8 @@
       "summary" : "她该相信谁？她能相信谁？此刻，她不想见任何人，不想看见许诺会等她却已与另一名女子孕育了孩子的徐辰轩，",
       "updateStatus" : 1,
       "capacity" : 7732637,
-      "readerCount" : 10531
+      "readerCount" : 10531,
+      "bothType" : false
     } ]
   }
 }

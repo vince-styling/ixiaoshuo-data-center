@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45430.jpg",
       "updateStatus" : 1,
       "capacity" : 248273,
-      "lastUpdateTime" : "2013-12-03 22:03:20"
+      "lastUpdateTime" : "2013-12-03 22:03:20",
+      "bothType" : true
     }, {
       "id" : 3140,
       "name" : "今夜，天黑",
@@ -20,7 +21,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 42350,
-      "lastUpdateTime" : "2013-12-03 22:02:44"
+      "lastUpdateTime" : "2013-12-03 22:02:44",
+      "bothType" : true
     }, {
       "id" : 2861,
       "name" : "妖孽殿下：魅惑冷情阁主",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18858.jpg",
       "updateStatus" : 1,
       "capacity" : 6948482,
-      "lastUpdateTime" : "2013-12-03 21:49:37"
+      "lastUpdateTime" : "2013-12-03 21:49:37",
+      "bothType" : false
     }, {
       "id" : 2287,
       "name" : "王妃富可敌国",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44137.jpg",
       "updateStatus" : 1,
       "capacity" : 7666993,
-      "lastUpdateTime" : "2013-12-03 21:32:29"
+      "lastUpdateTime" : "2013-12-03 21:32:29",
+      "bothType" : true
     }, {
       "id" : 2527,
       "name" : "火影同人暗夜帝国",
@@ -44,7 +48,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 8042919,
-      "lastUpdateTime" : "2013-12-03 21:10:40"
+      "lastUpdateTime" : "2013-12-03 21:10:40",
+      "bothType" : true
     }, {
       "id" : 3302,
       "name" : "幽冥女王：猖狂天下",
@@ -52,7 +57,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 20792,
-      "lastUpdateTime" : "2013-12-03 20:51:31"
+      "lastUpdateTime" : "2013-12-03 20:51:31",
+      "bothType" : false
     }, {
       "id" : 2937,
       "name" : "致命蔷薇FatalRose",
@@ -60,7 +66,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 1316151,
-      "lastUpdateTime" : "2013-12-03 20:34:40"
+      "lastUpdateTime" : "2013-12-03 20:34:40",
+      "bothType" : false
     }, {
       "id" : 3045,
       "name" : "手中空握染血黑发",
@@ -68,7 +75,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 2246413,
-      "lastUpdateTime" : "2013-12-03 20:05:57"
+      "lastUpdateTime" : "2013-12-03 20:05:57",
+      "bothType" : false
     }, {
       "id" : 2189,
       "name" : "天使心",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16804.jpg",
       "updateStatus" : 2,
       "capacity" : 7500082,
-      "lastUpdateTime" : "2013-12-03 20:01:58"
+      "lastUpdateTime" : "2013-12-03 20:01:58",
+      "bothType" : false
     }, {
       "id" : 2492,
       "name" : "网战尖兵",
@@ -84,7 +93,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 2095335,
-      "lastUpdateTime" : "2013-12-03 20:01:24"
+      "lastUpdateTime" : "2013-12-03 20:01:24",
+      "bothType" : true
     }, {
       "id" : 2720,
       "name" : "你怎么还不死回来",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46040.jpg",
       "updateStatus" : 1,
       "capacity" : 2920784,
-      "lastUpdateTime" : "2013-12-03 19:43:40"
+      "lastUpdateTime" : "2013-12-03 19:43:40",
+      "bothType" : false
     }, {
       "id" : 2115,
       "name" : "宫心计：弃后霸君宠",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_3153.jpg",
       "updateStatus" : 2,
       "capacity" : 3994478,
-      "lastUpdateTime" : "2013-12-03 19:11:18"
+      "lastUpdateTime" : "2013-12-03 19:11:18",
+      "bothType" : false
     }, {
       "id" : 2428,
       "name" : "包办婚嫁",
@@ -108,7 +120,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 3269355,
-      "lastUpdateTime" : "2013-12-03 19:01:11"
+      "lastUpdateTime" : "2013-12-03 19:01:11",
+      "bothType" : false
     }, {
       "id" : 3714,
       "name" : "王爷的仙妃",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46934.jpg",
       "updateStatus" : 1,
       "capacity" : 195923,
-      "lastUpdateTime" : "2013-12-03 18:19:41"
+      "lastUpdateTime" : "2013-12-03 18:19:41",
+      "bothType" : false
     }, {
       "id" : 3581,
       "name" : "故人衣",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43041.jpg",
       "updateStatus" : 1,
       "capacity" : 110940,
-      "lastUpdateTime" : "2013-12-03 18:07:16"
+      "lastUpdateTime" : "2013-12-03 18:07:16",
+      "bothType" : false
     }, {
       "id" : 3673,
       "name" : "美男在侧:霸气男女",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42970.jpg",
       "updateStatus" : 1,
       "capacity" : 27374,
-      "lastUpdateTime" : "2013-12-03 17:47:44"
+      "lastUpdateTime" : "2013-12-03 17:47:44",
+      "bothType" : false
     }, {
       "id" : 3667,
       "name" : "且行且见",
@@ -140,7 +156,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 483617,
-      "lastUpdateTime" : "2013-12-03 17:47:21"
+      "lastUpdateTime" : "2013-12-03 17:47:21",
+      "bothType" : false
     }, {
       "id" : 3243,
       "name" : "仙灭混沌",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45637.jpg",
       "updateStatus" : 1,
       "capacity" : 747566,
-      "lastUpdateTime" : "2013-12-03 17:36:15"
+      "lastUpdateTime" : "2013-12-03 17:36:15",
+      "bothType" : false
     }, {
       "id" : 3635,
       "name" : "恍然入仙",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22706.jpg",
       "updateStatus" : 1,
       "capacity" : 1595593,
-      "lastUpdateTime" : "2013-12-03 17:21:51"
+      "lastUpdateTime" : "2013-12-03 17:21:51",
+      "bothType" : false
     }, {
       "id" : 2043,
       "name" : "彼岸繁花落",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46732.jpg",
       "updateStatus" : 1,
       "capacity" : 7238006,
-      "lastUpdateTime" : "2013-12-03 17:16:10"
+      "lastUpdateTime" : "2013-12-03 17:16:10",
+      "bothType" : false
     } ]
   }
 }

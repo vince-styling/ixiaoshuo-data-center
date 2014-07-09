@@ -12,7 +12,8 @@
       "summary" : "这是一个面瘫女和腹黑男的故事，这是一个学长“吃掉”学妹的故事！面瘫不一定总面无表情，心底冷淡....",
       "updateStatus" : 1,
       "capacity" : 241163,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3592,
       "name" : "单纯逐笑开",
@@ -20,7 +21,8 @@
       "summary" : "女主重生到了一个架空世界，她成了盟主千金。爹爹是个美丽的盟主，盟主爱夫人，不爱女儿。女儿去无极山习武",
       "updateStatus" : 1,
       "capacity" : 112614,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3358,
       "name" : "败家小姐炫情",
@@ -28,7 +30,8 @@
       "summary" : "她：游戏中的男与他成为唯一死党一场无故的车祸使其分离大路朝天各走一边她后他疯了的满世界寻找..另一个",
       "updateStatus" : 1,
       "capacity" : 111542,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3343,
       "name" : "许你水木两相依",
@@ -36,7 +39,8 @@
       "summary" : "她，是那一湾流水中最清澈的一捧。他，晶莹的心灵涤荡在清贫的家境和残酷的社会里。他，天资卓越，运筹帷幄",
       "updateStatus" : 1,
       "capacity" : 754919,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2331,
       "name" : "情陷异时空之名动天下",
@@ -44,7 +48,8 @@
       "summary" : "一个俏皮可爱的现代知名女医生不知不觉爱上古代的冷酷王爷，却三番两次被伤害，无奈回到现代独自抚养两个天",
       "updateStatus" : 1,
       "capacity" : 6229414,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3268,
       "name" : "荆棘路之丛生荆棘",
@@ -52,7 +57,8 @@
       "summary" : "从苦逼青年到权倾天下，从乖乖学生到黑帮老大，不是因为他有多大的野心，只是为心中对孟林得感激与尊敬，默",
       "updateStatus" : 1,
       "capacity" : 213537,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3464,
       "name" : "落姮醉时君不醉",
@@ -60,7 +66,8 @@
       "summary" : "大业四十五年，中原女尊大陆，皋陶、南吴、室离三分天下，唯室离阁主牧逐君以男子身份独霸一方，妩媚风流，",
       "updateStatus" : 1,
       "capacity" : 61735,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3490,
       "name" : "舍友是公主大人",
@@ -68,7 +75,8 @@
       "summary" : "刚进学校的第一天，舍友是位冷漠少女。一脸杀气的她，竟会和校草们说笑。真是不解，当打开教室的门时，惊天",
       "updateStatus" : 1,
       "capacity" : 112904,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3100,
       "name" : "这不是王者归来",
@@ -76,7 +84,8 @@
       "summary" : "一位绝美的发小，冷酷寡言却温柔护短；一位儒雅的蓝颜，温柔隽永却深藏秘密；一对财阀的公子千金兄妹，开朗",
       "updateStatus" : 1,
       "capacity" : 1098325,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2972,
       "name" : "MoMo大陆传奇",
@@ -84,7 +93,8 @@
       "summary" : "她，一个21世纪的大腐女、大剩女，在机缘巧合之下来的了一个叫MoMo大陆的地方；她，贪财、贪吃，到处",
       "updateStatus" : 1,
       "capacity" : 2479212,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3108,
       "name" : "金豆豆是宝贝疙瘩",
@@ -92,7 +102,8 @@
       "summary" : "“宝贝~”带着浓浓的尾音的男生传进了一个长得非常卡哇伊的女孩儿的耳朵里面。被打扰了自己午睡的女孩儿顿",
       "updateStatus" : 1,
       "capacity" : 133203,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3254,
       "name" : "北京不眠",
@@ -100,7 +111,8 @@
       "summary" : "几分愁肠，初出社会无意之中做了别人的小三。半杯酸楚，怎样逃离小三的命运和正妻的迫害？混乱职场，残忍的",
       "updateStatus" : 1,
       "capacity" : 403072,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3302,
       "name" : "幽冥女王：猖狂天下",
@@ -108,7 +120,8 @@
       "summary" : "鲜为人知的秘辛，扑朔迷离的真相，她无意搅乱这表面宁静的天下。神魔大战背后究竟隐藏着什么样的秘密？她的",
       "updateStatus" : 1,
       "capacity" : 20792,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3194,
       "name" : "北漂女的情和欲",
@@ -116,7 +129,8 @@
       "summary" : "姓名；宁蕾，女，20岁，身高，160，皮肤白，体重108，个性张扬，温柔随和。虽然不是像明星一样的漂",
       "updateStatus" : 1,
       "capacity" : 17025,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3718,
       "name" : "弱水三千，只饮一瓢",
@@ -124,7 +138,8 @@
       "summary" : "“哥，我喜欢上她了，对不起。”“&middot;&middot;&middot;&middot;&m",
       "updateStatus" : 1,
       "capacity" : 11450,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3412,
       "name" : "请在原地等等我",
@@ -132,7 +147,8 @@
       "summary" : "天各一方的她和他，因为彼此的父母走到了一起，生活在了一个屋檐下。如果不是束缚在自己内心的地位区别，他",
       "updateStatus" : 1,
       "capacity" : 144952,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3415,
       "name" : "黑道老大的冷酷男友",
@@ -140,7 +156,8 @@
       "summary" : "冷血寒是一个容易心软的女孩，在她很小的时候遇到了比她大两岁的男孩，这个男孩第一眼看到她就喜欢上了她，",
       "updateStatus" : 1,
       "capacity" : 504890,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3537,
       "name" : "倾尽天下，乱世红颜",
@@ -148,7 +165,8 @@
       "summary" : "“生生世世永不分离！”这是他与她许下的诺言那一世，她，奄奄一息，他，舍命相救，终究逃不过命运的安排。",
       "updateStatus" : 1,
       "capacity" : 161799,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3564,
       "name" : "十二生肖女神的恋爱",
@@ -156,7 +174,8 @@
       "summary" : "生肖鼠对应水瓶，五行属性水，守护星天王星，有个性的爱。生肖牛对应摩羯，五行属性土，守护星土星，孤独的",
       "updateStatus" : 1,
       "capacity" : 25503,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3251,
       "name" : "博宇睿",
@@ -164,7 +183,8 @@
       "summary" : "他爱上好朋友的男朋友得到他的同时他却离开他然后他才明白原来他们是旧识原来他不是好朋友的男朋友原来,他",
       "updateStatus" : 1,
       "capacity" : 83765,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : true
     } ]
   }
 }

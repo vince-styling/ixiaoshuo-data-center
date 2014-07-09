@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2724,
-      "name" : "陌路：琴音",
-      "updateStatus" : 1,
-      "distance" : 7462,
-      "memberId" : 1368
-    }, {
-      "id" : 3037,
-      "name" : "简单的幸福",
-      "updateStatus" : 1,
-      "distance" : 1577,
-      "memberId" : 5300
-    }, {
-      "id" : 3245,
-      "name" : "双凤夺体：娇蛮宠姬不好惹",
-      "updateStatus" : 1,
-      "distance" : 7829,
-      "memberId" : 2328
-    }, {
-      "id" : 3693,
-      "name" : "综漫——萝莉女神的养成计划",
-      "updateStatus" : 1,
-      "distance" : 5424,
-      "memberId" : 5856
-    }, {
-      "id" : 3437,
-      "name" : "北方有佳人",
-      "updateStatus" : 1,
-      "distance" : 7762,
-      "memberId" : 1980
-    }, {
-      "id" : 3736,
-      "name" : "狂",
-      "updateStatus" : 1,
-      "distance" : 8866,
-      "memberId" : 2163
-    }, {
-      "id" : 2683,
-      "name" : "总有一个人能陪我一起老",
-      "updateStatus" : 1,
-      "distance" : 5453,
-      "memberId" : 8807
-    }, {
-      "id" : 3199,
-      "name" : "后宫大学传",
-      "updateStatus" : 1,
-      "distance" : 9448,
-      "memberId" : 7723
-    }, {
-      "id" : 3211,
-      "name" : "胭脂香味",
-      "updateStatus" : 1,
-      "distance" : 4771,
-      "memberId" : 1577
-    }, {
-      "id" : 2689,
-      "name" : "穿越之歌月徘徊",
-      "updateStatus" : 1,
-      "distance" : 7039,
-      "memberId" : 5179
-    }, {
-      "id" : 2221,
-      "name" : "七星北斗PLOUGH",
-      "updateStatus" : 1,
-      "distance" : 5761,
-      "memberId" : 1926
-    }, {
-      "id" : 2071,
-      "name" : "月落紫禁",
+      "id" : 3591,
+      "name" : "小羊别闹，来吃草",
       "updateStatus" : 2,
-      "distance" : 4309,
-      "memberId" : 2053
+      "distance" : 8758,
+      "memberId" : 7454,
+      "bothType" : false
     }, {
-      "id" : 2944,
-      "name" : "嬗变",
+      "id" : 2688,
+      "name" : "疼痛青春：那夏离殇",
       "updateStatus" : 1,
-      "distance" : 4826,
-      "memberId" : 6722
+      "distance" : 8996,
+      "memberId" : 3158,
+      "bothType" : true
     }, {
-      "id" : 2472,
-      "name" : "梦幻钟馗",
+      "id" : 3606,
+      "name" : "王的异界游历史",
       "updateStatus" : 1,
-      "distance" : 2686,
-      "memberId" : 8893
+      "distance" : 6598,
+      "memberId" : 6061,
+      "bothType" : false
     }, {
-      "id" : 2777,
-      "name" : "穿越之风沁",
+      "id" : 2130,
+      "name" : "文德皇后传",
       "updateStatus" : 1,
-      "distance" : 4639,
-      "memberId" : 1753
+      "distance" : 4981,
+      "memberId" : 4755,
+      "bothType" : false
     }, {
-      "id" : 2220,
-      "name" : "玄黄道环",
+      "id" : 2791,
+      "name" : "倩海情深",
       "updateStatus" : 1,
-      "distance" : 6549,
-      "memberId" : 6000
+      "distance" : 6202,
+      "memberId" : 6707,
+      "bothType" : false
+    }, {
+      "id" : 3412,
+      "name" : "请在原地等等我",
+      "updateStatus" : 1,
+      "distance" : 5086,
+      "memberId" : 1628,
+      "bothType" : true
+    }, {
+      "id" : 2053,
+      "name" : "古堡游戏：吸血恶魔别过来",
+      "updateStatus" : 1,
+      "distance" : 4169,
+      "memberId" : 6361,
+      "bothType" : false
     }, {
       "id" : 2138,
       "name" : "妖孽，快到仙姑碗里来",
       "updateStatus" : 2,
-      "distance" : 4684,
-      "memberId" : 8101
+      "distance" : 6273,
+      "memberId" : 6866,
+      "bothType" : false
     }, {
-      "id" : 2935,
-      "name" : "双生迷爱",
+      "id" : 3060,
+      "name" : "问世间节操为何物",
       "updateStatus" : 1,
-      "distance" : 6331,
-      "memberId" : 8801
+      "distance" : 8250,
+      "memberId" : 6606,
+      "bothType" : false
     }, {
-      "id" : 2104,
-      "name" : "那一世红莲雨",
+      "id" : 2393,
+      "name" : "剩女重生女警花：缉拿花花大少",
       "updateStatus" : 1,
-      "distance" : 4711,
-      "memberId" : 8517
+      "distance" : 6685,
+      "memberId" : 3545,
+      "bothType" : false
     }, {
-      "id" : 2862,
-      "name" : "侵他城占他国上他床",
+      "id" : 2131,
+      "name" : "重生之嫡女云笙",
       "updateStatus" : 1,
-      "distance" : 2433,
-      "memberId" : 4037
+      "distance" : 1299,
+      "memberId" : 4566,
+      "bothType" : false
+    }, {
+      "id" : 2295,
+      "name" : "未来帝国之战国春秋",
+      "updateStatus" : 1,
+      "distance" : 2432,
+      "memberId" : 5927,
+      "bothType" : true
+    }, {
+      "id" : 3334,
+      "name" : "我非007",
+      "updateStatus" : 1,
+      "distance" : 4658,
+      "memberId" : 8170,
+      "bothType" : false
+    }, {
+      "id" : 2576,
+      "name" : "四人行",
+      "updateStatus" : 1,
+      "distance" : 6187,
+      "memberId" : 5375,
+      "bothType" : false
+    }, {
+      "id" : 3034,
+      "name" : "为期不返",
+      "updateStatus" : 1,
+      "distance" : 2237,
+      "memberId" : 2895,
+      "bothType" : true
+    }, {
+      "id" : 2750,
+      "name" : "仇爱",
+      "updateStatus" : 1,
+      "distance" : 7895,
+      "memberId" : 6698,
+      "bothType" : true
+    }, {
+      "id" : 3137,
+      "name" : "只要你还在这里",
+      "updateStatus" : 1,
+      "distance" : 1228,
+      "memberId" : 2354,
+      "bothType" : false
+    }, {
+      "id" : 2975,
+      "name" : "残荷听雨",
+      "updateStatus" : 1,
+      "distance" : 3914,
+      "memberId" : 7000,
+      "bothType" : false
+    }, {
+      "id" : 3564,
+      "name" : "十二生肖女神的恋爱",
+      "updateStatus" : 1,
+      "distance" : 6152,
+      "memberId" : 4538,
+      "bothType" : false
+    }, {
+      "id" : 2254,
+      "name" : "小哥跟着姐，有肉吃",
+      "updateStatus" : 2,
+      "distance" : 6896,
+      "memberId" : 7620,
+      "bothType" : false
     } ]
   }
 }

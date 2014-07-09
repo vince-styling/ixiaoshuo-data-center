@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 9773629,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2336,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 6420301,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 3542,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 101191,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

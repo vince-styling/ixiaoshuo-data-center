@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2420,
-      "name" : "双生之恋",
+      "id" : 2854,
+      "name" : "清音冷",
       "updateStatus" : 1,
-      "distance" : 7167,
-      "memberId" : 5375
+      "distance" : 6068,
+      "memberId" : 8842,
+      "bothType" : true
     }, {
-      "id" : 3024,
-      "name" : "爱错",
+      "id" : 2770,
+      "name" : "绝世桃花扇",
       "updateStatus" : 1,
-      "distance" : 4766,
-      "memberId" : 7349
+      "distance" : 7744,
+      "memberId" : 6500,
+      "bothType" : false
     }, {
-      "id" : 2680,
-      "name" : "若要爱，非你不可",
+      "id" : 2287,
+      "name" : "王妃富可敌国",
       "updateStatus" : 1,
-      "distance" : 6961,
-      "memberId" : 1424
+      "distance" : 4319,
+      "memberId" : 7364,
+      "bothType" : false
     }, {
-      "id" : 2343,
-      "name" : "五界九州乱",
+      "id" : 2682,
+      "name" : "心口不一",
       "updateStatus" : 1,
-      "distance" : 3090,
-      "memberId" : 7264
+      "distance" : 8719,
+      "memberId" : 7543,
+      "bothType" : false
     }, {
-      "id" : 3490,
-      "name" : "舍友是公主大人",
+      "id" : 3175,
+      "name" : "被岁月流放的青春",
       "updateStatus" : 1,
-      "distance" : 4588,
-      "memberId" : 4040
+      "distance" : 8405,
+      "memberId" : 8499,
+      "bothType" : false
     }, {
-      "id" : 3435,
-      "name" : "爱在大理",
+      "id" : 2084,
+      "name" : "紫月星尘",
       "updateStatus" : 1,
-      "distance" : 1300,
-      "memberId" : 7207
+      "distance" : 4441,
+      "memberId" : 4929,
+      "bothType" : false
     }, {
-      "id" : 3693,
-      "name" : "综漫——萝莉女神的养成计划",
+      "id" : 3292,
+      "name" : "菊之恋",
       "updateStatus" : 1,
-      "distance" : 6200,
-      "memberId" : 1964
+      "distance" : 1603,
+      "memberId" : 5507,
+      "bothType" : false
     }, {
-      "id" : 3125,
-      "name" : "竹马太凶残",
+      "id" : 2931,
+      "name" : "蝶风之交错的缘",
       "updateStatus" : 1,
-      "distance" : 4926,
-      "memberId" : 1761
+      "distance" : 7899,
+      "memberId" : 4464,
+      "bothType" : false
     }, {
-      "id" : 2403,
-      "name" : "愤怒的萤火虫",
+      "id" : 3331,
+      "name" : "武警婚约之山东佳人",
       "updateStatus" : 1,
-      "distance" : 4610,
-      "memberId" : 7345
+      "distance" : 6347,
+      "memberId" : 4847,
+      "bothType" : false
     }, {
-      "id" : 2436,
-      "name" : "爱不过匆匆一片点缀",
+      "id" : 2730,
+      "name" : "风谨如歌",
       "updateStatus" : 1,
-      "distance" : 9432,
-      "memberId" : 6189
+      "distance" : 4080,
+      "memberId" : 7712,
+      "bothType" : false
     }, {
-      "id" : 2575,
-      "name" : "有生之年",
+      "id" : 2814,
+      "name" : "小市民",
       "updateStatus" : 1,
-      "distance" : 5810,
-      "memberId" : 1543
+      "distance" : 1503,
+      "memberId" : 2545,
+      "bothType" : false
     }, {
-      "id" : 2679,
-      "name" : "雪莲的桔梗花",
+      "id" : 3294,
+      "name" : "朕爱生命，远离皇后",
       "updateStatus" : 1,
-      "distance" : 7198,
-      "memberId" : 5076
+      "distance" : 1728,
+      "memberId" : 8853,
+      "bothType" : false
     }, {
-      "id" : 3422,
-      "name" : "五十弦",
+      "id" : 3010,
+      "name" : "冤家，咱布梨布吃",
       "updateStatus" : 1,
-      "distance" : 5615,
-      "memberId" : 1334
+      "distance" : 6769,
+      "memberId" : 8404,
+      "bothType" : true
     }, {
-      "id" : 2686,
-      "name" : "罂粟：血蔷薇",
+      "id" : 3459,
+      "name" : "红尘客栈",
       "updateStatus" : 1,
-      "distance" : 8794,
-      "memberId" : 4377
+      "distance" : 7665,
+      "memberId" : 6227,
+      "bothType" : false
     }, {
-      "id" : 3425,
-      "name" : "网王之温柔缱绻的岁月",
+      "id" : 3468,
+      "name" : "轮回•不语",
       "updateStatus" : 1,
-      "distance" : 1667,
-      "memberId" : 5551
+      "distance" : 4573,
+      "memberId" : 7778,
+      "bothType" : false
     }, {
-      "id" : 2807,
-      "name" : "忍住不说我爱你",
+      "id" : 2981,
+      "name" : "夏家九爷",
       "updateStatus" : 1,
-      "distance" : 9624,
-      "memberId" : 7006
+      "distance" : 3929,
+      "memberId" : 2133,
+      "bothType" : true
     }, {
-      "id" : 2610,
-      "name" : "调皮千金异空游之拐跑王爷",
+      "id" : 3596,
+      "name" : "不要在一起",
       "updateStatus" : 1,
-      "distance" : 669,
-      "memberId" : 6970
+      "distance" : 1445,
+      "memberId" : 2355,
+      "bothType" : false
     }, {
-      "id" : 3142,
-      "name" : "重生女帝之桃花袭来",
+      "id" : 2818,
+      "name" : "时光铭刻之痕",
       "updateStatus" : 1,
-      "distance" : 8252,
-      "memberId" : 7001
+      "distance" : 7974,
+      "memberId" : 1254,
+      "bothType" : false
     }, {
-      "id" : 3210,
-      "name" : "自卑女孩的vip恋遇",
+      "id" : 2307,
+      "name" : "掏心掏肺的傻女人",
       "updateStatus" : 1,
-      "distance" : 2927,
-      "memberId" : 5242
+      "distance" : 6142,
+      "memberId" : 7334,
+      "bothType" : true
     }, {
-      "id" : 3015,
-      "name" : "三境鏖锋录",
+      "id" : 3645,
+      "name" : "悠悠茶茗",
       "updateStatus" : 1,
-      "distance" : 6765,
-      "memberId" : 6395
+      "distance" : 9143,
+      "memberId" : 7160,
+      "bothType" : false
     } ]
   }
 }

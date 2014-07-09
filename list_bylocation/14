@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3129,
-      "name" : "（秦时+火影）滚来滚去滚成圆",
+      "id" : 2915,
+      "name" : "女汉子养成记",
       "updateStatus" : 1,
-      "distance" : 7530,
-      "memberId" : 5724
+      "distance" : 2264,
+      "memberId" : 2585,
+      "bothType" : false
     }, {
-      "id" : 3462,
-      "name" : "冷婢有毒",
+      "id" : 2409,
+      "name" : "异世界的盛宴",
       "updateStatus" : 1,
-      "distance" : 7699,
-      "memberId" : 5439
+      "distance" : 6483,
+      "memberId" : 8798,
+      "bothType" : false
     }, {
-      "id" : 3292,
-      "name" : "菊之恋",
+      "id" : 2735,
+      "name" : "是前世还是今生",
       "updateStatus" : 1,
-      "distance" : 5064,
-      "memberId" : 7997
+      "distance" : 9831,
+      "memberId" : 2499,
+      "bothType" : true
     }, {
-      "id" : 2262,
-      "name" : "三生河畔等着你",
-      "updateStatus" : 1,
-      "distance" : 3892,
-      "memberId" : 1128
-    }, {
-      "id" : 2729,
-      "name" : "妃霸天下",
-      "updateStatus" : 1,
-      "distance" : 8883,
-      "memberId" : 7594
-    }, {
-      "id" : 3617,
-      "name" : "分手条约",
-      "updateStatus" : 1,
-      "distance" : 9959,
-      "memberId" : 8213
-    }, {
-      "id" : 2535,
-      "name" : "素锦流年祭",
-      "updateStatus" : 1,
-      "distance" : 4991,
-      "memberId" : 5251
-    }, {
-      "id" : 3576,
-      "name" : "何故弦断梦",
-      "updateStatus" : 1,
-      "distance" : 4293,
-      "memberId" : 6605
-    }, {
-      "id" : 3543,
-      "name" : "逆天七小姐：第一魔妃",
-      "updateStatus" : 1,
-      "distance" : 8400,
-      "memberId" : 5195
-    }, {
-      "id" : 2168,
-      "name" : "天神之使命",
-      "updateStatus" : 1,
-      "distance" : 4317,
-      "memberId" : 7233
-    }, {
-      "id" : 2739,
-      "name" : "紫色涅槃",
-      "updateStatus" : 1,
-      "distance" : 5400,
-      "memberId" : 1019
-    }, {
-      "id" : 2522,
-      "name" : "熊霸天下",
-      "updateStatus" : 1,
-      "distance" : 7652,
-      "memberId" : 2253
-    }, {
-      "id" : 3179,
-      "name" : "情深几许",
-      "updateStatus" : 1,
-      "distance" : 2922,
-      "memberId" : 6311
-    }, {
-      "id" : 3314,
-      "name" : "倾城薄雾，似水流年",
+      "id" : 2361,
+      "name" : "豪门溺爱：一追到底",
       "updateStatus" : 2,
-      "distance" : 1773,
-      "memberId" : 4435
+      "distance" : 7079,
+      "memberId" : 6460,
+      "bothType" : false
     }, {
-      "id" : 2976,
-      "name" : "少女养成之就是赖上你",
-      "updateStatus" : 1,
-      "distance" : 9321,
-      "memberId" : 5261
+      "id" : 2069,
+      "name" : "庶女二嫁：暴君，来暖床",
+      "updateStatus" : 2,
+      "distance" : 6030,
+      "memberId" : 3442,
+      "bothType" : false
     }, {
-      "id" : 3223,
-      "name" : "风吹叶舞意悠然",
+      "id" : 2393,
+      "name" : "剩女重生女警花：缉拿花花大少",
       "updateStatus" : 1,
-      "distance" : 7721,
-      "memberId" : 5760
+      "distance" : 1747,
+      "memberId" : 1045,
+      "bothType" : false
     }, {
-      "id" : 2464,
-      "name" : "微光角落",
+      "id" : 2407,
+      "name" : "岁月静好，时光依旧",
       "updateStatus" : 1,
-      "distance" : 3582,
-      "memberId" : 4716
+      "distance" : 4234,
+      "memberId" : 7000,
+      "bothType" : false
     }, {
-      "id" : 2996,
-      "name" : "不懂，就别说出口",
+      "id" : 2639,
+      "name" : "来不及说出口的爱",
       "updateStatus" : 1,
-      "distance" : 1212,
-      "memberId" : 1699
+      "distance" : 5269,
+      "memberId" : 4650,
+      "bothType" : true
     }, {
-      "id" : 3319,
-      "name" : "狼性总裁：天后是我妻",
-      "updateStatus" : 1,
-      "distance" : 7202,
-      "memberId" : 1652
+      "id" : 2147,
+      "name" : "不当神仙也爱你",
+      "updateStatus" : 2,
+      "distance" : 8494,
+      "memberId" : 7011,
+      "bothType" : false
     }, {
-      "id" : 2969,
-      "name" : "我的青春是一座迷宫",
+      "id" : 2325,
+      "name" : "彼岸花仙",
       "updateStatus" : 1,
-      "distance" : 2548,
-      "memberId" : 2227
+      "distance" : 7139,
+      "memberId" : 2702,
+      "bothType" : false
+    }, {
+      "id" : 3697,
+      "name" : "一路有爱陪着亲",
+      "updateStatus" : 1,
+      "distance" : 8451,
+      "memberId" : 5625,
+      "bothType" : false
+    }, {
+      "id" : 2777,
+      "name" : "穿越之风沁",
+      "updateStatus" : 1,
+      "distance" : 5739,
+      "memberId" : 8729,
+      "bothType" : false
+    }, {
+      "id" : 2635,
+      "name" : "剩女大作战",
+      "updateStatus" : 1,
+      "distance" : 8998,
+      "memberId" : 6009,
+      "bothType" : false
+    }, {
+      "id" : 3671,
+      "name" : "重生之一品贵妇",
+      "updateStatus" : 1,
+      "distance" : 3520,
+      "memberId" : 8640,
+      "bothType" : true
+    }, {
+      "id" : 3585,
+      "name" : "桃花醉之天下",
+      "updateStatus" : 1,
+      "distance" : 7626,
+      "memberId" : 2516,
+      "bothType" : false
+    }, {
+      "id" : 2911,
+      "name" : "冷酷的无上之皇",
+      "updateStatus" : 1,
+      "distance" : 3507,
+      "memberId" : 2272,
+      "bothType" : false
+    }, {
+      "id" : 3567,
+      "name" : "你必须知道的事",
+      "updateStatus" : 2,
+      "distance" : 5896,
+      "memberId" : 1060,
+      "bothType" : false
+    }, {
+      "id" : 3734,
+      "name" : "哈喽，我的间谍机器人王子",
+      "updateStatus" : 1,
+      "distance" : 2664,
+      "memberId" : 7021,
+      "bothType" : true
+    }, {
+      "id" : 2044,
+      "name" : "七厘米的蔚蓝",
+      "updateStatus" : 1,
+      "distance" : 4227,
+      "memberId" : 6667,
+      "bothType" : false
+    }, {
+      "id" : 2326,
+      "name" : "六爷府的懒丫头",
+      "updateStatus" : 1,
+      "distance" : 6712,
+      "memberId" : 1720,
+      "bothType" : false
     } ]
   }
 }

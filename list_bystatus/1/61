@@ -12,7 +12,8 @@
       "summary" : "他初识她，她初识他，两人没有任何交集，就向两条无限延伸的平行线。甚至连对方的面容都没有记清楚。他再识",
       "updateStatus" : 1,
       "capacity" : 4505979,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3116,
       "name" : "乱剑源德之九狱之书",
@@ -20,7 +21,8 @@
       "summary" : "在世界的某个角落，存在着这样一个大陆：源德大陆。这个角落无人知晓它的秘密，更无人知晓它的存在。他和她",
       "updateStatus" : 1,
       "capacity" : 211079,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3579,
       "name" : "吕三东穿越记之终极终班",
@@ -28,7 +30,8 @@
       "summary" : "山东A市B校女生吕三东失恋跳楼，却意外闯进布特教授为带回参加穿越实验到清朝的学生怀斯制造的时光轨道，",
       "updateStatus" : 1,
       "capacity" : 387223,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3048,
       "name" : "白马枯叶总相依",
@@ -36,7 +39,8 @@
       "summary" : "一次负伤，路遇若白和盛世康，待如烟伤复原后回城，却听得心爱之人婚事，他将另娶她人，如烟伤心离去，这时",
       "updateStatus" : 1,
       "capacity" : 675416,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2586,
       "name" : "半面仙",
@@ -44,7 +48,8 @@
       "summary" : "她是豪门千金，亿万家产的指定继承人，却意外穿越到1000年前的大兴国，成为丞相之女。他出生皇族，长于",
       "updateStatus" : 1,
       "capacity" : 3614846,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3524,
       "name" : "都溢",
@@ -52,7 +57,8 @@
       "summary" : "都溢简单而冷淡，日复一日的过着写生画画的日子。陌森，闯入都溢生活的不速之客，他用尖锐而富有魅力的性格",
       "updateStatus" : 1,
       "capacity" : 627725,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3370,
       "name" : "唯妃做歹：帝后来看戏",
@@ -60,7 +66,8 @@
       "summary" : "--------------------------前缘简介-------------------轻",
       "updateStatus" : 1,
       "capacity" : 139019,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3540,
       "name" : "银魂王妃",
@@ -68,7 +75,8 @@
       "summary" : "一个在21世纪拥有异能的杀手一个背负着诸多秘密的妖孽王爷她带来了时代的更替见证了新文明的诞生他抓住了",
       "updateStatus" : 1,
       "capacity" : 31519,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3546,
       "name" : "红颜若雪：情倾后宫",
@@ -76,7 +84,8 @@
       "summary" : "一朝穿越，谁与争锋。她，剑啸九天浮沉，笙歌漫舞丝竹声声，万人俯首称臣。他，茫茫风雪孤身征程，刀破轻云",
       "updateStatus" : 1,
       "capacity" : 702848,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3445,
       "name" : "落叶清欢",
@@ -84,7 +93,8 @@
       "summary" : "少时，你许我温暖。赏如桃花绽放的你，品情如我们清冽醇厚的酒，叹如落花的结局。转瞬间，与知己好友的离别",
       "updateStatus" : 1,
       "capacity" : 43429,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2274,
       "name" : "世家贵女",
@@ -92,7 +102,8 @@
       "summary" : "如果穿越是老天对沈婷的优待的话，那么同时有更优秀的现代女穿过来这算怎么回事儿，额外奖励？难道她只是女",
       "updateStatus" : 1,
       "capacity" : 5729827,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : true
     }, {
       "id" : 3004,
       "name" : "陪伴是最长情的告白",
@@ -100,7 +111,8 @@
       "summary" : "你相信有一种陪伴叫做：虽不在身边，却一直存活在对方心里从未分开吗？我想，我是相信的。--------",
       "updateStatus" : 1,
       "capacity" : 4064205,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3719,
       "name" : "唯心城的月光",
@@ -108,7 +120,8 @@
       "summary" : "如果青春的盛宴是一场救赎，我们都在以爱的名义为自己祷告。青涩的少年在阳光下用那个画笔描绘着执子之手，",
       "updateStatus" : 1,
       "capacity" : 566770,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2468,
       "name" : "天堂巴士444",
@@ -116,7 +129,8 @@
       "summary" : "百岁之期，她终于能光明正大的离开天堂，却不料进入了三界之中最为黑暗的市场。多年之后，她又一次洞悉他的",
       "updateStatus" : 1,
       "capacity" : 3403844,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 3199,
       "name" : "后宫大学传",
@@ -124,7 +138,8 @@
       "summary" : "卧槽！娘娘你不能这样，做人要厚道。我不穿！我真的不穿！什么？我们寝室其他五个已经去了？靠！都是些没良",
       "updateStatus" : 1,
       "capacity" : 44741,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 3155,
       "name" : "忘川不忘",
@@ -132,7 +147,8 @@
       "summary" : "我忽然得知外婆家乡的那条忘川河是一条让人敬而远之，想要被填埋掉的河流时，我却不能接受如此。也不知从什",
       "updateStatus" : 1,
       "capacity" : 106669,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3074,
       "name" : "王子，请把我带回家",
@@ -140,7 +156,8 @@
       "summary" : "韩雅唯，名字温柔而本质却恰恰相反的女生，在爷爷威逼利诱下进入蒂斯学院就读。初进学院就遇到了痴情种高崎",
       "updateStatus" : 1,
       "capacity" : 72805,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3733,
       "name" : "公主白雪",
@@ -148,7 +165,8 @@
       "summary" : "这个故事，发生在一个很遥远很遥远的国度。故事从一个叫豆腐西施的女孩开始。昨天她还在街巷里卖臭豆腐，一",
       "updateStatus" : 1,
       "capacity" : 949929,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 3558,
       "name" : "残疾王爷，暴力妃",
@@ -156,7 +174,8 @@
       "summary" : "冷雪站在草地上对着天空喊道：“神啊！我上辈子没有惹你吧！老天啊！我上辈子也没有惹你吧！你们怎么能忍心",
       "updateStatus" : 1,
       "capacity" : 303056,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3573,
       "name" : "天使与伪天使的契约",
@@ -164,7 +183,8 @@
       "summary" : "从小生活在两个庞大家族里的两位小姐，却因阴谋而被迫离家。从纯洁无瑕的天使堕落为伪天使。伪天使的复仇！",
       "updateStatus" : 1,
       "capacity" : 181997,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     } ]
   }
 }

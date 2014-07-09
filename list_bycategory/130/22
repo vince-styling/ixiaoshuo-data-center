@@ -12,7 +12,8 @@
       "summary" : "她温暖，他凉薄；她单纯善良，他孤傲冷漠；她全心信赖，他别有用心；深秋的水杉林，她与他初相逢，从此，一",
       "updateStatus" : 1,
       "capacity" : 7516075,
-      "readerCount" : 1649
+      "readerCount" : 1649,
+      "bothType" : false
     }, {
       "id" : 3493,
       "name" : "此时四季",
@@ -20,7 +21,8 @@
       "summary" : "“我高三的那一年，觉得世界上最重要的事情就是高考。不光看书学习是为了高考,吃饭是为了高考，睡觉也是为",
       "updateStatus" : 1,
       "capacity" : 189947,
-      "readerCount" : 1640
+      "readerCount" : 1640,
+      "bothType" : false
     }, {
       "id" : 2539,
       "name" : "沙漏时光",
@@ -28,7 +30,8 @@
       "summary" : "“喜欢就是看到她开心你也开心，看到她难过你也难过；看到她的笑容会恨不得让时间永远静止，看到她的泪水会",
       "updateStatus" : 1,
       "capacity" : 6539472,
-      "readerCount" : 1640
+      "readerCount" : 1640,
+      "bothType" : true
     }, {
       "id" : 3567,
       "name" : "你必须知道的事",
@@ -36,7 +39,8 @@
       "summary" : "爱情从哪里开始的？我不记得了，我只知道，不知不觉中，我只能看见你，我不介意站在你的身后，只希望有一天",
       "updateStatus" : 2,
       "capacity" : 444147,
-      "readerCount" : 1623
+      "readerCount" : 1623,
+      "bothType" : true
     }, {
       "id" : 3079,
       "name" : "唯我独尊：遇上你可能是最好的",
@@ -44,7 +48,8 @@
       "summary" : "他唯我独尊，她高贵骄傲，他不懂怎样爱，她从未认定他是她的良人。她与他本不必相遇，既然遇上了，你追我赶",
       "updateStatus" : 1,
       "capacity" : 614027,
-      "readerCount" : 1614
+      "readerCount" : 1614,
+      "bothType" : false
     }, {
       "id" : 3271,
       "name" : "折景年",
@@ -52,7 +57,8 @@
       "summary" : "你倘若要是问我，青梅竹马是不是都会在一起。我会告诉你，这四个字的分量足矣陪伴你一生一世。你若是想我埋",
       "updateStatus" : 1,
       "capacity" : 363497,
-      "readerCount" : 1605
+      "readerCount" : 1605,
+      "bothType" : true
     }, {
       "id" : 3627,
       "name" : "调皮公主的霸气王子",
@@ -60,7 +66,8 @@
       "summary" : "【见面时】他在她的耳旁说：“猪头女，我季雨泽永远都不会爱上你。”她满脸通红的对着他吼：“就算全世界只",
       "updateStatus" : 1,
       "capacity" : 78969,
-      "readerCount" : 1602
+      "readerCount" : 1602,
+      "bothType" : false
     }, {
       "id" : 2818,
       "name" : "时光铭刻之痕",
@@ -68,7 +75,8 @@
       "summary" : "曾经的安倪柳觉得，拥有初恋的青春才是最无悔，充满欢笑的高中才是最难忘，轻狂年少的自我才是最潇洒。后来",
       "updateStatus" : 1,
       "capacity" : 8835784,
-      "readerCount" : 1571
+      "readerCount" : 1571,
+      "bothType" : false
     }, {
       "id" : 3471,
       "name" : "你是我闪耀的星",
@@ -76,7 +84,8 @@
       "summary" : "小时候像一只被打开的瓶盖被母亲丢弃，对于孩童的她快乐就此封锁，童年的记忆也是她从来不喜欢面对的。遇上",
       "updateStatus" : 1,
       "capacity" : 744488,
-      "readerCount" : 1550
+      "readerCount" : 1550,
+      "bothType" : true
     }, {
       "id" : 3578,
       "name" : "我在外滩十八号等你",
@@ -84,7 +93,8 @@
       "summary" : "听说，谁先爱上谁就输了。她不顾一切来到这里，就是为了有一天能在茫茫人海中遇到他。问一句：当初为何就那",
       "updateStatus" : 1,
       "capacity" : 268966,
-      "readerCount" : 1500
+      "readerCount" : 1500,
+      "bothType" : true
     }, {
       "id" : 3093,
       "name" : "如果还能再爱",
@@ -92,7 +102,8 @@
       "summary" : "看过很多都市爱情类小说，始终觉得过于梦幻，不够现实，一直在酝酿一部能够让读者看过之后有所感触的作品。",
       "updateStatus" : 1,
       "capacity" : 902472,
-      "readerCount" : 1485
+      "readerCount" : 1485,
+      "bothType" : false
     }, {
       "id" : 3646,
       "name" : "在最美的季节相遇",
@@ -100,7 +111,8 @@
       "summary" : "十七岁，最懵懂的年纪，想要守护重要的人。莫小言，李西，蓝宫，南景，陆文，伊然。花季的悸动。在这里相遇",
       "updateStatus" : 1,
       "capacity" : 202094,
-      "readerCount" : 1464
+      "readerCount" : 1464,
+      "bothType" : false
     }, {
       "id" : 3495,
       "name" : "倾情一梦",
@@ -108,7 +120,8 @@
       "summary" : "她无依无靠，他事业有成，有缘相遇，她深深爱上了他，本来打算嫁给他，可是麻烦才刚刚开始……先是被逐出了",
       "updateStatus" : 1,
       "capacity" : 362898,
-      "readerCount" : 1463
+      "readerCount" : 1463,
+      "bothType" : false
     }, {
       "id" : 3346,
       "name" : "一叶听风",
@@ -116,7 +129,8 @@
       "summary" : "学会飞翔意味着要经历风霜雪雨的洗礼。不随波逐流就等于选择去走一条只有自己才知道彼岸在哪里的崎岖之路。",
       "updateStatus" : 1,
       "capacity" : 345909,
-      "readerCount" : 1434
+      "readerCount" : 1434,
+      "bothType" : true
     }, {
       "id" : 3028,
       "name" : "时空的错失她成了小三",
@@ -124,7 +138,8 @@
       "summary" : "爱，有时错过时空，便会错失全部。宋爱冰，可是，重遇回她，他已经有家室。所以，即使再爱，他们也无法修成",
       "updateStatus" : 1,
       "capacity" : 5381523,
-      "readerCount" : 1430
+      "readerCount" : 1430,
+      "bothType" : true
     }, {
       "id" : 3174,
       "name" : "那年浅浅的夏",
@@ -132,7 +147,8 @@
       "summary" : "XXX刚要吻她，她连忙说道：“我中午吃过葱！”XXX停住，两秒后继续动作。“姜！”XXX犹豫，再继续",
       "updateStatus" : 1,
       "capacity" : 85672,
-      "readerCount" : 1411
+      "readerCount" : 1411,
+      "bothType" : false
     }, {
       "id" : 3164,
       "name" : "孤独末世",
@@ -140,7 +156,8 @@
       "summary" : "一部关于世界末日题材的小说；一个被赋予天煞孤星命运主角；一生背负孤独寂寞；一世充满冷血无情；处在末世",
       "updateStatus" : 1,
       "capacity" : 1767235,
-      "readerCount" : 1407
+      "readerCount" : 1407,
+      "bothType" : true
     }, {
       "id" : 3604,
       "name" : "君子如花似玉",
@@ -148,7 +165,8 @@
       "summary" : "走到生命的尽头，总喜欢回忆，喜欢抚摸着泛黄的老照片絮叨年轻时的故事；总试图留下什么，以证明我的生命也",
       "updateStatus" : 1,
       "capacity" : 230412,
-      "readerCount" : 1393
+      "readerCount" : 1393,
+      "bothType" : false
     }, {
       "id" : 3470,
       "name" : "海是一座无墙的城",
@@ -156,7 +174,8 @@
       "summary" : "孤独女孩的成长史从友情，到爱情，再到情亲的救赎从懵懂到成熟的蜕变从青涩到美好的成长千金小姐命运的扭转",
       "updateStatus" : 1,
       "capacity" : 464756,
-      "readerCount" : 1392
+      "readerCount" : 1392,
+      "bothType" : false
     }, {
       "id" : 3101,
       "name" : "外来的爱情",
@@ -164,7 +183,8 @@
       "summary" : "“叮叮当当……”忽然，厨房里传出翻动橱柜的声音。她，马上提高了警惕。家里肯定还有别人！她蹑手蹑脚地走",
       "updateStatus" : 1,
       "capacity" : 42732,
-      "readerCount" : 1373
+      "readerCount" : 1373,
+      "bothType" : false
     } ]
   }
 }

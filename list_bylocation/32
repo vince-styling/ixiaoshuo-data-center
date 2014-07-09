@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2548,
-      "name" : "绝色白衣帝师",
+      "id" : 2276,
+      "name" : "皇上坏坏：爱妃该睡觉了",
       "updateStatus" : 1,
-      "distance" : 9103,
-      "memberId" : 7263
+      "distance" : 3009,
+      "memberId" : 1748,
+      "bothType" : false
     }, {
-      "id" : 3504,
-      "name" : "《心惜之落雪之殇》",
+      "id" : 2281,
+      "name" : "花照",
       "updateStatus" : 1,
-      "distance" : 8518,
-      "memberId" : 6685
+      "distance" : 2926,
+      "memberId" : 4548,
+      "bothType" : false
     }, {
-      "id" : 2461,
-      "name" : "我和僵尸有个约会",
+      "id" : 3404,
+      "name" : "妖魅公主爱上邪魅王子",
       "updateStatus" : 1,
-      "distance" : 8685,
-      "memberId" : 1488
+      "distance" : 5478,
+      "memberId" : 3718,
+      "bothType" : false
     }, {
-      "id" : 3480,
-      "name" : "妖传——岁与千陌",
+      "id" : 2749,
+      "name" : "轻安易宁",
       "updateStatus" : 1,
-      "distance" : 6828,
-      "memberId" : 4419
+      "distance" : 2547,
+      "memberId" : 7982,
+      "bothType" : false
     }, {
-      "id" : 2854,
-      "name" : "清音冷",
+      "id" : 3329,
+      "name" : "引玉石的花儿",
       "updateStatus" : 1,
-      "distance" : 8955,
-      "memberId" : 7930
+      "distance" : 4725,
+      "memberId" : 8736,
+      "bothType" : false
     }, {
-      "id" : 2967,
-      "name" : "渐爱，深爱",
-      "updateStatus" : 1,
-      "distance" : 7603,
-      "memberId" : 4456
-    }, {
-      "id" : 2078,
-      "name" : "绾君心",
-      "updateStatus" : 1,
-      "distance" : 1682,
-      "memberId" : 7387
-    }, {
-      "id" : 3551,
-      "name" : "爱你或许只是兴起",
-      "updateStatus" : 1,
-      "distance" : 9201,
-      "memberId" : 8889
-    }, {
-      "id" : 2417,
-      "name" : "不飞的天使",
+      "id" : 2250,
+      "name" : "梦碎潋滟雪如尘",
       "updateStatus" : 2,
-      "distance" : 7660,
-      "memberId" : 4322
+      "distance" : 5857,
+      "memberId" : 7032,
+      "bothType" : false
     }, {
-      "id" : 2609,
-      "name" : "红尘一笑往事焚",
+      "id" : 3296,
+      "name" : "斜阳晚照",
       "updateStatus" : 1,
-      "distance" : 1963,
-      "memberId" : 8137
+      "distance" : 8896,
+      "memberId" : 4881,
+      "bothType" : false
     }, {
-      "id" : 2763,
-      "name" : "医暖天下",
+      "id" : 2608,
+      "name" : "一睹莲华",
       "updateStatus" : 1,
-      "distance" : 9017,
-      "memberId" : 1338
+      "distance" : 9603,
+      "memberId" : 2893,
+      "bothType" : true
     }, {
-      "id" : 2391,
-      "name" : "清清子毅",
-      "updateStatus" : 2,
-      "distance" : 5097,
-      "memberId" : 2436
-    }, {
-      "id" : 3556,
-      "name" : "花泱",
+      "id" : 3534,
+      "name" : "风起翼翔雪牵洛楹",
       "updateStatus" : 1,
-      "distance" : 6760,
-      "memberId" : 7125
+      "distance" : 4278,
+      "memberId" : 5433,
+      "bothType" : true
     }, {
-      "id" : 2270,
-      "name" : "惊回千里梦相思",
+      "id" : 2243,
+      "name" : "独宠之命中注定",
       "updateStatus" : 1,
-      "distance" : 6383,
-      "memberId" : 7558
+      "distance" : 9540,
+      "memberId" : 2826,
+      "bothType" : false
     }, {
-      "id" : 3408,
-      "name" : "综恐一梦一回",
+      "id" : 2886,
+      "name" : "今生不做你的妾",
       "updateStatus" : 1,
-      "distance" : 1347,
-      "memberId" : 7017
+      "distance" : 4192,
+      "memberId" : 6264,
+      "bothType" : false
     }, {
-      "id" : 2388,
-      "name" : "倾世执着",
-      "updateStatus" : 2,
-      "distance" : 3177,
-      "memberId" : 7207
-    }, {
-      "id" : 2674,
-      "name" : "军少不要欺人太甚",
+      "id" : 3561,
+      "name" : "穿越之唯爱有你",
       "updateStatus" : 1,
-      "distance" : 8702,
-      "memberId" : 8532
+      "distance" : 2009,
+      "memberId" : 8821,
+      "bothType" : false
     }, {
-      "id" : 3711,
-      "name" : "谋天",
+      "id" : 2306,
+      "name" : "穿越之蒙家将军",
       "updateStatus" : 1,
-      "distance" : 8451,
-      "memberId" : 7942
+      "distance" : 3364,
+      "memberId" : 8322,
+      "bothType" : false
     }, {
-      "id" : 3018,
-      "name" : "乱世佳人之末代皇妃",
+      "id" : 2917,
+      "name" : "碧海蓝天最倾城",
       "updateStatus" : 1,
-      "distance" : 2252,
-      "memberId" : 7775
+      "distance" : 547,
+      "memberId" : 4796,
+      "bothType" : false
     }, {
-      "id" : 3564,
-      "name" : "十二生肖女神的恋爱",
+      "id" : 3396,
+      "name" : "花开花落几倾城",
       "updateStatus" : 1,
-      "distance" : 7074,
-      "memberId" : 4129
+      "distance" : 3182,
+      "memberId" : 2036,
+      "bothType" : false
+    }, {
+      "id" : 2263,
+      "name" : "冷酷王爷：我的心你敢要么",
+      "updateStatus" : 1,
+      "distance" : 6179,
+      "memberId" : 5817,
+      "bothType" : true
+    }, {
+      "id" : 3728,
+      "name" : "含烟思窃之皇上、臣妾做不到",
+      "updateStatus" : 1,
+      "distance" : 9161,
+      "memberId" : 1856,
+      "bothType" : true
+    }, {
+      "id" : 2762,
+      "name" : "笛吟，离殇 ",
+      "updateStatus" : 1,
+      "distance" : 5101,
+      "memberId" : 5393,
+      "bothType" : false
+    }, {
+      "id" : 2870,
+      "name" : "爱情有多远",
+      "updateStatus" : 1,
+      "distance" : 1589,
+      "memberId" : 6896,
+      "bothType" : true
+    }, {
+      "id" : 2082,
+      "name" : "魔妃惑君心",
+      "updateStatus" : 1,
+      "distance" : 993,
+      "memberId" : 5724,
+      "bothType" : false
     } ]
   }
 }

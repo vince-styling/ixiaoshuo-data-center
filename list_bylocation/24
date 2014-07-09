@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2613,
-      "name" : "红楼梦呓",
+      "id" : 3096,
+      "name" : "绝不放手",
       "updateStatus" : 1,
-      "distance" : 1349,
-      "memberId" : 5260
+      "distance" : 9291,
+      "memberId" : 2448,
+      "bothType" : false
     }, {
-      "id" : 2468,
-      "name" : "天堂巴士444",
+      "id" : 2666,
+      "name" : "我的老公70后",
       "updateStatus" : 1,
-      "distance" : 536,
-      "memberId" : 1801
+      "distance" : 1177,
+      "memberId" : 7986,
+      "bothType" : false
     }, {
-      "id" : 2829,
-      "name" : "女兽与美郎",
-      "updateStatus" : 1,
-      "distance" : 3663,
-      "memberId" : 1766
-    }, {
-      "id" : 2818,
-      "name" : "时光铭刻之痕",
-      "updateStatus" : 1,
-      "distance" : 8442,
-      "memberId" : 8802
-    }, {
-      "id" : 3645,
-      "name" : "悠悠茶茗",
-      "updateStatus" : 1,
-      "distance" : 3224,
-      "memberId" : 7812
-    }, {
-      "id" : 3365,
-      "name" : "夜已阑珊",
-      "updateStatus" : 1,
-      "distance" : 3044,
-      "memberId" : 8622
-    }, {
-      "id" : 2687,
-      "name" : "朝歌叶璇",
-      "updateStatus" : 1,
-      "distance" : 7636,
-      "memberId" : 4101
-    }, {
-      "id" : 3360,
-      "name" : "泡沫太寒冷",
-      "updateStatus" : 1,
-      "distance" : 923,
-      "memberId" : 4116
-    }, {
-      "id" : 2213,
-      "name" : "群芳谱",
+      "id" : 2144,
+      "name" : "英雄道",
       "updateStatus" : 2,
-      "distance" : 8097,
-      "memberId" : 6533
+      "distance" : 5377,
+      "memberId" : 5056,
+      "bothType" : true
     }, {
-      "id" : 3648,
-      "name" : "完美自杀",
+      "id" : 2595,
+      "name" : "素问天下",
       "updateStatus" : 1,
-      "distance" : 8378,
-      "memberId" : 4695
+      "distance" : 3441,
+      "memberId" : 4266,
+      "bothType" : false
     }, {
-      "id" : 3348,
-      "name" : "杀手王妃的花心王爷",
+      "id" : 3463,
+      "name" : "巴洛克爱情",
       "updateStatus" : 1,
-      "distance" : 2752,
-      "memberId" : 1788
+      "distance" : 8235,
+      "memberId" : 4254,
+      "bothType" : false
     }, {
-      "id" : 2209,
-      "name" : "高贵的囚徒",
+      "id" : 3164,
+      "name" : "孤独末世",
       "updateStatus" : 1,
-      "distance" : 7572,
-      "memberId" : 6894
+      "distance" : 6011,
+      "memberId" : 2042,
+      "bothType" : true
     }, {
-      "id" : 2565,
-      "name" : "冯子莫",
+      "id" : 3317,
+      "name" : "花季里那个靠窗的女孩",
       "updateStatus" : 1,
-      "distance" : 4317,
-      "memberId" : 2152
+      "distance" : 5018,
+      "memberId" : 3482,
+      "bothType" : false
     }, {
-      "id" : 3591,
-      "name" : "小羊别闹，来吃草",
-      "updateStatus" : 2,
-      "distance" : 1023,
-      "memberId" : 6109
-    }, {
-      "id" : 2303,
-      "name" : "阎末瑶",
+      "id" : 3570,
+      "name" : "挚爱傻夫君",
       "updateStatus" : 1,
-      "distance" : 8336,
-      "memberId" : 2082
+      "distance" : 4135,
+      "memberId" : 3228,
+      "bothType" : false
     }, {
-      "id" : 2756,
-      "name" : "乖宝宝阵线联盟之一：帅宝贝别使坏",
+      "id" : 3248,
+      "name" : "玄斧",
       "updateStatus" : 1,
-      "distance" : 4648,
-      "memberId" : 5334
+      "distance" : 4559,
+      "memberId" : 6037,
+      "bothType" : false
     }, {
-      "id" : 2582,
-      "name" : "特工归来：王妃策倾天下",
+      "id" : 3485,
+      "name" : "无良大盗：看好你丫的节操",
       "updateStatus" : 1,
-      "distance" : 8805,
-      "memberId" : 6268
+      "distance" : 6049,
+      "memberId" : 8750,
+      "bothType" : false
     }, {
-      "id" : 2875,
-      "name" : "宝贝，我真的爱你",
+      "id" : 3256,
+      "name" : "总裁大人我会乖",
       "updateStatus" : 1,
-      "distance" : 5503,
-      "memberId" : 8141
+      "distance" : 961,
+      "memberId" : 1844,
+      "bothType" : false
     }, {
-      "id" : 3619,
-      "name" : "结婚规则：一生就要你一人",
+      "id" : 2853,
+      "name" : "特工老总红粉员工",
       "updateStatus" : 1,
-      "distance" : 6820,
-      "memberId" : 4448
+      "distance" : 8749,
+      "memberId" : 4694,
+      "bothType" : true
     }, {
-      "id" : 3200,
-      "name" : "你若不来，我便不老",
+      "id" : 2223,
+      "name" : "浩瀚风云录",
       "updateStatus" : 1,
-      "distance" : 7657,
-      "memberId" : 6734
+      "distance" : 6226,
+      "memberId" : 6655,
+      "bothType" : false
+    }, {
+      "id" : 2224,
+      "name" : "拯救吸血鬼",
+      "updateStatus" : 1,
+      "distance" : 9013,
+      "memberId" : 2825,
+      "bothType" : false
+    }, {
+      "id" : 3612,
+      "name" : "家殇梦",
+      "updateStatus" : 1,
+      "distance" : 7464,
+      "memberId" : 4023,
+      "bothType" : false
+    }, {
+      "id" : 2995,
+      "name" : "《魔武乱世》",
+      "updateStatus" : 1,
+      "distance" : 2638,
+      "memberId" : 1535,
+      "bothType" : true
+    }, {
+      "id" : 3226,
+      "name" : "奇迹少年",
+      "updateStatus" : 1,
+      "distance" : 3026,
+      "memberId" : 1873,
+      "bothType" : true
+    }, {
+      "id" : 3074,
+      "name" : "王子，请把我带回家",
+      "updateStatus" : 1,
+      "distance" : 5291,
+      "memberId" : 3837,
+      "bothType" : false
+    }, {
+      "id" : 2355,
+      "name" : "五欢散之烈焰天下",
+      "updateStatus" : 1,
+      "distance" : 3414,
+      "memberId" : 5156,
+      "bothType" : false
+    }, {
+      "id" : 3461,
+      "name" : "束缚中的约定",
+      "updateStatus" : 1,
+      "distance" : 7305,
+      "memberId" : 3853,
+      "bothType" : false
     } ]
   }
 }

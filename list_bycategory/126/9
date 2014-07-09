@@ -12,7 +12,8 @@
       "summary" : "她和他同为月牙世界的三强之首，两人不同的命运，不同的性格，不同的经历，且有着相同的实力。她，只为找到",
       "updateStatus" : 1,
       "capacity" : 264640,
-      "readerCount" : 729
+      "readerCount" : 729,
+      "bothType" : false
     }, {
       "id" : 3514,
       "name" : "修罗决旨",
@@ -20,7 +21,8 @@
       "summary" : "当黑与白碰撞出轮回的花火，潜藏于密林那眼深潭之下的《修罗决旨》召唤着野心膨胀的她。光之审判者带笑在生",
       "updateStatus" : 1,
       "capacity" : 157337,
-      "readerCount" : 715
+      "readerCount" : 715,
+      "bothType" : false
     }, {
       "id" : 3212,
       "name" : "浮生劫：鸾音未央",
@@ -28,7 +30,8 @@
       "summary" : "纵是有如花美眷，终敌不过似水流年。当此生尘缘断尽，再顾回首，竟是有万千斩不断的情思。一段承载了千年的",
       "updateStatus" : 1,
       "capacity" : 273869,
-      "readerCount" : 688
+      "readerCount" : 688,
+      "bothType" : false
     }, {
       "id" : 3302,
       "name" : "幽冥女王：猖狂天下",
@@ -36,7 +39,8 @@
       "summary" : "鲜为人知的秘辛，扑朔迷离的真相，她无意搅乱这表面宁静的天下。神魔大战背后究竟隐藏着什么样的秘密？她的",
       "updateStatus" : 1,
       "capacity" : 20792,
-      "readerCount" : 606
+      "readerCount" : 606,
+      "bothType" : true
     }, {
       "id" : 3615,
       "name" : "耀星",
@@ -44,7 +48,8 @@
       "summary" : "一群现代社会的渣滓，莫名其妙的接受到一个前往\"异元界“的任务，满怀希望的想要改变自己的生命，却不料那",
       "updateStatus" : 1,
       "capacity" : 208803,
-      "readerCount" : 538
+      "readerCount" : 538,
+      "bothType" : true
     }, {
       "id" : 3724,
       "name" : "白泽之神",
@@ -52,7 +57,8 @@
       "summary" : "传说每逢改朝换代之时，便有白泽之神降临人间。可是自从清王朝过后，白泽一族却踪迹全无，这究竟预示着什么",
       "updateStatus" : 1,
       "capacity" : 93764,
-      "readerCount" : 528
+      "readerCount" : 528,
+      "bothType" : true
     }, {
       "id" : 3229,
       "name" : "咫尺黑夜",
@@ -60,7 +66,8 @@
       "summary" : "以阴谋为引，以野心为匙，打开时空的大门。她生活在和平时代，幸福安逸，却有一颗亦白亦黑的心。他生活在血",
       "updateStatus" : 1,
       "capacity" : 94550,
-      "readerCount" : 462
+      "readerCount" : 462,
+      "bothType" : false
     }, {
       "id" : 3708,
       "name" : "浮生境梦",
@@ -68,7 +75,8 @@
       "summary" : "千年梦，弹指间，往事如水淡如烟。芳华现，梦仙缘，情爱成梦人难圆。浮生叹，轮回换，情字原来是梦幻。曲已",
       "updateStatus" : 1,
       "capacity" : 151923,
-      "readerCount" : 415
+      "readerCount" : 415,
+      "bothType" : true
     }, {
       "id" : 2236,
       "name" : "冥江漫漫",
@@ -76,7 +84,8 @@
       "summary" : "一只是食过百人心、挨过天雷劫的千年黑狼妖，一个是平凡冷淡、还在上学的女孩子，血族、火种...一切不应",
       "updateStatus" : 1,
       "capacity" : 5372636,
-      "readerCount" : 394
+      "readerCount" : 394,
+      "bothType" : false
     }, {
       "id" : 3072,
       "name" : "倒转乾坤：女帝慑天下",
@@ -84,7 +93,8 @@
       "summary" : "她，是灭神阁阁主，一朝大意，灵魂横跨虚空而来，寄居于名为十六君卿的少女之身。一个因母亲的莫名执念，卸",
       "updateStatus" : 1,
       "capacity" : 439058,
-      "readerCount" : 297
+      "readerCount" : 297,
+      "bothType" : false
     }, {
       "id" : 3228,
       "name" : "擎世圣王",
@@ -92,7 +102,8 @@
       "summary" : "少年偶获最强内丹，从此一步登天，汇聚所有职业，踏平十方，称霸十界，缔造不朽传奇！",
       "updateStatus" : 1,
       "capacity" : 213253,
-      "readerCount" : 254
+      "readerCount" : 254,
+      "bothType" : false
     }, {
       "id" : 3721,
       "name" : "这个是妖精大人",
@@ -100,7 +111,8 @@
       "summary" : "魔法少女驾到，骑着扫帚，带着黑猫，一袭魔法黑袍，天降而下，读心少年悲从何见？少年呐，带着你读心的本领",
       "updateStatus" : 1,
       "capacity" : 27756,
-      "readerCount" : 253
+      "readerCount" : 253,
+      "bothType" : false
     }, {
       "id" : 2231,
       "name" : "女巫时节",
@@ -108,7 +120,8 @@
       "summary" : "一个以巫术传承的家族，经历着一个又一个的时代。",
       "updateStatus" : 1,
       "capacity" : 6754983,
-      "readerCount" : 251
+      "readerCount" : 251,
+      "bothType" : false
     }, {
       "id" : 3368,
       "name" : "倾世凤妃",
@@ -116,7 +129,8 @@
       "summary" : "二十一世纪的天之骄女冷凤墨因背叛而穿越到了魔舞大陆的冷家七小姐冷凤墨身上",
       "updateStatus" : 1,
       "capacity" : 12424,
-      "readerCount" : 236
+      "readerCount" : 236,
+      "bothType" : true
     }, {
       "id" : 3469,
       "name" : "逆天武神：丑颜毒妃",
@@ -124,7 +138,8 @@
       "summary" : "赫云澄，日昭大陆第一丑女，身患残疾，被家族唾弃视为耻辱。在强者为尊的世界里，被传言灵武皆废的她竟逆天",
       "updateStatus" : 1,
       "capacity" : 39261,
-      "readerCount" : 228
+      "readerCount" : 228,
+      "bothType" : true
     }, {
       "id" : 3098,
       "name" : "无上星道",
@@ -132,7 +147,8 @@
       "summary" : "修星一途即为修命，芸芸众生如棋局，幾人能超脱，撕破苍天还真我，既然天道天道无情，我便逆天而行灭了这天",
       "updateStatus" : 1,
       "capacity" : 71114,
-      "readerCount" : 227
+      "readerCount" : 227,
+      "bothType" : false
     }, {
       "id" : 3590,
       "name" : "劳什子学院",
@@ -140,7 +156,8 @@
       "summary" : "思想够跳跃，行为够不靠谱，下限够这货刷的孩子就进来吧，轻松向恶搞。。【这货错字帝。。。】",
       "updateStatus" : 1,
       "capacity" : 13843,
-      "readerCount" : 220
+      "readerCount" : 220,
+      "bothType" : false
     }, {
       "id" : 3636,
       "name" : "被抛弃的星球",
@@ -148,7 +165,8 @@
       "summary" : "白依依冷幽默爱吐槽宅女一名，嫁与温柔居家男司马空南。过着烟熏火燎的小日子，有一日附庸风雅买了一本高贵",
       "updateStatus" : 1,
       "capacity" : 118680,
-      "readerCount" : 197
+      "readerCount" : 197,
+      "bothType" : true
     }, {
       "id" : 3203,
       "name" : "魔法之镜花水月",
@@ -156,7 +174,8 @@
       "summary" : "一座城市，两股势力。光明与黑暗，究竟哪方更胜一筹。千年来的争斗，为的只是争取这座城市的完全主权，这过",
       "updateStatus" : 1,
       "capacity" : 63779,
-      "readerCount" : 191
+      "readerCount" : 191,
+      "bothType" : false
     }, {
       "id" : 3497,
       "name" : "暗眼窥世",
@@ -164,7 +183,8 @@
       "summary" : "“不，你不是真的，你是我幻想出来。我要回去，我要回去。”束无心大叫道。“你回不去了，因为你不知道哪里",
       "updateStatus" : 1,
       "capacity" : 97659,
-      "readerCount" : 190
+      "readerCount" : 190,
+      "bothType" : false
     } ]
   }
 }

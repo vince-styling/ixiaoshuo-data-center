@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2382,
-      "name" : "同曾惶虑情难止",
+      "id" : 3129,
+      "name" : "（秦时+火影）滚来滚去滚成圆",
       "updateStatus" : 1,
-      "distance" : 6665,
-      "memberId" : 3878
+      "distance" : 7020,
+      "memberId" : 1941,
+      "bothType" : false
     }, {
-      "id" : 2254,
-      "name" : "小哥跟着姐，有肉吃",
+      "id" : 2359,
+      "name" : "羽落殇心醉红尘",
       "updateStatus" : 2,
-      "distance" : 3439,
-      "memberId" : 1613
+      "distance" : 6672,
+      "memberId" : 2134,
+      "bothType" : false
     }, {
-      "id" : 2978,
-      "name" : "妃宠不可",
+      "id" : 2523,
+      "name" : "这是桃花劫吗",
       "updateStatus" : 1,
-      "distance" : 9232,
-      "memberId" : 1700
+      "distance" : 6419,
+      "memberId" : 1766,
+      "bothType" : false
     }, {
-      "id" : 2708,
-      "name" : "风云破:逆转乾坤",
+      "id" : 3102,
+      "name" : "暗光",
       "updateStatus" : 1,
-      "distance" : 6188,
-      "memberId" : 5133
+      "distance" : 2102,
+      "memberId" : 8443,
+      "bothType" : false
     }, {
-      "id" : 2827,
-      "name" : "时光里的秘密",
+      "id" : 3536,
+      "name" : "网王同人浅色的夏季",
       "updateStatus" : 1,
-      "distance" : 536,
-      "memberId" : 4451
+      "distance" : 2632,
+      "memberId" : 5911,
+      "bothType" : false
     }, {
-      "id" : 2980,
-      "name" : "穿越做将军",
-      "updateStatus" : 1,
-      "distance" : 8885,
-      "memberId" : 6936
+      "id" : 2249,
+      "name" : "古代求生记",
+      "updateStatus" : 2,
+      "distance" : 9665,
+      "memberId" : 5028,
+      "bothType" : false
     }, {
-      "id" : 3179,
-      "name" : "情深几许",
+      "id" : 3610,
+      "name" : "或许本就不该相爱",
       "updateStatus" : 1,
-      "distance" : 9968,
-      "memberId" : 5220
+      "distance" : 2544,
+      "memberId" : 3491,
+      "bothType" : false
     }, {
-      "id" : 3184,
-      "name" : "安歌陌上花",
+      "id" : 2898,
+      "name" : "天戒",
       "updateStatus" : 1,
-      "distance" : 8239,
-      "memberId" : 2418
+      "distance" : 3315,
+      "memberId" : 8237,
+      "bothType" : false
     }, {
-      "id" : 2921,
-      "name" : "豪门恩怨之吾爱未央",
+      "id" : 2419,
+      "name" : "那么爱你为什么",
       "updateStatus" : 1,
-      "distance" : 9778,
-      "memberId" : 3948
+      "distance" : 1868,
+      "memberId" : 3380,
+      "bothType" : false
     }, {
-      "id" : 2986,
-      "name" : "错过的爱情：总裁放过我",
+      "id" : 2160,
+      "name" : "修神传",
       "updateStatus" : 1,
-      "distance" : 7102,
-      "memberId" : 8652
+      "distance" : 2596,
+      "memberId" : 6549,
+      "bothType" : false
     }, {
-      "id" : 3267,
-      "name" : "穿越之花本纯粹",
+      "id" : 2094,
+      "name" : "孽情殇",
       "updateStatus" : 1,
-      "distance" : 5302,
-      "memberId" : 3650
+      "distance" : 2767,
+      "memberId" : 6369,
+      "bothType" : false
     }, {
-      "id" : 2222,
-      "name" : "仙蝶穿越奇缘",
+      "id" : 3493,
+      "name" : "此时四季",
       "updateStatus" : 1,
-      "distance" : 6996,
-      "memberId" : 4710
+      "distance" : 2591,
+      "memberId" : 5815,
+      "bothType" : false
     }, {
-      "id" : 3019,
-      "name" : "午后恋歌",
+      "id" : 3392,
+      "name" : "重生，投胎投错家",
       "updateStatus" : 1,
-      "distance" : 2446,
-      "memberId" : 5080
+      "distance" : 3720,
+      "memberId" : 1281,
+      "bothType" : true
     }, {
-      "id" : 3473,
-      "name" : "素女劫",
+      "id" : 3150,
+      "name" : "我是小丫",
       "updateStatus" : 1,
-      "distance" : 9813,
-      "memberId" : 4982
+      "distance" : 3063,
+      "memberId" : 1920,
+      "bothType" : false
     }, {
-      "id" : 3485,
-      "name" : "无良大盗：看好你丫的节操",
+      "id" : 2588,
+      "name" : "美人有毒",
       "updateStatus" : 1,
-      "distance" : 7856,
-      "memberId" : 7993
+      "distance" : 1551,
+      "memberId" : 5485,
+      "bothType" : false
     }, {
-      "id" : 3672,
-      "name" : "只愿得君心",
+      "id" : 3085,
+      "name" : "姑娘，你没有穿鞋",
       "updateStatus" : 1,
-      "distance" : 3864,
-      "memberId" : 7767
+      "distance" : 1136,
+      "memberId" : 4102,
+      "bothType" : false
     }, {
-      "id" : 3331,
-      "name" : "武警婚约之山东佳人",
+      "id" : 2401,
+      "name" : "拾爱：蚀骨之恋",
       "updateStatus" : 1,
-      "distance" : 1613,
-      "memberId" : 7935
+      "distance" : 9756,
+      "memberId" : 3911,
+      "bothType" : false
     }, {
-      "id" : 2527,
-      "name" : "火影同人暗夜帝国",
-      "updateStatus" : 1,
-      "distance" : 3901,
-      "memberId" : 8272
+      "id" : 2147,
+      "name" : "不当神仙也爱你",
+      "updateStatus" : 2,
+      "distance" : 8992,
+      "memberId" : 3001,
+      "bothType" : true
     }, {
-      "id" : 2811,
-      "name" : "苍少的禁忌小老婆",
+      "id" : 2676,
+      "name" : "君悦我心",
       "updateStatus" : 1,
-      "distance" : 1245,
-      "memberId" : 4489
+      "distance" : 7187,
+      "memberId" : 6662,
+      "bothType" : false
     }, {
-      "id" : 3295,
-      "name" : "南追",
+      "id" : 2151,
+      "name" : "缘来是我们",
       "updateStatus" : 1,
-      "distance" : 5577,
-      "memberId" : 2308
+      "distance" : 1636,
+      "memberId" : 4574,
+      "bothType" : false
     } ]
   }
 }

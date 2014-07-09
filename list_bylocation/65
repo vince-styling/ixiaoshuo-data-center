@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2734,
-      "name" : "诱拐冷情公主妻",
+      "id" : 2484,
+      "name" : "让我杀了你，爱人",
       "updateStatus" : 1,
-      "distance" : 1854,
-      "memberId" : 2633
+      "distance" : 7857,
+      "memberId" : 6740,
+      "bothType" : false
     }, {
-      "id" : 3545,
-      "name" : "泪痕",
+      "id" : 2462,
+      "name" : "道听途说",
       "updateStatus" : 1,
-      "distance" : 6694,
-      "memberId" : 6875
+      "distance" : 1010,
+      "memberId" : 7027,
+      "bothType" : false
     }, {
-      "id" : 2658,
-      "name" : "天佑嘉璟",
+      "id" : 3272,
+      "name" : "来，卖身契给我",
       "updateStatus" : 1,
-      "distance" : 1886,
-      "memberId" : 4338
+      "distance" : 9948,
+      "memberId" : 4739,
+      "bothType" : true
     }, {
-      "id" : 2176,
-      "name" : "重生之堕仙",
-      "updateStatus" : 1,
-      "distance" : 4514,
-      "memberId" : 2487
-    }, {
-      "id" : 2556,
-      "name" : "山姆大叔不会Say：哈喽",
-      "updateStatus" : 1,
-      "distance" : 8447,
-      "memberId" : 7373
-    }, {
-      "id" : 2154,
-      "name" : "寻仙问诱：美男不要逃",
-      "updateStatus" : 1,
-      "distance" : 8073,
-      "memberId" : 3121
-    }, {
-      "id" : 3512,
-      "name" : "朱颜修仙记",
-      "updateStatus" : 1,
-      "distance" : 9676,
-      "memberId" : 6860
-    }, {
-      "id" : 2530,
-      "name" : "半城烟雨",
-      "updateStatus" : 1,
-      "distance" : 3991,
-      "memberId" : 8709
-    }, {
-      "id" : 2863,
-      "name" : "何以青茫却诉离殇",
-      "updateStatus" : 1,
-      "distance" : 7184,
-      "memberId" : 6630
-    }, {
-      "id" : 3340,
-      "name" : "枫叶荻花秋瑟瑟",
-      "updateStatus" : 1,
-      "distance" : 6735,
-      "memberId" : 6589
-    }, {
-      "id" : 2872,
-      "name" : "口是心非：那个女人的谎言",
-      "updateStatus" : 1,
-      "distance" : 4942,
-      "memberId" : 4550
-    }, {
-      "id" : 3742,
-      "name" : "汝心计",
-      "updateStatus" : 1,
-      "distance" : 3536,
-      "memberId" : 5480
-    }, {
-      "id" : 3679,
-      "name" : "青春情书",
-      "updateStatus" : 1,
-      "distance" : 1762,
-      "memberId" : 1095
-    }, {
-      "id" : 2373,
-      "name" : "小子们，上课请勿搞基",
-      "updateStatus" : 2,
-      "distance" : 1444,
-      "memberId" : 3778
-    }, {
-      "id" : 3434,
-      "name" : "天境风华祭",
+      "id" : 3506,
+      "name" : "还珠格格同人之落燕",
       "updateStatus" : 1,
       "distance" : 2706,
-      "memberId" : 4600
+      "memberId" : 6111,
+      "bothType" : false
     }, {
-      "id" : 2973,
-      "name" : "独占温宠",
+      "id" : 3422,
+      "name" : "五十弦",
       "updateStatus" : 1,
-      "distance" : 2681,
-      "memberId" : 4217
+      "distance" : 9699,
+      "memberId" : 8064,
+      "bothType" : true
     }, {
-      "id" : 3692,
-      "name" : "恶魔承传者",
+      "id" : 3050,
+      "name" : "帝君独宠：魅世妖颜倾天下",
       "updateStatus" : 1,
-      "distance" : 2361,
-      "memberId" : 4388
+      "distance" : 1194,
+      "memberId" : 2621,
+      "bothType" : false
     }, {
-      "id" : 2080,
-      "name" : "宫偷十二钗：步步惊魂",
+      "id" : 3400,
+      "name" : "天使的诠释：幸福就是遇见你",
       "updateStatus" : 1,
-      "distance" : 1123,
-      "memberId" : 2811
+      "distance" : 3488,
+      "memberId" : 6294,
+      "bothType" : false
     }, {
-      "id" : 3338,
-      "name" : "豬彡頭❤娶我呗",
+      "id" : 3161,
+      "name" : "狐如不爱",
       "updateStatus" : 1,
-      "distance" : 6557,
-      "memberId" : 7016
+      "distance" : 907,
+      "memberId" : 2742,
+      "bothType" : false
     }, {
-      "id" : 2998,
-      "name" : "卫红衣",
+      "id" : 2700,
+      "name" : "狐舞倾城：姐的世界你不懂",
       "updateStatus" : 1,
-      "distance" : 8245,
-      "memberId" : 2151
+      "distance" : 3770,
+      "memberId" : 8020,
+      "bothType" : true
+    }, {
+      "id" : 2291,
+      "name" : "长脚丫的年轮",
+      "updateStatus" : 1,
+      "distance" : 3567,
+      "memberId" : 3648,
+      "bothType" : false
+    }, {
+      "id" : 3221,
+      "name" : "极品天骄：邪凤逆天",
+      "updateStatus" : 1,
+      "distance" : 1487,
+      "memberId" : 1922,
+      "bothType" : false
+    }, {
+      "id" : 2397,
+      "name" : "暧昧是青春的爱情",
+      "updateStatus" : 2,
+      "distance" : 7301,
+      "memberId" : 7934,
+      "bothType" : false
+    }, {
+      "id" : 3303,
+      "name" : "梧桐一叶而天下知秋",
+      "updateStatus" : 1,
+      "distance" : 8285,
+      "memberId" : 8402,
+      "bothType" : true
+    }, {
+      "id" : 2747,
+      "name" : "天才魔宝：踢走风流爹地",
+      "updateStatus" : 1,
+      "distance" : 4577,
+      "memberId" : 2384,
+      "bothType" : false
+    }, {
+      "id" : 3350,
+      "name" : "鬼话连篇",
+      "updateStatus" : 1,
+      "distance" : 2534,
+      "memberId" : 6268,
+      "bothType" : true
+    }, {
+      "id" : 2246,
+      "name" : "王爷，你给本宫趴下",
+      "updateStatus" : 2,
+      "distance" : 5901,
+      "memberId" : 1166,
+      "bothType" : false
+    }, {
+      "id" : 3310,
+      "name" : "龙级猎人",
+      "updateStatus" : 1,
+      "distance" : 6156,
+      "memberId" : 6123,
+      "bothType" : true
+    }, {
+      "id" : 2928,
+      "name" : "双面总裁：我的老公是哪位？",
+      "updateStatus" : 1,
+      "distance" : 1633,
+      "memberId" : 5766,
+      "bothType" : false
+    }, {
+      "id" : 3499,
+      "name" : "绮人心之刻度",
+      "updateStatus" : 1,
+      "distance" : 3446,
+      "memberId" : 1600,
+      "bothType" : false
+    }, {
+      "id" : 2634,
+      "name" : "白日说梦",
+      "updateStatus" : 1,
+      "distance" : 9132,
+      "memberId" : 6644,
+      "bothType" : false
     } ]
   }
 }

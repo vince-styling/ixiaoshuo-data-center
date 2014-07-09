@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "同人其他",
       "capacity" : 2095335,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2140,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 4283145,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

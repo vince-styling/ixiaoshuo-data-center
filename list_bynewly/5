@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45653.jpg",
       "updateStatus" : 1,
       "capacity" : 6260526,
-      "lastUpdateTime" : "2013-12-28 02:19:07"
+      "lastUpdateTime" : "2013-12-28 02:19:07",
+      "bothType" : false
     }, {
       "id" : 2950,
       "name" : "云生风雨过",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47457.jpg",
       "updateStatus" : 1,
       "capacity" : 1999709,
-      "lastUpdateTime" : "2013-12-28 01:15:47"
+      "lastUpdateTime" : "2013-12-28 01:15:47",
+      "bothType" : true
     }, {
       "id" : 2071,
       "name" : "月落紫禁",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19343.jpg",
       "updateStatus" : 2,
       "capacity" : 2251707,
-      "lastUpdateTime" : "2013-12-28 01:13:00"
+      "lastUpdateTime" : "2013-12-28 01:13:00",
+      "bothType" : true
     }, {
       "id" : 2872,
       "name" : "口是心非：那个女人的谎言",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44394.jpg",
       "updateStatus" : 1,
       "capacity" : 1114120,
-      "lastUpdateTime" : "2013-12-28 00:35:16"
+      "lastUpdateTime" : "2013-12-28 00:35:16",
+      "bothType" : false
     }, {
       "id" : 2344,
       "name" : "枫林残恋",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47803.jpg",
       "updateStatus" : 1,
       "capacity" : 4376945,
-      "lastUpdateTime" : "2013-12-28 00:35:13"
+      "lastUpdateTime" : "2013-12-28 00:35:13",
+      "bothType" : true
     }, {
       "id" : 3311,
       "name" : "韩菲之黑道女帝",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44991.jpg",
       "updateStatus" : 1,
       "capacity" : 874605,
-      "lastUpdateTime" : "2013-12-28 00:13:17"
+      "lastUpdateTime" : "2013-12-28 00:13:17",
+      "bothType" : false
     }, {
       "id" : 3054,
       "name" : "宫：殇世绝恋",
@@ -60,7 +66,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 43648,
-      "lastUpdateTime" : "2013-12-27 23:53:35"
+      "lastUpdateTime" : "2013-12-27 23:53:35",
+      "bothType" : false
     }, {
       "id" : 2826,
       "name" : "沐晴只到梨花薄",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45535.jpg",
       "updateStatus" : 1,
       "capacity" : 5287276,
-      "lastUpdateTime" : "2013-12-27 23:47:23"
+      "lastUpdateTime" : "2013-12-27 23:47:23",
+      "bothType" : false
     }, {
       "id" : 3461,
       "name" : "束缚中的约定",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20616.jpg",
       "updateStatus" : 1,
       "capacity" : 1152472,
-      "lastUpdateTime" : "2013-12-27 23:42:17"
+      "lastUpdateTime" : "2013-12-27 23:42:17",
+      "bothType" : true
     }, {
       "id" : 3666,
       "name" : "傲视苍穹：痴傻七小姐",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42648.jpg",
       "updateStatus" : 1,
       "capacity" : 1922694,
-      "lastUpdateTime" : "2013-12-27 23:26:06"
+      "lastUpdateTime" : "2013-12-27 23:26:06",
+      "bothType" : false
     }, {
       "id" : 3029,
       "name" : "双女穿越记",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14988.jpg",
       "updateStatus" : 1,
       "capacity" : 4541191,
-      "lastUpdateTime" : "2013-12-27 23:14:50"
+      "lastUpdateTime" : "2013-12-27 23:14:50",
+      "bothType" : false
     }, {
       "id" : 2117,
       "name" : "天道魔情",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_8868.jpg",
       "updateStatus" : 1,
       "capacity" : 1544772,
-      "lastUpdateTime" : "2013-12-27 23:11:10"
+      "lastUpdateTime" : "2013-12-27 23:11:10",
+      "bothType" : true
     }, {
       "id" : 3332,
       "name" : "不会失忆的爱",
@@ -108,7 +120,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 166135,
-      "lastUpdateTime" : "2013-12-27 23:10:25"
+      "lastUpdateTime" : "2013-12-27 23:10:25",
+      "bothType" : false
     }, {
       "id" : 3465,
       "name" : "凤皇",
@@ -116,7 +129,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 28019,
-      "lastUpdateTime" : "2013-12-27 22:27:50"
+      "lastUpdateTime" : "2013-12-27 22:27:50",
+      "bothType" : false
     }, {
       "id" : 2391,
       "name" : "清清子毅",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18711.jpg",
       "updateStatus" : 2,
       "capacity" : 4349530,
-      "lastUpdateTime" : "2013-12-27 22:14:07"
+      "lastUpdateTime" : "2013-12-27 22:14:07",
+      "bothType" : true
     }, {
       "id" : 2994,
       "name" : "低入尘埃终将花开",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44684.jpg",
       "updateStatus" : 1,
       "capacity" : 3334681,
-      "lastUpdateTime" : "2013-12-27 21:28:51"
+      "lastUpdateTime" : "2013-12-27 21:28:51",
+      "bothType" : false
     }, {
       "id" : 2124,
       "name" : "爱情如此多骄",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22530.jpg",
       "updateStatus" : 1,
       "capacity" : 3744641,
-      "lastUpdateTime" : "2013-12-27 21:08:38"
+      "lastUpdateTime" : "2013-12-27 21:08:38",
+      "bothType" : true
     }, {
       "id" : 3433,
       "name" : "宿敌",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44064.jpg",
       "updateStatus" : 1,
       "capacity" : 302851,
-      "lastUpdateTime" : "2013-12-27 20:28:48"
+      "lastUpdateTime" : "2013-12-27 20:28:48",
+      "bothType" : false
     }, {
       "id" : 2277,
       "name" : "水控苍穹",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22267.jpg",
       "updateStatus" : 1,
       "capacity" : 9574730,
-      "lastUpdateTime" : "2013-12-27 20:27:57"
+      "lastUpdateTime" : "2013-12-27 20:27:57",
+      "bothType" : false
     }, {
       "id" : 2102,
       "name" : "殿下惑世",
@@ -164,7 +183,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 5741220,
-      "lastUpdateTime" : "2013-12-27 20:10:01"
+      "lastUpdateTime" : "2013-12-27 20:10:01",
+      "bothType" : false
     } ]
   }
 }

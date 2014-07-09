@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3335,
-      "name" : "埋葬在青春里的爱恋",
+      "id" : 3727,
+      "name" : "繁华错",
       "updateStatus" : 1,
-      "distance" : 762,
-      "memberId" : 7299
+      "distance" : 745,
+      "memberId" : 2766,
+      "bothType" : false
     }, {
-      "id" : 2089,
-      "name" : "旷世奇恋",
-      "updateStatus" : 1,
-      "distance" : 6871,
-      "memberId" : 7595
-    }, {
-      "id" : 2653,
-      "name" : "恶魔让你遇见我",
-      "updateStatus" : 1,
-      "distance" : 2505,
-      "memberId" : 2857
-    }, {
-      "id" : 3431,
-      "name" : "修真女配混末世",
-      "updateStatus" : 1,
-      "distance" : 6374,
-      "memberId" : 4956
-    }, {
-      "id" : 2135,
-      "name" : "阵惊天下",
+      "id" : 2319,
+      "name" : "绝代风华：魅惑帝王心",
       "updateStatus" : 2,
-      "distance" : 1323,
-      "memberId" : 8889
+      "distance" : 9748,
+      "memberId" : 5184,
+      "bothType" : false
     }, {
-      "id" : 3539,
-      "name" : "恶魔少爷的失宠玩偶",
+      "id" : 3175,
+      "name" : "被岁月流放的青春",
       "updateStatus" : 1,
-      "distance" : 2722,
-      "memberId" : 3924
+      "distance" : 4136,
+      "memberId" : 3455,
+      "bothType" : false
     }, {
-      "id" : 2344,
-      "name" : "枫林残恋",
+      "id" : 3270,
+      "name" : "媚颜笑",
       "updateStatus" : 1,
-      "distance" : 6525,
-      "memberId" : 8544
+      "distance" : 8783,
+      "memberId" : 1291,
+      "bothType" : false
     }, {
-      "id" : 3257,
-      "name" : "相思引，魔王的羁绊",
+      "id" : 3392,
+      "name" : "重生，投胎投错家",
       "updateStatus" : 1,
-      "distance" : 2481,
-      "memberId" : 6697
+      "distance" : 1200,
+      "memberId" : 4995,
+      "bothType" : false
     }, {
-      "id" : 3700,
-      "name" : "江湖囧事录",
+      "id" : 3561,
+      "name" : "穿越之唯爱有你",
       "updateStatus" : 1,
-      "distance" : 4571,
-      "memberId" : 2009
+      "distance" : 9170,
+      "memberId" : 1297,
+      "bothType" : false
     }, {
-      "id" : 3288,
-      "name" : "契约情人之滚下我的床",
+      "id" : 3735,
+      "name" : "穿越之修真吐槽娘",
       "updateStatus" : 1,
-      "distance" : 527,
-      "memberId" : 3417
+      "distance" : 9511,
+      "memberId" : 1534,
+      "bothType" : true
     }, {
-      "id" : 2931,
-      "name" : "蝶风之交错的缘",
+      "id" : 3283,
+      "name" : "掠心总裁：爹地，你弱爆了！",
       "updateStatus" : 1,
-      "distance" : 1552,
-      "memberId" : 5503
+      "distance" : 1328,
+      "memberId" : 4308,
+      "bothType" : false
     }, {
-      "id" : 3152,
-      "name" : "晚晴空",
+      "id" : 2812,
+      "name" : "可能",
       "updateStatus" : 1,
-      "distance" : 8720,
-      "memberId" : 3489
+      "distance" : 2086,
+      "memberId" : 6891,
+      "bothType" : false
     }, {
-      "id" : 2435,
-      "name" : "绝世青龙王",
+      "id" : 2109,
+      "name" : "开门迎客",
       "updateStatus" : 1,
-      "distance" : 4928,
-      "memberId" : 3907
+      "distance" : 5294,
+      "memberId" : 4248,
+      "bothType" : false
     }, {
-      "id" : 2218,
-      "name" : "谁欲人王",
+      "id" : 2521,
+      "name" : "你才奥利奥，你全家都奥利奥",
       "updateStatus" : 1,
-      "distance" : 9971,
-      "memberId" : 5527
+      "distance" : 7289,
+      "memberId" : 3771,
+      "bothType" : false
     }, {
-      "id" : 3560,
-      "name" : "豪门虐恋：多情二少独宠疯丫头",
+      "id" : 2577,
+      "name" : "恶少总裁：薄宠小娇妻",
       "updateStatus" : 1,
-      "distance" : 5342,
-      "memberId" : 6940
+      "distance" : 8369,
+      "memberId" : 5071,
+      "bothType" : true
     }, {
-      "id" : 3276,
-      "name" : "宫心计续集",
+      "id" : 2583,
+      "name" : "梦中红叶知多少",
       "updateStatus" : 1,
-      "distance" : 5360,
-      "memberId" : 5698
+      "distance" : 5231,
+      "memberId" : 1770,
+      "bothType" : false
     }, {
-      "id" : 3637,
-      "name" : "万里月明",
+      "id" : 2046,
+      "name" : "疼在左手指间",
       "updateStatus" : 1,
-      "distance" : 2712,
-      "memberId" : 7032
+      "distance" : 5099,
+      "memberId" : 3899,
+      "bothType" : false
     }, {
-      "id" : 2537,
-      "name" : "一馨二逸",
+      "id" : 2223,
+      "name" : "浩瀚风云录",
       "updateStatus" : 1,
-      "distance" : 7354,
-      "memberId" : 2579
+      "distance" : 5664,
+      "memberId" : 5784,
+      "bothType" : false
     }, {
-      "id" : 3692,
-      "name" : "恶魔承传者",
+      "id" : 2094,
+      "name" : "孽情殇",
       "updateStatus" : 1,
-      "distance" : 4614,
-      "memberId" : 3575
+      "distance" : 6565,
+      "memberId" : 7143,
+      "bothType" : false
     }, {
-      "id" : 3179,
-      "name" : "情深几许",
+      "id" : 3163,
+      "name" : "最初与最后",
       "updateStatus" : 1,
-      "distance" : 2405,
-      "memberId" : 1295
+      "distance" : 2589,
+      "memberId" : 5358,
+      "bothType" : false
+    }, {
+      "id" : 2759,
+      "name" : "若无君，何来月",
+      "updateStatus" : 1,
+      "distance" : 3858,
+      "memberId" : 2689,
+      "bothType" : true
+    }, {
+      "id" : 2047,
+      "name" : "越长大越现实",
+      "updateStatus" : 1,
+      "distance" : 1187,
+      "memberId" : 8689,
+      "bothType" : false
+    }, {
+      "id" : 3237,
+      "name" : "千面狂妃",
+      "updateStatus" : 1,
+      "distance" : 5393,
+      "memberId" : 5591,
+      "bothType" : false
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "summary" : "她是名冠天下的右相嫡女，美人如斯，妙手仁心。他却是庶出的文弱皇子，于深宫之中受尽轻辱依然傲骨天成。嫁",
       "updateStatus" : 1,
       "capacity" : 3038174,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2691,
       "name" : "网王之绮梦玥恋",
@@ -20,7 +21,8 @@
       "summary" : "如果今天是世界末日，那么请上帝垂怜，将我砸向你的世界，让我在你的世界里停留一天在结束我的生命。你的世",
       "updateStatus" : 1,
       "capacity" : 8110860,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2078,
       "name" : "绾君心",
@@ -28,7 +30,8 @@
       "summary" : "小时候奶娘总爱摸着我的头发告诉我长发绾君心那时年幼，不知情为何物，到后来，我也不敢去知道情为何物，因",
       "updateStatus" : 1,
       "capacity" : 3300512,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3041,
       "name" : "宠色无边：青楼妖妃太难逑",
@@ -36,7 +39,8 @@
       "summary" : "一朝穿越委身青楼，只为享尽天下美男！但这漂亮脸蛋也太会拉仇恨了吧？她忍，她忍！可是那些该死的女人还真",
       "updateStatus" : 1,
       "capacity" : 5955783,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2261,
       "name" : "血魇如影",
@@ -44,7 +48,8 @@
       "summary" : "这是一曲人性善恶的交响曲，这是一部战争罪恶的控诉书。主人公张家齐生于富商之家，父亲是民国第一杀手王亚",
       "updateStatus" : 1,
       "capacity" : 4250841,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2315,
       "name" : "一诺双生劫",
@@ -52,7 +57,8 @@
       "summary" : "她是她的劫，虽然生就了两张相似的面孔却得不到相似的对待，她不怨，只是想保留这世上唯一会对她好的血脉亲",
       "updateStatus" : 1,
       "capacity" : 9880185,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 2464,
       "name" : "微光角落",
@@ -60,7 +66,8 @@
       "summary" : "因为是“怪物”的存在，两人如刺猬般，紧紧依偎，常在想，如此这般就好了。一场“526”凶杀案打破了两人",
       "updateStatus" : 1,
       "capacity" : 1279013,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2459,
       "name" : "鸮侠传",
@@ -68,7 +75,8 @@
       "summary" : "这部叫小说也好不叫小说也好,主要是想写一个现代侠客的成长路程,看国外有蝙蝠侠蜘蛛侠,而我们的侠只在武",
       "updateStatus" : 1,
       "capacity" : 2658052,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : true
     }, {
       "id" : 2890,
       "name" : "月沉沦",
@@ -76,7 +84,8 @@
       "summary" : "一句话总结：女主与男主一起谋权篡位。顺便谈个情说个爱。与各色女配们斗智斗勇斗姨娘。还要斗鬼魂。她是备",
       "updateStatus" : 1,
       "capacity" : 1902636,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2620,
       "name" : "CF之黑马突起",
@@ -84,7 +93,8 @@
       "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容",
       "updateStatus" : 1,
       "capacity" : 2605777,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3016,
       "name" : "再见，宝贝",
@@ -92,7 +102,8 @@
       "summary" : "我们用唯一给彼此的爱加冕生离死别仅为形式只要还爱着身边的位置永远为你而空宝贝，有一天当你看过世界，再",
       "updateStatus" : 1,
       "capacity" : 7382041,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2321,
       "name" : "梦呓熙殇",
@@ -100,7 +111,8 @@
       "summary" : "一段前世未了的尘缘，尽在穿越后有了不一样的故事，陈伊落又名南宫渃熙：一生为爱而活，为人善良心软，是一",
       "updateStatus" : 1,
       "capacity" : 5146740,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2379,
       "name" : "观众也难做",
@@ -108,7 +120,8 @@
       "summary" : "我不是玛丽苏，不是汤姆苏，没有什么远大志向，也不想让很多认为我疯狂，为我痴颠，我只是个普通人，不想陪",
       "updateStatus" : 1,
       "capacity" : 1530448,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2689,
       "name" : "穿越之歌月徘徊",
@@ -116,7 +129,8 @@
       "summary" : "因碧玉手镯穿越到天陆王朝，她结识命中注定的人，亲情，爱情，友情，她步步惊心，然而命运之所以神奇，在于",
       "updateStatus" : 1,
       "capacity" : 2681793,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2874,
       "name" : "逆天之女：冷清太子的专属温柔",
@@ -124,7 +138,8 @@
       "summary" : "她，一心专研中医，有父母无父母没多大区别。她，三岁，失去母亲，从此，无人问津，庶母抢走原本属于她的一",
       "updateStatus" : 1,
       "capacity" : 2729053,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2640,
       "name" : "都市高手之黑道霸主",
@@ -132,7 +147,8 @@
       "summary" : "一个普通的司机，究竟经历了怎么样的奇遇，得到了怎样的能力，又如何称霸地下王国，又如何打造庞……",
       "updateStatus" : 1,
       "capacity" : 5116138,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2733,
       "name" : "静水寒：萌女穿越记",
@@ -140,7 +156,8 @@
       "summary" : "他还没走呀，漓鸳大大的舒了口气，喜滋滋的走了进去。桑语疑惑的瞅着她，在君上生气的日子里，实在是不懂喜",
       "updateStatus" : 1,
       "capacity" : 7258348,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2528,
       "name" : "那些摩挲流年的温暖",
@@ -148,7 +165,8 @@
       "summary" : "有人说：“爱，是一场劫难，我们注定在劫难逃......”乔若宁站在爱情的三岔路口,一脸茫然:那个一手",
       "updateStatus" : 1,
       "capacity" : 3843058,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2277,
       "name" : "水控苍穹",
@@ -156,7 +174,8 @@
       "summary" : "爽文阅读，经历海上掠食者的恩怨情仇！热血搏浪，奔赴气势恢宏的海战！快乐品鉴，反思历史转折点的大明海权",
       "updateStatus" : 1,
       "capacity" : 9574730,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2641,
       "name" : "倾城归来",
@@ -164,7 +183,8 @@
       "summary" : "当时年少，不懂得好好珍惜，错过了许多。后来，他承诺说，“我要给你幸福。”她含着泪答应着。可他却因为家",
       "updateStatus" : 1,
       "capacity" : 6820119,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     } ]
   }
 }

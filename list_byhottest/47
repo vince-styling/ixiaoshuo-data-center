@@ -12,7 +12,8 @@
       "summary" : "呜呜！老天爷呀！这也太没天理了吧！她只不过是二十一世纪的一个普通高中生，没做什么伤天害理的事吧。只不",
       "updateStatus" : 1,
       "capacity" : 607149,
-      "readerCount" : 3437
+      "readerCount" : 3437,
+      "bothType" : false
     }, {
       "id" : 2901,
       "name" : "水浒系列短篇集",
@@ -20,7 +21,8 @@
       "summary" : "这些是写在水浒以外的故事。大部分来源于那个时节的新水浒，那些或者坚强或者沉郁的孩子。不管戏里戏外，他",
       "updateStatus" : 1,
       "capacity" : 7117703,
-      "readerCount" : 3423
+      "readerCount" : 3423,
+      "bothType" : false
     }, {
       "id" : 3635,
       "name" : "恍然入仙",
@@ -28,7 +30,8 @@
       "summary" : "“肯定有宝物。”够刺激啊。正陷入YY中的凝墨没有注意到冰湛单手力道适中的捏住了自己的下巴。“今天的事",
       "updateStatus" : 1,
       "capacity" : 1595593,
-      "readerCount" : 3421
+      "readerCount" : 3421,
+      "bothType" : false
     }, {
       "id" : 3630,
       "name" : "我叫林若妃",
@@ -36,7 +39,8 @@
       "summary" : "她，见证了太多背叛。面对爱情，只剩一颗冰冷的心。她发誓，她再不相信爱情。再不接受任何人的感情。他，拥",
       "updateStatus" : 1,
       "capacity" : 290639,
-      "readerCount" : 3420
+      "readerCount" : 3420,
+      "bothType" : false
     }, {
       "id" : 3076,
       "name" : "豪门相公：我们圆房吧",
@@ -44,7 +48,8 @@
       "summary" : "古代穿越到现代，惊慌、无措的时候，他满脸的疼惜，说：“有我，一切都不用怕。”不过外出一趟，从不见媒体",
       "updateStatus" : 1,
       "capacity" : 13682,
-      "readerCount" : 3415
+      "readerCount" : 3415,
+      "bothType" : true
     }, {
       "id" : 3641,
       "name" : "绝代皇妃",
@@ -52,7 +57,8 @@
       "summary" : "“等朕死了后，就扶弘之上位，那么你就是太后了。”“你知道的，我要的不是这些。”",
       "updateStatus" : 1,
       "capacity" : 410735,
-      "readerCount" : 3415
+      "readerCount" : 3415,
+      "bothType" : false
     }, {
       "id" : 3618,
       "name" : "蝶恋花：化蝶寻君",
@@ -60,7 +66,8 @@
       "summary" : "从目睹自己的亲生父亲为了利益，不惜拿了母亲的性命来交换，她乔雯儿心中对爱便不再向往。以别人的身体重生",
       "updateStatus" : 1,
       "capacity" : 556488,
-      "readerCount" : 3399
+      "readerCount" : 3399,
+      "bothType" : true
     }, {
       "id" : 2153,
       "name" : "醉清风：师父你别跑",
@@ -68,7 +75,8 @@
       "summary" : "她是天生的异类，他是凌霄宫清玄真人的首座弟子。明明就是性格不合看不对眼，可偏偏又逃离不了。是天生孽缘",
       "updateStatus" : 1,
       "capacity" : 6710774,
-      "readerCount" : 3398
+      "readerCount" : 3398,
+      "bothType" : false
     }, {
       "id" : 2679,
       "name" : "雪莲的桔梗花",
@@ -76,7 +84,8 @@
       "summary" : "其实原本阴谋的爱情也可以成为真爱……本就是错爱的爱情，怎么追求都是徒劳……错把姐姐当成了妹妹，但是隐",
       "updateStatus" : 1,
       "capacity" : 7920536,
-      "readerCount" : 3397
+      "readerCount" : 3397,
+      "bothType" : false
     }, {
       "id" : 2728,
       "name" : "孤叶清兰",
@@ -84,7 +93,8 @@
       "summary" : "他说：你注定是我的女人！她却与他的兄弟纠缠。误会让他们分离却彼此思念，思念让他们彼此纠缠却无法相守，",
       "updateStatus" : 1,
       "capacity" : 2373278,
-      "readerCount" : 3392
+      "readerCount" : 3392,
+      "bothType" : true
     }, {
       "id" : 2090,
       "name" : "倾世媚女",
@@ -92,7 +102,8 @@
       "summary" : "她，原本是现代商业界的一枚奇才，却因奇异天象而穿越到凤凰国，成为左相之女，从此开始了一场又一场无法抵",
       "updateStatus" : 1,
       "capacity" : 3371344,
-      "readerCount" : 3390
+      "readerCount" : 3390,
+      "bothType" : true
     }, {
       "id" : 2229,
       "name" : "异界之神路传说",
@@ -100,7 +111,8 @@
       "summary" : "一场意外让他经历了很多不可思议的事。可随之而来背叛、伤害、追杀让他不得不让自己变得更强。为了自己，为",
       "updateStatus" : 1,
       "capacity" : 7249882,
-      "readerCount" : 3390
+      "readerCount" : 3390,
+      "bothType" : false
     }, {
       "id" : 2754,
       "name" : "蝴蝶与四叶草",
@@ -108,7 +120,8 @@
       "summary" : "也许，你是一个有梦想的孩子，却会迷惘，也许，你是一个想简简单单生活的孩子，却会疯狂。不同性格，都会在",
       "updateStatus" : 1,
       "capacity" : 6502480,
-      "readerCount" : 3375
+      "readerCount" : 3375,
+      "bothType" : false
     }, {
       "id" : 3001,
       "name" : "王的选择",
@@ -116,7 +129,8 @@
       "summary" : "他，从一个普通平凡的白领变成肩负天下的王；她，从出生便注定了未来；他们，都是不平凡的人，命运让他们相",
       "updateStatus" : 1,
       "capacity" : 1810948,
-      "readerCount" : 3374
+      "readerCount" : 3374,
+      "bothType" : false
     }, {
       "id" : 3091,
       "name" : "丛林法则，末世女王风",
@@ -124,7 +138,8 @@
       "summary" : "雅玛人2013世界末日的预言并没有兑现，100多年过去了，人们已经淡忘，科技进入了一个新高度并持续发",
       "updateStatus" : 1,
       "capacity" : 216162,
-      "readerCount" : 3370
+      "readerCount" : 3370,
+      "bothType" : false
     }, {
       "id" : 2875,
       "name" : "宝贝，我真的爱你",
@@ -132,7 +147,8 @@
       "summary" : "一个女生和男生一见钟情，才过几天就互相借用派对表白了。。。",
       "updateStatus" : 1,
       "capacity" : 7636917,
-      "readerCount" : 3364
+      "readerCount" : 3364,
+      "bothType" : false
     }, {
       "id" : 2629,
       "name" : "触碰纯白的爱恋",
@@ -140,7 +156,8 @@
       "summary" : "简单版：【触碰纯白的爱恋，聆听真爱的声音。】抒情版：讨厌一个人，就算他长的帅气并且多金，但是讨厌就是",
       "updateStatus" : 1,
       "capacity" : 8885006,
-      "readerCount" : 3358
+      "readerCount" : 3358,
+      "bothType" : true
     }, {
       "id" : 3584,
       "name" : "致臻与谁",
@@ -148,7 +165,8 @@
       "summary" : "几近于完美的男人，几近于不可思议的相遇；十五岁的恪臻第一次遇到他；翩翩君子，温柔宠溺；只要你要，我就",
       "updateStatus" : 1,
       "capacity" : 857051,
-      "readerCount" : 3357
+      "readerCount" : 3357,
+      "bothType" : true
     }, {
       "id" : 2511,
       "name" : "遗忘的尽头",
@@ -156,7 +174,8 @@
       "summary" : "“除非找到我的尸体，好好的活着……”为了这句遗言，他顶着一副躯壳活了十年。为了可以光明正大的死去，他",
       "updateStatus" : 1,
       "capacity" : 5296202,
-      "readerCount" : 3356
+      "readerCount" : 3356,
+      "bothType" : false
     }, {
       "id" : 2828,
       "name" : "风声",
@@ -164,7 +183,8 @@
       "summary" : "风声迅疾而至，又呼啸而过命运在轮回中旋转却永远无法逃脱背后的掌控孤独奋战于光明与黑暗之间在鲜血与枪林",
       "updateStatus" : 2,
       "capacity" : 3160668,
-      "readerCount" : 3355
+      "readerCount" : 3355,
+      "bothType" : false
     } ]
   }
 }

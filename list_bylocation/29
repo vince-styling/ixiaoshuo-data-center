@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2926,
-      "name" : "清宫情史",
+      "id" : 2658,
+      "name" : "天佑嘉璟",
       "updateStatus" : 1,
-      "distance" : 5579,
-      "memberId" : 8138
+      "distance" : 3327,
+      "memberId" : 7391,
+      "bothType" : false
     }, {
-      "id" : 3230,
-      "name" : "霹雳戢武王妹控玉仔酱油记",
+      "id" : 3714,
+      "name" : "王爷的仙妃",
       "updateStatus" : 1,
-      "distance" : 7549,
-      "memberId" : 5633
+      "distance" : 699,
+      "memberId" : 5625,
+      "bothType" : false
     }, {
-      "id" : 2423,
-      "name" : "天价前妻：绝情总裁的契约情人",
+      "id" : 2236,
+      "name" : "冥江漫漫",
       "updateStatus" : 1,
-      "distance" : 1661,
-      "memberId" : 3814
+      "distance" : 1802,
+      "memberId" : 4023,
+      "bothType" : false
     }, {
-      "id" : 2085,
-      "name" : "琉璃坊",
+      "id" : 3485,
+      "name" : "无良大盗：看好你丫的节操",
       "updateStatus" : 1,
-      "distance" : 8329,
-      "memberId" : 4458
+      "distance" : 8907,
+      "memberId" : 1123,
+      "bothType" : false
     }, {
-      "id" : 2147,
-      "name" : "不当神仙也爱你",
+      "id" : 3609,
+      "name" : "等你爱我",
+      "updateStatus" : 1,
+      "distance" : 7309,
+      "memberId" : 4074,
+      "bothType" : true
+    }, {
+      "id" : 3024,
+      "name" : "爱错",
+      "updateStatus" : 1,
+      "distance" : 7040,
+      "memberId" : 8948,
+      "bothType" : false
+    }, {
+      "id" : 3205,
+      "name" : "当冷公主遇上甜心少",
+      "updateStatus" : 1,
+      "distance" : 6572,
+      "memberId" : 1587,
+      "bothType" : false
+    }, {
+      "id" : 2417,
+      "name" : "不飞的天使",
       "updateStatus" : 2,
-      "distance" : 5361,
-      "memberId" : 3079
+      "distance" : 4165,
+      "memberId" : 1807,
+      "bothType" : false
     }, {
-      "id" : 3324,
-      "name" : "娘子，不许口是心非",
+      "id" : 2092,
+      "name" : "迟妆懒起",
       "updateStatus" : 1,
-      "distance" : 3309,
-      "memberId" : 5847
+      "distance" : 2358,
+      "memberId" : 8500,
+      "bothType" : false
     }, {
-      "id" : 2324,
-      "name" : "一代平妃",
-      "updateStatus" : 2,
-      "distance" : 6638,
-      "memberId" : 6193
-    }, {
-      "id" : 3167,
-      "name" : "凤武九霄：一品庶女傲天下",
+      "id" : 3687,
+      "name" : "至尊天下：霸占绝色鬼颜妃",
       "updateStatus" : 1,
-      "distance" : 1114,
-      "memberId" : 5497
+      "distance" : 3406,
+      "memberId" : 3412,
+      "bothType" : false
     }, {
-      "id" : 2193,
-      "name" : "笑傲仙狂",
+      "id" : 2672,
+      "name" : "迷雾豪门：诱妻上瘾",
       "updateStatus" : 1,
-      "distance" : 3262,
-      "memberId" : 7261
+      "distance" : 7010,
+      "memberId" : 2379,
+      "bothType" : false
     }, {
-      "id" : 3138,
-      "name" : "黑色的梦境",
+      "id" : 2998,
+      "name" : "卫红衣",
       "updateStatus" : 1,
-      "distance" : 3200,
-      "memberId" : 3023
+      "distance" : 945,
+      "memberId" : 7279,
+      "bothType" : false
     }, {
-      "id" : 2485,
-      "name" : "眸魂记",
+      "id" : 2326,
+      "name" : "六爷府的懒丫头",
       "updateStatus" : 1,
-      "distance" : 5223,
-      "memberId" : 3909
+      "distance" : 1145,
+      "memberId" : 7542,
+      "bothType" : false
     }, {
-      "id" : 3347,
-      "name" : "冷艳傲骨：毒物小姐狠嚣张",
+      "id" : 2639,
+      "name" : "来不及说出口的爱",
       "updateStatus" : 1,
-      "distance" : 5275,
-      "memberId" : 7409
+      "distance" : 1337,
+      "memberId" : 1604,
+      "bothType" : false
     }, {
-      "id" : 2315,
-      "name" : "一诺双生劫",
+      "id" : 2890,
+      "name" : "月沉沦",
       "updateStatus" : 1,
-      "distance" : 7608,
-      "memberId" : 5738
+      "distance" : 3093,
+      "memberId" : 6073,
+      "bothType" : true
     }, {
-      "id" : 3735,
-      "name" : "穿越之修真吐槽娘",
+      "id" : 3336,
+      "name" : "旷世绝恋：洛水弹琴不谈情",
       "updateStatus" : 1,
-      "distance" : 5876,
-      "memberId" : 3666
+      "distance" : 3994,
+      "memberId" : 8785,
+      "bothType" : false
     }, {
-      "id" : 3037,
-      "name" : "简单的幸福",
+      "id" : 2557,
+      "name" : "美人颜如玉",
       "updateStatus" : 1,
-      "distance" : 9889,
-      "memberId" : 3212
+      "distance" : 793,
+      "memberId" : 7437,
+      "bothType" : false
     }, {
-      "id" : 3290,
-      "name" : "婚然厚爱",
+      "id" : 3513,
+      "name" : "安伦旅途",
       "updateStatus" : 1,
-      "distance" : 9431,
-      "memberId" : 7936
+      "distance" : 1755,
+      "memberId" : 1473,
+      "bothType" : false
     }, {
-      "id" : 2212,
-      "name" : "禁天乱纪元",
+      "id" : 2752,
+      "name" : "总裁的致命情人：抵死不承欢",
       "updateStatus" : 1,
-      "distance" : 9236,
-      "memberId" : 6350
+      "distance" : 9281,
+      "memberId" : 1845,
+      "bothType" : false
     }, {
-      "id" : 2349,
-      "name" : "不相信国",
+      "id" : 3300,
+      "name" : "画城",
       "updateStatus" : 1,
-      "distance" : 9372,
-      "memberId" : 8157
-    }, {
-      "id" : 2083,
-      "name" : "卿本庶女",
-      "updateStatus" : 2,
-      "distance" : 6745,
-      "memberId" : 8636
-    }, {
-      "id" : 2093,
-      "name" : "废柴王妃：相公欠调教",
-      "updateStatus" : 1,
-      "distance" : 2022,
-      "memberId" : 3536
+      "distance" : 2537,
+      "memberId" : 6642,
+      "bothType" : false
     } ]
   }
 }

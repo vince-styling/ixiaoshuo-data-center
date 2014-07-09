@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2273,
-      "name" : "丞相公子，哪里跑",
+      "id" : 2778,
+      "name" : "东山剑",
       "updateStatus" : 1,
-      "distance" : 6824,
-      "memberId" : 6173
+      "distance" : 6183,
+      "memberId" : 2530,
+      "bothType" : false
     }, {
-      "id" : 3143,
-      "name" : "去日留痕",
-      "updateStatus" : 1,
-      "distance" : 9343,
-      "memberId" : 6335
-    }, {
-      "id" : 2285,
-      "name" : "天织雪",
-      "updateStatus" : 1,
-      "distance" : 5506,
-      "memberId" : 8678
-    }, {
-      "id" : 2752,
-      "name" : "总裁的致命情人：抵死不承欢",
-      "updateStatus" : 1,
-      "distance" : 3192,
-      "memberId" : 5167
-    }, {
-      "id" : 3098,
-      "name" : "无上星道",
-      "updateStatus" : 1,
-      "distance" : 8902,
-      "memberId" : 8914
-    }, {
-      "id" : 2236,
-      "name" : "冥江漫漫",
-      "updateStatus" : 1,
-      "distance" : 3327,
-      "memberId" : 2495
-    }, {
-      "id" : 3693,
-      "name" : "综漫——萝莉女神的养成计划",
-      "updateStatus" : 1,
-      "distance" : 1367,
-      "memberId" : 1309
-    }, {
-      "id" : 3344,
-      "name" : "诀爱（乱世胧伊）",
-      "updateStatus" : 1,
-      "distance" : 5800,
-      "memberId" : 7552
-    }, {
-      "id" : 3307,
-      "name" : "在天台遥望幸福",
-      "updateStatus" : 1,
-      "distance" : 4930,
-      "memberId" : 1106
-    }, {
-      "id" : 3095,
-      "name" : "墨色眼瞳中的温柔",
-      "updateStatus" : 1,
-      "distance" : 7455,
-      "memberId" : 3617
-    }, {
-      "id" : 3455,
-      "name" : "蜜宠之今生只要你",
-      "updateStatus" : 1,
-      "distance" : 1359,
-      "memberId" : 3860
-    }, {
-      "id" : 3642,
-      "name" : "椒房月夜泪未央",
-      "updateStatus" : 1,
-      "distance" : 9049,
-      "memberId" : 6667
-    }, {
-      "id" : 3314,
-      "name" : "倾城薄雾，似水流年",
+      "id" : 2162,
+      "name" : "琴之飞絮",
       "updateStatus" : 2,
-      "distance" : 8095,
-      "memberId" : 5149
+      "distance" : 7841,
+      "memberId" : 6574,
+      "bothType" : false
     }, {
-      "id" : 3643,
-      "name" : "可能你还爱我",
-      "updateStatus" : 1,
-      "distance" : 829,
-      "memberId" : 3405
-    }, {
-      "id" : 2298,
-      "name" : "重生联盟之绝代风华",
-      "updateStatus" : 1,
-      "distance" : 7158,
-      "memberId" : 1464
-    }, {
-      "id" : 3677,
-      "name" : "不要丢下我，好不好",
-      "updateStatus" : 1,
-      "distance" : 8956,
-      "memberId" : 8997
-    }, {
-      "id" : 2941,
-      "name" : "饿狼女扑羊记",
-      "updateStatus" : 1,
-      "distance" : 1962,
-      "memberId" : 8561
-    }, {
-      "id" : 2149,
-      "name" : "登天谣",
+      "id" : 2510,
+      "name" : "守卫爱情",
       "updateStatus" : 2,
-      "distance" : 8176,
-      "memberId" : 2242
+      "distance" : 709,
+      "memberId" : 2644,
+      "bothType" : false
     }, {
-      "id" : 2869,
-      "name" : "穿越之美人太冷",
+      "id" : 3355,
+      "name" : "野蛮小宫女",
       "updateStatus" : 1,
-      "distance" : 3414,
-      "memberId" : 7008
+      "distance" : 6397,
+      "memberId" : 6203,
+      "bothType" : true
     }, {
-      "id" : 2572,
-      "name" : "魔妃逆九天",
+      "id" : 2517,
+      "name" : "家教之七色光芒",
       "updateStatus" : 1,
-      "distance" : 2854,
-      "memberId" : 7536
+      "distance" : 2649,
+      "memberId" : 3993,
+      "bothType" : false
+    }, {
+      "id" : 2509,
+      "name" : "明月何故照秦时",
+      "updateStatus" : 2,
+      "distance" : 4897,
+      "memberId" : 8074,
+      "bothType" : false
+    }, {
+      "id" : 3290,
+      "name" : "婚然厚爱",
+      "updateStatus" : 1,
+      "distance" : 6401,
+      "memberId" : 7355,
+      "bothType" : true
+    }, {
+      "id" : 3291,
+      "name" : "离离原上草",
+      "updateStatus" : 1,
+      "distance" : 4334,
+      "memberId" : 6993,
+      "bothType" : false
+    }, {
+      "id" : 2438,
+      "name" : "此去经年",
+      "updateStatus" : 1,
+      "distance" : 8292,
+      "memberId" : 7846,
+      "bothType" : false
+    }, {
+      "id" : 3352,
+      "name" : "沁语录",
+      "updateStatus" : 1,
+      "distance" : 2958,
+      "memberId" : 8737,
+      "bothType" : true
+    }, {
+      "id" : 3620,
+      "name" : "傀儡王妃：不上君王榻",
+      "updateStatus" : 1,
+      "distance" : 7801,
+      "memberId" : 4229,
+      "bothType" : false
+    }, {
+      "id" : 3397,
+      "name" : "红颜祸水：皇后潜潜水",
+      "updateStatus" : 1,
+      "distance" : 6185,
+      "memberId" : 7883,
+      "bothType" : false
+    }, {
+      "id" : 3312,
+      "name" : "回祎录",
+      "updateStatus" : 1,
+      "distance" : 6633,
+      "memberId" : 2386,
+      "bothType" : true
+    }, {
+      "id" : 2688,
+      "name" : "疼痛青春：那夏离殇",
+      "updateStatus" : 1,
+      "distance" : 3987,
+      "memberId" : 7636,
+      "bothType" : false
+    }, {
+      "id" : 2823,
+      "name" : "情结若楚",
+      "updateStatus" : 1,
+      "distance" : 8134,
+      "memberId" : 1071,
+      "bothType" : false
+    }, {
+      "id" : 2623,
+      "name" : "寻爱之雨过天晴",
+      "updateStatus" : 1,
+      "distance" : 1418,
+      "memberId" : 1448,
+      "bothType" : false
+    }, {
+      "id" : 2493,
+      "name" : "救个男友回家过关",
+      "updateStatus" : 1,
+      "distance" : 4863,
+      "memberId" : 5491,
+      "bothType" : false
+    }, {
+      "id" : 2563,
+      "name" : "妖妻毒后",
+      "updateStatus" : 1,
+      "distance" : 2406,
+      "memberId" : 2810,
+      "bothType" : true
+    }, {
+      "id" : 2767,
+      "name" : "美人目",
+      "updateStatus" : 1,
+      "distance" : 6105,
+      "memberId" : 7967,
+      "bothType" : true
+    }, {
+      "id" : 2117,
+      "name" : "天道魔情",
+      "updateStatus" : 1,
+      "distance" : 1314,
+      "memberId" : 8389,
+      "bothType" : false
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容",
       "updateStatus" : 1,
       "capacity" : 2605777,
-      "readerCount" : 17072
+      "readerCount" : 17072,
+      "bothType" : true
     }, {
       "id" : 3016,
       "name" : "再见，宝贝",
@@ -20,7 +21,8 @@
       "summary" : "我们用唯一给彼此的爱加冕生离死别仅为形式只要还爱着身边的位置永远为你而空宝贝，有一天当你看过世界，再",
       "updateStatus" : 1,
       "capacity" : 7382041,
-      "readerCount" : 17069
+      "readerCount" : 17069,
+      "bothType" : false
     }, {
       "id" : 2321,
       "name" : "梦呓熙殇",
@@ -28,7 +30,8 @@
       "summary" : "一段前世未了的尘缘，尽在穿越后有了不一样的故事，陈伊落又名南宫渃熙：一生为爱而活，为人善良心软，是一",
       "updateStatus" : 1,
       "capacity" : 5146740,
-      "readerCount" : 17029
+      "readerCount" : 17029,
+      "bothType" : false
     }, {
       "id" : 2379,
       "name" : "观众也难做",
@@ -36,7 +39,8 @@
       "summary" : "我不是玛丽苏，不是汤姆苏，没有什么远大志向，也不想让很多认为我疯狂，为我痴颠，我只是个普通人，不想陪",
       "updateStatus" : 1,
       "capacity" : 1530448,
-      "readerCount" : 17028
+      "readerCount" : 17028,
+      "bothType" : false
     }, {
       "id" : 2689,
       "name" : "穿越之歌月徘徊",
@@ -44,7 +48,8 @@
       "summary" : "因碧玉手镯穿越到天陆王朝，她结识命中注定的人，亲情，爱情，友情，她步步惊心，然而命运之所以神奇，在于",
       "updateStatus" : 1,
       "capacity" : 2681793,
-      "readerCount" : 17013
+      "readerCount" : 17013,
+      "bothType" : false
     }, {
       "id" : 2874,
       "name" : "逆天之女：冷清太子的专属温柔",
@@ -52,7 +57,8 @@
       "summary" : "她，一心专研中医，有父母无父母没多大区别。她，三岁，失去母亲，从此，无人问津，庶母抢走原本属于她的一",
       "updateStatus" : 1,
       "capacity" : 2729053,
-      "readerCount" : 16964
+      "readerCount" : 16964,
+      "bothType" : false
     }, {
       "id" : 2640,
       "name" : "都市高手之黑道霸主",
@@ -60,7 +66,8 @@
       "summary" : "一个普通的司机，究竟经历了怎么样的奇遇，得到了怎样的能力，又如何称霸地下王国，又如何打造庞……",
       "updateStatus" : 1,
       "capacity" : 5116138,
-      "readerCount" : 16958
+      "readerCount" : 16958,
+      "bothType" : false
     }, {
       "id" : 2733,
       "name" : "静水寒：萌女穿越记",
@@ -68,7 +75,8 @@
       "summary" : "他还没走呀，漓鸳大大的舒了口气，喜滋滋的走了进去。桑语疑惑的瞅着她，在君上生气的日子里，实在是不懂喜",
       "updateStatus" : 1,
       "capacity" : 7258348,
-      "readerCount" : 16942
+      "readerCount" : 16942,
+      "bothType" : false
     }, {
       "id" : 2416,
       "name" : "临时情人",
@@ -76,7 +84,8 @@
       "summary" : "吴峰在一次不慎的事件中遭到了陷阱，在好友王鹏的帮助下这些设置陷阱的人物逐渐浮出水面，在这段时间之中，",
       "updateStatus" : 2,
       "capacity" : 2326645,
-      "readerCount" : 16932
+      "readerCount" : 16932,
+      "bothType" : false
     }, {
       "id" : 2528,
       "name" : "那些摩挲流年的温暖",
@@ -84,7 +93,8 @@
       "summary" : "有人说：“爱，是一场劫难，我们注定在劫难逃......”乔若宁站在爱情的三岔路口,一脸茫然:那个一手",
       "updateStatus" : 1,
       "capacity" : 3843058,
-      "readerCount" : 16927
+      "readerCount" : 16927,
+      "bothType" : false
     }, {
       "id" : 2277,
       "name" : "水控苍穹",
@@ -92,7 +102,8 @@
       "summary" : "爽文阅读，经历海上掠食者的恩怨情仇！热血搏浪，奔赴气势恢宏的海战！快乐品鉴，反思历史转折点的大明海权",
       "updateStatus" : 1,
       "capacity" : 9574730,
-      "readerCount" : 16892
+      "readerCount" : 16892,
+      "bothType" : false
     }, {
       "id" : 2601,
       "name" : "倾城馨少桃花多",
@@ -100,7 +111,8 @@
       "summary" : "前世她是全球第一公司——雨薇公司的董事长——君月馨，更是杀手阁‘炼狱紫碟’的阁主——蝶，却不料，玩游",
       "updateStatus" : 2,
       "capacity" : 9633766,
-      "readerCount" : 16881
+      "readerCount" : 16881,
+      "bothType" : false
     }, {
       "id" : 2641,
       "name" : "倾城归来",
@@ -108,7 +120,8 @@
       "summary" : "当时年少，不懂得好好珍惜，错过了许多。后来，他承诺说，“我要给你幸福。”她含着泪答应着。可他却因为家",
       "updateStatus" : 1,
       "capacity" : 6820119,
-      "readerCount" : 16835
+      "readerCount" : 16835,
+      "bothType" : true
     }, {
       "id" : 2152,
       "name" : "九转轮回诀",
@@ -116,7 +129,8 @@
       "summary" : "轮回，一回生，一回死。彼岸花开，万物枯萎。弱水不定，奈何不稳。道生一，一生二，二生三，三生万物，万物",
       "updateStatus" : 1,
       "capacity" : 5889122,
-      "readerCount" : 16807
+      "readerCount" : 16807,
+      "bothType" : false
     }, {
       "id" : 3037,
       "name" : "简单的幸福",
@@ -124,7 +138,8 @@
       "summary" : "有人说：在错的时间遇到对的人是一声叹息;在错的时间遇到错的人是一世荒唐;在对的时间遇到错的人是一场心",
       "updateStatus" : 1,
       "capacity" : 3880202,
-      "readerCount" : 16783
+      "readerCount" : 16783,
+      "bothType" : true
     }, {
       "id" : 2385,
       "name" : "换魂锁爱：小白掠爱冷总裁",
@@ -132,7 +147,8 @@
       "summary" : "【相认片段曝光】“你、你要干嘛？不许看！啊！”“为什么叫？你上上下下、里里外外、是人是鬼早都被我看光",
       "updateStatus" : 2,
       "capacity" : 1365718,
-      "readerCount" : 16754
+      "readerCount" : 16754,
+      "bothType" : false
     }, {
       "id" : 2545,
       "name" : "宠妻无敌：扑倒豪门总裁",
@@ -140,7 +156,8 @@
       "summary" : "她背叛姐妹，无恶不赦。他背叛她，理所应当。她被冬雨淋得乱七八糟，又哭得稀里哗啦，砸了戒指喂鱼，脑袋耷",
       "updateStatus" : 2,
       "capacity" : 9083756,
-      "readerCount" : 16742
+      "readerCount" : 16742,
+      "bothType" : false
     }, {
       "id" : 2826,
       "name" : "沐晴只到梨花薄",
@@ -148,7 +165,8 @@
       "summary" : "她，成熟稳重却又可爱果敢，当那个男人把喝醉酒的她独自扔下，以至于她差点被人强暴。醒来后的她就说了一句",
       "updateStatus" : 1,
       "capacity" : 5287276,
-      "readerCount" : 16732
+      "readerCount" : 16732,
+      "bothType" : false
     }, {
       "id" : 2479,
       "name" : "诡音：楼上的高跟鞋",
@@ -156,7 +174,8 @@
       "summary" : "“姑娘，你每天晚上都回来这么晚啊？一个人多不安全啊！”“习惯了...”只是三个字却让刘高轩一阵颤栗.",
       "updateStatus" : 1,
       "capacity" : 9582940,
-      "readerCount" : 16710
+      "readerCount" : 16710,
+      "bothType" : false
     }, {
       "id" : 2048,
       "name" : "嗜血毒妃虐红尘",
@@ -164,7 +183,8 @@
       "summary" : "前世——她是没落贵族千金，一朝梦碎，他弃之；千秋梦断、魂陨孤崖，残生永不相见。今生——她是嗜血妖孽，",
       "updateStatus" : 1,
       "capacity" : 6784023,
-      "readerCount" : 16708
+      "readerCount" : 16708,
+      "bothType" : false
     } ]
   }
 }

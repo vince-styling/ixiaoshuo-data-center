@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2089,
-      "name" : "旷世奇恋",
-      "updateStatus" : 1,
-      "distance" : 9205,
-      "memberId" : 6793
-    }, {
-      "id" : 2789,
-      "name" : "男人心事",
-      "updateStatus" : 1,
-      "distance" : 7455,
-      "memberId" : 7144
-    }, {
-      "id" : 2114,
-      "name" : "未婚妈妈，首席太霸道",
+      "id" : 2765,
+      "name" : "以年少当歌",
       "updateStatus" : 2,
-      "distance" : 4252,
-      "memberId" : 8245
+      "distance" : 5667,
+      "memberId" : 8030,
+      "bothType" : false
     }, {
-      "id" : 2763,
-      "name" : "医暖天下",
+      "id" : 2732,
+      "name" : "至死不渝之搞怪王妃",
       "updateStatus" : 1,
-      "distance" : 5098,
-      "memberId" : 5745
-    }, {
-      "id" : 2837,
-      "name" : "临清一梦",
-      "updateStatus" : 1,
-      "distance" : 9275,
-      "memberId" : 7441
-    }, {
-      "id" : 3625,
-      "name" : "另类契约：爱上你，我的星座王子！",
-      "updateStatus" : 1,
-      "distance" : 9735,
-      "memberId" : 8746
-    }, {
-      "id" : 2620,
-      "name" : "CF之黑马突起",
-      "updateStatus" : 1,
-      "distance" : 7024,
-      "memberId" : 8407
-    }, {
-      "id" : 2140,
-      "name" : "傲剑江湖",
-      "updateStatus" : 1,
-      "distance" : 7646,
-      "memberId" : 3618
-    }, {
-      "id" : 3237,
-      "name" : "千面狂妃",
-      "updateStatus" : 1,
-      "distance" : 9726,
-      "memberId" : 1447
+      "distance" : 4674,
+      "memberId" : 3810,
+      "bothType" : false
     }, {
       "id" : 3527,
       "name" : "审判之众神时代",
       "updateStatus" : 1,
-      "distance" : 4361,
-      "memberId" : 4878
+      "distance" : 1607,
+      "memberId" : 5032,
+      "bothType" : false
     }, {
-      "id" : 3054,
-      "name" : "宫：殇世绝恋",
+      "id" : 2618,
+      "name" : "半夏如风",
       "updateStatus" : 1,
-      "distance" : 3718,
-      "memberId" : 3073
+      "distance" : 9079,
+      "memberId" : 1369,
+      "bothType" : false
     }, {
-      "id" : 2454,
-      "name" : "山村女鬼",
+      "id" : 2050,
+      "name" : "那些纯纯的爱恋",
       "updateStatus" : 1,
-      "distance" : 2500,
-      "memberId" : 4532
+      "distance" : 1985,
+      "memberId" : 7278,
+      "bothType" : false
     }, {
-      "id" : 2479,
-      "name" : "诡音：楼上的高跟鞋",
+      "id" : 3397,
+      "name" : "红颜祸水：皇后潜潜水",
       "updateStatus" : 1,
-      "distance" : 3516,
-      "memberId" : 7135
+      "distance" : 3743,
+      "memberId" : 2330,
+      "bothType" : true
     }, {
-      "id" : 2342,
-      "name" : "吸血鬼寻爱",
+      "id" : 2724,
+      "name" : "陌路：琴音",
       "updateStatus" : 1,
-      "distance" : 5842,
-      "memberId" : 2880
+      "distance" : 9519,
+      "memberId" : 1351,
+      "bothType" : true
     }, {
-      "id" : 3182,
-      "name" : "卿卿陌上桑",
+      "id" : 3493,
+      "name" : "此时四季",
       "updateStatus" : 1,
-      "distance" : 4037,
-      "memberId" : 5988
+      "distance" : 4544,
+      "memberId" : 5008,
+      "bothType" : false
     }, {
-      "id" : 2937,
-      "name" : "致命蔷薇FatalRose",
-      "updateStatus" : 1,
-      "distance" : 3646,
-      "memberId" : 7606
+      "id" : 2197,
+      "name" : "血色蔓延之守护者",
+      "updateStatus" : 2,
+      "distance" : 9706,
+      "memberId" : 7876,
+      "bothType" : false
     }, {
-      "id" : 2681,
-      "name" : "巅峰之我为帝王",
+      "id" : 3554,
+      "name" : "萧索感心俱是梦",
       "updateStatus" : 1,
-      "distance" : 9725,
-      "memberId" : 3323
+      "distance" : 9052,
+      "memberId" : 4500,
+      "bothType" : false
     }, {
-      "id" : 3358,
-      "name" : "败家小姐炫情",
+      "id" : 2800,
+      "name" : "唐明媚",
       "updateStatus" : 1,
-      "distance" : 9836,
-      "memberId" : 6025
+      "distance" : 5649,
+      "memberId" : 6431,
+      "bothType" : false
     }, {
-      "id" : 3541,
-      "name" : "菁色慕流年",
+      "id" : 3284,
+      "name" : "相公，本姑娘这厢有礼了",
       "updateStatus" : 1,
-      "distance" : 1899,
-      "memberId" : 5269
+      "distance" : 5188,
+      "memberId" : 1832,
+      "bothType" : true
     }, {
-      "id" : 3041,
-      "name" : "宠色无边：青楼妖妃太难逑",
+      "id" : 3370,
+      "name" : "唯妃做歹：帝后来看戏",
       "updateStatus" : 1,
-      "distance" : 1082,
-      "memberId" : 2421
+      "distance" : 3851,
+      "memberId" : 2032,
+      "bothType" : false
+    }, {
+      "id" : 2741,
+      "name" : "三生回眸间，一念成魔时",
+      "updateStatus" : 1,
+      "distance" : 4529,
+      "memberId" : 3909,
+      "bothType" : false
+    }, {
+      "id" : 2968,
+      "name" : "重生之待到记忆镂空时",
+      "updateStatus" : 2,
+      "distance" : 5791,
+      "memberId" : 1428,
+      "bothType" : false
+    }, {
+      "id" : 2128,
+      "name" : "幻莫一世，情殇",
+      "updateStatus" : 1,
+      "distance" : 8574,
+      "memberId" : 1799,
+      "bothType" : false
+    }, {
+      "id" : 3187,
+      "name" : "好大的缘分呐！",
+      "updateStatus" : 1,
+      "distance" : 6463,
+      "memberId" : 6090,
+      "bothType" : false
+    }, {
+      "id" : 2560,
+      "name" : "穿越女尊之桃花朵朵开",
+      "updateStatus" : 1,
+      "distance" : 5138,
+      "memberId" : 6709,
+      "bothType" : false
+    }, {
+      "id" : 2362,
+      "name" : "青春小夜曲",
+      "updateStatus" : 2,
+      "distance" : 7215,
+      "memberId" : 7759,
+      "bothType" : false
+    }, {
+      "id" : 2076,
+      "name" : "灵魂调",
+      "updateStatus" : 1,
+      "distance" : 3244,
+      "memberId" : 3045,
+      "bothType" : false
     } ]
   }
 }

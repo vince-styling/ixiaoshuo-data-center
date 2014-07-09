@@ -12,7 +12,8 @@
       "summary" : "你相信有一种陪伴叫做：虽不在身边，却一直存活在对方心里从未分开吗？我想，我是相信的。--------",
       "updateStatus" : 1,
       "capacity" : 4064205,
-      "readerCount" : 862
+      "readerCount" : 862,
+      "bothType" : false
     }, {
       "id" : 3719,
       "name" : "唯心城的月光",
@@ -20,7 +21,8 @@
       "summary" : "如果青春的盛宴是一场救赎，我们都在以爱的名义为自己祷告。青涩的少年在阳光下用那个画笔描绘着执子之手，",
       "updateStatus" : 1,
       "capacity" : 566770,
-      "readerCount" : 856
+      "readerCount" : 856,
+      "bothType" : false
     }, {
       "id" : 3074,
       "name" : "王子，请把我带回家",
@@ -28,7 +30,8 @@
       "summary" : "韩雅唯，名字温柔而本质却恰恰相反的女生，在爷爷威逼利诱下进入蒂斯学院就读。初进学院就遇到了痴情种高崎",
       "updateStatus" : 1,
       "capacity" : 72805,
-      "readerCount" : 848
+      "readerCount" : 848,
+      "bothType" : false
     }, {
       "id" : 3573,
       "name" : "天使与伪天使的契约",
@@ -36,7 +39,8 @@
       "summary" : "从小生活在两个庞大家族里的两位小姐，却因阴谋而被迫离家。从纯洁无瑕的天使堕落为伪天使。伪天使的复仇！",
       "updateStatus" : 1,
       "capacity" : 181997,
-      "readerCount" : 839
+      "readerCount" : 839,
+      "bothType" : false
     }, {
       "id" : 3064,
       "name" : "再回首灯火阑珊",
@@ -44,7 +48,8 @@
       "summary" : "五年之后的相逢，林小果身边有他，江宇轩只能默默离开，三个人的世界太拥挤。分别的五年，美丽能干的叶溪一",
       "updateStatus" : 1,
       "capacity" : 769654,
-      "readerCount" : 830
+      "readerCount" : 830,
+      "bothType" : true
     }, {
       "id" : 3400,
       "name" : "天使的诠释：幸福就是遇见你",
@@ -52,7 +57,8 @@
       "summary" : "季千泽，被我盯上，算你倒霉。这到底是场游戏，还是一场精心策划的骗局？当天使堕落那一刻，就注定了最后的",
       "updateStatus" : 1,
       "capacity" : 149264,
-      "readerCount" : 816
+      "readerCount" : 816,
+      "bothType" : false
     }, {
       "id" : 3137,
       "name" : "只要你还在这里",
@@ -60,7 +66,8 @@
       "summary" : "十七岁那年，沈音在苏樊的婚礼上第一次见到即将成为自己哥哥的苏樊，只一眼，就注定了两人后来无休止相缠的",
       "updateStatus" : 1,
       "capacity" : 217084,
-      "readerCount" : 790
+      "readerCount" : 790,
+      "bothType" : true
     }, {
       "id" : 3410,
       "name" : "窈窕佳人",
@@ -68,7 +75,8 @@
       "summary" : "主要人物：百里君陌、世慕卿、宫瑾轩、顾安浅、楼长歌、苏心瑜内容简介：正可谓“窈窕淑女，君子好逑”，此",
       "updateStatus" : 1,
       "capacity" : 150174,
-      "readerCount" : 787
+      "readerCount" : 787,
+      "bothType" : false
     }, {
       "id" : 2122,
       "name" : "毒药的诱惑",
@@ -76,7 +84,8 @@
       "summary" : "五年前，蓝櫻柠偷偷怀着男人的骨肉离开了这个令她痛苦绝望的城市。五年后，当她再次回到那个伤心城市偶遇男",
       "updateStatus" : 1,
       "capacity" : 4817949,
-      "readerCount" : 781
+      "readerCount" : 781,
+      "bothType" : false
     }, {
       "id" : 3532,
       "name" : "剥皮再吃更美味",
@@ -84,7 +93,8 @@
       "summary" : "肖晓莉其人，外号栗子，敢爱敢恨有点神经质，外加点猥琐八卦的特质，外表再好估计也是掩盖不掉那哪壶不开提",
       "updateStatus" : 1,
       "capacity" : 320955,
-      "readerCount" : 778
+      "readerCount" : 778,
+      "bothType" : false
     }, {
       "id" : 3191,
       "name" : "没有一个女孩不美丽",
@@ -92,7 +102,8 @@
       "summary" : "女孩，还记得，你的生命是从什么时候开始美丽的吗？“如果是朋友，就陪着我一起死！”凌雪将一盒安眠药扔了",
       "updateStatus" : 1,
       "capacity" : 205896,
-      "readerCount" : 763
+      "readerCount" : 763,
+      "bothType" : false
     }, {
       "id" : 3610,
       "name" : "或许本就不该相爱",
@@ -100,7 +111,8 @@
       "summary" : "如果我爱你是个错，那么你还会爱上我吗？",
       "updateStatus" : 1,
       "capacity" : 107813,
-      "readerCount" : 762
+      "readerCount" : 762,
+      "bothType" : true
     }, {
       "id" : 3463,
       "name" : "巴洛克爱情",
@@ -108,7 +120,8 @@
       "summary" : "未知的未来，一场“攻心”比赛是否说出的是实话，还是为了掩饰的谎言，或是保护对方的密语校园中的任务，男",
       "updateStatus" : 1,
       "capacity" : 53910,
-      "readerCount" : 754
+      "readerCount" : 754,
+      "bothType" : false
     }, {
       "id" : 3281,
       "name" : "烈火柔情",
@@ -116,7 +129,8 @@
       "summary" : "遭遇了个无赖，还是个厚脸皮的，我惹不起你我躲你还不成？“我想认识你啊。”一句我想认识你，她的生活从此",
       "updateStatus" : 1,
       "capacity" : 206473,
-      "readerCount" : 753
+      "readerCount" : 753,
+      "bothType" : false
     }, {
       "id" : 2758,
       "name" : "前世、今生“他和它”",
@@ -124,7 +138,8 @@
       "summary" : "范晓豆，一个天天迷糊，不食人间烟火的人。前世他和她是一对爱的死去活来鸳鸯，一个是漂亮聪慧的王室贵族，",
       "updateStatus" : 1,
       "capacity" : 4837716,
-      "readerCount" : 751
+      "readerCount" : 751,
+      "bothType" : false
     }, {
       "id" : 2759,
       "name" : "若无君，何来月",
@@ -132,7 +147,8 @@
       "summary" : "我不想长大，只是不想离开你。我憎恨长大的自己，因为她让我失去了你。杜子君，谢谢你把我当成小野猫一样领",
       "updateStatus" : 1,
       "capacity" : 3635588,
-      "readerCount" : 702
+      "readerCount" : 702,
+      "bothType" : true
     }, {
       "id" : 3141,
       "name" : "天上掉下个林妹妹",
@@ -140,7 +156,8 @@
       "summary" : "‘陆哥哥，我们永远在一起好不好’一个少年仰着头问另一个比他高了不少的少年。高个的少年拍了拍小少年脑袋",
       "updateStatus" : 1,
       "capacity" : 12837,
-      "readerCount" : 693
+      "readerCount" : 693,
+      "bothType" : false
     }, {
       "id" : 3145,
       "name" : "在云彼端",
@@ -148,7 +165,8 @@
       "summary" : "天空阴暗，背影，单薄，苍凉，孤寂。风吹得她黑色的衣袖措措作响，仿佛在世界尽头，她身上有种与生俱来的黑",
       "updateStatus" : 1,
       "capacity" : 95384,
-      "readerCount" : 689
+      "readerCount" : 689,
+      "bothType" : true
     }, {
       "id" : 3454,
       "name" : "初心",
@@ -156,7 +174,8 @@
       "summary" : "在物欲横流的社会中，我们都忽视了自己最初想要的东西李初心生活在这个时代，被仇恨和自己的执念所蒙蔽，她",
       "updateStatus" : 1,
       "capacity" : 94514,
-      "readerCount" : 689
+      "readerCount" : 689,
+      "bothType" : false
     }, {
       "id" : 2938,
       "name" : "你的眸底映着我的温柔",
@@ -164,7 +183,8 @@
       "summary" : "这只是一个单纯的故事，只是想讲述一个叫青青的女子跟一个叫云希的男人的故事。付云希对江念青说：“不管你",
       "updateStatus" : 1,
       "capacity" : 4775928,
-      "readerCount" : 687
+      "readerCount" : 687,
+      "bothType" : true
     } ]
   }
 }

@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3490,
-      "name" : "舍友是公主大人",
+      "id" : 3154,
+      "name" : "体弱多病的魔法师",
       "updateStatus" : 1,
-      "distance" : 1777,
-      "memberId" : 7374
+      "distance" : 812,
+      "memberId" : 3370,
+      "bothType" : true
     }, {
-      "id" : 2762,
-      "name" : "笛吟，离殇 ",
+      "id" : 2966,
+      "name" : "乱世桃花",
       "updateStatus" : 1,
-      "distance" : 6593,
-      "memberId" : 8817
+      "distance" : 4696,
+      "memberId" : 6488,
+      "bothType" : true
     }, {
-      "id" : 3702,
-      "name" : "生生羁绊",
+      "id" : 2647,
+      "name" : "冷少巧追豪门俏千金",
       "updateStatus" : 1,
-      "distance" : 3396,
-      "memberId" : 6082
+      "distance" : 6106,
+      "memberId" : 7009,
+      "bothType" : false
     }, {
-      "id" : 2104,
-      "name" : "那一世红莲雨",
+      "id" : 3401,
+      "name" : "狂2",
       "updateStatus" : 1,
-      "distance" : 1374,
-      "memberId" : 6211
+      "distance" : 4042,
+      "memberId" : 1466,
+      "bothType" : false
     }, {
-      "id" : 3636,
-      "name" : "被抛弃的星球",
+      "id" : 3215,
+      "name" : "成长的影子",
       "updateStatus" : 1,
-      "distance" : 9802,
-      "memberId" : 1447
+      "distance" : 579,
+      "memberId" : 2896,
+      "bothType" : false
     }, {
-      "id" : 3423,
-      "name" : "其叶沃若",
+      "id" : 2238,
+      "name" : "白发皇后：本宫不倾城",
       "updateStatus" : 1,
-      "distance" : 7689,
-      "memberId" : 7550
+      "distance" : 8390,
+      "memberId" : 6032,
+      "bothType" : false
     }, {
-      "id" : 2455,
-      "name" : "孤子",
+      "id" : 2578,
+      "name" : "毕业不分手",
       "updateStatus" : 1,
-      "distance" : 3708,
-      "memberId" : 1340
+      "distance" : 904,
+      "memberId" : 5622,
+      "bothType" : true
     }, {
-      "id" : 2151,
-      "name" : "缘来是我们",
+      "id" : 2943,
+      "name" : "落凰",
       "updateStatus" : 1,
-      "distance" : 3780,
-      "memberId" : 1823
+      "distance" : 3350,
+      "memberId" : 6696,
+      "bothType" : false
     }, {
-      "id" : 2313,
-      "name" : "囧冠天下",
+      "id" : 2825,
+      "name" : "相守时光中",
       "updateStatus" : 1,
-      "distance" : 4302,
-      "memberId" : 5006
+      "distance" : 7167,
+      "memberId" : 1194,
+      "bothType" : false
     }, {
-      "id" : 3337,
-      "name" : "旋转的漩涡",
+      "id" : 3162,
+      "name" : "真龙天下：倾世侠妃",
       "updateStatus" : 1,
-      "distance" : 4660,
-      "memberId" : 6923
+      "distance" : 3220,
+      "memberId" : 7790,
+      "bothType" : false
     }, {
-      "id" : 3208,
-      "name" : "冥铭之国",
+      "id" : 3213,
+      "name" : "光华琉璃只为一笑",
       "updateStatus" : 1,
-      "distance" : 5343,
-      "memberId" : 8416
+      "distance" : 3791,
+      "memberId" : 2084,
+      "bothType" : true
     }, {
-      "id" : 2612,
-      "name" : "女汉子成长史",
+      "id" : 2780,
+      "name" : "人生的旅途",
       "updateStatus" : 1,
-      "distance" : 9706,
-      "memberId" : 3005
+      "distance" : 7131,
+      "memberId" : 4481,
+      "bothType" : true
     }, {
-      "id" : 2774,
-      "name" : "穿越之农家女初长成",
+      "id" : 3234,
+      "name" : "死神通法三部曲",
       "updateStatus" : 1,
-      "distance" : 2421,
-      "memberId" : 4053
+      "distance" : 6584,
+      "memberId" : 4357,
+      "bothType" : false
     }, {
-      "id" : 2620,
-      "name" : "CF之黑马突起",
-      "updateStatus" : 1,
-      "distance" : 3093,
-      "memberId" : 5659
+      "id" : 2373,
+      "name" : "小子们，上课请勿搞基",
+      "updateStatus" : 2,
+      "distance" : 4399,
+      "memberId" : 3800,
+      "bothType" : false
     }, {
-      "id" : 3214,
-      "name" : "穿越之妖精的尾巴",
+      "id" : 3129,
+      "name" : "（秦时+火影）滚来滚去滚成圆",
       "updateStatus" : 1,
-      "distance" : 766,
-      "memberId" : 1900
+      "distance" : 9278,
+      "memberId" : 7755,
+      "bothType" : false
     }, {
-      "id" : 2208,
-      "name" : "定为君妻",
+      "id" : 2202,
+      "name" : "妖精张华的回忆录",
       "updateStatus" : 1,
-      "distance" : 5536,
-      "memberId" : 1768
+      "distance" : 9755,
+      "memberId" : 4349,
+      "bothType" : false
     }, {
-      "id" : 2967,
-      "name" : "渐爱，深爱",
+      "id" : 2869,
+      "name" : "穿越之美人太冷",
       "updateStatus" : 1,
-      "distance" : 7091,
-      "memberId" : 3202
+      "distance" : 5859,
+      "memberId" : 3289,
+      "bothType" : false
     }, {
-      "id" : 2580,
-      "name" : "琉璃碎",
+      "id" : 3142,
+      "name" : "重生女帝之桃花袭来",
       "updateStatus" : 1,
-      "distance" : 9042,
-      "memberId" : 1834
+      "distance" : 9345,
+      "memberId" : 6215,
+      "bothType" : false
     }, {
-      "id" : 2342,
-      "name" : "吸血鬼寻爱",
+      "id" : 3290,
+      "name" : "婚然厚爱",
       "updateStatus" : 1,
-      "distance" : 2724,
-      "memberId" : 1545
+      "distance" : 1431,
+      "memberId" : 4854,
+      "bothType" : true
     }, {
-      "id" : 2704,
-      "name" : "幻世至秘",
+      "id" : 3043,
+      "name" : "遇见安好",
       "updateStatus" : 1,
-      "distance" : 1416,
-      "memberId" : 3668
+      "distance" : 5106,
+      "memberId" : 3645,
+      "bothType" : false
     } ]
   }
 }

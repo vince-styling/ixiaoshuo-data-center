@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2561,
-      "name" : "墨上清歌",
+      "id" : 2430,
+      "name" : "一场梦如痴如醉",
       "updateStatus" : 1,
-      "distance" : 2320,
-      "memberId" : 4188
+      "distance" : 5226,
+      "memberId" : 8273,
+      "bothType" : false
     }, {
-      "id" : 2408,
-      "name" : "皮卡光的求婚大作战",
+      "id" : 3525,
+      "name" : "枯时花笑",
       "updateStatus" : 1,
-      "distance" : 8827,
-      "memberId" : 7821
+      "distance" : 6967,
+      "memberId" : 6195,
+      "bothType" : false
     }, {
-      "id" : 3615,
-      "name" : "耀星",
+      "id" : 3437,
+      "name" : "北方有佳人",
       "updateStatus" : 1,
-      "distance" : 2462,
-      "memberId" : 7278
+      "distance" : 9659,
+      "memberId" : 4289,
+      "bothType" : false
     }, {
-      "id" : 3378,
-      "name" : "popular天使",
+      "id" : 2543,
+      "name" : "异人魔兽情缘游",
       "updateStatus" : 1,
-      "distance" : 8765,
-      "memberId" : 8787
+      "distance" : 3938,
+      "memberId" : 6139,
+      "bothType" : false
     }, {
-      "id" : 3576,
-      "name" : "何故弦断梦",
+      "id" : 3646,
+      "name" : "在最美的季节相遇",
       "updateStatus" : 1,
-      "distance" : 935,
-      "memberId" : 2908
+      "distance" : 3709,
+      "memberId" : 8817,
+      "bothType" : false
     }, {
-      "id" : 3594,
-      "name" : "浮生梦",
+      "id" : 3614,
+      "name" : "二八不婚",
       "updateStatus" : 1,
-      "distance" : 1264,
-      "memberId" : 5348
+      "distance" : 934,
+      "memberId" : 2716,
+      "bothType" : false
     }, {
-      "id" : 3451,
-      "name" : "屠花影",
+      "id" : 2278,
+      "name" : "美人狂：探囊取天下",
       "updateStatus" : 1,
-      "distance" : 1726,
-      "memberId" : 4787
+      "distance" : 5991,
+      "memberId" : 5991,
+      "bothType" : false
     }, {
-      "id" : 2586,
-      "name" : "半面仙",
+      "id" : 2344,
+      "name" : "枫林残恋",
       "updateStatus" : 1,
-      "distance" : 7333,
-      "memberId" : 7412
+      "distance" : 787,
+      "memberId" : 5212,
+      "bothType" : false
     }, {
-      "id" : 2743,
-      "name" : "青羽记",
+      "id" : 2342,
+      "name" : "吸血鬼寻爱",
       "updateStatus" : 1,
-      "distance" : 5273,
-      "memberId" : 5974
+      "distance" : 1981,
+      "memberId" : 3362,
+      "bothType" : false
     }, {
-      "id" : 2482,
-      "name" : "末世竞逐",
+      "id" : 2619,
+      "name" : "天价蓝颜",
       "updateStatus" : 1,
-      "distance" : 6445,
-      "memberId" : 1094
+      "distance" : 3538,
+      "memberId" : 2372,
+      "bothType" : false
     }, {
-      "id" : 2936,
-      "name" : "谁言依雪泪墨池",
+      "id" : 3267,
+      "name" : "穿越之花本纯粹",
       "updateStatus" : 1,
-      "distance" : 9762,
-      "memberId" : 2717
+      "distance" : 2464,
+      "memberId" : 4569,
+      "bothType" : false
     }, {
-      "id" : 3158,
-      "name" : "敕勒风云",
+      "id" : 3000,
+      "name" : "陪君共此生",
       "updateStatus" : 1,
-      "distance" : 9171,
-      "memberId" : 4786
+      "distance" : 7098,
+      "memberId" : 5665,
+      "bothType" : false
     }, {
-      "id" : 2140,
-      "name" : "傲剑江湖",
-      "updateStatus" : 1,
-      "distance" : 4102,
-      "memberId" : 4969
+      "id" : 3591,
+      "name" : "小羊别闹，来吃草",
+      "updateStatus" : 2,
+      "distance" : 6046,
+      "memberId" : 2046,
+      "bothType" : false
     }, {
-      "id" : 2919,
-      "name" : "柚子",
+      "id" : 2321,
+      "name" : "梦呓熙殇",
       "updateStatus" : 1,
-      "distance" : 3037,
-      "memberId" : 8712
+      "distance" : 6829,
+      "memberId" : 7361,
+      "bothType" : false
     }, {
-      "id" : 3482,
-      "name" : "迷失并盛",
+      "id" : 2567,
+      "name" : "可可不悲伤",
       "updateStatus" : 1,
-      "distance" : 7041,
-      "memberId" : 7830
+      "distance" : 3462,
+      "memberId" : 6754,
+      "bothType" : true
     }, {
-      "id" : 3659,
-      "name" : "回头，爱还在原地等你",
-      "updateStatus" : 1,
-      "distance" : 1168,
-      "memberId" : 7528
+      "id" : 2162,
+      "name" : "琴之飞絮",
+      "updateStatus" : 2,
+      "distance" : 3528,
+      "memberId" : 8084,
+      "bothType" : false
     }, {
-      "id" : 2411,
-      "name" : "护理实验室的故事",
-      "updateStatus" : 1,
-      "distance" : 3698,
-      "memberId" : 5405
+      "id" : 2388,
+      "name" : "倾世执着",
+      "updateStatus" : 2,
+      "distance" : 8957,
+      "memberId" : 1358,
+      "bothType" : false
     }, {
-      "id" : 2364,
-      "name" : "双城——消隐的传奇",
+      "id" : 3271,
+      "name" : "折景年",
       "updateStatus" : 1,
-      "distance" : 7663,
-      "memberId" : 4972
+      "distance" : 565,
+      "memberId" : 7083,
+      "bothType" : true
     }, {
-      "id" : 2768,
-      "name" : "军校女王：夺心天才战神",
+      "id" : 3489,
+      "name" : "夜色如昨",
       "updateStatus" : 1,
-      "distance" : 2785,
-      "memberId" : 2102
+      "distance" : 1763,
+      "memberId" : 8988,
+      "bothType" : false
     }, {
-      "id" : 3131,
-      "name" : "天神印记",
+      "id" : 2502,
+      "name" : "古剑奇谭之浮生执念",
       "updateStatus" : 1,
-      "distance" : 1477,
-      "memberId" : 5152
+      "distance" : 6517,
+      "memberId" : 3304,
+      "bothType" : false
     } ]
   }
 }

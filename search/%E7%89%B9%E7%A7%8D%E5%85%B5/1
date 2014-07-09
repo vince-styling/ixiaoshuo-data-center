@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 9443890,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2492,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "同人其他",
       "capacity" : 2095335,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2707,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 4038073,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2642,
@@ -40,6 +43,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 3480178,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

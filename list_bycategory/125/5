@@ -12,7 +12,8 @@
       "summary" : "重生的我已经不是拥有亿万身家的富家小姐也不是那个深爱自己父亲的卑微女孩我是云深一个只有19岁的少年一",
       "updateStatus" : 1,
       "capacity" : 132800,
-      "readerCount" : 511
+      "readerCount" : 511,
+      "bothType" : true
     }, {
       "id" : 3512,
       "name" : "朱颜修仙记",
@@ -20,7 +21,8 @@
       "summary" : "现代大学生失足落山穿到了修仙世界成了被抛弃的小婴儿被不负责任的师爹捡回了山门，从此过上了修三代的美好",
       "updateStatus" : 1,
       "capacity" : 275265,
-      "readerCount" : 384
+      "readerCount" : 384,
+      "bothType" : false
     }, {
       "id" : 2165,
       "name" : "擒猪不力：索爱腹黑仙君",
@@ -28,7 +30,8 @@
       "summary" : "从前她是呆子，情窦初开时，被人设计而死。后来她是软柿子，前人的精心设计，让她在死之前方才明白，她爱着",
       "updateStatus" : 2,
       "capacity" : 5570965,
-      "readerCount" : 335
+      "readerCount" : 335,
+      "bothType" : false
     }, {
       "id" : 2169,
       "name" : "诛情冰天",
@@ -36,7 +39,8 @@
       "summary" : "荒凉大漠奏响一曲英雄红颜的挽歌——上邪，我欲与君相知，长命无绝衰。生未同衾，求死同穴，盼得来世续前缘",
       "updateStatus" : 1,
       "capacity" : 8186536,
-      "readerCount" : 327
+      "readerCount" : 327,
+      "bothType" : true
     }, {
       "id" : 3731,
       "name" : "尘心凡念",
@@ -44,7 +48,8 @@
       "summary" : "魔界解封，为阻止魔尊曜炽再度扰乱三界，寻找神人再次封印迫在眉睫。然而于此同时，她在线轴上渐渐苏醒。她",
       "updateStatus" : 1,
       "capacity" : 547515,
-      "readerCount" : 323
+      "readerCount" : 323,
+      "bothType" : true
     }, {
       "id" : 3647,
       "name" : "魔天大传",
@@ -52,7 +57,8 @@
       "summary" : "hjkmf",
       "updateStatus" : 1,
       "capacity" : 68167,
-      "readerCount" : 312
+      "readerCount" : 312,
+      "bothType" : false
     }, {
       "id" : 2167,
       "name" : "妃同寻常：王爷接招吧",
@@ -60,7 +66,8 @@
       "summary" : "缘分到时，冥冥中，总会相聚，他们俩之间的哀怨情仇，是是非非，让他们从此踏入世事的纷争，初遇时，星星闪",
       "updateStatus" : 1,
       "capacity" : 1813891,
-      "readerCount" : 302
+      "readerCount" : 302,
+      "bothType" : false
     }, {
       "id" : 3243,
       "name" : "仙灭混沌",
@@ -68,7 +75,8 @@
       "summary" : "白晨，来自于一个小小村庄，竟被选为天地间最强大的三人之一的关门徒弟。虽有幸能够踏上修仙之路，有神兽守",
       "updateStatus" : 1,
       "capacity" : 747566,
-      "readerCount" : 297
+      "readerCount" : 297,
+      "bothType" : false
     }, {
       "id" : 3472,
       "name" : "遇君劫，弃别离",
@@ -76,7 +84,8 @@
       "summary" : "GB与BL--前世，她被当做叛徒，被自己的师傅送入轮回之中…这一世，她的师傅亲自找上门来，要求自己做",
       "updateStatus" : 1,
       "capacity" : 14430,
-      "readerCount" : 218
+      "readerCount" : 218,
+      "bothType" : false
     }, {
       "id" : 3420,
       "name" : "醉梦三生之一诺倾城",
@@ -84,7 +93,8 @@
       "summary" : "一个醉卧忘川旁，断尽前尘念。一个独饮天涯前，三世终不悔。一世繁华落幕，爱恨成痴皆如过眼烟云，湮没一朝",
       "updateStatus" : 1,
       "capacity" : 22480,
-      "readerCount" : 168
+      "readerCount" : 168,
+      "bothType" : true
     }, {
       "id" : 3505,
       "name" : "月老我很懂爱",
@@ -92,7 +102,8 @@
       "summary" : "月老我很懂爱，天山上有萌小孩。。。堂堂的上仙，怎会变成月老了，我到底干了什么，我自己也不知道。还有人",
       "updateStatus" : 1,
       "capacity" : 75713,
-      "readerCount" : 146
+      "readerCount" : 146,
+      "bothType" : false
     }, {
       "id" : 3385,
       "name" : "修仙之凤舞九天",
@@ -100,7 +111,8 @@
       "summary" : "呵，什么废物体质，明明是修仙圣体，圣灵体质。敢说我是废物，那我就让你们付出代价，让你们看看到底谁才是",
       "updateStatus" : 1,
       "capacity" : 16074,
-      "readerCount" : 116
+      "readerCount" : 116,
+      "bothType" : true
     } ]
   }
 }

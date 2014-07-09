@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3412,
-      "name" : "请在原地等等我",
+      "id" : 2739,
+      "name" : "紫色涅槃",
       "updateStatus" : 1,
-      "distance" : 8055,
-      "memberId" : 6988
+      "distance" : 2497,
+      "memberId" : 6819,
+      "bothType" : true
     }, {
-      "id" : 2075,
-      "name" : "青衣镇",
+      "id" : 3258,
+      "name" : "光阴错，流年破",
       "updateStatus" : 1,
-      "distance" : 1197,
-      "memberId" : 8864
+      "distance" : 3011,
+      "memberId" : 8142,
+      "bothType" : true
     }, {
-      "id" : 2489,
-      "name" : "雪落的声音",
+      "id" : 3647,
+      "name" : "魔天大传",
       "updateStatus" : 1,
-      "distance" : 1778,
-      "memberId" : 1603
+      "distance" : 2693,
+      "memberId" : 4314,
+      "bothType" : true
     }, {
-      "id" : 2629,
-      "name" : "触碰纯白的爱恋",
+      "id" : 2947,
+      "name" : "一路安然",
       "updateStatus" : 1,
-      "distance" : 7610,
-      "memberId" : 3544
+      "distance" : 8606,
+      "memberId" : 2013,
+      "bothType" : false
     }, {
-      "id" : 2967,
-      "name" : "渐爱，深爱",
+      "id" : 3336,
+      "name" : "旷世绝恋：洛水弹琴不谈情",
       "updateStatus" : 1,
-      "distance" : 9871,
-      "memberId" : 3917
+      "distance" : 6052,
+      "memberId" : 2166,
+      "bothType" : true
     }, {
-      "id" : 2170,
-      "name" : "轮回三生劫",
+      "id" : 3046,
+      "name" : "锁魂镜",
       "updateStatus" : 1,
-      "distance" : 9024,
-      "memberId" : 3131
+      "distance" : 8522,
+      "memberId" : 3988,
+      "bothType" : false
     }, {
-      "id" : 3054,
-      "name" : "宫：殇世绝恋",
+      "id" : 2079,
+      "name" : "祸乱天下之南泽有宝",
       "updateStatus" : 1,
-      "distance" : 1804,
-      "memberId" : 5842
+      "distance" : 7622,
+      "memberId" : 7018,
+      "bothType" : false
     }, {
-      "id" : 3697,
-      "name" : "一路有爱陪着亲",
-      "updateStatus" : 1,
-      "distance" : 7127,
-      "memberId" : 2429
-    }, {
-      "id" : 2823,
-      "name" : "情结若楚",
-      "updateStatus" : 1,
-      "distance" : 8155,
-      "memberId" : 3724
-    }, {
-      "id" : 2533,
-      "name" : "泪倾城之梦汐醉",
-      "updateStatus" : 1,
-      "distance" : 4430,
-      "memberId" : 6429
-    }, {
-      "id" : 3658,
-      "name" : "昙花一现，经年不灭",
-      "updateStatus" : 1,
-      "distance" : 7789,
-      "memberId" : 1513
-    }, {
-      "id" : 2560,
-      "name" : "穿越女尊之桃花朵朵开",
-      "updateStatus" : 1,
-      "distance" : 8575,
-      "memberId" : 8253
-    }, {
-      "id" : 2499,
-      "name" : "我在路口等你",
-      "updateStatus" : 1,
-      "distance" : 8843,
-      "memberId" : 3650
-    }, {
-      "id" : 3521,
-      "name" : "总裁很霸道：老婆。你非我莫属",
-      "updateStatus" : 1,
-      "distance" : 615,
-      "memberId" : 8105
-    }, {
-      "id" : 2144,
-      "name" : "英雄道",
+      "id" : 2360,
+      "name" : "梦中情人：前世今生都是孽",
       "updateStatus" : 2,
-      "distance" : 4498,
-      "memberId" : 7052
+      "distance" : 3267,
+      "memberId" : 3300,
+      "bothType" : true
     }, {
-      "id" : 3127,
-      "name" : "重生之轻月浮华",
+      "id" : 3417,
+      "name" : "暮城雪",
+      "updateStatus" : 1,
+      "distance" : 3296,
+      "memberId" : 1376,
+      "bothType" : false
+    }, {
+      "id" : 3458,
+      "name" : "极品女宠王妃",
+      "updateStatus" : 1,
+      "distance" : 9789,
+      "memberId" : 5858,
+      "bothType" : true
+    }, {
+      "id" : 2433,
+      "name" : "诱婚",
+      "updateStatus" : 1,
+      "distance" : 5189,
+      "memberId" : 4613,
+      "bothType" : false
+    }, {
+      "id" : 3274,
+      "name" : "啼笑皆妃之妃比寻常",
+      "updateStatus" : 1,
+      "distance" : 4580,
+      "memberId" : 8493,
+      "bothType" : true
+    }, {
+      "id" : 2911,
+      "name" : "冷酷的无上之皇",
+      "updateStatus" : 1,
+      "distance" : 1962,
+      "memberId" : 7852,
+      "bothType" : false
+    }, {
+      "id" : 3273,
+      "name" : "神医皇后",
+      "updateStatus" : 1,
+      "distance" : 8103,
+      "memberId" : 6561,
+      "bothType" : false
+    }, {
+      "id" : 3312,
+      "name" : "回祎录",
+      "updateStatus" : 1,
+      "distance" : 2054,
+      "memberId" : 1849,
+      "bothType" : false
+    }, {
+      "id" : 2039,
+      "name" : "羊入虎口：皇后，朕劫个色",
       "updateStatus" : 2,
-      "distance" : 3883,
-      "memberId" : 4230
+      "distance" : 3691,
+      "memberId" : 4132,
+      "bothType" : false
     }, {
-      "id" : 3612,
-      "name" : "家殇梦",
+      "id" : 3719,
+      "name" : "唯心城的月光",
       "updateStatus" : 1,
-      "distance" : 8766,
-      "memberId" : 5344
+      "distance" : 3761,
+      "memberId" : 1223,
+      "bothType" : false
     }, {
-      "id" : 2973,
-      "name" : "独占温宠",
-      "updateStatus" : 1,
-      "distance" : 8376,
-      "memberId" : 4733
+      "id" : 2255,
+      "name" : "穿越之我的儿子是弘昼",
+      "updateStatus" : 2,
+      "distance" : 6912,
+      "memberId" : 1255,
+      "bothType" : false
     }, {
-      "id" : 3724,
-      "name" : "白泽之神",
+      "id" : 2952,
+      "name" : "沪城玦恋",
       "updateStatus" : 1,
-      "distance" : 4239,
-      "memberId" : 4485
+      "distance" : 5201,
+      "memberId" : 8789,
+      "bothType" : false
     }, {
-      "id" : 3197,
-      "name" : "暮叶年华",
+      "id" : 3420,
+      "name" : "醉梦三生之一诺倾城",
       "updateStatus" : 1,
-      "distance" : 7684,
-      "memberId" : 5263
+      "distance" : 6173,
+      "memberId" : 2415,
+      "bothType" : true
     } ]
   }
 }

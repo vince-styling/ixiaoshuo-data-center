@@ -12,7 +12,8 @@
       "summary" : "那时候，她还只是佛前一株七彩。温润清冷的声音将她从沉睡中唤醒。只一声，便深深眷恋。“我要陪着你，不只",
       "updateStatus" : 1,
       "capacity" : 9459741,
-      "readerCount" : 2409
+      "readerCount" : 2409,
+      "bothType" : false
     }, {
       "id" : 2219,
       "name" : "亡牢天羊",
@@ -20,7 +21,8 @@
       "summary" : "亡牢天羊，杯具地好看。",
       "updateStatus" : 2,
       "capacity" : 3676173,
-      "readerCount" : 2380
+      "readerCount" : 2380,
+      "bothType" : true
     }, {
       "id" : 3345,
       "name" : "黑洞星海",
@@ -28,7 +30,8 @@
       "summary" : "这是一个充满神奇的魔幻世界，在这个世界里人们以力量为尊，谁就是王者。",
       "updateStatus" : 1,
       "capacity" : 54449,
-      "readerCount" : 2318
+      "readerCount" : 2318,
+      "bothType" : false
     }, {
       "id" : 3480,
       "name" : "妖传——岁与千陌",
@@ -36,7 +39,8 @@
       "summary" : "妖三分而立，或百年。唯持珠者，引珠之万分，寄于阴柔之心，以血供之，待珠成之日，吞之，妖乃合。——上古",
       "updateStatus" : 1,
       "capacity" : 95151,
-      "readerCount" : 2206
+      "readerCount" : 2206,
+      "bothType" : false
     }, {
       "id" : 3502,
       "name" : "其实我很低调",
@@ -44,7 +48,8 @@
       "summary" : "温婉可人善解人意大家闺秀小家碧玉纯淑女？一脸懵懂涉世未深软妹子？无节操无下限神经大条女屌丝？暴力到爆",
       "updateStatus" : 1,
       "capacity" : 213709,
-      "readerCount" : 2159
+      "readerCount" : 2159,
+      "bothType" : false
     }, {
       "id" : 3131,
       "name" : "天神印记",
@@ -52,7 +57,8 @@
       "summary" : "随着时间不断地推移，人类中有一小部分人发生了变异，普通人称这一小部分人为“元灵师”。元灵师很稀少，几",
       "updateStatus" : 1,
       "capacity" : 358195,
-      "readerCount" : 2109
+      "readerCount" : 2109,
+      "bothType" : false
     }, {
       "id" : 3639,
       "name" : "疯狂的机械师",
@@ -60,7 +66,8 @@
       "summary" : "片段：咦？”张木忽然发现还有一张纸制品，特殊职业转职证明——凭借这张证明，你可以选择随机的变异的职业",
       "updateStatus" : 2,
       "capacity" : 1207782,
-      "readerCount" : 2104
+      "readerCount" : 2104,
+      "bothType" : true
     }, {
       "id" : 3161,
       "name" : "狐如不爱",
@@ -68,7 +75,8 @@
       "summary" : "五百年是什么？是她追着他的脚步，是他等着她的季节。是她，宁可灵魂寂灭也不变的信仰，是他，化骨成尘也不",
       "updateStatus" : 1,
       "capacity" : 440825,
-      "readerCount" : 2103
+      "readerCount" : 2103,
+      "bothType" : true
     }, {
       "id" : 3213,
       "name" : "光华琉璃只为一笑",
@@ -76,7 +84,8 @@
       "summary" : "普天之下，实力独尊，血之帝国，神秘血族，大漠之外，妖娆蛇族，阴阳轮回，舞天地，转乾坤！第一卷以存稿完",
       "updateStatus" : 1,
       "capacity" : 60216,
-      "readerCount" : 2052
+      "readerCount" : 2052,
+      "bothType" : true
     }, {
       "id" : 3224,
       "name" : "快乐公主流浪记",
@@ -84,7 +93,8 @@
       "summary" : "快乐公主学本领，智斗老巫婆",
       "updateStatus" : 1,
       "capacity" : 360493,
-      "readerCount" : 1933
+      "readerCount" : 1933,
+      "bothType" : false
     }, {
       "id" : 3136,
       "name" : "紫墟：涅槃",
@@ -92,7 +102,8 @@
       "summary" : "他是冷血强势的琅琊轩主人，她是从小被关进黑塔禁地的吟家三小姐，她出生那晚天现不详，家主慌乱中推开产房",
       "updateStatus" : 1,
       "capacity" : 150895,
-      "readerCount" : 1913
+      "readerCount" : 1913,
+      "bothType" : false
     }, {
       "id" : 3227,
       "name" : "玩心公子",
@@ -100,7 +111,8 @@
       "summary" : "在杀手界，广为流传着这么一句话；“修罗一怒，伏尸百万。”修罗，杀手界的传奇，没有人见过他真正的实力，",
       "updateStatus" : 1,
       "capacity" : 122257,
-      "readerCount" : 1844
+      "readerCount" : 1844,
+      "bothType" : false
     }, {
       "id" : 3606,
       "name" : "王的异界游历史",
@@ -108,7 +120,8 @@
       "summary" : "他出生的这天，乌云漫空，凯撒帝国笼罩在一片黑暗之中，高耸的城墙外是广袤无垠的冰封大陆。孩子的啼哭划破",
       "updateStatus" : 1,
       "capacity" : 189841,
-      "readerCount" : 1640
+      "readerCount" : 1640,
+      "bothType" : false
     }, {
       "id" : 3494,
       "name" : "意识流",
@@ -116,7 +129,8 @@
       "summary" : "孤独滋生了恐惧，恐惧滋生了黑暗，黑暗找到了我，我接受了，我变的嗜血了，这种嗜血是不变的。我不会放弃它",
       "updateStatus" : 1,
       "capacity" : 115817,
-      "readerCount" : 1549
+      "readerCount" : 1549,
+      "bothType" : false
     }, {
       "id" : 3675,
       "name" : "绝世之第一公主",
@@ -124,7 +138,8 @@
       "summary" : "现代她是能力出众的隐士家主，一个帝国组织的宫主，可惜仍然逃不过被背叛的命运;一朝穿越她成为一朝公主，",
       "updateStatus" : 1,
       "capacity" : 1168904,
-      "readerCount" : 1493
+      "readerCount" : 1493,
+      "bothType" : false
     }, {
       "id" : 2230,
       "name" : "妖殇惑世",
@@ -132,7 +147,8 @@
       "summary" : "简介：她是杀手之王，才艺惊人。性格嗜血腹黑无耻。她是将军养女，才艺平庸。性格懦弱天真蠢笨。❀❀===",
       "updateStatus" : 1,
       "capacity" : 1084895,
-      "readerCount" : 1480
+      "readerCount" : 1480,
+      "bothType" : true
     }, {
       "id" : 2600,
       "name" : "就这一次，非正即邪",
@@ -140,7 +156,8 @@
       "summary" : "单池一，宁愿抱以牺牲的危险决定要踏入异界的他有着常人无法理解的目的，双枪是他的武器，而谨慎是天赋于他",
       "updateStatus" : 1,
       "capacity" : 6309650,
-      "readerCount" : 1452
+      "readerCount" : 1452,
+      "bothType" : false
     }, {
       "id" : 2195,
       "name" : "血之恋章",
@@ -148,7 +165,8 @@
       "summary" : "谁忍受心灵的千疮百孔爱她被拒绝后竟予以毁灭谁习惯了微笑转身爱她却无法开口谁孤傲不群爱她摘下了所有华丽",
       "updateStatus" : 1,
       "capacity" : 3829040,
-      "readerCount" : 1449
+      "readerCount" : 1449,
+      "bothType" : false
     }, {
       "id" : 3576,
       "name" : "何故弦断梦",
@@ -156,7 +174,8 @@
       "summary" : "每夜必入的梦境，有着怎样的寓意，千篇一律的场景，有着心灵相撞的熟悉。奇幻的异能，该怎样去解释。与之前",
       "updateStatus" : 1,
       "capacity" : 15620,
-      "readerCount" : 1441
+      "readerCount" : 1441,
+      "bothType" : false
     }, {
       "id" : 3086,
       "name" : "重生艳妖之九尾狐说",
@@ -164,7 +183,8 @@
       "summary" : "小九出世见的第一个人是长卿，出口的第一个字却是“鸡”厨房案板前一站，手中拎着一只公鸡，清澈的眸子一眯",
       "updateStatus" : 1,
       "capacity" : 368382,
-      "readerCount" : 1392
+      "readerCount" : 1392,
+      "bothType" : false
     } ]
   }
 }

@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2846,
-      "name" : "疯子的大学生活",
+      "id" : 3216,
+      "name" : "渡魂斋",
       "updateStatus" : 1,
-      "distance" : 1249,
-      "memberId" : 1219
+      "distance" : 4040,
+      "memberId" : 2758,
+      "bothType" : false
     }, {
-      "id" : 3704,
-      "name" : "拐个CEO来改造",
+      "id" : 2849,
+      "name" : "缘来还是你",
       "updateStatus" : 1,
-      "distance" : 4283,
-      "memberId" : 7818
+      "distance" : 7072,
+      "memberId" : 6577,
+      "bothType" : false
     }, {
-      "id" : 2787,
-      "name" : "本编等你来扑倒",
+      "id" : 2446,
+      "name" : "安否，掠掳之来去的幸福",
       "updateStatus" : 1,
-      "distance" : 1667,
-      "memberId" : 5862
+      "distance" : 6940,
+      "memberId" : 2315,
+      "bothType" : false
     }, {
-      "id" : 3085,
-      "name" : "姑娘，你没有穿鞋",
+      "id" : 3250,
+      "name" : "极点之境",
       "updateStatus" : 1,
-      "distance" : 1277,
-      "memberId" : 5163
+      "distance" : 7360,
+      "memberId" : 6071,
+      "bothType" : false
     }, {
-      "id" : 2634,
-      "name" : "白日说梦",
+      "id" : 2859,
+      "name" : "罪与孽交织的孽爱",
       "updateStatus" : 1,
-      "distance" : 8052,
-      "memberId" : 6055
+      "distance" : 8674,
+      "memberId" : 4311,
+      "bothType" : false
     }, {
-      "id" : 2127,
-      "name" : "沐沐雪深",
-      "updateStatus" : 1,
-      "distance" : 3736,
-      "memberId" : 2701
-    }, {
-      "id" : 2664,
-      "name" : "缘来是如此",
-      "updateStatus" : 1,
-      "distance" : 2120,
-      "memberId" : 2781
-    }, {
-      "id" : 2980,
-      "name" : "穿越做将军",
-      "updateStatus" : 1,
-      "distance" : 1230,
-      "memberId" : 3739
-    }, {
-      "id" : 2668,
-      "name" : "双子女遇到处女男",
-      "updateStatus" : 1,
-      "distance" : 6559,
-      "memberId" : 8671
-    }, {
-      "id" : 2897,
-      "name" : "瞎子王爷独宠调皮妃",
-      "updateStatus" : 1,
-      "distance" : 2854,
-      "memberId" : 6581
-    }, {
-      "id" : 3466,
-      "name" : "流年纪",
-      "updateStatus" : 1,
-      "distance" : 4969,
-      "memberId" : 4162
-    }, {
-      "id" : 2058,
-      "name" : "护花三公主：蛊惑美男心",
+      "id" : 2199,
+      "name" : "选道",
       "updateStatus" : 2,
-      "distance" : 3314,
-      "memberId" : 3536
+      "distance" : 5328,
+      "memberId" : 3221,
+      "bothType" : false
     }, {
-      "id" : 2262,
-      "name" : "三生河畔等着你",
+      "id" : 3371,
+      "name" : "无良娇妃：惹上妖孽夫君",
       "updateStatus" : 1,
-      "distance" : 7066,
-      "memberId" : 4911
+      "distance" : 3234,
+      "memberId" : 7235,
+      "bothType" : true
     }, {
-      "id" : 3697,
-      "name" : "一路有爱陪着亲",
+      "id" : 3650,
+      "name" : "养个儿子当祸害",
       "updateStatus" : 1,
-      "distance" : 9588,
-      "memberId" : 1082
+      "distance" : 3729,
+      "memberId" : 7201,
+      "bothType" : true
     }, {
-      "id" : 2770,
-      "name" : "绝世桃花扇",
-      "updateStatus" : 1,
-      "distance" : 2150,
-      "memberId" : 4784
-    }, {
-      "id" : 2870,
-      "name" : "爱情有多远",
-      "updateStatus" : 1,
-      "distance" : 7968,
-      "memberId" : 2630
-    }, {
-      "id" : 2776,
-      "name" : "时空魔法师",
-      "updateStatus" : 1,
-      "distance" : 9865,
-      "memberId" : 1562
-    }, {
-      "id" : 2387,
-      "name" : "三世豪门：扛上绝情总裁",
+      "id" : 2372,
+      "name" : "出轨无毒",
       "updateStatus" : 2,
-      "distance" : 4866,
-      "memberId" : 4218
+      "distance" : 2799,
+      "memberId" : 2669,
+      "bothType" : true
     }, {
-      "id" : 2975,
-      "name" : "残荷听雨",
+      "id" : 2499,
+      "name" : "我在路口等你",
       "updateStatus" : 1,
-      "distance" : 5860,
-      "memberId" : 1462
+      "distance" : 1348,
+      "memberId" : 4219,
+      "bothType" : false
     }, {
-      "id" : 2241,
-      "name" : "猎魔人范海辛",
+      "id" : 3265,
+      "name" : "如果，没有你",
       "updateStatus" : 1,
-      "distance" : 6212,
-      "memberId" : 4609
+      "distance" : 7137,
+      "memberId" : 8820,
+      "bothType" : false
+    }, {
+      "id" : 2892,
+      "name" : "因为，爱情",
+      "updateStatus" : 1,
+      "distance" : 5793,
+      "memberId" : 2766,
+      "bothType" : false
+    }, {
+      "id" : 3621,
+      "name" : "竹歪桃花三两枝",
+      "updateStatus" : 1,
+      "distance" : 6170,
+      "memberId" : 3151,
+      "bothType" : false
+    }, {
+      "id" : 3132,
+      "name" : "三界悲诳录",
+      "updateStatus" : 1,
+      "distance" : 2439,
+      "memberId" : 1295,
+      "bothType" : false
+    }, {
+      "id" : 2379,
+      "name" : "观众也难做",
+      "updateStatus" : 1,
+      "distance" : 9005,
+      "memberId" : 8559,
+      "bothType" : false
+    }, {
+      "id" : 2806,
+      "name" : "浮尘之爱",
+      "updateStatus" : 1,
+      "distance" : 6636,
+      "memberId" : 4128,
+      "bothType" : false
+    }, {
+      "id" : 3254,
+      "name" : "北京不眠",
+      "updateStatus" : 1,
+      "distance" : 1220,
+      "memberId" : 6270,
+      "bothType" : false
+    }, {
+      "id" : 2231,
+      "name" : "女巫时节",
+      "updateStatus" : 1,
+      "distance" : 2143,
+      "memberId" : 7169,
+      "bothType" : true
+    }, {
+      "id" : 3280,
+      "name" : "轻舞离歌",
+      "updateStatus" : 1,
+      "distance" : 4243,
+      "memberId" : 3546,
+      "bothType" : false
+    }, {
+      "id" : 2405,
+      "name" : "恨与爱的边缘",
+      "updateStatus" : 1,
+      "distance" : 2452,
+      "memberId" : 7110,
+      "bothType" : false
     } ]
   }
 }

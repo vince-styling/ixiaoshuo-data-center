@@ -12,7 +12,8 @@
       "summary" : "一个百年家族的湮灭，一个少年的血海深仇之旅，爱上了一个绝世倾城的女子，不巧，她却是他仇人的女儿，纵然",
       "updateStatus" : 1,
       "capacity" : 302851,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3738,
       "name" : "献青春：那些我们叛逆过的叛逆",
@@ -20,7 +21,8 @@
       "summary" : "时光荐苒，岁月迷离。当我们一步一步偏离彼此的轨迹…一个一个慢慢离去。一段多人旅途变成了单人旅程。回望",
       "updateStatus" : 1,
       "capacity" : 1474816,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3506,
       "name" : "还珠格格同人之落燕",
@@ -28,7 +30,8 @@
       "summary" : "她是一缕穿越还珠世界的幽魂，他是风姿俊逸、气质高华的皇子，为了不让他弃一切、走天涯，她步步避、步步退",
       "updateStatus" : 1,
       "capacity" : 889160,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2266,
       "name" : "倾酌天下",
@@ -36,7 +39,8 @@
       "summary" : "【慕容泱】慕容泱：“第一杯，罚我从来没有问过你想要什么，就私自替你做了决定；第二杯，罚我亲手杀死了你",
       "updateStatus" : 1,
       "capacity" : 1614834,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2549,
       "name" : "色如花，命如叶",
@@ -44,7 +48,8 @@
       "summary" : "明明是初夏的夜晚，雪瑶却觉得寒冷异常。被最信赖的他抛弃，她成了最可悲的笑话。什么全世界最疼爱她一个人",
       "updateStatus" : 1,
       "capacity" : 3419251,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3737,
       "name" : "忐忑修真路",
@@ -52,7 +57,8 @@
       "summary" : "她本是最平凡不过的女子，却意外来到一个陌生的世界，这里以强者为尊，强者就是王法，霸者就是道理，这里杀",
       "updateStatus" : 1,
       "capacity" : 233911,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3033,
       "name" : "惊尘梦：冷情女子惑情夫",
@@ -60,7 +66,8 @@
       "summary" : "她是纭庄庄主之女，聪灵慧黠，妖娆姽婳，却也淡漠隐忍，通透冷情他是泫溟山庄少庄主，卓尔不凡，温润如风，",
       "updateStatus" : 1,
       "capacity" : 6967848,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2616,
       "name" : "陌路轻狂",
@@ -68,7 +75,8 @@
       "summary" : "轻狂：：默陆，代号轻狂，国家顶级杀手，任务失败，死于同伴，死不瞑目。墨陆，废物少爷，生于墨家，倍受欺",
       "updateStatus" : 1,
       "capacity" : 3999814,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 2920,
       "name" : "碧色佳人",
@@ -76,7 +84,8 @@
       "summary" : "本意为守护家族传遗志，却恍惚转生异世再为人愿只愿平安康乐度余年，又怎知眼波流转惹尘埃看佳人踏过千帆求",
       "updateStatus" : 1,
       "capacity" : 6658440,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 2491,
       "name" : "网游之睡睡也能成高手",
@@ -84,7 +93,8 @@
       "summary" : "『新武』并不是全球第一个拟真游戏，但却是唯一春天玩得起的游戏但是谁告诉她这是怎么一回事？有人像她一样",
       "updateStatus" : 1,
       "capacity" : 3937533,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2745,
       "name" : "再次重生后的创世传奇",
@@ -92,7 +102,8 @@
       "summary" : "再次醒来，林涵发现又回到了地球，又回到了妈妈的肚子里，连带着上次穿越到修真世界的记忆。终于回来了，可",
       "updateStatus" : 1,
       "capacity" : 8770661,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 3184,
       "name" : "安歌陌上花",
@@ -100,7 +111,8 @@
       "summary" : "陌上花开，不见归人……",
       "updateStatus" : 1,
       "capacity" : 234798,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 2617,
       "name" : "戏里婚外",
@@ -108,7 +120,8 @@
       "summary" : "文艺版：林星说，这年头，金钱和爱情，一个质变一个变质。没有绝对的爱情。却有绝对的真心。我说，爱情那玩",
       "updateStatus" : 1,
       "capacity" : 9440568,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3602,
       "name" : "桃面何处寻",
@@ -116,7 +129,8 @@
       "summary" : "杀手本无情，焉能不负君情深？纷扰江湖，何人是归宿？怎奈伊人逝去，唯有轻叹：孤影残蝶逝，花开不逢时。伊",
       "updateStatus" : 1,
       "capacity" : 38619,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2348,
       "name" : "朱砂海棠",
@@ -124,7 +138,8 @@
       "summary" : "他是富贵世家乖乖习文写诗的闷闷小受。他是小倌楼老鸨抚养长大的痞子小攻。宋海棠不知道他会遇见这么有趣的",
       "updateStatus" : 1,
       "capacity" : 7129773,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 3709,
       "name" : "莲仙",
@@ -132,7 +147,8 @@
       "summary" : "前世：她是睥睨九州，与仙界玉帝平起平坐的灵界尊主迦叶。他是仙界叱咤风云，赫赫有名的兵马大元帅，天蓬。",
       "updateStatus" : 1,
       "capacity" : 1453768,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 2332,
       "name" : "皇后哪里跑，儿子要认妈",
@@ -140,7 +156,8 @@
       "summary" : "【恶搞&歪歪】已故皇后遭雷劈，发生了什么？他乡又见变厨娘，这怎么可能？青楼热舞成老鸨，你丫找死！翻脸",
       "updateStatus" : 1,
       "capacity" : 8184658,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2434,
       "name" : "邪逆乾坤",
@@ -148,7 +165,8 @@
       "summary" : "道为何物？《易经》曰：一阴一阳谓之道，乾坤万物皆是道。意为阴阳的交合是宇宙万物变化的起点。-----",
       "updateStatus" : 1,
       "capacity" : 1594408,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2433,
       "name" : "诱婚",
@@ -156,7 +174,8 @@
       "summary" : "顾思雅不明白，为什么她想要平淡的生活竟然如此艰难，就因为一次偶然的邂逅，竟然颠覆了她整个人生，面对这",
       "updateStatus" : 1,
       "capacity" : 8029661,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2950,
       "name" : "云生风雨过",
@@ -164,7 +183,8 @@
       "summary" : "空山惊花落，梦醒独萧索。前尘俱消散，云生风雨过。",
       "updateStatus" : 1,
       "capacity" : 1999709,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     } ]
   }
 }

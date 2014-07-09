@@ -12,7 +12,8 @@
       "summary" : "以阴谋为引，以野心为匙，打开时空的大门。她生活在和平时代，幸福安逸，却有一颗亦白亦黑的心。他生活在血",
       "updateStatus" : 1,
       "capacity" : 94550,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 2436,
       "name" : "爱不过匆匆一片点缀",
@@ -20,7 +21,8 @@
       "summary" : "当年国际武校柳城的二师姐、摇身变成了高校界的象征性王者般的高中生、又和自己从小到大的姐妹、兄弟聚到一",
       "updateStatus" : 1,
       "capacity" : 2573174,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3473,
       "name" : "素女劫",
@@ -28,7 +30,8 @@
       "summary" : "看着爱人与别人步入洞房，自己却被迫到千里之外嫁给一个两岁的幼童，几经波折，伤痕累累，他还能否收获自己",
       "updateStatus" : 1,
       "capacity" : 94329,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3315,
       "name" : "心底在谈爱",
@@ -36,7 +39,8 @@
       "summary" : "谁不在青春的十七八，跌倒在初恋里。除了那些，美美沉浸在单纯爱里的。谁能逃过岁月的长河，当岁月在我们脸",
       "updateStatus" : 1,
       "capacity" : 127521,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3605,
       "name" : "十年换一世情深",
@@ -44,7 +48,8 @@
       "summary" : "不过匆匆三载岁月，他已从一个质子到一国将领的转变，昔时，她是行宫中不受宠的公主，似杂草一般的存在，却",
       "updateStatus" : 1,
       "capacity" : 720761,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3614,
       "name" : "二八不婚",
@@ -52,7 +57,8 @@
       "summary" : "新文，关于友情爱情。在你心中，到底友情和爱情孰轻孰重，这你知道吗？当你无比坚定的说出那个答案之后，当",
       "updateStatus" : 1,
       "capacity" : 189712,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3446,
       "name" : "本草纲目",
@@ -60,7 +66,8 @@
       "summary" : "对不起，如果你想找的是那本李时珍先人的医学著作，那么我想你得换过网页了，这本书完全不是你想的那样，我",
       "updateStatus" : 1,
       "capacity" : 64202,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 3085,
       "name" : "姑娘，你没有穿鞋",
@@ -68,7 +75,8 @@
       "summary" : "姑娘，你的鞋掉了……简介各种无力，请看正文。",
       "updateStatus" : 1,
       "capacity" : 629829,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3651,
       "name" : "《听见了吗？我来了》",
@@ -76,7 +84,8 @@
       "summary" : "只要孩子平安降生，我就让你离开。往后你想去哪里，干什么，只要踏出这里就再与我无关。——季珉源张维新，",
       "updateStatus" : 1,
       "capacity" : 103203,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3460,
       "name" : "悄悄告诉你",
@@ -84,7 +93,8 @@
       "summary" : "无工作状态持续久了，自从找到了新工作，史悄悄几乎每晚都会做梦，梦醒后就运用自己的鬼斧神工让故事跃然纸",
       "updateStatus" : 1,
       "capacity" : 47008,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3621,
       "name" : "竹歪桃花三两枝",
@@ -92,7 +102,8 @@
       "summary" : "一枝桃花一见倾心，二枝桃花捉弄生情，三枝桃花遍地黄金。男配一号：卒（卒于胎死腹中）男配二号：卒（卒于",
       "updateStatus" : 1,
       "capacity" : 552724,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3708,
       "name" : "浮生境梦",
@@ -100,7 +111,8 @@
       "summary" : "千年梦，弹指间，往事如水淡如烟。芳华现，梦仙缘，情爱成梦人难圆。浮生叹，轮回换，情字原来是梦幻。曲已",
       "updateStatus" : 1,
       "capacity" : 151923,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 3577,
       "name" : "柔弱四小姐霸道四王爷",
@@ -108,7 +120,8 @@
       "summary" : "可爱：“没有了历史老师，我怎么活！！”某莹。。“你非要和我斗，看本小姐用21新概念P死你！”某莹。。",
       "updateStatus" : 1,
       "capacity" : 133837,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3374,
       "name" : "逢酒醉花阴",
@@ -116,7 +129,8 @@
       "summary" : "唐朝末年，人心冷漠，超纲腐败，太监当道。一个女孩被人随手丢在大街上，身为太监的刘克明把女孩带回家中，",
       "updateStatus" : 1,
       "capacity" : 64226,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3150,
       "name" : "我是小丫",
@@ -124,7 +138,8 @@
       "summary" : "一个现代社会打拼的女子，在中元节的时候不幸被鬼缠身，掐死，在地府即将还阳的时候，却被告知自己要去一个",
       "updateStatus" : 1,
       "capacity" : 213878,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3654,
       "name" : "红颜香粉",
@@ -132,7 +147,8 @@
       "summary" : "一个逃婚的王妃，一个追婚的王爷，她不爱他，他却爱着爱，包容她的一切，最后他用真爱换回那人的爱~~~",
       "updateStatus" : 1,
       "capacity" : 38369,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3162,
       "name" : "真龙天下：倾世侠妃",
@@ -140,7 +156,8 @@
       "summary" : "一个因为皇室之争落入江湖的王爷，一个从下游走江湖的女孩，两人从相识相知到相恋，又从陌路道携手一生……",
       "updateStatus" : 1,
       "capacity" : 144870,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3263,
       "name" : "君臣一心",
@@ -148,7 +165,8 @@
       "summary" : "她被这个地方囚禁了二十几年，离开一直是希望，但是被人赶走与自行离开让她选的话……还用选么？……陛下，",
       "updateStatus" : 1,
       "capacity" : 1259774,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2577,
       "name" : "恶少总裁：薄宠小娇妻",
@@ -156,7 +174,8 @@
       "summary" : "你不知道，在我的心里你是最重要的哪一个，为了你放弃整个世界，也无所谓，只要能留你在我身边，这辈子，我",
       "updateStatus" : 1,
       "capacity" : 4288726,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3390,
       "name" : "贺兰山下阵如云",
@@ -164,7 +183,8 @@
       "summary" : "",
       "updateStatus" : 1,
       "capacity" : 45951,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22510.jpg",
       "updateStatus" : 1,
       "capacity" : 2909665,
-      "lastUpdateTime" : "2013-12-22 19:48:50"
+      "lastUpdateTime" : "2013-12-22 19:48:50",
+      "bothType" : true
     }, {
       "id" : 2154,
       "name" : "寻仙问诱：美男不要逃",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19442.jpg",
       "updateStatus" : 1,
       "capacity" : 9165032,
-      "lastUpdateTime" : "2013-12-22 18:23:56"
+      "lastUpdateTime" : "2013-12-22 18:23:56",
+      "bothType" : false
     }, {
       "id" : 2041,
       "name" : "卿本佳人",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43920.jpg",
       "updateStatus" : 2,
       "capacity" : 3794805,
-      "lastUpdateTime" : "2013-12-22 17:52:16"
+      "lastUpdateTime" : "2013-12-22 17:52:16",
+      "bothType" : true
     }, {
       "id" : 2744,
       "name" : "江城子",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46104.jpg",
       "updateStatus" : 1,
       "capacity" : 7048053,
-      "lastUpdateTime" : "2013-12-22 17:23:44"
+      "lastUpdateTime" : "2013-12-22 17:23:44",
+      "bothType" : false
     }, {
       "id" : 2315,
       "name" : "一诺双生劫",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47484.jpg",
       "updateStatus" : 1,
       "capacity" : 9880185,
-      "lastUpdateTime" : "2013-12-22 16:47:53"
+      "lastUpdateTime" : "2013-12-22 16:47:53",
+      "bothType" : false
     }, {
       "id" : 3294,
       "name" : "朕爱生命，远离皇后",
@@ -52,7 +57,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 75886,
-      "lastUpdateTime" : "2013-12-22 16:31:38"
+      "lastUpdateTime" : "2013-12-22 16:31:38",
+      "bothType" : false
     }, {
       "id" : 3216,
       "name" : "渡魂斋",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47318.jpg",
       "updateStatus" : 1,
       "capacity" : 152878,
-      "lastUpdateTime" : "2013-12-22 15:52:24"
+      "lastUpdateTime" : "2013-12-22 15:52:24",
+      "bothType" : true
     }, {
       "id" : 2878,
       "name" : "孟家有女",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47771.jpg",
       "updateStatus" : 1,
       "capacity" : 2995406,
-      "lastUpdateTime" : "2013-12-22 15:23:57"
+      "lastUpdateTime" : "2013-12-22 15:23:57",
+      "bothType" : false
     }, {
       "id" : 3247,
       "name" : "清帏花色浓",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44150.jpg",
       "updateStatus" : 1,
       "capacity" : 376003,
-      "lastUpdateTime" : "2013-12-22 15:11:01"
+      "lastUpdateTime" : "2013-12-22 15:11:01",
+      "bothType" : false
     }, {
       "id" : 3098,
       "name" : "无上星道",
@@ -84,7 +93,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 71114,
-      "lastUpdateTime" : "2013-12-22 15:05:53"
+      "lastUpdateTime" : "2013-12-22 15:05:53",
+      "bothType" : false
     }, {
       "id" : 3015,
       "name" : "三境鏖锋录",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17003.jpg",
       "updateStatus" : 1,
       "capacity" : 2769571,
-      "lastUpdateTime" : "2013-12-22 15:05:23"
+      "lastUpdateTime" : "2013-12-22 15:05:23",
+      "bothType" : false
     }, {
       "id" : 3529,
       "name" : "黑道少女",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18160.jpg",
       "updateStatus" : 1,
       "capacity" : 380854,
-      "lastUpdateTime" : "2013-12-22 10:06:06"
+      "lastUpdateTime" : "2013-12-22 10:06:06",
+      "bothType" : false
     }, {
       "id" : 3282,
       "name" : "樱舞飞剑",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45006.jpg",
       "updateStatus" : 1,
       "capacity" : 114157,
-      "lastUpdateTime" : "2013-12-22 07:28:19"
+      "lastUpdateTime" : "2013-12-22 07:28:19",
+      "bothType" : false
     }, {
       "id" : 2056,
       "name" : "夫君夫君不可以",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15015.jpg",
       "updateStatus" : 2,
       "capacity" : 5138565,
-      "lastUpdateTime" : "2013-12-22 06:39:54"
+      "lastUpdateTime" : "2013-12-22 06:39:54",
+      "bothType" : true
     }, {
       "id" : 3278,
       "name" : "珠帷怨",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_12652.jpg",
       "updateStatus" : 1,
       "capacity" : 1683828,
-      "lastUpdateTime" : "2013-12-22 06:17:27"
+      "lastUpdateTime" : "2013-12-22 06:17:27",
+      "bothType" : false
     }, {
       "id" : 3500,
       "name" : "三生三世谁许浮华？",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45243.jpg",
       "updateStatus" : 1,
       "capacity" : 126239,
-      "lastUpdateTime" : "2013-12-22 05:47:57"
+      "lastUpdateTime" : "2013-12-22 05:47:57",
+      "bothType" : true
     }, {
       "id" : 3326,
       "name" : "暖暖的",
@@ -140,7 +156,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 290572,
-      "lastUpdateTime" : "2013-12-22 05:28:40"
+      "lastUpdateTime" : "2013-12-22 05:28:40",
+      "bothType" : true
     }, {
       "id" : 3427,
       "name" : "梦颜",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21647.jpg",
       "updateStatus" : 1,
       "capacity" : 616904,
-      "lastUpdateTime" : "2013-12-22 05:21:50"
+      "lastUpdateTime" : "2013-12-22 05:21:50",
+      "bothType" : false
     }, {
       "id" : 3552,
       "name" : "千里相思",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43065.jpg",
       "updateStatus" : 1,
       "capacity" : 468466,
-      "lastUpdateTime" : "2013-12-22 04:36:46"
+      "lastUpdateTime" : "2013-12-22 04:36:46",
+      "bothType" : true
     }, {
       "id" : 2458,
       "name" : "灰道之非黑非白",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44174.jpg",
       "updateStatus" : 1,
       "capacity" : 7958047,
-      "lastUpdateTime" : "2013-12-22 04:24:40"
+      "lastUpdateTime" : "2013-12-22 04:24:40",
+      "bothType" : false
     } ]
   }
 }

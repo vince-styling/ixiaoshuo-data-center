@@ -12,7 +12,8 @@
       "summary" : "每个人都有一根入心很深的刺，只要轻轻一碰，心就会剧痛。那些被遗忘在时间长河里的沙烁，就像拼图的碎片，",
       "updateStatus" : 1,
       "capacity" : 3559608,
-      "readerCount" : 12311
+      "readerCount" : 12311,
+      "bothType" : false
     }, {
       "id" : 2159,
       "name" : "雁翎刀",
@@ -20,7 +21,8 @@
       "summary" : "大将生来胆气豪，腰横秋水雁翎刀。雁翎刀销声匿迹数十载后重出江湖，掀起了又一波腥风血雨。江湖多少人为了",
       "updateStatus" : 1,
       "capacity" : 7673796,
-      "readerCount" : 12024
+      "readerCount" : 12024,
+      "bothType" : false
     }, {
       "id" : 2150,
       "name" : "最",
@@ -28,7 +30,8 @@
       "summary" : "世人都道，雪界神君，孤傲清冷，凭借自己一身的能力，为她的子民开天辟地，创造属于自己的国度，其一身能力",
       "updateStatus" : 1,
       "capacity" : 6259412,
-      "readerCount" : 12011
+      "readerCount" : 12011,
+      "bothType" : true
     }, {
       "id" : 2154,
       "name" : "寻仙问诱：美男不要逃",
@@ -36,7 +39,8 @@
       "summary" : "作为无心的不详乞儿，她该如何存活？是怨天尤人蜷缩于一角任心晦暗，还是不争不怒顺从等待来世？她作为无心",
       "updateStatus" : 1,
       "capacity" : 9165032,
-      "readerCount" : 10958
+      "readerCount" : 10958,
+      "bothType" : true
     }, {
       "id" : 2057,
       "name" : "异世修罗：废材小姐不好惹",
@@ -44,7 +48,8 @@
       "summary" : "她，是地下佣兵之王，嗜血张狂无人能挡。而她，是四大修魄世家之首的玉家血脉中最难以启齿的污点，元武皆废",
       "updateStatus" : 1,
       "capacity" : 7439165,
-      "readerCount" : 10839
+      "readerCount" : 10839,
+      "bothType" : false
     }, {
       "id" : 2168,
       "name" : "天神之使命",
@@ -52,7 +57,8 @@
       "summary" : "人神混血的亦之，凡心暗生的倪裳，拥有前世绝美容颜的秋梅梅，他们为维护三界和平斩妖除魔历经艰辛。却因“",
       "updateStatus" : 1,
       "capacity" : 3892255,
-      "readerCount" : 9969
+      "readerCount" : 9969,
+      "bothType" : false
     }, {
       "id" : 2145,
       "name" : "江湖乱：白首不负待君归",
@@ -60,7 +66,8 @@
       "summary" : "兰芷：你说我要这绝世容颜做什么，纵然再美，尺寸之间，师父，你我也隔着万丈的距离。兰芷：这是不是全都在",
       "updateStatus" : 1,
       "capacity" : 3482719,
-      "readerCount" : 9801
+      "readerCount" : 9801,
+      "bothType" : false
     }, {
       "id" : 2135,
       "name" : "阵惊天下",
@@ -68,7 +75,8 @@
       "summary" : "本书让你见识修仙界最强大的职业－阵修，他能瞬间成阵，以一敌众；他喜欢创造，玩转小小法术，他喜欢直接，",
       "updateStatus" : 2,
       "capacity" : 7486077,
-      "readerCount" : 9771
+      "readerCount" : 9771,
+      "bothType" : false
     }, {
       "id" : 2742,
       "name" : "异界为魔",
@@ -76,7 +84,8 @@
       "summary" : "前世被尊为魔君殇的杀手因为一次任务失败被组织追杀，就把主上的老巢爆了当然他也没活。不甘的灵魂受到上天",
       "updateStatus" : 1,
       "capacity" : 2662602,
-      "readerCount" : 9642
+      "readerCount" : 9642,
+      "bothType" : true
     }, {
       "id" : 2162,
       "name" : "琴之飞絮",
@@ -84,7 +93,8 @@
       "summary" : "穿越成婴儿，从小见不到母亲，更得不到父亲的疼爱。没关系，她有疼爱她照顾她的嬷嬷和婢女姐姐。离开禁锢她",
       "updateStatus" : 2,
       "capacity" : 5529073,
-      "readerCount" : 9601
+      "readerCount" : 9601,
+      "bothType" : true
     }, {
       "id" : 2177,
       "name" : "一枕槐安",
@@ -92,7 +102,8 @@
       "summary" : "五岁携歌而醒，后世灵魂召唤而来。身为阴司鬼帝遗女，甫一出生没多久便被封印。家破人亡，拜师东海。十五岁",
       "updateStatus" : 1,
       "capacity" : 8381579,
-      "readerCount" : 9080
+      "readerCount" : 9080,
+      "bothType" : false
     }, {
       "id" : 3447,
       "name" : "魔幻情缘",
@@ -100,7 +111,8 @@
       "summary" : "神奇的玛法大陆，魔族势力曾经纵横无忌。直到出现了三位旷世奇才，人族与魔族的格局起了翻天覆地的变化。很",
       "updateStatus" : 1,
       "capacity" : 851634,
-      "readerCount" : 8475
+      "readerCount" : 8475,
+      "bothType" : true
     }, {
       "id" : 2744,
       "name" : "江城子",
@@ -108,7 +120,8 @@
       "summary" : "一只以为自己活了一千年的鲛人，到后来发现自己其实活了一千五百年，那么那丢了的五百年到哪里去了。为什么",
       "updateStatus" : 1,
       "capacity" : 7048053,
-      "readerCount" : 8443
+      "readerCount" : 8443,
+      "bothType" : false
     }, {
       "id" : 2180,
       "name" : "极品刀神",
@@ -116,7 +129,8 @@
       "summary" : "五年练气，十年成刀，作为魔刀历史上最从容淡然也最成功的传人——丁当，他的人生竟然是如此曲折。从小是个",
       "updateStatus" : 1,
       "capacity" : 2990553,
-      "readerCount" : 7397
+      "readerCount" : 7397,
+      "bothType" : true
     }, {
       "id" : 2157,
       "name" : "青惑",
@@ -124,7 +138,8 @@
       "summary" : "青竹寒烟霜欺雪，浮生未歇；赤练重光罪业火，无人不惑。我与世无争，世人却偏要来与我争夺。竹林还是那片竹",
       "updateStatus" : 1,
       "capacity" : 2879948,
-      "readerCount" : 7240
+      "readerCount" : 7240,
+      "bothType" : false
     }, {
       "id" : 2147,
       "name" : "不当神仙也爱你",
@@ -132,7 +147,8 @@
       "summary" : "在现实生活打工的齐曚因一次意外穿越到异世界岚国的道圣派，成为这个门派里大家原来最看不起的小师妹墨雅。",
       "updateStatus" : 2,
       "capacity" : 2395551,
-      "readerCount" : 7065
+      "readerCount" : 7065,
+      "bothType" : false
     }, {
       "id" : 2141,
       "name" : "一梦入混元",
@@ -140,7 +156,8 @@
       "summary" : "狐不归本是洪荒中的小人物，他不想改变什么，他的目标只是能够活下去，然后回归自我。但是无数的波折，坎坷",
       "updateStatus" : 1,
       "capacity" : 8047247,
-      "readerCount" : 6958
+      "readerCount" : 6958,
+      "bothType" : false
     }, {
       "id" : 2176,
       "name" : "重生之堕仙",
@@ -148,7 +165,8 @@
       "summary" : "红尘三千，谁人渡我与苦海。碧落九天，谁人救我与慈航。在这八荒六合之间，无我相、无人相，无众生相。三相",
       "updateStatus" : 1,
       "capacity" : 4966205,
-      "readerCount" : 6775
+      "readerCount" : 6775,
+      "bothType" : false
     }, {
       "id" : 2148,
       "name" : "江湖夜雨十年灯之诗酒篇",
@@ -156,7 +174,8 @@
       "summary" : "坎坷经年，宝剑成篇，风雨自行。曾怒马鲜衣，歌楼舞影；舒琴把剑，小筑遗情。纵酒红尘，两杯三友，买醉癫狂",
       "updateStatus" : 2,
       "capacity" : 1978111,
-      "readerCount" : 6218
+      "readerCount" : 6218,
+      "bothType" : true
     }, {
       "id" : 2608,
       "name" : "一睹莲华",
@@ -164,7 +183,8 @@
       "summary" : "玄紫去历了个劫，回来后颇感物是仙非。没曾想她一跨成为了仙界中姣姣的大龄女仙，年龄大些也就算了，居然还",
       "updateStatus" : 1,
       "capacity" : 4162687,
-      "readerCount" : 5858
+      "readerCount" : 5858,
+      "bothType" : true
     } ]
   }
 }

@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3233,
-      "name" : "那一季、折断的羽翼",
+      "id" : 2933,
+      "name" : "古尸奇缘",
       "updateStatus" : 1,
-      "distance" : 1636,
-      "memberId" : 4010
+      "distance" : 6074,
+      "memberId" : 8118,
+      "bothType" : false
     }, {
-      "id" : 3340,
-      "name" : "枫叶荻花秋瑟瑟",
+      "id" : 3646,
+      "name" : "在最美的季节相遇",
       "updateStatus" : 1,
-      "distance" : 3007,
-      "memberId" : 1816
+      "distance" : 8757,
+      "memberId" : 5418,
+      "bothType" : true
     }, {
-      "id" : 2725,
-      "name" : "高富帅，统统趴下",
+      "id" : 2978,
+      "name" : "妃宠不可",
       "updateStatus" : 1,
-      "distance" : 5703,
-      "memberId" : 1682
+      "distance" : 558,
+      "memberId" : 7164,
+      "bothType" : true
     }, {
-      "id" : 3710,
-      "name" : "最后一瓶冰红茶",
+      "id" : 2897,
+      "name" : "瞎子王爷独宠调皮妃",
       "updateStatus" : 1,
-      "distance" : 5302,
-      "memberId" : 5302
+      "distance" : 3534,
+      "memberId" : 6185,
+      "bothType" : false
     }, {
-      "id" : 2425,
-      "name" : "龙女在京",
+      "id" : 2316,
+      "name" : "美男就是奴才",
       "updateStatus" : 1,
-      "distance" : 6666,
-      "memberId" : 1658
+      "distance" : 2479,
+      "memberId" : 7998,
+      "bothType" : false
     }, {
-      "id" : 2981,
-      "name" : "夏家九爷",
+      "id" : 3490,
+      "name" : "舍友是公主大人",
       "updateStatus" : 1,
-      "distance" : 1852,
-      "memberId" : 6439
+      "distance" : 1913,
+      "memberId" : 8534,
+      "bothType" : true
     }, {
-      "id" : 2735,
-      "name" : "是前世还是今生",
+      "id" : 3631,
+      "name" : "嗨！军官们！",
       "updateStatus" : 1,
-      "distance" : 5688,
-      "memberId" : 2057
+      "distance" : 3335,
+      "memberId" : 3483,
+      "bothType" : false
     }, {
-      "id" : 2753,
-      "name" : "妖孽上校找上门",
+      "id" : 3306,
+      "name" : "“灰姑娘”的复仇绝密",
       "updateStatus" : 1,
-      "distance" : 2394,
-      "memberId" : 4424
+      "distance" : 9062,
+      "memberId" : 3983,
+      "bothType" : true
     }, {
-      "id" : 3186,
-      "name" : "贪衾香",
+      "id" : 3542,
+      "name" : "洪流",
       "updateStatus" : 1,
-      "distance" : 5325,
-      "memberId" : 7183
+      "distance" : 3762,
+      "memberId" : 6294,
+      "bothType" : false
     }, {
-      "id" : 2280,
-      "name" : "金玉奇缘：暴戾王爷的冷情妃",
+      "id" : 2692,
+      "name" : "网王之阴阳师是学生",
       "updateStatus" : 1,
-      "distance" : 649,
-      "memberId" : 3331
+      "distance" : 9533,
+      "memberId" : 4528,
+      "bothType" : false
     }, {
-      "id" : 3580,
-      "name" : "槐花吟",
+      "id" : 3398,
+      "name" : "泠夜梦初流光烬",
       "updateStatus" : 1,
-      "distance" : 8540,
-      "memberId" : 8236
+      "distance" : 7188,
+      "memberId" : 1450,
+      "bothType" : false
     }, {
-      "id" : 2723,
-      "name" : "宝贝我宠你",
+      "id" : 2502,
+      "name" : "古剑奇谭之浮生执念",
       "updateStatus" : 1,
-      "distance" : 3097,
-      "memberId" : 2994
+      "distance" : 2964,
+      "memberId" : 3933,
+      "bothType" : false
     }, {
-      "id" : 2864,
-      "name" : "天幕吟之雪荒初史",
+      "id" : 2660,
+      "name" : "败类黑道",
       "updateStatus" : 1,
-      "distance" : 5824,
-      "memberId" : 3147
+      "distance" : 5805,
+      "memberId" : 2919,
+      "bothType" : false
     }, {
-      "id" : 2580,
-      "name" : "琉璃碎",
-      "updateStatus" : 1,
-      "distance" : 2146,
-      "memberId" : 1435
+      "id" : 2135,
+      "name" : "阵惊天下",
+      "updateStatus" : 2,
+      "distance" : 9408,
+      "memberId" : 6201,
+      "bothType" : false
     }, {
-      "id" : 3515,
-      "name" : "相思明叶",
-      "updateStatus" : 1,
-      "distance" : 3362,
-      "memberId" : 8935
+      "id" : 2386,
+      "name" : "至臻奢宠：冷情教父的罂粟情人",
+      "updateStatus" : 2,
+      "distance" : 8581,
+      "memberId" : 8263,
+      "bothType" : false
     }, {
-      "id" : 3163,
-      "name" : "最初与最后",
+      "id" : 2581,
+      "name" : "月上梨花白",
       "updateStatus" : 1,
-      "distance" : 7418,
-      "memberId" : 3306
+      "distance" : 9343,
+      "memberId" : 2494,
+      "bothType" : false
     }, {
-      "id" : 3571,
-      "name" : "小小侍女的灿烂时光",
+      "id" : 3007,
+      "name" : "醉逍遥",
       "updateStatus" : 1,
-      "distance" : 3213,
-      "memberId" : 6654
+      "distance" : 3000,
+      "memberId" : 7985,
+      "bothType" : false
     }, {
-      "id" : 3360,
-      "name" : "泡沫太寒冷",
+      "id" : 2610,
+      "name" : "调皮千金异空游之拐跑王爷",
       "updateStatus" : 1,
-      "distance" : 8501,
-      "memberId" : 1664
+      "distance" : 688,
+      "memberId" : 5606,
+      "bothType" : false
     }, {
-      "id" : 3647,
-      "name" : "魔天大传",
+      "id" : 2530,
+      "name" : "半城烟雨",
       "updateStatus" : 1,
-      "distance" : 4030,
-      "memberId" : 8084
+      "distance" : 4772,
+      "memberId" : 5163,
+      "bothType" : false
     }, {
-      "id" : 2556,
-      "name" : "山姆大叔不会Say：哈喽",
+      "id" : 3274,
+      "name" : "啼笑皆妃之妃比寻常",
       "updateStatus" : 1,
-      "distance" : 5900,
-      "memberId" : 3567
+      "distance" : 9931,
+      "memberId" : 7149,
+      "bothType" : false
     } ]
   }
 }

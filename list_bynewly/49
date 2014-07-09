@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41845.jpg",
       "updateStatus" : 1,
       "capacity" : 1101838,
-      "lastUpdateTime" : "2013-12-06 05:42:02"
+      "lastUpdateTime" : "2013-12-06 05:42:02",
+      "bothType" : true
     }, {
       "id" : 3630,
       "name" : "我叫林若妃",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16813.jpg",
       "updateStatus" : 1,
       "capacity" : 290639,
-      "lastUpdateTime" : "2013-12-06 05:20:45"
+      "lastUpdateTime" : "2013-12-06 05:20:45",
+      "bothType" : true
     }, {
       "id" : 2836,
       "name" : "霸爱总裁：爱妻是无尾熊",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_13950.jpg",
       "updateStatus" : 1,
       "capacity" : 2240351,
-      "lastUpdateTime" : "2013-12-06 04:59:05"
+      "lastUpdateTime" : "2013-12-06 04:59:05",
+      "bothType" : false
     }, {
       "id" : 3152,
       "name" : "晚晴空",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47063.jpg",
       "updateStatus" : 1,
       "capacity" : 249392,
-      "lastUpdateTime" : "2013-12-06 04:22:34"
+      "lastUpdateTime" : "2013-12-06 04:22:34",
+      "bothType" : true
     }, {
       "id" : 2490,
       "name" : "彩云国之一杯茶一辈子",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18664.jpg",
       "updateStatus" : 1,
       "capacity" : 5806032,
-      "lastUpdateTime" : "2013-12-06 04:21:23"
+      "lastUpdateTime" : "2013-12-06 04:21:23",
+      "bothType" : false
     }, {
       "id" : 2151,
       "name" : "缘来是我们",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46430.jpg",
       "updateStatus" : 1,
       "capacity" : 9666073,
-      "lastUpdateTime" : "2013-12-06 03:02:17"
+      "lastUpdateTime" : "2013-12-06 03:02:17",
+      "bothType" : false
     }, {
       "id" : 2411,
       "name" : "护理实验室的故事",
@@ -60,7 +66,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 2727737,
-      "lastUpdateTime" : "2013-12-06 02:32:27"
+      "lastUpdateTime" : "2013-12-06 02:32:27",
+      "bothType" : false
     }, {
       "id" : 2707,
       "name" : "噬魂特种兵：浴火霸天下",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47181.jpg",
       "updateStatus" : 1,
       "capacity" : 4038073,
-      "lastUpdateTime" : "2013-12-06 01:47:38"
+      "lastUpdateTime" : "2013-12-06 01:47:38",
+      "bothType" : true
     }, {
       "id" : 2745,
       "name" : "再次重生后的创世传奇",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46648.jpg",
       "updateStatus" : 1,
       "capacity" : 8770661,
-      "lastUpdateTime" : "2013-12-06 01:46:25"
+      "lastUpdateTime" : "2013-12-06 01:46:25",
+      "bothType" : false
     }, {
       "id" : 3262,
       "name" : "爱，在遥远的彼方",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47519.jpg",
       "updateStatus" : 1,
       "capacity" : 168465,
-      "lastUpdateTime" : "2013-12-06 01:39:12"
+      "lastUpdateTime" : "2013-12-06 01:39:12",
+      "bothType" : false
     }, {
       "id" : 2644,
       "name" : "爱她还是爱自己",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46465.jpg",
       "updateStatus" : 1,
       "capacity" : 6130396,
-      "lastUpdateTime" : "2013-12-06 01:12:48"
+      "lastUpdateTime" : "2013-12-06 01:12:48",
+      "bothType" : true
     }, {
       "id" : 3149,
       "name" : "风仪万千",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44304.jpg",
       "updateStatus" : 1,
       "capacity" : 573504,
-      "lastUpdateTime" : "2013-12-06 01:11:05"
+      "lastUpdateTime" : "2013-12-06 01:11:05",
+      "bothType" : false
     }, {
       "id" : 2529,
       "name" : "萝莉女警攻略：攻克冷面大叔",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20535.jpg",
       "updateStatus" : 2,
       "capacity" : 9608753,
-      "lastUpdateTime" : "2013-12-06 00:34:35"
+      "lastUpdateTime" : "2013-12-06 00:34:35",
+      "bothType" : false
     }, {
       "id" : 3597,
       "name" : "女王，桃花满天下",
@@ -116,7 +129,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 153763,
-      "lastUpdateTime" : "2013-12-06 00:30:43"
+      "lastUpdateTime" : "2013-12-06 00:30:43",
+      "bothType" : false
     }, {
       "id" : 3212,
       "name" : "浮生劫：鸾音未央",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46612.jpg",
       "updateStatus" : 1,
       "capacity" : 273869,
-      "lastUpdateTime" : "2013-12-06 00:07:01"
+      "lastUpdateTime" : "2013-12-06 00:07:01",
+      "bothType" : false
     }, {
       "id" : 2085,
       "name" : "琉璃坊",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19819.jpg",
       "updateStatus" : 1,
       "capacity" : 1773528,
-      "lastUpdateTime" : "2013-12-06 00:02:49"
+      "lastUpdateTime" : "2013-12-06 00:02:49",
+      "bothType" : false
     }, {
       "id" : 2457,
       "name" : "一碗村",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22306.jpg",
       "updateStatus" : 1,
       "capacity" : 1547228,
-      "lastUpdateTime" : "2013-12-05 23:41:45"
+      "lastUpdateTime" : "2013-12-05 23:41:45",
+      "bothType" : false
     }, {
       "id" : 2546,
       "name" : "风流公子：赖上重生佳人",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18974.jpg",
       "updateStatus" : 1,
       "capacity" : 1613835,
-      "lastUpdateTime" : "2013-12-05 23:23:26"
+      "lastUpdateTime" : "2013-12-05 23:23:26",
+      "bothType" : false
     }, {
       "id" : 2455,
       "name" : "孤子",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46852.jpg",
       "updateStatus" : 1,
       "capacity" : 4619046,
-      "lastUpdateTime" : "2013-12-05 23:01:59"
+      "lastUpdateTime" : "2013-12-05 23:01:59",
+      "bothType" : false
     }, {
       "id" : 2536,
       "name" : "幸福书坊",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45267.jpg",
       "updateStatus" : 1,
       "capacity" : 4196126,
-      "lastUpdateTime" : "2013-12-05 22:58:12"
+      "lastUpdateTime" : "2013-12-05 22:58:12",
+      "bothType" : true
     } ]
   }
 }

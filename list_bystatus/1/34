@@ -12,7 +12,8 @@
       "summary" : "在一个遥远的星空，两个不同的灵魂正在发生着剧烈的碰撞，随这种碰撞接踵而至的是璀璨的火花。一开始或许会",
       "updateStatus" : 1,
       "capacity" : 8786340,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 3247,
       "name" : "清帏花色浓",
@@ -20,7 +21,8 @@
       "summary" : "她是西藏守护天珠的天女？还是江湖赏善罚恶的女捕快“玉燕子”？还是短发潇洒执着干练的现代女医生？横跨三",
       "updateStatus" : 1,
       "capacity" : 376003,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2738,
       "name" : "苦忘·浮生如梦",
@@ -28,7 +30,8 @@
       "summary" : "苦忘，有苦难忘……即便你我相爱，却也终究逃不过那玩笑般的命运……她本是21世纪的少女，一次偶然的情况",
       "updateStatus" : 1,
       "capacity" : 6221714,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3087,
       "name" : "友情遇到爱情",
@@ -36,7 +39,8 @@
       "summary" : "青梅竹马,两小无猜，却因为性格太像经常吵架，他在她最需要他的时候放开了她，而她却离开了整整十年，十年",
       "updateStatus" : 1,
       "capacity" : 113999,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2867,
       "name" : "子兰",
@@ -44,7 +48,8 @@
       "summary" : "子兰是一个农村里长大的孩子，从小和爷爷奶奶一起长大，性格内向孤僻，但是自从遇到了云、蓝、樱、林、L等",
       "updateStatus" : 1,
       "capacity" : 4709274,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2408,
       "name" : "皮卡光的求婚大作战",
@@ -52,7 +57,8 @@
       "summary" : "【Infinite王道文】《WANNADO》是讲述主人公南优贤是一位乐队主唱，因为6年前爱人的突然不",
       "updateStatus" : 1,
       "capacity" : 1401991,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2132,
       "name" : "绝色王妃醉红颜",
@@ -60,7 +66,8 @@
       "summary" : "那年夏天，荷花烂漫，她一袭绿衣，醉卧河池，和那满池的荷叶浑然一体，只有那姣好白皙的容颜和那泼墨一般的",
       "updateStatus" : 1,
       "capacity" : 3367612,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2585,
       "name" : "孟璇传奇",
@@ -68,7 +75,8 @@
       "summary" : "这是一部虚构但是没有架空、穿越、宅斗、宫斗的传统小说。女主角是一位贵族女子，却女扮男装攻读了古代军事",
       "updateStatus" : 1,
       "capacity" : 3061117,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2570,
       "name" : "情挑深情夫君",
@@ -76,7 +84,8 @@
       "summary" : "家破人亡的女孩,突然被迫蜕变,遇上了他。一个深受手足相残的他。两个同样在童年受过伤害,该如何携手面对",
       "updateStatus" : 1,
       "capacity" : 4111822,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2393,
       "name" : "剩女重生女警花：缉拿花花大少",
@@ -84,7 +93,8 @@
       "summary" : "她是交警，查酒驾是她职责，让你用嘴含住使劲吹，你就吹，哪来那么多废话？可他偏偏不配合，不就是查酒精浓",
       "updateStatus" : 1,
       "capacity" : 7993431,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2845,
       "name" : "东宁",
@@ -92,7 +102,8 @@
       "summary" : "谁转身再见，让再见太难。说再见太难等再见太难再见时初心不变亦太难。他对我说，你最好清楚，与我无关紧要",
       "updateStatus" : 1,
       "capacity" : 3608429,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2428,
       "name" : "包办婚嫁",
@@ -100,7 +111,8 @@
       "summary" : "一个简单的，灰姑娘好运攀上高枝的故事。一段长辈包办的婚姻中，一对没有爱情的夫妻，在柴米油盐的琐碎小事",
       "updateStatus" : 1,
       "capacity" : 3269355,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2501,
       "name" : "金属蝴蝶",
@@ -108,7 +120,8 @@
       "summary" : "这是一篇海贼王同人。当金属能力的原创女主，碰到十一超新星第一人的尤斯塔斯基德，不知道会碰出什么样的火",
       "updateStatus" : 1,
       "capacity" : 3956880,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : true
     }, {
       "id" : 3559,
       "name" : "最珍贵的沉默",
@@ -116,7 +129,8 @@
       "summary" : "“沈夜。”顾然软软的声音从电话里传来，带着些许哭腔：“你是不是不喜欢我了？”沈夜几乎握不住手里的电话",
       "updateStatus" : 1,
       "capacity" : 1531212,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2127,
       "name" : "沐沐雪深",
@@ -124,7 +138,8 @@
       "summary" : "对的时间，遇见对的人，是一生幸福。对的时间，遇见错的人，是一生心伤。错的时间，遇见错的人，是一生荒唐",
       "updateStatus" : 1,
       "capacity" : 8042012,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3452,
       "name" : "屌丝掌门",
@@ -132,7 +147,8 @@
       "summary" : "你只看到了我现在的风光无限，可曾看到我当年落魄的样子？你只看到了我现在的妻妾成群，可曾看到了我当年孤",
       "updateStatus" : 1,
       "capacity" : 309311,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2731,
       "name" : "朕爱美人心",
@@ -140,7 +156,8 @@
       "summary" : "他，有权利，有实力自负、负人。没有人能像他这样一辈子的如意甚至是肆意；怀抱美人，手掌江山，睨视世间才",
       "updateStatus" : 1,
       "capacity" : 4107881,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3139,
       "name" : "鸢米娅宿命的扭转",
@@ -148,7 +165,8 @@
       "summary" : "一个姑娘看似轻松平淡的重生生活——咦？这不是我小六时期的模样么？！你说，前世今生，只为我此刻的回眸鸢",
       "updateStatus" : 1,
       "capacity" : 202252,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3169,
       "name" : "石楠少主",
@@ -156,7 +174,8 @@
       "summary" : "他是英俊潇洒，风流倜傥的石楠少主，可是谁能想到他竟是因为在二十一世纪没有见义勇为而遭雷劈，一朝穿越到",
       "updateStatus" : 1,
       "capacity" : 730292,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3650,
       "name" : "养个儿子当祸害",
@@ -164,7 +183,8 @@
       "summary" : "她是现代富二代凌笑蓝，却因先天性心脏病被家族放逐，唯有一老仆待她至诚至真，却不料着最后一点温暖也有人",
       "updateStatus" : 1,
       "capacity" : 396236,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     } ]
   }
 }

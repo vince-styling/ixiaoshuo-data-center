@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 9735537,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2450,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 8921268,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

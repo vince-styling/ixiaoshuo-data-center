@@ -12,7 +12,8 @@
       "summary" : "相传有一种蝴蝶，通体殷红如血，鬼魅妖异，到了哪里，哪里就会发生不幸。神秘鬼影，致命红蝶，午夜风铃……",
       "updateStatus" : 2,
       "capacity" : 4499537,
-      "readerCount" : 18260
+      "readerCount" : 18260,
+      "bothType" : true
     }, {
       "id" : 2474,
       "name" : "十早集",
@@ -20,7 +21,8 @@
       "summary" : "一个破镜重圆的家庭；一段近代离奇的往事；一位怀着佛主慈悲之心的古人，他超脱一切，他融汇佛家八苦，用最",
       "updateStatus" : 1,
       "capacity" : 6110920,
-      "readerCount" : 17734
+      "readerCount" : 17734,
+      "bothType" : false
     }, {
       "id" : 2465,
       "name" : "双魂神探",
@@ -28,7 +30,8 @@
       "summary" : "三个人，四个灵魂。叠加的双魂神探，左手牵着妖孽法医，右手拎着腹黑天师。诡异的案件，不怕！有她双魂神探",
       "updateStatus" : 1,
       "capacity" : 9044119,
-      "readerCount" : 17456
+      "readerCount" : 17456,
+      "bothType" : false
     }, {
       "id" : 2464,
       "name" : "微光角落",
@@ -36,7 +39,8 @@
       "summary" : "因为是“怪物”的存在，两人如刺猬般，紧紧依偎，常在想，如此这般就好了。一场“526”凶杀案打破了两人",
       "updateStatus" : 1,
       "capacity" : 1279013,
-      "readerCount" : 17140
+      "readerCount" : 17140,
+      "bothType" : false
     }, {
       "id" : 2459,
       "name" : "鸮侠传",
@@ -44,7 +48,8 @@
       "summary" : "这部叫小说也好不叫小说也好,主要是想写一个现代侠客的成长路程,看国外有蝙蝠侠蜘蛛侠,而我们的侠只在武",
       "updateStatus" : 1,
       "capacity" : 2658052,
-      "readerCount" : 17131
+      "readerCount" : 17131,
+      "bothType" : false
     }, {
       "id" : 2479,
       "name" : "诡音：楼上的高跟鞋",
@@ -52,7 +57,8 @@
       "summary" : "“姑娘，你每天晚上都回来这么晚啊？一个人多不安全啊！”“习惯了...”只是三个字却让刘高轩一阵颤栗.",
       "updateStatus" : 1,
       "capacity" : 9582940,
-      "readerCount" : 16710
+      "readerCount" : 16710,
+      "bothType" : false
     }, {
       "id" : 2454,
       "name" : "山村女鬼",
@@ -60,7 +66,8 @@
       "summary" : "生前有怨气的人，死了以后都会把这口怨气吐出来，以保他们可以顺利的投胎转世，人世间有许许多多你不知道的",
       "updateStatus" : 1,
       "capacity" : 2106500,
-      "readerCount" : 16051
+      "readerCount" : 16051,
+      "bothType" : false
     }, {
       "id" : 2185,
       "name" : "丧尸之末日惊魂",
@@ -68,7 +75,8 @@
       "summary" : "末日突临，丧尸席卷这个世界，尸横遍野，一位女大学生和朋友们为找控制区一路惊魂。千辛万苦找到的控制区，",
       "updateStatus" : 1,
       "capacity" : 6639189,
-      "readerCount" : 15917
+      "readerCount" : 15917,
+      "bothType" : false
     }, {
       "id" : 2456,
       "name" : "亡灵归来",
@@ -76,7 +84,8 @@
       "summary" : "一个人走路，你是否会感觉有谁跟着你？一个人在房间，你是否总觉得什么地方藏着谁？一个人带孩子，你是否会",
       "updateStatus" : 1,
       "capacity" : 3104228,
-      "readerCount" : 15555
+      "readerCount" : 15555,
+      "bothType" : true
     }, {
       "id" : 2461,
       "name" : "我和僵尸有个约会",
@@ -84,7 +93,8 @@
       "summary" : "僵尸，集天地怨气秽气而生，不老、不死、不灭，被天地人三界摒弃在众生六道之外，浪荡无依、流离失所，在人",
       "updateStatus" : 1,
       "capacity" : 7168915,
-      "readerCount" : 14911
+      "readerCount" : 14911,
+      "bothType" : false
     }, {
       "id" : 2460,
       "name" : "夜影鬼魅",
@@ -92,7 +102,8 @@
       "summary" : "他们是濒临死亡的孩子，在鬼叔的救助下，死而复生！本以为可以好好的生活，却突发变故！鬼叔的死亡打破了幸",
       "updateStatus" : 1,
       "capacity" : 3715047,
-      "readerCount" : 14247
+      "readerCount" : 14247,
+      "bothType" : true
     }, {
       "id" : 2473,
       "name" : "解惑",
@@ -100,7 +111,8 @@
       "summary" : "她是只想今天不管明天的小小主编，天性洒脱，积极乐观，因一次公事中遇到了生命中的他...他是冷若冰霜的",
       "updateStatus" : 1,
       "capacity" : 1965356,
-      "readerCount" : 13922
+      "readerCount" : 13922,
+      "bothType" : true
     }, {
       "id" : 2452,
       "name" : "死亡照相机：末日风暴——血舞",
@@ -108,7 +120,8 @@
       "summary" : "在这个照相机里，储存着大量的鬼魂，埋没在鬼屋里……同时还有一叠跟相机有关的【领者相册】。现在，这个相",
       "updateStatus" : 1,
       "capacity" : 8736306,
-      "readerCount" : 11685
+      "readerCount" : 11685,
+      "bothType" : false
     }, {
       "id" : 2108,
       "name" : "妖孽丛生",
@@ -116,7 +129,8 @@
       "summary" : "这算什么啊？阴阳眼？可是阴阳眼有透视功能吗？喂！白魅，你遮什么遮啊！我说的透视是能看很远，并不是指能",
       "updateStatus" : 1,
       "capacity" : 9266416,
-      "readerCount" : 11572
+      "readerCount" : 11572,
+      "bothType" : false
     }, {
       "id" : 2466,
       "name" : "寻魂记之称霸地狱",
@@ -124,7 +138,8 @@
       "summary" : "一场意外的车祸，牵扯的确是一场黑暗的阴阳交易！为了寻找爱人丢失的魂魄，他中了奸计困身地狱之中。一场偶",
       "updateStatus" : 1,
       "capacity" : 2668491,
-      "readerCount" : 11097
+      "readerCount" : 11097,
+      "bothType" : true
     }, {
       "id" : 2486,
       "name" : "天才少女侦探",
@@ -132,7 +147,8 @@
       "summary" : "天才侦探秋雪月，有多少个名字。本文前面推理情节较少，后面会增多。困难，天之骄子的选择是......",
       "updateStatus" : 1,
       "capacity" : 8351104,
-      "readerCount" : 11052
+      "readerCount" : 11052,
+      "bothType" : false
     }, {
       "id" : 2482,
       "name" : "末世竞逐",
@@ -140,7 +156,8 @@
       "summary" : "这是一个坑，嗯，只是开个坑。嗯，这是末日文。",
       "updateStatus" : 1,
       "capacity" : 7097452,
-      "readerCount" : 11024
+      "readerCount" : 11024,
+      "bothType" : false
     }, {
       "id" : 2485,
       "name" : "眸魂记",
@@ -148,7 +165,8 @@
       "summary" : "各位亲，“神族遗孤”已改名为“眸魂记”。谢谢大家的支持，鸢子会努力的……她不是驱魔师，她不懂法术，捉",
       "updateStatus" : 1,
       "capacity" : 3496077,
-      "readerCount" : 10020
+      "readerCount" : 10020,
+      "bothType" : false
     }, {
       "id" : 2467,
       "name" : "诛魔录",
@@ -156,7 +174,8 @@
       "summary" : "鬼遣符，是幽冥鬼域的无上令符，是阴曹地府的终极圣旨，是调遣阴兵、驱使鬼魂的阎王令牌！又是一把斩杀恶魔",
       "updateStatus" : 1,
       "capacity" : 5317296,
-      "readerCount" : 9191
+      "readerCount" : 9191,
+      "bothType" : false
     }, {
       "id" : 2458,
       "name" : "灰道之非黑非白",
@@ -164,7 +183,8 @@
       "summary" : "一纸高考志愿，拨动着万千人心弦，也拉开了卓航绚烂无比、波澜壮阔的传奇帷幕。走出乡野，一面是其貌不扬的",
       "updateStatus" : 1,
       "capacity" : 7958047,
-      "readerCount" : 8699
+      "readerCount" : 8699,
+      "bothType" : false
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 7999001,
-      "lastUpdateTime" : "2013-11-26 08:02:00"
+      "lastUpdateTime" : "2013-11-26 08:02:00",
+      "bothType" : false
     }, {
       "id" : 3710,
       "name" : "最后一瓶冰红茶",
@@ -20,7 +21,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 356416,
-      "lastUpdateTime" : "2013-11-26 07:44:34"
+      "lastUpdateTime" : "2013-11-26 07:44:34",
+      "bothType" : false
     }, {
       "id" : 3355,
       "name" : "野蛮小宫女",
@@ -28,7 +30,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 569665,
-      "lastUpdateTime" : "2013-11-26 06:36:01"
+      "lastUpdateTime" : "2013-11-26 06:36:01",
+      "bothType" : true
     }, {
       "id" : 3410,
       "name" : "窈窕佳人",
@@ -36,7 +39,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 150174,
-      "lastUpdateTime" : "2013-11-26 05:47:52"
+      "lastUpdateTime" : "2013-11-26 05:47:52",
+      "bothType" : false
     }, {
       "id" : 3403,
       "name" : "权倾凤妆",
@@ -44,7 +48,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 338866,
-      "lastUpdateTime" : "2013-11-26 05:27:59"
+      "lastUpdateTime" : "2013-11-26 05:27:59",
+      "bothType" : false
     }, {
       "id" : 3300,
       "name" : "画城",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47717.jpg",
       "updateStatus" : 1,
       "capacity" : 74835,
-      "lastUpdateTime" : "2013-11-26 03:03:16"
+      "lastUpdateTime" : "2013-11-26 03:03:16",
+      "bothType" : false
     }, {
       "id" : 2462,
       "name" : "道听途说",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20570.jpg",
       "updateStatus" : 1,
       "capacity" : 1649345,
-      "lastUpdateTime" : "2013-11-26 02:34:23"
+      "lastUpdateTime" : "2013-11-26 02:34:23",
+      "bothType" : false
     }, {
       "id" : 2078,
       "name" : "绾君心",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47703.jpg",
       "updateStatus" : 1,
       "capacity" : 3300512,
-      "lastUpdateTime" : "2013-11-26 02:28:46"
+      "lastUpdateTime" : "2013-11-26 02:28:46",
+      "bothType" : false
     }, {
       "id" : 3087,
       "name" : "友情遇到爱情",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45474.jpg",
       "updateStatus" : 1,
       "capacity" : 113999,
-      "lastUpdateTime" : "2013-11-26 02:25:05"
+      "lastUpdateTime" : "2013-11-26 02:25:05",
+      "bothType" : true
     }, {
       "id" : 2629,
       "name" : "触碰纯白的爱恋",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44916.jpg",
       "updateStatus" : 1,
       "capacity" : 8885006,
-      "lastUpdateTime" : "2013-11-26 01:52:47"
+      "lastUpdateTime" : "2013-11-26 01:52:47",
+      "bothType" : true
     }, {
       "id" : 3446,
       "name" : "本草纲目",
@@ -92,7 +102,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 64202,
-      "lastUpdateTime" : "2013-11-26 01:36:56"
+      "lastUpdateTime" : "2013-11-26 01:36:56",
+      "bothType" : false
     }, {
       "id" : 2907,
       "name" : "紫弦俏孤女",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45476.jpg",
       "updateStatus" : 1,
       "capacity" : 7346995,
-      "lastUpdateTime" : "2013-11-26 01:20:37"
+      "lastUpdateTime" : "2013-11-26 01:20:37",
+      "bothType" : false
     }, {
       "id" : 2642,
       "name" : "黑道特种部队",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47515.jpg",
       "updateStatus" : 1,
       "capacity" : 3480178,
-      "lastUpdateTime" : "2013-11-26 01:17:58"
+      "lastUpdateTime" : "2013-11-26 01:17:58",
+      "bothType" : false
     }, {
       "id" : 3266,
       "name" : "候鸟归来",
@@ -116,7 +129,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 50845,
-      "lastUpdateTime" : "2013-11-26 00:43:40"
+      "lastUpdateTime" : "2013-11-26 00:43:40",
+      "bothType" : false
     }, {
       "id" : 2161,
       "name" : "天河巨图",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_13576.jpg",
       "updateStatus" : 2,
       "capacity" : 1114254,
-      "lastUpdateTime" : "2013-11-26 00:19:34"
+      "lastUpdateTime" : "2013-11-26 00:19:34",
+      "bothType" : false
     }, {
       "id" : 2645,
       "name" : "我知道你本善良",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47670.jpg",
       "updateStatus" : 1,
       "capacity" : 8257011,
-      "lastUpdateTime" : "2013-11-25 23:55:36"
+      "lastUpdateTime" : "2013-11-25 23:55:36",
+      "bothType" : false
     }, {
       "id" : 2927,
       "name" : "风艳离色",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46160.jpg",
       "updateStatus" : 1,
       "capacity" : 5190967,
-      "lastUpdateTime" : "2013-11-25 23:41:50"
+      "lastUpdateTime" : "2013-11-25 23:41:50",
+      "bothType" : false
     }, {
       "id" : 3422,
       "name" : "五十弦",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42711.jpg",
       "updateStatus" : 1,
       "capacity" : 655975,
-      "lastUpdateTime" : "2013-11-25 23:07:57"
+      "lastUpdateTime" : "2013-11-25 23:07:57",
+      "bothType" : true
     }, {
       "id" : 3524,
       "name" : "都溢",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47406.jpg",
       "updateStatus" : 1,
       "capacity" : 627725,
-      "lastUpdateTime" : "2013-11-25 22:52:51"
+      "lastUpdateTime" : "2013-11-25 22:52:51",
+      "bothType" : false
     }, {
       "id" : 2205,
       "name" : "翠玉录",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46503.jpg",
       "updateStatus" : 1,
       "capacity" : 8634555,
-      "lastUpdateTime" : "2013-11-25 22:51:40"
+      "lastUpdateTime" : "2013-11-25 22:51:40",
+      "bothType" : false
     } ]
   }
 }

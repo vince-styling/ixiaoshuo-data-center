@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3083,
-      "name" : "情难自禁",
-      "updateStatus" : 1,
-      "distance" : 2654,
-      "memberId" : 2268
-    }, {
-      "id" : 2989,
-      "name" : "恶魔与天使之吻",
-      "updateStatus" : 1,
-      "distance" : 2842,
-      "memberId" : 1794
-    }, {
-      "id" : 3679,
-      "name" : "青春情书",
-      "updateStatus" : 1,
-      "distance" : 672,
-      "memberId" : 3959
-    }, {
-      "id" : 2515,
-      "name" : "青春兵路",
+      "id" : 3092,
+      "name" : "哈利波特之魔法学院",
       "updateStatus" : 2,
-      "distance" : 1854,
-      "memberId" : 6486
+      "distance" : 2657,
+      "memberId" : 1209,
+      "bothType" : false
     }, {
-      "id" : 2193,
-      "name" : "笑傲仙狂",
+      "id" : 2566,
+      "name" : "那些年，我和你",
       "updateStatus" : 1,
-      "distance" : 1531,
-      "memberId" : 4648
+      "distance" : 5949,
+      "memberId" : 7476,
+      "bothType" : false
     }, {
-      "id" : 3347,
-      "name" : "冷艳傲骨：毒物小姐狠嚣张",
+      "id" : 3527,
+      "name" : "审判之众神时代",
       "updateStatus" : 1,
-      "distance" : 2726,
-      "memberId" : 2417
+      "distance" : 7222,
+      "memberId" : 6215,
+      "bothType" : true
     }, {
-      "id" : 2889,
-      "name" : "帅哥，麻烦给我一张果照",
+      "id" : 2477,
+      "name" : "特刑队之绝密档案",
       "updateStatus" : 1,
-      "distance" : 9689,
-      "memberId" : 4382
+      "distance" : 8001,
+      "memberId" : 3671,
+      "bothType" : true
     }, {
-      "id" : 2799,
-      "name" : "雪寻雪见",
+      "id" : 2871,
+      "name" : "吾心似未央",
       "updateStatus" : 1,
-      "distance" : 3475,
-      "memberId" : 1786
+      "distance" : 5460,
+      "memberId" : 6177,
+      "bothType" : false
     }, {
-      "id" : 3224,
-      "name" : "快乐公主流浪记",
+      "id" : 3296,
+      "name" : "斜阳晚照",
       "updateStatus" : 1,
-      "distance" : 9348,
-      "memberId" : 6538
+      "distance" : 7829,
+      "memberId" : 7175,
+      "bothType" : false
     }, {
-      "id" : 2496,
-      "name" : "赛罗之双生子的羁绊",
+      "id" : 3070,
+      "name" : "双面娇娃：爱在罂粟烂漫时",
       "updateStatus" : 1,
-      "distance" : 1364,
-      "memberId" : 5061
+      "distance" : 5556,
+      "memberId" : 1091,
+      "bothType" : true
     }, {
-      "id" : 3432,
-      "name" : "我在这里，你在哪",
+      "id" : 3383,
+      "name" : "延续爱",
       "updateStatus" : 1,
-      "distance" : 4119,
-      "memberId" : 4871
+      "distance" : 3226,
+      "memberId" : 4287,
+      "bothType" : false
     }, {
-      "id" : 2712,
-      "name" : "人比花娇",
+      "id" : 2040,
+      "name" : "误闯总裁领地，哪里逃！",
       "updateStatus" : 1,
-      "distance" : 1477,
-      "memberId" : 2320
+      "distance" : 2469,
+      "memberId" : 3745,
+      "bothType" : false
     }, {
-      "id" : 2046,
-      "name" : "疼在左手指间",
+      "id" : 3574,
+      "name" : "祁家楼外楼",
       "updateStatus" : 1,
-      "distance" : 3510,
-      "memberId" : 6004
+      "distance" : 7687,
+      "memberId" : 8284,
+      "bothType" : false
     }, {
-      "id" : 3220,
-      "name" : "噬心扇",
+      "id" : 2561,
+      "name" : "墨上清歌",
       "updateStatus" : 1,
-      "distance" : 9006,
-      "memberId" : 8508
+      "distance" : 9987,
+      "memberId" : 4269,
+      "bothType" : false
     }, {
-      "id" : 3727,
-      "name" : "繁华错",
-      "updateStatus" : 1,
-      "distance" : 8714,
-      "memberId" : 7717
+      "id" : 2909,
+      "name" : "十六岁的青春期",
+      "updateStatus" : 2,
+      "distance" : 7573,
+      "memberId" : 6186,
+      "bothType" : false
     }, {
-      "id" : 2211,
-      "name" : "神魂锁炼",
+      "id" : 2540,
+      "name" : "天降魔法师",
       "updateStatus" : 1,
-      "distance" : 1815,
-      "memberId" : 1807
+      "distance" : 7814,
+      "memberId" : 5628,
+      "bothType" : false
     }, {
-      "id" : 3446,
-      "name" : "本草纲目",
+      "id" : 2900,
+      "name" : "辞君天下",
       "updateStatus" : 1,
-      "distance" : 2590,
-      "memberId" : 3616
+      "distance" : 9475,
+      "memberId" : 8667,
+      "bothType" : false
     }, {
-      "id" : 3349,
-      "name" : "宁负苍天",
+      "id" : 2308,
+      "name" : "月牙",
       "updateStatus" : 1,
-      "distance" : 9412,
-      "memberId" : 2666
+      "distance" : 7189,
+      "memberId" : 3072,
+      "bothType" : false
     }, {
-      "id" : 3724,
-      "name" : "白泽之神",
+      "id" : 3338,
+      "name" : "豬彡頭❤娶我呗",
       "updateStatus" : 1,
-      "distance" : 1254,
-      "memberId" : 1301
+      "distance" : 8718,
+      "memberId" : 2079,
+      "bothType" : true
     }, {
-      "id" : 2539,
-      "name" : "沙漏时光",
+      "id" : 3157,
+      "name" : "人生如若不太贱",
       "updateStatus" : 1,
-      "distance" : 3258,
-      "memberId" : 5710
+      "distance" : 1702,
+      "memberId" : 6470,
+      "bothType" : true
+    }, {
+      "id" : 3490,
+      "name" : "舍友是公主大人",
+      "updateStatus" : 1,
+      "distance" : 4785,
+      "memberId" : 8574,
+      "bothType" : true
+    }, {
+      "id" : 2987,
+      "name" : "适珂而止",
+      "updateStatus" : 1,
+      "distance" : 9774,
+      "memberId" : 2686,
+      "bothType" : false
+    }, {
+      "id" : 2814,
+      "name" : "小市民",
+      "updateStatus" : 1,
+      "distance" : 7140,
+      "memberId" : 3680,
+      "bothType" : false
     } ]
   }
 }

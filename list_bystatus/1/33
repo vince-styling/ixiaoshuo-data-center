@@ -12,7 +12,8 @@
       "summary" : "三人的穿越，注定要为这个世界谱写神话。我们三个不是姐妹却胜似姐妹。但是注定我们会遇到许多的事情。每人",
       "updateStatus" : 1,
       "capacity" : 8539192,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2103,
       "name" : "剑缘三生泪断崖",
@@ -20,7 +21,8 @@
       "summary" : "她爱了三生，无怨无悔，只怪自己没有早些记起他；他一世伤了她的心，用两世的时间去偿还，这份情，还的晚不",
       "updateStatus" : 1,
       "capacity" : 8109578,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2140,
       "name" : "傲剑江湖",
@@ -28,7 +30,8 @@
       "summary" : "他是独孤九剑传人令狐冲的爱子，又是曾被江湖人誉为武林神话的龙啸天之子，他英俊潇洒，气度不凡，他身负绝",
       "updateStatus" : 1,
       "capacity" : 4283145,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2800,
       "name" : "唐明媚",
@@ -36,7 +39,8 @@
       "summary" : "我想写这样一些故事，关于一个明媚的女子。抑或，我一直想做这样的人，这样明媚的女子。午后，看春光明媚，",
       "updateStatus" : 1,
       "capacity" : 5309522,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3113,
       "name" : "豪门娇妻：冷少霸上弓",
@@ -44,7 +48,8 @@
       "summary" : "一份遗嘱，拉开了一段异父异母兄妹间的恩怨情仇。一双眼睛，看不清世间一切真善美，却知道人情冷暖。她，有",
       "updateStatus" : 1,
       "capacity" : 1044403,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3106,
       "name" : "被流放的女将军",
@@ -52,7 +57,8 @@
       "summary" : "第一卷，女主在悠远院的故事。第二卷，女主离家出走的故事。第三卷，女主成为女将军的故事。第四卷，女主出",
       "updateStatus" : 1,
       "capacity" : 220835,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2421,
       "name" : "爱我你不敢",
@@ -60,7 +66,8 @@
       "summary" : "我时常会后悔重逢后又跟郑甚君扯上这样的关系，但是后悔之后我还是会犯贱的倒在他的怀里，然后被他压在身下",
       "updateStatus" : 1,
       "capacity" : 1786460,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2677,
       "name" : "悠悠珠碧河",
@@ -68,7 +75,8 @@
       "summary" : "中国有个海南岛，岛西有个五湖村，村前河叫珠碧河，悠悠河水长流去，余下文人空忧郁。所收入的小说散文评论",
       "updateStatus" : 1,
       "capacity" : 2443657,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2547,
       "name" : "玉碎瓦不全",
@@ -76,7 +84,8 @@
       "summary" : "这是一部反映家庭婚姻冷暴力的作品。通过主人公若冰在婚姻生活中遭遇的不幸，折射出人性的善与恶。文中还对",
       "updateStatus" : 1,
       "capacity" : 1290403,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2787,
       "name" : "本编等你来扑倒",
@@ -84,7 +93,8 @@
       "summary" : "当偶们可怜的女主陌小槿还是一个菜鸟写手的时候，她的屏幕上与骨灰编男主六夕的对话通常是酱紫的——陌小槿",
       "updateStatus" : 1,
       "capacity" : 7526210,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3608,
       "name" : "小子，别跑",
@@ -92,7 +102,8 @@
       "summary" : "当全荷雅是黑道千金的时候，宿宇是酒吧里的一名调酒师当全荷雅的家庭陷入败落时，宿宇是敌对头领的干儿子当",
       "updateStatus" : 1,
       "capacity" : 891536,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3691,
       "name" : "巧夺帝心：奸妃娘娘升职记",
@@ -100,7 +111,8 @@
       "summary" : "一朝醒转苏染烟已然从二十一世纪的新型女性脱离，摇身一变成为手握生杀大权的帝王之妾，苏贵人？NO,NO",
       "updateStatus" : 1,
       "capacity" : 661600,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2670,
       "name" : "何以诉离殇",
@@ -108,7 +120,8 @@
       "summary" : "有人说青春就像一场狂欢的盛宴，吃饱喝足后就拍拍屁股散场，难道青春始终逃脱不了离别的宿命？如果给一次选",
       "updateStatus" : 1,
       "capacity" : 8493982,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2043,
       "name" : "彼岸繁花落",
@@ -116,7 +129,8 @@
       "summary" : "天下之争，江山美人，谁能与共。如梨花皎洁的叶泽宇，桃花妖娆的南宸轩，荷花一般的景櫌，自诩隐士淡泊如菊",
       "updateStatus" : 1,
       "capacity" : 7238006,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2175,
       "name" : "史上最强避雷法宝",
@@ -124,7 +138,8 @@
       "summary" : "这里是一个修仙修魔的好地方。这是有未知的生物、灭迹的物种，它们强大而又蛮横；它们智商高绝，更甚者能口",
       "updateStatus" : 1,
       "capacity" : 1909735,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3050,
       "name" : "帝君独宠：魅世妖颜倾天下",
@@ -132,7 +147,8 @@
       "summary" : "她是战败国前赵贡给大齐的采女。她在选秀之时为被刺杀的皇上挡剑而失忆。围绕她的来历与目的，围绕她的失忆",
       "updateStatus" : 1,
       "capacity" : 12533,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2533,
       "name" : "泪倾城之梦汐醉",
@@ -140,7 +156,8 @@
       "summary" : "一梦回眸，百媚生。倾国之美，皇室公主。她爱的人弃她如草芥，爱她的人多如海水滔滔不绝。一曲长歌，一段扇",
       "updateStatus" : 1,
       "capacity" : 9464891,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2182,
       "name" : "妖纵异世：逆天血煞女",
@@ -148,7 +165,8 @@
       "summary" : "“经脉尽毁，不过废物一个！”“我凤家没有这个脸面，去认回一个经脉尽毁的废物！”；阴谋，陷害，步步杀招",
       "updateStatus" : 1,
       "capacity" : 3085563,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 3430,
       "name" : "于红尘中遇见你",
@@ -156,7 +174,8 @@
       "summary" : "她偷偷喜欢他七年，这个秘密一直没和任何人说，包括她的闺蜜刘云一和林琦。可是在那十几天的陪伴中，素木却",
       "updateStatus" : 1,
       "capacity" : 488191,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2472,
       "name" : "梦幻钟馗",
@@ -164,7 +183,8 @@
       "summary" : "一个情感失意中年，一个离奇的遭遇，却卷入一场仙魔之争，人间道，妖魔道，神仙道，且看平凡的人如何取舍，",
       "updateStatus" : 1,
       "capacity" : 3389546,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     } ]
   }
 }

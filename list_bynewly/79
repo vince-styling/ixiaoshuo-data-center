@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14847.jpg",
       "updateStatus" : 2,
       "capacity" : 5529073,
-      "lastUpdateTime" : "2013-11-22 14:46:44"
+      "lastUpdateTime" : "2013-11-22 14:46:44",
+      "bothType" : false
     }, {
       "id" : 2914,
       "name" : "寻找自己",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47503.jpg",
       "updateStatus" : 1,
       "capacity" : 9633415,
-      "lastUpdateTime" : "2013-11-22 14:42:14"
+      "lastUpdateTime" : "2013-11-22 14:42:14",
+      "bothType" : false
     }, {
       "id" : 3291,
       "name" : "离离原上草",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44535.jpg",
       "updateStatus" : 1,
       "capacity" : 40745,
-      "lastUpdateTime" : "2013-11-22 13:30:38"
+      "lastUpdateTime" : "2013-11-22 13:30:38",
+      "bothType" : false
     }, {
       "id" : 3072,
       "name" : "倒转乾坤：女帝慑天下",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47147.jpg",
       "updateStatus" : 1,
       "capacity" : 439058,
-      "lastUpdateTime" : "2013-11-22 09:40:54"
+      "lastUpdateTime" : "2013-11-22 09:40:54",
+      "bothType" : true
     }, {
       "id" : 2730,
       "name" : "风谨如歌",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45344.jpg",
       "updateStatus" : 1,
       "capacity" : 1735860,
-      "lastUpdateTime" : "2013-11-22 09:27:06"
+      "lastUpdateTime" : "2013-11-22 09:27:06",
+      "bothType" : true
     }, {
       "id" : 2419,
       "name" : "那么爱你为什么",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44409.jpg",
       "updateStatus" : 1,
       "capacity" : 7515226,
-      "lastUpdateTime" : "2013-11-22 09:20:25"
+      "lastUpdateTime" : "2013-11-22 09:20:25",
+      "bothType" : false
     }, {
       "id" : 2698,
       "name" : "混世神魔",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18675.jpg",
       "updateStatus" : 1,
       "capacity" : 3027430,
-      "lastUpdateTime" : "2013-11-22 08:54:33"
+      "lastUpdateTime" : "2013-11-22 08:54:33",
+      "bothType" : false
     }, {
       "id" : 2834,
       "name" : "时间逐雨",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47088.jpg",
       "updateStatus" : 1,
       "capacity" : 7203317,
-      "lastUpdateTime" : "2013-11-22 08:03:10"
+      "lastUpdateTime" : "2013-11-22 08:03:10",
+      "bothType" : false
     }, {
       "id" : 2070,
       "name" : "最后一个情人",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18139.jpg",
       "updateStatus" : 2,
       "capacity" : 8535064,
-      "lastUpdateTime" : "2013-11-22 07:09:02"
+      "lastUpdateTime" : "2013-11-22 07:09:02",
+      "bothType" : true
     }, {
       "id" : 2357,
       "name" : "妖女别想逃",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43730.jpg",
       "updateStatus" : 1,
       "capacity" : 7544313,
-      "lastUpdateTime" : "2013-11-22 06:23:57"
+      "lastUpdateTime" : "2013-11-22 06:23:57",
+      "bothType" : true
     }, {
       "id" : 2988,
       "name" : "梦想之星",
@@ -92,7 +102,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 9149500,
-      "lastUpdateTime" : "2013-11-22 05:52:08"
+      "lastUpdateTime" : "2013-11-22 05:52:08",
+      "bothType" : true
     }, {
       "id" : 2047,
       "name" : "越长大越现实",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47340.jpg",
       "updateStatus" : 1,
       "capacity" : 1937108,
-      "lastUpdateTime" : "2013-11-22 04:57:00"
+      "lastUpdateTime" : "2013-11-22 04:57:00",
+      "bothType" : false
     }, {
       "id" : 2140,
       "name" : "傲剑江湖",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_4583.jpg",
       "updateStatus" : 1,
       "capacity" : 4283145,
-      "lastUpdateTime" : "2013-11-22 04:50:21"
+      "lastUpdateTime" : "2013-11-22 04:50:21",
+      "bothType" : false
     }, {
       "id" : 2380,
       "name" : "执手深爱",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47733.jpg",
       "updateStatus" : 1,
       "capacity" : 3754947,
-      "lastUpdateTime" : "2013-11-22 04:47:51"
+      "lastUpdateTime" : "2013-11-22 04:47:51",
+      "bothType" : false
     }, {
       "id" : 3690,
       "name" : "帝王劫：重生之丑女皇后",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46019.jpg",
       "updateStatus" : 1,
       "capacity" : 155986,
-      "lastUpdateTime" : "2013-11-22 04:40:57"
+      "lastUpdateTime" : "2013-11-22 04:40:57",
+      "bothType" : false
     }, {
       "id" : 2122,
       "name" : "毒药的诱惑",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22523.jpg",
       "updateStatus" : 1,
       "capacity" : 4817949,
-      "lastUpdateTime" : "2013-11-22 04:19:06"
+      "lastUpdateTime" : "2013-11-22 04:19:06",
+      "bothType" : false
     }, {
       "id" : 2869,
       "name" : "穿越之美人太冷",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44590.jpg",
       "updateStatus" : 1,
       "capacity" : 5288728,
-      "lastUpdateTime" : "2013-11-22 03:57:52"
+      "lastUpdateTime" : "2013-11-22 03:57:52",
+      "bothType" : false
     }, {
       "id" : 2971,
       "name" : "穿越之皇后是富婆",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41354.jpg",
       "updateStatus" : 1,
       "capacity" : 8925571,
-      "lastUpdateTime" : "2013-11-22 03:45:36"
+      "lastUpdateTime" : "2013-11-22 03:45:36",
+      "bothType" : true
     }, {
       "id" : 2508,
       "name" : "剑神？不是吧",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22417.jpg",
       "updateStatus" : 1,
       "capacity" : 2880188,
-      "lastUpdateTime" : "2013-11-22 03:43:40"
+      "lastUpdateTime" : "2013-11-22 03:43:40",
+      "bothType" : false
     }, {
       "id" : 3592,
       "name" : "单纯逐笑开",
@@ -164,7 +183,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 112614,
-      "lastUpdateTime" : "2013-11-22 02:46:43"
+      "lastUpdateTime" : "2013-11-22 02:46:43",
+      "bothType" : true
     } ]
   }
 }

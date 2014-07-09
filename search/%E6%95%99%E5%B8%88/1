@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 7855308,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2794,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 5001735,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2371,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "幻想耽美",
       "capacity" : 9566258,
+      "bothType" : true,
       "coverUrl" : null
     } ]
   }

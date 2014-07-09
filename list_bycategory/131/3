@@ -12,7 +12,8 @@
       "summary" : "尘沙背后，你看到什么。是否见过那双空洞的眸子，看到那个疯子又坐在街头的石凳上，述起了那些疯言疯语的故",
       "updateStatus" : 1,
       "capacity" : 1649345,
-      "readerCount" : 739
+      "readerCount" : 739,
+      "bothType" : false
     }, {
       "id" : 3235,
       "name" : "不作死就不会死",
@@ -20,7 +21,8 @@
       "summary" : "新来的年轻女同事很讨厌,总是试图打探我的过去,还擅自将我引入险境,在我看来,她所作的一切就是在“作死",
       "updateStatus" : 1,
       "capacity" : 81941,
-      "readerCount" : 552
+      "readerCount" : 552,
+      "bothType" : false
     }, {
       "id" : 3446,
       "name" : "本草纲目",
@@ -28,7 +30,8 @@
       "summary" : "对不起，如果你想找的是那本李时珍先人的医学著作，那么我想你得换过网页了，这本书完全不是你想的那样，我",
       "updateStatus" : 1,
       "capacity" : 64202,
-      "readerCount" : 438
+      "readerCount" : 438,
+      "bothType" : true
     }, {
       "id" : 3436,
       "name" : "《侦探日记》",
@@ -36,7 +39,8 @@
       "summary" : "我的身份到底是谁？我与多少人换过身份？一片残页打破了原有的生活寂静。我的过去与未来都在这一刻改变。我",
       "updateStatus" : 1,
       "capacity" : 23089,
-      "readerCount" : 354
+      "readerCount" : 354,
+      "bothType" : true
     }, {
       "id" : 3712,
       "name" : "夜空泛曲",
@@ -44,7 +48,8 @@
       "summary" : "夜空泛曲这是一部很好的作品。",
       "updateStatus" : 1,
       "capacity" : 55242,
-      "readerCount" : 258
+      "readerCount" : 258,
+      "bothType" : false
     }, {
       "id" : 3350,
       "name" : "鬼话连篇",
@@ -52,7 +57,8 @@
       "summary" : "玄学五门：山医命卜术相分相人之将来相地之好坏，卜为算命为判医者医身医心，四门相辅相成追寻最高境界，即",
       "updateStatus" : 1,
       "capacity" : 46261,
-      "readerCount" : 190
+      "readerCount" : 190,
+      "bothType" : false
     }, {
       "id" : 3234,
       "name" : "死神通法三部曲",
@@ -60,7 +66,8 @@
       "summary" : "死、死、死、死。当夜幕降临、恐惧袭来之时、死神就会微笑着出现在你的面前、或者有人跟在你的身后……",
       "updateStatus" : 1,
       "capacity" : 10738,
-      "readerCount" : 187
+      "readerCount" : 187,
+      "bothType" : false
     }, {
       "id" : 3729,
       "name" : "琉璃色.彼岸花",
@@ -68,7 +75,8 @@
       "summary" : "那年的那个新春，在春晚还在准备之际，平静而又闲散的H市（杜撰滴〜）没有迎来新的娱乐消息，却迎来了一封",
       "updateStatus" : 1,
       "capacity" : 42799,
-      "readerCount" : 180
+      "readerCount" : 180,
+      "bothType" : false
     }, {
       "id" : 3701,
       "name" : "游走的灵魂",
@@ -76,7 +84,8 @@
       "summary" : "深色的夜上演着孤独、落寞生命遇上了未知一个神秘的灵魂来了来自于一个女人的夜梦黑暗退却一个个鲜活的人生",
       "updateStatus" : 1,
       "capacity" : 30975,
-      "readerCount" : 104
+      "readerCount" : 104,
+      "bothType" : false
     } ]
   }
 }

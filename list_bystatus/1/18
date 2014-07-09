@@ -12,7 +12,8 @@
       "summary" : "他们说，一切都是因为那把虎啸龙吟的宝剑他们说，谁也不信那个心怀天下的大英雄会是通敌叛国的罪人他们说，",
       "updateStatus" : 1,
       "capacity" : 1133098,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : true
     }, {
       "id" : 2466,
       "name" : "寻魂记之称霸地狱",
@@ -20,7 +21,8 @@
       "summary" : "一场意外的车祸，牵扯的确是一场黑暗的阴阳交易！为了寻找爱人丢失的魂魄，他中了奸计困身地狱之中。一场偶",
       "updateStatus" : 1,
       "capacity" : 2668491,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2772,
       "name" : "盛逝芳华",
@@ -28,7 +30,8 @@
       "summary" : "",
       "updateStatus" : 1,
       "capacity" : 7912623,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2486,
       "name" : "天才少女侦探",
@@ -36,7 +39,8 @@
       "summary" : "天才侦探秋雪月，有多少个名字。本文前面推理情节较少，后面会增多。困难，天之骄子的选择是......",
       "updateStatus" : 1,
       "capacity" : 8351104,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2798,
       "name" : "随心而动",
@@ -44,7 +48,8 @@
       "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容",
       "updateStatus" : 1,
       "capacity" : 3223793,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2227,
       "name" : "小狐赤烛",
@@ -52,7 +57,8 @@
       "summary" : "如果能够，我想回到我九百岁的时候，在青丘。那时候，天高远，水清浅。我和我的小伙伴们，在四季常青的山坡",
       "updateStatus" : 1,
       "capacity" : 5811082,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2797,
       "name" : "那年夏天残留的支离破碎",
@@ -60,7 +66,8 @@
       "summary" : "那个夏夕然的女子，在那个夏天消失在了阳光温暖的地平线上。尹希杨，你再也找不到我了，后悔了吗？&mid",
       "updateStatus" : 1,
       "capacity" : 5891028,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2427,
       "name" : "生活，就是一个园",
@@ -68,7 +75,8 @@
       "summary" : "本文描述了上善若水大学后独自一人来到北京创业，途中认识了小鱼儿、小仙子、任经理等。从此他就闯入她的生",
       "updateStatus" : 1,
       "capacity" : 6878248,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2429,
       "name" : "嗜血女：黑道霸称王",
@@ -76,7 +84,8 @@
       "summary" : "“放开我，你别碰我，求求你”宁夏无助的哀求着。“我为什么要听你的？你本来就是爸爸从孤儿院给我带回来的",
       "updateStatus" : 1,
       "capacity" : 3469294,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2482,
       "name" : "末世竞逐",
@@ -84,7 +93,8 @@
       "summary" : "这是一个坑，嗯，只是开个坑。嗯，这是末日文。",
       "updateStatus" : 1,
       "capacity" : 7097452,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2556,
       "name" : "山姆大叔不会Say：哈喽",
@@ -92,7 +102,8 @@
       "summary" : "和所有的留学生一样渴望着另一个世界的刺激..所以她背起行囊前往星条国旗代表着自由的美利坚..不同的文",
       "updateStatus" : 1,
       "capacity" : 2889565,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2441,
       "name" : "云泥之间",
@@ -100,7 +111,8 @@
       "summary" : "她是自私的，贪婪的，拼命渴求爱的女人。在命运面前又显得如此不堪一击，挣扎着在泥沼的夹缝中寻求快感。自",
       "updateStatus" : 1,
       "capacity" : 3770587,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2658,
       "name" : "天佑嘉璟",
@@ -108,7 +120,8 @@
       "summary" : "芬兰人说：“既然我们被上帝放到了东西方交界的夹缝中，我们就得学会在夹缝中生存的艺术。”于是在芬兰，人",
       "updateStatus" : 1,
       "capacity" : 8301483,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2154,
       "name" : "寻仙问诱：美男不要逃",
@@ -116,7 +129,8 @@
       "summary" : "作为无心的不详乞儿，她该如何存活？是怨天尤人蜷缩于一角任心晦暗，还是不争不怒顺从等待来世？她作为无心",
       "updateStatus" : 1,
       "capacity" : 9165032,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2663,
       "name" : "如何遇见你",
@@ -124,7 +138,8 @@
       "summary" : "男大当婚，女大当嫁，被迫一次又一次的相亲后究竟会遇到谁；是因为爱情所以相守，还是因为相守日久生情；如",
       "updateStatus" : 1,
       "capacity" : 3362581,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2489,
       "name" : "雪落的声音",
@@ -132,7 +147,8 @@
       "summary" : "“我听见像是雪落的声音，一回头，是你从天而降。”“雪音，我说过，这可以是现实。”“这也是你的游戏吗？",
       "updateStatus" : 1,
       "capacity" : 6383580,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : true
     }, {
       "id" : 2066,
       "name" : "祸爱三生：嗜血夺天下",
@@ -140,7 +156,8 @@
       "summary" : "他是睥睨天下的冷酷世子，爱情于他而言不过一颗棋子，需之则用，用之则弃，毫不可惜。她是惨遭灭门的相国千",
       "updateStatus" : 1,
       "capacity" : 3587104,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2057,
       "name" : "异世修罗：废材小姐不好惹",
@@ -148,7 +165,8 @@
       "summary" : "她，是地下佣兵之王，嗜血张狂无人能挡。而她，是四大修魄世家之首的玉家血脉中最难以启齿的污点，元武皆废",
       "updateStatus" : 1,
       "capacity" : 7439165,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2377,
       "name" : "猜火车",
@@ -156,7 +174,8 @@
       "summary" : "【晋江首发】这是一段扭曲的爱恋——因为爱你啊，所以不得不让你死掉啊，与其让你在别人的怀中绽放开花，不",
       "updateStatus" : 1,
       "capacity" : 2247830,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2771,
       "name" : "鸾情错，妃本无良",
@@ -164,7 +183,8 @@
       "summary" : "她，懦弱、花痴又废才……一纸圣喻，嫁与爱慕的他为妻，却在大婚前期莫名落水身亡。她，腹黑、冷情又聪明…",
       "updateStatus" : 1,
       "capacity" : 5190540,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     } ]
   }
 }

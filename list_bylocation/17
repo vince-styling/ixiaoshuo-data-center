@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2131,
-      "name" : "重生之嫡女云笙",
+      "id" : 3525,
+      "name" : "枯时花笑",
       "updateStatus" : 1,
-      "distance" : 5335,
-      "memberId" : 6899
+      "distance" : 9957,
+      "memberId" : 8933,
+      "bothType" : true
     }, {
-      "id" : 2235,
-      "name" : "空忆落花。",
+      "id" : 3205,
+      "name" : "当冷公主遇上甜心少",
       "updateStatus" : 1,
-      "distance" : 8850,
-      "memberId" : 8124
+      "distance" : 9322,
+      "memberId" : 5864,
+      "bothType" : false
+    }, {
+      "id" : 2691,
+      "name" : "网王之绮梦玥恋",
+      "updateStatus" : 1,
+      "distance" : 3241,
+      "memberId" : 1571,
+      "bothType" : false
+    }, {
+      "id" : 2195,
+      "name" : "血之恋章",
+      "updateStatus" : 1,
+      "distance" : 2506,
+      "memberId" : 7974,
+      "bothType" : false
+    }, {
+      "id" : 2874,
+      "name" : "逆天之女：冷清太子的专属温柔",
+      "updateStatus" : 1,
+      "distance" : 668,
+      "memberId" : 8971,
+      "bothType" : true
     }, {
       "id" : 3166,
       "name" : "一品凰妻：冷情教主猎娇宠",
       "updateStatus" : 1,
-      "distance" : 1952,
-      "memberId" : 5041
+      "distance" : 6758,
+      "memberId" : 3554,
+      "bothType" : false
     }, {
-      "id" : 2705,
-      "name" : "黑道-恋上如月",
+      "id" : 2831,
+      "name" : "待你温暖如光",
       "updateStatus" : 1,
-      "distance" : 3744,
-      "memberId" : 2643
+      "distance" : 952,
+      "memberId" : 3343,
+      "bothType" : false
     }, {
-      "id" : 2634,
-      "name" : "白日说梦",
+      "id" : 3192,
+      "name" : "流年清欢",
       "updateStatus" : 1,
-      "distance" : 3520,
-      "memberId" : 5804
+      "distance" : 7658,
+      "memberId" : 3581,
+      "bothType" : true
     }, {
-      "id" : 3068,
-      "name" : "来如春梦去如风",
+      "id" : 3649,
+      "name" : "九婴传二之魔天记",
       "updateStatus" : 1,
-      "distance" : 7766,
-      "memberId" : 7023
+      "distance" : 1805,
+      "memberId" : 6964,
+      "bothType" : false
     }, {
-      "id" : 3421,
-      "name" : "心动必碎",
+      "id" : 3070,
+      "name" : "双面娇娃：爱在罂粟烂漫时",
       "updateStatus" : 1,
-      "distance" : 4153,
-      "memberId" : 2048
+      "distance" : 9347,
+      "memberId" : 7631,
+      "bothType" : false
     }, {
-      "id" : 2855,
-      "name" : "皇叔，别抢亲",
+      "id" : 3143,
+      "name" : "去日留痕",
       "updateStatus" : 1,
-      "distance" : 7904,
-      "memberId" : 4266
+      "distance" : 3448,
+      "memberId" : 2627,
+      "bothType" : false
     }, {
-      "id" : 2449,
-      "name" : "青春的坟墓",
+      "id" : 2325,
+      "name" : "彼岸花仙",
       "updateStatus" : 1,
-      "distance" : 5810,
-      "memberId" : 4719
+      "distance" : 5539,
+      "memberId" : 7757,
+      "bothType" : false
     }, {
-      "id" : 2514,
-      "name" : "新选组大河剧之星辰之名",
+      "id" : 3024,
+      "name" : "爱错",
+      "updateStatus" : 1,
+      "distance" : 3519,
+      "memberId" : 2653,
+      "bothType" : false
+    }, {
+      "id" : 2743,
+      "name" : "青羽记",
+      "updateStatus" : 1,
+      "distance" : 700,
+      "memberId" : 5920,
+      "bothType" : false
+    }, {
+      "id" : 2058,
+      "name" : "护花三公主：蛊惑美男心",
       "updateStatus" : 2,
-      "distance" : 8532,
-      "memberId" : 1511
+      "distance" : 4929,
+      "memberId" : 2345,
+      "bothType" : false
     }, {
-      "id" : 3238,
-      "name" : "红尘珏",
+      "id" : 2656,
+      "name" : "沉浮爱中殇",
       "updateStatus" : 1,
-      "distance" : 985,
-      "memberId" : 1248
+      "distance" : 9010,
+      "memberId" : 4402,
+      "bothType" : false
     }, {
-      "id" : 2370,
-      "name" : "假面的告白",
+      "id" : 2600,
+      "name" : "就这一次，非正即邪",
       "updateStatus" : 1,
-      "distance" : 3206,
-      "memberId" : 3083
+      "distance" : 500,
+      "memberId" : 2911,
+      "bothType" : true
     }, {
-      "id" : 3034,
-      "name" : "为期不返",
+      "id" : 2595,
+      "name" : "素问天下",
       "updateStatus" : 1,
-      "distance" : 2035,
-      "memberId" : 4260
+      "distance" : 934,
+      "memberId" : 4928,
+      "bothType" : false
     }, {
-      "id" : 2249,
-      "name" : "古代求生记",
-      "updateStatus" : 2,
-      "distance" : 8655,
-      "memberId" : 8054
-    }, {
-      "id" : 3295,
-      "name" : "南追",
+      "id" : 3111,
+      "name" : "真假王妃：非常之谋",
       "updateStatus" : 1,
-      "distance" : 6922,
-      "memberId" : 4276
+      "distance" : 4646,
+      "memberId" : 8363,
+      "bothType" : false
     }, {
-      "id" : 2448,
-      "name" : "似水流年之梦起（详尽版）",
+      "id" : 2889,
+      "name" : "帅哥，麻烦给我一张果照",
       "updateStatus" : 1,
-      "distance" : 8834,
-      "memberId" : 4615
-    }, {
-      "id" : 2552,
-      "name" : "顽妃双刃斩天下",
-      "updateStatus" : 1,
-      "distance" : 4216,
-      "memberId" : 5882
-    }, {
-      "id" : 2305,
-      "name" : "梦穿封神记：我欲齐天只为卿",
-      "updateStatus" : 2,
-      "distance" : 9024,
-      "memberId" : 5423
-    }, {
-      "id" : 3003,
-      "name" : "蝶樱澜",
-      "updateStatus" : 1,
-      "distance" : 5867,
-      "memberId" : 2807
-    }, {
-      "id" : 2354,
-      "name" : "我能买下你",
-      "updateStatus" : 1,
-      "distance" : 1992,
-      "memberId" : 2252
+      "distance" : 6770,
+      "memberId" : 8813,
+      "bothType" : true
     } ]
   }
 }

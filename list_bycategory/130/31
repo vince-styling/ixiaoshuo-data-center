@@ -12,7 +12,8 @@
       "summary" : "传说中，在一座城堡的深处，藏着一座彩虹湖，它拥有无比神奇的力量，如果是真心相爱的两个人许愿，它一定会",
       "updateStatus" : 1,
       "capacity" : 12828,
-      "readerCount" : 156
+      "readerCount" : 156,
+      "bothType" : false
     }, {
       "id" : 3297,
       "name" : "左手的秘密",
@@ -20,7 +21,8 @@
       "summary" : "我们都曾走过十七八岁如梦的季节，那一幅幅如花似锦的现实美图，不管何时想起都会让人谜一样的醉了，会心的",
       "updateStatus" : 1,
       "capacity" : 47216,
-      "readerCount" : 154
+      "readerCount" : 154,
+      "bothType" : false
     }, {
       "id" : 3601,
       "name" : "黑道之一夕问晴天",
@@ -28,7 +30,8 @@
       "summary" : "纪流天，北美顶级黑帮豪门世家“流煞”的老大，冷然孤傲，因为一个U盘，他意外邂逅了沉静清雅的外科女医生",
       "updateStatus" : 1,
       "capacity" : 94058,
-      "readerCount" : 144
+      "readerCount" : 144,
+      "bothType" : false
     }, {
       "id" : 3082,
       "name" : "当代校园情圣",
@@ -36,7 +39,8 @@
       "summary" : "情圣联盟，一个校园版百合网。专业介绍妹纸，帅锅的首创服务，帮助无数帅女戳男脱单。，成功率高达99.9",
       "updateStatus" : 1,
       "capacity" : 1195840,
-      "readerCount" : 142
+      "readerCount" : 142,
+      "bothType" : false
     }, {
       "id" : 3520,
       "name" : "花开花落，唯守那段情",
@@ -44,7 +48,8 @@
       "summary" : "他们不是相爱吗，怎么变成这样了，一场车祸，他醒来，只道：“小薰薰，我这是在哪儿？”变身恶女，她只想说",
       "updateStatus" : 1,
       "capacity" : 99175,
-      "readerCount" : 142
+      "readerCount" : 142,
+      "bothType" : true
     }, {
       "id" : 2812,
       "name" : "可能",
@@ -52,7 +57,8 @@
       "summary" : "一种淡淡的很真实的同性之间的感情，清新小伤感的感觉，她们可能深爱着彼此吧，只是走不出自己的世界去拥抱",
       "updateStatus" : 1,
       "capacity" : 4557732,
-      "readerCount" : 139
+      "readerCount" : 139,
+      "bothType" : false
     }, {
       "id" : 3130,
       "name" : "冷情总裁，我不爱",
@@ -60,7 +66,8 @@
       "summary" : "从见到他开始，她就陷入了一串又一串的麻烦中。而罪魁祸首就是他！无奈之下，向他求助，不料这个冷血的男人",
       "updateStatus" : 1,
       "capacity" : 569723,
-      "readerCount" : 138
+      "readerCount" : 138,
+      "bothType" : false
     }, {
       "id" : 3378,
       "name" : "popular天使",
@@ -68,7 +75,8 @@
       "summary" : "一个公主，一个丑小鸭，两个完全不同背景的人，唯一相同的地方大概就是她们的善良了吧。但是，命运却和她们",
       "updateStatus" : 1,
       "capacity" : 94682,
-      "readerCount" : 137
+      "readerCount" : 137,
+      "bothType" : false
     }, {
       "id" : 3674,
       "name" : "爱上闷骚姐",
@@ -76,7 +84,8 @@
       "summary" : "杯中的红酒，摇晃着迷乱的人生。他狼一样的身体和欲望，淹没在灯红酒绿下的女人中。她历经岁月的沧桑和沉淀",
       "updateStatus" : 1,
       "capacity" : 85312,
-      "readerCount" : 132
+      "readerCount" : 132,
+      "bothType" : false
     }, {
       "id" : 3722,
       "name" : "夏日妍妍正好眠",
@@ -84,7 +93,8 @@
       "summary" : "每天走过的长坡，每日偷看的门。他不知道她的情，她不明白他的意。明明是不熟识的人，却可以因为时间而改变",
       "updateStatus" : 1,
       "capacity" : 37456,
-      "readerCount" : 132
+      "readerCount" : 132,
+      "bothType" : false
     }, {
       "id" : 3265,
       "name" : "如果，没有你",
@@ -92,7 +102,8 @@
       "summary" : "生命中，总会有不同的人出现，引导你走向不同的旅程。我十八岁的时候，老妈握着我的双手切完蛋糕宣告了我的",
       "updateStatus" : 1,
       "capacity" : 179556,
-      "readerCount" : 130
+      "readerCount" : 130,
+      "bothType" : false
     }, {
       "id" : 3676,
       "name" : "时光少女",
@@ -100,7 +111,8 @@
       "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容",
       "updateStatus" : 1,
       "capacity" : 26009,
-      "readerCount" : 124
+      "readerCount" : 124,
+      "bothType" : false
     }, {
       "id" : 3172,
       "name" : "竹马太腹黑",
@@ -108,7 +120,8 @@
       "summary" : "这是一对青梅竹马的故事，男主腹黑，女主有些神经大条但是绝对不傻。本文不虐，如有亲不喜，请绕道。",
       "updateStatus" : 1,
       "capacity" : 80360,
-      "readerCount" : 118
+      "readerCount" : 118,
+      "bothType" : false
     }, {
       "id" : 3682,
       "name" : "军匪，温柔点！",
@@ -116,7 +129,8 @@
       "summary" : "雷冉东在会所第一次见到白多多时，是她把李一鸣裆部给踹了，印象颇深。白多多一堆艳史被医院里的同事传的沸",
       "updateStatus" : 1,
       "capacity" : 124802,
-      "readerCount" : 109
+      "readerCount" : 109,
+      "bothType" : false
     }, {
       "id" : 3331,
       "name" : "武警婚约之山东佳人",
@@ -124,7 +138,8 @@
       "summary" : "神秘，偶热，仰慕，暗恋这一路发展下来，似乎都是冥冥中注定的。这一切最终形成了婚约。林刚心中的山东佳人",
       "updateStatus" : 1,
       "capacity" : 29299,
-      "readerCount" : 103
+      "readerCount" : 103,
+      "bothType" : false
     }, {
       "id" : 3698,
       "name" : "情乱",
@@ -132,7 +147,8 @@
       "summary" : "第二部，文笔会慢慢提高，龟速更文……其他内容就不说了",
       "updateStatus" : 1,
       "capacity" : 34934,
-      "readerCount" : 102
+      "readerCount" : 102,
+      "bothType" : false
     } ]
   }
 }

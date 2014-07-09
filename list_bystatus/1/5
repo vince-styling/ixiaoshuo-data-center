@@ -12,7 +12,8 @@
       "summary" : "轮回，一回生，一回死。彼岸花开，万物枯萎。弱水不定，奈何不稳。道生一，一生二，二生三，三生万物，万物",
       "updateStatus" : 1,
       "capacity" : 5889122,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3037,
       "name" : "简单的幸福",
@@ -20,7 +21,8 @@
       "summary" : "有人说：在错的时间遇到对的人是一声叹息;在错的时间遇到错的人是一世荒唐;在对的时间遇到错的人是一场心",
       "updateStatus" : 1,
       "capacity" : 3880202,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2826,
       "name" : "沐晴只到梨花薄",
@@ -28,7 +30,8 @@
       "summary" : "她，成熟稳重却又可爱果敢，当那个男人把喝醉酒的她独自扔下，以至于她差点被人强暴。醒来后的她就说了一句",
       "updateStatus" : 1,
       "capacity" : 5287276,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2479,
       "name" : "诡音：楼上的高跟鞋",
@@ -36,7 +39,8 @@
       "summary" : "“姑娘，你每天晚上都回来这么晚啊？一个人多不安全啊！”“习惯了...”只是三个字却让刘高轩一阵颤栗.",
       "updateStatus" : 1,
       "capacity" : 9582940,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2048,
       "name" : "嗜血毒妃虐红尘",
@@ -44,7 +48,8 @@
       "summary" : "前世——她是没落贵族千金，一朝梦碎，他弃之；千秋梦断、魂陨孤崖，残生永不相见。今生——她是嗜血妖孽，",
       "updateStatus" : 1,
       "capacity" : 6784023,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2532,
       "name" : "芫花",
@@ -52,7 +57,8 @@
       "summary" : "每一朵花都有自己的花语，而每一个话语对应着不同的爱情故事。而我，作为唯一能知晓所有花朵真正花语以及花",
       "updateStatus" : 1,
       "capacity" : 9069635,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2917,
       "name" : "碧海蓝天最倾城",
@@ -60,7 +66,8 @@
       "summary" : "命中注定在一起的两个人，也许会有误会，猜忌，分离，最终他许她一片碧海蓝天，铸就一段倾城爱恋。",
       "updateStatus" : 1,
       "capacity" : 9123694,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2210,
       "name" : "神魔罗曼史",
@@ -68,7 +75,8 @@
       "summary" : "一个异时空中，四足鼎立。战争四起，乱世中，美人乡神族中出现了一个个传奇人物……",
       "updateStatus" : 1,
       "capacity" : 8096669,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2241,
       "name" : "猎魔人范海辛",
@@ -76,7 +84,8 @@
       "summary" : "古老的梵蒂冈教廷，坐落于罗马城内的梵蒂冈国之中，每天接待的游客数以万计而不止，表面上这个伟大的教廷是",
       "updateStatus" : 1,
       "capacity" : 2114399,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2130,
       "name" : "文德皇后传",
@@ -84,7 +93,8 @@
       "summary" : "我在皇上还未登基前便入了府，过往的那段岁月，当真是此生难忘。三年前，也是这样一个月朗星稀的夜晚。他还",
       "updateStatus" : 1,
       "capacity" : 4164520,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2295,
       "name" : "未来帝国之战国春秋",
@@ -92,7 +102,8 @@
       "summary" : "2012，世界翻天覆地，一对孪生兄弟被埋在雪地里。百年后醒来，一切都已面目俱非，人类的文明在过了百多",
       "updateStatus" : 1,
       "capacity" : 3902500,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2310,
       "name" : "小石劫",
@@ -100,7 +111,8 @@
       "summary" : "她是无忧无虑的一枚小小妖石，借着钟灵毓秀天地之气幻化成人，无心无情游历在天地之间，一事一轮回，千回百",
       "updateStatus" : 1,
       "capacity" : 3902011,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 2777,
       "name" : "穿越之风沁",
@@ -108,7 +120,8 @@
       "summary" : "她的前生被未婚夫和亲人背叛，这次她重生而来，不想再活得如此窝囊，不想再受人欺骗。今生，她遇到了视自己",
       "updateStatus" : 1,
       "capacity" : 8402359,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2729,
       "name" : "妃霸天下",
@@ -116,7 +129,8 @@
       "summary" : "读者群，交流群，喜欢的亲可以加入：324611606穿越的第一天她就被那个冷酷霸道的男人吃干抹净了她",
       "updateStatus" : 1,
       "capacity" : 3364635,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2439,
       "name" : "付卿吾韶华",
@@ -124,7 +138,8 @@
       "summary" : "板着手指，已经是第七次相亲了，27岁算半个剩女的钟泠不怪母亲会着急她的终身大事。可是，为什么这时上天",
       "updateStatus" : 1,
       "capacity" : 8434566,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2914,
       "name" : "寻找自己",
@@ -132,7 +147,8 @@
       "summary" : "一觉醒来，一切都变了，我从一个男人变成了女人，而且我不知道这个美女是谁，更不知道我的身体去了那里，这",
       "updateStatus" : 1,
       "capacity" : 9633415,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2639,
       "name" : "来不及说出口的爱",
@@ -140,7 +156,8 @@
       "summary" : "是前世犯下的错还是这本就是孽缘，本来就是青梅竹马的两人为何会发展成现在这个样子，相见不相识，相遇不相",
       "updateStatus" : 1,
       "capacity" : 6909384,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2844,
       "name" : "漠王殇",
@@ -148,7 +165,8 @@
       "summary" : "“我可以用残酷来坐稳这江山，我可以用暴政来统一天下，可是对你，我连狠下心放开都无法做到！”“你，注定",
       "updateStatus" : 1,
       "capacity" : 1001749,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2170,
       "name" : "轮回三生劫",
@@ -156,7 +174,8 @@
       "summary" : "缘定三生，缘证三生。三生石在中国是一个神秘古老而美丽的传说。三生石面前见证了无数催人泪下可歌可泣的爱",
       "updateStatus" : 1,
       "capacity" : 6036799,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 2040,
       "name" : "误闯总裁领地，哪里逃！",
@@ -164,7 +183,8 @@
       "summary" : "如果，并不怎么熟的两人偶然亲在了一起，一个荷尔蒙飙升一个脸红心跳，说明了什么？如果，互不待见的两个人",
       "updateStatus" : 1,
       "capacity" : 2926783,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     } ]
   }
 }

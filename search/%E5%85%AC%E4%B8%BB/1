@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 2093905,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2190,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 5479737,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2548,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 1073095,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2117,
@@ -40,6 +43,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 1544772,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2102,
@@ -49,6 +53,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 5741220,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2816,
@@ -58,6 +63,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 2542861,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2323,
@@ -67,6 +73,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 6908550,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2865,
@@ -76,6 +83,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 8099503,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2558,
@@ -85,6 +93,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 1134061,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2093,
@@ -94,6 +103,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 2825781,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2312,
@@ -103,6 +113,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 6098005,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2068,
@@ -112,6 +123,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 7282003,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2098,
@@ -121,6 +133,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 9972666,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2900,
@@ -130,6 +143,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 1844274,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2072,
@@ -139,6 +153,7 @@
       "updateStatus" : 2,
       "catName" : "古代言情",
       "capacity" : 7792329,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2881,
@@ -148,6 +163,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 8302065,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2949,
@@ -157,6 +173,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 5547496,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2770,
@@ -166,6 +183,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 9164052,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2060,
@@ -175,6 +193,7 @@
       "updateStatus" : 2,
       "catName" : "古代言情",
       "capacity" : 6429154,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2069,
@@ -184,6 +203,7 @@
       "updateStatus" : 2,
       "catName" : "古代言情",
       "capacity" : 8890187,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

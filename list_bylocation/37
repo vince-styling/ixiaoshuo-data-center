@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2422,
-      "name" : "豪门恩怨：恋上谁的妻",
-      "updateStatus" : 1,
-      "distance" : 6788,
-      "memberId" : 8604
-    }, {
-      "id" : 2829,
-      "name" : "女兽与美郎",
-      "updateStatus" : 1,
-      "distance" : 6572,
-      "memberId" : 6959
-    }, {
-      "id" : 3200,
-      "name" : "你若不来，我便不老",
-      "updateStatus" : 1,
-      "distance" : 7011,
-      "memberId" : 4452
-    }, {
-      "id" : 3137,
-      "name" : "只要你还在这里",
-      "updateStatus" : 1,
-      "distance" : 3887,
-      "memberId" : 6713
-    }, {
-      "id" : 3685,
-      "name" : "若痕",
-      "updateStatus" : 1,
-      "distance" : 1347,
-      "memberId" : 4432
-    }, {
-      "id" : 2262,
-      "name" : "三生河畔等着你",
-      "updateStatus" : 1,
-      "distance" : 4217,
-      "memberId" : 4788
-    }, {
-      "id" : 2926,
-      "name" : "清宫情史",
-      "updateStatus" : 1,
-      "distance" : 3676,
-      "memberId" : 5214
-    }, {
-      "id" : 3326,
-      "name" : "暖暖的",
-      "updateStatus" : 1,
-      "distance" : 5504,
-      "memberId" : 2512
-    }, {
-      "id" : 2680,
-      "name" : "若要爱，非你不可",
-      "updateStatus" : 1,
-      "distance" : 5954,
-      "memberId" : 2044
-    }, {
-      "id" : 2790,
-      "name" : "三世豪门：极品娇妻来袭",
-      "updateStatus" : 1,
-      "distance" : 9724,
-      "memberId" : 2528
-    }, {
-      "id" : 2709,
-      "name" : "至尊特工：狂凤逆九天",
-      "updateStatus" : 1,
-      "distance" : 3162,
-      "memberId" : 4845
-    }, {
-      "id" : 2300,
-      "name" : "蛇眸繁花",
+      "id" : 2137,
+      "name" : "逆墨灵",
       "updateStatus" : 2,
-      "distance" : 3325,
-      "memberId" : 5329
+      "distance" : 8306,
+      "memberId" : 6637,
+      "bothType" : true
     }, {
-      "id" : 3448,
-      "name" : "荼蘼花未开",
+      "id" : 3059,
+      "name" : "倾世鬼王",
       "updateStatus" : 1,
-      "distance" : 945,
-      "memberId" : 6592
+      "distance" : 1239,
+      "memberId" : 7405,
+      "bothType" : false
     }, {
-      "id" : 3632,
-      "name" : "幽谷之殇",
+      "id" : 2479,
+      "name" : "诡音：楼上的高跟鞋",
       "updateStatus" : 1,
-      "distance" : 9280,
-      "memberId" : 3313
+      "distance" : 4578,
+      "memberId" : 5788,
+      "bothType" : false
     }, {
-      "id" : 2114,
-      "name" : "未婚妈妈，首席太霸道",
-      "updateStatus" : 2,
-      "distance" : 9779,
-      "memberId" : 4219
-    }, {
-      "id" : 2879,
-      "name" : "恨别离之乱世情殇",
+      "id" : 3670,
+      "name" : "桃花含烟带墨浓",
       "updateStatus" : 1,
-      "distance" : 2856,
-      "memberId" : 8205
+      "distance" : 1582,
+      "memberId" : 3602,
+      "bothType" : false
     }, {
-      "id" : 2105,
-      "name" : "是谁弯下小蛮腰",
+      "id" : 3621,
+      "name" : "竹歪桃花三两枝",
       "updateStatus" : 1,
-      "distance" : 7471,
-      "memberId" : 4085
+      "distance" : 4657,
+      "memberId" : 7038,
+      "bothType" : false
     }, {
-      "id" : 2084,
-      "name" : "紫月星尘",
+      "id" : 2473,
+      "name" : "解惑",
       "updateStatus" : 1,
-      "distance" : 8752,
-      "memberId" : 5590
+      "distance" : 4551,
+      "memberId" : 4248,
+      "bothType" : true
     }, {
-      "id" : 2508,
-      "name" : "剑神？不是吧",
+      "id" : 3736,
+      "name" : "狂",
       "updateStatus" : 1,
-      "distance" : 5817,
-      "memberId" : 6008
+      "distance" : 3710,
+      "memberId" : 5999,
+      "bothType" : false
     }, {
-      "id" : 2513,
-      "name" : "溺爱",
+      "id" : 2266,
+      "name" : "倾酌天下",
       "updateStatus" : 1,
-      "distance" : 7112,
-      "memberId" : 6435
+      "distance" : 6523,
+      "memberId" : 1939,
+      "bothType" : true
+    }, {
+      "id" : 2409,
+      "name" : "异世界的盛宴",
+      "updateStatus" : 1,
+      "distance" : 9866,
+      "memberId" : 7917,
+      "bothType" : false
+    }, {
+      "id" : 2970,
+      "name" : "《存在的烙印》",
+      "updateStatus" : 1,
+      "distance" : 4526,
+      "memberId" : 3971,
+      "bothType" : false
+    }, {
+      "id" : 3458,
+      "name" : "极品女宠王妃",
+      "updateStatus" : 1,
+      "distance" : 1133,
+      "memberId" : 7492,
+      "bothType" : true
+    }, {
+      "id" : 3011,
+      "name" : "守护伊始只为你",
+      "updateStatus" : 1,
+      "distance" : 2329,
+      "memberId" : 4306,
+      "bothType" : true
+    }, {
+      "id" : 2802,
+      "name" : "黑暗之争：女王再现",
+      "updateStatus" : 1,
+      "distance" : 2559,
+      "memberId" : 7588,
+      "bothType" : false
+    }, {
+      "id" : 2261,
+      "name" : "血魇如影",
+      "updateStatus" : 1,
+      "distance" : 4700,
+      "memberId" : 7569,
+      "bothType" : true
+    }, {
+      "id" : 2551,
+      "name" : "巧笑嫣然",
+      "updateStatus" : 1,
+      "distance" : 9916,
+      "memberId" : 5769,
+      "bothType" : false
+    }, {
+      "id" : 2216,
+      "name" : "欲之巅",
+      "updateStatus" : 1,
+      "distance" : 9222,
+      "memberId" : 5097,
+      "bothType" : false
+    }, {
+      "id" : 3428,
+      "name" : "流年轻度鸳鸯浦",
+      "updateStatus" : 1,
+      "distance" : 2006,
+      "memberId" : 3817,
+      "bothType" : false
+    }, {
+      "id" : 2100,
+      "name" : "终归殊途，许可同归",
+      "updateStatus" : 1,
+      "distance" : 3290,
+      "memberId" : 2368,
+      "bothType" : false
+    }, {
+      "id" : 2964,
+      "name" : "以我一生护你一世",
+      "updateStatus" : 1,
+      "distance" : 4216,
+      "memberId" : 1794,
+      "bothType" : false
+    }, {
+      "id" : 3337,
+      "name" : "旋转的漩涡",
+      "updateStatus" : 1,
+      "distance" : 8047,
+      "memberId" : 4715,
+      "bothType" : false
     } ]
   }
 }

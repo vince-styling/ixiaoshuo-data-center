@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2144,
-      "name" : "英雄道",
+      "id" : 2673,
+      "name" : "默默心动",
+      "updateStatus" : 1,
+      "distance" : 8822,
+      "memberId" : 2943,
+      "bothType" : false
+    }, {
+      "id" : 2945,
+      "name" : "烟月飞鸟",
+      "updateStatus" : 1,
+      "distance" : 5561,
+      "memberId" : 7285,
+      "bothType" : false
+    }, {
+      "id" : 3585,
+      "name" : "桃花醉之天下",
+      "updateStatus" : 1,
+      "distance" : 4479,
+      "memberId" : 3614,
+      "bothType" : false
+    }, {
+      "id" : 3355,
+      "name" : "野蛮小宫女",
+      "updateStatus" : 1,
+      "distance" : 729,
+      "memberId" : 7158,
+      "bothType" : false
+    }, {
+      "id" : 2112,
+      "name" : "温暖如春",
+      "updateStatus" : 1,
+      "distance" : 8999,
+      "memberId" : 1178,
+      "bothType" : false
+    }, {
+      "id" : 3121,
+      "name" : "云从山庄",
+      "updateStatus" : 1,
+      "distance" : 7019,
+      "memberId" : 8266,
+      "bothType" : true
+    }, {
+      "id" : 2290,
+      "name" : "菩提",
+      "updateStatus" : 1,
+      "distance" : 7597,
+      "memberId" : 8131,
+      "bothType" : false
+    }, {
+      "id" : 2578,
+      "name" : "毕业不分手",
+      "updateStatus" : 1,
+      "distance" : 2208,
+      "memberId" : 7163,
+      "bothType" : true
+    }, {
+      "id" : 2523,
+      "name" : "这是桃花劫吗",
+      "updateStatus" : 1,
+      "distance" : 6529,
+      "memberId" : 6802,
+      "bothType" : false
+    }, {
+      "id" : 2660,
+      "name" : "败类黑道",
+      "updateStatus" : 1,
+      "distance" : 656,
+      "memberId" : 4991,
+      "bothType" : true
+    }, {
+      "id" : 3120,
+      "name" : "文科班的屌丝男们",
+      "updateStatus" : 1,
+      "distance" : 4325,
+      "memberId" : 2096,
+      "bothType" : true
+    }, {
+      "id" : 2806,
+      "name" : "浮尘之爱",
+      "updateStatus" : 1,
+      "distance" : 8245,
+      "memberId" : 6801,
+      "bothType" : false
+    }, {
+      "id" : 2386,
+      "name" : "至臻奢宠：冷情教父的罂粟情人",
       "updateStatus" : 2,
-      "distance" : 2284,
-      "memberId" : 1073
+      "distance" : 9154,
+      "memberId" : 5219,
+      "bothType" : false
     }, {
-      "id" : 2676,
-      "name" : "君悦我心",
+      "id" : 2822,
+      "name" : "追妻攻略：腹黑BOSS不好惹",
       "updateStatus" : 1,
-      "distance" : 4105,
-      "memberId" : 7492
+      "distance" : 9885,
+      "memberId" : 1273,
+      "bothType" : false
     }, {
-      "id" : 3015,
-      "name" : "三境鏖锋录",
+      "id" : 3096,
+      "name" : "绝不放手",
       "updateStatus" : 1,
-      "distance" : 4306,
-      "memberId" : 4540
+      "distance" : 1111,
+      "memberId" : 7028,
+      "bothType" : false
     }, {
-      "id" : 2213,
-      "name" : "群芳谱",
-      "updateStatus" : 2,
-      "distance" : 5032,
-      "memberId" : 2718
-    }, {
-      "id" : 2917,
-      "name" : "碧海蓝天最倾城",
+      "id" : 2296,
+      "name" : "梦穿康熙换乾坤",
       "updateStatus" : 1,
-      "distance" : 8236,
-      "memberId" : 3431
+      "distance" : 8045,
+      "memberId" : 3915,
+      "bothType" : false
     }, {
-      "id" : 3499,
-      "name" : "绮人心之刻度",
+      "id" : 3006,
+      "name" : "君在水之湄",
       "updateStatus" : 1,
-      "distance" : 4534,
-      "memberId" : 8124
+      "distance" : 818,
+      "memberId" : 6626,
+      "bothType" : true
     }, {
-      "id" : 2495,
-      "name" : "一个农村女人的蝴蝶梦",
+      "id" : 3559,
+      "name" : "最珍贵的沉默",
       "updateStatus" : 1,
-      "distance" : 3663,
-      "memberId" : 3466
+      "distance" : 4048,
+      "memberId" : 2928,
+      "bothType" : false
     }, {
-      "id" : 2098,
-      "name" : "东风吹尽龙沙雪",
+      "id" : 2742,
+      "name" : "异界为魔",
       "updateStatus" : 1,
-      "distance" : 2109,
-      "memberId" : 5127
+      "distance" : 5986,
+      "memberId" : 3980,
+      "bothType" : true
     }, {
-      "id" : 2229,
-      "name" : "异界之神路传说",
+      "id" : 2908,
+      "name" : "红绳子",
       "updateStatus" : 1,
-      "distance" : 7324,
-      "memberId" : 3774
-    }, {
-      "id" : 2614,
-      "name" : "赤瞳的海盗",
-      "updateStatus" : 2,
-      "distance" : 4598,
-      "memberId" : 6373
-    }, {
-      "id" : 3361,
-      "name" : "逍遥人生：痞子王爷很妖娆",
-      "updateStatus" : 1,
-      "distance" : 1669,
-      "memberId" : 7145
-    }, {
-      "id" : 3710,
-      "name" : "最后一瓶冰红茶",
-      "updateStatus" : 1,
-      "distance" : 1491,
-      "memberId" : 5347
-    }, {
-      "id" : 3482,
-      "name" : "迷失并盛",
-      "updateStatus" : 1,
-      "distance" : 3215,
-      "memberId" : 5080
-    }, {
-      "id" : 3379,
-      "name" : "情簪",
-      "updateStatus" : 1,
-      "distance" : 4109,
-      "memberId" : 5472
-    }, {
-      "id" : 3192,
-      "name" : "流年清欢",
-      "updateStatus" : 1,
-      "distance" : 2526,
-      "memberId" : 1945
-    }, {
-      "id" : 3034,
-      "name" : "为期不返",
-      "updateStatus" : 1,
-      "distance" : 4483,
-      "memberId" : 4831
-    }, {
-      "id" : 3269,
-      "name" : "时空之泪鸢尾花",
-      "updateStatus" : 1,
-      "distance" : 9265,
-      "memberId" : 2726
-    }, {
-      "id" : 3256,
-      "name" : "总裁大人我会乖",
-      "updateStatus" : 1,
-      "distance" : 7865,
-      "memberId" : 3015
-    }, {
-      "id" : 3102,
-      "name" : "暗光",
-      "updateStatus" : 1,
-      "distance" : 1336,
-      "memberId" : 3458
-    }, {
-      "id" : 2273,
-      "name" : "丞相公子，哪里跑",
-      "updateStatus" : 1,
-      "distance" : 2252,
-      "memberId" : 1225
+      "distance" : 7998,
+      "memberId" : 3200,
+      "bothType" : true
     } ]
   }
 }

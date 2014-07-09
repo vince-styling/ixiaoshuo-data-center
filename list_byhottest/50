@@ -12,7 +12,8 @@
       "summary" : "他，一位刚入行的新教师，被三所学校看重，最终选择了小学。他，原本对他厌恶至极，却因和他的相处慢慢的对",
       "updateStatus" : 1,
       "capacity" : 9566258,
-      "readerCount" : 3004
+      "readerCount" : 3004,
+      "bothType" : false
     }, {
       "id" : 3461,
       "name" : "束缚中的约定",
@@ -20,7 +21,8 @@
       "summary" : "《我愿用千年情，换你一世温柔。我愿用千年思，换你一日爱恋》错误的开始，延续了千年的伤痛，到最后明白了",
       "updateStatus" : 1,
       "capacity" : 1152472,
-      "readerCount" : 3003
+      "readerCount" : 3003,
+      "bothType" : true
     }, {
       "id" : 3725,
       "name" : "不知",
@@ -28,7 +30,8 @@
       "summary" : "你可以说我秉着一副肮脏皮囊还自命清高，你可以说我一副假面性情多变利益为先，你甚至可以说我低贱可怜毫无",
       "updateStatus" : 1,
       "capacity" : 558979,
-      "readerCount" : 2998
+      "readerCount" : 2998,
+      "bothType" : false
     }, {
       "id" : 3061,
       "name" : "久违的初吻",
@@ -36,7 +39,8 @@
       "summary" : "她是大学里籍籍无名之辈，却被纯情校草盯上了，更是盯上了她的初吻！女朋友可以信手捏来的他为何就独情于自",
       "updateStatus" : 1,
       "capacity" : 394391,
-      "readerCount" : 2985
+      "readerCount" : 2985,
+      "bothType" : false
     }, {
       "id" : 2343,
       "name" : "五界九州乱",
@@ -44,7 +48,8 @@
       "summary" : "风家亡，乱家灭。犬门现，九州乱。秦皇不语，阎王不怒，明王不动。山海龙王，九州乱王，枭雄秦王，红发阎王",
       "updateStatus" : 1,
       "capacity" : 5108576,
-      "readerCount" : 2977
+      "readerCount" : 2977,
+      "bothType" : true
     }, {
       "id" : 3720,
       "name" : "唯不忘相思",
@@ -52,7 +57,8 @@
       "summary" : "苏媚：师承魔尊苏秦，为魔尊座下得意弟子之一。永元十一年，奉苏秦之命，以苏秦小女的身份入宫承宠，获取澜",
       "updateStatus" : 1,
       "capacity" : 435284,
-      "readerCount" : 2966
+      "readerCount" : 2966,
+      "bothType" : false
     }, {
       "id" : 2194,
       "name" : "创世迷途",
@@ -60,7 +66,8 @@
       "summary" : "主人公于宙（王哲）为了自己创造超等智慧生命的梦想，与灭世神达成契约，来到异界寻求创世的方法。于是修仙",
       "updateStatus" : 2,
       "capacity" : 4996307,
-      "readerCount" : 2966
+      "readerCount" : 2966,
+      "bothType" : true
     }, {
       "id" : 3527,
       "name" : "审判之众神时代",
@@ -68,7 +75,8 @@
       "summary" : "当走尽了黑暗，想要的唯有光明。远古的呼唤，带起了诸神的末日，当审判重临大地。。。。未知的结局，缓缓开",
       "updateStatus" : 1,
       "capacity" : 131830,
-      "readerCount" : 2966
+      "readerCount" : 2966,
+      "bothType" : false
     }, {
       "id" : 3171,
       "name" : "豪门冷少：撞上复仇女王",
@@ -76,7 +84,8 @@
       "summary" : "三年前的一次重逢，接踵而至的却是三年的梦魇……三年后，陈婧文再次踏上熟悉的城市，迎接她的是怎么样的际",
       "updateStatus" : 1,
       "capacity" : 301830,
-      "readerCount" : 2957
+      "readerCount" : 2957,
+      "bothType" : false
     }, {
       "id" : 2390,
       "name" : "最初的仪式，最后的爱情",
@@ -84,7 +93,8 @@
       "summary" : "经历过爱情的人生才是美好的，经不起考验的爱情是不深刻的。美好的爱情使人生丰富，经得起考验的爱情是完美",
       "updateStatus" : 2,
       "capacity" : 1981133,
-      "readerCount" : 2953
+      "readerCount" : 2953,
+      "bothType" : false
     }, {
       "id" : 2490,
       "name" : "彩云国之一杯茶一辈子",
@@ -92,7 +102,8 @@
       "summary" : "从对爱情误以为的崇拜，直到离去时才知道伤心与痛苦，时间的流逝，毁去的容颜，经过无声的阶段，才终于知道",
       "updateStatus" : 1,
       "capacity" : 5806032,
-      "readerCount" : 2948
+      "readerCount" : 2948,
+      "bothType" : true
     }, {
       "id" : 3710,
       "name" : "最后一瓶冰红茶",
@@ -100,7 +111,8 @@
       "summary" : "那年喝过的冰红茶飘落风中，那年夏天的爱何去何从。",
       "updateStatus" : 1,
       "capacity" : 356416,
-      "readerCount" : 2938
+      "readerCount" : 2938,
+      "bothType" : true
     }, {
       "id" : 3739,
       "name" : "狐媚天下：妖娆娘子腹黑爷",
@@ -108,7 +120,8 @@
       "summary" : "第一世，宝婵还是小十三的侍女，心心念念的做了芙蓉脆枣糕端到了书房，却不知怎生惹了我们十三爷不高兴，慌",
       "updateStatus" : 1,
       "capacity" : 381629,
-      "readerCount" : 2934
+      "readerCount" : 2934,
+      "bothType" : true
     }, {
       "id" : 2672,
       "name" : "迷雾豪门：诱妻上瘾",
@@ -116,7 +129,8 @@
       "summary" : "“夏浅若，我们的一开始，不过就是逢场作戏”他可以心狠，可以手辣，却惟独对夏浅若做不到冷血心肠。一时的",
       "updateStatus" : 1,
       "capacity" : 1644621,
-      "readerCount" : 2929
+      "readerCount" : 2929,
+      "bothType" : true
     }, {
       "id" : 3616,
       "name" : "重生商女之总裁请自重",
@@ -124,7 +138,8 @@
       "summary" : "她是来自古代的一缕幽魂，冥冥中却来到了这个所谓人人平等，自由恋爱的现代世界，可是就在她二十四岁生日的",
       "updateStatus" : 1,
       "capacity" : 13094,
-      "readerCount" : 2917
+      "readerCount" : 2917,
+      "bothType" : false
     }, {
       "id" : 2128,
       "name" : "幻莫一世，情殇",
@@ -132,7 +147,8 @@
       "summary" : "于族，她是万众瞩目的灵术师，于情，她是背弃了所有的情殇之魔，她只求得苍生平安，却不得不舍去全部身心。",
       "updateStatus" : 1,
       "capacity" : 3064791,
-      "readerCount" : 2896
+      "readerCount" : 2896,
+      "bothType" : false
     }, {
       "id" : 3310,
       "name" : "龙级猎人",
@@ -140,7 +156,8 @@
       "summary" : "她曾经是哥哥身边的跟屁虫，整天无忧无虑地缠着哥哥买这买那，拥有着天下间最天真的笑容。他曾经是学院的废",
       "updateStatus" : 1,
       "capacity" : 756599,
-      "readerCount" : 2894
+      "readerCount" : 2894,
+      "bothType" : false
     }, {
       "id" : 2743,
       "name" : "青羽记",
@@ -148,7 +165,8 @@
       "summary" : "家族守护神的美女继承人，拥有魔瞳的银发美少女，江湖第一捕的娇蛮妹妹，柔情似水的穷苦红颜，六扇门一代冷",
       "updateStatus" : 1,
       "capacity" : 1533338,
-      "readerCount" : 2892
+      "readerCount" : 2892,
+      "bothType" : false
     }, {
       "id" : 3504,
       "name" : "《心惜之落雪之殇》",
@@ -156,7 +174,8 @@
       "summary" : "繁星闪烁着耀眼的光华，他的出世，斗转星移。命运的辗轮已经开启，那满是疮痍的灵魂见怎样辗转，他和她还会",
       "updateStatus" : 1,
       "capacity" : 1097853,
-      "readerCount" : 2887
+      "readerCount" : 2887,
+      "bothType" : false
     }, {
       "id" : 3223,
       "name" : "风吹叶舞意悠然",
@@ -164,7 +183,8 @@
       "summary" : "前世忠于爱情，却换来背叛今生愿享亲情，却终遭抛弃那么，就追求自由吧爱恨情仇悲欢离合我自悠然，笑看这世",
       "updateStatus" : 1,
       "capacity" : 794234,
-      "readerCount" : 2861
+      "readerCount" : 2861,
+      "bothType" : true
     } ]
   }
 }

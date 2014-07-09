@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3259,
-      "name" : "静若安好愉怡一生",
+      "id" : 2178,
+      "name" : "穿越之朔月传奇",
       "updateStatus" : 1,
-      "distance" : 5462,
-      "memberId" : 5693
+      "distance" : 3961,
+      "memberId" : 3912,
+      "bothType" : true
     }, {
-      "id" : 2322,
-      "name" : "异世至尊红颜",
+      "id" : 2905,
+      "name" : "再一次爱上你",
       "updateStatus" : 1,
-      "distance" : 3465,
-      "memberId" : 2113
+      "distance" : 3525,
+      "memberId" : 6959,
+      "bothType" : false
     }, {
-      "id" : 2290,
-      "name" : "菩提",
+      "id" : 3623,
+      "name" : "惊醒一袭清梦",
       "updateStatus" : 1,
-      "distance" : 7731,
-      "memberId" : 8927
+      "distance" : 8555,
+      "memberId" : 3468,
+      "bothType" : false
     }, {
-      "id" : 3431,
-      "name" : "修真女配混末世",
+      "id" : 2775,
+      "name" : "实验品女孩的桃花运",
       "updateStatus" : 1,
-      "distance" : 5160,
-      "memberId" : 3707
+      "distance" : 5004,
+      "memberId" : 7395,
+      "bothType" : true
     }, {
-      "id" : 3525,
-      "name" : "枯时花笑",
+      "id" : 2904,
+      "name" : "致青春，伊人有毒",
       "updateStatus" : 1,
-      "distance" : 1546,
-      "memberId" : 4352
+      "distance" : 9341,
+      "memberId" : 8076,
+      "bothType" : false
     }, {
-      "id" : 3591,
-      "name" : "小羊别闹，来吃草",
-      "updateStatus" : 2,
-      "distance" : 9023,
-      "memberId" : 1146
-    }, {
-      "id" : 3362,
-      "name" : "异界之重生随心乱",
+      "id" : 2534,
+      "name" : "墨劫",
       "updateStatus" : 1,
-      "distance" : 3351,
-      "memberId" : 5806
+      "distance" : 1619,
+      "memberId" : 5492,
+      "bothType" : true
     }, {
-      "id" : 2635,
-      "name" : "剩女大作战",
+      "id" : 3023,
+      "name" : "大没殇",
       "updateStatus" : 1,
-      "distance" : 8795,
-      "memberId" : 4640
+      "distance" : 3910,
+      "memberId" : 3987,
+      "bothType" : true
     }, {
-      "id" : 2908,
-      "name" : "红绳子",
+      "id" : 3149,
+      "name" : "风仪万千",
       "updateStatus" : 1,
-      "distance" : 5611,
-      "memberId" : 5184
+      "distance" : 5518,
+      "memberId" : 1982,
+      "bothType" : false
     }, {
-      "id" : 2814,
-      "name" : "小市民",
+      "id" : 3466,
+      "name" : "流年纪",
       "updateStatus" : 1,
-      "distance" : 3667,
-      "memberId" : 6302
+      "distance" : 1694,
+      "memberId" : 1717,
+      "bothType" : true
     }, {
-      "id" : 2068,
-      "name" : "红妆无忧",
+      "id" : 2747,
+      "name" : "天才魔宝：踢走风流爹地",
       "updateStatus" : 1,
-      "distance" : 5384,
-      "memberId" : 8774
+      "distance" : 1845,
+      "memberId" : 5050,
+      "bothType" : false
     }, {
-      "id" : 3674,
-      "name" : "爱上闷骚姐",
+      "id" : 3226,
+      "name" : "奇迹少年",
       "updateStatus" : 1,
-      "distance" : 6213,
-      "memberId" : 2910
+      "distance" : 7302,
+      "memberId" : 5808,
+      "bothType" : false
     }, {
-      "id" : 3553,
-      "name" : "堕妃：嗜血妖",
+      "id" : 3592,
+      "name" : "单纯逐笑开",
       "updateStatus" : 1,
-      "distance" : 7732,
-      "memberId" : 4073
+      "distance" : 3619,
+      "memberId" : 8144,
+      "bothType" : false
     }, {
-      "id" : 3077,
-      "name" : "青春盛宴之青春貌似童话",
+      "id" : 3372,
+      "name" : "未成曲调先有情",
       "updateStatus" : 1,
-      "distance" : 3606,
-      "memberId" : 8471
+      "distance" : 9590,
+      "memberId" : 5043,
+      "bothType" : true
     }, {
-      "id" : 3692,
-      "name" : "恶魔承传者",
+      "id" : 3691,
+      "name" : "巧夺帝心：奸妃娘娘升职记",
       "updateStatus" : 1,
-      "distance" : 9174,
-      "memberId" : 6747
+      "distance" : 3113,
+      "memberId" : 1839,
+      "bothType" : true
     }, {
-      "id" : 2130,
-      "name" : "文德皇后传",
+      "id" : 2421,
+      "name" : "爱我你不敢",
       "updateStatus" : 1,
-      "distance" : 1036,
-      "memberId" : 4343
+      "distance" : 2424,
+      "memberId" : 1820,
+      "bothType" : false
     }, {
-      "id" : 2799,
-      "name" : "雪寻雪见",
+      "id" : 3527,
+      "name" : "审判之众神时代",
       "updateStatus" : 1,
-      "distance" : 7306,
-      "memberId" : 6171
+      "distance" : 7395,
+      "memberId" : 1238,
+      "bothType" : false
     }, {
-      "id" : 3738,
-      "name" : "献青春：那些我们叛逆过的叛逆",
+      "id" : 2621,
+      "name" : "一路南北",
       "updateStatus" : 1,
-      "distance" : 9781,
-      "memberId" : 5570
+      "distance" : 8312,
+      "memberId" : 5043,
+      "bothType" : false
     }, {
-      "id" : 2140,
-      "name" : "傲剑江湖",
+      "id" : 2685,
+      "name" : "含蕾",
       "updateStatus" : 1,
-      "distance" : 5157,
-      "memberId" : 6971
+      "distance" : 1293,
+      "memberId" : 1243,
+      "bothType" : false
     }, {
-      "id" : 3714,
-      "name" : "王爷的仙妃",
+      "id" : 3087,
+      "name" : "友情遇到爱情",
       "updateStatus" : 1,
-      "distance" : 3642,
-      "memberId" : 7209
+      "distance" : 5014,
+      "memberId" : 4853,
+      "bothType" : false
+    }, {
+      "id" : 2096,
+      "name" : "天下第一媒",
+      "updateStatus" : 1,
+      "distance" : 9137,
+      "memberId" : 7065,
+      "bothType" : false
     } ]
   }
 }

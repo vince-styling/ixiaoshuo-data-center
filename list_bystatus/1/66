@@ -12,7 +12,8 @@
       "summary" : "孤独的度过17年的孤儿生活，意外的亲生父母来相认，转校的第一天遇到了妖孽般的他，冰山似的他，又超级苦",
       "updateStatus" : 1,
       "capacity" : 875037,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2327,
       "name" : "尚古谪仙传：谪仙囧囧谈",
@@ -20,7 +21,8 @@
       "summary" : "虫眼看天下：一只飞天小仙萤火虫——“囧囧”笔下的三界------------------------",
       "updateStatus" : 1,
       "capacity" : 4542726,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3488,
       "name" : "仙魔劫，因缘错",
@@ -28,7 +30,8 @@
       "summary" : "无数人的自私，将两个本无交集的孩子捆绑在一起，彻底改变了她们的命运。世间最为牢固的母女亲情，轻易便被",
       "updateStatus" : 1,
       "capacity" : 40733,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3344,
       "name" : "诀爱（乱世胧伊）",
@@ -36,7 +39,8 @@
       "summary" : "天下缭乱，世事纷扰，三大君王暗黑较量，究竟鹿死谁手？烟雨朦胧，所谓伊人，在水一方，一个女孩，她是一份",
       "updateStatus" : 1,
       "capacity" : 88000,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3693,
       "name" : "综漫——萝莉女神的养成计划",
@@ -44,7 +48,8 @@
       "summary" : "穿成萝莉？这没什么。穿成女神？我很蛋定。宙斯的孙女？没事没事。崩坏的世界？轻松就好。正太遍地都是？真",
       "updateStatus" : 1,
       "capacity" : 79899,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : true
     }, {
       "id" : 3123,
       "name" : "大神嫁到",
@@ -52,7 +57,8 @@
       "summary" : "他们相遇在网游神语的世界，他们本是两条平行线。她偶然杀了他的爱犬，从此成了他的小宠物，每天讨好他。可",
       "updateStatus" : 1,
       "capacity" : 70809,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3059,
       "name" : "倾世鬼王",
@@ -60,7 +66,8 @@
       "summary" : "除了命硬再无过人之处的女大学生方竹晓破天荒地被自己吓死在了厕所里。再次醒来，她穿越到了一个叫作青涛的",
       "updateStatus" : 1,
       "capacity" : 228916,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3319,
       "name" : "狼性总裁：天后是我妻",
@@ -68,7 +75,8 @@
       "summary" : "一夜迷情后她落荒而逃，回归时已是星光熠熠的闪耀天后。再次相遇，他邪魅冷笑：“女人，这次看你怎么逃出我",
       "updateStatus" : 1,
       "capacity" : 1050642,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3206,
       "name" : "霸情邪少：专宠小娇妻",
@@ -76,7 +84,8 @@
       "summary" : "他如朝阳上迸发火红般炙热而又邪气难以靠近。她似夕阳下那片晕红般娇美而又飘渺无法接近。她孤身回国，带着",
       "updateStatus" : 1,
       "capacity" : 219149,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3317,
       "name" : "花季里那个靠窗的女孩",
@@ -84,7 +93,8 @@
       "summary" : "新浪认证微博：http://url.cn/HzP8Zl全新题材的日记+公路青春文学，惊爆眼球的文字力",
       "updateStatus" : 1,
       "capacity" : 244518,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3536,
       "name" : "网王同人浅色的夏季",
@@ -92,7 +102,8 @@
       "summary" : "她一直以为，她注定会被所有人讨厌着，但是，自从遇见他们之后，她的人生，她的认知，似乎一点点的改变了。",
       "updateStatus" : 1,
       "capacity" : 175795,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 3335,
       "name" : "埋葬在青春里的爱恋",
@@ -100,7 +111,8 @@
       "summary" : "谁都有想要缅怀的青春故事，即便岁月流逝，那些青梅往事依然会不时浮在心头。流过泪，有过遗憾，才会明白到",
       "updateStatus" : 1,
       "capacity" : 736343,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3393,
       "name" : "医",
@@ -108,7 +120,8 @@
       "summary" : "强魂入住，无意间开启空间灵器乾坤镯，得医典，修真经，废柴之体迎刃而解，种草药，契魔兽，魔医震天下！灵",
       "updateStatus" : 1,
       "capacity" : 108581,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3487,
       "name" : "传说，苏忆恩作得一手好死",
@@ -116,7 +129,8 @@
       "summary" : "忆恩受有时候只是略微的傲娇并带一点点炸毛属性而已……——苏可沁忆恩是超级罕见滴超级美腻滴大总受YOO",
       "updateStatus" : 1,
       "capacity" : 131513,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3235,
       "name" : "不作死就不会死",
@@ -124,7 +138,8 @@
       "summary" : "新来的年轻女同事很讨厌,总是试图打探我的过去,还擅自将我引入险境,在我看来,她所作的一切就是在“作死",
       "updateStatus" : 1,
       "capacity" : 81941,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 3500,
       "name" : "三生三世谁许浮华？",
@@ -132,7 +147,8 @@
       "summary" : "第一世，她站在银河边，默默许愿；遇上了太子邵宁，他对她说“你是将会是我的妻”她没有说话，默默的看着他",
       "updateStatus" : 1,
       "capacity" : 126239,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3299,
       "name" : "爱妃你真笨",
@@ -140,7 +156,8 @@
       "summary" : "见过太多穿越的亲们，这样的穿越您见过吗？？女主的离奇狗血的穿越好友们废寝忘食的寻找一封家书到来令她们",
       "updateStatus" : 1,
       "capacity" : 365682,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3597,
       "name" : "女王，桃花满天下",
@@ -148,7 +165,8 @@
       "summary" : "上官冰心，号称国际文武双全的第一美女杀手，外表冷艳绝美，内心则是个善良可爱的美女。老天你咋能让我穿了",
       "updateStatus" : 1,
       "capacity" : 153763,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2513,
       "name" : "溺爱",
@@ -156,7 +174,8 @@
       "summary" : "炼金室里……裴吉（星星眼）：维亚，什么是妻奴啊？维亚：嗯？为什么这么问？裴吉：艾伦说安帝斯是妻奴。维",
       "updateStatus" : 1,
       "capacity" : 1644669,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 3615,
       "name" : "耀星",
@@ -164,7 +183,8 @@
       "summary" : "一群现代社会的渣滓，莫名其妙的接受到一个前往\"异元界“的任务，满怀希望的想要改变自己的生命，却不料那",
       "updateStatus" : 1,
       "capacity" : 208803,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     } ]
   }
 }

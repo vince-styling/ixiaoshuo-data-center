@@ -12,7 +12,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 37197,
-      "lastUpdateTime" : "2013-11-25 01:00:23"
+      "lastUpdateTime" : "2013-11-25 01:00:23",
+      "bothType" : false
     }, {
       "id" : 2702,
       "name" : "光与暗之命运狂想曲",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43583.jpg",
       "updateStatus" : 1,
       "capacity" : 2541921,
-      "lastUpdateTime" : "2013-11-25 00:00:00"
+      "lastUpdateTime" : "2013-11-25 00:00:00",
+      "bothType" : true
     }, {
       "id" : 2382,
       "name" : "同曾惶虑情难止",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42082.jpg",
       "updateStatus" : 1,
       "capacity" : 2021836,
-      "lastUpdateTime" : "2013-11-24 23:57:10"
+      "lastUpdateTime" : "2013-11-24 23:57:10",
+      "bothType" : true
     }, {
       "id" : 3549,
       "name" : "百日爱殇",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44743.jpg",
       "updateStatus" : 1,
       "capacity" : 86251,
-      "lastUpdateTime" : "2013-11-24 23:50:26"
+      "lastUpdateTime" : "2013-11-24 23:50:26",
+      "bothType" : true
     }, {
       "id" : 2999,
       "name" : "我们、熟悉到陌生",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45778.jpg",
       "updateStatus" : 1,
       "capacity" : 3109858,
-      "lastUpdateTime" : "2013-11-24 23:34:54"
+      "lastUpdateTime" : "2013-11-24 23:34:54",
+      "bothType" : false
     }, {
       "id" : 2048,
       "name" : "嗜血毒妃虐红尘",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22899.jpg",
       "updateStatus" : 1,
       "capacity" : 6784023,
-      "lastUpdateTime" : "2013-11-24 22:37:23"
+      "lastUpdateTime" : "2013-11-24 22:37:23",
+      "bothType" : false
     }, {
       "id" : 2412,
       "name" : "爱已转角",
@@ -60,7 +66,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 9818498,
-      "lastUpdateTime" : "2013-11-24 22:21:32"
+      "lastUpdateTime" : "2013-11-24 22:21:32",
+      "bothType" : false
     }, {
       "id" : 3482,
       "name" : "迷失并盛",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47714.jpg",
       "updateStatus" : 1,
       "capacity" : 265455,
-      "lastUpdateTime" : "2013-11-24 21:20:26"
+      "lastUpdateTime" : "2013-11-24 21:20:26",
+      "bothType" : false
     }, {
       "id" : 3538,
       "name" : "满城烟雨繁花尽",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48059.jpg",
       "updateStatus" : 2,
       "capacity" : 87869,
-      "lastUpdateTime" : "2013-11-24 21:10:43"
+      "lastUpdateTime" : "2013-11-24 21:10:43",
+      "bothType" : false
     }, {
       "id" : 3329,
       "name" : "引玉石的花儿",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18867.jpg",
       "updateStatus" : 1,
       "capacity" : 563757,
-      "lastUpdateTime" : "2013-11-24 20:22:46"
+      "lastUpdateTime" : "2013-11-24 20:22:46",
+      "bothType" : false
     }, {
       "id" : 3150,
       "name" : "我是小丫",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44809.jpg",
       "updateStatus" : 1,
       "capacity" : 213878,
-      "lastUpdateTime" : "2013-11-24 20:05:00"
+      "lastUpdateTime" : "2013-11-24 20:05:00",
+      "bothType" : false
     }, {
       "id" : 2881,
       "name" : "豪门：公主不愁嫁",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17178.jpg",
       "updateStatus" : 1,
       "capacity" : 8302065,
-      "lastUpdateTime" : "2013-11-24 19:49:29"
+      "lastUpdateTime" : "2013-11-24 19:49:29",
+      "bothType" : false
     }, {
       "id" : 2096,
       "name" : "天下第一媒",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44142.jpg",
       "updateStatus" : 1,
       "capacity" : 9916575,
-      "lastUpdateTime" : "2013-11-24 19:40:27"
+      "lastUpdateTime" : "2013-11-24 19:40:27",
+      "bothType" : false
     }, {
       "id" : 3723,
       "name" : "花落错爱",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22037.jpg",
       "updateStatus" : 1,
       "capacity" : 1806808,
-      "lastUpdateTime" : "2013-11-24 18:56:16"
+      "lastUpdateTime" : "2013-11-24 18:56:16",
+      "bothType" : false
     }, {
       "id" : 2987,
       "name" : "适珂而止",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47711.jpg",
       "updateStatus" : 1,
       "capacity" : 6667458,
-      "lastUpdateTime" : "2013-11-24 18:24:22"
+      "lastUpdateTime" : "2013-11-24 18:24:22",
+      "bothType" : false
     }, {
       "id" : 2052,
       "name" : "总裁，我们始终背道相持",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46176.jpg",
       "updateStatus" : 1,
       "capacity" : 2677377,
-      "lastUpdateTime" : "2013-11-24 17:49:10"
+      "lastUpdateTime" : "2013-11-24 17:49:10",
+      "bothType" : false
     }, {
       "id" : 2852,
       "name" : "花千世界",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47166.jpg",
       "updateStatus" : 1,
       "capacity" : 9573578,
-      "lastUpdateTime" : "2013-11-24 17:24:38"
+      "lastUpdateTime" : "2013-11-24 17:24:38",
+      "bothType" : false
     }, {
       "id" : 2741,
       "name" : "三生回眸间，一念成魔时",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21723.jpg",
       "updateStatus" : 1,
       "capacity" : 7498899,
-      "lastUpdateTime" : "2013-11-24 17:09:18"
+      "lastUpdateTime" : "2013-11-24 17:09:18",
+      "bothType" : false
     }, {
       "id" : 2264,
       "name" : "龙斗狂沙西辽传奇",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46169.jpg",
       "updateStatus" : 1,
       "capacity" : 2493729,
-      "lastUpdateTime" : "2013-11-24 16:24:28"
+      "lastUpdateTime" : "2013-11-24 16:24:28",
+      "bothType" : true
     }, {
       "id" : 3585,
       "name" : "桃花醉之天下",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44466.jpg",
       "updateStatus" : 1,
       "capacity" : 533829,
-      "lastUpdateTime" : "2013-11-24 16:15:10"
+      "lastUpdateTime" : "2013-11-24 16:15:10",
+      "bothType" : false
     } ]
   }
 }

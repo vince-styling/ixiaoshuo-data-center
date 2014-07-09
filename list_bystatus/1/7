@@ -12,7 +12,8 @@
       "summary" : "末日突临，丧尸席卷这个世界，尸横遍野，一位女大学生和朋友们为找控制区一路惊魂。千辛万苦找到的控制区，",
       "updateStatus" : 1,
       "capacity" : 6639189,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2442,
       "name" : "峰回路转只见君",
@@ -20,7 +21,8 @@
       "summary" : "作为一个宅女，萧潇说的最多的一句话就是——“三次元无爱，估计我这辈子是嫁不出去了，除非我硬盘里的二次",
       "updateStatus" : 1,
       "capacity" : 5107958,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2962,
       "name" : "爱与时光终年不遇",
@@ -28,7 +30,8 @@
       "summary" : "五年前她没能带八岁的路鸣泽逃离那个晦暗的家,她悔恨终身也求不不敢求得原谅,可是她却遇到了苏子澄,偶然",
       "updateStatus" : 1,
       "capacity" : 6110950,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2044,
       "name" : "七厘米的蔚蓝",
@@ -36,7 +39,8 @@
       "summary" : "一个本是护士的男银，在没有考到资格证的情况下，外出打工。年仅十七八岁的他，初懂社会的黑暗。本以为一无",
       "updateStatus" : 1,
       "capacity" : 2265711,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2163,
       "name" : "唤醒之星之痕",
@@ -44,7 +48,8 @@
       "summary" : "身前身后事，人前人后名。障害荡尽，怨恨扫平。一梦终醒，月寒桂凄。仙台独眺，唯有星痕。",
       "updateStatus" : 1,
       "capacity" : 7806371,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2086,
       "name" : "落柳归冢",
@@ -52,7 +57,8 @@
       "summary" : "“曾经我以为只要我登上天下的巅峰，就可以保护一切我在乎的人；现在我才发现，走到那步之后，天下早已没有",
       "updateStatus" : 1,
       "capacity" : 9388793,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2080,
       "name" : "宫偷十二钗：步步惊魂",
@@ -60,7 +66,8 @@
       "summary" : "你试过同成百上千个女人争夺一个男人吗？你试过冒着生命危险与一个男人偷情吗？在这里，一切皆有可能。如果",
       "updateStatus" : 1,
       "capacity" : 7578951,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2814,
       "name" : "小市民",
@@ -68,7 +75,8 @@
       "summary" : "有人说生命是一场华丽的盛宴，但普通人的生活并没有太多绝对的对与错，是与非。不管生活是如何的平淡或是精",
       "updateStatus" : 1,
       "capacity" : 3764384,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2942,
       "name" : "手可摘星辰",
@@ -76,7 +84,8 @@
       "summary" : "大概所有的人在何夏的生命里都是过客，可是路辰不是，他是永远。16岁那一年，她遇见他，此后的十年里，她",
       "updateStatus" : 1,
       "capacity" : 5266471,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2507,
       "name" : "尘落（爵迹同人）",
@@ -84,7 +93,8 @@
       "summary" : "银尘幽冥漆拉吉尔伽美什怎样的王爵之恋在亚斯蓝这片地域上演着怎样的激烈纠缠不清……",
       "updateStatus" : 1,
       "capacity" : 1398186,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2156,
       "name" : "千陌旎",
@@ -92,7 +102,8 @@
       "summary" : "“这就是我未来的师傅？那表情怎么看都像神仙中的坏小子啊！”“你若中途放弃，随时都可以走。不算你背弃师",
       "updateStatus" : 1,
       "capacity" : 9374193,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2245,
       "name" : "清宫云梦",
@@ -100,7 +111,8 @@
       "summary" : "学生吕靖由于课业压力过大，在上课途中离奇穿越，成为清朝光绪年间的一位过客，无意间历经晚清种种风云变幻",
       "updateStatus" : 1,
       "capacity" : 4516559,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2276,
       "name" : "皇上坏坏：爱妃该睡觉了",
@@ -108,7 +120,8 @@
       "summary" : "她一直想要个美男，上帝伯伯对她还真好，趁她睡一觉就扔她到不知名的朝代，然后。。。架空穿越的狗血剧情上",
       "updateStatus" : 1,
       "capacity" : 2992733,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : true
     }, {
       "id" : 2866,
       "name" : "寂寞恋爱",
@@ -116,7 +129,8 @@
       "summary" : "没有爱过的人，独处的时候，心慢慢的变冷，这只能叫做孤独。爱过的人，不知检点的沉浸在两人爱情的温暖，贪",
       "updateStatus" : 1,
       "capacity" : 2302656,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2842,
       "name" : "逆天独宠：霸上废柴王爷",
@@ -124,7 +138,8 @@
       "summary" : "十五岁，段千雾斗败万千勇士成为昊王府最强探子，却被派做当朝最废物的七王爷小妾，斗服所有妃妾封为王妃。",
       "updateStatus" : 1,
       "capacity" : 4224635,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2095,
       "name" : "逐鹿芳心",
@@ -132,7 +147,8 @@
       "summary" : "将军不爱小姐爱妓女，争风吃醋，小姐不干！惯打阴柔牌，正牌情圣却不料枕边人是吃人内脏的妖怪！情花易采不",
       "updateStatus" : 1,
       "capacity" : 5149453,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2224,
       "name" : "拯救吸血鬼",
@@ -140,7 +156,8 @@
       "summary" : "一个吸血鬼女孩和一个别扭美男的纠结爱情。他们守着爱情守着友情，并为此付出真心。最后她找回那一颗心，到",
       "updateStatus" : 1,
       "capacity" : 3021122,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 2456,
       "name" : "亡灵归来",
@@ -148,7 +165,8 @@
       "summary" : "一个人走路，你是否会感觉有谁跟着你？一个人在房间，你是否总觉得什么地方藏着谁？一个人带孩子，你是否会",
       "updateStatus" : 1,
       "capacity" : 3104228,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : true
     }, {
       "id" : 2110,
       "name" : "江门夜话",
@@ -156,7 +174,8 @@
       "summary" : "人说，画虎画皮难画骨，知人知面不知心。我画得出你的骨，你认不得我的心。——妙笔生凡是来过长生当铺的人",
       "updateStatus" : 1,
       "capacity" : 4964945,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2117,
       "name" : "天道魔情",
@@ -164,7 +183,8 @@
       "summary" : "神纪末期，在龙宇刚过十岁时，自己喜爱的青冥神公主殒身，在诛心和贰负神酋长的阴谋诡计下，稀里糊涂地离开",
       "updateStatus" : 1,
       "capacity" : 1544772,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     } ]
   }
 }

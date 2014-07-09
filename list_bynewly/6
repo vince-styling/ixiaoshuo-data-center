@@ -12,7 +12,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 7372172,
-      "lastUpdateTime" : "2013-12-27 19:06:31"
+      "lastUpdateTime" : "2013-12-27 19:06:31",
+      "bothType" : false
     }, {
       "id" : 2706,
       "name" : "元素·鬼王",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48126.jpg",
       "updateStatus" : 1,
       "capacity" : 9148527,
-      "lastUpdateTime" : "2013-12-27 18:54:15"
+      "lastUpdateTime" : "2013-12-27 18:54:15",
+      "bothType" : false
     }, {
       "id" : 2062,
       "name" : "绣女王妃：盗爱酷王爷",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_6770.jpg",
       "updateStatus" : 2,
       "capacity" : 9540878,
-      "lastUpdateTime" : "2013-12-27 18:46:18"
+      "lastUpdateTime" : "2013-12-27 18:46:18",
+      "bothType" : false
     }, {
       "id" : 2474,
       "name" : "十早集",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22274.jpg",
       "updateStatus" : 1,
       "capacity" : 6110920,
-      "lastUpdateTime" : "2013-12-27 18:39:44"
+      "lastUpdateTime" : "2013-12-27 18:39:44",
+      "bothType" : true
     }, {
       "id" : 3182,
       "name" : "卿卿陌上桑",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46109.jpg",
       "updateStatus" : 1,
       "capacity" : 288263,
-      "lastUpdateTime" : "2013-12-27 18:39:36"
+      "lastUpdateTime" : "2013-12-27 18:39:36",
+      "bothType" : true
     }, {
       "id" : 3651,
       "name" : "《听见了吗？我来了》",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45823.jpg",
       "updateStatus" : 1,
       "capacity" : 103203,
-      "lastUpdateTime" : "2013-12-27 18:16:26"
+      "lastUpdateTime" : "2013-12-27 18:16:26",
+      "bothType" : true
     }, {
       "id" : 2766,
       "name" : "远梦轻无力",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41385.jpg",
       "updateStatus" : 1,
       "capacity" : 6637965,
-      "lastUpdateTime" : "2013-12-27 17:54:51"
+      "lastUpdateTime" : "2013-12-27 17:54:51",
+      "bothType" : true
     }, {
       "id" : 2483,
       "name" : "雨露之瞳",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47337.jpg",
       "updateStatus" : 1,
       "capacity" : 1280277,
-      "lastUpdateTime" : "2013-12-27 17:17:21"
+      "lastUpdateTime" : "2013-12-27 17:17:21",
+      "bothType" : true
     }, {
       "id" : 2433,
       "name" : "诱婚",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44703.jpg",
       "updateStatus" : 1,
       "capacity" : 8029661,
-      "lastUpdateTime" : "2013-12-27 16:58:10"
+      "lastUpdateTime" : "2013-12-27 16:58:10",
+      "bothType" : false
     }, {
       "id" : 2215,
       "name" : "诛仙凡尘",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20205.jpg",
       "updateStatus" : 1,
       "capacity" : 9983825,
-      "lastUpdateTime" : "2013-12-27 16:34:25"
+      "lastUpdateTime" : "2013-12-27 16:34:25",
+      "bothType" : false
     }, {
       "id" : 3583,
       "name" : "温情驻英年",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21544.jpg",
       "updateStatus" : 1,
       "capacity" : 983161,
-      "lastUpdateTime" : "2013-12-27 15:43:59"
+      "lastUpdateTime" : "2013-12-27 15:43:59",
+      "bothType" : false
     }, {
       "id" : 2125,
       "name" : "恨海情天",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22526.jpg",
       "updateStatus" : 1,
       "capacity" : 8637365,
-      "lastUpdateTime" : "2013-12-27 15:22:44"
+      "lastUpdateTime" : "2013-12-27 15:22:44",
+      "bothType" : false
     }, {
       "id" : 2717,
       "name" : "修罗王妃：血战三关",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22118.jpg",
       "updateStatus" : 1,
       "capacity" : 3717611,
-      "lastUpdateTime" : "2013-12-27 14:53:26"
+      "lastUpdateTime" : "2013-12-27 14:53:26",
+      "bothType" : false
     }, {
       "id" : 2450,
       "name" : "黑客与总裁情缘",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46889.jpg",
       "updateStatus" : 1,
       "capacity" : 8921268,
-      "lastUpdateTime" : "2013-12-27 09:46:16"
+      "lastUpdateTime" : "2013-12-27 09:46:16",
+      "bothType" : true
     }, {
       "id" : 3267,
       "name" : "穿越之花本纯粹",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45423.jpg",
       "updateStatus" : 1,
       "capacity" : 241730,
-      "lastUpdateTime" : "2013-12-27 09:40:45"
+      "lastUpdateTime" : "2013-12-27 09:40:45",
+      "bothType" : true
     }, {
       "id" : 2384,
       "name" : "豪门霸宠：娇妻狠绝色",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16805.jpg",
       "updateStatus" : 2,
       "capacity" : 8130416,
-      "lastUpdateTime" : "2013-12-27 09:33:04"
+      "lastUpdateTime" : "2013-12-27 09:33:04",
+      "bothType" : false
     }, {
       "id" : 2614,
       "name" : "赤瞳的海盗",
@@ -140,7 +156,8 @@
       "coverUrl" : "",
       "updateStatus" : 2,
       "capacity" : 9617708,
-      "lastUpdateTime" : "2013-12-27 09:05:47"
+      "lastUpdateTime" : "2013-12-27 09:05:47",
+      "bothType" : false
     }, {
       "id" : 3242,
       "name" : "王爷的重生小冷妃",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44741.jpg",
       "updateStatus" : 2,
       "capacity" : 1001443,
-      "lastUpdateTime" : "2013-12-27 06:15:11"
+      "lastUpdateTime" : "2013-12-27 06:15:11",
+      "bothType" : false
     }, {
       "id" : 3502,
       "name" : "其实我很低调",
@@ -156,7 +174,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 213709,
-      "lastUpdateTime" : "2013-12-27 06:03:47"
+      "lastUpdateTime" : "2013-12-27 06:03:47",
+      "bothType" : true
     }, {
       "id" : 2369,
       "name" : "微雨蒙蒙戏流光",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19582.jpg",
       "updateStatus" : 1,
       "capacity" : 4167043,
-      "lastUpdateTime" : "2013-12-27 05:59:41"
+      "lastUpdateTime" : "2013-12-27 05:59:41",
+      "bothType" : false
     } ]
   }
 }

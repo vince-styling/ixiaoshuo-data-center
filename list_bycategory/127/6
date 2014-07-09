@@ -12,7 +12,8 @@
       "summary" : "鬼差说，彼岸幽冥会收藏你的记忆，可是舍子往生却会连你深刻在骨血中的情都剥离……冥界往生使手上有一本往",
       "updateStatus" : 1,
       "capacity" : 152878,
-      "readerCount" : 1126
+      "readerCount" : 1126,
+      "bothType" : false
     }, {
       "id" : 3546,
       "name" : "红颜若雪：情倾后宫",
@@ -20,7 +21,8 @@
       "summary" : "一朝穿越，谁与争锋。她，剑啸九天浮沉，笙歌漫舞丝竹声声，万人俯首称臣。他，茫茫风雪孤身征程，刀破轻云",
       "updateStatus" : 1,
       "capacity" : 702848,
-      "readerCount" : 882
+      "readerCount" : 882,
+      "bothType" : false
     }, {
       "id" : 3445,
       "name" : "落叶清欢",
@@ -28,7 +30,8 @@
       "summary" : "少时，你许我温暖。赏如桃花绽放的你，品情如我们清冽醇厚的酒，叹如落花的结局。转瞬间，与知己好友的离别",
       "updateStatus" : 1,
       "capacity" : 43429,
-      "readerCount" : 870
+      "readerCount" : 870,
+      "bothType" : false
     }, {
       "id" : 2274,
       "name" : "世家贵女",
@@ -36,7 +39,8 @@
       "summary" : "如果穿越是老天对沈婷的优待的话，那么同时有更优秀的现代女穿过来这算怎么回事儿，额外奖励？难道她只是女",
       "updateStatus" : 1,
       "capacity" : 5729827,
-      "readerCount" : 864
+      "readerCount" : 864,
+      "bothType" : true
     }, {
       "id" : 2254,
       "name" : "小哥跟着姐，有肉吃",
@@ -44,7 +48,8 @@
       "summary" : "小哥，跟着姐，有肉吃！新人发文，两天一更，绝对不坑~严络青，一只披着财主皮整天只知道装深沉内里其实是",
       "updateStatus" : 2,
       "capacity" : 7437354,
-      "readerCount" : 812
+      "readerCount" : 812,
+      "bothType" : false
     }, {
       "id" : 3301,
       "name" : "乱世五代，彼岸花开",
@@ -52,7 +57,8 @@
       "summary" : "周如梦在一次旅游之时，只因一时好奇秦王陵的无字碑，竟穿越回大唐昭宗天复三年，附身到平原公主——李凌薇",
       "updateStatus" : 1,
       "capacity" : 28678,
-      "readerCount" : 802
+      "readerCount" : 802,
+      "bothType" : true
     }, {
       "id" : 3448,
       "name" : "荼蘼花未开",
@@ -60,7 +66,8 @@
       "summary" : "所谓生死契阔，与子成说。执子之手，与子偕老。于他与她而言，只是一场诺言。三生三世的宿命，情有独钟，一",
       "updateStatus" : 1,
       "capacity" : 274540,
-      "readerCount" : 778
+      "readerCount" : 778,
+      "bothType" : false
     }, {
       "id" : 3200,
       "name" : "你若不来，我便不老",
@@ -68,7 +75,8 @@
       "summary" : "人生最苦的事有三件，爱别离，怨憎难，求不得。他是权利至上的皇，天下江山，莫非皇土。可是，当有一天，他",
       "updateStatus" : 1,
       "capacity" : 80684,
-      "readerCount" : 714
+      "readerCount" : 714,
+      "bothType" : true
     }, {
       "id" : 2297,
       "name" : "一梦三生卿心照",
@@ -76,7 +84,8 @@
       "summary" : "在那一世，他是多才多艺的宋徽宗，她是替他磨墨的恬心儿妃，他有旷世的才情，她有绝世的容颜，琴瑟相和，深",
       "updateStatus" : 1,
       "capacity" : 3303463,
-      "readerCount" : 714
+      "readerCount" : 714,
+      "bothType" : false
     }, {
       "id" : 3244,
       "name" : "绝艳皇子倾城妃",
@@ -84,7 +93,8 @@
       "summary" : "三国之争，月煌的覆灭，身为月煌的公主，她应该是为复国步步为营？还是甘心曲于命运？爱人的背叛，家仇雪恨",
       "updateStatus" : 1,
       "capacity" : 878061,
-      "readerCount" : 647
+      "readerCount" : 647,
+      "bothType" : false
     }, {
       "id" : 3399,
       "name" : "太子殿下，不爱请休妻",
@@ -92,7 +102,8 @@
       "summary" : "“你们活着太累了，让我来帮你结束吧。”她，一个在21世纪无情的职业杀手，什么大风大浪没见过，可是，在",
       "updateStatus" : 1,
       "capacity" : 38545,
-      "readerCount" : 634
+      "readerCount" : 634,
+      "bothType" : false
     }, {
       "id" : 3592,
       "name" : "单纯逐笑开",
@@ -100,7 +111,8 @@
       "summary" : "女主重生到了一个架空世界，她成了盟主千金。爹爹是个美丽的盟主，盟主爱夫人，不爱女儿。女儿去无极山习武",
       "updateStatus" : 1,
       "capacity" : 112614,
-      "readerCount" : 630
+      "readerCount" : 630,
+      "bothType" : false
     }, {
       "id" : 3537,
       "name" : "倾尽天下，乱世红颜",
@@ -108,7 +120,8 @@
       "summary" : "“生生世世永不分离！”这是他与她许下的诺言那一世，她，奄奄一息，他，舍命相救，终究逃不过命运的安排。",
       "updateStatus" : 1,
       "capacity" : 161799,
-      "readerCount" : 593
+      "readerCount" : 593,
+      "bothType" : false
     }, {
       "id" : 3439,
       "name" : "皇熙妃传",
@@ -116,7 +129,8 @@
       "summary" : "宇文氏，曾经是多么荣耀的一个家族，新皇登基却彻底颠覆了这个家族的地位，诛灭九族。唯一幸存的宇文氏长女",
       "updateStatus" : 1,
       "capacity" : 188053,
-      "readerCount" : 499
+      "readerCount" : 499,
+      "bothType" : false
     }, {
       "id" : 3178,
       "name" : "穿越之红柚偏甜",
@@ -124,7 +138,8 @@
       "summary" : "刚刚离开大学，还未踏入社会的她突遭横祸，丧生于一场车祸。醒来之后j竟发现自己变成了一个婴儿来到了异时",
       "updateStatus" : 1,
       "capacity" : 730405,
-      "readerCount" : 467
+      "readerCount" : 467,
+      "bothType" : false
     }, {
       "id" : 3193,
       "name" : "三生三世，芙蓉幽幽",
@@ -132,7 +147,8 @@
       "summary" : "那是一个英雄辈出的年代。那是一幅江山美人的画卷。那是一个感人至深的故事。是执子之手，与子偕老。还是坐",
       "updateStatus" : 2,
       "capacity" : 51865,
-      "readerCount" : 430
+      "readerCount" : 430,
+      "bothType" : true
     }, {
       "id" : 3162,
       "name" : "真龙天下：倾世侠妃",
@@ -140,7 +156,8 @@
       "summary" : "一个因为皇室之争落入江湖的王爷，一个从下游走江湖的女孩，两人从相识相知到相恋，又从陌路道携手一生……",
       "updateStatus" : 1,
       "capacity" : 144870,
-      "readerCount" : 406
+      "readerCount" : 406,
+      "bothType" : true
     }, {
       "id" : 2717,
       "name" : "修罗王妃：血战三关",
@@ -148,7 +165,8 @@
       "summary" : "传言镇北将军长的恰似猛张飞……传言镇北将军一只手可以拧下一个蛮金人的头……传言镇北将军暴戾成性，杀人",
       "updateStatus" : 1,
       "capacity" : 3717611,
-      "readerCount" : 329
+      "readerCount" : 329,
+      "bothType" : false
     }, {
       "id" : 3728,
       "name" : "含烟思窃之皇上、臣妾做不到",
@@ -156,7 +174,8 @@
       "summary" : "她，一个腹黑，无天良,,力气超大的高中网络小说家、、、、他，，一个人人闻风丧胆的恐怖政坛，，江湖，，",
       "updateStatus" : 1,
       "capacity" : 44192,
-      "readerCount" : 310
+      "readerCount" : 310,
+      "bothType" : false
     }, {
       "id" : 3474,
       "name" : "穿越还珠之乾隆是我的",
@@ -164,7 +183,8 @@
       "summary" : "上官轩觉得他这辈子都没这么倒霉过，他只不过是自恋了些，爱美了些……可是老天为毛让他一觉醒来就发现自己",
       "updateStatus" : 1,
       "capacity" : 31868,
-      "readerCount" : 263
+      "readerCount" : 263,
+      "bothType" : false
     } ]
   }
 }

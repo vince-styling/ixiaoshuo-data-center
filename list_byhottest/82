@@ -12,7 +12,8 @@
       "summary" : "死、死、死、死。当夜幕降临、恐惧袭来之时、死神就会微笑着出现在你的面前、或者有人跟在你的身后……",
       "updateStatus" : 1,
       "capacity" : 10738,
-      "readerCount" : 187
+      "readerCount" : 187,
+      "bothType" : false
     }, {
       "id" : 3414,
       "name" : "鸾凤归巢之明宫遗珠",
@@ -20,7 +21,8 @@
       "summary" : "因为一张酷似公主的脸，她作为慰藉太后悲恸心灵的一剂汤药，开始了她漫长而又短暂的宫廷生活。不懂规矩，与",
       "updateStatus" : 1,
       "capacity" : 244882,
-      "readerCount" : 183
+      "readerCount" : 183,
+      "bothType" : true
     }, {
       "id" : 3225,
       "name" : "夜长貘多",
@@ -28,7 +30,8 @@
       "summary" : "文艺版简介：一只梦貘和一个男人的爱情故事，情不知所起一往而深，佳期如梦，梦中百转千回。实话版简介：吃",
       "updateStatus" : 1,
       "capacity" : 11444,
-      "readerCount" : 183
+      "readerCount" : 183,
+      "bothType" : false
     }, {
       "id" : 2825,
       "name" : "相守时光中",
@@ -36,7 +39,8 @@
       "summary" : "原以为不可能再在一起的两个人，没想到兜兜转转了那么多年却因为意外的相亲而再次起涟漪，到底他们是否能相",
       "updateStatus" : 1,
       "capacity" : 4648535,
-      "readerCount" : 182
+      "readerCount" : 182,
+      "bothType" : true
     }, {
       "id" : 3322,
       "name" : "爱情倒时差",
@@ -44,7 +48,8 @@
       "summary" : "他，一位华夏国的低层少年，他，不畏各种强大的势力，他憧憬着未来，他，令各种修炼界的人闻风丧胆，他，冷",
       "updateStatus" : 1,
       "capacity" : 80975,
-      "readerCount" : 182
+      "readerCount" : 182,
+      "bothType" : false
     }, {
       "id" : 3717,
       "name" : "异界纵横",
@@ -52,7 +57,8 @@
       "summary" : "二十一世纪的一个屌丝青年雷振宇，在一次山洞冒险中，穿越到了异世。本是胆小的他却穿越到一个弱肉强食异世",
       "updateStatus" : 1,
       "capacity" : 111352,
-      "readerCount" : 181
+      "readerCount" : 181,
+      "bothType" : false
     }, {
       "id" : 3729,
       "name" : "琉璃色.彼岸花",
@@ -60,7 +66,8 @@
       "summary" : "那年的那个新春，在春晚还在准备之际，平静而又闲散的H市（杜撰滴〜）没有迎来新的娱乐消息，却迎来了一封",
       "updateStatus" : 1,
       "capacity" : 42799,
-      "readerCount" : 180
+      "readerCount" : 180,
+      "bothType" : false
     }, {
       "id" : 3568,
       "name" : "追爱记：迟钝的爱",
@@ -68,7 +75,8 @@
       "summary" : "他说：“到了拉斯维加斯以后，你不许住校！”她丢了一个卫生球眼给他，愤愤的说：“凭什么？我就偏要住校，",
       "updateStatus" : 1,
       "capacity" : 229582,
-      "readerCount" : 180
+      "readerCount" : 180,
+      "bothType" : false
     }, {
       "id" : 3103,
       "name" : "萌宠：萝莉师叔你别跑",
@@ -76,7 +84,8 @@
       "summary" : "她说若有下辈子我还要和你相遇.而他说我定不负你她舞倾城而他温子然.他们一个是神一个是妖.注定不能在一",
       "updateStatus" : 1,
       "capacity" : 13079,
-      "readerCount" : 178
+      "readerCount" : 178,
+      "bothType" : false
     }, {
       "id" : 3129,
       "name" : "（秦时+火影）滚来滚去滚成圆",
@@ -84,7 +93,8 @@
       "summary" : "此文主要写火影、秦时、网王、还有其他动漫出来晒晒太阳打打酱油。踩到香蕉皮奇葩的穿越了，滚到动漫世界当",
       "updateStatus" : 1,
       "capacity" : 32488,
-      "readerCount" : 178
+      "readerCount" : 178,
+      "bothType" : false
     }, {
       "id" : 3272,
       "name" : "来，卖身契给我",
@@ -92,7 +102,8 @@
       "summary" : "灵靖下山寻夫，却被请进了皇宫，要她治好皇帝。好吧，治病可以，诊金呢？正好，她缺个仆从，指了指角落里的",
       "updateStatus" : 1,
       "capacity" : 39137,
-      "readerCount" : 178
+      "readerCount" : 178,
+      "bothType" : false
     }, {
       "id" : 3356,
       "name" : "玫瑰重影",
@@ -100,7 +111,8 @@
       "summary" : "这是一座光怪陆离的城市，摆脱不了灯红酒绿和浮华喧嚣。这是一座充满了回忆的城市，五年前的爱恨情仇就像是",
       "updateStatus" : 1,
       "capacity" : 55937,
-      "readerCount" : 173
+      "readerCount" : 173,
+      "bothType" : true
     }, {
       "id" : 3338,
       "name" : "豬彡頭❤娶我呗",
@@ -108,7 +120,8 @@
       "summary" : "这是一个关于重生的故事，但是却不是常见的重生复仇的故事！这是个重生之后为了报恩而不择手段，其过程又笑",
       "updateStatus" : 1,
       "capacity" : 19934,
-      "readerCount" : 172
+      "readerCount" : 172,
+      "bothType" : false
     }, {
       "id" : 3217,
       "name" : "紫倾华羽",
@@ -116,7 +129,8 @@
       "summary" : "她洛紫羽，一觉醒来发现自己睡的居然不是自己的床。毫无疑问她穿越了。可素，为什么？没有发生小说里的事情",
       "updateStatus" : 1,
       "capacity" : 30665,
-      "readerCount" : 169
+      "readerCount" : 169,
+      "bothType" : false
     }, {
       "id" : 3420,
       "name" : "醉梦三生之一诺倾城",
@@ -124,7 +138,8 @@
       "summary" : "一个醉卧忘川旁，断尽前尘念。一个独饮天涯前，三世终不悔。一世繁华落幕，爱恨成痴皆如过眼烟云，湮没一朝",
       "updateStatus" : 1,
       "capacity" : 22480,
-      "readerCount" : 168
+      "readerCount" : 168,
+      "bothType" : false
     }, {
       "id" : 3261,
       "name" : "腐化了的灿烂年华",
@@ -132,7 +147,8 @@
       "summary" : "她说：“苏明佑，如若我连自己都不爱了，那便是世界末日了。”",
       "updateStatus" : 1,
       "capacity" : 42958,
-      "readerCount" : 167
+      "readerCount" : 167,
+      "bothType" : true
     }, {
       "id" : 3192,
       "name" : "流年清欢",
@@ -140,7 +156,8 @@
       "summary" : "遇到他的时候，她十三岁，豆蔻年华，并不懂什么是爱。遇到她的时候，他十六岁，年少轻狂，却看懂她的忧伤她",
       "updateStatus" : 1,
       "capacity" : 230009,
-      "readerCount" : 166
+      "readerCount" : 166,
+      "bothType" : false
     }, {
       "id" : 3507,
       "name" : "血雨腥风恩仇录",
@@ -148,7 +165,8 @@
       "summary" : "血雨腥风的江湖，野心、谋杀、背叛，多少平凡的、伟大的人一起来演绎一段段的不平凡。上官夜，铭教的教主，",
       "updateStatus" : 1,
       "capacity" : 65522,
-      "readerCount" : 165
+      "readerCount" : 165,
+      "bothType" : false
     }, {
       "id" : 3294,
       "name" : "朕爱生命，远离皇后",
@@ -156,7 +174,8 @@
       "summary" : "无情版‘给朕把这个死女人打入冷宫’可怜版‘皇后朕错了，让朕进去吧，外面好冷。’发飙版‘敢调戏我女人，",
       "updateStatus" : 1,
       "capacity" : 75886,
-      "readerCount" : 165
+      "readerCount" : 165,
+      "bothType" : false
     }, {
       "id" : 3680,
       "name" : "潇洒小姐执着先生",
@@ -164,7 +183,8 @@
       "summary" : "一个漂亮的漂移，甩进车库，熄火，从副座上拿过银色高跟鞋，换下耐克板鞋，抓起LV，用鞋尖一顶，摔门。沿",
       "updateStatus" : 1,
       "capacity" : 97601,
-      "readerCount" : 162
+      "readerCount" : 162,
+      "bothType" : false
     } ]
   }
 }

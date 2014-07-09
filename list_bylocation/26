@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3526,
-      "name" : "桃花躲躲",
+      "id" : 2761,
+      "name" : "德伯家的苔丝",
       "updateStatus" : 1,
-      "distance" : 5019,
-      "memberId" : 7437
+      "distance" : 4086,
+      "memberId" : 3978,
+      "bothType" : false
     }, {
-      "id" : 3416,
-      "name" : "此生吾爱",
+      "id" : 3389,
+      "name" : "芙蓉一纸欢",
       "updateStatus" : 1,
-      "distance" : 3000,
-      "memberId" : 3214
+      "distance" : 5576,
+      "memberId" : 2034,
+      "bothType" : false
     }, {
-      "id" : 2395,
-      "name" : "夜色豪门：缠上时尚小娇妻",
+      "id" : 3377,
+      "name" : "秦时明月之艾旅",
+      "updateStatus" : 1,
+      "distance" : 3012,
+      "memberId" : 4559,
+      "bothType" : false
+    }, {
+      "id" : 3180,
+      "name" : "苦涩如茶",
+      "updateStatus" : 1,
+      "distance" : 4367,
+      "memberId" : 4465,
+      "bothType" : false
+    }, {
+      "id" : 3497,
+      "name" : "暗眼窥世",
+      "updateStatus" : 1,
+      "distance" : 9744,
+      "memberId" : 4504,
+      "bothType" : false
+    }, {
+      "id" : 2539,
+      "name" : "沙漏时光",
+      "updateStatus" : 1,
+      "distance" : 4062,
+      "memberId" : 1721,
+      "bothType" : false
+    }, {
+      "id" : 3704,
+      "name" : "拐个CEO来改造",
+      "updateStatus" : 1,
+      "distance" : 2092,
+      "memberId" : 8426,
+      "bothType" : false
+    }, {
+      "id" : 2904,
+      "name" : "致青春，伊人有毒",
+      "updateStatus" : 1,
+      "distance" : 2135,
+      "memberId" : 3126,
+      "bothType" : false
+    }, {
+      "id" : 3412,
+      "name" : "请在原地等等我",
+      "updateStatus" : 1,
+      "distance" : 9841,
+      "memberId" : 3678,
+      "bothType" : false
+    }, {
+      "id" : 2093,
+      "name" : "废柴王妃：相公欠调教",
+      "updateStatus" : 1,
+      "distance" : 5935,
+      "memberId" : 4048,
+      "bothType" : true
+    }, {
+      "id" : 3636,
+      "name" : "被抛弃的星球",
+      "updateStatus" : 1,
+      "distance" : 7969,
+      "memberId" : 5495,
+      "bothType" : false
+    }, {
+      "id" : 2607,
+      "name" : "葬忧散",
+      "updateStatus" : 1,
+      "distance" : 3708,
+      "memberId" : 6246,
+      "bothType" : false
+    }, {
+      "id" : 3081,
+      "name" : "爱，谨行时光",
+      "updateStatus" : 1,
+      "distance" : 4497,
+      "memberId" : 5060,
+      "bothType" : false
+    }, {
+      "id" : 2708,
+      "name" : "风云破:逆转乾坤",
+      "updateStatus" : 1,
+      "distance" : 5541,
+      "memberId" : 3210,
+      "bothType" : false
+    }, {
+      "id" : 3385,
+      "name" : "修仙之凤舞九天",
+      "updateStatus" : 1,
+      "distance" : 7201,
+      "memberId" : 2961,
+      "bothType" : true
+    }, {
+      "id" : 3469,
+      "name" : "逆天武神：丑颜毒妃",
+      "updateStatus" : 1,
+      "distance" : 2070,
+      "memberId" : 6394,
+      "bothType" : true
+    }, {
+      "id" : 2099,
+      "name" : "女警闯西汉：将军赖定你",
+      "updateStatus" : 1,
+      "distance" : 8390,
+      "memberId" : 7454,
+      "bothType" : false
+    }, {
+      "id" : 2584,
+      "name" : "再见，暴君总裁",
+      "updateStatus" : 1,
+      "distance" : 1425,
+      "memberId" : 2345,
+      "bothType" : true
+    }, {
+      "id" : 2070,
+      "name" : "最后一个情人",
       "updateStatus" : 2,
-      "distance" : 8360,
-      "memberId" : 2229
+      "distance" : 5068,
+      "memberId" : 2144,
+      "bothType" : false
     }, {
-      "id" : 3672,
-      "name" : "只愿得君心",
-      "updateStatus" : 1,
-      "distance" : 6794,
-      "memberId" : 5027
-    }, {
-      "id" : 2313,
-      "name" : "囧冠天下",
-      "updateStatus" : 1,
-      "distance" : 4866,
-      "memberId" : 2106
-    }, {
-      "id" : 3409,
-      "name" : "素手霸天下",
-      "updateStatus" : 1,
-      "distance" : 6195,
-      "memberId" : 2733
-    }, {
-      "id" : 2968,
-      "name" : "重生之待到记忆镂空时",
+      "id" : 2360,
+      "name" : "梦中情人：前世今生都是孽",
       "updateStatus" : 2,
-      "distance" : 596,
-      "memberId" : 1770
-    }, {
-      "id" : 3666,
-      "name" : "傲视苍穹：痴傻七小姐",
-      "updateStatus" : 1,
-      "distance" : 7484,
-      "memberId" : 8422
-    }, {
-      "id" : 3056,
-      "name" : "惊情六百年",
-      "updateStatus" : 1,
-      "distance" : 8976,
-      "memberId" : 7329
-    }, {
-      "id" : 2932,
-      "name" : "肥妞翻身之痴心错付",
-      "updateStatus" : 1,
-      "distance" : 6337,
-      "memberId" : 5133
-    }, {
-      "id" : 2837,
-      "name" : "临清一梦",
-      "updateStatus" : 1,
-      "distance" : 5125,
-      "memberId" : 1906
-    }, {
-      "id" : 2163,
-      "name" : "唤醒之星之痕",
-      "updateStatus" : 1,
-      "distance" : 4695,
-      "memberId" : 2372
-    }, {
-      "id" : 2987,
-      "name" : "适珂而止",
-      "updateStatus" : 1,
-      "distance" : 9908,
-      "memberId" : 8365
-    }, {
-      "id" : 3500,
-      "name" : "三生三世谁许浮华？",
-      "updateStatus" : 1,
-      "distance" : 6510,
-      "memberId" : 3368
-    }, {
-      "id" : 3678,
-      "name" : "青春很有邪",
-      "updateStatus" : 1,
-      "distance" : 7439,
-      "memberId" : 4309
-    }, {
-      "id" : 2236,
-      "name" : "冥江漫漫",
-      "updateStatus" : 1,
-      "distance" : 7128,
-      "memberId" : 1062
-    }, {
-      "id" : 3640,
-      "name" : "《浣冥》",
-      "updateStatus" : 1,
-      "distance" : 563,
-      "memberId" : 4754
-    }, {
-      "id" : 2427,
-      "name" : "生活，就是一个园",
-      "updateStatus" : 1,
-      "distance" : 8990,
-      "memberId" : 2220
-    }, {
-      "id" : 2899,
-      "name" : "暗恋恋晨色",
-      "updateStatus" : 1,
-      "distance" : 3191,
-      "memberId" : 2395
-    }, {
-      "id" : 2885,
-      "name" : "妃行天下不离不弃",
-      "updateStatus" : 1,
-      "distance" : 505,
-      "memberId" : 3683
+      "distance" : 7417,
+      "memberId" : 1012,
+      "bothType" : true
     } ]
   }
 }

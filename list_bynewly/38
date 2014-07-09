@@ -12,7 +12,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 32686,
-      "lastUpdateTime" : "2013-12-11 22:12:13"
+      "lastUpdateTime" : "2013-12-11 22:12:13",
+      "bothType" : false
     }, {
       "id" : 2233,
       "name" : "末世之非末之世",
@@ -20,7 +21,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 6982244,
-      "lastUpdateTime" : "2013-12-11 22:02:05"
+      "lastUpdateTime" : "2013-12-11 22:02:05",
+      "bothType" : false
     }, {
       "id" : 3102,
       "name" : "暗光",
@@ -28,7 +30,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 50634,
-      "lastUpdateTime" : "2013-12-11 21:43:40"
+      "lastUpdateTime" : "2013-12-11 21:43:40",
+      "bothType" : true
     }, {
       "id" : 2234,
       "name" : "启界",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46381.jpg",
       "updateStatus" : 1,
       "capacity" : 7725039,
-      "lastUpdateTime" : "2013-12-11 21:19:16"
+      "lastUpdateTime" : "2013-12-11 21:19:16",
+      "bothType" : false
     }, {
       "id" : 2364,
       "name" : "双城——消隐的传奇",
@@ -44,7 +48,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 7032663,
-      "lastUpdateTime" : "2013-12-11 21:05:17"
+      "lastUpdateTime" : "2013-12-11 21:05:17",
+      "bothType" : true
     }, {
       "id" : 2166,
       "name" : "仙岚异世情",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45301.jpg",
       "updateStatus" : 1,
       "capacity" : 6031830,
-      "lastUpdateTime" : "2013-12-11 20:43:22"
+      "lastUpdateTime" : "2013-12-11 20:43:22",
+      "bothType" : false
     }, {
       "id" : 2919,
       "name" : "柚子",
@@ -60,7 +66,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 5446802,
-      "lastUpdateTime" : "2013-12-11 19:14:03"
+      "lastUpdateTime" : "2013-12-11 19:14:03",
+      "bothType" : false
     }, {
       "id" : 3638,
       "name" : "青梅与竹马",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43239.jpg",
       "updateStatus" : 1,
       "capacity" : 317394,
-      "lastUpdateTime" : "2013-12-11 18:51:11"
+      "lastUpdateTime" : "2013-12-11 18:51:11",
+      "bothType" : false
     }, {
       "id" : 2401,
       "name" : "拾爱：蚀骨之恋",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47741.jpg",
       "updateStatus" : 1,
       "capacity" : 5841713,
-      "lastUpdateTime" : "2013-12-11 18:38:07"
+      "lastUpdateTime" : "2013-12-11 18:38:07",
+      "bothType" : true
     }, {
       "id" : 3460,
       "name" : "悄悄告诉你",
@@ -84,7 +93,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 47008,
-      "lastUpdateTime" : "2013-12-11 18:36:18"
+      "lastUpdateTime" : "2013-12-11 18:36:18",
+      "bothType" : false
     }, {
       "id" : 2626,
       "name" : "花开画中花",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47776.jpg",
       "updateStatus" : 1,
       "capacity" : 1914807,
-      "lastUpdateTime" : "2013-12-11 18:17:14"
+      "lastUpdateTime" : "2013-12-11 18:17:14",
+      "bothType" : false
     }, {
       "id" : 3049,
       "name" : "做什么公主，来做皇后吧",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47775.jpg",
       "updateStatus" : 1,
       "capacity" : 148898,
-      "lastUpdateTime" : "2013-12-11 18:13:30"
+      "lastUpdateTime" : "2013-12-11 18:13:30",
+      "bothType" : false
     }, {
       "id" : 3445,
       "name" : "落叶清欢",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43514.jpg",
       "updateStatus" : 1,
       "capacity" : 43429,
-      "lastUpdateTime" : "2013-12-11 18:07:19"
+      "lastUpdateTime" : "2013-12-11 18:07:19",
+      "bothType" : true
     }, {
       "id" : 3495,
       "name" : "倾情一梦",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46111.jpg",
       "updateStatus" : 1,
       "capacity" : 362898,
-      "lastUpdateTime" : "2013-12-11 18:01:50"
+      "lastUpdateTime" : "2013-12-11 18:01:50",
+      "bothType" : true
     }, {
       "id" : 3464,
       "name" : "落姮醉时君不醉",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47913.jpg",
       "updateStatus" : 1,
       "capacity" : 61735,
-      "lastUpdateTime" : "2013-12-11 18:00:10"
+      "lastUpdateTime" : "2013-12-11 18:00:10",
+      "bothType" : true
     }, {
       "id" : 3194,
       "name" : "北漂女的情和欲",
@@ -132,7 +147,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 17025,
-      "lastUpdateTime" : "2013-12-11 17:40:00"
+      "lastUpdateTime" : "2013-12-11 17:40:00",
+      "bothType" : true
     }, {
       "id" : 3148,
       "name" : "听说你也爱我",
@@ -140,7 +156,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 43663,
-      "lastUpdateTime" : "2013-12-11 17:29:52"
+      "lastUpdateTime" : "2013-12-11 17:29:52",
+      "bothType" : false
     }, {
       "id" : 2897,
       "name" : "瞎子王爷独宠调皮妃",
@@ -148,7 +165,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 9205255,
-      "lastUpdateTime" : "2013-12-11 16:55:02"
+      "lastUpdateTime" : "2013-12-11 16:55:02",
+      "bothType" : false
     }, {
       "id" : 3405,
       "name" : "明月何处",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42076.jpg",
       "updateStatus" : 1,
       "capacity" : 843632,
-      "lastUpdateTime" : "2013-12-11 16:51:32"
+      "lastUpdateTime" : "2013-12-11 16:51:32",
+      "bothType" : true
     }, {
       "id" : 3438,
       "name" : "叶之于归",
@@ -164,7 +183,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 36499,
-      "lastUpdateTime" : "2013-12-11 15:41:25"
+      "lastUpdateTime" : "2013-12-11 15:41:25",
+      "bothType" : false
     } ]
   }
 }

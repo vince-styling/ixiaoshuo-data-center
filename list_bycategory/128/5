@@ -12,7 +12,8 @@
       "summary" : "难道，我穿越了？站在铜镜前，我终于看到了那个叫“如春”的真身，FUCK，这尼妈是闹哪样？还让不让人接",
       "updateStatus" : 1,
       "capacity" : 3184432,
-      "readerCount" : 6552
+      "readerCount" : 6552,
+      "bothType" : true
     }, {
       "id" : 2113,
       "name" : "战神王爷狂妄妃",
@@ -20,7 +21,8 @@
       "summary" : "【红尘初妆，山河无疆，命格无双】她，黑道枭雄，生杀予夺，惊才绝艳。他，战神王爷，杀伐决断,翻手为云，",
       "updateStatus" : 2,
       "capacity" : 8073814,
-      "readerCount" : 6489
+      "readerCount" : 6489,
+      "bothType" : false
     }, {
       "id" : 2299,
       "name" : "冷宫太子妃：殿下，别乱来",
@@ -28,7 +30,8 @@
       "summary" : "【孙家传奇】第一部穿越？不稀奇。替嫁？不稀奇。皇妃？也不稀奇。但天杀的为啥她遇上稀奇的太子殿下住冷宫",
       "updateStatus" : 2,
       "capacity" : 2633957,
-      "readerCount" : 6344
+      "readerCount" : 6344,
+      "bothType" : false
     }, {
       "id" : 2053,
       "name" : "古堡游戏：吸血恶魔别过来",
@@ -36,7 +39,8 @@
       "summary" : "她裴乐乐自问也没做过什么亏心事，好不容易活到这么大，怎么就莫名其妙的穿越了呢？谁来告诉她，为什么会有",
       "updateStatus" : 1,
       "capacity" : 3154949,
-      "readerCount" : 6267
+      "readerCount" : 6267,
+      "bothType" : false
     }, {
       "id" : 2946,
       "name" : "穿得人情",
@@ -44,7 +48,8 @@
       "summary" : "作品简介作品信息“小丫头，你听着，不管你是谁，又有何目的。从现在开始，你是我的，也只能是我的，哪也别",
       "updateStatus" : 1,
       "capacity" : 7653560,
-      "readerCount" : 6169
+      "readerCount" : 6169,
+      "bothType" : true
     }, {
       "id" : 3029,
       "name" : "双女穿越记",
@@ -52,7 +57,8 @@
       "summary" : "话说这年头人人玩穿越，车祸穿、跳楼穿、雷劈穿.....总之是因有尽有，无奇不有。但是咱们可不同，是跟",
       "updateStatus" : 1,
       "capacity" : 4541191,
-      "readerCount" : 6072
+      "readerCount" : 6072,
+      "bothType" : true
     }, {
       "id" : 3442,
       "name" : "这个皇后朕买了",
@@ -60,7 +66,8 @@
       "summary" : "臣流泪情愿：姑娘，溺水三千，你就饮了陛下这一瓢吧————————夜傲风：后宫佳丽三千人，君只专宠你一",
       "updateStatus" : 1,
       "capacity" : 2405607,
-      "readerCount" : 6067
+      "readerCount" : 6067,
+      "bothType" : false
     }, {
       "id" : 2118,
       "name" : "替身美妃休想逃",
@@ -68,7 +75,8 @@
       "summary" : "她，一朝穿越，成为皇帝最受宠爱的梅妃娘娘。只是，为何这宠冠六宫的娘娘竟然还是完璧之身！那风流天子狠辣",
       "updateStatus" : 2,
       "capacity" : 4908770,
-      "readerCount" : 5909
+      "readerCount" : 5909,
+      "bothType" : false
     }, {
       "id" : 3166,
       "name" : "一品凰妻：冷情教主猎娇宠",
@@ -76,7 +84,8 @@
       "summary" : "爬爬山居然一个不小心栽下去了！等眼睛一睁开，什么？叫我姑娘？你们是谁？哈？杀手？拜托，我在现代过得有",
       "updateStatus" : 1,
       "capacity" : 891325,
-      "readerCount" : 5862
+      "readerCount" : 5862,
+      "bothType" : false
     }, {
       "id" : 2305,
       "name" : "梦穿封神记：我欲齐天只为卿",
@@ -84,7 +93,8 @@
       "summary" : "梦里的，一梦已千年，梦外的，痴痴傻傻又为谁？当梦里梦外合二为一时，这一世情缘，是你成全了我？还是我成",
       "updateStatus" : 2,
       "capacity" : 2008421,
-      "readerCount" : 5785
+      "readerCount" : 5785,
+      "bothType" : false
     }, {
       "id" : 2581,
       "name" : "月上梨花白",
@@ -92,7 +102,8 @@
       "summary" : "一朝穿越，暗波横流。他是慕国的三殿下，白衣翩翩，温文尔雅。一见钟情，两相利用，她为他甘心逆天而行，却",
       "updateStatus" : 1,
       "capacity" : 8961257,
-      "readerCount" : 5779
+      "readerCount" : 5779,
+      "bothType" : false
     }, {
       "id" : 3106,
       "name" : "被流放的女将军",
@@ -100,7 +111,8 @@
       "summary" : "第一卷，女主在悠远院的故事。第二卷，女主离家出走的故事。第三卷，女主成为女将军的故事。第四卷，女主出",
       "updateStatus" : 1,
       "capacity" : 220835,
-      "readerCount" : 5546
+      "readerCount" : 5546,
+      "bothType" : false
     }, {
       "id" : 3544,
       "name" : "祭流年：幻世浮华录",
@@ -108,7 +120,8 @@
       "summary" : "【千景阁原创出品】浮世一梦一千年。她一直在想，拥有这种强大的力量到底是为了什么，一直不停的轮回又是为",
       "updateStatus" : 2,
       "capacity" : 256785,
-      "readerCount" : 5443
+      "readerCount" : 5443,
+      "bothType" : true
     }, {
       "id" : 2967,
       "name" : "渐爱，深爱",
@@ -116,7 +129,8 @@
       "summary" : "在一个遥远的星空，两个不同的灵魂正在发生着剧烈的碰撞，随这种碰撞接踵而至的是璀璨的火花。一开始或许会",
       "updateStatus" : 1,
       "capacity" : 8786340,
-      "readerCount" : 5316
+      "readerCount" : 5316,
+      "bothType" : false
     }, {
       "id" : 2738,
       "name" : "苦忘·浮生如梦",
@@ -124,7 +138,8 @@
       "summary" : "苦忘，有苦难忘……即便你我相爱，却也终究逃不过那玩笑般的命运……她本是21世纪的少女，一次偶然的情况",
       "updateStatus" : 1,
       "capacity" : 6221714,
-      "readerCount" : 5313
+      "readerCount" : 5313,
+      "bothType" : false
     }, {
       "id" : 2127,
       "name" : "沐沐雪深",
@@ -132,7 +147,8 @@
       "summary" : "对的时间，遇见对的人，是一生幸福。对的时间，遇见错的人，是一生心伤。错的时间，遇见错的人，是一生荒唐",
       "updateStatus" : 1,
       "capacity" : 8042012,
-      "readerCount" : 5200
+      "readerCount" : 5200,
+      "bothType" : false
     }, {
       "id" : 2731,
       "name" : "朕爱美人心",
@@ -140,7 +156,8 @@
       "summary" : "他，有权利，有实力自负、负人。没有人能像他这样一辈子的如意甚至是肆意；怀抱美人，手掌江山，睨视世间才",
       "updateStatus" : 1,
       "capacity" : 4107881,
-      "readerCount" : 5165
+      "readerCount" : 5165,
+      "bothType" : false
     }, {
       "id" : 3169,
       "name" : "石楠少主",
@@ -148,7 +165,8 @@
       "summary" : "他是英俊潇洒，风流倜傥的石楠少主，可是谁能想到他竟是因为在二十一世纪没有见义勇为而遭雷劈，一朝穿越到",
       "updateStatus" : 1,
       "capacity" : 730292,
-      "readerCount" : 5156
+      "readerCount" : 5156,
+      "bothType" : false
     }, {
       "id" : 3650,
       "name" : "养个儿子当祸害",
@@ -156,7 +174,8 @@
       "summary" : "她是现代富二代凌笑蓝，却因先天性心脏病被家族放逐，唯有一老仆待她至诚至真，却不料着最后一点温暖也有人",
       "updateStatus" : 1,
       "capacity" : 396236,
-      "readerCount" : 5143
+      "readerCount" : 5143,
+      "bothType" : true
     }, {
       "id" : 2920,
       "name" : "碧色佳人",
@@ -164,7 +183,8 @@
       "summary" : "本意为守护家族传遗志，却恍惚转生异世再为人愿只愿平安康乐度余年，又怎知眼波流转惹尘埃看佳人踏过千帆求",
       "updateStatus" : 1,
       "capacity" : 6658440,
-      "readerCount" : 5023
+      "readerCount" : 5023,
+      "bothType" : true
     } ]
   }
 }

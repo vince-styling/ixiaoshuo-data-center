@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 2265711,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2954,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 6299927,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2369,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "幻想耽美",
       "capacity" : 4167043,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2365,
@@ -40,6 +43,7 @@
       "updateStatus" : 1,
       "catName" : "幻想耽美",
       "capacity" : 8043315,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2491,
@@ -49,6 +53,7 @@
       "updateStatus" : 1,
       "catName" : "同人其他",
       "capacity" : 3937533,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2158,
@@ -58,6 +63,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 5584691,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3123,
@@ -67,6 +73,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 70809,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

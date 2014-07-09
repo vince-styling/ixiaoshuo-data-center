@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2735,
-      "name" : "是前世还是今生",
+      "id" : 2243,
+      "name" : "独宠之命中注定",
       "updateStatus" : 1,
-      "distance" : 4091,
-      "memberId" : 6003
+      "distance" : 4471,
+      "memberId" : 1891,
+      "bothType" : true
     }, {
-      "id" : 3238,
-      "name" : "红尘珏",
+      "id" : 3300,
+      "name" : "画城",
       "updateStatus" : 1,
-      "distance" : 1079,
-      "memberId" : 5127
+      "distance" : 5961,
+      "memberId" : 1325,
+      "bothType" : false
     }, {
-      "id" : 3580,
-      "name" : "槐花吟",
-      "updateStatus" : 1,
-      "distance" : 5926,
-      "memberId" : 6415
-    }, {
-      "id" : 2692,
-      "name" : "网王之阴阳师是学生",
-      "updateStatus" : 1,
-      "distance" : 2904,
-      "memberId" : 6500
-    }, {
-      "id" : 3273,
-      "name" : "神医皇后",
-      "updateStatus" : 1,
-      "distance" : 4753,
-      "memberId" : 6380
-    }, {
-      "id" : 2539,
-      "name" : "沙漏时光",
-      "updateStatus" : 1,
-      "distance" : 8015,
-      "memberId" : 3322
-    }, {
-      "id" : 3354,
-      "name" : "复仇公主恋爱记",
-      "updateStatus" : 1,
-      "distance" : 9082,
-      "memberId" : 5072
-    }, {
-      "id" : 2578,
-      "name" : "毕业不分手",
-      "updateStatus" : 1,
-      "distance" : 9686,
-      "memberId" : 5376
-    }, {
-      "id" : 2570,
-      "name" : "情挑深情夫君",
-      "updateStatus" : 1,
-      "distance" : 4332,
-      "memberId" : 8082
-    }, {
-      "id" : 3031,
-      "name" : "莲姬",
-      "updateStatus" : 1,
-      "distance" : 1620,
-      "memberId" : 8020
-    }, {
-      "id" : 2779,
-      "name" : "匪总与他丢失的肋骨",
-      "updateStatus" : 1,
-      "distance" : 2810,
-      "memberId" : 8080
-    }, {
-      "id" : 2197,
-      "name" : "血色蔓延之守护者",
+      "id" : 2246,
+      "name" : "王爷，你给本宫趴下",
       "updateStatus" : 2,
-      "distance" : 7715,
-      "memberId" : 4947
+      "distance" : 910,
+      "memberId" : 4609,
+      "bothType" : false
     }, {
-      "id" : 3201,
-      "name" : "花开正盛",
+      "id" : 2877,
+      "name" : "总裁，我只是你的棋子",
       "updateStatus" : 1,
-      "distance" : 9895,
-      "memberId" : 6670
+      "distance" : 4346,
+      "memberId" : 7345,
+      "bothType" : false
     }, {
-      "id" : 2893,
-      "name" : "曾经你还好么",
+      "id" : 2946,
+      "name" : "穿得人情",
       "updateStatus" : 1,
-      "distance" : 5903,
-      "memberId" : 7404
+      "distance" : 4607,
+      "memberId" : 2918,
+      "bothType" : false
     }, {
-      "id" : 2985,
-      "name" : "重生之红梅烙",
+      "id" : 2737,
+      "name" : "醉清狂",
       "updateStatus" : 1,
-      "distance" : 8310,
-      "memberId" : 8403
+      "distance" : 2850,
+      "memberId" : 5370,
+      "bothType" : false
     }, {
-      "id" : 2211,
-      "name" : "神魂锁炼",
+      "id" : 2926,
+      "name" : "清宫情史",
       "updateStatus" : 1,
-      "distance" : 3438,
-      "memberId" : 7697
+      "distance" : 6900,
+      "memberId" : 5322,
+      "bothType" : false
     }, {
-      "id" : 2596,
-      "name" : "白狐报恩之遇上风流王爷",
+      "id" : 3656,
+      "name" : "爱终究短暂",
       "updateStatus" : 1,
-      "distance" : 588,
-      "memberId" : 8153
+      "distance" : 4783,
+      "memberId" : 3435,
+      "bothType" : false
     }, {
-      "id" : 2288,
-      "name" : "乱世枭妃",
+      "id" : 2851,
+      "name" : "妃藏匈奴",
       "updateStatus" : 1,
-      "distance" : 9325,
-      "memberId" : 5166
+      "distance" : 6007,
+      "memberId" : 2692,
+      "bothType" : false
     }, {
-      "id" : 2829,
-      "name" : "女兽与美郎",
+      "id" : 2580,
+      "name" : "琉璃碎",
       "updateStatus" : 1,
-      "distance" : 7531,
-      "memberId" : 1614
+      "distance" : 516,
+      "memberId" : 3184,
+      "bothType" : false
     }, {
-      "id" : 3355,
-      "name" : "野蛮小宫女",
+      "id" : 3667,
+      "name" : "且行且见",
       "updateStatus" : 1,
-      "distance" : 2603,
-      "memberId" : 3458
+      "distance" : 7521,
+      "memberId" : 8352,
+      "bothType" : false
+    }, {
+      "id" : 3574,
+      "name" : "祁家楼外楼",
+      "updateStatus" : 1,
+      "distance" : 7489,
+      "memberId" : 6027,
+      "bothType" : false
+    }, {
+      "id" : 3150,
+      "name" : "我是小丫",
+      "updateStatus" : 1,
+      "distance" : 8980,
+      "memberId" : 4687,
+      "bothType" : false
+    }, {
+      "id" : 3468,
+      "name" : "轮回•不语",
+      "updateStatus" : 1,
+      "distance" : 1916,
+      "memberId" : 7478,
+      "bothType" : false
+    }, {
+      "id" : 2549,
+      "name" : "色如花，命如叶",
+      "updateStatus" : 1,
+      "distance" : 2126,
+      "memberId" : 7687,
+      "bothType" : false
+    }, {
+      "id" : 2172,
+      "name" : "重生之倾城杀手",
+      "updateStatus" : 1,
+      "distance" : 587,
+      "memberId" : 4064,
+      "bothType" : false
+    }, {
+      "id" : 3351,
+      "name" : "如果爱情只是错过",
+      "updateStatus" : 1,
+      "distance" : 5241,
+      "memberId" : 4826,
+      "bothType" : false
+    }, {
+      "id" : 2625,
+      "name" : "囚爱天使：逃婚猫咪不服输",
+      "updateStatus" : 1,
+      "distance" : 7577,
+      "memberId" : 2253,
+      "bothType" : true
+    }, {
+      "id" : 2921,
+      "name" : "豪门恩怨之吾爱未央",
+      "updateStatus" : 1,
+      "distance" : 5412,
+      "memberId" : 5843,
+      "bothType" : false
+    }, {
+      "id" : 3265,
+      "name" : "如果，没有你",
+      "updateStatus" : 1,
+      "distance" : 2032,
+      "memberId" : 8156,
+      "bothType" : false
     } ]
   }
 }

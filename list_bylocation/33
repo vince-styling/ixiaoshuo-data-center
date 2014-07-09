@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2074,
-      "name" : "我们本无缘",
+      "id" : 2972,
+      "name" : "MoMo大陆传奇",
       "updateStatus" : 1,
-      "distance" : 5799,
-      "memberId" : 6356
+      "distance" : 6312,
+      "memberId" : 6931,
+      "bothType" : false
     }, {
-      "id" : 3545,
-      "name" : "泪痕",
+      "id" : 2809,
+      "name" : "百食",
       "updateStatus" : 1,
-      "distance" : 7356,
-      "memberId" : 2263
+      "distance" : 4040,
+      "memberId" : 8516,
+      "bothType" : false
     }, {
-      "id" : 3651,
-      "name" : "《听见了吗？我来了》",
+      "id" : 2079,
+      "name" : "祸乱天下之南泽有宝",
       "updateStatus" : 1,
-      "distance" : 8263,
-      "memberId" : 2460
+      "distance" : 4778,
+      "memberId" : 6592,
+      "bothType" : false
     }, {
-      "id" : 2217,
-      "name" : "枪芒",
+      "id" : 3367,
+      "name" : "血仙·舞",
       "updateStatus" : 1,
-      "distance" : 8463,
-      "memberId" : 6169
+      "distance" : 2711,
+      "memberId" : 7902,
+      "bothType" : true
     }, {
-      "id" : 2391,
-      "name" : "清清子毅",
+      "id" : 2920,
+      "name" : "碧色佳人",
+      "updateStatus" : 1,
+      "distance" : 6793,
+      "memberId" : 6650,
+      "bothType" : false
+    }, {
+      "id" : 2144,
+      "name" : "英雄道",
       "updateStatus" : 2,
-      "distance" : 700,
-      "memberId" : 7995
+      "distance" : 7131,
+      "memberId" : 2650,
+      "bothType" : false
     }, {
-      "id" : 2560,
-      "name" : "穿越女尊之桃花朵朵开",
-      "updateStatus" : 1,
-      "distance" : 7239,
-      "memberId" : 2973
-    }, {
-      "id" : 2939,
-      "name" : "半城月色",
+      "id" : 2198,
+      "name" : "花开浮生：花乱莫倾城",
       "updateStatus" : 2,
-      "distance" : 6301,
-      "memberId" : 6222
+      "distance" : 2781,
+      "memberId" : 8793,
+      "bothType" : true
     }, {
-      "id" : 2824,
-      "name" : "绿草如茵",
+      "id" : 3363,
+      "name" : "顾事了",
       "updateStatus" : 1,
-      "distance" : 5623,
-      "memberId" : 2337
+      "distance" : 2551,
+      "memberId" : 8130,
+      "bothType" : false
     }, {
-      "id" : 2491,
-      "name" : "网游之睡睡也能成高手",
+      "id" : 2578,
+      "name" : "毕业不分手",
       "updateStatus" : 1,
-      "distance" : 5524,
-      "memberId" : 1036
+      "distance" : 5121,
+      "memberId" : 5429,
+      "bothType" : false
     }, {
-      "id" : 2808,
-      "name" : "女王重生：欺上恶魔总裁",
+      "id" : 2378,
+      "name" : "千里背叛",
       "updateStatus" : 1,
-      "distance" : 7861,
-      "memberId" : 4368
+      "distance" : 7473,
+      "memberId" : 5997,
+      "bothType" : false
     }, {
-      "id" : 3350,
-      "name" : "鬼话连篇",
+      "id" : 3072,
+      "name" : "倒转乾坤：女帝慑天下",
       "updateStatus" : 1,
-      "distance" : 8422,
-      "memberId" : 8102
+      "distance" : 8399,
+      "memberId" : 2281,
+      "bothType" : false
     }, {
-      "id" : 3227,
-      "name" : "玩心公子",
+      "id" : 3147,
+      "name" : "嫡女心机",
       "updateStatus" : 1,
-      "distance" : 6003,
-      "memberId" : 4731
+      "distance" : 7447,
+      "memberId" : 5857,
+      "bothType" : true
     }, {
-      "id" : 3166,
-      "name" : "一品凰妻：冷情教主猎娇宠",
+      "id" : 3530,
+      "name" : "总裁莫追：小女人带球跑",
       "updateStatus" : 1,
-      "distance" : 7270,
-      "memberId" : 7262
+      "distance" : 2972,
+      "memberId" : 1543,
+      "bothType" : false
     }, {
-      "id" : 2927,
-      "name" : "风艳离色",
+      "id" : 2626,
+      "name" : "花开画中花",
       "updateStatus" : 1,
-      "distance" : 9253,
-      "memberId" : 4870
+      "distance" : 5038,
+      "memberId" : 3415,
+      "bothType" : false
     }, {
-      "id" : 3606,
-      "name" : "王的异界游历史",
+      "id" : 2093,
+      "name" : "废柴王妃：相公欠调教",
       "updateStatus" : 1,
-      "distance" : 7107,
-      "memberId" : 3171
+      "distance" : 3908,
+      "memberId" : 8345,
+      "bothType" : false
     }, {
-      "id" : 2546,
-      "name" : "风流公子：赖上重生佳人",
+      "id" : 2782,
+      "name" : "天梦迷情",
       "updateStatus" : 1,
-      "distance" : 2103,
-      "memberId" : 8890
+      "distance" : 4205,
+      "memberId" : 1418,
+      "bothType" : false
     }, {
-      "id" : 2484,
-      "name" : "让我杀了你，爱人",
+      "id" : 2124,
+      "name" : "爱情如此多骄",
       "updateStatus" : 1,
-      "distance" : 3408,
-      "memberId" : 2870
+      "distance" : 4325,
+      "memberId" : 2443,
+      "bothType" : false
     }, {
-      "id" : 3519,
-      "name" : "火影.平静的海面上泛起恋爱的浪花",
+      "id" : 3049,
+      "name" : "做什么公主，来做皇后吧",
       "updateStatus" : 1,
-      "distance" : 1900,
-      "memberId" : 4522
+      "distance" : 3238,
+      "memberId" : 3988,
+      "bothType" : false
     }, {
-      "id" : 2092,
-      "name" : "迟妆懒起",
+      "id" : 3633,
+      "name" : "小的国",
       "updateStatus" : 1,
-      "distance" : 3747,
-      "memberId" : 3003
+      "distance" : 6388,
+      "memberId" : 4494,
+      "bothType" : true
     }, {
-      "id" : 3743,
-      "name" : "噬血公主与噬魂王子",
+      "id" : 2521,
+      "name" : "你才奥利奥，你全家都奥利奥",
       "updateStatus" : 1,
-      "distance" : 7422,
-      "memberId" : 7739
+      "distance" : 1259,
+      "memberId" : 7540,
+      "bothType" : false
     } ]
   }
 }

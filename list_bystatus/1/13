@@ -12,7 +12,8 @@
       "summary" : "本以为只要认真的喜欢就可以打动一个人，却原来只是打动了自己得不到的只能骚动，被偏爱的就是有恃无恐我是",
       "updateStatus" : 1,
       "capacity" : 9446559,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2402,
       "name" : "请敲门爱情",
@@ -20,7 +21,8 @@
       "summary" : "一场意外让他不敢再爱，拖着残破的身体饱受痛苦与折磨，不哭不笑，过着行尸走肉般的生活。本以为自己就该如",
       "updateStatus" : 1,
       "capacity" : 7265646,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2383,
       "name" : "莫绪",
@@ -28,7 +30,8 @@
       "summary" : "地毯的那一端，不是她，而是“她”！当那个女人腆着肚子来对她耀武扬威的时候，她一败涂地……撕心裂肺的伤",
       "updateStatus" : 1,
       "capacity" : 4873037,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2791,
       "name" : "倩海情深",
@@ -36,7 +39,8 @@
       "summary" : "时间还残留着升学宴里的酒香，耳畔还回响着父母奶奶的叮咛，提着让人想哭的行李，带着几分憧憬，来到了这里",
       "updateStatus" : 1,
       "capacity" : 2183255,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2638,
       "name" : "谊心依旧",
@@ -44,7 +48,8 @@
       "summary" : "初次见面的姜谊心与程砚就剑拔弩张，结果不欢而散继而就是不可预见的几次三番地偶遇，没有一次是相见甚欢然",
       "updateStatus" : 1,
       "capacity" : 4598296,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2764,
       "name" : "桃花款酒落朱弦",
@@ -52,7 +57,8 @@
       "summary" : "桃花开了。终究是开了，我却为这场桃花雨等的苍老了。“公子所画桃花甚好，只是这颜色却暗了些，何不以桃花",
       "updateStatus" : 1,
       "capacity" : 5925417,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2781,
       "name" : "延伸",
@@ -60,7 +66,8 @@
       "summary" : "这是一个由重男轻女引发的故事，重男轻女的形态有多种，谁能把各种形态都出来？主人公就是生活在这样一个环",
       "updateStatus" : 1,
       "capacity" : 2910706,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2298,
       "name" : "重生联盟之绝代风华",
@@ -68,7 +75,8 @@
       "summary" : "厌倦了隐世家族的争斗，她以决绝的方式结束了这一切。却不料……遇上了重生这回事。这一世，她以大联盟宋家",
       "updateStatus" : 1,
       "capacity" : 4686445,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2699,
       "name" : "繁花烬之绝世倾城",
@@ -76,7 +84,8 @@
       "summary" : "繁华满幕之景，离人终是断肠。我们几乎用生命去经历这场红尘之劫，竟是一曲旷世悲歌。冰冷的剑刺破你火热的",
       "updateStatus" : 1,
       "capacity" : 2812515,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2527,
       "name" : "火影同人暗夜帝国",
@@ -84,7 +93,8 @@
       "summary" : "在这个弱肉强食的世界里，我们只有紧紧依靠着彼此才能感受到那微弱的温暖，在这里我们会建立一个属于我们的",
       "updateStatus" : 1,
       "capacity" : 8042919,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2591,
       "name" : "泪水飘落的日子",
@@ -92,7 +102,8 @@
       "summary" : "一段情，两行泪，能否缘定三生？一对孪生姊妹，一曲爱恨悲歌，诉不尽情途之坎坷……两行心酸泪，两情相悦难",
       "updateStatus" : 1,
       "capacity" : 9581245,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2082,
       "name" : "魔妃惑君心",
@@ -100,7 +111,8 @@
       "summary" : "一场无法改变的命局，一场注定好的输赢，她是命定的帝女，“踏雪而生，一统天下……”亲人的背叛，朋友的利",
       "updateStatus" : 1,
       "capacity" : 8497555,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2242,
       "name" : "断刃天涯",
@@ -108,7 +120,8 @@
       "summary" : "诸神的黄昏，是上天的惩罚，还是重生的预兆。作为英雄诞生之地的阿拉德大陆却成为了人世间最后一方净土，谁",
       "updateStatus" : 1,
       "capacity" : 7099460,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2735,
       "name" : "是前世还是今生",
@@ -116,7 +129,8 @@
       "summary" : "她本是生活的无忧无虑，幸福得很，可不幸来的太快，爱人的背叛，父母的离去，这一切都来得太过突然，这些让",
       "updateStatus" : 1,
       "capacity" : 5677307,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2709,
       "name" : "至尊特工：狂凤逆九天",
@@ -124,7 +138,8 @@
       "summary" : "我要翻手为云覆手为雨我要那些废物匍匐在我的脚下我要站在顶端漠望天下聚散离合转逆九天间引我为王为父母为",
       "updateStatus" : 1,
       "capacity" : 1477680,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 2622,
       "name" : "恋上拽宫主",
@@ -132,7 +147,8 @@
       "summary" : "一场穿越她来到某个神秘时空，命运却一步步将她推入四国战争中，在权利与宏图霸业中她一次次被无情的伤害着",
       "updateStatus" : 1,
       "capacity" : 7950812,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3036,
       "name" : "此生堪华年",
@@ -140,7 +156,8 @@
       "summary" : "讨论群：136841081她从小凌落在外，好不容易有一个安身之地却被人强行取入家中。她不懂爱，不敢爱",
       "updateStatus" : 1,
       "capacity" : 6948417,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2892,
       "name" : "因为，爱情",
@@ -148,7 +165,8 @@
       "summary" : "文案你有没有试过深爱一个人。你有没有试过用你全部的生命去爱一个人。你有没有宁可抛弃善良的自己也要得到",
       "updateStatus" : 1,
       "capacity" : 4918538,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2537,
       "name" : "一馨二逸",
@@ -156,7 +174,8 @@
       "summary" : "爱情的世界是神奇的，无论任何",
       "updateStatus" : 1,
       "capacity" : 7698607,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2673,
       "name" : "默默心动",
@@ -164,7 +183,8 @@
       "summary" : "重生世家千金。人品碉堡了，空间戒指哟~~还附赠异能哟~只是怎么觉得这异能果断不靠谱？“夫君，快到碗里",
       "updateStatus" : 1,
       "capacity" : 4097034,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     } ]
   }
 }

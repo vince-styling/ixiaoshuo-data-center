@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2992,
-      "name" : "天才萌宝：霸情爹地太腹黑",
+      "id" : 3159,
+      "name" : "红尘陌路",
       "updateStatus" : 1,
-      "distance" : 5199,
-      "memberId" : 2570
+      "distance" : 8550,
+      "memberId" : 2905,
+      "bothType" : true
     }, {
-      "id" : 2172,
-      "name" : "重生之倾城杀手",
+      "id" : 3589,
+      "name" : "今生等你爱我",
       "updateStatus" : 1,
-      "distance" : 5082,
-      "memberId" : 6689
+      "distance" : 9856,
+      "memberId" : 7083,
+      "bothType" : false
     }, {
-      "id" : 3123,
-      "name" : "大神嫁到",
+      "id" : 3546,
+      "name" : "红颜若雪：情倾后宫",
       "updateStatus" : 1,
-      "distance" : 1579,
-      "memberId" : 5126
+      "distance" : 9518,
+      "memberId" : 7049,
+      "bothType" : false
     }, {
-      "id" : 3071,
-      "name" : "焚源·苍蓝",
+      "id" : 3333,
+      "name" : "清梦未央",
       "updateStatus" : 1,
-      "distance" : 8329,
-      "memberId" : 7960
+      "distance" : 6970,
+      "memberId" : 5320,
+      "bothType" : false
     }, {
-      "id" : 2490,
-      "name" : "彩云国之一杯茶一辈子",
+      "id" : 2980,
+      "name" : "穿越做将军",
       "updateStatus" : 1,
-      "distance" : 7608,
-      "memberId" : 4300
+      "distance" : 1059,
+      "memberId" : 5768,
+      "bothType" : false
     }, {
-      "id" : 2701,
-      "name" : "漩涡长门在异界",
+      "id" : 2684,
+      "name" : "闯驻你的心",
+      "updateStatus" : 1,
+      "distance" : 2813,
+      "memberId" : 3927,
+      "bothType" : true
+    }, {
+      "id" : 3237,
+      "name" : "千面狂妃",
+      "updateStatus" : 1,
+      "distance" : 6385,
+      "memberId" : 2027,
+      "bothType" : false
+    }, {
+      "id" : 2214,
+      "name" : "冥王老大：鬼眼小娇妻",
       "updateStatus" : 2,
-      "distance" : 8697,
-      "memberId" : 8927
+      "distance" : 9371,
+      "memberId" : 4984,
+      "bothType" : true
     }, {
-      "id" : 2702,
-      "name" : "光与暗之命运狂想曲",
+      "id" : 2852,
+      "name" : "花千世界",
       "updateStatus" : 1,
-      "distance" : 3725,
-      "memberId" : 1073
+      "distance" : 5036,
+      "memberId" : 4213,
+      "bothType" : false
     }, {
-      "id" : 2536,
-      "name" : "幸福书坊",
+      "id" : 3145,
+      "name" : "在云彼端",
       "updateStatus" : 1,
-      "distance" : 3718,
-      "memberId" : 3026
+      "distance" : 8938,
+      "memberId" : 8711,
+      "bothType" : false
     }, {
-      "id" : 3067,
-      "name" : "总裁霸情：调教偷心贼娘子",
+      "id" : 2714,
+      "name" : "奈何情深深几许",
       "updateStatus" : 1,
-      "distance" : 4935,
-      "memberId" : 7734
+      "distance" : 1804,
+      "memberId" : 5083,
+      "bothType" : true
     }, {
-      "id" : 2506,
-      "name" : "再见，青春",
+      "id" : 3467,
+      "name" : "驻足",
       "updateStatus" : 1,
-      "distance" : 4592,
-      "memberId" : 2334
+      "distance" : 3224,
+      "memberId" : 5360,
+      "bothType" : false
     }, {
-      "id" : 3091,
-      "name" : "丛林法则，末世女王风",
+      "id" : 2352,
+      "name" : "血缘诅咒之墨儒篇",
       "updateStatus" : 1,
-      "distance" : 3281,
-      "memberId" : 2540
+      "distance" : 7194,
+      "memberId" : 5546,
+      "bothType" : false
     }, {
-      "id" : 3081,
-      "name" : "爱，谨行时光",
+      "id" : 3718,
+      "name" : "弱水三千，只饮一瓢",
       "updateStatus" : 1,
-      "distance" : 5149,
-      "memberId" : 7232
+      "distance" : 2184,
+      "memberId" : 6356,
+      "bothType" : true
     }, {
-      "id" : 2700,
-      "name" : "狐舞倾城：姐的世界你不懂",
+      "id" : 2402,
+      "name" : "请敲门爱情",
       "updateStatus" : 1,
-      "distance" : 2246,
-      "memberId" : 3635
+      "distance" : 1303,
+      "memberId" : 8889,
+      "bothType" : false
     }, {
-      "id" : 3486,
-      "name" : "月隐竹梢",
+      "id" : 2790,
+      "name" : "三世豪门：极品娇妻来袭",
       "updateStatus" : 1,
-      "distance" : 9566,
-      "memberId" : 7630
+      "distance" : 8575,
+      "memberId" : 1604,
+      "bothType" : false
     }, {
-      "id" : 2514,
-      "name" : "新选组大河剧之星辰之名",
-      "updateStatus" : 2,
-      "distance" : 5729,
-      "memberId" : 5329
-    }, {
-      "id" : 2811,
-      "name" : "苍少的禁忌小老婆",
+      "id" : 3199,
+      "name" : "后宫大学传",
       "updateStatus" : 1,
-      "distance" : 9028,
-      "memberId" : 3933
+      "distance" : 8618,
+      "memberId" : 5715,
+      "bothType" : true
     }, {
-      "id" : 3346,
-      "name" : "一叶听风",
+      "id" : 2976,
+      "name" : "少女养成之就是赖上你",
       "updateStatus" : 1,
-      "distance" : 5255,
-      "memberId" : 2620
+      "distance" : 846,
+      "memberId" : 1671,
+      "bothType" : true
     }, {
-      "id" : 3364,
-      "name" : "只要你幸福，愿意不爱你",
+      "id" : 3187,
+      "name" : "好大的缘分呐！",
       "updateStatus" : 1,
-      "distance" : 3597,
-      "memberId" : 8842
+      "distance" : 4146,
+      "memberId" : 4817,
+      "bothType" : false
     }, {
-      "id" : 3537,
-      "name" : "倾尽天下，乱世红颜",
+      "id" : 3398,
+      "name" : "泠夜梦初流光烬",
       "updateStatus" : 1,
-      "distance" : 5176,
-      "memberId" : 2793
-    }, {
-      "id" : 3582,
-      "name" : "骗来的爱情",
-      "updateStatus" : 2,
-      "distance" : 1535,
-      "memberId" : 6207
+      "distance" : 3937,
+      "memberId" : 3646,
+      "bothType" : false
     } ]
   }
 }

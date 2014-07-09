@@ -12,7 +12,8 @@
       "summary" : "一直以来最受争议的便是90后，然而有多少真的了解90后呢？又有多少人能理解90后呢？我们经历了什么？",
       "updateStatus" : 1,
       "capacity" : 272362,
-      "readerCount" : 1041
+      "readerCount" : 1041,
+      "bothType" : true
     }, {
       "id" : 3735,
       "name" : "穿越之修真吐槽娘",
@@ -20,7 +21,8 @@
       "summary" : "当一位傲娇女到了修仙的世界里，当这位傲娇女极为女王，当她发现自己有着超人的气运，她会如何？秦晓认为，",
       "updateStatus" : 1,
       "capacity" : 329573,
-      "readerCount" : 1031
+      "readerCount" : 1031,
+      "bothType" : false
     }, {
       "id" : 2521,
       "name" : "你才奥利奥，你全家都奥利奥",
@@ -28,7 +30,8 @@
       "summary" : "什么？你说黑白配？男生女生配？眼睛瞎了吧？你看我俩谁更不像男的？谁说白眼睛加起来就是奥利奥了？你才奥",
       "updateStatus" : 1,
       "capacity" : 3467303,
-      "readerCount" : 1027
+      "readerCount" : 1027,
+      "bothType" : false
     }, {
       "id" : 2158,
       "name" : "网游之独狂天下",
@@ -36,7 +39,8 @@
       "summary" : "我本来只是一个普通大学毕业的学生，一次的意外让我进入了游戏，在游戏里，我一次次的被背叛，经过了无数的",
       "updateStatus" : 1,
       "capacity" : 5584691,
-      "readerCount" : 1026
+      "readerCount" : 1026,
+      "bothType" : false
     }, {
       "id" : 3357,
       "name" : "总裁的诱人旧欢",
@@ -44,7 +48,8 @@
       "summary" : "第一次我对你说我对你有感觉，你指着近处的女生说那是你女友，后来才知道她只是个路人。第二次我对你说我喜",
       "updateStatus" : 1,
       "capacity" : 63810,
-      "readerCount" : 1025
+      "readerCount" : 1025,
+      "bothType" : false
     }, {
       "id" : 2792,
       "name" : "依然在一起",
@@ -52,7 +57,8 @@
       "summary" : "一帮幺蛾子年轻人的爱恨情愁。他们大概，肤白貌美，口若悬河，色令智昏，上天入地，妖行于世。有许多捧腹大",
       "updateStatus" : 1,
       "capacity" : 5150607,
-      "readerCount" : 1011
+      "readerCount" : 1011,
+      "bothType" : false
     }, {
       "id" : 3634,
       "name" : "空间叠合：人鬼恋之我的功夫女友",
@@ -60,7 +66,8 @@
       "summary" : "“啊！你是谁啊？怎么会在我的房间里面？”“我？嘿嘿！我是鬼啊！”“鬼你个头啊！赶紧给我出去，不然我喊",
       "updateStatus" : 2,
       "capacity" : 160005,
-      "readerCount" : 1008
+      "readerCount" : 1008,
+      "bothType" : false
     }, {
       "id" : 2234,
       "name" : "启界",
@@ -68,7 +75,8 @@
       "summary" : "一座山脉的传承，一个王朝的覆灭，一个社会和另一个社会的的碰撞，不断轮回。“我可能只是一把钥匙，我只能",
       "updateStatus" : 1,
       "capacity" : 7725039,
-      "readerCount" : 1001
+      "readerCount" : 1001,
+      "bothType" : false
     }, {
       "id" : 3683,
       "name" : "梧桐花雨：亡颜劫",
@@ -76,7 +84,8 @@
       "summary" : "你说过我们要一直牵着对方的手走下去，可最终我们终究没能抓住彼此的手。不是你不信守承诺，而是我放手了！",
       "updateStatus" : 1,
       "capacity" : 155998,
-      "readerCount" : 998
+      "readerCount" : 998,
+      "bothType" : false
     }, {
       "id" : 3492,
       "name" : "清月",
@@ -84,7 +93,8 @@
       "summary" : "一朝无意穿越，她选择撑起这个家庭。她是冷冷清清的个性，身边却总出现一些奇异的人，那些人或江湖少侠，或",
       "updateStatus" : 1,
       "capacity" : 881366,
-      "readerCount" : 991
+      "readerCount" : 991,
+      "bothType" : false
     }, {
       "id" : 3259,
       "name" : "静若安好愉怡一生",
@@ -92,7 +102,8 @@
       "summary" : "我们从相识到相知在一起在需找那个Ta，是一对好姐妹，好闺蜜。却又发生了不少事。误解，怀疑，不理到理解",
       "updateStatus" : 1,
       "capacity" : 43317,
-      "readerCount" : 988
+      "readerCount" : 988,
+      "bothType" : false
     }, {
       "id" : 3090,
       "name" : "两个人的天意",
@@ -100,7 +111,8 @@
       "summary" : "尼玛？他是在被甩之后才转向追求她的？并且，他的前女友还和自己同一宿舍？好吧，她接受。尼玛，自己的死党",
       "updateStatus" : 1,
       "capacity" : 411972,
-      "readerCount" : 986
+      "readerCount" : 986,
+      "bothType" : false
     }, {
       "id" : 3325,
       "name" : "司宠",
@@ -108,7 +120,8 @@
       "summary" : "谁说面带笑容，就是真的快乐，唐木木带着可爱灵狐小狸穿越异世谁说举止优雅，就是真的君子，祈月司带着木头",
       "updateStatus" : 1,
       "capacity" : 175351,
-      "readerCount" : 986
+      "readerCount" : 986,
+      "bothType" : false
     }, {
       "id" : 3285,
       "name" : "沉星坠夜",
@@ -116,7 +129,8 @@
       "summary" : "。高中毕业的洛鱼在参加毕业晚会后意外的走进一条她从未听说过的街“夜花式”，她走进街上唯一一家开着的店",
       "updateStatus" : 1,
       "capacity" : 253050,
-      "readerCount" : 984
+      "readerCount" : 984,
+      "bothType" : false
     }, {
       "id" : 3668,
       "name" : "鸳鸯何处绾红妆",
@@ -124,7 +138,8 @@
       "summary" : "明熹宗年间，皇帝朱由校专心木艺，无心朝政，朝廷被两大乱党魏忠贤和客氏霸占，忠诚良将无不痛心疾首，其中",
       "updateStatus" : 1,
       "capacity" : 88058,
-      "readerCount" : 977
+      "readerCount" : 977,
+      "bothType" : false
     }, {
       "id" : 2774,
       "name" : "穿越之农家女初长成",
@@ -132,7 +147,8 @@
       "summary" : "“啊？”陈楚大喊一声，自己跑的那么快，那小子一下子就碰到自己肩膀了？难道这货是妖精？快跑！",
       "updateStatus" : 1,
       "capacity" : 4065814,
-      "readerCount" : 970
+      "readerCount" : 970,
+      "bothType" : false
     }, {
       "id" : 3551,
       "name" : "爱你或许只是兴起",
@@ -140,7 +156,8 @@
       "summary" : "他们是公认的青梅竹马，他们是公认的最不配，其实他们只是最陌生的邻居。他们也许是花了四年时间相恋，也许",
       "updateStatus" : 1,
       "capacity" : 239562,
-      "readerCount" : 966
+      "readerCount" : 966,
+      "bothType" : false
     }, {
       "id" : 3681,
       "name" : "泡沫初夏",
@@ -148,7 +165,8 @@
       "summary" : "在这个匆匆的城市，在这个匆匆的夏天。一群年轻人曾经聚过，散过，哭过，笑过。在风中的记忆消散，变成泡沫",
       "updateStatus" : 2,
       "capacity" : 464842,
-      "readerCount" : 963
+      "readerCount" : 963,
+      "bothType" : true
     }, {
       "id" : 3264,
       "name" : "一个安静的故事",
@@ -156,7 +174,8 @@
       "summary" : "曾经，我在时光的彼岸，一个人安静的活着。一个人安静地吃着饭，一个人安静地听着歌，一个人安静地看电影，",
       "updateStatus" : 1,
       "capacity" : 666114,
-      "readerCount" : 963
+      "readerCount" : 963,
+      "bothType" : false
     }, {
       "id" : 3071,
       "name" : "焚源·苍蓝",
@@ -164,7 +183,8 @@
       "summary" : "星殿骑士，灵术师，巫蛊者，星士，等等——这块名为【焚源】的大陆存在有太多古老的力量形态。历史波澜壮阔",
       "updateStatus" : 1,
       "capacity" : 153997,
-      "readerCount" : 959
+      "readerCount" : 959,
+      "bothType" : false
     } ]
   }
 }

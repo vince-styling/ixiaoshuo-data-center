@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3659,
-      "name" : "回头，爱还在原地等你",
+      "id" : 3236,
+      "name" : "九尾女皇",
       "updateStatus" : 1,
-      "distance" : 8034,
-      "memberId" : 8173
+      "distance" : 6834,
+      "memberId" : 6863,
+      "bothType" : true
     }, {
-      "id" : 2056,
-      "name" : "夫君夫君不可以",
-      "updateStatus" : 2,
-      "distance" : 5540,
-      "memberId" : 8614
-    }, {
-      "id" : 2048,
-      "name" : "嗜血毒妃虐红尘",
+      "id" : 2789,
+      "name" : "男人心事",
       "updateStatus" : 1,
-      "distance" : 7388,
-      "memberId" : 7395
+      "distance" : 1789,
+      "memberId" : 7063,
+      "bothType" : false
     }, {
-      "id" : 2797,
-      "name" : "那年夏天残留的支离破碎",
+      "id" : 3006,
+      "name" : "君在水之湄",
       "updateStatus" : 1,
-      "distance" : 7641,
-      "memberId" : 7359
+      "distance" : 6715,
+      "memberId" : 7733,
+      "bothType" : false
     }, {
-      "id" : 3609,
-      "name" : "等你爱我",
+      "id" : 2788,
+      "name" : "五月，安然",
       "updateStatus" : 1,
-      "distance" : 8651,
-      "memberId" : 1870
+      "distance" : 7394,
+      "memberId" : 6098,
+      "bothType" : true
     }, {
-      "id" : 3329,
-      "name" : "引玉石的花儿",
+      "id" : 2378,
+      "name" : "千里背叛",
       "updateStatus" : 1,
-      "distance" : 9004,
-      "memberId" : 8382
+      "distance" : 4554,
+      "memberId" : 6232,
+      "bothType" : false
     }, {
-      "id" : 3250,
-      "name" : "极点之境",
+      "id" : 3514,
+      "name" : "修罗决旨",
       "updateStatus" : 1,
-      "distance" : 4918,
-      "memberId" : 6610
+      "distance" : 6927,
+      "memberId" : 5900,
+      "bothType" : true
     }, {
-      "id" : 3256,
-      "name" : "总裁大人我会乖",
+      "id" : 3159,
+      "name" : "红尘陌路",
       "updateStatus" : 1,
-      "distance" : 845,
-      "memberId" : 6942
+      "distance" : 8341,
+      "memberId" : 3571,
+      "bothType" : false
     }, {
-      "id" : 3151,
-      "name" : "神秘特务之炸弹小姐",
+      "id" : 2602,
+      "name" : "妖孽皇子：颤抖吧！爱妃",
       "updateStatus" : 1,
-      "distance" : 7268,
-      "memberId" : 6594
+      "distance" : 3841,
+      "memberId" : 3649,
+      "bothType" : false
     }, {
-      "id" : 2364,
-      "name" : "双城——消隐的传奇",
+      "id" : 3529,
+      "name" : "黑道少女",
       "updateStatus" : 1,
-      "distance" : 7275,
-      "memberId" : 8302
+      "distance" : 7608,
+      "memberId" : 3193,
+      "bothType" : false
     }, {
-      "id" : 2363,
-      "name" : "慕尘雪",
+      "id" : 2685,
+      "name" : "含蕾",
       "updateStatus" : 1,
-      "distance" : 9586,
-      "memberId" : 5182
+      "distance" : 4693,
+      "memberId" : 1394,
+      "bothType" : true
     }, {
-      "id" : 2439,
-      "name" : "付卿吾韶华",
+      "id" : 2128,
+      "name" : "幻莫一世，情殇",
       "updateStatus" : 1,
-      "distance" : 2959,
-      "memberId" : 3904
+      "distance" : 3700,
+      "memberId" : 5620,
+      "bothType" : true
     }, {
-      "id" : 2607,
-      "name" : "葬忧散",
+      "id" : 3276,
+      "name" : "宫心计续集",
       "updateStatus" : 1,
-      "distance" : 8641,
-      "memberId" : 6685
+      "distance" : 8645,
+      "memberId" : 2162,
+      "bothType" : false
     }, {
-      "id" : 3109,
-      "name" : "茹果",
+      "id" : 3264,
+      "name" : "一个安静的故事",
       "updateStatus" : 1,
-      "distance" : 1079,
-      "memberId" : 3303
+      "distance" : 9253,
+      "memberId" : 6012,
+      "bothType" : false
     }, {
-      "id" : 2345,
-      "name" : "一顾倾城-明星文",
+      "id" : 2068,
+      "name" : "红妆无忧",
       "updateStatus" : 1,
-      "distance" : 6919,
-      "memberId" : 3831
+      "distance" : 5583,
+      "memberId" : 5401,
+      "bothType" : false
     }, {
-      "id" : 3456,
-      "name" : "王妃：王爷别乱来，我还是宠物之身",
+      "id" : 2580,
+      "name" : "琉璃碎",
       "updateStatus" : 1,
-      "distance" : 2995,
-      "memberId" : 7671
+      "distance" : 6136,
+      "memberId" : 7951,
+      "bothType" : false
     }, {
-      "id" : 2546,
-      "name" : "风流公子：赖上重生佳人",
+      "id" : 2129,
+      "name" : "美人出逃：别惹弃妃",
       "updateStatus" : 1,
-      "distance" : 7005,
-      "memberId" : 7587
+      "distance" : 2601,
+      "memberId" : 7590,
+      "bothType" : false
     }, {
-      "id" : 2195,
-      "name" : "血之恋章",
+      "id" : 3526,
+      "name" : "桃花躲躲",
       "updateStatus" : 1,
-      "distance" : 6416,
-      "memberId" : 3602
+      "distance" : 8916,
+      "memberId" : 7666,
+      "bothType" : false
     }, {
-      "id" : 2126,
-      "name" : "纯钧剑",
+      "id" : 3343,
+      "name" : "许你水木两相依",
       "updateStatus" : 1,
-      "distance" : 7118,
-      "memberId" : 1862
+      "distance" : 4743,
+      "memberId" : 3690,
+      "bothType" : false
     }, {
-      "id" : 3227,
-      "name" : "玩心公子",
+      "id" : 2289,
+      "name" : "暴虐王爷风流妃",
       "updateStatus" : 1,
-      "distance" : 5015,
-      "memberId" : 3045
+      "distance" : 9355,
+      "memberId" : 7882,
+      "bothType" : false
+    }, {
+      "id" : 2729,
+      "name" : "妃霸天下",
+      "updateStatus" : 1,
+      "distance" : 8084,
+      "memberId" : 7152,
+      "bothType" : false
     } ]
   }
 }

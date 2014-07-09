@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3095,
-      "name" : "墨色眼瞳中的温柔",
+      "id" : 2661,
+      "name" : "复仇天使：你是我的蛊",
       "updateStatus" : 1,
-      "distance" : 863,
-      "memberId" : 7186
+      "distance" : 7673,
+      "memberId" : 7271,
+      "bothType" : false
     }, {
-      "id" : 2484,
-      "name" : "让我杀了你，爱人",
-      "updateStatus" : 1,
-      "distance" : 8258,
-      "memberId" : 1123
-    }, {
-      "id" : 2546,
-      "name" : "风流公子：赖上重生佳人",
-      "updateStatus" : 1,
-      "distance" : 3194,
-      "memberId" : 7283
-    }, {
-      "id" : 3116,
-      "name" : "乱剑源德之九狱之书",
-      "updateStatus" : 1,
-      "distance" : 3145,
-      "memberId" : 2540
-    }, {
-      "id" : 3312,
-      "name" : "回祎录",
-      "updateStatus" : 1,
-      "distance" : 8582,
-      "memberId" : 6185
-    }, {
-      "id" : 2872,
-      "name" : "口是心非：那个女人的谎言",
-      "updateStatus" : 1,
-      "distance" : 9957,
-      "memberId" : 6390
-    }, {
-      "id" : 2393,
-      "name" : "剩女重生女警花：缉拿花花大少",
-      "updateStatus" : 1,
-      "distance" : 5970,
-      "memberId" : 1086
-    }, {
-      "id" : 3223,
-      "name" : "风吹叶舞意悠然",
-      "updateStatus" : 1,
-      "distance" : 3881,
-      "memberId" : 7066
-    }, {
-      "id" : 2492,
-      "name" : "网战尖兵",
-      "updateStatus" : 1,
-      "distance" : 987,
-      "memberId" : 4288
-    }, {
-      "id" : 3374,
-      "name" : "逢酒醉花阴",
-      "updateStatus" : 1,
-      "distance" : 8738,
-      "memberId" : 3877
-    }, {
-      "id" : 2126,
-      "name" : "纯钧剑",
-      "updateStatus" : 1,
-      "distance" : 1904,
-      "memberId" : 6860
-    }, {
-      "id" : 2683,
-      "name" : "总有一个人能陪我一起老",
-      "updateStatus" : 1,
-      "distance" : 6980,
-      "memberId" : 2680
-    }, {
-      "id" : 2639,
-      "name" : "来不及说出口的爱",
-      "updateStatus" : 1,
-      "distance" : 4726,
-      "memberId" : 4898
-    }, {
-      "id" : 3163,
-      "name" : "最初与最后",
-      "updateStatus" : 1,
-      "distance" : 3405,
-      "memberId" : 5057
-    }, {
-      "id" : 2826,
-      "name" : "沐晴只到梨花薄",
-      "updateStatus" : 1,
-      "distance" : 6109,
-      "memberId" : 1428
-    }, {
-      "id" : 2069,
-      "name" : "庶女二嫁：暴君，来暖床",
+      "id" : 2250,
+      "name" : "梦碎潋滟雪如尘",
       "updateStatus" : 2,
-      "distance" : 5782,
-      "memberId" : 2435
+      "distance" : 5977,
+      "memberId" : 8913,
+      "bothType" : false
     }, {
-      "id" : 3585,
-      "name" : "桃花醉之天下",
+      "id" : 2819,
+      "name" : "医狂天下：驯服邪恶暗帝",
       "updateStatus" : 1,
-      "distance" : 5030,
-      "memberId" : 6284
+      "distance" : 8192,
+      "memberId" : 4304,
+      "bothType" : false
     }, {
-      "id" : 3213,
-      "name" : "光华琉璃只为一笑",
+      "id" : 2094,
+      "name" : "孽情殇",
       "updateStatus" : 1,
-      "distance" : 3936,
-      "memberId" : 7937
+      "distance" : 5975,
+      "memberId" : 3918,
+      "bothType" : false
     }, {
-      "id" : 3283,
-      "name" : "掠心总裁：爹地，你弱爆了！",
+      "id" : 2641,
+      "name" : "倾城归来",
       "updateStatus" : 1,
-      "distance" : 5441,
-      "memberId" : 3759
+      "distance" : 8181,
+      "memberId" : 3669,
+      "bothType" : false
     }, {
-      "id" : 2046,
-      "name" : "疼在左手指间",
+      "id" : 3390,
+      "name" : "贺兰山下阵如云",
       "updateStatus" : 1,
-      "distance" : 5463,
-      "memberId" : 8398
+      "distance" : 1542,
+      "memberId" : 5184,
+      "bothType" : false
+    }, {
+      "id" : 2329,
+      "name" : "绝色兽妃戏天下",
+      "updateStatus" : 1,
+      "distance" : 676,
+      "memberId" : 1288,
+      "bothType" : true
+    }, {
+      "id" : 2313,
+      "name" : "囧冠天下",
+      "updateStatus" : 1,
+      "distance" : 9044,
+      "memberId" : 3865,
+      "bothType" : false
+    }, {
+      "id" : 2877,
+      "name" : "总裁，我只是你的棋子",
+      "updateStatus" : 1,
+      "distance" : 4430,
+      "memberId" : 1519,
+      "bothType" : true
+    }, {
+      "id" : 3621,
+      "name" : "竹歪桃花三两枝",
+      "updateStatus" : 1,
+      "distance" : 6121,
+      "memberId" : 5668,
+      "bothType" : false
+    }, {
+      "id" : 2713,
+      "name" : "凉茶温酒",
+      "updateStatus" : 1,
+      "distance" : 6662,
+      "memberId" : 1479,
+      "bothType" : true
+    }, {
+      "id" : 3254,
+      "name" : "北京不眠",
+      "updateStatus" : 1,
+      "distance" : 1740,
+      "memberId" : 7306,
+      "bothType" : true
+    }, {
+      "id" : 3203,
+      "name" : "魔法之镜花水月",
+      "updateStatus" : 1,
+      "distance" : 7610,
+      "memberId" : 4953,
+      "bothType" : false
+    }, {
+      "id" : 3589,
+      "name" : "今生等你爱我",
+      "updateStatus" : 1,
+      "distance" : 4208,
+      "memberId" : 8143,
+      "bothType" : false
+    }, {
+      "id" : 3017,
+      "name" : "南宫世家",
+      "updateStatus" : 1,
+      "distance" : 6223,
+      "memberId" : 2324,
+      "bothType" : false
+    }, {
+      "id" : 3660,
+      "name" : "男佣",
+      "updateStatus" : 1,
+      "distance" : 1429,
+      "memberId" : 2698,
+      "bothType" : true
+    }, {
+      "id" : 3077,
+      "name" : "青春盛宴之青春貌似童话",
+      "updateStatus" : 1,
+      "distance" : 2175,
+      "memberId" : 1430,
+      "bothType" : true
+    }, {
+      "id" : 2831,
+      "name" : "待你温暖如光",
+      "updateStatus" : 1,
+      "distance" : 9197,
+      "memberId" : 5193,
+      "bothType" : true
+    }, {
+      "id" : 2430,
+      "name" : "一场梦如痴如醉",
+      "updateStatus" : 1,
+      "distance" : 4962,
+      "memberId" : 2944,
+      "bothType" : true
+    }, {
+      "id" : 3445,
+      "name" : "落叶清欢",
+      "updateStatus" : 1,
+      "distance" : 2269,
+      "memberId" : 7205,
+      "bothType" : true
     } ]
   }
 }

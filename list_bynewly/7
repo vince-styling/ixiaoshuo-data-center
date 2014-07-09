@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42603.jpg",
       "updateStatus" : 1,
       "capacity" : 56331,
-      "lastUpdateTime" : "2013-12-27 05:28:37"
+      "lastUpdateTime" : "2013-12-27 05:28:37",
+      "bothType" : true
     }, {
       "id" : 2650,
       "name" : "我要稳稳的幸福",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45615.jpg",
       "updateStatus" : 1,
       "capacity" : 3615848,
-      "lastUpdateTime" : "2013-12-27 05:28:18"
+      "lastUpdateTime" : "2013-12-27 05:28:18",
+      "bothType" : false
     }, {
       "id" : 3636,
       "name" : "被抛弃的星球",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47156.jpg",
       "updateStatus" : 1,
       "capacity" : 118680,
-      "lastUpdateTime" : "2013-12-27 03:44:02"
+      "lastUpdateTime" : "2013-12-27 03:44:02",
+      "bothType" : false
     }, {
       "id" : 2289,
       "name" : "暴虐王爷风流妃",
@@ -36,7 +39,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 7147205,
-      "lastUpdateTime" : "2013-12-27 03:12:57"
+      "lastUpdateTime" : "2013-12-27 03:12:57",
+      "bothType" : true
     }, {
       "id" : 2171,
       "name" : "我是魔鬼的孩子",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45053.jpg",
       "updateStatus" : 1,
       "capacity" : 7224248,
-      "lastUpdateTime" : "2013-12-27 02:10:53"
+      "lastUpdateTime" : "2013-12-27 02:10:53",
+      "bothType" : false
     }, {
       "id" : 2306,
       "name" : "穿越之蒙家将军",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47656.jpg",
       "updateStatus" : 1,
       "capacity" : 4780024,
-      "lastUpdateTime" : "2013-12-27 02:06:12"
+      "lastUpdateTime" : "2013-12-27 02:06:12",
+      "bothType" : false
     }, {
       "id" : 2086,
       "name" : "落柳归冢",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21570.jpg",
       "updateStatus" : 1,
       "capacity" : 9388793,
-      "lastUpdateTime" : "2013-12-27 01:53:50"
+      "lastUpdateTime" : "2013-12-27 01:53:50",
+      "bothType" : false
     }, {
       "id" : 3051,
       "name" : "执念恨",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47641.jpg",
       "updateStatus" : 2,
       "capacity" : 94249,
-      "lastUpdateTime" : "2013-12-27 01:47:06"
+      "lastUpdateTime" : "2013-12-27 01:47:06",
+      "bothType" : false
     }, {
       "id" : 3105,
       "name" : "花心总裁拜金娇妻",
@@ -76,7 +84,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 55902,
-      "lastUpdateTime" : "2013-12-27 01:23:30"
+      "lastUpdateTime" : "2013-12-27 01:23:30",
+      "bothType" : false
     }, {
       "id" : 2109,
       "name" : "开门迎客",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15442.jpg",
       "updateStatus" : 1,
       "capacity" : 2263926,
-      "lastUpdateTime" : "2013-12-27 00:47:13"
+      "lastUpdateTime" : "2013-12-27 00:47:13",
+      "bothType" : false
     }, {
       "id" : 2944,
       "name" : "嬗变",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47731.jpg",
       "updateStatus" : 1,
       "capacity" : 2074899,
-      "lastUpdateTime" : "2013-12-27 00:09:40"
+      "lastUpdateTime" : "2013-12-27 00:09:40",
+      "bothType" : false
     }, {
       "id" : 3736,
       "name" : "狂",
@@ -100,7 +111,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 698671,
-      "lastUpdateTime" : "2013-12-26 23:49:13"
+      "lastUpdateTime" : "2013-12-26 23:49:13",
+      "bothType" : false
     }, {
       "id" : 2045,
       "name" : "你是我的女人",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47755.jpg",
       "updateStatus" : 1,
       "capacity" : 7687073,
-      "lastUpdateTime" : "2013-12-26 23:34:49"
+      "lastUpdateTime" : "2013-12-26 23:34:49",
+      "bothType" : false
     }, {
       "id" : 3553,
       "name" : "堕妃：嗜血妖",
@@ -116,7 +129,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 208105,
-      "lastUpdateTime" : "2013-12-26 23:15:19"
+      "lastUpdateTime" : "2013-12-26 23:15:19",
+      "bothType" : true
     }, {
       "id" : 2623,
       "name" : "寻爱之雨过天晴",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46211.jpg",
       "updateStatus" : 1,
       "capacity" : 4434304,
-      "lastUpdateTime" : "2013-12-26 22:58:09"
+      "lastUpdateTime" : "2013-12-26 22:58:09",
+      "bothType" : true
     }, {
       "id" : 2325,
       "name" : "彼岸花仙",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21369.jpg",
       "updateStatus" : 1,
       "capacity" : 7389409,
-      "lastUpdateTime" : "2013-12-26 22:13:16"
+      "lastUpdateTime" : "2013-12-26 22:13:16",
+      "bothType" : false
     }, {
       "id" : 2817,
       "name" : "谁爱过我",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18036.jpg",
       "updateStatus" : 1,
       "capacity" : 9797390,
-      "lastUpdateTime" : "2013-12-26 22:08:58"
+      "lastUpdateTime" : "2013-12-26 22:08:58",
+      "bothType" : true
     }, {
       "id" : 2560,
       "name" : "穿越女尊之桃花朵朵开",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45062.jpg",
       "updateStatus" : 1,
       "capacity" : 8025952,
-      "lastUpdateTime" : "2013-12-26 20:35:36"
+      "lastUpdateTime" : "2013-12-26 20:35:36",
+      "bothType" : true
     }, {
       "id" : 3578,
       "name" : "我在外滩十八号等你",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46461.jpg",
       "updateStatus" : 1,
       "capacity" : 268966,
-      "lastUpdateTime" : "2013-12-26 20:32:34"
+      "lastUpdateTime" : "2013-12-26 20:32:34",
+      "bothType" : false
     }, {
       "id" : 3390,
       "name" : "贺兰山下阵如云",
@@ -164,7 +183,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 45951,
-      "lastUpdateTime" : "2013-12-26 19:39:29"
+      "lastUpdateTime" : "2013-12-26 19:39:29",
+      "bothType" : true
     } ]
   }
 }

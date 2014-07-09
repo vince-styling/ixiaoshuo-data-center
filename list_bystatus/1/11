@@ -12,7 +12,8 @@
       "summary" : "非常多小心眼的视障妈妈陈红玉，由于撒了一个小谎言，最终惹怒神灵，被迫穿越到令一个小盲女身上重新开始自",
       "updateStatus" : 1,
       "capacity" : 8750433,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2979,
       "name" : "未殇",
@@ -20,7 +21,8 @@
       "summary" : "有些路我们得自己走，有些事我们需要自己学会去面对。成长总是伴随着风雨，坎坷过后有的是什么我们谁也不知",
       "updateStatus" : 1,
       "capacity" : 1036710,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2609,
       "name" : "红尘一笑往事焚",
@@ -28,7 +30,8 @@
       "summary" : "天魔之约当日，魔君无殇于琼瑶羽林偶遇仙子素荷，自此一段惊世传说便在神魔两界流传。魔与神相通却是坏了天",
       "updateStatus" : 1,
       "capacity" : 7333447,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2076,
       "name" : "灵魂调",
@@ -36,7 +39,8 @@
       "summary" : "苏落月，也就是本小姐，醉酒之后，就莫名其妙的回到了古代，回去也就算了，我也就啥也不说了，可为什么让我",
       "updateStatus" : 1,
       "capacity" : 6379277,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2498,
       "name" : "飘落的信笺",
@@ -44,7 +48,8 @@
       "summary" : "请不要记起我，我只是个永远也回不来的人，我的后半生将沉入无尽的地狱……在这个虚假的故事里，谁也没有错",
       "updateStatus" : 1,
       "capacity" : 6511189,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2675,
       "name" : "总裁的契约情人！",
@@ -52,7 +57,8 @@
       "summary" : "她是他的契约情人，他是她的交易金主。心总是在不知不觉的时候悄悄泛起涟漪，是要隔了多久我才能忘记那场最",
       "updateStatus" : 1,
       "capacity" : 2770944,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3209,
       "name" : "风语爱情：命中注定会翻篇",
@@ -60,7 +66,8 @@
       "summary" : "如果：单纯、快乐、悲伤、痛苦、过去、面对、未来、幸福。。。是今生注定的课题！那么何必停止不前？路途再",
       "updateStatus" : 1,
       "capacity" : 2386353,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2687,
       "name" : "朝歌叶璇",
@@ -68,7 +75,8 @@
       "summary" : "五年相忘，十年相望",
       "updateStatus" : 1,
       "capacity" : 8644110,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2981,
       "name" : "夏家九爷",
@@ -76,7 +84,8 @@
       "summary" : "夏涵，夏家“独子”排行第九，自幼学医，精通雌黄。她的世界本来很小，小道眼中除了游戏人生再无其他。可是",
       "updateStatus" : 1,
       "capacity" : 4708385,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2576,
       "name" : "四人行",
@@ -84,7 +93,8 @@
       "summary" : "讲一个宿舍的四个女生碰到鬼的故事。",
       "updateStatus" : 1,
       "capacity" : 8969487,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2473,
       "name" : "解惑",
@@ -92,7 +102,8 @@
       "summary" : "她是只想今天不管明天的小小主编，天性洒脱，积极乐观，因一次公事中遇到了生命中的他...他是冷若冰霜的",
       "updateStatus" : 1,
       "capacity" : 1965356,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2702,
       "name" : "光与暗之命运狂想曲",
@@ -100,7 +111,8 @@
       "summary" : "神秘的雅尔法拉大陆上的姐弟俩，从他们生下来的那个一刻起就注定了不平凡的人生，也画下了完全不同的人生轨",
       "updateStatus" : 1,
       "capacity" : 2541921,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2312,
       "name" : "栀子梦",
@@ -108,7 +120,8 @@
       "summary" : "文案：一直认为人生是一条平平的直线，却莫名其妙穿越到了对那段历史基本白痴的五代——于是命运开始改变：",
       "updateStatus" : 1,
       "capacity" : 6098005,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2832,
       "name" : "腹黑总裁：变身擒爱萌宠召唤师",
@@ -116,7 +129,8 @@
       "summary" : "“你叫顾总？好吧，你给我听好了！”第一次见面她泼了他一脸咖啡奶茶混合物，指他鼻子大骂一顿。“你丫还拍",
       "updateStatus" : 1,
       "capacity" : 5200007,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2307,
       "name" : "掏心掏肺的傻女人",
@@ -124,7 +138,8 @@
       "summary" : "穿越了，遇到个萌太。。。。。哇，有后台！我不怕，姐倒追呗，掏心掏费的对你，就不怕你不感动。。。。。。",
       "updateStatus" : 1,
       "capacity" : 1422379,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3316,
       "name" : "迷恋情人：调教花花总裁",
@@ -132,7 +147,8 @@
       "summary" : "那是一支支离破碎的时光，用发丝缠绕，承载我们无处安放的青春；那是一串用回忆串联成的记忆符号，用泪水填",
       "updateStatus" : 1,
       "capacity" : 1781258,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2712,
       "name" : "人比花娇",
@@ -140,7 +156,8 @@
       "summary" : "她艳绝天下，笑容如花，才不过十六岁就成为了天下最美的女人。她才华惊艳，作的一手好诗，写的一手好字，被",
       "updateStatus" : 1,
       "capacity" : 5675427,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2628,
       "name" : "别再调戏我",
@@ -148,7 +165,8 @@
       "summary" : "昨天晚上，她趁着酒意被自己带回家，想念了4年的人，本以为这一辈子都不会再见到，没想到昨晚她主动吻了自",
       "updateStatus" : 1,
       "capacity" : 1974348,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2172,
       "name" : "重生之倾城杀手",
@@ -156,7 +174,8 @@
       "summary" : "她是杀手界鼎鼎有名的金牌神枪手，出任务从没有失败过，却不料被姐姐为情错杀！没想到在异世重生，成了皓月",
       "updateStatus" : 1,
       "capacity" : 9596466,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2074,
       "name" : "我们本无缘",
@@ -164,7 +183,8 @@
       "summary" : "茜纱窗下，我本无缘，黄土垄中，卿何薄命。",
       "updateStatus" : 1,
       "capacity" : 8753565,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     } ]
   }
 }

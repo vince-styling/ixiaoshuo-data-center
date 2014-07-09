@@ -12,7 +12,8 @@
       "summary" : "谁说过的相濡以沫，谁赋予的落落思语，谁留下的转瞬春华，谁给你的北川锦书...他们还在演着那别离的戏，",
       "updateStatus" : 1,
       "capacity" : 698932,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3125,
       "name" : "竹马太凶残",
@@ -20,7 +21,8 @@
       "summary" : "西隅中学来了三个转校生。恶名昭彰的G城恶霸竟然为了一个小时候的爱人而转校。那个身高异于常人的女生的出",
       "updateStatus" : 1,
       "capacity" : 184407,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2923,
       "name" : "帝王业：誓不为妃",
@@ -28,7 +30,8 @@
       "summary" : "这是一场男人之间权和名的较量。也是情与欲的纠缠。他们沉沦于权利的漩涡，她们努力挽回最初的真情。。。。",
       "updateStatus" : 1,
       "capacity" : 2303216,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3587,
       "name" : "如果时光记得",
@@ -36,7 +39,8 @@
       "summary" : "年轻的时候，懵懵懂懂的，不算懂生活和爱情，但有一份执着，一份勇敢。唐幽记得那时自己说不上是最勇敢的，",
       "updateStatus" : 1,
       "capacity" : 18047,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3122,
       "name" : "跟踪狂",
@@ -44,7 +48,8 @@
       "summary" : "我是仙道彰，毕业于东大，在别人看来，我是一个在正常不过的人，但实际上我是一个有缺口且神经质的人，我不",
       "updateStatus" : 1,
       "capacity" : 214829,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2906,
       "name" : "拐个俏郎君",
@@ -52,7 +57,8 @@
       "summary" : "身为堂堂一国公主的谢华清现在正面临着生死大危机！为什么要这么说呢？因为她把向来很小心眼儿的神医谷谷主",
       "updateStatus" : 1,
       "capacity" : 6697631,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2503,
       "name" : "真实的选择",
@@ -60,7 +66,8 @@
       "summary" : "被这个世界的规则选中，说什么拯救世界？可是我没这个想法！！！我不想背负什么人类的未来，我没那个自觉性",
       "updateStatus" : 1,
       "capacity" : 7639647,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 3124,
       "name" : "一直在一起",
@@ -68,7 +75,8 @@
       "summary" : "莫伤觉得，他的小欣儿就是自己的，他可以把她暂时借给别的男人，教会她爱，但是，最后欣儿爱的人一定要是自",
       "updateStatus" : 1,
       "capacity" : 58757,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3476,
       "name" : "乱世系列之一雪",
@@ -76,7 +84,8 @@
       "summary" : "九重天之上，三十三重天外，神战之后，战神转世。神荒之土，神女出生为起点，注定要为此重掀腥风血雨。被遗",
       "updateStatus" : 1,
       "capacity" : 870793,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3288,
       "name" : "契约情人之滚下我的床",
@@ -84,7 +93,8 @@
       "summary" : "连宇凡一把将安锦拽到怀里，压在床上，眼神霸道而炽烈。“记住！你是我的女人，一辈子都是我的女人！”安锦",
       "updateStatus" : 1,
       "capacity" : 429106,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3359,
       "name" : "遇见等于错过",
@@ -92,7 +102,8 @@
       "summary" : "上官言，请原谅，我爱你不是我可以阻止的，离开你却是我可以选择的。苏芙，你如愿以偿的让我爱上你，现在你",
       "updateStatus" : 1,
       "capacity" : 214039,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3730,
       "name" : "美人殇之彼岸花开",
@@ -100,7 +111,8 @@
       "summary" : "当仇恨蒙蔽你的双眼，不知你何时才能想起儿时的我，就算你不记得，那又如何，由我来守护你的快乐。江山再美",
       "updateStatus" : 1,
       "capacity" : 82990,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2965,
       "name" : "一嫁倾国",
@@ -108,7 +120,8 @@
       "summary" : "出逃公主的绝世爱情一纸婚书改变了她的一生，她愤然离开，希望能找到属于自己的爱情，兜兜转转，一切仍旧回",
       "updateStatus" : 1,
       "capacity" : 7094138,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3657,
       "name" : "不知我梦",
@@ -116,7 +129,8 @@
       "summary" : "\"你呢，就像是冰冷的雨，所以我就一定要变成风!\"\"为什么。\"\"因为这样才可以和你不离不弃生死缱绻啊。",
       "updateStatus" : 1,
       "capacity" : 189752,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3323,
       "name" : "灵场王子",
@@ -124,7 +138,8 @@
       "summary" : "乱画之中，自有定数。",
       "updateStatus" : 1,
       "capacity" : 142075,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2303,
       "name" : "阎末瑶",
@@ -132,7 +147,8 @@
       "summary" : "三个人一起的穿越，几个人一同的成长。是怎样的命运，让她们遇见了他们和她们？这光怪陆离的世界，带来的究",
       "updateStatus" : 1,
       "capacity" : 6908578,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 3287,
       "name" : "垂帘锦",
@@ -140,7 +156,8 @@
       "summary" : "流离异国十二年，用十年时间来生存。他已有了足够强大的力量和足够高的地位，可以用来寻找和保护他最想要的",
       "updateStatus" : 1,
       "capacity" : 304848,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : true
     }, {
       "id" : 3670,
       "name" : "桃花含烟带墨浓",
@@ -148,7 +165,8 @@
       "summary" : "一个是魔族的帝君，一个是天族的神女。一神一魔，他们生来便注定是相隔了天与地的距离。纵然我痴恋了你百年",
       "updateStatus" : 1,
       "capacity" : 338613,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3062,
       "name" : "两年后的爱情",
@@ -156,7 +174,8 @@
       "summary" : "拒绝表白三步曲（单身适用）第一：打断他的表白‘同学，我认识你吗？不，应该说，你认识我吗？’第二：反问",
       "updateStatus" : 1,
       "capacity" : 189670,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3364,
       "name" : "只要你幸福，愿意不爱你",
@@ -164,7 +183,8 @@
       "summary" : "楔子只要你幸福，我愿意不爱你，即使给你幸福的那个人不是我。——陆思寻。这是陆思寻留给容萱最后的一句话",
       "updateStatus" : 1,
       "capacity" : 787599,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     } ]
   }
 }

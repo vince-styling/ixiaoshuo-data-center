@@ -12,7 +12,8 @@
       "summary" : "神秘的纳粹宝藏竟在东方留下线索，无意中的发现会带来再怎样的一系列事件呢……",
       "updateStatus" : 1,
       "capacity" : 5435073,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : true
     }, {
       "id" : 3613,
       "name" : "剑翎之仙侣奇侠",
@@ -20,7 +21,8 @@
       "summary" : "他们怀着不同的目的，走到一起完成主线任务，历经刀山火海，夺取仙剑，集齐玄冰轮，净水轮，苍火轮，毁金轮",
       "updateStatus" : 1,
       "capacity" : 942421,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3404,
       "name" : "妖魅公主爱上邪魅王子",
@@ -28,7 +30,8 @@
       "summary" : "前世的爱，是今世她们和他们相遇的原因。圣尊学院是她们和他们相遇的起点，在这里，（她）他们是六大家族的",
       "updateStatus" : 1,
       "capacity" : 374593,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2824,
       "name" : "绿草如茵",
@@ -36,7 +39,8 @@
       "summary" : "一场意外导致初恋的离世，从此，夏惜茵排斥任何新的感情，五年来，她一直守着自己的心。然而，面对两个等了",
       "updateStatus" : 1,
       "capacity" : 1539029,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3511,
       "name" : "为续雪香",
@@ -44,7 +48,8 @@
       "summary" : "一个貌似青梅竹马的“师兄师妹”式爱情故事。看温柔师兄如何成功娶“妹”生子~“师兄会一直对梨儿好。”轻",
       "updateStatus" : 1,
       "capacity" : 198425,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2804,
       "name" : "媚妻无限宠",
@@ -52,7 +57,8 @@
       "summary" : "她，是暗地组织情报组的第一把交椅，妖娆惑人，却无心。因为组织宝物无故失踪，她出马接近黑帮首领。谁知，",
       "updateStatus" : 1,
       "capacity" : 7458929,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3107,
       "name" : "世间冷暖",
@@ -60,7 +66,8 @@
       "summary" : "被男友背叛，还来不及伤心，就发生了各种变故，什么，劫难还没完吗？从地摊上买的手链，却可以驱逐她最害怕",
       "updateStatus" : 1,
       "capacity" : 919408,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 3479,
       "name" : "演艺小巨星",
@@ -68,7 +75,8 @@
       "summary" : "【重生】景瓷脾气倔，智商高偏偏是个感情外加游戏白痴。上一世的她星路坎坷，忍辱负重只为替她的赌鬼老爸还",
       "updateStatus" : 1,
       "capacity" : 597620,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2953,
       "name" : "异世界的爱恋",
@@ -76,7 +84,8 @@
       "summary" : "只是中个暑也可以穿越？不会吧……他最讨厌武力，却习得一身武功……她是自己的闺蜜，却有着与世人完全相反",
       "updateStatus" : 1,
       "capacity" : 8300392,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2773,
       "name" : "为君花开为卿落",
@@ -84,7 +93,8 @@
       "summary" : "十八岁，花一般的年纪，可我沈诗婷还没来得及谈恋爱。就煤气中毒死亡了，悲惨啊。可这一生更惨，竟然投胎做",
       "updateStatus" : 1,
       "capacity" : 8940784,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3435,
       "name" : "爱在大理",
@@ -92,7 +102,8 @@
       "summary" : "四年之后重遇，她带着一个孩子。他依旧是那个潇洒来去自如的大少爷有钱人。四年之后大理重遇，聪明伶俐的儿",
       "updateStatus" : 1,
       "capacity" : 1554745,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3360,
       "name" : "泡沫太寒冷",
@@ -100,7 +111,8 @@
       "summary" : "或许人生就如一本画册，描绘着美丽的画面；又或许是一首曲子，谱写着悠扬的歌声；但当你沉迷于此时。。。接",
       "updateStatus" : 1,
       "capacity" : 135938,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2257,
       "name" : "曾偷浮生半日闲",
@@ -108,7 +120,8 @@
       "summary" : "一个是曾与她互许终身的惊世战神，一个是伴她多年的儒雅王爷。一个是她心爱之人，一个人是知她甚深之人。她",
       "updateStatus" : 1,
       "capacity" : 7709432,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3147,
       "name" : "嫡女心机",
@@ -116,7 +129,8 @@
       "summary" : "世间最大的幸事，莫过于那个总和你最作对的妖孽男，最后被你调教成了妻管严。*****她是遁入异世的测谎",
       "updateStatus" : 1,
       "capacity" : 1129756,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : true
     }, {
       "id" : 3222,
       "name" : "恶魔先生的猫小姐",
@@ -124,7 +138,8 @@
       "summary" : "城市的夜晚褪去了白日的喧嚣，午夜的街头空无一人，一切都只是暴风雨前的宁静。黑暗中异族的生物蠢蠢欲动。",
       "updateStatus" : 1,
       "capacity" : 82868,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3424,
       "name" : "九婴传",
@@ -132,7 +147,8 @@
       "summary" : "主角穿越到异界，得到一部逆天法诀《九婴诀》，从此纵横异界，登上颠峰，游走各个世界中。本书将为你讲述一",
       "updateStatus" : 1,
       "capacity" : 138413,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 3642,
       "name" : "椒房月夜泪未央",
@@ -140,7 +156,8 @@
       "summary" : "寻寻觅觅，觥筹交错的清漪阁里，她挥袂一舞，鬼神惊艳。朱衣渺渺，他亦愿意在人海寻觅，守护终生。翘袖折腰",
       "updateStatus" : 1,
       "capacity" : 246152,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2535,
       "name" : "素锦流年祭",
@@ -148,7 +165,8 @@
       "summary" : "一个年华，是为了祭奠一个夏天。一个夏天，是为了埋葬一段流年。时光是一把刻刀，分割了青春的容颜。年少的",
       "updateStatus" : 1,
       "capacity" : 8955957,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3413,
       "name" : "秦影宫箫夜",
@@ -156,7 +174,8 @@
       "summary" : "呜呜！老天爷呀！这也太没天理了吧！她只不过是二十一世纪的一个普通高中生，没做什么伤天害理的事吧。只不",
       "updateStatus" : 1,
       "capacity" : 607149,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2901,
       "name" : "水浒系列短篇集",
@@ -164,7 +183,8 @@
       "summary" : "这些是写在水浒以外的故事。大部分来源于那个时节的新水浒，那些或者坚强或者沉郁的孩子。不管戏里戏外，他",
       "updateStatus" : 1,
       "capacity" : 7117703,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     } ]
   }
 }

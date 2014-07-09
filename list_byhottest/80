@@ -12,7 +12,8 @@
       "summary" : "穿越？俗爆了！可为什么别人穿越都是高端大气，而我却是被拐走的？还是在我要洗澡的时候！去你丫的，我的人",
       "updateStatus" : 1,
       "capacity" : 35389,
-      "readerCount" : 240
+      "readerCount" : 240,
+      "bothType" : true
     }, {
       "id" : 3219,
       "name" : "梦境梦尽",
@@ -20,7 +21,8 @@
       "summary" : "我爱你。于是用尽17年的时光我爱你。于是用余生去想念一个人我爱你。于是生命在爱情面前变得渺小我爱你。",
       "updateStatus" : 1,
       "capacity" : 351459,
-      "readerCount" : 238
+      "readerCount" : 238,
+      "bothType" : false
     }, {
       "id" : 3392,
       "name" : "重生，投胎投错家",
@@ -28,7 +30,8 @@
       "summary" : "看惯了重生报复？OK～重生不是为了报复，只为了寻找属于自己的快乐，我要对世界呐喊：“我的快乐，会回来",
       "updateStatus" : 1,
       "capacity" : 23741,
-      "readerCount" : 237
+      "readerCount" : 237,
+      "bothType" : false
     }, {
       "id" : 3368,
       "name" : "倾世凤妃",
@@ -36,7 +39,8 @@
       "summary" : "二十一世纪的天之骄女冷凤墨因背叛而穿越到了魔舞大陆的冷家七小姐冷凤墨身上",
       "updateStatus" : 1,
       "capacity" : 12424,
-      "readerCount" : 236
+      "readerCount" : 236,
+      "bothType" : false
     }, {
       "id" : 3069,
       "name" : "假想敌",
@@ -44,7 +48,8 @@
       "summary" : "穆然学成归国后第一天就在酒吧撞上喝醉了的万里，姑娘第一眼看到他跟看见了鬼一样，第二眼便和以前一样看到",
       "updateStatus" : 1,
       "capacity" : 398351,
-      "readerCount" : 234
+      "readerCount" : 234,
+      "bothType" : true
     }, {
       "id" : 3525,
       "name" : "枯时花笑",
@@ -52,7 +57,8 @@
       "summary" : "如果你说对不起，我会对你说我爱你……对于路言来说，乔俨安可以给她全部她要的，可是，林晓伟却是她放不下",
       "updateStatus" : 1,
       "capacity" : 56331,
-      "readerCount" : 233
+      "readerCount" : 233,
+      "bothType" : true
     }, {
       "id" : 3238,
       "name" : "红尘珏",
@@ -60,7 +66,8 @@
       "summary" : "有一种真情叫石比金坚，有一种爱恋叫不朽千年，当一对美玉被穿越时空的情缘浸透润满，就能抵御所有的世俗严",
       "updateStatus" : 1,
       "capacity" : 37197,
-      "readerCount" : 231
+      "readerCount" : 231,
+      "bothType" : false
     }, {
       "id" : 3469,
       "name" : "逆天武神：丑颜毒妃",
@@ -68,7 +75,8 @@
       "summary" : "赫云澄，日昭大陆第一丑女，身患残疾，被家族唾弃视为耻辱。在强者为尊的世界里，被传言灵武皆废的她竟逆天",
       "updateStatus" : 1,
       "capacity" : 39261,
-      "readerCount" : 228
+      "readerCount" : 228,
+      "bothType" : false
     }, {
       "id" : 3098,
       "name" : "无上星道",
@@ -76,7 +84,8 @@
       "summary" : "修星一途即为修命，芸芸众生如棋局，幾人能超脱，撕破苍天还真我，既然天道天道无情，我便逆天而行灭了这天",
       "updateStatus" : 1,
       "capacity" : 71114,
-      "readerCount" : 227
+      "readerCount" : 227,
+      "bothType" : false
     }, {
       "id" : 3688,
       "name" : "丹心海棠",
@@ -84,7 +93,8 @@
       "summary" : "这世界，一念成佛，一念便是魔；你看见的，一面是缘，另一面是孽；还有未来的，合是欢喜，散也是欢喜；默然",
       "updateStatus" : 1,
       "capacity" : 44906,
-      "readerCount" : 227
+      "readerCount" : 227,
+      "bothType" : false
     }, {
       "id" : 3231,
       "name" : "全息穿越之武林外史",
@@ -92,7 +102,8 @@
       "summary" : "自从21世纪开始流行穿越幻想，科学家花费百余年，利用全真智能技术，根据客户需求，打造了一个穿越空间，",
       "updateStatus" : 1,
       "capacity" : 10060,
-      "readerCount" : 227
+      "readerCount" : 227,
+      "bothType" : false
     }, {
       "id" : 3120,
       "name" : "文科班的屌丝男们",
@@ -100,7 +111,8 @@
       "summary" : "文科班里向来女多男少，一朝分班，便有了搞后宫的大好机会．可是，当班里女生有三分之二是腐女，再除去学霸",
       "updateStatus" : 1,
       "capacity" : 55680,
-      "readerCount" : 226
+      "readerCount" : 226,
+      "bothType" : false
     }, {
       "id" : 2655,
       "name" : "你是我的终点线",
@@ -108,7 +120,8 @@
       "summary" : "人生没有多少个三年，时光，在指缝间流逝。一转身，又将与一个季节告别，与一年告别，与曾经告别。我们无法",
       "updateStatus" : 1,
       "capacity" : 3144368,
-      "readerCount" : 224
+      "readerCount" : 224,
+      "bothType" : false
     }, {
       "id" : 3462,
       "name" : "冷婢有毒",
@@ -116,7 +129,8 @@
       "summary" : "她是为长公主搜罗面首的首席婢女，云水阁大总管。据说调教男人是一顶一的好手，手段层出不穷，只叫得上名字",
       "updateStatus" : 1,
       "capacity" : 43742,
-      "readerCount" : 224
+      "readerCount" : 224,
+      "bothType" : false
     }, {
       "id" : 3339,
       "name" : "臆乱情迷",
@@ -124,7 +138,8 @@
       "summary" : "月老如何结连理，总教姻缘戏恋人两只猫仙捣乱月老司，导致姻缘错乱。她（伊一）与她（艾亿）穿越而来到异世",
       "updateStatus" : 1,
       "capacity" : 228033,
-      "readerCount" : 222
+      "readerCount" : 222,
+      "bothType" : false
     }, {
       "id" : 3428,
       "name" : "流年轻度鸳鸯浦",
@@ -132,7 +147,8 @@
       "summary" : "大风泱泱，大潮滂滂。乱石穿空，惊涛拍岸，卷起千堆雪。青越幻境，生死游戏，一次次穿越到不同的时空，完成",
       "updateStatus" : 1,
       "capacity" : 314789,
-      "readerCount" : 222
+      "readerCount" : 222,
+      "bothType" : false
     }, {
       "id" : 3308,
       "name" : "我的腹黑王子",
@@ -140,7 +156,8 @@
       "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容",
       "updateStatus" : 1,
       "capacity" : 38440,
-      "readerCount" : 222
+      "readerCount" : 222,
+      "bothType" : false
     }, {
       "id" : 3590,
       "name" : "劳什子学院",
@@ -148,7 +165,8 @@
       "summary" : "思想够跳跃，行为够不靠谱，下限够这货刷的孩子就进来吧，轻松向恶搞。。【这货错字帝。。。】",
       "updateStatus" : 1,
       "capacity" : 13843,
-      "readerCount" : 220
+      "readerCount" : 220,
+      "bothType" : false
     }, {
       "id" : 2957,
       "name" : "让时间说真话",
@@ -156,7 +174,8 @@
       "summary" : "懵懂青涩的年少初恋随着青春岁月的流失在他的心中愈加刻骨，那个调皮捣蛋却隐忍坚强的女孩，在他跋扈的人生",
       "updateStatus" : 1,
       "capacity" : 9674066,
-      "readerCount" : 219
+      "readerCount" : 219,
+      "bothType" : false
     }, {
       "id" : 3140,
       "name" : "今夜，天黑",
@@ -164,7 +183,8 @@
       "summary" : "“我”到海城煤矿担任矿长之后，自然成为权倾一方的王者诸侯，从此便开始肆意妄为、以权谋私、并与多名异性",
       "updateStatus" : 1,
       "capacity" : 42350,
-      "readerCount" : 218
+      "readerCount" : 218,
+      "bothType" : true
     } ]
   }
 }

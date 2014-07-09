@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2979,
-      "name" : "未殇",
+      "id" : 3719,
+      "name" : "唯心城的月光",
       "updateStatus" : 1,
-      "distance" : 4218,
-      "memberId" : 6692
+      "distance" : 6078,
+      "memberId" : 5412,
+      "bothType" : false
     }, {
-      "id" : 2071,
-      "name" : "月落紫禁",
+      "id" : 2232,
+      "name" : "唯愿汝永世安",
+      "updateStatus" : 1,
+      "distance" : 7465,
+      "memberId" : 3588,
+      "bothType" : true
+    }, {
+      "id" : 3166,
+      "name" : "一品凰妻：冷情教主猎娇宠",
+      "updateStatus" : 1,
+      "distance" : 9845,
+      "memberId" : 7732,
+      "bothType" : false
+    }, {
+      "id" : 3077,
+      "name" : "青春盛宴之青春貌似童话",
+      "updateStatus" : 1,
+      "distance" : 7835,
+      "memberId" : 6062,
+      "bothType" : false
+    }, {
+      "id" : 2065,
+      "name" : "昭华散",
       "updateStatus" : 2,
-      "distance" : 2446,
-      "memberId" : 4716
+      "distance" : 9416,
+      "memberId" : 6220,
+      "bothType" : false
     }, {
-      "id" : 2859,
-      "name" : "罪与孽交织的孽爱",
+      "id" : 3626,
+      "name" : "错过了，还能爱吗？",
       "updateStatus" : 1,
-      "distance" : 7990,
-      "memberId" : 1202
+      "distance" : 8301,
+      "memberId" : 5863,
+      "bothType" : false
     }, {
-      "id" : 2458,
-      "name" : "灰道之非黑非白",
+      "id" : 3708,
+      "name" : "浮生境梦",
       "updateStatus" : 1,
-      "distance" : 3905,
-      "memberId" : 4869
+      "distance" : 8469,
+      "memberId" : 5699,
+      "bothType" : false
     }, {
-      "id" : 3374,
-      "name" : "逢酒醉花阴",
+      "id" : 3199,
+      "name" : "后宫大学传",
       "updateStatus" : 1,
-      "distance" : 3952,
-      "memberId" : 2495
+      "distance" : 3384,
+      "memberId" : 2553,
+      "bothType" : false
     }, {
-      "id" : 2084,
-      "name" : "紫月星尘",
+      "id" : 2540,
+      "name" : "天降魔法师",
       "updateStatus" : 1,
-      "distance" : 4830,
-      "memberId" : 1654
+      "distance" : 4092,
+      "memberId" : 5986,
+      "bothType" : false
     }, {
-      "id" : 3140,
-      "name" : "今夜，天黑",
+      "id" : 2473,
+      "name" : "解惑",
       "updateStatus" : 1,
-      "distance" : 7621,
-      "memberId" : 2000
+      "distance" : 4552,
+      "memberId" : 8330,
+      "bothType" : false
     }, {
-      "id" : 2873,
-      "name" : "今辰",
+      "id" : 2973,
+      "name" : "独占温宠",
       "updateStatus" : 1,
-      "distance" : 2079,
-      "memberId" : 4563
+      "distance" : 5073,
+      "memberId" : 8715,
+      "bothType" : true
     }, {
-      "id" : 2698,
-      "name" : "混世神魔",
+      "id" : 3536,
+      "name" : "网王同人浅色的夏季",
       "updateStatus" : 1,
-      "distance" : 7610,
-      "memberId" : 6813
+      "distance" : 6843,
+      "memberId" : 7343,
+      "bothType" : true
     }, {
-      "id" : 3462,
-      "name" : "冷婢有毒",
+      "id" : 2353,
+      "name" : "攻前辈的作战",
       "updateStatus" : 1,
-      "distance" : 4694,
-      "memberId" : 3665
+      "distance" : 4786,
+      "memberId" : 7043,
+      "bothType" : false
     }, {
-      "id" : 3096,
-      "name" : "绝不放手",
+      "id" : 3496,
+      "name" : "一纸荒年",
       "updateStatus" : 1,
-      "distance" : 5499,
-      "memberId" : 5684
+      "distance" : 8060,
+      "memberId" : 5914,
+      "bothType" : false
     }, {
-      "id" : 2250,
-      "name" : "梦碎潋滟雪如尘",
-      "updateStatus" : 2,
-      "distance" : 3416,
-      "memberId" : 6178
-    }, {
-      "id" : 3710,
-      "name" : "最后一瓶冰红茶",
+      "id" : 3290,
+      "name" : "婚然厚爱",
       "updateStatus" : 1,
-      "distance" : 8673,
-      "memberId" : 1302
+      "distance" : 3102,
+      "memberId" : 2006,
+      "bothType" : false
     }, {
-      "id" : 3238,
-      "name" : "红尘珏",
+      "id" : 3706,
+      "name" : "痴情的心",
       "updateStatus" : 1,
-      "distance" : 3698,
-      "memberId" : 4735
+      "distance" : 9348,
+      "memberId" : 7637,
+      "bothType" : false
     }, {
-      "id" : 2561,
-      "name" : "墨上清歌",
+      "id" : 2139,
+      "name" : "天地无门",
       "updateStatus" : 1,
-      "distance" : 1102,
-      "memberId" : 5831
+      "distance" : 1485,
+      "memberId" : 7729,
+      "bothType" : false
     }, {
-      "id" : 2490,
-      "name" : "彩云国之一杯茶一辈子",
+      "id" : 3552,
+      "name" : "千里相思",
       "updateStatus" : 1,
-      "distance" : 2894,
-      "memberId" : 4629
+      "distance" : 2842,
+      "memberId" : 6861,
+      "bothType" : false
     }, {
-      "id" : 3131,
-      "name" : "天神印记",
+      "id" : 3288,
+      "name" : "契约情人之滚下我的床",
       "updateStatus" : 1,
-      "distance" : 6039,
-      "memberId" : 1865
+      "distance" : 3359,
+      "memberId" : 2407,
+      "bothType" : true
     }, {
-      "id" : 2472,
-      "name" : "梦幻钟馗",
+      "id" : 3558,
+      "name" : "残疾王爷，暴力妃",
       "updateStatus" : 1,
-      "distance" : 1281,
-      "memberId" : 8688
-    }, {
-      "id" : 2693,
-      "name" : "怎么会喜欢你",
-      "updateStatus" : 1,
-      "distance" : 2147,
-      "memberId" : 6513
-    }, {
-      "id" : 2934,
-      "name" : "怀海漫成",
-      "updateStatus" : 1,
-      "distance" : 4041,
-      "memberId" : 8085
+      "distance" : 7917,
+      "memberId" : 1937,
+      "bothType" : false
     } ]
   }
 }

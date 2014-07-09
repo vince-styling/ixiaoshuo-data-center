@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2734,
-      "name" : "诱拐冷情公主妻",
+      "id" : 2767,
+      "name" : "美人目",
       "updateStatus" : 1,
-      "distance" : 3267,
-      "memberId" : 4087
+      "distance" : 4776,
+      "memberId" : 3286,
+      "bothType" : false
     }, {
-      "id" : 3507,
-      "name" : "血雨腥风恩仇录",
+      "id" : 3064,
+      "name" : "再回首灯火阑珊",
       "updateStatus" : 1,
-      "distance" : 2625,
-      "memberId" : 8817
+      "distance" : 2811,
+      "memberId" : 8325,
+      "bothType" : true
     }, {
-      "id" : 2869,
-      "name" : "穿越之美人太冷",
+      "id" : 2317,
+      "name" : "江湖任我行",
       "updateStatus" : 1,
-      "distance" : 3651,
-      "memberId" : 5717
+      "distance" : 2900,
+      "memberId" : 7230,
+      "bothType" : false
     }, {
-      "id" : 2768,
-      "name" : "军校女王：夺心天才战神",
+      "id" : 3270,
+      "name" : "媚颜笑",
       "updateStatus" : 1,
-      "distance" : 3815,
-      "memberId" : 2557
+      "distance" : 6570,
+      "memberId" : 3646,
+      "bothType" : false
     }, {
-      "id" : 3411,
-      "name" : "孽障情缘",
+      "id" : 2833,
+      "name" : "蓬莱",
       "updateStatus" : 1,
-      "distance" : 4165,
-      "memberId" : 5160
+      "distance" : 4288,
+      "memberId" : 8205,
+      "bothType" : false
     }, {
-      "id" : 2445,
-      "name" : "饰心",
+      "id" : 2079,
+      "name" : "祸乱天下之南泽有宝",
       "updateStatus" : 1,
-      "distance" : 7623,
-      "memberId" : 8848
+      "distance" : 7216,
+      "memberId" : 1725,
+      "bothType" : false
     }, {
-      "id" : 2958,
-      "name" : "伤痕落尽我依然等你",
+      "id" : 3667,
+      "name" : "且行且见",
       "updateStatus" : 1,
-      "distance" : 2723,
-      "memberId" : 3775
+      "distance" : 8070,
+      "memberId" : 6147,
+      "bothType" : true
     }, {
-      "id" : 3714,
-      "name" : "王爷的仙妃",
+      "id" : 3543,
+      "name" : "逆天七小姐：第一魔妃",
       "updateStatus" : 1,
-      "distance" : 6440,
-      "memberId" : 8746
+      "distance" : 6009,
+      "memberId" : 4711,
+      "bothType" : false
     }, {
-      "id" : 2749,
-      "name" : "轻安易宁",
+      "id" : 2630,
+      "name" : "腹黑女帝倾天下",
       "updateStatus" : 1,
-      "distance" : 3322,
-      "memberId" : 5525
+      "distance" : 2149,
+      "memberId" : 1169,
+      "bothType" : false
     }, {
-      "id" : 2058,
-      "name" : "护花三公主：蛊惑美男心",
-      "updateStatus" : 2,
-      "distance" : 1323,
-      "memberId" : 4112
-    }, {
-      "id" : 2847,
-      "name" : "沫誓沫望",
+      "id" : 2764,
+      "name" : "桃花款酒落朱弦",
       "updateStatus" : 1,
-      "distance" : 6306,
-      "memberId" : 4565
+      "distance" : 5232,
+      "memberId" : 1905,
+      "bothType" : false
     }, {
-      "id" : 2937,
-      "name" : "致命蔷薇FatalRose",
+      "id" : 3674,
+      "name" : "爱上闷骚姐",
       "updateStatus" : 1,
-      "distance" : 3269,
-      "memberId" : 6268
+      "distance" : 9103,
+      "memberId" : 2760,
+      "bothType" : true
     }, {
-      "id" : 2457,
-      "name" : "一碗村",
+      "id" : 2215,
+      "name" : "诛仙凡尘",
       "updateStatus" : 1,
-      "distance" : 5843,
-      "memberId" : 4910
+      "distance" : 7575,
+      "memberId" : 7560,
+      "bothType" : false
     }, {
-      "id" : 3663,
-      "name" : "疯狂健身房",
+      "id" : 2944,
+      "name" : "嬗变",
       "updateStatus" : 1,
-      "distance" : 6331,
-      "memberId" : 2613
-    }, {
-      "id" : 2465,
-      "name" : "双魂神探",
-      "updateStatus" : 1,
-      "distance" : 552,
-      "memberId" : 5827
+      "distance" : 9134,
+      "memberId" : 8140,
+      "bothType" : false
     }, {
       "id" : 3364,
       "name" : "只要你幸福，愿意不爱你",
       "updateStatus" : 1,
-      "distance" : 2559,
-      "memberId" : 4667
+      "distance" : 8764,
+      "memberId" : 7789,
+      "bothType" : true
     }, {
-      "id" : 2773,
-      "name" : "为君花开为卿落",
+      "id" : 3569,
+      "name" : "奇山鬼谭",
       "updateStatus" : 1,
-      "distance" : 6528,
-      "memberId" : 6853
+      "distance" : 8236,
+      "memberId" : 6006,
+      "bothType" : false
     }, {
-      "id" : 3594,
-      "name" : "浮生梦",
+      "id" : 2866,
+      "name" : "寂寞恋爱",
       "updateStatus" : 1,
-      "distance" : 3164,
-      "memberId" : 3448
+      "distance" : 1993,
+      "memberId" : 2247,
+      "bothType" : true
     }, {
-      "id" : 2197,
-      "name" : "血色蔓延之守护者",
-      "updateStatus" : 2,
-      "distance" : 2865,
-      "memberId" : 4866
-    }, {
-      "id" : 3489,
-      "name" : "夜色如昨",
+      "id" : 2746,
+      "name" : "遗忘之约",
       "updateStatus" : 1,
-      "distance" : 976,
-      "memberId" : 6681
+      "distance" : 5740,
+      "memberId" : 6824,
+      "bothType" : false
+    }, {
+      "id" : 3677,
+      "name" : "不要丢下我，好不好",
+      "updateStatus" : 1,
+      "distance" : 2301,
+      "memberId" : 4306,
+      "bothType" : false
+    }, {
+      "id" : 2357,
+      "name" : "妖女别想逃",
+      "updateStatus" : 1,
+      "distance" : 6523,
+      "memberId" : 2033,
+      "bothType" : true
+    }, {
+      "id" : 3255,
+      "name" : "区区爱情",
+      "updateStatus" : 1,
+      "distance" : 1140,
+      "memberId" : 5793,
+      "bothType" : true
     } ]
   }
 }

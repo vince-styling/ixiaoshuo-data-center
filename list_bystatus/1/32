@@ -12,7 +12,8 @@
       "summary" : "她本是某特种部队的女特种兵，代号哑雀，刚刚才通过特种兵的考核，早就做好了随时为祖国献身的准备，不过因",
       "updateStatus" : 1,
       "capacity" : 4038073,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3023,
       "name" : "大没殇",
@@ -20,7 +21,8 @@
       "summary" : "她，倾国倾城，身份尊贵，却被迫潜伏异国，卧薪尝胆。受尽了人情冷暖，尝遍了世间苦甜，末了，却被人告知，",
       "updateStatus" : 1,
       "capacity" : 9773785,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 2762,
       "name" : "笛吟，离殇 ",
@@ -28,7 +30,8 @@
       "summary" : "倾国系列之五国篇天下五分渐渐生出颓势，五国之间矛盾积压各国不和由来已久。恰逢将乱未乱之时，二十二年满",
       "updateStatus" : 1,
       "capacity" : 9528924,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3434,
       "name" : "天境风华祭",
@@ -36,7 +39,8 @@
       "summary" : "那年，花开的正好，花落得也凄美。湖畔居的那张棋盘上，黑白纵横，相拥相错，千百年来的平局似乎从未打破。",
       "updateStatus" : 1,
       "capacity" : 27662,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3166,
       "name" : "一品凰妻：冷情教主猎娇宠",
@@ -44,7 +48,8 @@
       "summary" : "爬爬山居然一个不小心栽下去了！等眼睛一睁开，什么？叫我姑娘？你们是谁？哈？杀手？拜托，我在现代过得有",
       "updateStatus" : 1,
       "capacity" : 891325,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2608,
       "name" : "一睹莲华",
@@ -52,7 +57,8 @@
       "summary" : "玄紫去历了个劫，回来后颇感物是仙非。没曾想她一跨成为了仙界中姣姣的大龄女仙，年龄大些也就算了，居然还",
       "updateStatus" : 1,
       "capacity" : 4162687,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2606,
       "name" : "自古多情空余恨",
@@ -60,7 +66,8 @@
       "summary" : "21世纪，她是一名英姿飒爽的女警战士。满腔热血，只为除恶扬善，保家安民。她是警队里在任务中冲得最快、",
       "updateStatus" : 1,
       "capacity" : 8481370,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3250,
       "name" : "极点之境",
@@ -68,7 +75,8 @@
       "summary" : "神是唯一，却有三个位格，圣父是创生，圣子是守护，圣灵则为调率。而路西法则是那不为人知的另一个秘密。神",
       "updateStatus" : 1,
       "capacity" : 1018947,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 3395,
       "name" : "如果不曾知道",
@@ -76,7 +84,8 @@
       "summary" : "程天芸只是一个如同陶瓷般的女孩，五岁失去了一切，哥哥把她托付给了杀手；一切的安排只是不希望她报仇江帆",
       "updateStatus" : 1,
       "capacity" : 932787,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2581,
       "name" : "月上梨花白",
@@ -84,7 +93,8 @@
       "summary" : "一朝穿越，暗波横流。他是慕国的三殿下，白衣翩翩，温文尔雅。一见钟情，两相利用，她为他甘心逆天而行，却",
       "updateStatus" : 1,
       "capacity" : 8961257,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2943,
       "name" : "落凰",
@@ -92,7 +102,8 @@
       "summary" : "在地狱里轮回台前渡千年里，她可以看得清自己的心，却舍不得这情。天地玄黄，而泉于地下，故名黄泉，孟婆以",
       "updateStatus" : 1,
       "capacity" : 6921439,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2409,
       "name" : "异世界的盛宴",
@@ -100,7 +111,8 @@
       "summary" : "卷一转学的第一天，她被神秘的面具男引到了被学院视为禁地枫林里。第一面见到他，却被他的“美貌”迷惑，在",
       "updateStatus" : 1,
       "capacity" : 4472239,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2959,
       "name" : "是现实太现实之面具",
@@ -108,7 +120,8 @@
       "summary" : "如果可以，我们能不能好好珍惜彼此？如果可以，我一定不会倔强任性了如果可以，我会放下我可笑的面子去挽留",
       "updateStatus" : 1,
       "capacity" : 5852762,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3019,
       "name" : "午后恋歌",
@@ -116,7 +129,8 @@
       "summary" : "她是慕容家的继承人，也是慕容家的顶级杀手，可是宿命的她遇到了他，到底是悲剧还是幸福呢？她是洛家的继承",
       "updateStatus" : 1,
       "capacity" : 4832901,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2598,
       "name" : "穿越之瑶禛馨",
@@ -124,7 +138,8 @@
       "summary" : "某月黑风高夜。两人的夜间活动只差最后一步了，可希瑶总是推三阻四的不让胤禛继续，咱们四爷顿时怒了。他喘",
       "updateStatus" : 1,
       "capacity" : 1734847,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3598,
       "name" : "缘起烟尘",
@@ -132,7 +147,8 @@
       "summary" : "虚无裂缝出现的巨蛋，经历世界的破灭。流落凡尘，化身为人。其在凡人手中长大，千魔万险，一步一步走向巅峰",
       "updateStatus" : 1,
       "capacity" : 943193,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 2126,
       "name" : "纯钧剑",
@@ -140,7 +156,8 @@
       "summary" : "列国时代，华夏民族进入了最为血性最为豪情的时代。是一个凡有血性皆可争的大争之世，战场，文坛，武林，迸",
       "updateStatus" : 1,
       "capacity" : 2219694,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2526,
       "name" : "[网王]花菱の樱",
@@ -148,7 +165,8 @@
       "summary" : "闪耀迷人如同星光般纯粹耀眼的金色及膝长发，蒲扇般的睫毛，琉璃色的瞳孔，如同贵族公主般倾城的耀眼容颜，",
       "updateStatus" : 1,
       "capacity" : 2206911,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2806,
       "name" : "浮尘之爱",
@@ -156,7 +174,8 @@
       "summary" : "「除了一纸婚书，你什么都不会缺。你还可以有我的孩子，放心我一定是个尽责的父亲。」他抓住她的手说道。「",
       "updateStatus" : 1,
       "capacity" : 7352685,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2893,
       "name" : "曾经你还好么",
@@ -164,7 +183,8 @@
       "summary" : "那年，我遇到了一个男子，他叫陌简竹。那年，我有很多的好姐妹，简沫，肖楚，叶云……那年，简竹对我说“冷",
       "updateStatus" : 1,
       "capacity" : 1255410,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     } ]
   }
 }

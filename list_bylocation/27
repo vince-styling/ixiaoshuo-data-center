@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2431,
-      "name" : "你浓我浓",
+      "id" : 3280,
+      "name" : "轻舞离歌",
       "updateStatus" : 1,
-      "distance" : 8797,
-      "memberId" : 4149
+      "distance" : 2332,
+      "memberId" : 7785,
+      "bothType" : false
     }, {
-      "id" : 2282,
-      "name" : "凤动九天：一等皇妃倾天下",
+      "id" : 2446,
+      "name" : "安否，掠掳之来去的幸福",
       "updateStatus" : 1,
-      "distance" : 5453,
-      "memberId" : 3639
+      "distance" : 7994,
+      "memberId" : 2112,
+      "bothType" : false
     }, {
-      "id" : 2552,
-      "name" : "顽妃双刃斩天下",
+      "id" : 3131,
+      "name" : "天神印记",
       "updateStatus" : 1,
-      "distance" : 1301,
-      "memberId" : 5636
+      "distance" : 8060,
+      "memberId" : 8536,
+      "bothType" : true
     }, {
-      "id" : 3010,
-      "name" : "冤家，咱布梨布吃",
+      "id" : 3203,
+      "name" : "魔法之镜花水月",
       "updateStatus" : 1,
-      "distance" : 6062,
-      "memberId" : 3962
+      "distance" : 1720,
+      "memberId" : 2912,
+      "bothType" : false
     }, {
-      "id" : 2362,
-      "name" : "青春小夜曲",
+      "id" : 2953,
+      "name" : "异世界的爱恋",
+      "updateStatus" : 1,
+      "distance" : 7014,
+      "memberId" : 1897,
+      "bothType" : true
+    }, {
+      "id" : 3455,
+      "name" : "蜜宠之今生只要你",
+      "updateStatus" : 1,
+      "distance" : 7029,
+      "memberId" : 6640,
+      "bothType" : false
+    }, {
+      "id" : 3130,
+      "name" : "冷情总裁，我不爱",
+      "updateStatus" : 1,
+      "distance" : 7094,
+      "memberId" : 3804,
+      "bothType" : false
+    }, {
+      "id" : 2540,
+      "name" : "天降魔法师",
+      "updateStatus" : 1,
+      "distance" : 7643,
+      "memberId" : 7282,
+      "bothType" : false
+    }, {
+      "id" : 2479,
+      "name" : "诡音：楼上的高跟鞋",
+      "updateStatus" : 1,
+      "distance" : 4674,
+      "memberId" : 5506,
+      "bothType" : false
+    }, {
+      "id" : 2137,
+      "name" : "逆墨灵",
       "updateStatus" : 2,
-      "distance" : 2085,
-      "memberId" : 2565
+      "distance" : 7773,
+      "memberId" : 6241,
+      "bothType" : false
     }, {
-      "id" : 2641,
-      "name" : "倾城归来",
+      "id" : 3465,
+      "name" : "凤皇",
       "updateStatus" : 1,
-      "distance" : 8473,
-      "memberId" : 3019
+      "distance" : 8565,
+      "memberId" : 1173,
+      "bothType" : false
     }, {
-      "id" : 2146,
-      "name" : "灭魔玄殇",
+      "id" : 3401,
+      "name" : "狂2",
       "updateStatus" : 1,
-      "distance" : 3426,
-      "memberId" : 1439
+      "distance" : 2063,
+      "memberId" : 5402,
+      "bothType" : false
     }, {
-      "id" : 3722,
-      "name" : "夏日妍妍正好眠",
+      "id" : 2355,
+      "name" : "五欢散之烈焰天下",
       "updateStatus" : 1,
-      "distance" : 6699,
-      "memberId" : 7997
+      "distance" : 2057,
+      "memberId" : 8466,
+      "bothType" : false
     }, {
-      "id" : 3202,
-      "name" : "就要你记着",
+      "id" : 2682,
+      "name" : "心口不一",
       "updateStatus" : 1,
-      "distance" : 3706,
-      "memberId" : 5823
+      "distance" : 1040,
+      "memberId" : 6994,
+      "bothType" : false
     }, {
-      "id" : 2113,
-      "name" : "战神王爷狂妄妃",
-      "updateStatus" : 2,
-      "distance" : 866,
-      "memberId" : 7672
-    }, {
-      "id" : 2763,
-      "name" : "医暖天下",
+      "id" : 3545,
+      "name" : "泪痕",
       "updateStatus" : 1,
-      "distance" : 7932,
-      "memberId" : 6352
+      "distance" : 1382,
+      "memberId" : 4967,
+      "bothType" : false
     }, {
-      "id" : 2935,
-      "name" : "双生迷爱",
+      "id" : 3443,
+      "name" : "许你长安",
       "updateStatus" : 1,
-      "distance" : 7986,
-      "memberId" : 8689
+      "distance" : 4001,
+      "memberId" : 5431,
+      "bothType" : false
     }, {
-      "id" : 2211,
-      "name" : "神魂锁炼",
+      "id" : 3532,
+      "name" : "剥皮再吃更美味",
       "updateStatus" : 1,
-      "distance" : 4248,
-      "memberId" : 4973
+      "distance" : 8956,
+      "memberId" : 8082,
+      "bothType" : false
     }, {
-      "id" : 2943,
-      "name" : "落凰",
+      "id" : 2098,
+      "name" : "东风吹尽龙沙雪",
       "updateStatus" : 1,
-      "distance" : 4777,
-      "memberId" : 2787
+      "distance" : 7196,
+      "memberId" : 6201,
+      "bothType" : false
     }, {
-      "id" : 2447,
-      "name" : "生活在深圳",
+      "id" : 3157,
+      "name" : "人生如若不太贱",
       "updateStatus" : 1,
-      "distance" : 3365,
-      "memberId" : 8395
+      "distance" : 5509,
+      "memberId" : 2924,
+      "bothType" : true
     }, {
-      "id" : 2398,
-      "name" : "千里共月光",
+      "id" : 2220,
+      "name" : "玄黄道环",
       "updateStatus" : 1,
-      "distance" : 9651,
-      "memberId" : 3052
-    }, {
-      "id" : 2409,
-      "name" : "异世界的盛宴",
-      "updateStatus" : 1,
-      "distance" : 5140,
-      "memberId" : 4472
-    }, {
-      "id" : 2815,
-      "name" : "总裁挽爱：老婆，等你来罚",
-      "updateStatus" : 1,
-      "distance" : 9298,
-      "memberId" : 8156
-    }, {
-      "id" : 3659,
-      "name" : "回头，爱还在原地等你",
-      "updateStatus" : 1,
-      "distance" : 4305,
-      "memberId" : 4286
-    }, {
-      "id" : 3349,
-      "name" : "宁负苍天",
-      "updateStatus" : 1,
-      "distance" : 7507,
-      "memberId" : 4673
+      "distance" : 6046,
+      "memberId" : 4878,
+      "bothType" : true
     } ]
   }
 }

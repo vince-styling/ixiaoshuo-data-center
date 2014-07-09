@@ -12,7 +12,8 @@
       "summary" : "用最简单的语言写一篇关于权志龙的故事......",
       "updateStatus" : 1,
       "capacity" : 8557032,
-      "readerCount" : 15432
+      "readerCount" : 15432,
+      "bothType" : false
     }, {
       "id" : 2330,
       "name" : "风雪情殇",
@@ -20,7 +21,8 @@
       "summary" : "他，像风一样轻飘却无处不在；她，一团冰雪，心内凛寒。他，三国之中的鬼才；她现代的千金。他和她，本不该",
       "updateStatus" : 1,
       "capacity" : 5696768,
-      "readerCount" : 15410
+      "readerCount" : 15410,
+      "bothType" : false
     }, {
       "id" : 2336,
       "name" : "妃似毒：皇子快逃命",
@@ -28,7 +30,8 @@
       "summary" : "那时的他，是个傲然狂肆、唯我独尊、冷戾果断的九皇子。那时的我，只是个初入异空世界的迷惘过客。现代女子",
       "updateStatus" : 1,
       "capacity" : 6420301,
-      "readerCount" : 15406
+      "readerCount" : 15406,
+      "bothType" : false
     }, {
       "id" : 3005,
       "name" : "夜微凉我们在一起到老",
@@ -36,7 +39,8 @@
       "summary" : "一直生活在孤单世界的初若暖，因为一次转学而改变了原本平静的轴迹，原本以为自己会一直孤独下去，原本以为",
       "updateStatus" : 1,
       "capacity" : 2025257,
-      "readerCount" : 15396
+      "readerCount" : 15396,
+      "bothType" : false
     }, {
       "id" : 2114,
       "name" : "未婚妈妈，首席太霸道",
@@ -44,7 +48,8 @@
       "summary" : "那一夜,他们都是被设计.她失去的不只有清白,所谓的真爱不过是一场骗财骗色的打劫游戏她了无生念却意外怀",
       "updateStatus" : 2,
       "capacity" : 5202664,
-      "readerCount" : 15371
+      "readerCount" : 15371,
+      "bothType" : false
     }, {
       "id" : 2651,
       "name" : "黑暗之争：天道征程",
@@ -52,7 +57,8 @@
       "summary" : "“老大，什么是灰色制度？”闻言卓玥眨眨眼睛但笑不语。她是谁？她是拥有多重身份的女强。她拥有上亿资产，",
       "updateStatus" : 1,
       "capacity" : 1808855,
-      "readerCount" : 15371
+      "readerCount" : 15371,
+      "bothType" : false
     }, {
       "id" : 2768,
       "name" : "军校女王：夺心天才战神",
@@ -60,7 +66,8 @@
       "summary" : "一个武艺超群的军校女王，变成冷艳干练的皇家暗卫——这也不是什么很奇怪的事情吧？谭琰深深觉得自己这辈子",
       "updateStatus" : 1,
       "capacity" : 1266375,
-      "readerCount" : 15327
+      "readerCount" : 15327,
+      "bothType" : false
     }, {
       "id" : 2823,
       "name" : "情结若楚",
@@ -68,7 +75,8 @@
       "summary" : "她本蕙质兰心，却因儿时一段沉痛经历，掩去光芒，从此只想平静度日，与相爱之人厮守终生。无奈天不从人愿，",
       "updateStatus" : 1,
       "capacity" : 7103330,
-      "readerCount" : 15307
+      "readerCount" : 15307,
+      "bothType" : false
     }, {
       "id" : 2189,
       "name" : "天使心",
@@ -76,7 +84,8 @@
       "summary" : "“如果你讨厌我，那你也不要喜欢任何人。”“我不想伤害你，但我做的事没有一件是能让你高兴的。所有的事都",
       "updateStatus" : 2,
       "capacity" : 7500082,
-      "readerCount" : 15294
+      "readerCount" : 15294,
+      "bothType" : false
     }, {
       "id" : 2872,
       "name" : "口是心非：那个女人的谎言",
@@ -84,7 +93,8 @@
       "summary" : "在娱乐圈，想要保持知名度，那么绯闻是必不可少，身在娱乐圈的她不是很清楚？明明相爱为什么说分手？但骄傲",
       "updateStatus" : 1,
       "capacity" : 1114120,
-      "readerCount" : 15284
+      "readerCount" : 15284,
+      "bothType" : false
     }, {
       "id" : 2151,
       "name" : "缘来是我们",
@@ -92,7 +102,8 @@
       "summary" : "“你是我的女人，我们很早以前就认识了...”“等你恢复记忆，就会想起我...”在她被当作男孩带入修仙",
       "updateStatus" : 1,
       "capacity" : 9666073,
-      "readerCount" : 15283
+      "readerCount" : 15283,
+      "bothType" : false
     }, {
       "id" : 3009,
       "name" : "幽冥琴",
@@ -100,7 +111,8 @@
       "summary" : "上古时期，舜帝斫琴，灵凤泣血，从此便埋下了祸端，以致多年后的生灵涂炭……为了苍生，为了天下，峄阳泉水",
       "updateStatus" : 1,
       "capacity" : 5093962,
-      "readerCount" : 15281
+      "readerCount" : 15281,
+      "bothType" : false
     }, {
       "id" : 2102,
       "name" : "殿下惑世",
@@ -108,7 +120,8 @@
       "summary" : "她是楚国公主，却过着卑微如宫女的日子。再次受辱，她奋起反击，为了让自己的弟弟登上皇位不惜一切代价，甚",
       "updateStatus" : 1,
       "capacity" : 5741220,
-      "readerCount" : 15180
+      "readerCount" : 15180,
+      "bothType" : false
     }, {
       "id" : 2444,
       "name" : "花开花败，半夏未眠",
@@ -116,7 +129,8 @@
       "summary" : "“为什么？我那么爱你，那么纵容你。为什么会这样。”陈浩然歇斯底里的大声吼着。晗烟脸颊上满是泪水，连连",
       "updateStatus" : 1,
       "capacity" : 8955498,
-      "readerCount" : 15133
+      "readerCount" : 15133,
+      "bothType" : false
     }, {
       "id" : 2562,
       "name" : "南无阿米豆腐",
@@ -124,7 +138,8 @@
       "summary" : "当看见司徒允浩那一刻，沫羽灯知道自己这一辈子肯定就这么完了，只是没有想到感情却这么伤人，终于他站在了",
       "updateStatus" : 1,
       "capacity" : 5904193,
-      "readerCount" : 15125
+      "readerCount" : 15125,
+      "bothType" : false
     }, {
       "id" : 2607,
       "name" : "葬忧散",
@@ -132,7 +147,8 @@
       "summary" : "这是关于万法之源《葬忧散》的系列作品之第一部。乃是以“转身顿悟”为主题的仙侠修真故事。主人公梁无忧，",
       "updateStatus" : 1,
       "capacity" : 9158245,
-      "readerCount" : 15100
+      "readerCount" : 15100,
+      "bothType" : true
     }, {
       "id" : 2816,
       "name" : "穿越之浅梦吟",
@@ -140,7 +156,8 @@
       "summary" : "一只痴怨千年的鬼魅，依附在绝世古服“浅裳”中。她等待渺茫的机会，终于守得云开见月明。以灵魂为契召唤穿",
       "updateStatus" : 1,
       "capacity" : 2542861,
-      "readerCount" : 15099
+      "readerCount" : 15099,
+      "bothType" : false
     }, {
       "id" : 2160,
       "name" : "修神传",
@@ -148,7 +165,8 @@
       "summary" : "一手破苍穹，一怒为红颜。一人一龙，藐视修真者。沫沫，前世的遗憾；今生今世，我，楚凌天一定会珍惜！！！",
       "updateStatus" : 1,
       "capacity" : 7864059,
-      "readerCount" : 15072
+      "readerCount" : 15072,
+      "bothType" : false
     }, {
       "id" : 2656,
       "name" : "沉浮爱中殇",
@@ -156,7 +174,8 @@
       "summary" : "她为爱痴狂，放弃安逸商海拼搏只为三年前的承诺，不顾一切只为在她身边，却不得所愿。她厌恶欺骗，愤然离开",
       "updateStatus" : 1,
       "capacity" : 2034285,
-      "readerCount" : 15070
+      "readerCount" : 15070,
+      "bothType" : false
     }, {
       "id" : 2580,
       "name" : "琉璃碎",
@@ -164,7 +183,8 @@
       "summary" : "无论是神魔的玩笑，还是命运的作弄，既然让她在这个光怪陆离的世界里得以借尸还魂，重活一回。那么，就算有",
       "updateStatus" : 1,
       "capacity" : 2677967,
-      "readerCount" : 15056
+      "readerCount" : 15056,
+      "bothType" : false
     } ]
   }
 }

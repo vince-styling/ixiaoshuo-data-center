@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20203.jpg",
       "updateStatus" : 1,
       "capacity" : 719807,
-      "lastUpdateTime" : "2013-11-28 20:30:57"
+      "lastUpdateTime" : "2013-11-28 20:30:57",
+      "bothType" : true
     }, {
       "id" : 2389,
       "name" : "我家有个怪蜀黍",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_10906.jpg",
       "updateStatus" : 2,
       "capacity" : 3038789,
-      "lastUpdateTime" : "2013-11-28 20:18:45"
+      "lastUpdateTime" : "2013-11-28 20:18:45",
+      "bothType" : false
     }, {
       "id" : 3455,
       "name" : "蜜宠之今生只要你",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46511.jpg",
       "updateStatus" : 1,
       "capacity" : 301914,
-      "lastUpdateTime" : "2013-11-28 20:03:42"
+      "lastUpdateTime" : "2013-11-28 20:03:42",
+      "bothType" : false
     }, {
       "id" : 2561,
       "name" : "墨上清歌",
@@ -36,7 +39,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 2116960,
-      "lastUpdateTime" : "2013-11-28 19:54:59"
+      "lastUpdateTime" : "2013-11-28 19:54:59",
+      "bothType" : false
     }, {
       "id" : 2067,
       "name" : "昔人惜人",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15891.jpg",
       "updateStatus" : 2,
       "capacity" : 8307340,
-      "lastUpdateTime" : "2013-11-28 19:54:39"
+      "lastUpdateTime" : "2013-11-28 19:54:39",
+      "bothType" : false
     }, {
       "id" : 3706,
       "name" : "痴情的心",
@@ -52,7 +57,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 46754,
-      "lastUpdateTime" : "2013-11-28 19:45:47"
+      "lastUpdateTime" : "2013-11-28 19:45:47",
+      "bothType" : false
     }, {
       "id" : 2586,
       "name" : "半面仙",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47358.jpg",
       "updateStatus" : 1,
       "capacity" : 3614846,
-      "lastUpdateTime" : "2013-11-28 19:25:55"
+      "lastUpdateTime" : "2013-11-28 19:25:55",
+      "bothType" : false
     }, {
       "id" : 2197,
       "name" : "血色蔓延之守护者",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14145.jpg",
       "updateStatus" : 2,
       "capacity" : 2805860,
-      "lastUpdateTime" : "2013-11-28 19:25:51"
+      "lastUpdateTime" : "2013-11-28 19:25:51",
+      "bothType" : true
     }, {
       "id" : 3099,
       "name" : "青春悼念曲",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43022.jpg",
       "updateStatus" : 1,
       "capacity" : 1799376,
-      "lastUpdateTime" : "2013-11-28 19:17:42"
+      "lastUpdateTime" : "2013-11-28 19:17:42",
+      "bothType" : false
     }, {
       "id" : 2054,
       "name" : "囧囧穿越：不良丑妃惑君心",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45400.jpg",
       "updateStatus" : 1,
       "capacity" : 1375415,
-      "lastUpdateTime" : "2013-11-28 19:16:51"
+      "lastUpdateTime" : "2013-11-28 19:16:51",
+      "bothType" : false
     }, {
       "id" : 3322,
       "name" : "爱情倒时差",
@@ -92,7 +102,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 80975,
-      "lastUpdateTime" : "2013-11-28 18:47:42"
+      "lastUpdateTime" : "2013-11-28 18:47:42",
+      "bothType" : false
     }, {
       "id" : 2347,
       "name" : "绝配主仆",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47909.jpg",
       "updateStatus" : 1,
       "capacity" : 7163857,
-      "lastUpdateTime" : "2013-11-28 18:32:07"
+      "lastUpdateTime" : "2013-11-28 18:32:07",
+      "bothType" : false
     }, {
       "id" : 2638,
       "name" : "谊心依旧",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46999.jpg",
       "updateStatus" : 1,
       "capacity" : 4598296,
-      "lastUpdateTime" : "2013-11-28 17:32:58"
+      "lastUpdateTime" : "2013-11-28 17:32:58",
+      "bothType" : true
     }, {
       "id" : 3708,
       "name" : "浮生境梦",
@@ -116,7 +129,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 151923,
-      "lastUpdateTime" : "2013-11-28 16:53:19"
+      "lastUpdateTime" : "2013-11-28 16:53:19",
+      "bothType" : false
     }, {
       "id" : 2697,
       "name" : "堕世之瞳",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46910.jpg",
       "updateStatus" : 1,
       "capacity" : 6929758,
-      "lastUpdateTime" : "2013-11-28 16:40:06"
+      "lastUpdateTime" : "2013-11-28 16:40:06",
+      "bothType" : true
     }, {
       "id" : 3640,
       "name" : "《浣冥》",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44280.jpg",
       "updateStatus" : 1,
       "capacity" : 182019,
-      "lastUpdateTime" : "2013-11-28 16:38:43"
+      "lastUpdateTime" : "2013-11-28 16:38:43",
+      "bothType" : false
     }, {
       "id" : 2321,
       "name" : "梦呓熙殇",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20532.jpg",
       "updateStatus" : 1,
       "capacity" : 5146740,
-      "lastUpdateTime" : "2013-11-28 16:24:39"
+      "lastUpdateTime" : "2013-11-28 16:24:39",
+      "bothType" : true
     }, {
       "id" : 2909,
       "name" : "十六岁的青春期",
@@ -148,7 +165,8 @@
       "coverUrl" : "",
       "updateStatus" : 2,
       "capacity" : 5366751,
-      "lastUpdateTime" : "2013-11-28 16:16:06"
+      "lastUpdateTime" : "2013-11-28 16:16:06",
+      "bothType" : false
     }, {
       "id" : 2787,
       "name" : "本编等你来扑倒",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44288.jpg",
       "updateStatus" : 1,
       "capacity" : 7526210,
-      "lastUpdateTime" : "2013-11-28 16:13:35"
+      "lastUpdateTime" : "2013-11-28 16:13:35",
+      "bothType" : false
     }, {
       "id" : 3071,
       "name" : "焚源·苍蓝",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46821.jpg",
       "updateStatus" : 1,
       "capacity" : 153997,
-      "lastUpdateTime" : "2013-11-28 13:10:22"
+      "lastUpdateTime" : "2013-11-28 13:10:22",
+      "bothType" : false
     } ]
   }
 }

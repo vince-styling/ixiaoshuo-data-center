@@ -12,7 +12,8 @@
       "summary" : "这是黑手党的世界，黑暗、残酷、暴力、弱肉强食、适者生存！这也是少年的世界，青春、热血、友爱、激情四射",
       "updateStatus" : 1,
       "capacity" : 6082533,
-      "readerCount" : 18782
+      "readerCount" : 18782,
+      "bothType" : false
     }, {
       "id" : 2496,
       "name" : "赛罗之双生子的羁绊",
@@ -20,7 +21,8 @@
       "summary" : "前世的他在父母的鲜血中诞生，病魔缠身一生只有短短十六载，善良坚强的他在众多医生护士的鼓励照顾下撑到了",
       "updateStatus" : 1,
       "capacity" : 6776174,
-      "readerCount" : 18099
+      "readerCount" : 18099,
+      "bothType" : false
     }, {
       "id" : 2691,
       "name" : "网王之绮梦玥恋",
@@ -28,7 +30,8 @@
       "summary" : "如果今天是世界末日，那么请上帝垂怜，将我砸向你的世界，让我在你的世界里停留一天在结束我的生命。你的世",
       "updateStatus" : 1,
       "capacity" : 8110860,
-      "readerCount" : 17312
+      "readerCount" : 17312,
+      "bothType" : true
     }, {
       "id" : 2509,
       "name" : "明月何故照秦时",
@@ -36,7 +39,8 @@
       "summary" : "她，一朝穿越，蝴蝶效应扇得历史脱离了轨道。她，古灵精怪，惹得墨家高层对她是又恨又爱。她，极度护短，敢",
       "updateStatus" : 2,
       "capacity" : 4198628,
-      "readerCount" : 16388
+      "readerCount" : 16388,
+      "bothType" : false
     }, {
       "id" : 2692,
       "name" : "网王之阴阳师是学生",
@@ -44,7 +48,8 @@
       "summary" : "来自Z国的神秘转学生。她的身上究竟隐藏着怎样的力量。欢迎走进阴阳师的神秘世界。在这里你将找到答案。",
       "updateStatus" : 1,
       "capacity" : 9386014,
-      "readerCount" : 16334
+      "readerCount" : 16334,
+      "bothType" : false
     }, {
       "id" : 2507,
       "name" : "尘落（爵迹同人）",
@@ -52,7 +57,8 @@
       "summary" : "银尘幽冥漆拉吉尔伽美什怎样的王爵之恋在亚斯蓝这片地域上演着怎样的激烈纠缠不清……",
       "updateStatus" : 1,
       "capacity" : 1398186,
-      "readerCount" : 15746
+      "readerCount" : 15746,
+      "bothType" : false
     }, {
       "id" : 2499,
       "name" : "我在路口等你",
@@ -60,7 +66,8 @@
       "summary" : "用最简单的语言写一篇关于权志龙的故事......",
       "updateStatus" : 1,
       "capacity" : 8557032,
-      "readerCount" : 15432
+      "readerCount" : 15432,
+      "bothType" : false
     }, {
       "id" : 2515,
       "name" : "青春兵路",
@@ -68,7 +75,8 @@
       "summary" : "我们都有一样的青春，不同的是所选择的路，而选择军旅，是青春中的自豪，是人生中的无悔。二十几岁的战士在",
       "updateStatus" : 2,
       "capacity" : 2157586,
-      "readerCount" : 14771
+      "readerCount" : 14771,
+      "bothType" : true
     }, {
       "id" : 2497,
       "name" : "网王之柳絮飞时花满城",
@@ -76,7 +84,8 @@
       "summary" : "本文非穿越女主，网球技术一般，一般家庭，战斗力一般。一个中国来的交换生，不懂网球的人却被迹部景吾要求",
       "updateStatus" : 1,
       "capacity" : 9340418,
-      "readerCount" : 14185
+      "readerCount" : 14185,
+      "bothType" : false
     }, {
       "id" : 2498,
       "name" : "飘落的信笺",
@@ -84,7 +93,8 @@
       "summary" : "请不要记起我，我只是个永远也回不来的人，我的后半生将沉入无尽的地狱……在这个虚假的故事里，谁也没有错",
       "updateStatus" : 1,
       "capacity" : 6511189,
-      "readerCount" : 13962
+      "readerCount" : 13962,
+      "bothType" : false
     }, {
       "id" : 2522,
       "name" : "熊霸天下",
@@ -92,7 +102,8 @@
       "summary" : "随笔童话1",
       "updateStatus" : 1,
       "capacity" : 3204212,
-      "readerCount" : 13684
+      "readerCount" : 13684,
+      "bothType" : false
     }, {
       "id" : 2516,
       "name" : "青春，一场久治不愈的感冒",
@@ -100,7 +111,8 @@
       "summary" : "青春、永远是一场久治不愈的感冒；人生、永远是一场悲喜交加的戏剧。谨以生活的细枝末节纪念我跌跌撞撞却依",
       "updateStatus" : 2,
       "capacity" : 2180419,
-      "readerCount" : 13355
+      "readerCount" : 13355,
+      "bothType" : false
     }, {
       "id" : 2527,
       "name" : "火影同人暗夜帝国",
@@ -108,7 +120,8 @@
       "summary" : "在这个弱肉强食的世界里，我们只有紧紧依靠着彼此才能感受到那微弱的温暖，在这里我们会建立一个属于我们的",
       "updateStatus" : 1,
       "capacity" : 8042919,
-      "readerCount" : 13131
+      "readerCount" : 13131,
+      "bothType" : false
     }, {
       "id" : 2047,
       "name" : "越长大越现实",
@@ -116,7 +129,8 @@
       "summary" : "这个世界原本是有童话的，可无奈的是人总是要长大的。廖美靖、嘉善新、李雪芸，简毅等人的一天天的长大，一",
       "updateStatus" : 1,
       "capacity" : 1937108,
-      "readerCount" : 12412
+      "readerCount" : 12412,
+      "bothType" : false
     }, {
       "id" : 2518,
       "name" : "君醉红颜",
@@ -124,7 +138,8 @@
       "summary" : "三年相思，却以一桩政治婚姻了断，她的爱情抵不过江山社稷，只能嫁给素未谋面的冷酷君王。他只当她是一枚政",
       "updateStatus" : 1,
       "capacity" : 4862062,
-      "readerCount" : 11902
+      "readerCount" : 11902,
+      "bothType" : false
     }, {
       "id" : 2492,
       "name" : "网战尖兵",
@@ -132,7 +147,8 @@
       "summary" : "一特种兵激战海外做特保，后转作网络高手并进入国安的故事。",
       "updateStatus" : 1,
       "capacity" : 2095335,
-      "readerCount" : 11596
+      "readerCount" : 11596,
+      "bothType" : false
     }, {
       "id" : 2489,
       "name" : "雪落的声音",
@@ -140,7 +156,8 @@
       "summary" : "“我听见像是雪落的声音，一回头，是你从天而降。”“雪音，我说过，这可以是现实。”“这也是你的游戏吗？",
       "updateStatus" : 1,
       "capacity" : 6383580,
-      "readerCount" : 10917
+      "readerCount" : 10917,
+      "bothType" : false
     }, {
       "id" : 3022,
       "name" : "吸血鬼骑士之紫之吾爱",
@@ -148,7 +165,8 @@
       "summary" : "鲜红的鲜红的鲜血染红纯洁的纯洁的白雪灿烂的灿烂的樱花飘落干枯的干枯的枝桠爱恨交织的你啊头也不回地走了",
       "updateStatus" : 1,
       "capacity" : 7177101,
-      "readerCount" : 9565
+      "readerCount" : 9565,
+      "bothType" : true
     }, {
       "id" : 2505,
       "name" : "养儿难养，儿成狼",
@@ -156,7 +174,8 @@
       "summary" : "现代养成文，甜文，小虐会有一点点，无大虐，攻宠受，年下。",
       "updateStatus" : 1,
       "capacity" : 8520877,
-      "readerCount" : 8905
+      "readerCount" : 8905,
+      "bothType" : false
     }, {
       "id" : 3008,
       "name" : "网王之王者领域",
@@ -164,7 +183,8 @@
       "summary" : "清晨的阳光再次照入女子的心灵，重生之后的生活比她想象中的青春激情多了。前一世，她是站在巅峰的高校界乃",
       "updateStatus" : 1,
       "capacity" : 5592090,
-      "readerCount" : 8641
+      "readerCount" : 8641,
+      "bothType" : false
     } ]
   }
 }

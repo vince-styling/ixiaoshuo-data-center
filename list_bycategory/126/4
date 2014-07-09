@@ -12,7 +12,8 @@
       "summary" : "世间万物瞬息变幻，许多希望出现又有许多想不到的事时常在万物瞬息变幻中孕育而生，科技日益发达的今天，强",
       "updateStatus" : 1,
       "capacity" : 9983825,
-      "readerCount" : 9005
+      "readerCount" : 9005,
+      "bothType" : false
     }, {
       "id" : 2913,
       "name" : "孤单的世界",
@@ -20,7 +21,8 @@
       "summary" : "那海边说出的姐妹之间的约定，在讨伐战后破灭。那个他，在暗中帮助着她。找到真正的罪恶，为了她，他不惜生",
       "updateStatus" : 1,
       "capacity" : 7925928,
-      "readerCount" : 8855
+      "readerCount" : 8855,
+      "bothType" : false
     }, {
       "id" : 2204,
       "name" : "穿越无门之门",
@@ -28,7 +30,8 @@
       "summary" : "开启无门之门的钥匙就是那颗人人争夺的查克拉石，而其契机即是九星连珠。一现代女叛忍左初因男友慕凌雪背叛",
       "updateStatus" : 1,
       "capacity" : 7037240,
-      "readerCount" : 8848
+      "readerCount" : 8848,
+      "bothType" : true
     }, {
       "id" : 2708,
       "name" : "风云破:逆转乾坤",
@@ -36,7 +39,8 @@
       "summary" : "【女强】【爽文】她努力一生，还是被算计到阴谋之中。重生之后，她又如何书写一部传奇的奋斗史？如何收获自",
       "updateStatus" : 1,
       "capacity" : 4534185,
-      "readerCount" : 8755
+      "readerCount" : 8755,
+      "bothType" : false
     }, {
       "id" : 2685,
       "name" : "含蕾",
@@ -44,7 +48,8 @@
       "summary" : "在千年的古墓中遇上了未来的自己那个自己说家族所守护的秘密是时间有无数镜面空间的自己重叠成了在古墓中的",
       "updateStatus" : 1,
       "capacity" : 5893744,
-      "readerCount" : 8694
+      "readerCount" : 8694,
+      "bothType" : false
     }, {
       "id" : 2696,
       "name" : "OBA，这个星球属于我！",
@@ -52,7 +57,8 @@
       "summary" : "她不是西方的神，也不是中土的神仙，她是龙？是凤？是凰？她是借尸还魂的多情女，她是爱上千年寒冰般邪魅大",
       "updateStatus" : 2,
       "capacity" : 4518185,
-      "readerCount" : 8585
+      "readerCount" : 8585,
+      "bothType" : false
     }, {
       "id" : 2222,
       "name" : "仙蝶穿越奇缘",
@@ -60,7 +66,8 @@
       "summary" : "老天待她不薄，给她了一次穿越千年的旅游。“死严狐，竟敢吃老娘的豆腐，看招。”秋蝶伸出拳头朝着严狐打去",
       "updateStatus" : 1,
       "capacity" : 1246388,
-      "readerCount" : 8524
+      "readerCount" : 8524,
+      "bothType" : false
     }, {
       "id" : 2213,
       "name" : "群芳谱",
@@ -68,7 +75,8 @@
       "summary" : "小时候听老师讲：春天，把一个豆子种进地里，秋天收获好多豆子。那时候郑伟想到的是，春天种下一毛钱，秋天",
       "updateStatus" : 2,
       "capacity" : 2113318,
-      "readerCount" : 8102
+      "readerCount" : 8102,
+      "bothType" : false
     }, {
       "id" : 2212,
       "name" : "禁天乱纪元",
@@ -76,7 +84,8 @@
       "summary" : "为了寻找离奇失踪的姐姐，少年努力修炼家传的古太极拳法。在寻找姐姐的过程中，种种离奇的际遇，让少年慢慢",
       "updateStatus" : 1,
       "capacity" : 1572817,
-      "readerCount" : 8010
+      "readerCount" : 8010,
+      "bothType" : false
     }, {
       "id" : 2233,
       "name" : "末世之非末之世",
@@ -84,7 +93,8 @@
       "summary" : "第一次直面末世，江沐昕无从下手，一路上她坚持着从小接受的教育和理念，但那些所谓正确的观念却不能让她在",
       "updateStatus" : 1,
       "capacity" : 6982244,
-      "readerCount" : 7981
+      "readerCount" : 7981,
+      "bothType" : false
     }, {
       "id" : 2208,
       "name" : "定为君妻",
@@ -92,7 +102,8 @@
       "summary" : "“你永远不会记起她，她却永生不能忘记你！”当真是世上最恶毒的诅咒，世界上还有什么比这更令我痛苦？你是",
       "updateStatus" : 1,
       "capacity" : 1743179,
-      "readerCount" : 7726
+      "readerCount" : 7726,
+      "bothType" : false
     }, {
       "id" : 2201,
       "name" : "凌荒传",
@@ -100,7 +111,8 @@
       "summary" : "老婆跑了，怎么办？追呗！神魂散了，怎么办？凑呗！老婆不记得自己了，怎么办？重新来过呗！当沉稳持重的八",
       "updateStatus" : 1,
       "capacity" : 4819304,
-      "readerCount" : 7697
+      "readerCount" : 7697,
+      "bothType" : false
     }, {
       "id" : 2604,
       "name" : "大世纪",
@@ -108,7 +120,8 @@
       "summary" : "世界自诞生伊始，就充斥着金、木、水、火、土、风、雷、黑暗和光明，生命就在此孕育。万物都在不停的变化，",
       "updateStatus" : 1,
       "capacity" : 2123939,
-      "readerCount" : 7663
+      "readerCount" : 7663,
+      "bothType" : false
     }, {
       "id" : 2603,
       "name" : "墨瞳物语",
@@ -116,7 +129,8 @@
       "summary" : "孪生妹妹反目成仇？微微心动的男人爱上妹妹？失去眼角膜？这些悲伤的事情在修真之后似乎再也不能影响她的情",
       "updateStatus" : 1,
       "capacity" : 4981050,
-      "readerCount" : 7436
+      "readerCount" : 7436,
+      "bothType" : false
     }, {
       "id" : 2203,
       "name" : "狂战天下",
@@ -124,7 +138,8 @@
       "summary" : "这个世界，有很多东西是无法选择的，也有很多东西是必须割舍的。成王败寇，决定着一个男人的未来，他们渴望",
       "updateStatus" : 1,
       "capacity" : 8698891,
-      "readerCount" : 7304
+      "readerCount" : 7304,
+      "bothType" : true
     }, {
       "id" : 3431,
       "name" : "修真女配混末世",
@@ -132,7 +147,8 @@
       "summary" : "李巧玲从楼梯上摔下来后，再次醒来发现：自己竟然穿越成末世文里第一个被女主炮灰了的女配——曲苑。后来又",
       "updateStatus" : 1,
       "capacity" : 409529,
-      "readerCount" : 7212
+      "readerCount" : 7212,
+      "bothType" : false
     }, {
       "id" : 2614,
       "name" : "赤瞳的海盗",
@@ -140,7 +156,8 @@
       "summary" : "这里，是一个和平的世界。没有战火，没有争端。直到两个来自异世界的魔王——黑魔王乌拉斯和白魔王玛尔希在",
       "updateStatus" : 2,
       "capacity" : 9617708,
-      "readerCount" : 7134
+      "readerCount" : 7134,
+      "bothType" : false
     }, {
       "id" : 2697,
       "name" : "堕世之瞳",
@@ -148,7 +165,8 @@
       "summary" : "自天地始辟，混沌初开。逾万年，天地成，是生万物。世间万物皆有定数，此消彼长，轮转又回，而终欣欣向荣。",
       "updateStatus" : 1,
       "capacity" : 6929758,
-      "readerCount" : 7130
+      "readerCount" : 7130,
+      "bothType" : false
     }, {
       "id" : 2199,
       "name" : "选道",
@@ -156,7 +174,8 @@
       "summary" : "无尽寰宇，浩瀚星空。。。金羽抬望宇宙，看见两尊强者正在大气层外生死比斗，强悍的神通激撞在一起，为一片",
       "updateStatus" : 2,
       "capacity" : 6737931,
-      "readerCount" : 7085
+      "readerCount" : 7085,
+      "bothType" : false
     }, {
       "id" : 2207,
       "name" : "神鬼游戏",
@@ -164,7 +183,8 @@
       "summary" : "秦舞阳是一个普通的不能在普通的人，而一款神秘的游戏的出现，改变了他，当他发现游戏的技能可以带进现实的",
       "updateStatus" : 1,
       "capacity" : 5482209,
-      "readerCount" : 6882
+      "readerCount" : 6882,
+      "bothType" : true
     } ]
   }
 }

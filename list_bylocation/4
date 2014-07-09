@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3482,
-      "name" : "迷失并盛",
+      "id" : 2987,
+      "name" : "适珂而止",
       "updateStatus" : 1,
-      "distance" : 3212,
-      "memberId" : 2260
+      "distance" : 996,
+      "memberId" : 4817,
+      "bothType" : false
     }, {
-      "id" : 2966,
-      "name" : "乱世桃花",
+      "id" : 2094,
+      "name" : "孽情殇",
       "updateStatus" : 1,
-      "distance" : 1965,
-      "memberId" : 4523
+      "distance" : 1590,
+      "memberId" : 4413,
+      "bothType" : false
     }, {
-      "id" : 2291,
-      "name" : "长脚丫的年轮",
+      "id" : 2393,
+      "name" : "剩女重生女警花：缉拿花花大少",
       "updateStatus" : 1,
-      "distance" : 1891,
-      "memberId" : 8249
+      "distance" : 9255,
+      "memberId" : 6020,
+      "bothType" : false
     }, {
-      "id" : 3609,
-      "name" : "等你爱我",
+      "id" : 2227,
+      "name" : "小狐赤烛",
       "updateStatus" : 1,
-      "distance" : 2800,
-      "memberId" : 6320
+      "distance" : 5061,
+      "memberId" : 3059,
+      "bothType" : false
     }, {
-      "id" : 3250,
-      "name" : "极点之境",
+      "id" : 2336,
+      "name" : "妃似毒：皇子快逃命",
       "updateStatus" : 1,
-      "distance" : 4617,
-      "memberId" : 4747
+      "distance" : 3367,
+      "memberId" : 4601,
+      "bothType" : true
     }, {
-      "id" : 3262,
-      "name" : "爱，在遥远的彼方",
-      "updateStatus" : 1,
-      "distance" : 7667,
-      "memberId" : 8539
+      "id" : 2385,
+      "name" : "换魂锁爱：小白掠爱冷总裁",
+      "updateStatus" : 2,
+      "distance" : 8222,
+      "memberId" : 2025,
+      "bothType" : false
     }, {
-      "id" : 3614,
-      "name" : "二八不婚",
+      "id" : 3530,
+      "name" : "总裁莫追：小女人带球跑",
       "updateStatus" : 1,
-      "distance" : 4404,
-      "memberId" : 4100
+      "distance" : 3674,
+      "memberId" : 1573,
+      "bothType" : false
     }, {
-      "id" : 2513,
-      "name" : "溺爱",
+      "id" : 3007,
+      "name" : "醉逍遥",
       "updateStatus" : 1,
-      "distance" : 4141,
-      "memberId" : 5165
+      "distance" : 3390,
+      "memberId" : 7075,
+      "bothType" : false
     }, {
-      "id" : 3253,
-      "name" : "替身之后",
+      "id" : 3064,
+      "name" : "再回首灯火阑珊",
       "updateStatus" : 1,
-      "distance" : 4084,
-      "memberId" : 5917
+      "distance" : 4425,
+      "memberId" : 8002,
+      "bothType" : false
     }, {
-      "id" : 2541,
-      "name" : "前世姻来生缘",
+      "id" : 2669,
+      "name" : "遗爱绝情娇妻",
       "updateStatus" : 1,
-      "distance" : 8010,
-      "memberId" : 5728
+      "distance" : 6172,
+      "memberId" : 4505,
+      "bothType" : false
     }, {
-      "id" : 3423,
-      "name" : "其叶沃若",
+      "id" : 3570,
+      "name" : "挚爱傻夫君",
       "updateStatus" : 1,
-      "distance" : 9684,
-      "memberId" : 3453
+      "distance" : 4157,
+      "memberId" : 2814,
+      "bothType" : true
     }, {
-      "id" : 3692,
-      "name" : "恶魔承传者",
-      "updateStatus" : 1,
-      "distance" : 1476,
-      "memberId" : 7953
+      "id" : 2116,
+      "name" : "妖孽皇太子：独宠下堂妃",
+      "updateStatus" : 2,
+      "distance" : 4349,
+      "memberId" : 6134,
+      "bothType" : false
     }, {
-      "id" : 2490,
-      "name" : "彩云国之一杯茶一辈子",
+      "id" : 3016,
+      "name" : "再见，宝贝",
       "updateStatus" : 1,
-      "distance" : 8051,
-      "memberId" : 6401
+      "distance" : 2429,
+      "memberId" : 8010,
+      "bothType" : true
     }, {
-      "id" : 3632,
-      "name" : "幽谷之殇",
+      "id" : 2658,
+      "name" : "天佑嘉璟",
       "updateStatus" : 1,
-      "distance" : 1198,
-      "memberId" : 5691
+      "distance" : 2271,
+      "memberId" : 3983,
+      "bothType" : true
     }, {
-      "id" : 3384,
-      "name" : "若，我们的结局注定是悲剧",
+      "id" : 3564,
+      "name" : "十二生肖女神的恋爱",
       "updateStatus" : 1,
-      "distance" : 4767,
-      "memberId" : 4003
+      "distance" : 917,
+      "memberId" : 1538,
+      "bothType" : false
     }, {
-      "id" : 3280,
-      "name" : "轻舞离歌",
+      "id" : 3050,
+      "name" : "帝君独宠：魅世妖颜倾天下",
       "updateStatus" : 1,
-      "distance" : 7364,
-      "memberId" : 2426
+      "distance" : 4624,
+      "memberId" : 1086,
+      "bothType" : false
     }, {
-      "id" : 2805,
-      "name" : "记得爱过",
+      "id" : 3411,
+      "name" : "孽障情缘",
       "updateStatus" : 1,
-      "distance" : 2391,
-      "memberId" : 1697
+      "distance" : 9618,
+      "memberId" : 2542,
+      "bothType" : false
     }, {
-      "id" : 2595,
-      "name" : "素问天下",
+      "id" : 2542,
+      "name" : "陌上桑之初心",
       "updateStatus" : 1,
-      "distance" : 3052,
-      "memberId" : 4007
+      "distance" : 2886,
+      "memberId" : 8457,
+      "bothType" : true
     }, {
-      "id" : 2931,
-      "name" : "蝶风之交错的缘",
+      "id" : 2163,
+      "name" : "唤醒之星之痕",
       "updateStatus" : 1,
-      "distance" : 7097,
-      "memberId" : 7979
+      "distance" : 5365,
+      "memberId" : 2390,
+      "bothType" : false
     }, {
-      "id" : 3077,
-      "name" : "青春盛宴之青春貌似童话",
+      "id" : 3715,
+      "name" : "仙灵问鼎",
       "updateStatus" : 1,
-      "distance" : 2545,
-      "memberId" : 1901
+      "distance" : 7577,
+      "memberId" : 6077,
+      "bothType" : true
     } ]
   }
 }

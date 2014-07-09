@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3620,
-      "name" : "傀儡王妃：不上君王榻",
+      "id" : 2531,
+      "name" : "烟雨紫蓬山",
       "updateStatus" : 1,
-      "distance" : 9638,
-      "memberId" : 4464
+      "distance" : 8672,
+      "memberId" : 2865,
+      "bothType" : false
     }, {
-      "id" : 2727,
-      "name" : "无奸不商",
+      "id" : 3184,
+      "name" : "安歌陌上花",
       "updateStatus" : 1,
-      "distance" : 2052,
-      "memberId" : 2867
+      "distance" : 9675,
+      "memberId" : 1964,
+      "bothType" : false
     }, {
-      "id" : 3081,
-      "name" : "爱，谨行时光",
+      "id" : 2091,
+      "name" : "江湖夜雨十年灯之琴剑篇",
       "updateStatus" : 1,
-      "distance" : 7685,
-      "memberId" : 2200
+      "distance" : 5349,
+      "memberId" : 3675,
+      "bothType" : false
     }, {
-      "id" : 3012,
-      "name" : "会有惊鸿替倦鸟",
+      "id" : 3602,
+      "name" : "桃面何处寻",
       "updateStatus" : 1,
-      "distance" : 7203,
-      "memberId" : 1222
+      "distance" : 7638,
+      "memberId" : 5737,
+      "bothType" : false
     }, {
-      "id" : 3560,
-      "name" : "豪门虐恋：多情二少独宠疯丫头",
+      "id" : 3173,
+      "name" : "超级高中生",
       "updateStatus" : 1,
-      "distance" : 4117,
-      "memberId" : 1667
+      "distance" : 991,
+      "memberId" : 2630,
+      "bothType" : true
     }, {
-      "id" : 2921,
-      "name" : "豪门恩怨之吾爱未央",
+      "id" : 3035,
+      "name" : "黑色殿下：丫头，认输吧",
       "updateStatus" : 1,
-      "distance" : 1533,
-      "memberId" : 3151
+      "distance" : 7374,
+      "memberId" : 8212,
+      "bothType" : false
     }, {
-      "id" : 2775,
-      "name" : "实验品女孩的桃花运",
+      "id" : 2903,
+      "name" : "诱饵王妃",
       "updateStatus" : 1,
-      "distance" : 8507,
-      "memberId" : 5373
+      "distance" : 1858,
+      "memberId" : 3682,
+      "bothType" : false
     }, {
-      "id" : 2776,
-      "name" : "时空魔法师",
+      "id" : 2657,
+      "name" : "票定你",
       "updateStatus" : 1,
-      "distance" : 867,
-      "memberId" : 6884
+      "distance" : 4383,
+      "memberId" : 2484,
+      "bothType" : false
     }, {
-      "id" : 3506,
-      "name" : "还珠格格同人之落燕",
+      "id" : 2994,
+      "name" : "低入尘埃终将花开",
       "updateStatus" : 1,
-      "distance" : 6022,
-      "memberId" : 7144
+      "distance" : 7134,
+      "memberId" : 1663,
+      "bothType" : false
     }, {
-      "id" : 2857,
-      "name" : "你不可能会爱我",
+      "id" : 2743,
+      "name" : "青羽记",
       "updateStatus" : 1,
-      "distance" : 1687,
-      "memberId" : 1274
+      "distance" : 2451,
+      "memberId" : 2112,
+      "bothType" : true
     }, {
-      "id" : 2150,
-      "name" : "最",
+      "id" : 2164,
+      "name" : "碎玉满江湖",
       "updateStatus" : 1,
-      "distance" : 5949,
-      "memberId" : 5814
+      "distance" : 7208,
+      "memberId" : 2464,
+      "bothType" : false
     }, {
-      "id" : 2954,
-      "name" : "大神卖身不卖艺",
+      "id" : 3610,
+      "name" : "或许本就不该相爱",
       "updateStatus" : 1,
-      "distance" : 8817,
-      "memberId" : 7964
+      "distance" : 9843,
+      "memberId" : 6699,
+      "bothType" : true
     }, {
-      "id" : 3191,
-      "name" : "没有一个女孩不美丽",
+      "id" : 2311,
+      "name" : "凤血",
       "updateStatus" : 1,
-      "distance" : 4806,
-      "memberId" : 1661
+      "distance" : 4381,
+      "memberId" : 8527,
+      "bothType" : false
     }, {
-      "id" : 2681,
-      "name" : "巅峰之我为帝王",
+      "id" : 3336,
+      "name" : "旷世绝恋：洛水弹琴不谈情",
       "updateStatus" : 1,
-      "distance" : 6987,
-      "memberId" : 6571
+      "distance" : 3389,
+      "memberId" : 2119,
+      "bothType" : false
     }, {
-      "id" : 2841,
-      "name" : "听说时光回来过",
+      "id" : 3077,
+      "name" : "青春盛宴之青春貌似童话",
       "updateStatus" : 1,
-      "distance" : 935,
-      "memberId" : 2405
+      "distance" : 4747,
+      "memberId" : 1701,
+      "bothType" : false
     }, {
-      "id" : 2503,
-      "name" : "真实的选择",
+      "id" : 3388,
+      "name" : "栩你一世言如歌",
       "updateStatus" : 1,
-      "distance" : 2130,
-      "memberId" : 2306
+      "distance" : 3846,
+      "memberId" : 7992,
+      "bothType" : false
     }, {
-      "id" : 3054,
-      "name" : "宫：殇世绝恋",
+      "id" : 3508,
+      "name" : "虾片恋情:融化冰山王子的小虾片",
       "updateStatus" : 1,
-      "distance" : 6846,
-      "memberId" : 3365
+      "distance" : 2884,
+      "memberId" : 4683,
+      "bothType" : false
     }, {
-      "id" : 3095,
-      "name" : "墨色眼瞳中的温柔",
+      "id" : 2469,
+      "name" : "盗墓诡迹",
       "updateStatus" : 1,
-      "distance" : 7192,
-      "memberId" : 3328
+      "distance" : 8734,
+      "memberId" : 3324,
+      "bothType" : false
     }, {
-      "id" : 2499,
-      "name" : "我在路口等你",
+      "id" : 2869,
+      "name" : "穿越之美人太冷",
       "updateStatus" : 1,
-      "distance" : 9952,
-      "memberId" : 2340
+      "distance" : 9081,
+      "memberId" : 3740,
+      "bothType" : false
     }, {
-      "id" : 3322,
-      "name" : "爱情倒时差",
+      "id" : 3086,
+      "name" : "重生艳妖之九尾狐说",
       "updateStatus" : 1,
-      "distance" : 4991,
-      "memberId" : 1282
+      "distance" : 3533,
+      "memberId" : 3826,
+      "bothType" : false
     } ]
   }
 }

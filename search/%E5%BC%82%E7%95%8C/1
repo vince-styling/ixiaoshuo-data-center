@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 1800463,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2181,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 9443890,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2742,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 2662602,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2339,
@@ -40,6 +43,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 9735537,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2523,
@@ -49,6 +53,7 @@
       "updateStatus" : 1,
       "catName" : "同人其他",
       "capacity" : 7079261,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2701,
@@ -58,6 +63,7 @@
       "updateStatus" : 2,
       "catName" : "玄幻奇幻",
       "capacity" : 3202602,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3424,
@@ -67,6 +73,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 138413,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2229,
@@ -76,6 +83,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 7249882,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2194,
@@ -85,6 +93,7 @@
       "updateStatus" : 2,
       "catName" : "玄幻奇幻",
       "capacity" : 4996307,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3606,
@@ -94,6 +103,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 189841,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2600,
@@ -103,6 +113,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 6309650,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3362,
@@ -112,6 +123,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 94803,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 3717,
@@ -121,6 +133,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 111352,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

@@ -12,7 +12,8 @@
       "summary" : "[注意，该文为神设定，心脏能力不好者慎入！】这是一部穿越者的爆笑史。她穿越了，好吧穿越就穿越，我随遇",
       "updateStatus" : 1,
       "capacity" : 7758502,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3498,
       "name" : "浅夏未了",
@@ -20,7 +21,8 @@
       "summary" : "当黑暗的潮水涌来，我说了爱你，但请一定不要相信，因为这仅是一场游戏。我不愿顺着命运继续懦弱，所以我强",
       "updateStatus" : 1,
       "capacity" : 328150,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3345,
       "name" : "黑洞星海",
@@ -28,7 +30,8 @@
       "summary" : "这是一个充满神奇的魔幻世界，在这个世界里人们以力量为尊，谁就是王者。",
       "updateStatus" : 1,
       "capacity" : 54449,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2642,
       "name" : "黑道特种部队",
@@ -36,7 +39,8 @@
       "summary" : "这里是黑道，一群特种兵来到这里，他们的名字让人敬仰，他们所到之处让敌人闻风丧胆，他们的英勇让人赞扬，",
       "updateStatus" : 1,
       "capacity" : 3480178,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2802,
       "name" : "黑暗之争：女王再现",
@@ -44,7 +48,8 @@
       "summary" : "情与义，这道上的规矩，一旦踏上这条注定黑暗的道路，就没有回头之日。辗转过各个城市的角落，霓虹灯闪耀中",
       "updateStatus" : 1,
       "capacity" : 9747937,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3389,
       "name" : "芙蓉一纸欢",
@@ -52,7 +57,8 @@
       "summary" : "许多年后，某园主懊恼万分。一失足成千古恨啊！他管妻不严，落得如此下场~夫人又赌气跑回娘家了！他连忙骑",
       "updateStatus" : 1,
       "capacity" : 48252,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2350,
       "name" : "蝶缘痴恋",
@@ -60,7 +66,8 @@
       "summary" : "亡国之女为复仇兴国改变身份深入皇宫，并称为皇室的一份子，运用过人的胆识和计谋一步步搅得仇国朝纲混乱，",
       "updateStatus" : 1,
       "capacity" : 2925389,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : true
     }, {
       "id" : 3421,
       "name" : "心动必碎",
@@ -68,7 +75,8 @@
       "summary" : "训诫文，穿越宫廷剧。",
       "updateStatus" : 1,
       "capacity" : 457578,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3398,
       "name" : "泠夜梦初流光烬",
@@ -76,7 +84,8 @@
       "summary" : "九泠曲吾本汉家女,出水岫云矶.垂手明如玉,十二楼台戏.承欢父膝下,娇痴母佑惜.舒颜海誓花,敛容鲛人泣",
       "updateStatus" : 1,
       "capacity" : 156718,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3348,
       "name" : "杀手王妃的花心王爷",
@@ -84,7 +93,8 @@
       "summary" : "她，黑道上令人闻风丧胆的杀手——鬼未，代号魅，没想在一次任务中被炸魂穿，一朝穿越，成为傲月王朝相府小",
       "updateStatus" : 1,
       "capacity" : 174135,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2380,
       "name" : "执手深爱",
@@ -92,7 +102,8 @@
       "summary" : "跟张向北在一起就像泡温泉，他什么都不说，但是他会牵着你的手和你一起走未来的路，和肖子凛在一起，就像玩",
       "updateStatus" : 1,
       "capacity" : 3754947,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 3007,
       "name" : "醉逍遥",
@@ -100,7 +111,8 @@
       "summary" : "他，本是竹林溪居王祖师收下的一名弟子，十七岁，他决心闯荡江湖，行侠仗义。她，本是落月湖畔无名的乡村女",
       "updateStatus" : 1,
       "capacity" : 5619045,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3643,
       "name" : "可能你还爱我",
@@ -108,7 +120,8 @@
       "summary" : "“吴庚霖，我希望你能把这个协议签了，从此以后，我们再无交集！”说完，唐小沫转身走人。“不认识，一个无",
       "updateStatus" : 1,
       "capacity" : 249144,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3655,
       "name" : "平妻",
@@ -116,7 +129,8 @@
       "summary" : "三年征战之后，花赫女子的身份再也不能被无视，女子终归是要嫁人的，朝廷对他们有忌惮，二哥知道后便把他们",
       "updateStatus" : 1,
       "capacity" : 436526,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3083,
       "name" : "情难自禁",
@@ -124,7 +138,8 @@
       "summary" : "缘不知从何而起，一往情深；梦不知因何而碎，痛彻心扉。\"放手\"，只听一个女人的声音，有些喘的挣扎着。“",
       "updateStatus" : 1,
       "capacity" : 1073288,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3694,
       "name" : "笑傲倾情",
@@ -132,7 +147,8 @@
       "summary" : "冤家？必须的。青梅竹马？算是吧。暧昧？很明显吗？青梅竹马双双穿越，帅哥靓女齐上阵，兜兜转转，阴谋阳谋",
       "updateStatus" : 1,
       "capacity" : 351944,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2450,
       "name" : "黑客与总裁情缘",
@@ -140,7 +156,8 @@
       "summary" : "他和她的相遇很狗血很尴尬，但是他们在第一次相遇就有点一见钟情！什么？同性恋？什么？还有未婚妻？双性恋",
       "updateStatus" : 1,
       "capacity" : 8921268,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3165,
       "name" : "时间逆光",
@@ -148,7 +165,8 @@
       "summary" : "她以为上天已将她抛弃，直到遇见了林忆。她以为不会有人会保护她照顾她，直到遇见了陈灏。她以为那颗被熄灭",
       "updateStatus" : 1,
       "capacity" : 923062,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3111,
       "name" : "真假王妃：非常之谋",
@@ -156,7 +174,8 @@
       "summary" : "神马？说我“淑女”变“悍妇”？我好好的理性现代建筑设计师兼才女就莫名其妙地掉到了这个朝代啊啊啊啊！！",
       "updateStatus" : 1,
       "capacity" : 54219,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3313,
       "name" : "我的同桌顾亦辰",
@@ -164,7 +183,8 @@
       "summary" : "他们第一次开口讲话不是为了打招呼，而是因为相互排斥，为了座位的事儿大吵起来。后来，随着一次次的相处，",
       "updateStatus" : 1,
       "capacity" : 192280,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     } ]
   }
 }

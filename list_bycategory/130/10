@@ -12,7 +12,8 @@
       "summary" : "他，为了她，打破仙魔平衡，甘愿堕入轮回，生生世世生活在被诅咒的深渊永不得回转。她，为了他，宁愿放弃一",
       "updateStatus" : 1,
       "capacity" : 675620,
-      "readerCount" : 8761
+      "readerCount" : 8761,
+      "bothType" : true
     }, {
       "id" : 2910,
       "name" : "听闻公司有妖孽",
@@ -20,7 +21,8 @@
       "summary" : "喜欢恶搞的文文吗？这里，这里。开心果一样的女主，花心的男主，一起上演不一样的职场生活。看看吧！",
       "updateStatus" : 1,
       "capacity" : 2006652,
-      "readerCount" : 8751
+      "readerCount" : 8751,
+      "bothType" : false
     }, {
       "id" : 2625,
       "name" : "囚爱天使：逃婚猫咪不服输",
@@ -28,7 +30,8 @@
       "summary" : "她是国际级著名画家的千金二小姐，刚过十八岁就被爹地指婚给了省长儿子。活泼调皮的梓渊乔装误闯新任总统大",
       "updateStatus" : 1,
       "capacity" : 7619175,
-      "readerCount" : 8712
+      "readerCount" : 8712,
+      "bothType" : false
     }, {
       "id" : 2970,
       "name" : "《存在的烙印》",
@@ -36,7 +39,8 @@
       "summary" : "“只希望你能记住我曾在你生命中存在过，哪怕只是很短暂的存在。”这或许是我在保存那份烙印时的唯一祈愿。",
       "updateStatus" : 1,
       "capacity" : 8217200,
-      "readerCount" : 8690
+      "readerCount" : 8690,
+      "bothType" : false
     }, {
       "id" : 3679,
       "name" : "青春情书",
@@ -44,7 +48,8 @@
       "summary" : "因为欺骗，连第三者都不算的单恋者肖雪毅然休学，决定流浪。却不想，在列车上碰到“体验生活”的富家子王凯",
       "updateStatus" : 1,
       "capacity" : 1656214,
-      "readerCount" : 8631
+      "readerCount" : 8631,
+      "bothType" : false
     }, {
       "id" : 2988,
       "name" : "梦想之星",
@@ -52,7 +57,8 @@
       "summary" : "颜紫晨的梦想是成为一名歌手，在一次偶然的机会下变成dreamstar，她的使命是找到其它6名drea",
       "updateStatus" : 1,
       "capacity" : 9149500,
-      "readerCount" : 8614
+      "readerCount" : 8614,
+      "bothType" : false
     }, {
       "id" : 2648,
       "name" : "浮生琉璃路",
@@ -60,7 +66,8 @@
       "summary" : "时尚编辑不是真实身份，顶尖人物为何消失又惊现，缘分相遇，缘来缘去，一切似乎又回到了原点，但少了些什么",
       "updateStatus" : 1,
       "capacity" : 5542171,
-      "readerCount" : 8589
+      "readerCount" : 8589,
+      "bothType" : true
     }, {
       "id" : 3025,
       "name" : "EXO之爱上未来的你们",
@@ -68,7 +75,8 @@
       "summary" : "「EXO」十二位花样美男组成的组合；「Future」十二位花样美少女组成的组合，看十二位少年怎样邂逅",
       "updateStatus" : 1,
       "capacity" : 2463043,
-      "readerCount" : 8585
+      "readerCount" : 8585,
+      "bothType" : false
     }, {
       "id" : 2858,
       "name" : "十年一暮夏如尘",
@@ -76,7 +84,8 @@
       "summary" : "简介：安尘不止一次的想过，为什么自己名字里要用这个“尘”，而不是那个“晨”，或者那个“沉”？后来，直",
       "updateStatus" : 1,
       "capacity" : 5578869,
-      "readerCount" : 8544
+      "readerCount" : 8544,
+      "bothType" : false
     }, {
       "id" : 2664,
       "name" : "缘来是如此",
@@ -84,7 +93,8 @@
       "summary" : "缘分是什么？茫茫人海中的相遇，却并没有深深的相知。原以为无妨的结合，却从此后引出了无数的牵绊。面对他",
       "updateStatus" : 1,
       "capacity" : 2568200,
-      "readerCount" : 8489
+      "readerCount" : 8489,
+      "bothType" : false
     }, {
       "id" : 2438,
       "name" : "此去经年",
@@ -92,7 +102,8 @@
       "summary" : "世上所有的相遇都是久别重逢！林浩成说：小可，遇见你，我觉得你就是我的天使。但是始终我不是你的王子。穆",
       "updateStatus" : 1,
       "capacity" : 5713712,
-      "readerCount" : 8463
+      "readerCount" : 8463,
+      "bothType" : true
     }, {
       "id" : 3151,
       "name" : "神秘特务之炸弹小姐",
@@ -100,7 +111,8 @@
       "summary" : "特务去上学？谁信？她们一个比一个狠，一个比一个二。一次任务，把她们的生活弄得天翻地覆的，情敌？未婚妻",
       "updateStatus" : 1,
       "capacity" : 252675,
-      "readerCount" : 8366
+      "readerCount" : 8366,
+      "bothType" : true
     }, {
       "id" : 2922,
       "name" : "用我一生：许你欢颜",
@@ -108,7 +120,8 @@
       "summary" : "4s店的销售菜鸟许逸欢不知走了什么狗屎运，今天居然被她逮到一个大客户，而且这个大客户还是一个超级大帅",
       "updateStatus" : 1,
       "capacity" : 7139955,
-      "readerCount" : 8215
+      "readerCount" : 8215,
+      "bothType" : false
     }, {
       "id" : 2395,
       "name" : "夜色豪门：缠上时尚小娇妻",
@@ -116,7 +129,8 @@
       "summary" : "“你有男朋友？”他轻声地在她耳畔呢喃。她机械的摇摇头。“你喜欢女的？”她怒目而视正想反驳，一双冰凉的",
       "updateStatus" : 2,
       "capacity" : 4941791,
-      "readerCount" : 8184
+      "readerCount" : 8184,
+      "bothType" : false
     }, {
       "id" : 2125,
       "name" : "恨海情天",
@@ -124,7 +138,8 @@
       "summary" : "一个普通的大学女孩，谈一段普通的爱情，阴差阳错，和一位纨绔子弟结识。爱人在该陪伴她身边时离去，在该消",
       "updateStatus" : 1,
       "capacity" : 8637365,
-      "readerCount" : 8148
+      "readerCount" : 8148,
+      "bothType" : false
     }, {
       "id" : 2422,
       "name" : "豪门恩怨：恋上谁的妻",
@@ -132,7 +147,8 @@
       "summary" : "“天皓，痛……”“痛？”他不屑的眼神，刺痛她的心他，吴氏集团接班人，情场邪魅横生。她，睫毛弯弯野蛮女",
       "updateStatus" : 1,
       "capacity" : 4433024,
-      "readerCount" : 8022
+      "readerCount" : 8022,
+      "bothType" : false
     }, {
       "id" : 2400,
       "name" : "吸血鬼殿下的温柔阳光",
@@ -140,7 +156,8 @@
       "summary" : "尊贵迷人优雅的吸血鬼殿下萧柏悠和冷酷到骨子里却对她无微不至的纳兰辰，优若会选择哪一个？三个人的命运似",
       "updateStatus" : 1,
       "capacity" : 3145906,
-      "readerCount" : 7898
+      "readerCount" : 7898,
+      "bothType" : false
     }, {
       "id" : 3218,
       "name" : "爱之梦",
@@ -148,7 +165,8 @@
       "summary" : "爱情之梦是一部以现实情感生活为题材的长篇小说，通过描写主人公离奇而又复杂的情感纠葛故事，反映出当今人",
       "updateStatus" : 1,
       "capacity" : 765502,
-      "readerCount" : 7871
+      "readerCount" : 7871,
+      "bothType" : false
     }, {
       "id" : 2045,
       "name" : "你是我的女人",
@@ -156,7 +174,8 @@
       "summary" : "他出生于贵族，拥有高贵的血统她出生于平凡人家，低贱的身份他是位皇家空军飞行员她只是个打酱油的小明星缘",
       "updateStatus" : 1,
       "capacity" : 7687073,
-      "readerCount" : 7845
+      "readerCount" : 7845,
+      "bothType" : false
     }, {
       "id" : 2440,
       "name" : "冰山首席：霸宠豪门养女",
@@ -164,7 +183,8 @@
       "summary" : "“痛！唔……皇甫敬求求你放……放过我吧……”欧声声泪眼婆娑地看着趴在自己身上的冷酷男人。皇甫敬邪恶地",
       "updateStatus" : 1,
       "capacity" : 4263454,
-      "readerCount" : 7833
+      "readerCount" : 7833,
+      "bothType" : true
     } ]
   }
 }

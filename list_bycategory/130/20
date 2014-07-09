@@ -12,7 +12,8 @@
       "summary" : "他和她的相遇很狗血很尴尬，但是他们在第一次相遇就有点一见钟情！什么？同性恋？什么？还有未婚妻？双性恋",
       "updateStatus" : 1,
       "capacity" : 8921268,
-      "readerCount" : 2255
+      "readerCount" : 2255,
+      "bothType" : false
     }, {
       "id" : 3165,
       "name" : "时间逆光",
@@ -20,7 +21,8 @@
       "summary" : "她以为上天已将她抛弃，直到遇见了林忆。她以为不会有人会保护她照顾她，直到遇见了陈灏。她以为那颗被熄灭",
       "updateStatus" : 1,
       "capacity" : 923062,
-      "readerCount" : 2253
+      "readerCount" : 2253,
+      "bothType" : false
     }, {
       "id" : 3313,
       "name" : "我的同桌顾亦辰",
@@ -28,7 +30,8 @@
       "summary" : "他们第一次开口讲话不是为了打招呼，而是因为相互排斥，为了座位的事儿大吵起来。后来，随着一次次的相处，",
       "updateStatus" : 1,
       "capacity" : 192280,
-      "readerCount" : 2214
+      "readerCount" : 2214,
+      "bothType" : false
     }, {
       "id" : 3063,
       "name" : "不负相思意",
@@ -36,7 +39,8 @@
       "summary" : "梵意一直以为无论什么都阻挡不了她的爱情。可是，当有一天，她不再是高高在上的公主，不再享受众星捧月般的",
       "updateStatus" : 1,
       "capacity" : 223368,
-      "readerCount" : 2209
+      "readerCount" : 2209,
+      "bothType" : false
     }, {
       "id" : 2392,
       "name" : "刁蛮丫头很温柔",
@@ -44,7 +48,8 @@
       "summary" : "超反应异能、超速度异能、超神力异能、摄魂异能、读神异能、魅惑异能……天呐，这都是一群什么人呐！她，刁",
       "updateStatus" : 2,
       "capacity" : 6377457,
-      "readerCount" : 2202
+      "readerCount" : 2202,
+      "bothType" : false
     }, {
       "id" : 3157,
       "name" : "人生如若不太贱",
@@ -52,7 +57,8 @@
       "summary" : "他是不可一世的总经理，冷酷无情。他是温文尔雅且卖萌妖精，爱她如命。而她说白了是个快死之人，早已决定断",
       "updateStatus" : 1,
       "capacity" : 136149,
-      "readerCount" : 2156
+      "readerCount" : 2156,
+      "bothType" : true
     }, {
       "id" : 3201,
       "name" : "花开正盛",
@@ -60,7 +66,8 @@
       "summary" : "雨点拍打着窗泪水模糊了眼是谁在吟唱着那首歌那恍如隔世的记忆谁还曾记得那片欢声笑语又是谁让它随风而逝我",
       "updateStatus" : 1,
       "capacity" : 18842,
-      "readerCount" : 2150
+      "readerCount" : 2150,
+      "bothType" : false
     }, {
       "id" : 3704,
       "name" : "拐个CEO来改造",
@@ -68,7 +75,8 @@
       "summary" : "CEO魏炜受伤，女友弃他而去。“我要讨回面子！”魏炜发飙。“管我什么事！”小职员李琳被卷入麻烦。“娶",
       "updateStatus" : 1,
       "capacity" : 520833,
-      "readerCount" : 2135
+      "readerCount" : 2135,
+      "bothType" : false
     }, {
       "id" : 2540,
       "name" : "天降魔法师",
@@ -76,7 +84,8 @@
       "summary" : "王善：“你到底从哪来啊？”骆林：“天上。”王善：“……唬谁。”骆林：“你。”王善：“……你还是滚出去",
       "updateStatus" : 1,
       "capacity" : 8270465,
-      "readerCount" : 2112
+      "readerCount" : 2112,
+      "bothType" : false
     }, {
       "id" : 3633,
       "name" : "小的国",
@@ -84,7 +93,8 @@
       "summary" : "古灵精怪吴小丫在与安静成熟的叶泽感情低谷中邂逅曾经的暗恋顾晓东，或许是曾经对爱情的美好向往，或许是因",
       "updateStatus" : 1,
       "capacity" : 918400,
-      "readerCount" : 2103
+      "readerCount" : 2103,
+      "bothType" : false
     }, {
       "id" : 3481,
       "name" : "感谢那年没有错过你",
@@ -92,7 +102,8 @@
       "summary" : "“这个礼物喜欢吗？”我永远都忘不了曾经雪地里那个少年为我燃放的一片仙女棒，那么明媚，那么美好。“如果",
       "updateStatus" : 1,
       "capacity" : 95256,
-      "readerCount" : 2090
+      "readerCount" : 2090,
+      "bothType" : true
     }, {
       "id" : 3554,
       "name" : "萧索感心俱是梦",
@@ -100,7 +111,8 @@
       "summary" : "多年伤痛一直缠绕着安心，难道好了伤疤真的就会忘了痛吗？曾经的支离破碎，4年后的相遇，会带来怎样的风雨",
       "updateStatus" : 1,
       "capacity" : 336376,
-      "readerCount" : 2066
+      "readerCount" : 2066,
+      "bothType" : false
     }, {
       "id" : 3099,
       "name" : "青春悼念曲",
@@ -108,7 +120,8 @@
       "summary" : "孩子在小的时候总是会想要快快长大，那样就可以不用天天听爸爸妈妈的唠叨了。但是真正长大的时候才会发现原",
       "updateStatus" : 1,
       "capacity" : 1799376,
-      "readerCount" : 2045
+      "readerCount" : 2045,
+      "bothType" : false
     }, {
       "id" : 3534,
       "name" : "风起翼翔雪牵洛楹",
@@ -116,7 +129,8 @@
       "summary" : "一位是体坛上的风云王者，是众多粉丝眼中神秘的王子；一位是普普通通的平凡女子，重复着众多人的求学之路。",
       "updateStatus" : 1,
       "capacity" : 229937,
-      "readerCount" : 2020
+      "readerCount" : 2020,
+      "bothType" : false
     }, {
       "id" : 3363,
       "name" : "顾事了",
@@ -124,7 +138,8 @@
       "summary" : "顾云嘉：我曾经好像喜欢过你。穆良朝：天气不错，我那个时候那么纯情。江洲：那时候那么小，我都不记得谁跟",
       "updateStatus" : 1,
       "capacity" : 430000,
-      "readerCount" : 1992
+      "readerCount" : 1992,
+      "bothType" : false
     }, {
       "id" : 3011,
       "name" : "守护伊始只为你",
@@ -132,7 +147,8 @@
       "summary" : "祁雪儿不过是搭了一回顺风车，可这莫名其妙闯进自己生活的冰山大叔是怎么回事？管吃饭管睡觉还管上学，你以",
       "updateStatus" : 1,
       "capacity" : 6111029,
-      "readerCount" : 1986
+      "readerCount" : 1986,
+      "bothType" : false
     }, {
       "id" : 2554,
       "name" : "和宠物相伴的日子",
@@ -140,7 +156,8 @@
       "summary" : "妈妈因和爸爸情感上的打击，患上抑郁症在家不能工作。妈妈开始帮助我救治，在学校捡回家，已经不会吃食物的",
       "updateStatus" : 1,
       "capacity" : 1163322,
-      "readerCount" : 1960
+      "readerCount" : 1960,
+      "bothType" : false
     }, {
       "id" : 3652,
       "name" : "总裁恶魔点娇妻",
@@ -148,7 +165,8 @@
       "summary" : "他，就是那个混蛋神经病？什么，他是总裁？神经病，我跑去国外你还是不放过我！“汐鸢，你逃不出我的手掌心",
       "updateStatus" : 1,
       "capacity" : 282854,
-      "readerCount" : 1937
+      "readerCount" : 1937,
+      "bothType" : false
     }, {
       "id" : 3138,
       "name" : "黑色的梦境",
@@ -156,7 +174,8 @@
       "summary" : "现实与梦境究竟谁是现实谁是梦境，这又有谁能说的清楚呢？古人有庄周梦蝶之说.对于项生来说，他是一生就是",
       "updateStatus" : 1,
       "capacity" : 37591,
-      "readerCount" : 1933
+      "readerCount" : 1933,
+      "bothType" : false
     }, {
       "id" : 2784,
       "name" : "恶魔少爷伪天使",
@@ -164,7 +183,8 @@
       "summary" : "她..本是一个善良、温柔得像天使一般的女孩..可当她失去她生命当中最重要的人时..她变了..而他..",
       "updateStatus" : 1,
       "capacity" : 5806166,
-      "readerCount" : 1925
+      "readerCount" : 1925,
+      "bothType" : true
     } ]
   }
 }

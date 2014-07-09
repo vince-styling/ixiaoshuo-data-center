@@ -12,7 +12,8 @@
       "summary" : "在你的生命中是不是有这样一个人，给过你很多很美好的回忆。所有凝结在一起的美好并不是为了证明失去的难过",
       "updateStatus" : 1,
       "capacity" : 9992799,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2119,
       "name" : "花舞七国",
@@ -20,7 +21,8 @@
       "summary" : "——我从来没有想过，就是我们这样几个人，将来会改变整个天下的格局。到那个时候，七雄争霸，天下纷乱；而",
       "updateStatus" : 1,
       "capacity" : 5548893,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2647,
       "name" : "冷少巧追豪门俏千金",
@@ -28,7 +30,8 @@
       "summary" : "一场娃娃亲，让两个人的命运从此系下一条交界线，她的笑，在发现他的爱后展现出来，原本幸福的摸样在一次绑",
       "updateStatus" : 1,
       "capacity" : 7027753,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2542,
       "name" : "陌上桑之初心",
@@ -36,7 +39,8 @@
       "summary" : "她，误入围城，受尽歧视而欲罢不能；他，执著信仰，看尽冷眼，柳暗花明之际，却危机四伏；她，是命中注定的",
       "updateStatus" : 1,
       "capacity" : 3360894,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2767,
       "name" : "美人目",
@@ -44,7 +48,8 @@
       "summary" : "他纤长的手指触到映着一抹红影的池面，想要紧紧抓住，那抹红影却随着水波散去。他抬起头，隐约间似乎看到一",
       "updateStatus" : 1,
       "capacity" : 1425392,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2746,
       "name" : "遗忘之约",
@@ -52,7 +57,8 @@
       "summary" : "每个人都有一根入心很深的刺，只要轻轻一碰，心就会剧痛。那些被遗忘在时间长河里的沙烁，就像拼图的碎片，",
       "updateStatus" : 1,
       "capacity" : 3559608,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 3401,
       "name" : "狂2",
@@ -60,7 +66,8 @@
       "summary" : "她原本是杀手组织中的一员，却不小心穿越到了异世。",
       "updateStatus" : 1,
       "capacity" : 2285437,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 2073,
       "name" : "清娆蓝梦",
@@ -68,7 +75,8 @@
       "summary" : "琉璃幻？未央梦？她是一个明媚纯情的女子，他们是风华绝代的俊美男子。那年舞榭场，繁华地，属于她的宿命开",
       "updateStatus" : 1,
       "capacity" : 9532091,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2262,
       "name" : "三生河畔等着你",
@@ -76,7 +84,8 @@
       "summary" : "初恋是什么感觉，什么颜色？甜的、粉色的？白杏雨活了很久，还是很清晰的记得那个感觉。她曾经很恨很恨许凛",
       "updateStatus" : 1,
       "capacity" : 8864378,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3002,
       "name" : "微笑的告死者",
@@ -84,7 +93,8 @@
       "summary" : "何为恨？何又为爱？十岁时，她明白了。初尝，却是已失去所有。“站上强者的巅峰”，这是我与你一生的约定！",
       "updateStatus" : 1,
       "capacity" : 9529866,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2810,
       "name" : "深爱不能醒",
@@ -92,7 +102,8 @@
       "summary" : "他放手，放她自由，自作主张以为成全了她，给了她想要的生活方式，可是结果，真是可笑的结果。四年前，最后",
       "updateStatus" : 1,
       "capacity" : 7749061,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2239,
       "name" : "都市修仙巅峰传说",
@@ -100,7 +111,8 @@
       "summary" : "在这浩荡的宇宙中，有一颗神奇的星球。里面居住着各种生物。就在此时天空中五股不同的力量居然往同一个地方",
       "updateStatus" : 1,
       "capacity" : 2493992,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2630,
       "name" : "腹黑女帝倾天下",
@@ -108,7 +120,8 @@
       "summary" : "某女分分钟从黑道老大变身萌系小太女，宫廷水深，可对于默默这种老油条来说，正是如鱼得水，相得映彰。养精",
       "updateStatus" : 1,
       "capacity" : 8954619,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2355,
       "name" : "五欢散之烈焰天下",
@@ -116,7 +129,8 @@
       "summary" : "十六年前一个雨夜，一个刚出生的孩童遭遇遗弃，被苍古山长老收养，收为徒弟，唤名胡理智，寓意做任何事情都",
       "updateStatus" : 1,
       "capacity" : 4900734,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2954,
       "name" : "大神卖身不卖艺",
@@ -124,7 +138,8 @@
       "summary" : "一座似锦繁城，她和他在冥冥注定中交织起千丝万缕；一款当红网游，她和他们在素不相识中堆积起深厚情义。当",
       "updateStatus" : 1,
       "capacity" : 6299927,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2159,
       "name" : "雁翎刀",
@@ -132,7 +147,8 @@
       "summary" : "大将生来胆气豪，腰横秋水雁翎刀。雁翎刀销声匿迹数十载后重出江湖，掀起了又一波腥风血雨。江湖多少人为了",
       "updateStatus" : 1,
       "capacity" : 7673796,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 2559,
       "name" : "锁爱",
@@ -140,7 +156,8 @@
       "summary" : "“你能不能别老这么缠着我，你放过我行不行啊，算我求你了。”女主一脸痛苦的说道。“不能”男主一如既往的",
       "updateStatus" : 1,
       "capacity" : 6158442,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2150,
       "name" : "最",
@@ -148,7 +165,8 @@
       "summary" : "世人都道，雪界神君，孤傲清冷，凭借自己一身的能力，为她的子民开天辟地，创造属于自己的国度，其一身能力",
       "updateStatus" : 1,
       "capacity" : 6259412,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2788,
       "name" : "五月，安然",
@@ -156,7 +174,8 @@
       "summary" : "五月的离开让阿然痛彻心扉，夏安与阿末的出现让阿然在心灵上得到了巨大的安慰，于是他们之间就展开了不解的",
       "updateStatus" : 1,
       "capacity" : 4867086,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2111,
       "name" : "官家小妾",
@@ -164,7 +183,8 @@
       "summary" : "扬州总兵叶家的庶出九小姐的叶轻离，本想平凡度过一生的她，却嫁入公卿之家成了平南侯莫逸晨的第四位小妾，",
       "updateStatus" : 1,
       "capacity" : 9527583,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     } ]
   }
 }

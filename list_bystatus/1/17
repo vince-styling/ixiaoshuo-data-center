@@ -12,7 +12,8 @@
       "summary" : "秋日的阳光洒在这片土地上，每个人的头顶都开出了朵金灿灿的向日葵，这是一场青春的盛宴，是一场华丽的舞会",
       "updateStatus" : 1,
       "capacity" : 2853628,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2200,
       "name" : "女权时代",
@@ -20,7 +21,8 @@
       "summary" : "一个现代废材男在无意中穿越了，但是他穿越到的是一个女尊男卑的时代，他如何在那个世界中卷起属于穿越者的",
       "updateStatus" : 1,
       "capacity" : 5507505,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2736,
       "name" : "我是石观音",
@@ -28,7 +30,8 @@
       "summary" : "只是很喜欢楚留香与石观音的爱情，偏偏天公不作美，两人与分手收场，一直都希望他们能在一起。然而意外穿越",
       "updateStatus" : 1,
       "capacity" : 8799896,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 2557,
       "name" : "美人颜如玉",
@@ -36,7 +39,8 @@
       "summary" : "“小颜，脸伸过来。”在某人嚣张的眼神下，我只能我只能示弱的伸过小脸，任由他捏圆搓扁。唉，想当年，我秦",
       "updateStatus" : 1,
       "capacity" : 9958804,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2344,
       "name" : "枫林残恋",
@@ -44,7 +48,8 @@
       "summary" : "阎晏死了，又活了，在一个十多岁的小屁孩身上活了过来，睁开眼却发现自己正经历着家破人亡的戏码。为了逃命",
       "updateStatus" : 1,
       "capacity" : 4376945,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2530,
       "name" : "半城烟雨",
@@ -52,7 +57,8 @@
       "summary" : "半城烟半城雨半城烟雨遥相寄终日盼音已断何处笙箫惹人恋那一年她于朦胧中爱上了他半城烟雨如同云间仙境又一",
       "updateStatus" : 1,
       "capacity" : 4593647,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2859,
       "name" : "罪与孽交织的孽爱",
@@ -60,7 +66,8 @@
       "summary" : "像是一出剧本，该遇见的总会遇见，也总不能预见。和玫瑰一样带着刺，还艳丽的带着毒。",
       "updateStatus" : 1,
       "capacity" : 6870164,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2220,
       "name" : "玄黄道环",
@@ -68,7 +75,8 @@
       "summary" : "修真一途，逆天抗命，凶险莫名，但凡无非是淬筋骨、培元罡、生阴阳、化空冥、度化劫、夺造化、证道体。一名",
       "updateStatus" : 1,
       "capacity" : 9501869,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 2667,
       "name" : "那些旧时光雕刻的记忆",
@@ -76,7 +84,8 @@
       "summary" : "十七岁的男生错过了青梅竹马的女生，却又遇见了另一个女生，鼓起勇气想追求自己的爱情，却被伤的遍体鳞伤，",
       "updateStatus" : 1,
       "capacity" : 4656088,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3043,
       "name" : "遇见安好",
@@ -84,7 +93,8 @@
       "summary" : "安好泪流满面看着林遇平静得问：＂林遇，我对你好不好？”＂安好......＂林遇怔了怔伸手想抹掉她脸上",
       "updateStatus" : 1,
       "capacity" : 2163759,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2235,
       "name" : "空忆落花。",
@@ -92,7 +102,8 @@
       "summary" : "就像是要流尽所有身体里面的血液才算得上洗净罪孽吗。最后她从高台上面一跃而下，身影像极了黑暗里面盛开的",
       "updateStatus" : 1,
       "capacity" : 9341868,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 2940,
       "name" : "秦汉·流云浮生",
@@ -100,7 +111,8 @@
       "summary" : "他是旧韩之人，而她为秦人，本应是水火不容。他一心刺秦复韩，怎奈少时海棠树下遇见了她……原本是情投意合",
       "updateStatus" : 1,
       "capacity" : 7561203,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2112,
       "name" : "温暖如春",
@@ -108,7 +120,8 @@
       "summary" : "女作家温岚是一个有心理疾病的女人，在人群面前却一直深深地掩饰着自己。饱受家庭暴力、暴饮暴食和自卑影响",
       "updateStatus" : 1,
       "capacity" : 5555779,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2587,
       "name" : "漫漫碧桃开",
@@ -116,7 +129,8 @@
       "summary" : "作为天界里最倒霉的花仙，千年之前，我因顽皮不小心将月仙树上的姻缘线弄得一团糟，而被月神惩罚奴役，从此",
       "updateStatus" : 1,
       "capacity" : 6206347,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2864,
       "name" : "天幕吟之雪荒初史",
@@ -124,7 +138,8 @@
       "summary" : "水火一片，淹没烧尽大地，重生！波涛怒海，大雨磅礴，泥土纷沓，席卷而来！风呼呼，马鸣萧，战火硝烟弥漫！",
       "updateStatus" : 1,
       "capacity" : 5828225,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2285,
       "name" : "天织雪",
@@ -132,7 +147,8 @@
       "summary" : "他说：“跟我回去，可好？”他眼睛看不见，伸手却那样利落。“你叫我去找你，是等着嫁给我吗？”“等我好了",
       "updateStatus" : 1,
       "capacity" : 1681149,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2565,
       "name" : "冯子莫",
@@ -140,7 +156,8 @@
       "summary" : "一个农村的孩子，一个小时候是乖孩子、上大学却混上了黑道、冯子莫他的人生是怎样的、生活和现实面前、混上",
       "updateStatus" : 1,
       "capacity" : 5552682,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2635,
       "name" : "剩女大作战",
@@ -148,7 +165,8 @@
       "summary" : "你想去支教吗？你想当村官吗？你想体验基层吗？你想去相亲吗？不要随便下决定，先看看这个再说吧。一个在生",
       "updateStatus" : 1,
       "capacity" : 8524940,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2841,
       "name" : "听说时光回来过",
@@ -156,7 +174,8 @@
       "summary" : "时光究竟改变了我们什么？一个叫马尚尚的女孩原本单纯率真，绑高高的马尾辫，像一盘青椒土豆丝那么清爽，走",
       "updateStatus" : 1,
       "capacity" : 7946582,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2916,
       "name" : "龙凤斗：皇后在上朕在下",
@@ -164,7 +183,8 @@
       "summary" : "她叫帅悠贝，人生又衰又背！作为一名牌医科大学的高材生，她连续五次医科考试考试败北，在第六次参加考试时",
       "updateStatus" : 1,
       "capacity" : 8878650,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     } ]
   }
 }

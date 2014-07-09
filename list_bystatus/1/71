@@ -12,7 +12,8 @@
       "summary" : "莫子谦深爱着柳艳，表哥孟晓雷深爱着励思嘉，这本是幸福的两对，却因为一个月高风黑的夜晚，柳艳在放学路上",
       "updateStatus" : 1,
       "capacity" : 2074899,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3126,
       "name" : "妖王妃",
@@ -20,7 +21,8 @@
       "summary" : "--------------------------初遇男主--------------------",
       "updateStatus" : 1,
       "capacity" : 118612,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3647,
       "name" : "魔天大传",
@@ -28,7 +30,8 @@
       "summary" : "hjkmf",
       "updateStatus" : 1,
       "capacity" : 68167,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3054,
       "name" : "宫：殇世绝恋",
@@ -36,7 +39,8 @@
       "summary" : "悲伤葬在雪中的女子，本躲红尘苦，却未料穿越生死情，爱上那个世间最痴情的男儿。或是命已注定无缘的悲剧，",
       "updateStatus" : 1,
       "capacity" : 43648,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3671,
       "name" : "重生之一品贵妇",
@@ -44,7 +48,8 @@
       "summary" : "成亲五载，她为他付出一切，助他从一个默默无闻的皇子登上那九五之位。本以为苦尽甘来，没想到他却夺她亲子",
       "updateStatus" : 1,
       "capacity" : 30652,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3728,
       "name" : "含烟思窃之皇上、臣妾做不到",
@@ -52,7 +57,8 @@
       "summary" : "她，一个腹黑，无天良,,力气超大的高中网络小说家、、、、他，，一个人人闻风丧胆的恐怖政坛，，江湖，，",
       "updateStatus" : 1,
       "capacity" : 44192,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2167,
       "name" : "妃同寻常：王爷接招吧",
@@ -60,7 +66,8 @@
       "summary" : "缘分到时，冥冥中，总会相聚，他们俩之间的哀怨情仇，是是非非，让他们从此踏入世事的纷争，初遇时，星星闪",
       "updateStatus" : 1,
       "capacity" : 1813891,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3456,
       "name" : "王妃：王爷别乱来，我还是宠物之身",
@@ -68,7 +75,8 @@
       "summary" : "代绝色丿辰轩发表，，，她，为他放下了最为傲的身份，但到头来却只换来了他的话：我要的你给不起，就这样罢",
       "updateStatus" : 1,
       "capacity" : 39309,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3253,
       "name" : "替身之后",
@@ -76,7 +84,8 @@
       "summary" : "遇见他，是他一生中最美好的时光，他为他付出了他的所有，但他却将他当作替身，而后将其遗忘，亲手将他打入",
       "updateStatus" : 1,
       "capacity" : 37236,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 3072,
       "name" : "倒转乾坤：女帝慑天下",
@@ -84,7 +93,8 @@
       "summary" : "她，是灭神阁阁主，一朝大意，灵魂横跨虚空而来，寄居于名为十六君卿的少女之身。一个因母亲的莫名执念，卸",
       "updateStatus" : 1,
       "capacity" : 439058,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 3243,
       "name" : "仙灭混沌",
@@ -92,7 +102,8 @@
       "summary" : "白晨，来自于一个小小村庄，竟被选为天地间最强大的三人之一的关门徒弟。虽有幸能够踏上修仙之路，有神兽守",
       "updateStatus" : 1,
       "capacity" : 747566,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 3589,
       "name" : "今生等你爱我",
@@ -100,7 +111,8 @@
       "summary" : "爱情原是这世上最美好的东西，亦酸亦甜亦苦亦辣，但是还是有人甘之如饴的奋不顾身。季冬这辈子最幸福的事便",
       "updateStatus" : 1,
       "capacity" : 1369989,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3202,
       "name" : "就要你记着",
@@ -108,7 +120,8 @@
       "summary" : "当仇恨，蒙蔽了双眼，那么，剩下的只有彻裂心扉的痛苦！转身之后，你看不见的是我对你那满满的深情，当没了",
       "updateStatus" : 1,
       "capacity" : 20581,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3361,
       "name" : "逍遥人生：痞子王爷很妖娆",
@@ -116,7 +129,8 @@
       "summary" : "场景一：大家快来啊，战王轩来了！全城百姓都为之轰动，百姓们一直往路边挤想要一睹他的芳容。“我家孩子要",
       "updateStatus" : 1,
       "capacity" : 78422,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3220,
       "name" : "噬心扇",
@@ -124,7 +138,8 @@
       "summary" : "噬心扇：扰人心智，摄人魂魄，众人只道它是妖器却不知它是信物。当权者得之，夺王位如探囊取物，习武者得之",
       "updateStatus" : 1,
       "capacity" : 472735,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3095,
       "name" : "墨色眼瞳中的温柔",
@@ -132,7 +147,8 @@
       "summary" : "少女似美酒，浓香醇厚少年似蒲公英的种子，一路相随渐影渐离樱花树下，唯美浪漫，花瓣飘落流连于手指之间豪",
       "updateStatus" : 1,
       "capacity" : 24997,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2808,
       "name" : "女王重生：欺上恶魔总裁",
@@ -140,7 +156,8 @@
       "summary" : "前世她是他手中的一颗棋子，被他护在怀中只为利用，最终却长眠不醒。这一世睁眼醒来，她却仍然在那个掌控她",
       "updateStatus" : 1,
       "capacity" : 3089270,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3596,
       "name" : "不要在一起",
@@ -148,7 +165,8 @@
       "summary" : "“我觉得我可以立一块墓志铭。”“哦？”“跟我在一起之前，请做好七天之内被退货的准备。”“还是慢慢来吧",
       "updateStatus" : 1,
       "capacity" : 71442,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3396,
       "name" : "花开花落几倾城",
@@ -156,7 +174,8 @@
       "summary" : "【轻小说|微小说集】对于这个小说【集】说实话，我把他看来...是一本我初中时期的散文和微小说的集选。",
       "updateStatus" : 1,
       "capacity" : 14207,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2183,
       "name" : "红颜泪：风卷残荷",
@@ -164,7 +183,8 @@
       "summary" : "她是身份神秘的丑颜少女，遭遇初恋的打击后涅槃蜕变为惊世红颜，行医江湖三年只为了寻那黑衣面具男子报仇。",
       "updateStatus" : 1,
       "capacity" : 1777630,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     } ]
   }
 }

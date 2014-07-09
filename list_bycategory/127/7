@@ -12,7 +12,8 @@
       "summary" : "纤弱如她,坚强亦如她,她穿梭在皇宫,人海.享受着世界的悲伤欢乐.回忆着美好悲痛!悲悯母妃的凄凉.在不",
       "updateStatus" : 1,
       "capacity" : 163898,
-      "readerCount" : 193
+      "readerCount" : 193,
+      "bothType" : false
     }, {
       "id" : 3414,
       "name" : "鸾凤归巢之明宫遗珠",
@@ -20,7 +21,8 @@
       "summary" : "因为一张酷似公主的脸，她作为慰藉太后悲恸心灵的一剂汤药，开始了她漫长而又短暂的宫廷生活。不懂规矩，与",
       "updateStatus" : 1,
       "capacity" : 244882,
-      "readerCount" : 183
+      "readerCount" : 183,
+      "bothType" : false
     }, {
       "id" : 3465,
       "name" : "凤皇",
@@ -28,7 +30,8 @@
       "summary" : "当君世颜穿越到女尊的世界的暴君身上，是虚度一生还是建功立业是个问题，是后宫三千佳丽还是过独身生活也是",
       "updateStatus" : 1,
       "capacity" : 28019,
-      "readerCount" : 162
+      "readerCount" : 162,
+      "bothType" : false
     }, {
       "id" : 3248,
       "name" : "玄斧",
@@ -36,7 +39,8 @@
       "summary" : "爱恨情仇，少年将军与公主喜结连理，身不由己，忠魂葬于麒麟洞。留下孤儿寡母相依为命，二十年后，家仇国恨",
       "updateStatus" : 1,
       "capacity" : 36583,
-      "readerCount" : 136
+      "readerCount" : 136,
+      "bothType" : false
     }, {
       "id" : 3407,
       "name" : "尽芳华",
@@ -44,7 +48,8 @@
       "summary" : "她是璇玥后人，还是第一公子？她是将门之后，还是天下名妓？一代宫主，惊才绝艳。那是一段风云突变的历史，",
       "updateStatus" : 1,
       "capacity" : 150633,
-      "readerCount" : 121
+      "readerCount" : 121,
+      "bothType" : false
     }, {
       "id" : 3132,
       "name" : "三界悲诳录",
@@ -52,7 +57,8 @@
       "summary" : "三界风云暗涌，英雄们即将相遇，铁血征途！离别，无奈，友情，三界架空系列第一部，开启",
       "updateStatus" : 1,
       "capacity" : 23899,
-      "readerCount" : 107
+      "readerCount" : 107,
+      "bothType" : false
     } ]
   }
 }

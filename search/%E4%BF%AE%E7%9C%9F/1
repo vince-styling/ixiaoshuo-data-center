@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 6036799,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2607,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 9158245,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2160,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 7864059,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2142,
@@ -40,6 +43,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 5660868,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2698,
@@ -49,6 +53,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 3027430,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2791,
@@ -58,6 +63,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 2183255,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2363,
@@ -67,6 +73,7 @@
       "updateStatus" : 1,
       "catName" : "幻想耽美",
       "capacity" : 5977693,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2220,
@@ -76,6 +83,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 9501869,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2603,
@@ -85,6 +93,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 4981050,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3431,
@@ -94,6 +103,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 409529,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2175,
@@ -103,6 +113,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 1909735,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3650,
@@ -112,6 +123,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 396236,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3737,
@@ -121,6 +133,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 233911,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2745,
@@ -130,6 +143,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 8770661,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3227,
@@ -139,6 +153,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 122257,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3735,
@@ -148,6 +163,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 329573,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2972,
@@ -157,6 +173,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 2479212,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3393,
@@ -166,6 +183,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 108581,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3385,
@@ -175,6 +193,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 16074,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

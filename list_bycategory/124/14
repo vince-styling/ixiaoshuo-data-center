@@ -12,7 +12,8 @@
       "summary" : "唐朝末年，人心冷漠，超纲腐败，太监当道。一个女孩被人随手丢在大街上，身为太监的刘克明把女孩带回家中，",
       "updateStatus" : 1,
       "capacity" : 64226,
-      "readerCount" : 414
+      "readerCount" : 414,
+      "bothType" : false
     }, {
       "id" : 3150,
       "name" : "我是小丫",
@@ -20,7 +21,8 @@
       "summary" : "一个现代社会打拼的女子，在中元节的时候不幸被鬼缠身，掐死，在地府即将还阳的时候，却被告知自己要去一个",
       "updateStatus" : 1,
       "capacity" : 213878,
-      "readerCount" : 413
+      "readerCount" : 413,
+      "bothType" : false
     }, {
       "id" : 3654,
       "name" : "红颜香粉",
@@ -28,7 +30,8 @@
       "summary" : "一个逃婚的王妃，一个追婚的王爷，她不爱他，他却爱着爱，包容她的一切，最后他用真爱换回那人的爱~~~",
       "updateStatus" : 1,
       "capacity" : 38369,
-      "readerCount" : 412
+      "readerCount" : 412,
+      "bothType" : false
     }, {
       "id" : 3263,
       "name" : "君臣一心",
@@ -36,7 +39,8 @@
       "summary" : "她被这个地方囚禁了二十几年，离开一直是希望，但是被人赶走与自行离开让她选的话……还用选么？……陛下，",
       "updateStatus" : 1,
       "capacity" : 1259774,
-      "readerCount" : 406
+      "readerCount" : 406,
+      "bothType" : true
     }, {
       "id" : 3390,
       "name" : "贺兰山下阵如云",
@@ -44,7 +48,8 @@
       "summary" : "",
       "updateStatus" : 1,
       "capacity" : 45951,
-      "readerCount" : 403
+      "readerCount" : 403,
+      "bothType" : false
     }, {
       "id" : 3458,
       "name" : "极品女宠王妃",
@@ -52,7 +57,8 @@
       "summary" : "她，为他放下了最为傲的身份，但到头来却只换来了他的话：我要的你给不起，就这样罢了。就这样等了，爱了，",
       "updateStatus" : 1,
       "capacity" : 121154,
-      "readerCount" : 399
+      "readerCount" : 399,
+      "bothType" : true
     }, {
       "id" : 3153,
       "name" : "恋上你，眷着你",
@@ -60,7 +66,8 @@
       "summary" : "第一武将与第一丑人？堂堂大将军三十而立还是孑然一身，听说人缘也好、脾气也好，她是不是能幸运到与他讨价",
       "updateStatus" : 1,
       "capacity" : 363855,
-      "readerCount" : 396
+      "readerCount" : 396,
+      "bothType" : false
     }, {
       "id" : 3468,
       "name" : "轮回•不语",
@@ -68,7 +75,8 @@
       "summary" : "十二生肖的轮回，于世人眼中不过区区十二年，可，他们的故事，又何止区区数个轮回？爱，这么近，那么远，谁",
       "updateStatus" : 1,
       "capacity" : 48068,
-      "readerCount" : 391
+      "readerCount" : 391,
+      "bothType" : false
     }, {
       "id" : 2099,
       "name" : "女警闯西汉：将军赖定你",
@@ -76,7 +84,8 @@
       "summary" : "谁说当警花不会遇到追杀；谁说女人年华逝去不复还；菜鸟警花狗血穿越，一朝醒来，爸妈不见踪影；却成了西汉",
       "updateStatus" : 1,
       "capacity" : 2955614,
-      "readerCount" : 385
+      "readerCount" : 385,
+      "bothType" : true
     }, {
       "id" : 3740,
       "name" : "邪尊的宝贝",
@@ -84,7 +93,8 @@
       "summary" : "坑爹啊....箫瑶星只不过是第一次去海边旅行很兴奋，看到了很漂亮的石头，把它捡起来，回到家晚上睡觉的",
       "updateStatus" : 1,
       "capacity" : 91882,
-      "readerCount" : 374
+      "readerCount" : 374,
+      "bothType" : false
     }, {
       "id" : 3727,
       "name" : "繁华错",
@@ -92,7 +102,8 @@
       "summary" : "",
       "updateStatus" : 1,
       "capacity" : 54591,
-      "readerCount" : 369
+      "readerCount" : 369,
+      "bothType" : false
     }, {
       "id" : 2855,
       "name" : "皇叔，别抢亲",
@@ -100,7 +111,8 @@
       "summary" : "飘荡清扬如茶香，惜花踏月似佳人。公子踏月世无双，小爷川卿颜如玉。王家小女川卿自幼与四皇子有婚约，奈何",
       "updateStatus" : 1,
       "capacity" : 7369972,
-      "readerCount" : 349
+      "readerCount" : 349,
+      "bothType" : false
     }, {
       "id" : 3586,
       "name" : "千年之轮回",
@@ -108,7 +120,8 @@
       "summary" : "千年轮回不变的爱，只为寻找对方，相见不相识，但一定会再次拥有“冰儿，你若心中有我，树敌三千又如何”“",
       "updateStatus" : 1,
       "capacity" : 164974,
-      "readerCount" : 344
+      "readerCount" : 344,
+      "bothType" : false
     }, {
       "id" : 3518,
       "name" : "寻花",
@@ -116,7 +129,8 @@
       "summary" : "一朝穿越至蘩花大陆，改变了生命应有的轨迹远古的声音，传入耳畔。“吸血鬼，污恶的生物，地狱的魔物，以血",
       "updateStatus" : 1,
       "capacity" : 31695,
-      "readerCount" : 335
+      "readerCount" : 335,
+      "bothType" : false
     }, {
       "id" : 3459,
       "name" : "红尘客栈",
@@ -124,7 +138,8 @@
       "summary" : "天涯的尽头是风沙红尘的故事叫牵挂",
       "updateStatus" : 1,
       "capacity" : 57668,
-      "readerCount" : 326
+      "readerCount" : 326,
+      "bothType" : true
     }, {
       "id" : 3110,
       "name" : "三生情缘",
@@ -132,7 +147,8 @@
       "summary" : "第一世她，皇甫静轩，堂堂皇甫家嫡出之女，为了他，一生规行矩步，以夫为天，临死前依旧为他呕心沥血，保他",
       "updateStatus" : 1,
       "capacity" : 213188,
-      "readerCount" : 316
+      "readerCount" : 316,
+      "bothType" : false
     }, {
       "id" : 3054,
       "name" : "宫：殇世绝恋",
@@ -140,7 +156,8 @@
       "summary" : "悲伤葬在雪中的女子，本躲红尘苦，却未料穿越生死情，爱上那个世间最痴情的男儿。或是命已注定无缘的悲剧，",
       "updateStatus" : 1,
       "capacity" : 43648,
-      "readerCount" : 312
+      "readerCount" : 312,
+      "bothType" : false
     }, {
       "id" : 3671,
       "name" : "重生之一品贵妇",
@@ -148,7 +165,8 @@
       "summary" : "成亲五载，她为他付出一切，助他从一个默默无闻的皇子登上那九五之位。本以为苦尽甘来，没想到他却夺她亲子",
       "updateStatus" : 1,
       "capacity" : 30652,
-      "readerCount" : 311
+      "readerCount" : 311,
+      "bothType" : false
     }, {
       "id" : 3456,
       "name" : "王妃：王爷别乱来，我还是宠物之身",
@@ -156,7 +174,8 @@
       "summary" : "代绝色丿辰轩发表，，，她，为他放下了最为傲的身份，但到头来却只换来了他的话：我要的你给不起，就这样罢",
       "updateStatus" : 1,
       "capacity" : 39309,
-      "readerCount" : 298
+      "readerCount" : 298,
+      "bothType" : false
     }, {
       "id" : 3202,
       "name" : "就要你记着",
@@ -164,7 +183,8 @@
       "summary" : "当仇恨，蒙蔽了双眼，那么，剩下的只有彻裂心扉的痛苦！转身之后，你看不见的是我对你那满满的深情，当没了",
       "updateStatus" : 1,
       "capacity" : 20581,
-      "readerCount" : 289
+      "readerCount" : 289,
+      "bothType" : false
     } ]
   }
 }

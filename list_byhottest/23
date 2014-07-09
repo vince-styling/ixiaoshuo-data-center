@@ -12,7 +12,8 @@
       "summary" : "作为一个彪悍的女汉子，我的目标是找到一个可以媲美《网球王子》里幸村精市的少年当蓝颜知己。可是神之子没",
       "updateStatus" : 1,
       "capacity" : 2480210,
-      "readerCount" : 10095
+      "readerCount" : 10095,
+      "bothType" : false
     }, {
       "id" : 2757,
       "name" : "总裁溺恋之是祸躲不过",
@@ -20,7 +21,8 @@
       "summary" : "她，一名大学毕业一年的幼教老师，长辈眼中的乖乖女，除了上班就是宅家，不太上进，喜欢适当的米虫生活。他",
       "updateStatus" : 1,
       "capacity" : 8845121,
-      "readerCount" : 10083
+      "readerCount" : 10083,
+      "bothType" : false
     }, {
       "id" : 2646,
       "name" : "满园紫苏",
@@ -28,7 +30,8 @@
       "summary" : "她是商场巨鳄的遗孤，身家千亿，改头换面，隐藏身份，独自隐居到海边别墅；他是孤儿，却不甘命运，搏击商海",
       "updateStatus" : 1,
       "capacity" : 4205322,
-      "readerCount" : 10031
+      "readerCount" : 10031,
+      "bothType" : true
     }, {
       "id" : 2271,
       "name" : "沙僧西行记略",
@@ -36,7 +39,8 @@
       "summary" : "迷恋《沙僧日记》，《李逵日记》等书的朋友们，可以收藏本书，因为我私底下认为《沙僧西行记略》已然达到了",
       "updateStatus" : 1,
       "capacity" : 4568322,
-      "readerCount" : 10026
+      "readerCount" : 10026,
+      "bothType" : false
     }, {
       "id" : 2485,
       "name" : "眸魂记",
@@ -44,7 +48,8 @@
       "summary" : "各位亲，“神族遗孤”已改名为“眸魂记”。谢谢大家的支持，鸢子会努力的……她不是驱魔师，她不懂法术，捉",
       "updateStatus" : 1,
       "capacity" : 3496077,
-      "readerCount" : 10020
+      "readerCount" : 10020,
+      "bothType" : false
     }, {
       "id" : 2713,
       "name" : "凉茶温酒",
@@ -52,7 +57,8 @@
       "summary" : "贪狼星君？神棍说苏昀是神仙，他就是神仙了吗？我是史官，不是谐星，我这是纪实文学。就算他是北斗七星一员",
       "updateStatus" : 1,
       "capacity" : 1435897,
-      "readerCount" : 10017
+      "readerCount" : 10017,
+      "bothType" : false
     }, {
       "id" : 2264,
       "name" : "龙斗狂沙西辽传奇",
@@ -60,7 +66,8 @@
       "summary" : "公元十二世纪初，契丹皇族后裔耶律大石无意间结识前来盗取兵书的汉人少年李天晟。皇帝耶律延禧逃亡夹山。耶",
       "updateStatus" : 1,
       "capacity" : 2493729,
-      "readerCount" : 9999
+      "readerCount" : 9999,
+      "bothType" : false
     }, {
       "id" : 2588,
       "name" : "美人有毒",
@@ -68,7 +75,8 @@
       "summary" : "据说，他文采非凡，惊才艳艳，可是完整的传世之作却没有一部；据说，他好色成性，红颜知己无数，可是走进他",
       "updateStatus" : 1,
       "capacity" : 4968210,
-      "readerCount" : 9988
+      "readerCount" : 9988,
+      "bothType" : true
     }, {
       "id" : 2168,
       "name" : "天神之使命",
@@ -76,7 +84,8 @@
       "summary" : "人神混血的亦之，凡心暗生的倪裳，拥有前世绝美容颜的秋梅梅，他们为维护三界和平斩妖除魔历经艰辛。却因“",
       "updateStatus" : 1,
       "capacity" : 3892255,
-      "readerCount" : 9969
+      "readerCount" : 9969,
+      "bothType" : false
     }, {
       "id" : 2405,
       "name" : "恨与爱的边缘",
@@ -84,7 +93,8 @@
       "summary" : "前十六年，她的世界里只有母爱，也许是小时候母亲善意的谎言让她对那个不曾谋面的父亲有了一丝期待，可是十",
       "updateStatus" : 1,
       "capacity" : 5551733,
-      "readerCount" : 9937
+      "readerCount" : 9937,
+      "bothType" : false
     }, {
       "id" : 2793,
       "name" : "帅气少爷求KISS",
@@ -92,7 +102,8 @@
       "summary" : "明明出生在富豪之家，却要忍受着比佣人还要苦的待遇，有人说童年是人生最快乐的日子，而我却在童年度过了一",
       "updateStatus" : 1,
       "capacity" : 4279884,
-      "readerCount" : 9904
+      "readerCount" : 9904,
+      "bothType" : false
     }, {
       "id" : 2789,
       "name" : "男人心事",
@@ -100,7 +111,8 @@
       "summary" : "每个人都有一段属于自己的故事，每个故事都有着不同的色彩。本书讲述了四个男人的情感故事，他们是最好的哥",
       "updateStatus" : 1,
       "capacity" : 2693013,
-      "readerCount" : 9894
+      "readerCount" : 9894,
+      "bothType" : false
     }, {
       "id" : 2780,
       "name" : "人生的旅途",
@@ -108,7 +120,8 @@
       "summary" : "从一个悲剧人生跨越了一段时间，生活变得更加幸福。当你遇到挫折是不要变挫折打败，要努力往前直走。。。前",
       "updateStatus" : 1,
       "capacity" : 5851316,
-      "readerCount" : 9841
+      "readerCount" : 9841,
+      "bothType" : false
     }, {
       "id" : 2448,
       "name" : "似水流年之梦起（详尽版）",
@@ -116,7 +129,8 @@
       "summary" : "一个质朴、羞涩的少年，一场变故，多重劫难，又曾经历过怎样的爱恨情仇，直至走向不归？一个残缺、创伤的家",
       "updateStatus" : 1,
       "capacity" : 1472918,
-      "readerCount" : 9834
+      "readerCount" : 9834,
+      "bothType" : true
     }, {
       "id" : 2145,
       "name" : "江湖乱：白首不负待君归",
@@ -124,7 +138,8 @@
       "summary" : "兰芷：你说我要这绝世容颜做什么，纵然再美，尺寸之间，师父，你我也隔着万丈的距离。兰芷：这是不是全都在",
       "updateStatus" : 1,
       "capacity" : 3482719,
-      "readerCount" : 9801
+      "readerCount" : 9801,
+      "bothType" : false
     }, {
       "id" : 2289,
       "name" : "暴虐王爷风流妃",
@@ -132,7 +147,8 @@
       "summary" : "嫦娥应悔偷灵药，碧海青天夜夜心。她本月宫嫦娥，只为贪恋与丈夫的一世情缘，情愿轮回百世，嬉戏人间。无耐",
       "updateStatus" : 1,
       "capacity" : 7147205,
-      "readerCount" : 9797
+      "readerCount" : 9797,
+      "bothType" : false
     }, {
       "id" : 2819,
       "name" : "医狂天下：驯服邪恶暗帝",
@@ -140,7 +156,8 @@
       "summary" : "曾经他靠近她是为了利用她，当目的实现，他才发现自己不知不觉已经将心遗失，蓦然回首，那人已经消失得无影",
       "updateStatus" : 1,
       "capacity" : 2639255,
-      "readerCount" : 9781
+      "readerCount" : 9781,
+      "bothType" : false
     }, {
       "id" : 2135,
       "name" : "阵惊天下",
@@ -148,7 +165,8 @@
       "summary" : "本书让你见识修仙界最强大的职业－阵修，他能瞬间成阵，以一敌众；他喜欢创造，玩转小小法术，他喜欢直接，",
       "updateStatus" : 2,
       "capacity" : 7486077,
-      "readerCount" : 9771
+      "readerCount" : 9771,
+      "bothType" : false
     }, {
       "id" : 2536,
       "name" : "幸福书坊",
@@ -156,7 +174,8 @@
       "summary" : "幸福是什么？走进那神秘的阴阳师的世界，那些我们未知的世界。地狱、天堂，过去、未来，是什么在阻止着幸福",
       "updateStatus" : 1,
       "capacity" : 4196126,
-      "readerCount" : 9759
+      "readerCount" : 9759,
+      "bothType" : false
     }, {
       "id" : 2356,
       "name" : "霡霂云飒",
@@ -164,7 +183,8 @@
       "summary" : "玄冥雨神跟妖界之主的恋情好不容易被承认，却因为人间的灾难而不得不分开。最后，雨神承诺自己会重生……三",
       "updateStatus" : 1,
       "capacity" : 1660828,
-      "readerCount" : 9753
+      "readerCount" : 9753,
+      "bothType" : false
     } ]
   }
 }

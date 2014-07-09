@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 548858,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2052,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 2677377,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2423,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 1657606,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3616,
@@ -40,6 +43,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 13094,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3207,
@@ -49,6 +53,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 1651445,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2986,
@@ -58,6 +63,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 4041832,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 3117,
@@ -67,6 +73,7 @@
       "updateStatus" : 2,
       "catName" : "都市校园",
       "capacity" : 1163641,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2584,
@@ -76,6 +83,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 8244913,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3183,
@@ -85,6 +93,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 915683,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3643,
@@ -94,6 +103,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 249144,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2450,
@@ -103,6 +113,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 8921268,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3313,
@@ -112,6 +123,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 192280,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3652,
@@ -121,6 +133,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 282854,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2401,
@@ -130,6 +143,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 5841713,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3521,
@@ -139,6 +153,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 443561,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3067,
@@ -148,6 +163,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 34391,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2915,
@@ -157,6 +173,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 7678552,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 3357,
@@ -166,6 +183,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 63810,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 3319,
@@ -175,6 +193,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 1050642,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2577,
@@ -184,6 +203,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 4288726,
+      "bothType" : true,
       "coverUrl" : null
     } ]
   }

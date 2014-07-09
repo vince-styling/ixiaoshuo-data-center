@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42301.jpg",
       "updateStatus" : 1,
       "capacity" : 441549,
-      "lastUpdateTime" : "2013-12-26 06:05:58"
+      "lastUpdateTime" : "2013-12-26 06:05:58",
+      "bothType" : false
     }, {
       "id" : 2416,
       "name" : "临时情人",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19859.jpg",
       "updateStatus" : 2,
       "capacity" : 2326645,
-      "lastUpdateTime" : "2013-12-26 05:53:02"
+      "lastUpdateTime" : "2013-12-26 05:53:02",
+      "bothType" : false
     }, {
       "id" : 3411,
       "name" : "孽障情缘",
@@ -28,7 +30,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 565415,
-      "lastUpdateTime" : "2013-12-26 05:16:07"
+      "lastUpdateTime" : "2013-12-26 05:16:07",
+      "bothType" : false
     }, {
       "id" : 2851,
       "name" : "妃藏匈奴",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44686.jpg",
       "updateStatus" : 1,
       "capacity" : 3548616,
-      "lastUpdateTime" : "2013-12-26 04:04:49"
+      "lastUpdateTime" : "2013-12-26 04:04:49",
+      "bothType" : false
     }, {
       "id" : 3436,
       "name" : "《侦探日记》",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41506.jpg",
       "updateStatus" : 1,
       "capacity" : 23089,
-      "lastUpdateTime" : "2013-12-26 03:51:07"
+      "lastUpdateTime" : "2013-12-26 03:51:07",
+      "bothType" : false
     }, {
       "id" : 2806,
       "name" : "浮尘之爱",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45745.jpg",
       "updateStatus" : 1,
       "capacity" : 7352685,
-      "lastUpdateTime" : "2013-12-26 02:50:48"
+      "lastUpdateTime" : "2013-12-26 02:50:48",
+      "bothType" : false
     }, {
       "id" : 2160,
       "name" : "修神传",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22451.jpg",
       "updateStatus" : 1,
       "capacity" : 7864059,
-      "lastUpdateTime" : "2013-12-26 02:28:01"
+      "lastUpdateTime" : "2013-12-26 02:28:01",
+      "bothType" : false
     }, {
       "id" : 2591,
       "name" : "泪水飘落的日子",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45739.jpg",
       "updateStatus" : 1,
       "capacity" : 9581245,
-      "lastUpdateTime" : "2013-12-26 02:11:40"
+      "lastUpdateTime" : "2013-12-26 02:11:40",
+      "bothType" : false
     }, {
       "id" : 3689,
       "name" : "让我爱你",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45443.jpg",
       "updateStatus" : 1,
       "capacity" : 612355,
-      "lastUpdateTime" : "2013-12-26 01:36:30"
+      "lastUpdateTime" : "2013-12-26 01:36:30",
+      "bothType" : false
     }, {
       "id" : 3727,
       "name" : "繁华错",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44108.jpg",
       "updateStatus" : 1,
       "capacity" : 54591,
-      "lastUpdateTime" : "2013-12-25 21:25:34"
+      "lastUpdateTime" : "2013-12-25 21:25:34",
+      "bothType" : true
     }, {
       "id" : 3007,
       "name" : "醉逍遥",
@@ -92,7 +102,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 5619045,
-      "lastUpdateTime" : "2013-12-25 21:09:35"
+      "lastUpdateTime" : "2013-12-25 21:09:35",
+      "bothType" : false
     }, {
       "id" : 2535,
       "name" : "素锦流年祭",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21602.jpg",
       "updateStatus" : 1,
       "capacity" : 8955957,
-      "lastUpdateTime" : "2013-12-25 21:00:07"
+      "lastUpdateTime" : "2013-12-25 21:00:07",
+      "bothType" : true
     }, {
       "id" : 3404,
       "name" : "妖魅公主爱上邪魅王子",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42181.jpg",
       "updateStatus" : 1,
       "capacity" : 374593,
-      "lastUpdateTime" : "2013-12-25 20:43:56"
+      "lastUpdateTime" : "2013-12-25 20:43:56",
+      "bothType" : true
     }, {
       "id" : 3684,
       "name" : "云之月痕",
@@ -116,7 +129,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 136899,
-      "lastUpdateTime" : "2013-12-25 20:34:45"
+      "lastUpdateTime" : "2013-12-25 20:34:45",
+      "bothType" : false
     }, {
       "id" : 3614,
       "name" : "二八不婚",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46898.jpg",
       "updateStatus" : 1,
       "capacity" : 189712,
-      "lastUpdateTime" : "2013-12-25 18:57:10"
+      "lastUpdateTime" : "2013-12-25 18:57:10",
+      "bothType" : false
     }, {
       "id" : 2589,
       "name" : "弑神之巅",
@@ -132,7 +147,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 5378487,
-      "lastUpdateTime" : "2013-12-25 18:41:17"
+      "lastUpdateTime" : "2013-12-25 18:41:17",
+      "bothType" : true
     }, {
       "id" : 2461,
       "name" : "我和僵尸有个约会",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44874.jpg",
       "updateStatus" : 1,
       "capacity" : 7168915,
-      "lastUpdateTime" : "2013-12-25 18:18:50"
+      "lastUpdateTime" : "2013-12-25 18:18:50",
+      "bothType" : true
     }, {
       "id" : 2503,
       "name" : "真实的选择",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46078.jpg",
       "updateStatus" : 1,
       "capacity" : 7639647,
-      "lastUpdateTime" : "2013-12-25 17:12:52"
+      "lastUpdateTime" : "2013-12-25 17:12:52",
+      "bothType" : false
     }, {
       "id" : 2983,
       "name" : "白衣赋之殇灵卷",
@@ -156,7 +174,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 3809644,
-      "lastUpdateTime" : "2013-12-25 17:04:46"
+      "lastUpdateTime" : "2013-12-25 17:04:46",
+      "bothType" : true
     }, {
       "id" : 2880,
       "name" : "卿本红颜之妃常杀手",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45927.jpg",
       "updateStatus" : 1,
       "capacity" : 8986045,
-      "lastUpdateTime" : "2013-12-25 17:00:32"
+      "lastUpdateTime" : "2013-12-25 17:00:32",
+      "bothType" : false
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "summary" : "当你穿越到秦时明月里你会怎么做？你会仗着有挂，打败卫庄？你会因为懂剧情而各种帮忙？你会不让月儿被捉走",
       "updateStatus" : 1,
       "capacity" : 1426294,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : true
     }, {
       "id" : 3226,
       "name" : "奇迹少年",
@@ -20,7 +21,8 @@
       "summary" : "与人界隔离的A市里，生活着异能者这一种族的人类。万年难遇的异能——奇迹降临。青年X用奇迹偷走了十万人",
       "updateStatus" : 1,
       "capacity" : 29968,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3422,
       "name" : "五十弦",
@@ -28,7 +30,8 @@
       "summary" : "这一生，古夏好最大的心愿就是一生幸福。06年遇到于锡酒，08年以第三者插足结束。汶川的一场地震她遇上",
       "updateStatus" : 1,
       "capacity" : 655975,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2087,
       "name" : "婳诡录",
@@ -36,7 +39,8 @@
       "summary" : "那一日，我缓缓独行于风雪漫天的寂寥街上，却不曾想，又遇见了你。——题记通俗版：吴为善本以为自己就是一",
       "updateStatus" : 1,
       "capacity" : 8826618,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3060,
       "name" : "问世间节操为何物",
@@ -44,7 +48,8 @@
       "summary" : "问世间节操为何物，直教音久流随手乱丢--每一个没节操的男人背后都有一堆忙着帮他捡节操然后渐渐把自己的",
       "updateStatus" : 1,
       "capacity" : 183404,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 3190,
       "name" : "仙侠之倾世绝恋",
@@ -52,7 +57,8 @@
       "summary" : "原来，自己的所有付出，都换不回他的一颗真心。曾今的朝夕相伴，点点滴滴，却被他一句话否决了。为了天下，",
       "updateStatus" : 1,
       "capacity" : 597588,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2761,
       "name" : "德伯家的苔丝",
@@ -60,7 +66,8 @@
       "summary" : "苔丝是德伯家的一个仆人，每天都努力的干活，十分的勤劳，也十分的能吃苦，他在德伯家里吃尽了苦头，觉得再",
       "updateStatus" : 1,
       "capacity" : 6513666,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3049,
       "name" : "做什么公主，来做皇后吧",
@@ -68,7 +75,8 @@
       "summary" : "谁说女子不如男，低调而已；谁说女子见识短，守拙而已。一个是侄子，从没叫过她姑姑。一个是如儿子般养大的",
       "updateStatus" : 1,
       "capacity" : 148898,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3290,
       "name" : "婚然厚爱",
@@ -76,7 +84,8 @@
       "summary" : "本以为没了慕湛西，生活就会安稳了吧！可是还冒出个了顾行止，不过就让假装了一次男朋友，可这厮倒好，直接",
       "updateStatus" : 1,
       "capacity" : 38920,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3075,
       "name" : "仅对你依恋",
@@ -84,7 +93,8 @@
       "summary" : "她说：有一些伤痛真的很沉重，原来以为的一切，是那么不堪一击。当你再一次出现我对你的思念再也无法隐藏，",
       "updateStatus" : 1,
       "capacity" : 98351,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3580,
       "name" : "槐花吟",
@@ -92,7 +102,8 @@
       "summary" : "‘槐花树下，那个明目美丽的海丽笑的很开心，她对着我说，姚悦，我好像怀孕了，她用其一生的温柔抚摸着自己",
       "updateStatus" : 1,
       "capacity" : 25784,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2680,
       "name" : "若要爱，非你不可",
@@ -100,7 +111,8 @@
       "summary" : "一场岁月变换中，没有人可以毫发无损的走到年老。曾小葵也一样，只是她比较幸运的在可能要熬不下的时节遇上",
       "updateStatus" : 1,
       "capacity" : 4269904,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3365,
       "name" : "夜已阑珊",
@@ -108,7 +120,8 @@
       "summary" : "女主小白，男主腹黑。",
       "updateStatus" : 1,
       "capacity" : 52599,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3119,
       "name" : "还珠之浴火重生",
@@ -116,7 +129,8 @@
       "summary" : "大家好，我是小薇，这是我的新坑，希望大家能够支持，我的第一个坑还没填完，那篇“我们之间的爱情如空气”",
       "updateStatus" : 1,
       "capacity" : 98499,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3280,
       "name" : "轻舞离歌",
@@ -124,7 +138,8 @@
       "summary" : "一朝贪念，步步沦陷，情蛊穿肠，举盏无言。却怎奈何，任旧情难自弃，任倾尽一生，终化为荒野一柸黄土，只换",
       "updateStatus" : 1,
       "capacity" : 719807,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3097,
       "name" : "穿越之丑凤倾城",
@@ -132,7 +147,8 @@
       "summary" : "她的样貌奇丑无比，脸上丑陋的图案使她被众人冷眼相看，就连亲身父母也嫌弃她的无奈，她的恨，她的痛，没有",
       "updateStatus" : 1,
       "capacity" : 208045,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3599,
       "name" : "无声梦流水",
@@ -140,7 +156,8 @@
       "summary" : "伴随着地狱之火，湮灭的一切，解开所有关于情的悲悯。岁月无声，掷地有声！",
       "updateStatus" : 1,
       "capacity" : 12877,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3216,
       "name" : "渡魂斋",
@@ -148,7 +165,8 @@
       "summary" : "鬼差说，彼岸幽冥会收藏你的记忆，可是舍子往生却会连你深刻在骨血中的情都剥离……冥界往生使手上有一本往",
       "updateStatus" : 1,
       "capacity" : 152878,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3195,
       "name" : "绝妃善类：倾城妖狐魅天下",
@@ -156,7 +174,8 @@
       "summary" : "七千年前，他偷走了她的心，万劫不复。七千年后，他苦苦等待，她却完全把他忘记。他愿颠覆天下，只为换她笑",
       "updateStatus" : 1,
       "capacity" : 521681,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 3052,
       "name" : "林间季雨青冢",
@@ -164,7 +183,8 @@
       "summary" : "架空历史江湖情缘前世今生——————飞花缱绻，落叶缠绵。我愿与你相忘于江湖，便得此生不见。留我一人在",
       "updateStatus" : 1,
       "capacity" : 113765,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     } ]
   }
 }

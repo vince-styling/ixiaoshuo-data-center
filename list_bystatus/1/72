@@ -12,7 +12,8 @@
       "summary" : "白色的病房门被人吱呀一身打开“安德烈？”白媛有些开心地抬起头却见一位长相极为英俊的商人模样的人站在门",
       "updateStatus" : 1,
       "capacity" : 687268,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3437,
       "name" : "北方有佳人",
@@ -20,7 +21,8 @@
       "summary" : "世上最遗憾的莫过于对的时间遇到错的人。他是一朝国破的皇子，她是从小颠沛流离的烟花女子。他们皆是这个世",
       "updateStatus" : 1,
       "capacity" : 59355,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3307,
       "name" : "在天台遥望幸福",
@@ -28,7 +30,8 @@
       "summary" : "一粒蒲公英，在风中静静飞舞，暮光淡淡地洒落，落在它洁白的羽翼上。这光，好温暖，想要再靠近一点，却永远",
       "updateStatus" : 1,
       "capacity" : 131777,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3629,
       "name" : "以歌为名，为爱铭志",
@@ -36,7 +39,8 @@
       "summary" : "一首歌曲，一个故事。世间唯有亲情最真挚，友情最温暖，爱情最铭心。为爱我和我爱的人写故事。珍惜他们的爱",
       "updateStatus" : 1,
       "capacity" : 53330,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3105,
       "name" : "花心总裁拜金娇妻",
@@ -44,7 +48,8 @@
       "summary" : "恨爱系列凌彦天：21岁，既是凌氏集团的总裁，又是阎门的老大。冷酷无情的男人，在他眼里女人除了用来暖床",
       "updateStatus" : 1,
       "capacity" : 55902,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3474,
       "name" : "穿越还珠之乾隆是我的",
@@ -52,7 +57,8 @@
       "summary" : "上官轩觉得他这辈子都没这么倒霉过，他只不过是自恋了些，爱美了些……可是老天为毛让他一觉醒来就发现自己",
       "updateStatus" : 1,
       "capacity" : 31868,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3563,
       "name" : "苏诺传奇",
@@ -60,7 +66,8 @@
       "summary" : "苏诺的经历可谓波折不堪，突如其来的家变，绝处逢生的追杀，被逼无奈入宫为侍女，出乎意料被糠糟太子（秦志",
       "updateStatus" : 1,
       "capacity" : 75231,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3293,
       "name" : "穿越之未知数",
@@ -68,7 +75,8 @@
       "summary" : "穿越什么的，不好玩，切记切记",
       "updateStatus" : 1,
       "capacity" : 163315,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3712,
       "name" : "夜空泛曲",
@@ -76,7 +84,8 @@
       "summary" : "夜空泛曲这是一部很好的作品。",
       "updateStatus" : 1,
       "capacity" : 55242,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 3522,
       "name" : "夏至的小丑",
@@ -84,7 +93,8 @@
       "summary" : "少年的心酸成长史",
       "updateStatus" : 1,
       "capacity" : 59494,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3228,
       "name" : "擎世圣王",
@@ -92,7 +102,8 @@
       "summary" : "少年偶获最强内丹，从此一步登天，汇聚所有职业，踏平十方，称霸十界，缔造不朽传奇！",
       "updateStatus" : 1,
       "capacity" : 213253,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3721,
       "name" : "这个是妖精大人",
@@ -100,7 +111,8 @@
       "summary" : "魔法少女驾到，骑着扫帚，带着黑猫，一袭魔法黑袍，天降而下，读心少年悲从何见？少年呐，带着你读心的本领",
       "updateStatus" : 1,
       "capacity" : 27756,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 3332,
       "name" : "不会失忆的爱",
@@ -108,7 +120,8 @@
       "summary" : "他是她第一个动心的男生，可他们却有缘无分，后来的他们又将怎样下去？她与他只有几面之缘，可却与他有了情",
       "updateStatus" : 1,
       "capacity" : 166135,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3233,
       "name" : "那一季、折断的羽翼",
@@ -116,7 +129,8 @@
       "summary" : "在演艺圈里，有两位很特别的艺人，他们性情刚烈，不受人摆布，他们之间会发生怎样的故事？————————",
       "updateStatus" : 1,
       "capacity" : 87989,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : true
     }, {
       "id" : 2231,
       "name" : "女巫时节",
@@ -124,7 +138,8 @@
       "summary" : "一个以巫术传承的家族，经历着一个又一个的时代。",
       "updateStatus" : 1,
       "capacity" : 6754983,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3623,
       "name" : "惊醒一袭清梦",
@@ -132,7 +147,8 @@
       "summary" : "本是豪门千金，梦中穿越，一个个看似完美的男人从她的眼前出现。本以为自己坐拥美男却不料上天赋予自己的使",
       "updateStatus" : 1,
       "capacity" : 41022,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3256,
       "name" : "总裁大人我会乖",
@@ -140,7 +156,8 @@
       "summary" : "有时候，爱情不是日久见真情，也不一定不能一见钟情。雪怡，她是一个很漂亮的贵族小姐，她原本和庄晨轩是不",
       "updateStatus" : 1,
       "capacity" : 298354,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3089,
       "name" : "遇见青春时，我还是个胖子",
@@ -148,7 +165,8 @@
       "summary" : "八年前陈希恒和胖妞苏秋语瞒着所有人谈了一场恋爱，但是少年的虚荣最终摧毁了薄如蝉翼的爱情。八年后再次相",
       "updateStatus" : 1,
       "capacity" : 984166,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3342,
       "name" : "我视你如毛线",
@@ -156,7 +174,8 @@
       "summary" : "“你干什么？！你脱，你再脱我就跟你急！哎哎不要脸了你这是？”“磊子哥，摸摸这，一腔热血全是为你流着呢",
       "updateStatus" : 1,
       "capacity" : 223328,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 3163,
       "name" : "最初与最后",
@@ -164,7 +183,8 @@
       "summary" : "什么样的爱情才能天长地久，我们总以为，只要相爱，在一起便是很容易的事情，我们总以为，只要相爱，白发苍",
       "updateStatus" : 1,
       "capacity" : 212476,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     } ]
   }
 }

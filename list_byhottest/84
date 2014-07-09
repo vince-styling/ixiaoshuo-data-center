@@ -12,7 +12,8 @@
       "summary" : "一个公主，一个丑小鸭，两个完全不同背景的人，唯一相同的地方大概就是她们的善良了吧。但是，命运却和她们",
       "updateStatus" : 1,
       "capacity" : 94682,
-      "readerCount" : 137
+      "readerCount" : 137,
+      "bothType" : false
     }, {
       "id" : 3248,
       "name" : "玄斧",
@@ -20,7 +21,8 @@
       "summary" : "爱恨情仇，少年将军与公主喜结连理，身不由己，忠魂葬于麒麟洞。留下孤儿寡母相依为命，二十年后，家仇国恨",
       "updateStatus" : 1,
       "capacity" : 36583,
-      "readerCount" : 136
+      "readerCount" : 136,
+      "bothType" : false
     }, {
       "id" : 3674,
       "name" : "爱上闷骚姐",
@@ -28,7 +30,8 @@
       "summary" : "杯中的红酒，摇晃着迷乱的人生。他狼一样的身体和欲望，淹没在灯红酒绿下的女人中。她历经岁月的沧桑和沉淀",
       "updateStatus" : 1,
       "capacity" : 85312,
-      "readerCount" : 132
+      "readerCount" : 132,
+      "bothType" : true
     }, {
       "id" : 3722,
       "name" : "夏日妍妍正好眠",
@@ -36,7 +39,8 @@
       "summary" : "每天走过的长坡，每日偷看的门。他不知道她的情，她不明白他的意。明明是不熟识的人，却可以因为时间而改变",
       "updateStatus" : 1,
       "capacity" : 37456,
-      "readerCount" : 132
+      "readerCount" : 132,
+      "bothType" : false
     }, {
       "id" : 3265,
       "name" : "如果，没有你",
@@ -44,7 +48,8 @@
       "summary" : "生命中，总会有不同的人出现，引导你走向不同的旅程。我十八岁的时候，老妈握着我的双手切完蛋糕宣告了我的",
       "updateStatus" : 1,
       "capacity" : 179556,
-      "readerCount" : 130
+      "readerCount" : 130,
+      "bothType" : false
     }, {
       "id" : 3104,
       "name" : "像仙人掌那样活着",
@@ -52,7 +57,8 @@
       "summary" : "“有人想说却不说，有人想做却没做。却不知想到，也许是“做”或“说”最佳的时机。”",
       "updateStatus" : 1,
       "capacity" : 44591,
-      "readerCount" : 127
+      "readerCount" : 127,
+      "bothType" : false
     }, {
       "id" : 3386,
       "name" : "云水竹心",
@@ -60,7 +66,8 @@
       "summary" : "一日心期千劫在，前世今生几度情。寻常风月，等闲笑谈，算而今，一心难觅。拟把东风唤与，尽欢樽前，怎使得",
       "updateStatus" : 1,
       "capacity" : 314570,
-      "readerCount" : 125
+      "readerCount" : 125,
+      "bothType" : false
     }, {
       "id" : 3340,
       "name" : "枫叶荻花秋瑟瑟",
@@ -68,7 +75,8 @@
       "summary" : "阴谋算计，你来我去，算尽一切却漏算了自己的心意，看风流邪魅云三少携手古灵精怪小叶子，管它江湖朝堂腥风",
       "updateStatus" : 1,
       "capacity" : 75021,
-      "readerCount" : 124
+      "readerCount" : 124,
+      "bothType" : false
     }, {
       "id" : 3676,
       "name" : "时光少女",
@@ -76,7 +84,8 @@
       "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容",
       "updateStatus" : 1,
       "capacity" : 26009,
-      "readerCount" : 124
+      "readerCount" : 124,
+      "bothType" : true
     }, {
       "id" : 3407,
       "name" : "尽芳华",
@@ -84,7 +93,8 @@
       "summary" : "她是璇玥后人，还是第一公子？她是将门之后，还是天下名妓？一代宫主，惊才绝艳。那是一段风云突变的历史，",
       "updateStatus" : 1,
       "capacity" : 150633,
-      "readerCount" : 121
+      "readerCount" : 121,
+      "bothType" : false
     }, {
       "id" : 3637,
       "name" : "万里月明",
@@ -92,7 +102,8 @@
       "summary" : "明宪宗与大他十六岁的万贵妃之间的故事……不过，万贵妃是穿越过去的万贵妃，现在要讲的，也是宪宗还没有成",
       "updateStatus" : 1,
       "capacity" : 697700,
-      "readerCount" : 119
+      "readerCount" : 119,
+      "bothType" : false
     }, {
       "id" : 3172,
       "name" : "竹马太腹黑",
@@ -100,7 +111,8 @@
       "summary" : "这是一对青梅竹马的故事，男主腹黑，女主有些神经大条但是绝对不傻。本文不虐，如有亲不喜，请绕道。",
       "updateStatus" : 1,
       "capacity" : 80360,
-      "readerCount" : 118
+      "readerCount" : 118,
+      "bothType" : false
     }, {
       "id" : 3385,
       "name" : "修仙之凤舞九天",
@@ -108,7 +120,8 @@
       "summary" : "呵，什么废物体质，明明是修仙圣体，圣灵体质。敢说我是废物，那我就让你们付出代价，让你们看看到底谁才是",
       "updateStatus" : 1,
       "capacity" : 16074,
-      "readerCount" : 116
+      "readerCount" : 116,
+      "bothType" : false
     }, {
       "id" : 3053,
       "name" : "俏皮男女世外生活记",
@@ -116,7 +129,8 @@
       "summary" : "红尘繁华，但身不由己；那么世外生活如何......",
       "updateStatus" : 1,
       "capacity" : 52593,
-      "readerCount" : 114
+      "readerCount" : 114,
+      "bothType" : false
     }, {
       "id" : 3574,
       "name" : "祁家楼外楼",
@@ -124,7 +138,8 @@
       "summary" : "她在楼外楼很久了，久的就她自己都记不得了。当年时候，她把算盘打的啪啪乱响。精打细算的过着日子。她以为",
       "updateStatus" : 1,
       "capacity" : 30508,
-      "readerCount" : 110
+      "readerCount" : 110,
+      "bothType" : true
     }, {
       "id" : 3682,
       "name" : "军匪，温柔点！",
@@ -132,7 +147,8 @@
       "summary" : "雷冉东在会所第一次见到白多多时，是她把李一鸣裆部给踹了，印象颇深。白多多一堆艳史被医院里的同事传的沸",
       "updateStatus" : 1,
       "capacity" : 124802,
-      "readerCount" : 109
+      "readerCount" : 109,
+      "bothType" : false
     }, {
       "id" : 3132,
       "name" : "三界悲诳录",
@@ -140,7 +156,8 @@
       "summary" : "三界风云暗涌，英雄们即将相遇，铁血征途！离别，无奈，友情，三界架空系列第一部，开启",
       "updateStatus" : 1,
       "capacity" : 23899,
-      "readerCount" : 107
+      "readerCount" : 107,
+      "bothType" : false
     }, {
       "id" : 3742,
       "name" : "汝心计",
@@ -148,7 +165,8 @@
       "summary" : "林美月性格软弱，认识她的都知道。但有一天，突然发现自已穿越到了一个不知明的朝代，怎么办？是软弱到底还",
       "updateStatus" : 1,
       "capacity" : 180667,
-      "readerCount" : 105
+      "readerCount" : 105,
+      "bothType" : false
     }, {
       "id" : 3701,
       "name" : "游走的灵魂",
@@ -156,7 +174,8 @@
       "summary" : "深色的夜上演着孤独、落寞生命遇上了未知一个神秘的灵魂来了来自于一个女人的夜梦黑暗退却一个个鲜活的人生",
       "updateStatus" : 1,
       "capacity" : 30975,
-      "readerCount" : 104
+      "readerCount" : 104,
+      "bothType" : true
     }, {
       "id" : 3331,
       "name" : "武警婚约之山东佳人",
@@ -164,7 +183,8 @@
       "summary" : "神秘，偶热，仰慕，暗恋这一路发展下来，似乎都是冥冥中注定的。这一切最终形成了婚约。林刚心中的山东佳人",
       "updateStatus" : 1,
       "capacity" : 29299,
-      "readerCount" : 103
+      "readerCount" : 103,
+      "bothType" : false
     } ]
   }
 }

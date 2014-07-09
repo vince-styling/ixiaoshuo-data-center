@@ -12,7 +12,8 @@
       "summary" : "我从夏天开始写起，我不怎么喜欢说话，唯有用文字去表达我的一切。我曾经把所有的感情都放在画笔里，每天忘",
       "updateStatus" : 1,
       "capacity" : 3888118,
-      "readerCount" : 7224
+      "readerCount" : 7224,
+      "bothType" : false
     }, {
       "id" : 2590,
       "name" : "妖孽男，巫族女",
@@ -20,7 +21,8 @@
       "summary" : "前生，她是被那些人称为中看不中用的傻女人，是被那些人称为恶魔的天才严瑶瑶。的确，她这样的女人对那些人",
       "updateStatus" : 1,
       "capacity" : 9163388,
-      "readerCount" : 7216
+      "readerCount" : 7216,
+      "bothType" : false
     }, {
       "id" : 2747,
       "name" : "天才魔宝：踢走风流爹地",
@@ -28,7 +30,8 @@
       "summary" : "“妈咪……宝贝是怎么来的？”“呃……这个，好像那天妈咪被一只疯狗咬了一口，之后就有你了，宝贝。”“莫",
       "updateStatus" : 1,
       "capacity" : 6103066,
-      "readerCount" : 7215
+      "readerCount" : 7215,
+      "bothType" : true
     }, {
       "id" : 2551,
       "name" : "巧笑嫣然",
@@ -36,7 +39,8 @@
       "summary" : "梦的真实，并不重要中有触目惊心，便好爱の花语，语出惊人嫣然一笑......",
       "updateStatus" : 1,
       "capacity" : 3247740,
-      "readerCount" : 7214
+      "readerCount" : 7214,
+      "bothType" : false
     }, {
       "id" : 3431,
       "name" : "修真女配混末世",
@@ -44,7 +48,8 @@
       "summary" : "李巧玲从楼梯上摔下来后，再次醒来发现：自己竟然穿越成末世文里第一个被女主炮灰了的女配——曲苑。后来又",
       "updateStatus" : 1,
       "capacity" : 409529,
-      "readerCount" : 7212
+      "readerCount" : 7212,
+      "bothType" : false
     }, {
       "id" : 3042,
       "name" : "翼之痛，枫之殇",
@@ -52,7 +57,8 @@
       "summary" : "本人作此作品纯属娱乐，绝无成名之意。（如果写的好成名也不会介意）。这是在高中的时候比较无聊难耐才会想",
       "updateStatus" : 1,
       "capacity" : 1242426,
-      "readerCount" : 7208
+      "readerCount" : 7208,
+      "bothType" : false
     }, {
       "id" : 2365,
       "name" : "网游之嗜血武圣",
@@ -60,7 +66,8 @@
       "summary" : "一个玩世不恭的健身教练一次偶然的见义勇为让他成为了一个超大型网络游戏里呼风唤雨的人物。激情与烈火在燃",
       "updateStatus" : 1,
       "capacity" : 8043315,
-      "readerCount" : 7179
+      "readerCount" : 7179,
+      "bothType" : false
     }, {
       "id" : 2877,
       "name" : "总裁，我只是你的棋子",
@@ -68,7 +75,8 @@
       "summary" : "她爱他，爱得她不认得自己他利用她，利用得自己也忘了爱她在她爱得最深的时候，她决定退出一切的事情，在他",
       "updateStatus" : 1,
       "capacity" : 9059178,
-      "readerCount" : 7175
+      "readerCount" : 7175,
+      "bothType" : false
     }, {
       "id" : 2493,
       "name" : "救个男友回家过关",
@@ -76,7 +84,8 @@
       "summary" : "青春、亮丽、一身好武艺，农家辣妹椰岛打拼，创造了让人羡慕的财富……文弱、睿智，股市高手，富家子弟因爱",
       "updateStatus" : 1,
       "capacity" : 1010948,
-      "readerCount" : 7171
+      "readerCount" : 7171,
+      "bothType" : false
     }, {
       "id" : 2660,
       "name" : "败类黑道",
@@ -84,7 +93,8 @@
       "summary" : "他翻手为云覆手为雨人们谈之色变。他爱扣脚丫子喜好6块钱一包的廉价烟，他从不记仇，有仇当场就报了怕他的",
       "updateStatus" : 1,
       "capacity" : 6894653,
-      "readerCount" : 7140
+      "readerCount" : 7140,
+      "bothType" : false
     }, {
       "id" : 2268,
       "name" : "大卫王",
@@ -92,7 +102,8 @@
       "summary" : "他是以色列历史上最伟大的君王——从一个平凡的牧羊少年，逐步成长，建立了一代丰功霸业！作者用中国传统通",
       "updateStatus" : 1,
       "capacity" : 6828601,
-      "readerCount" : 7138
+      "readerCount" : 7138,
+      "bothType" : false
     }, {
       "id" : 2614,
       "name" : "赤瞳的海盗",
@@ -100,7 +111,8 @@
       "summary" : "这里，是一个和平的世界。没有战火，没有争端。直到两个来自异世界的魔王——黑魔王乌拉斯和白魔王玛尔希在",
       "updateStatus" : 2,
       "capacity" : 9617708,
-      "readerCount" : 7134
+      "readerCount" : 7134,
+      "bothType" : false
     }, {
       "id" : 2697,
       "name" : "堕世之瞳",
@@ -108,7 +120,8 @@
       "summary" : "自天地始辟，混沌初开。逾万年，天地成，是生万物。世间万物皆有定数，此消彼长，轮转又回，而终欣欣向荣。",
       "updateStatus" : 1,
       "capacity" : 6929758,
-      "readerCount" : 7130
+      "readerCount" : 7130,
+      "bothType" : false
     }, {
       "id" : 2199,
       "name" : "选道",
@@ -116,7 +129,8 @@
       "summary" : "无尽寰宇，浩瀚星空。。。金羽抬望宇宙，看见两尊强者正在大气层外生死比斗，强悍的神通激撞在一起，为一片",
       "updateStatus" : 2,
       "capacity" : 6737931,
-      "readerCount" : 7085
+      "readerCount" : 7085,
+      "bothType" : false
     }, {
       "id" : 2420,
       "name" : "双生之恋",
@@ -124,7 +138,8 @@
       "summary" : "一个冷傲决然，一个温暖善良，因为上一代恩怨而纠葛在一起，可笑的兄妹关系。他当她是仇人，她当他是亲人。",
       "updateStatus" : 1,
       "capacity" : 8244314,
-      "readerCount" : 7070
+      "readerCount" : 7070,
+      "bothType" : false
     }, {
       "id" : 2147,
       "name" : "不当神仙也爱你",
@@ -132,7 +147,8 @@
       "summary" : "在现实生活打工的齐曚因一次意外穿越到异世界岚国的道圣派，成为这个门派里大家原来最看不起的小师妹墨雅。",
       "updateStatus" : 2,
       "capacity" : 2395551,
-      "readerCount" : 7065
+      "readerCount" : 7065,
+      "bothType" : false
     }, {
       "id" : 2247,
       "name" : "帝女倾城：痴缠冷面琴王",
@@ -140,7 +156,8 @@
       "summary" : "起弦风雅曾为谁，琴风一度乱人心。——南国公主楚芩恋上了宫中的琴师，心心痴缠，最终成殇……这是个素淡的",
       "updateStatus" : 2,
       "capacity" : 2650376,
-      "readerCount" : 7037
+      "readerCount" : 7037,
+      "bothType" : false
     }, {
       "id" : 2930,
       "name" : "向右转的温暖",
@@ -148,7 +165,8 @@
       "summary" : "他是唐家独子，身世显赫，纵有万般荣耀，也逃不过命运被家族安排的宿命。她是被放弃的私生女，十岁以前也是",
       "updateStatus" : 1,
       "capacity" : 3495397,
-      "readerCount" : 6977
+      "readerCount" : 6977,
+      "bothType" : true
     }, {
       "id" : 2544,
       "name" : "媚色倾城：溺宠蛇蝎毒妃",
@@ -156,7 +174,8 @@
       "summary" : "一个现代的女杀手遭背叛，竟穿越成了宰相府不受宠的小女儿，她那无良老爹为了权势利益狠心将她嫁给了风国有",
       "updateStatus" : 1,
       "capacity" : 8356679,
-      "readerCount" : 6962
+      "readerCount" : 6962,
+      "bothType" : false
     }, {
       "id" : 2141,
       "name" : "一梦入混元",
@@ -164,7 +183,8 @@
       "summary" : "狐不归本是洪荒中的小人物，他不想改变什么，他的目标只是能够活下去，然后回归自我。但是无数的波折，坎坷",
       "updateStatus" : 1,
       "capacity" : 8047247,
-      "readerCount" : 6958
+      "readerCount" : 6958,
+      "bothType" : true
     } ]
   }
 }

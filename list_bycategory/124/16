@@ -12,7 +12,8 @@
       "summary" : "阴谋算计，你来我去，算尽一切却漏算了自己的心意，看风流邪魅云三少携手古灵精怪小叶子，管它江湖朝堂腥风",
       "updateStatus" : 1,
       "capacity" : 75021,
-      "readerCount" : 124
+      "readerCount" : 124,
+      "bothType" : false
     }, {
       "id" : 3637,
       "name" : "万里月明",
@@ -20,7 +21,8 @@
       "summary" : "明宪宗与大他十六岁的万贵妃之间的故事……不过，万贵妃是穿越过去的万贵妃，现在要讲的，也是宪宗还没有成",
       "updateStatus" : 1,
       "capacity" : 697700,
-      "readerCount" : 119
+      "readerCount" : 119,
+      "bothType" : false
     }, {
       "id" : 3053,
       "name" : "俏皮男女世外生活记",
@@ -28,7 +30,8 @@
       "summary" : "红尘繁华，但身不由己；那么世外生活如何......",
       "updateStatus" : 1,
       "capacity" : 52593,
-      "readerCount" : 114
+      "readerCount" : 114,
+      "bothType" : false
     }, {
       "id" : 3574,
       "name" : "祁家楼外楼",
@@ -36,7 +39,8 @@
       "summary" : "她在楼外楼很久了，久的就她自己都记不得了。当年时候，她把算盘打的啪啪乱响。精打细算的过着日子。她以为",
       "updateStatus" : 1,
       "capacity" : 30508,
-      "readerCount" : 110
+      "readerCount" : 110,
+      "bothType" : false
     } ]
   }
 }

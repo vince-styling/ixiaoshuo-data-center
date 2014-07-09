@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3683,
-      "name" : "梧桐花雨：亡颜劫",
-      "updateStatus" : 1,
-      "distance" : 4994,
-      "memberId" : 1652
-    }, {
-      "id" : 2607,
-      "name" : "葬忧散",
-      "updateStatus" : 1,
-      "distance" : 1851,
-      "memberId" : 6960
-    }, {
-      "id" : 3389,
-      "name" : "芙蓉一纸欢",
-      "updateStatus" : 1,
-      "distance" : 8809,
-      "memberId" : 2270
-    }, {
-      "id" : 2120,
-      "name" : "伤情路漫漫",
-      "updateStatus" : 1,
-      "distance" : 4062,
-      "memberId" : 1416
-    }, {
-      "id" : 2432,
-      "name" : "危险游戏：八月仲夏夜未央",
-      "updateStatus" : 1,
-      "distance" : 1994,
-      "memberId" : 7943
-    }, {
-      "id" : 2243,
-      "name" : "独宠之命中注定",
-      "updateStatus" : 1,
-      "distance" : 2554,
-      "memberId" : 1155
-    }, {
-      "id" : 3090,
-      "name" : "两个人的天意",
-      "updateStatus" : 1,
-      "distance" : 9579,
-      "memberId" : 1235
-    }, {
-      "id" : 2939,
-      "name" : "半城月色",
+      "id" : 2196,
+      "name" : "似梦非梦：我的前世今生",
       "updateStatus" : 2,
-      "distance" : 7461,
-      "memberId" : 3249
+      "distance" : 7307,
+      "memberId" : 2157,
+      "bothType" : false
     }, {
-      "id" : 2724,
-      "name" : "陌路：琴音",
+      "id" : 2368,
+      "name" : "相思都门",
       "updateStatus" : 1,
-      "distance" : 1884,
-      "memberId" : 4107
+      "distance" : 9029,
+      "memberId" : 5643,
+      "bothType" : true
     }, {
-      "id" : 2244,
-      "name" : "揽君心：宠姬有阴谋",
-      "updateStatus" : 1,
-      "distance" : 2583,
-      "memberId" : 4205
+      "id" : 2373,
+      "name" : "小子们，上课请勿搞基",
+      "updateStatus" : 2,
+      "distance" : 7196,
+      "memberId" : 7212,
+      "bothType" : false
     }, {
-      "id" : 2710,
-      "name" : "山海妖忆抄",
+      "id" : 3352,
+      "name" : "沁语录",
       "updateStatus" : 1,
-      "distance" : 8236,
-      "memberId" : 1927
+      "distance" : 6306,
+      "memberId" : 4977,
+      "bothType" : false
     }, {
-      "id" : 3461,
-      "name" : "束缚中的约定",
-      "updateStatus" : 1,
-      "distance" : 9610,
-      "memberId" : 4175
+      "id" : 3127,
+      "name" : "重生之轻月浮华",
+      "updateStatus" : 2,
+      "distance" : 9249,
+      "memberId" : 7109,
+      "bothType" : false
     }, {
-      "id" : 2294,
-      "name" : "颠沛流离",
+      "id" : 2521,
+      "name" : "你才奥利奥，你全家都奥利奥",
       "updateStatus" : 1,
-      "distance" : 7970,
-      "memberId" : 3339
+      "distance" : 3702,
+      "memberId" : 7473,
+      "bothType" : true
     }, {
-      "id" : 3675,
-      "name" : "绝世之第一公主",
+      "id" : 2685,
+      "name" : "含蕾",
       "updateStatus" : 1,
-      "distance" : 4770,
-      "memberId" : 8449
+      "distance" : 1968,
+      "memberId" : 6234,
+      "bothType" : false
     }, {
-      "id" : 3616,
-      "name" : "重生商女之总裁请自重",
+      "id" : 2970,
+      "name" : "《存在的烙印》",
       "updateStatus" : 1,
-      "distance" : 7371,
-      "memberId" : 1767
+      "distance" : 6538,
+      "memberId" : 8197,
+      "bothType" : false
     }, {
-      "id" : 2452,
-      "name" : "死亡照相机：末日风暴——血舞",
+      "id" : 2621,
+      "name" : "一路南北",
       "updateStatus" : 1,
-      "distance" : 1474,
-      "memberId" : 3876
+      "distance" : 6067,
+      "memberId" : 3845,
+      "bothType" : true
     }, {
-      "id" : 3387,
-      "name" : "帐中歌，离恨天",
+      "id" : 2934,
+      "name" : "怀海漫成",
       "updateStatus" : 1,
-      "distance" : 5751,
-      "memberId" : 8578
+      "distance" : 8161,
+      "memberId" : 4389,
+      "bothType" : false
     }, {
-      "id" : 2563,
-      "name" : "妖妻毒后",
+      "id" : 3247,
+      "name" : "清帏花色浓",
       "updateStatus" : 1,
-      "distance" : 8190,
-      "memberId" : 6193
+      "distance" : 5165,
+      "memberId" : 6707,
+      "bothType" : true
     }, {
-      "id" : 3558,
-      "name" : "残疾王爷，暴力妃",
+      "id" : 3547,
+      "name" : "寡仁寡义传",
       "updateStatus" : 1,
-      "distance" : 2990,
-      "memberId" : 2457
+      "distance" : 8476,
+      "memberId" : 4283,
+      "bothType" : false
     }, {
-      "id" : 3134,
-      "name" : "山河暮色凉",
+      "id" : 3507,
+      "name" : "血雨腥风恩仇录",
       "updateStatus" : 1,
-      "distance" : 2218,
-      "memberId" : 2920
+      "distance" : 9824,
+      "memberId" : 8458,
+      "bothType" : false
+    }, {
+      "id" : 2852,
+      "name" : "花千世界",
+      "updateStatus" : 1,
+      "distance" : 6345,
+      "memberId" : 6183,
+      "bothType" : false
+    }, {
+      "id" : 2530,
+      "name" : "半城烟雨",
+      "updateStatus" : 1,
+      "distance" : 6778,
+      "memberId" : 8611,
+      "bothType" : true
+    }, {
+      "id" : 2654,
+      "name" : "异能女王改写天书",
+      "updateStatus" : 1,
+      "distance" : 3613,
+      "memberId" : 1163,
+      "bothType" : true
+    }, {
+      "id" : 2834,
+      "name" : "时间逐雨",
+      "updateStatus" : 1,
+      "distance" : 7275,
+      "memberId" : 7055,
+      "bothType" : true
+    }, {
+      "id" : 2486,
+      "name" : "天才少女侦探",
+      "updateStatus" : 1,
+      "distance" : 7790,
+      "memberId" : 8810,
+      "bothType" : true
+    }, {
+      "id" : 2349,
+      "name" : "不相信国",
+      "updateStatus" : 1,
+      "distance" : 8750,
+      "memberId" : 1092,
+      "bothType" : false
+    }, {
+      "id" : 3322,
+      "name" : "爱情倒时差",
+      "updateStatus" : 1,
+      "distance" : 5560,
+      "memberId" : 7741,
+      "bothType" : false
     } ]
   }
 }

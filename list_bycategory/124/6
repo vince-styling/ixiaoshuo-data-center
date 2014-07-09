@@ -12,7 +12,8 @@
       "summary" : "一曲离别伤，铲断了谁的情？他与她的情缘难道就只因那一面而定么？一曲长恨歌，道出深宫多少辛酸往事。无奈",
       "updateStatus" : 1,
       "capacity" : 975600,
-      "readerCount" : 7789
+      "readerCount" : 7789,
+      "bothType" : false
     }, {
       "id" : 2061,
       "name" : "蚀骨妖娆：腹黑夫君狠绝色",
@@ -20,7 +21,8 @@
       "summary" : "她的容貌倾国倾城，素有“半月回眸，颠倒三魂”的传说。她是皇室里最小的皇子，肃杀，果毅。世人都谨记，宁",
       "updateStatus" : 2,
       "capacity" : 6093489,
-      "readerCount" : 7618
+      "readerCount" : 7618,
+      "bothType" : false
     }, {
       "id" : 2878,
       "name" : "孟家有女",
@@ -28,7 +30,8 @@
       "summary" : "她生在一个男尊女卑的时代，同时又生在一个重男轻女的家庭，而唯一可以保护她们母女的父亲，却在自己满月当",
       "updateStatus" : 1,
       "capacity" : 2995406,
-      "readerCount" : 7593
+      "readerCount" : 7593,
+      "bothType" : false
     }, {
       "id" : 2083,
       "name" : "卿本庶女",
@@ -36,7 +39,8 @@
       "summary" : "一次偶然的机会，她得以入宫赏灯，那年她五岁，手提精致小巧的六角蟠螭灯，稚齿婑媠，颜如舜华，粉雕玉琢的",
       "updateStatus" : 2,
       "capacity" : 6646919,
-      "readerCount" : 7527
+      "readerCount" : 7527,
+      "bothType" : false
     }, {
       "id" : 2084,
       "name" : "紫月星尘",
@@ -44,7 +48,8 @@
       "summary" : "音尘绝世，逆曲成殇。紫刹玉出，凤仙夺魂。这本是个传说，传说在神州大陆之外，有一个紫月时空，时空隧道被",
       "updateStatus" : 1,
       "capacity" : 3502710,
-      "readerCount" : 7475
+      "readerCount" : 7475,
+      "bothType" : false
     }, {
       "id" : 2091,
       "name" : "江湖夜雨十年灯之琴剑篇",
@@ -52,7 +57,8 @@
       "summary" : "琴，舒我心，可怜世上几知音。一曲高山随流水，何时子期在我身？随风问古今。剑，言风雨，生死轻言叹唏嘘。",
       "updateStatus" : 1,
       "capacity" : 1474002,
-      "readerCount" : 7415
+      "readerCount" : 7415,
+      "bothType" : true
     }, {
       "id" : 2961,
       "name" : "喜荣华正好",
@@ -60,7 +66,8 @@
       "summary" : "春日游，杏花吹满头。陌上谁家年少？足风流。妾拟将身嫁与，一生休。",
       "updateStatus" : 1,
       "capacity" : 9728310,
-      "readerCount" : 7333
+      "readerCount" : 7333,
+      "bothType" : false
     }, {
       "id" : 2851,
       "name" : "妃藏匈奴",
@@ -68,7 +75,8 @@
       "summary" : "【欢脱版】：半路逃婚纯属意外，刁蛮任性那是秉性难移，苍天庇佑命中桃花却原来是朵奇葩，她不过就是借了他",
       "updateStatus" : 1,
       "capacity" : 3548616,
-      "readerCount" : 7285
+      "readerCount" : 7285,
+      "bothType" : true
     }, {
       "id" : 2550,
       "name" : "醉卧龙榻：刁王夫君你别拽",
@@ -76,7 +84,8 @@
       "summary" : "现代万人追捧的明星服装设计师，偏走霉运，魂穿古代，穿了就穿了罢，一睁眼发现还带了个三个月的球！最重要",
       "updateStatus" : 1,
       "capacity" : 7905854,
-      "readerCount" : 7230
+      "readerCount" : 7230,
+      "bothType" : false
     }, {
       "id" : 3588,
       "name" : "红尘笑",
@@ -84,7 +93,8 @@
       "summary" : "一个拥有优越生活的富家千金，每日过着无忧无虑的生活，可是，一场突来的灾难把一切都打断了，远离家乡，没",
       "updateStatus" : 1,
       "capacity" : 571267,
-      "readerCount" : 6874
+      "readerCount" : 6874,
+      "bothType" : false
     }, {
       "id" : 2612,
       "name" : "女汉子成长史",
@@ -92,7 +102,8 @@
       "summary" : "现代宅女林妙一朝穿回古代学医术战争爆发学花木兰，进军营最终长成女汉子牌将军",
       "updateStatus" : 1,
       "capacity" : 8862370,
-      "readerCount" : 6662
+      "readerCount" : 6662,
+      "bothType" : true
     }, {
       "id" : 2058,
       "name" : "护花三公主：蛊惑美男心",
@@ -100,7 +111,8 @@
       "summary" : "唠叨好色的三公主，冷峻坚毅的忠心侍卫，外表温润内心暴躁的真才子隐神医，三个人的江湖游，各色美人轮番登",
       "updateStatus" : 2,
       "capacity" : 5575195,
-      "readerCount" : 6360
+      "readerCount" : 6360,
+      "bothType" : true
     }, {
       "id" : 2769,
       "name" : "穿越清朝之蓦然回首",
@@ -108,7 +120,8 @@
       "summary" : "不经意间的穿越，演绎了一段让人心动的故事。生活在21世纪的栗夏儿,穿梭在茫茫人海之中,曾经对爱充满幻",
       "updateStatus" : 1,
       "capacity" : 1034754,
-      "readerCount" : 6278
+      "readerCount" : 6278,
+      "bothType" : false
     }, {
       "id" : 2178,
       "name" : "穿越之朔月传奇",
@@ -116,7 +129,8 @@
       "summary" : "一场车祸就那样结束了云枫悲催的人生，在好心的鬼差的帮衬下她穿越来到了金盛帝国开始她新的生活。对于萧朔",
       "updateStatus" : 1,
       "capacity" : 1891698,
-      "readerCount" : 6266
+      "readerCount" : 6266,
+      "bothType" : false
     }, {
       "id" : 3158,
       "name" : "敕勒风云",
@@ -124,7 +138,8 @@
       "summary" : "宫斗，战斗，心斗，其实争来斗去，无非是人心与自己内心在情，权，钱三欲中的纠缠和挣扎。若要真说有宿命论",
       "updateStatus" : 1,
       "capacity" : 1186903,
-      "readerCount" : 6238
+      "readerCount" : 6238,
+      "bothType" : false
     }, {
       "id" : 2244,
       "name" : "揽君心：宠姬有阴谋",
@@ -132,7 +147,8 @@
       "summary" : "他是她要杀的人，也是引起她家破人亡的罪人，可是为她他一次次的妥协，差点成为背负千古骂名的帝王。她错把",
       "updateStatus" : 1,
       "capacity" : 8751144,
-      "readerCount" : 5980
+      "readerCount" : 5980,
+      "bothType" : true
     }, {
       "id" : 2762,
       "name" : "笛吟，离殇 ",
@@ -140,7 +156,8 @@
       "summary" : "倾国系列之五国篇天下五分渐渐生出颓势，五国之间矛盾积压各国不和由来已久。恰逢将乱未乱之时，二十二年满",
       "updateStatus" : 1,
       "capacity" : 9528924,
-      "readerCount" : 5881
+      "readerCount" : 5881,
+      "bothType" : false
     }, {
       "id" : 2943,
       "name" : "落凰",
@@ -148,7 +165,8 @@
       "summary" : "在地狱里轮回台前渡千年里，她可以看得清自己的心，却舍不得这情。天地玄黄，而泉于地下，故名黄泉，孟婆以",
       "updateStatus" : 1,
       "capacity" : 6921439,
-      "readerCount" : 5778
+      "readerCount" : 5778,
+      "bothType" : false
     }, {
       "id" : 2991,
       "name" : "穿越之带着闺蜜去穿越",
@@ -156,7 +174,8 @@
       "summary" : "三人的穿越，注定要为这个世界谱写神话。我们三个不是姐妹却胜似姐妹。但是注定我们会遇到许多的事情。每人",
       "updateStatus" : 1,
       "capacity" : 8539192,
-      "readerCount" : 5625
+      "readerCount" : 5625,
+      "bothType" : false
     }, {
       "id" : 2103,
       "name" : "剑缘三生泪断崖",
@@ -164,7 +183,8 @@
       "summary" : "她爱了三生，无怨无悔，只怪自己没有早些记起他；他一世伤了她的心，用两世的时间去偿还，这份情，还的晚不",
       "updateStatus" : 1,
       "capacity" : 8109578,
-      "readerCount" : 5620
+      "readerCount" : 5620,
+      "bothType" : true
     } ]
   }
 }

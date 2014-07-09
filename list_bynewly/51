@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45666.jpg",
       "updateStatus" : 1,
       "capacity" : 3362581,
-      "lastUpdateTime" : "2013-12-05 09:42:45"
+      "lastUpdateTime" : "2013-12-05 09:42:45",
+      "bothType" : true
     }, {
       "id" : 2753,
       "name" : "妖孽上校找上门",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46510.jpg",
       "updateStatus" : 1,
       "capacity" : 4761748,
-      "lastUpdateTime" : "2013-12-05 09:04:09"
+      "lastUpdateTime" : "2013-12-05 09:04:09",
+      "bothType" : false
     }, {
       "id" : 3083,
       "name" : "情难自禁",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42365.jpg",
       "updateStatus" : 1,
       "capacity" : 1073288,
-      "lastUpdateTime" : "2013-12-05 08:46:52"
+      "lastUpdateTime" : "2013-12-05 08:46:52",
+      "bothType" : true
     }, {
       "id" : 3120,
       "name" : "文科班的屌丝男们",
@@ -36,7 +39,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 55680,
-      "lastUpdateTime" : "2013-12-05 08:00:21"
+      "lastUpdateTime" : "2013-12-05 08:00:21",
+      "bothType" : false
     }, {
       "id" : 3693,
       "name" : "综漫——萝莉女神的养成计划",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46412.jpg",
       "updateStatus" : 1,
       "capacity" : 79899,
-      "lastUpdateTime" : "2013-12-05 07:56:24"
+      "lastUpdateTime" : "2013-12-05 07:56:24",
+      "bothType" : false
     }, {
       "id" : 2620,
       "name" : "CF之黑马突起",
@@ -52,7 +57,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 2605777,
-      "lastUpdateTime" : "2013-12-05 07:39:28"
+      "lastUpdateTime" : "2013-12-05 07:39:28",
+      "bothType" : true
     }, {
       "id" : 2322,
       "name" : "异世至尊红颜",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20365.jpg",
       "updateStatus" : 1,
       "capacity" : 7099514,
-      "lastUpdateTime" : "2013-12-05 07:32:13"
+      "lastUpdateTime" : "2013-12-05 07:32:13",
+      "bothType" : false
     }, {
       "id" : 3221,
       "name" : "极品天骄：邪凤逆天",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47483.jpg",
       "updateStatus" : 1,
       "capacity" : 110598,
-      "lastUpdateTime" : "2013-12-05 06:51:21"
+      "lastUpdateTime" : "2013-12-05 06:51:21",
+      "bothType" : false
     }, {
       "id" : 3337,
       "name" : "旋转的漩涡",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43602.jpg",
       "updateStatus" : 1,
       "capacity" : 46610,
-      "lastUpdateTime" : "2013-12-05 06:35:20"
+      "lastUpdateTime" : "2013-12-05 06:35:20",
+      "bothType" : false
     }, {
       "id" : 3519,
       "name" : "火影.平静的海面上泛起恋爱的浪花",
@@ -84,7 +93,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 72528,
-      "lastUpdateTime" : "2013-12-05 06:32:25"
+      "lastUpdateTime" : "2013-12-05 06:32:25",
+      "bothType" : true
     }, {
       "id" : 2949,
       "name" : "流云蝶",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46334.jpg",
       "updateStatus" : 1,
       "capacity" : 5547496,
-      "lastUpdateTime" : "2013-12-05 06:16:43"
+      "lastUpdateTime" : "2013-12-05 06:16:43",
+      "bothType" : false
     }, {
       "id" : 2941,
       "name" : "饿狼女扑羊记",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47441.jpg",
       "updateStatus" : 1,
       "capacity" : 6186252,
-      "lastUpdateTime" : "2013-12-05 05:43:23"
+      "lastUpdateTime" : "2013-12-05 05:43:23",
+      "bothType" : false
     }, {
       "id" : 2962,
       "name" : "爱与时光终年不遇",
@@ -108,7 +120,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 6110950,
-      "lastUpdateTime" : "2013-12-05 05:42:53"
+      "lastUpdateTime" : "2013-12-05 05:42:53",
+      "bothType" : false
     }, {
       "id" : 3276,
       "name" : "宫心计续集",
@@ -116,7 +129,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 392326,
-      "lastUpdateTime" : "2013-12-05 05:42:25"
+      "lastUpdateTime" : "2013-12-05 05:42:25",
+      "bothType" : false
     }, {
       "id" : 3558,
       "name" : "残疾王爷，暴力妃",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43800.jpg",
       "updateStatus" : 1,
       "capacity" : 303056,
-      "lastUpdateTime" : "2013-12-05 05:31:36"
+      "lastUpdateTime" : "2013-12-05 05:31:36",
+      "bothType" : false
     }, {
       "id" : 3202,
       "name" : "就要你记着",
@@ -132,7 +147,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 20581,
-      "lastUpdateTime" : "2013-12-05 04:37:42"
+      "lastUpdateTime" : "2013-12-05 04:37:42",
+      "bothType" : false
     }, {
       "id" : 2876,
       "name" : "颠邪",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45143.jpg",
       "updateStatus" : 1,
       "capacity" : 3865293,
-      "lastUpdateTime" : "2013-12-05 04:18:18"
+      "lastUpdateTime" : "2013-12-05 04:18:18",
+      "bothType" : false
     }, {
       "id" : 2768,
       "name" : "军校女王：夺心天才战神",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19183.jpg",
       "updateStatus" : 1,
       "capacity" : 1266375,
-      "lastUpdateTime" : "2013-12-05 04:13:33"
+      "lastUpdateTime" : "2013-12-05 04:13:33",
+      "bothType" : true
     }, {
       "id" : 2136,
       "name" : "替身王爷：妖妃有点萌",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16083.jpg",
       "updateStatus" : 1,
       "capacity" : 5827149,
-      "lastUpdateTime" : "2013-12-05 03:46:31"
+      "lastUpdateTime" : "2013-12-05 03:46:31",
+      "bothType" : false
     }, {
       "id" : 3273,
       "name" : "神医皇后",
@@ -164,7 +183,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 43335,
-      "lastUpdateTime" : "2013-12-05 03:41:51"
+      "lastUpdateTime" : "2013-12-05 03:41:51",
+      "bothType" : false
     } ]
   }
 }

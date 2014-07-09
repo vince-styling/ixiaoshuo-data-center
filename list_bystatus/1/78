@@ -12,7 +12,8 @@
       "summary" : "神秘，偶热，仰慕，暗恋这一路发展下来，似乎都是冥冥中注定的。这一切最终形成了婚约。林刚心中的山东佳人",
       "updateStatus" : 1,
       "capacity" : 29299,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3698,
       "name" : "情乱",
@@ -20,7 +21,8 @@
       "summary" : "第二部，文笔会慢慢提高，龟速更文……其他内容就不说了",
       "updateStatus" : 1,
       "capacity" : 34934,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     } ]
   }
 }

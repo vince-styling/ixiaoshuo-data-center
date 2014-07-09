@@ -12,7 +12,8 @@
       "summary" : "本是金枝玉叶的公主，从小却被丢弃于宫外，终见生父颜面，却是要被送往异国和亲。心灰意冷，她已无所求，十",
       "updateStatus" : 2,
       "capacity" : 7792329,
-      "readerCount" : 13356
+      "readerCount" : 13356,
+      "bothType" : false
     }, {
       "id" : 2516,
       "name" : "青春，一场久治不愈的感冒",
@@ -20,7 +21,8 @@
       "summary" : "青春、永远是一场久治不愈的感冒；人生、永远是一场悲喜交加的戏剧。谨以生活的细枝末节纪念我跌跌撞撞却依",
       "updateStatus" : 2,
       "capacity" : 2180419,
-      "readerCount" : 13355
+      "readerCount" : 13355,
+      "bothType" : true
     }, {
       "id" : 2809,
       "name" : "百食",
@@ -28,7 +30,8 @@
       "summary" : "朱阳。藏在娘胎第6个月的时候，母亲赋予的名字。意如红日。自从初恋受过挫折的她，已经习惯了一个人的日子",
       "updateStatus" : 1,
       "capacity" : 8550643,
-      "readerCount" : 13319
+      "readerCount" : 13319,
+      "bothType" : false
     }, {
       "id" : 2779,
       "name" : "匪总与他丢失的肋骨",
@@ -36,7 +39,8 @@
       "summary" : "流氓出身的方言,却考上了大学，成为了老总,他是流氓乎，却有着书卷气息他是文人乎，却充斥着匪气。亦正亦",
       "updateStatus" : 1,
       "capacity" : 1017131,
-      "readerCount" : 13296
+      "readerCount" : 13296,
+      "bothType" : false
     }, {
       "id" : 2367,
       "name" : "爱的嘉年华",
@@ -44,7 +48,8 @@
       "summary" : "“什么？嘉年绘！你凭什么替我去结婚？还是和男的！还是和一个外国男人！你不知道我也是男人嘛？”嘉年华气",
       "updateStatus" : 2,
       "capacity" : 9064000,
-      "readerCount" : 13295
+      "readerCount" : 13295,
+      "bothType" : false
     }, {
       "id" : 2899,
       "name" : "暗恋恋晨色",
@@ -52,7 +57,8 @@
       "summary" : "儿时的青梅竹马未婚夫，伴在自己身旁十多载的师傅，哥哥。当有一天苏绾绾真的要做出选择时，她的下一步路在",
       "updateStatus" : 1,
       "capacity" : 6558436,
-      "readerCount" : 13282
+      "readerCount" : 13282,
+      "bothType" : false
     }, {
       "id" : 2837,
       "name" : "临清一梦",
@@ -60,7 +66,8 @@
       "summary" : "他错了。爱情这东西，果真是不受自己控制的。他越是刻意地回避她，就越发沉沦。他爱她。纵然她是为了别的目",
       "updateStatus" : 1,
       "capacity" : 9500502,
-      "readerCount" : 13275
+      "readerCount" : 13275,
+      "bothType" : false
     }, {
       "id" : 2883,
       "name" : "错殇",
@@ -68,7 +75,8 @@
       "summary" : "本以为只要认真的喜欢就可以打动一个人，却原来只是打动了自己得不到的只能骚动，被偏爱的就是有恃无恐我是",
       "updateStatus" : 1,
       "capacity" : 9446559,
-      "readerCount" : 13258
+      "readerCount" : 13258,
+      "bothType" : false
     }, {
       "id" : 2067,
       "name" : "昔人惜人",
@@ -76,7 +84,8 @@
       "summary" : "一对“悬殊”弯刀，注定了他们不变的情缘；她，孤傲独立；他，冷酷固执；初见面，他冷眼道：“我无意于这场",
       "updateStatus" : 2,
       "capacity" : 8307340,
-      "readerCount" : 13227
+      "readerCount" : 13227,
+      "bothType" : true
     }, {
       "id" : 2402,
       "name" : "请敲门爱情",
@@ -84,7 +93,8 @@
       "summary" : "一场意外让他不敢再爱，拖着残破的身体饱受痛苦与折磨，不哭不笑，过着行尸走肉般的生活。本以为自己就该如",
       "updateStatus" : 1,
       "capacity" : 7265646,
-      "readerCount" : 13215
+      "readerCount" : 13215,
+      "bothType" : false
     }, {
       "id" : 2383,
       "name" : "莫绪",
@@ -92,7 +102,8 @@
       "summary" : "地毯的那一端，不是她，而是“她”！当那个女人腆着肚子来对她耀武扬威的时候，她一败涂地……撕心裂肺的伤",
       "updateStatus" : 1,
       "capacity" : 4873037,
-      "readerCount" : 13206
+      "readerCount" : 13206,
+      "bothType" : true
     }, {
       "id" : 2791,
       "name" : "倩海情深",
@@ -100,7 +111,8 @@
       "summary" : "时间还残留着升学宴里的酒香，耳畔还回响着父母奶奶的叮咛，提着让人想哭的行李，带着几分憧憬，来到了这里",
       "updateStatus" : 1,
       "capacity" : 2183255,
-      "readerCount" : 13201
+      "readerCount" : 13201,
+      "bothType" : false
     }, {
       "id" : 2638,
       "name" : "谊心依旧",
@@ -108,7 +120,8 @@
       "summary" : "初次见面的姜谊心与程砚就剑拔弩张，结果不欢而散继而就是不可预见的几次三番地偶遇，没有一次是相见甚欢然",
       "updateStatus" : 1,
       "capacity" : 4598296,
-      "readerCount" : 13197
+      "readerCount" : 13197,
+      "bothType" : false
     }, {
       "id" : 2764,
       "name" : "桃花款酒落朱弦",
@@ -116,7 +129,8 @@
       "summary" : "桃花开了。终究是开了，我却为这场桃花雨等的苍老了。“公子所画桃花甚好，只是这颜色却暗了些，何不以桃花",
       "updateStatus" : 1,
       "capacity" : 5925417,
-      "readerCount" : 13184
+      "readerCount" : 13184,
+      "bothType" : false
     }, {
       "id" : 2781,
       "name" : "延伸",
@@ -124,7 +138,8 @@
       "summary" : "这是一个由重男轻女引发的故事，重男轻女的形态有多种，谁能把各种形态都出来？主人公就是生活在这样一个环",
       "updateStatus" : 1,
       "capacity" : 2910706,
-      "readerCount" : 13183
+      "readerCount" : 13183,
+      "bothType" : true
     }, {
       "id" : 2298,
       "name" : "重生联盟之绝代风华",
@@ -132,7 +147,8 @@
       "summary" : "厌倦了隐世家族的争斗，她以决绝的方式结束了这一切。却不料……遇上了重生这回事。这一世，她以大联盟宋家",
       "updateStatus" : 1,
       "capacity" : 4686445,
-      "readerCount" : 13166
+      "readerCount" : 13166,
+      "bothType" : false
     }, {
       "id" : 2699,
       "name" : "繁花烬之绝世倾城",
@@ -140,7 +156,8 @@
       "summary" : "繁华满幕之景，离人终是断肠。我们几乎用生命去经历这场红尘之劫，竟是一曲旷世悲歌。冰冷的剑刺破你火热的",
       "updateStatus" : 1,
       "capacity" : 2812515,
-      "readerCount" : 13162
+      "readerCount" : 13162,
+      "bothType" : false
     }, {
       "id" : 2527,
       "name" : "火影同人暗夜帝国",
@@ -148,7 +165,8 @@
       "summary" : "在这个弱肉强食的世界里，我们只有紧紧依靠着彼此才能感受到那微弱的温暖，在这里我们会建立一个属于我们的",
       "updateStatus" : 1,
       "capacity" : 8042919,
-      "readerCount" : 13131
+      "readerCount" : 13131,
+      "bothType" : true
     }, {
       "id" : 2591,
       "name" : "泪水飘落的日子",
@@ -156,7 +174,8 @@
       "summary" : "一段情，两行泪，能否缘定三生？一对孪生姊妹，一曲爱恨悲歌，诉不尽情途之坎坷……两行心酸泪，两情相悦难",
       "updateStatus" : 1,
       "capacity" : 9581245,
-      "readerCount" : 13125
+      "readerCount" : 13125,
+      "bothType" : false
     }, {
       "id" : 2123,
       "name" : "鬼歾",
@@ -164,7 +183,8 @@
       "summary" : "曾经威震六界的一族，却因为背叛，沉默了千年。千年重生后的一切，是否依旧。“嗯，虽然我想起了事情的部分",
       "updateStatus" : 2,
       "capacity" : 7943182,
-      "readerCount" : 13065
+      "readerCount" : 13065,
+      "bothType" : false
     } ]
   }
 }

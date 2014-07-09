@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2584,
-      "name" : "再见，暴君总裁",
-      "updateStatus" : 1,
-      "distance" : 9184,
-      "memberId" : 6906
-    }, {
-      "id" : 2253,
-      "name" : "凤凰斗：刁蛮皇后不从夫",
+      "id" : 2301,
+      "name" : "卿愿与君长相守",
       "updateStatus" : 2,
-      "distance" : 2967,
-      "memberId" : 6211
+      "distance" : 3135,
+      "memberId" : 5463,
+      "bothType" : false
     }, {
-      "id" : 2052,
-      "name" : "总裁，我们始终背道相持",
+      "id" : 2794,
+      "name" : "邪恶之灵",
       "updateStatus" : 1,
-      "distance" : 9893,
-      "memberId" : 6784
+      "distance" : 5742,
+      "memberId" : 7470,
+      "bothType" : false
     }, {
-      "id" : 3127,
-      "name" : "重生之轻月浮华",
+      "id" : 2827,
+      "name" : "时光里的秘密",
+      "updateStatus" : 1,
+      "distance" : 1985,
+      "memberId" : 7161,
+      "bothType" : false
+    }, {
+      "id" : 2748,
+      "name" : "如果邂逅",
+      "updateStatus" : 1,
+      "distance" : 2068,
+      "memberId" : 2523,
+      "bothType" : false
+    }, {
+      "id" : 2470,
+      "name" : "祸水",
       "updateStatus" : 2,
-      "distance" : 977,
-      "memberId" : 2135
+      "distance" : 3828,
+      "memberId" : 8374,
+      "bothType" : false
     }, {
-      "id" : 2538,
-      "name" : "幸福百里",
+      "id" : 3742,
+      "name" : "汝心计",
       "updateStatus" : 1,
-      "distance" : 2551,
-      "memberId" : 3188
+      "distance" : 6251,
+      "memberId" : 1231,
+      "bothType" : true
     }, {
-      "id" : 3429,
-      "name" : "站在你身后为你撑起保护伞",
-      "updateStatus" : 1,
-      "distance" : 3259,
-      "memberId" : 7463
-    }, {
-      "id" : 2920,
-      "name" : "碧色佳人",
-      "updateStatus" : 1,
-      "distance" : 5011,
-      "memberId" : 2568
-    }, {
-      "id" : 3479,
-      "name" : "演艺小巨星",
-      "updateStatus" : 1,
-      "distance" : 1225,
-      "memberId" : 6113
-    }, {
-      "id" : 2585,
-      "name" : "孟璇传奇",
-      "updateStatus" : 1,
-      "distance" : 5057,
-      "memberId" : 6603
-    }, {
-      "id" : 2256,
-      "name" : "穿越东宫之碟中谍",
+      "id" : 2083,
+      "name" : "卿本庶女",
       "updateStatus" : 2,
-      "distance" : 9344,
-      "memberId" : 6237
+      "distance" : 2179,
+      "memberId" : 2005,
+      "bothType" : false
     }, {
-      "id" : 2593,
-      "name" : "凤御圣月洛",
+      "id" : 2334,
+      "name" : "异时空情恋之殿下不要忽悠我",
       "updateStatus" : 1,
-      "distance" : 7093,
-      "memberId" : 8747
+      "distance" : 3628,
+      "memberId" : 7374,
+      "bothType" : true
     }, {
-      "id" : 3217,
-      "name" : "紫倾华羽",
+      "id" : 3057,
+      "name" : "穿越网王之千夜",
       "updateStatus" : 1,
-      "distance" : 1715,
-      "memberId" : 5695
+      "distance" : 7815,
+      "memberId" : 8891,
+      "bothType" : false
     }, {
-      "id" : 3193,
-      "name" : "三生三世，芙蓉幽幽",
+      "id" : 3537,
+      "name" : "倾尽天下，乱世红颜",
+      "updateStatus" : 1,
+      "distance" : 7890,
+      "memberId" : 5802,
+      "bothType" : true
+    }, {
+      "id" : 2371,
+      "name" : "冰世纪的开胃陈",
+      "updateStatus" : 1,
+      "distance" : 1998,
+      "memberId" : 2261,
+      "bothType" : true
+    }, {
+      "id" : 3432,
+      "name" : "我在这里，你在哪",
+      "updateStatus" : 1,
+      "distance" : 5577,
+      "memberId" : 5992,
+      "bothType" : false
+    }, {
+      "id" : 2328,
+      "name" : "江山美男归我管",
+      "updateStatus" : 1,
+      "distance" : 779,
+      "memberId" : 8893,
+      "bothType" : true
+    }, {
+      "id" : 2991,
+      "name" : "穿越之带着闺蜜去穿越",
+      "updateStatus" : 1,
+      "distance" : 4913,
+      "memberId" : 2701,
+      "bothType" : false
+    }, {
+      "id" : 2142,
+      "name" : "修真界疯子",
+      "updateStatus" : 1,
+      "distance" : 1755,
+      "memberId" : 8287,
+      "bothType" : false
+    }, {
+      "id" : 2344,
+      "name" : "枫林残恋",
+      "updateStatus" : 1,
+      "distance" : 929,
+      "memberId" : 7833,
+      "bothType" : false
+    }, {
+      "id" : 3268,
+      "name" : "荆棘路之丛生荆棘",
+      "updateStatus" : 1,
+      "distance" : 9651,
+      "memberId" : 8842,
+      "bothType" : false
+    }, {
+      "id" : 2555,
+      "name" : "嫁个如意郎君",
+      "updateStatus" : 1,
+      "distance" : 3723,
+      "memberId" : 2480,
+      "bothType" : false
+    }, {
+      "id" : 2123,
+      "name" : "鬼歾",
       "updateStatus" : 2,
-      "distance" : 2295,
-      "memberId" : 7184
+      "distance" : 4760,
+      "memberId" : 1998,
+      "bothType" : false
     }, {
-      "id" : 2444,
-      "name" : "花开花败，半夏未眠",
+      "id" : 2439,
+      "name" : "付卿吾韶华",
       "updateStatus" : 1,
-      "distance" : 4531,
-      "memberId" : 2128
-    }, {
-      "id" : 2060,
-      "name" : "和亲九公主：霸爱拽夫君",
-      "updateStatus" : 2,
-      "distance" : 2525,
-      "memberId" : 7624
-    }, {
-      "id" : 3438,
-      "name" : "叶之于归",
-      "updateStatus" : 1,
-      "distance" : 5187,
-      "memberId" : 7156
-    }, {
-      "id" : 3726,
-      "name" : "君倾如月",
-      "updateStatus" : 1,
-      "distance" : 5698,
-      "memberId" : 2085
-    }, {
-      "id" : 3493,
-      "name" : "此时四季",
-      "updateStatus" : 1,
-      "distance" : 3294,
-      "memberId" : 7089
-    }, {
-      "id" : 3150,
-      "name" : "我是小丫",
-      "updateStatus" : 1,
-      "distance" : 5743,
-      "memberId" : 8875
-    }, {
-      "id" : 3148,
-      "name" : "听说你也爱我",
-      "updateStatus" : 1,
-      "distance" : 6156,
-      "memberId" : 5677
+      "distance" : 1482,
+      "memberId" : 1128,
+      "bothType" : false
     } ]
   }
 }

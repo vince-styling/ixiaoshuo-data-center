@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20305.jpg",
       "updateStatus" : 1,
       "capacity" : 5479737,
-      "lastUpdateTime" : "2013-12-02 20:00:03"
+      "lastUpdateTime" : "2013-12-02 20:00:03",
+      "bothType" : false
     }, {
       "id" : 2371,
       "name" : "冰世纪的开胃陈",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15536.jpg",
       "updateStatus" : 1,
       "capacity" : 9566258,
-      "lastUpdateTime" : "2013-12-02 19:51:40"
+      "lastUpdateTime" : "2013-12-02 19:51:40",
+      "bothType" : false
     }, {
       "id" : 2404,
       "name" : "一场游戏一场梦",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47081.jpg",
       "updateStatus" : 1,
       "capacity" : 1126750,
-      "lastUpdateTime" : "2013-12-02 19:49:06"
+      "lastUpdateTime" : "2013-12-02 19:49:06",
+      "bothType" : false
     }, {
       "id" : 2655,
       "name" : "你是我的终点线",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47374.jpg",
       "updateStatus" : 1,
       "capacity" : 3144368,
-      "lastUpdateTime" : "2013-12-02 19:36:43"
+      "lastUpdateTime" : "2013-12-02 19:36:43",
+      "bothType" : false
     }, {
       "id" : 2496,
       "name" : "赛罗之双生子的羁绊",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46738.jpg",
       "updateStatus" : 1,
       "capacity" : 6776174,
-      "lastUpdateTime" : "2013-12-02 19:33:45"
+      "lastUpdateTime" : "2013-12-02 19:33:45",
+      "bothType" : false
     }, {
       "id" : 2301,
       "name" : "卿愿与君长相守",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18088.jpg",
       "updateStatus" : 2,
       "capacity" : 7811688,
-      "lastUpdateTime" : "2013-12-02 19:31:16"
+      "lastUpdateTime" : "2013-12-02 19:31:16",
+      "bothType" : true
     }, {
       "id" : 2217,
       "name" : "枪芒",
@@ -60,7 +66,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 7312982,
-      "lastUpdateTime" : "2013-12-02 18:33:50"
+      "lastUpdateTime" : "2013-12-02 18:33:50",
+      "bothType" : false
     }, {
       "id" : 3683,
       "name" : "梧桐花雨：亡颜劫",
@@ -68,7 +75,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 155998,
-      "lastUpdateTime" : "2013-12-02 17:15:36"
+      "lastUpdateTime" : "2013-12-02 17:15:36",
+      "bothType" : false
     }, {
       "id" : 2104,
       "name" : "那一世红莲雨",
@@ -76,7 +84,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 2742052,
-      "lastUpdateTime" : "2013-12-02 17:12:46"
+      "lastUpdateTime" : "2013-12-02 17:12:46",
+      "bothType" : false
     }, {
       "id" : 2579,
       "name" : "萧瑟兰阁倚花愁",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46236.jpg",
       "updateStatus" : 1,
       "capacity" : 9588836,
-      "lastUpdateTime" : "2013-12-02 17:11:35"
+      "lastUpdateTime" : "2013-12-02 17:11:35",
+      "bothType" : true
     }, {
       "id" : 3357,
       "name" : "总裁的诱人旧欢",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47404.jpg",
       "updateStatus" : 1,
       "capacity" : 63810,
-      "lastUpdateTime" : "2013-12-02 17:02:01"
+      "lastUpdateTime" : "2013-12-02 17:02:01",
+      "bothType" : false
     }, {
       "id" : 3016,
       "name" : "再见，宝贝",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_5259.jpg",
       "updateStatus" : 1,
       "capacity" : 7382041,
-      "lastUpdateTime" : "2013-12-02 16:36:39"
+      "lastUpdateTime" : "2013-12-02 16:36:39",
+      "bothType" : false
     }, {
       "id" : 2711,
       "name" : "卿本佳人：第一女状元",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47200.jpg",
       "updateStatus" : 1,
       "capacity" : 5966922,
-      "lastUpdateTime" : "2013-12-02 16:25:45"
+      "lastUpdateTime" : "2013-12-02 16:25:45",
+      "bothType" : false
     }, {
       "id" : 3663,
       "name" : "疯狂健身房",
@@ -116,7 +129,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 526840,
-      "lastUpdateTime" : "2013-12-02 15:52:07"
+      "lastUpdateTime" : "2013-12-02 15:52:07",
+      "bothType" : true
     }, {
       "id" : 3110,
       "name" : "三生情缘",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21976.jpg",
       "updateStatus" : 1,
       "capacity" : 213188,
-      "lastUpdateTime" : "2013-12-02 15:45:35"
+      "lastUpdateTime" : "2013-12-02 15:45:35",
+      "bothType" : false
     }, {
       "id" : 2696,
       "name" : "OBA，这个星球属于我！",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21593.jpg",
       "updateStatus" : 2,
       "capacity" : 4518185,
-      "lastUpdateTime" : "2013-12-02 15:20:17"
+      "lastUpdateTime" : "2013-12-02 15:20:17",
+      "bothType" : false
     }, {
       "id" : 3724,
       "name" : "白泽之神",
@@ -140,7 +156,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 93764,
-      "lastUpdateTime" : "2013-12-02 14:40:53"
+      "lastUpdateTime" : "2013-12-02 14:40:53",
+      "bothType" : false
     }, {
       "id" : 2397,
       "name" : "暧昧是青春的爱情",
@@ -148,7 +165,8 @@
       "coverUrl" : "",
       "updateStatus" : 2,
       "capacity" : 1808448,
-      "lastUpdateTime" : "2013-12-02 14:02:42"
+      "lastUpdateTime" : "2013-12-02 14:02:42",
+      "bothType" : false
     }, {
       "id" : 2557,
       "name" : "美人颜如玉",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18322.jpg",
       "updateStatus" : 1,
       "capacity" : 9958804,
-      "lastUpdateTime" : "2013-12-02 09:40:24"
+      "lastUpdateTime" : "2013-12-02 09:40:24",
+      "bothType" : false
     }, {
       "id" : 3307,
       "name" : "在天台遥望幸福",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48046.jpg",
       "updateStatus" : 1,
       "capacity" : 131777,
-      "lastUpdateTime" : "2013-12-02 08:30:05"
+      "lastUpdateTime" : "2013-12-02 08:30:05",
+      "bothType" : false
     } ]
   }
 }

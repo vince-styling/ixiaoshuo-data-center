@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3539,
-      "name" : "恶魔少爷的失宠玩偶",
+      "id" : 3519,
+      "name" : "火影.平静的海面上泛起恋爱的浪花",
       "updateStatus" : 1,
-      "distance" : 5829,
-      "memberId" : 7408
+      "distance" : 7221,
+      "memberId" : 7779,
+      "bothType" : false
     }, {
-      "id" : 2084,
-      "name" : "紫月星尘",
+      "id" : 2646,
+      "name" : "满园紫苏",
       "updateStatus" : 1,
-      "distance" : 4889,
-      "memberId" : 1343
+      "distance" : 3938,
+      "memberId" : 1051,
+      "bothType" : false
     }, {
-      "id" : 3296,
-      "name" : "斜阳晚照",
+      "id" : 2859,
+      "name" : "罪与孽交织的孽爱",
       "updateStatus" : 1,
-      "distance" : 8438,
-      "memberId" : 2531
+      "distance" : 7178,
+      "memberId" : 8674,
+      "bothType" : false
     }, {
-      "id" : 2038,
-      "name" : "凤狂天下：本宫来自特工处",
+      "id" : 3263,
+      "name" : "君臣一心",
       "updateStatus" : 1,
-      "distance" : 7005,
-      "memberId" : 7426
+      "distance" : 1858,
+      "memberId" : 4226,
+      "bothType" : false
     }, {
-      "id" : 2986,
-      "name" : "错过的爱情：总裁放过我",
+      "id" : 3289,
+      "name" : "总裁养成记",
       "updateStatus" : 1,
-      "distance" : 6724,
-      "memberId" : 1254
+      "distance" : 1493,
+      "memberId" : 7281,
+      "bothType" : false
     }, {
-      "id" : 2835,
-      "name" : "凉薄如雪",
+      "id" : 2932,
+      "name" : "肥妞翻身之痴心错付",
       "updateStatus" : 1,
-      "distance" : 4335,
-      "memberId" : 6913
+      "distance" : 9818,
+      "memberId" : 4640,
+      "bothType" : false
     }, {
-      "id" : 3261,
-      "name" : "腐化了的灿烂年华",
+      "id" : 3510,
+      "name" : "妃辞凤阙",
       "updateStatus" : 1,
-      "distance" : 4037,
-      "memberId" : 7269
+      "distance" : 4588,
+      "memberId" : 4568,
+      "bothType" : false
     }, {
-      "id" : 3534,
-      "name" : "风起翼翔雪牵洛楹",
+      "id" : 2764,
+      "name" : "桃花款酒落朱弦",
       "updateStatus" : 1,
-      "distance" : 4275,
-      "memberId" : 1094
+      "distance" : 5364,
+      "memberId" : 3221,
+      "bothType" : false
     }, {
-      "id" : 2813,
-      "name" : "夕雾",
+      "id" : 2073,
+      "name" : "清娆蓝梦",
       "updateStatus" : 1,
-      "distance" : 8070,
-      "memberId" : 6856
+      "distance" : 2537,
+      "memberId" : 2079,
+      "bothType" : false
     }, {
-      "id" : 3663,
-      "name" : "疯狂健身房",
+      "id" : 2755,
+      "name" : "大话漫游",
       "updateStatus" : 1,
-      "distance" : 7233,
-      "memberId" : 5166
+      "distance" : 7950,
+      "memberId" : 8725,
+      "bothType" : true
     }, {
-      "id" : 2315,
-      "name" : "一诺双生劫",
+      "id" : 3660,
+      "name" : "男佣",
       "updateStatus" : 1,
-      "distance" : 8946,
-      "memberId" : 5369
+      "distance" : 2442,
+      "memberId" : 3072,
+      "bothType" : true
     }, {
-      "id" : 2510,
-      "name" : "守卫爱情",
-      "updateStatus" : 2,
-      "distance" : 4867,
-      "memberId" : 4192
-    }, {
-      "id" : 3305,
-      "name" : "混世钉子",
+      "id" : 3222,
+      "name" : "恶魔先生的猫小姐",
       "updateStatus" : 1,
-      "distance" : 2024,
-      "memberId" : 8299
+      "distance" : 871,
+      "memberId" : 4273,
+      "bothType" : true
     }, {
-      "id" : 3336,
-      "name" : "旷世绝恋：洛水弹琴不谈情",
+      "id" : 2526,
+      "name" : "[网王]花菱の樱",
       "updateStatus" : 1,
-      "distance" : 1182,
-      "memberId" : 1910
+      "distance" : 2470,
+      "memberId" : 8699,
+      "bothType" : false
     }, {
-      "id" : 2249,
-      "name" : "古代求生记",
-      "updateStatus" : 2,
-      "distance" : 9999,
-      "memberId" : 3350
-    }, {
-      "id" : 2256,
-      "name" : "穿越东宫之碟中谍",
-      "updateStatus" : 2,
-      "distance" : 3854,
-      "memberId" : 8630
-    }, {
-      "id" : 2940,
-      "name" : "秦汉·流云浮生",
+      "id" : 2915,
+      "name" : "女汉子养成记",
       "updateStatus" : 1,
-      "distance" : 4194,
-      "memberId" : 8154
+      "distance" : 7088,
+      "memberId" : 5941,
+      "bothType" : true
     }, {
-      "id" : 2483,
-      "name" : "雨露之瞳",
+      "id" : 3186,
+      "name" : "贪衾香",
       "updateStatus" : 1,
-      "distance" : 8074,
-      "memberId" : 8849
+      "distance" : 5993,
+      "memberId" : 4573,
+      "bothType" : true
     }, {
-      "id" : 3717,
-      "name" : "异界纵横",
+      "id" : 2555,
+      "name" : "嫁个如意郎君",
       "updateStatus" : 1,
-      "distance" : 2783,
-      "memberId" : 6821
+      "distance" : 5151,
+      "memberId" : 4195,
+      "bothType" : false
     }, {
-      "id" : 2435,
-      "name" : "绝世青龙王",
+      "id" : 2517,
+      "name" : "家教之七色光芒",
       "updateStatus" : 1,
-      "distance" : 3884,
-      "memberId" : 1856
+      "distance" : 7503,
+      "memberId" : 2021,
+      "bothType" : false
+    }, {
+      "id" : 2452,
+      "name" : "死亡照相机：末日风暴——血舞",
+      "updateStatus" : 1,
+      "distance" : 2281,
+      "memberId" : 5004,
+      "bothType" : false
+    }, {
+      "id" : 2267,
+      "name" : "三国恋之不如归去",
+      "updateStatus" : 1,
+      "distance" : 7872,
+      "memberId" : 7486,
+      "bothType" : false
+    }, {
+      "id" : 3357,
+      "name" : "总裁的诱人旧欢",
+      "updateStatus" : 1,
+      "distance" : 3968,
+      "memberId" : 5834,
+      "bothType" : false
     } ]
   }
 }

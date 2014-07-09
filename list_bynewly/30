@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44933.jpg",
       "updateStatus" : 1,
       "capacity" : 85672,
-      "lastUpdateTime" : "2013-12-15 22:36:14"
+      "lastUpdateTime" : "2013-12-15 22:36:14",
+      "bothType" : false
     }, {
       "id" : 2701,
       "name" : "漩涡长门在异界",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41398.jpg",
       "updateStatus" : 2,
       "capacity" : 3202602,
-      "lastUpdateTime" : "2013-12-15 21:37:07"
+      "lastUpdateTime" : "2013-12-15 21:37:07",
+      "bothType" : false
     }, {
       "id" : 3218,
       "name" : "爱之梦",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44715.jpg",
       "updateStatus" : 1,
       "capacity" : 765502,
-      "lastUpdateTime" : "2013-12-15 21:35:58"
+      "lastUpdateTime" : "2013-12-15 21:35:58",
+      "bothType" : false
     }, {
       "id" : 2780,
       "name" : "人生的旅途",
@@ -36,7 +39,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 5851316,
-      "lastUpdateTime" : "2013-12-15 21:34:39"
+      "lastUpdateTime" : "2013-12-15 21:34:39",
+      "bothType" : false
     }, {
       "id" : 2797,
       "name" : "那年夏天残留的支离破碎",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47169.jpg",
       "updateStatus" : 1,
       "capacity" : 5891028,
-      "lastUpdateTime" : "2013-12-15 21:11:12"
+      "lastUpdateTime" : "2013-12-15 21:11:12",
+      "bothType" : false
     }, {
       "id" : 2200,
       "name" : "女权时代",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21080.jpg",
       "updateStatus" : 1,
       "capacity" : 5507505,
-      "lastUpdateTime" : "2013-12-15 20:46:20"
+      "lastUpdateTime" : "2013-12-15 20:46:20",
+      "bothType" : false
     }, {
       "id" : 2712,
       "name" : "人比花娇",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45972.jpg",
       "updateStatus" : 1,
       "capacity" : 5675427,
-      "lastUpdateTime" : "2013-12-15 19:47:45"
+      "lastUpdateTime" : "2013-12-15 19:47:45",
+      "bothType" : false
     }, {
       "id" : 3379,
       "name" : "情簪",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43249.jpg",
       "updateStatus" : 1,
       "capacity" : 108890,
-      "lastUpdateTime" : "2013-12-15 18:29:42"
+      "lastUpdateTime" : "2013-12-15 18:29:42",
+      "bothType" : true
     }, {
       "id" : 2097,
       "name" : "俊俏佳公子",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46060.jpg",
       "updateStatus" : 1,
       "capacity" : 3987784,
-      "lastUpdateTime" : "2013-12-15 10:11:25"
+      "lastUpdateTime" : "2013-12-15 10:11:25",
+      "bothType" : false
     }, {
       "id" : 2198,
       "name" : "花开浮生：花乱莫倾城",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16332.jpg",
       "updateStatus" : 2,
       "capacity" : 3556118,
-      "lastUpdateTime" : "2013-12-15 09:53:10"
+      "lastUpdateTime" : "2013-12-15 09:53:10",
+      "bothType" : false
     }, {
       "id" : 3063,
       "name" : "不负相思意",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47173.jpg",
       "updateStatus" : 1,
       "capacity" : 223368,
-      "lastUpdateTime" : "2013-12-15 09:09:23"
+      "lastUpdateTime" : "2013-12-15 09:09:23",
+      "bothType" : false
     }, {
       "id" : 2970,
       "name" : "《存在的烙印》",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47482.jpg",
       "updateStatus" : 1,
       "capacity" : 8217200,
-      "lastUpdateTime" : "2013-12-15 08:37:18"
+      "lastUpdateTime" : "2013-12-15 08:37:18",
+      "bothType" : false
     }, {
       "id" : 3133,
       "name" : "铁腕揉情：大世传说",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44477.jpg",
       "updateStatus" : 1,
       "capacity" : 272144,
-      "lastUpdateTime" : "2013-12-15 08:11:05"
+      "lastUpdateTime" : "2013-12-15 08:11:05",
+      "bothType" : false
     }, {
       "id" : 2617,
       "name" : "戏里婚外",
@@ -116,7 +129,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 9440568,
-      "lastUpdateTime" : "2013-12-15 08:03:31"
+      "lastUpdateTime" : "2013-12-15 08:03:31",
+      "bothType" : false
     }, {
       "id" : 2261,
       "name" : "血魇如影",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45525.jpg",
       "updateStatus" : 1,
       "capacity" : 4250841,
-      "lastUpdateTime" : "2013-12-15 06:44:47"
+      "lastUpdateTime" : "2013-12-15 06:44:47",
+      "bothType" : true
     }, {
       "id" : 3479,
       "name" : "演艺小巨星",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46406.jpg",
       "updateStatus" : 1,
       "capacity" : 597620,
-      "lastUpdateTime" : "2013-12-15 06:01:32"
+      "lastUpdateTime" : "2013-12-15 06:01:32",
+      "bothType" : false
     }, {
       "id" : 3722,
       "name" : "夏日妍妍正好眠",
@@ -140,7 +156,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 37456,
-      "lastUpdateTime" : "2013-12-15 05:51:23"
+      "lastUpdateTime" : "2013-12-15 05:51:23",
+      "bothType" : true
     }, {
       "id" : 2569,
       "name" : "倾世绝傲：女神修仙传",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46120.jpg",
       "updateStatus" : 1,
       "capacity" : 8962396,
-      "lastUpdateTime" : "2013-12-15 05:10:44"
+      "lastUpdateTime" : "2013-12-15 05:10:44",
+      "bothType" : false
     }, {
       "id" : 3739,
       "name" : "狐媚天下：妖娆娘子腹黑爷",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17201.jpg",
       "updateStatus" : 1,
       "capacity" : 381629,
-      "lastUpdateTime" : "2013-12-15 04:13:18"
+      "lastUpdateTime" : "2013-12-15 04:13:18",
+      "bothType" : false
     }, {
       "id" : 2335,
       "name" : "穿越之我的精彩人生",
@@ -164,7 +183,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 8750433,
-      "lastUpdateTime" : "2013-12-15 04:09:53"
+      "lastUpdateTime" : "2013-12-15 04:09:53",
+      "bothType" : false
     } ]
   }
 }

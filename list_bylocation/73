@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2087,
-      "name" : "婳诡录",
+      "id" : 2683,
+      "name" : "总有一个人能陪我一起老",
       "updateStatus" : 1,
-      "distance" : 7174,
-      "memberId" : 8126
+      "distance" : 7048,
+      "memberId" : 3388,
+      "bothType" : false
     }, {
-      "id" : 2887,
-      "name" : "文飞絮飏",
-      "updateStatus" : 1,
-      "distance" : 5576,
-      "memberId" : 6969
-    }, {
-      "id" : 3596,
-      "name" : "不要在一起",
-      "updateStatus" : 1,
-      "distance" : 6061,
-      "memberId" : 3953
-    }, {
-      "id" : 3020,
-      "name" : "五行武侠",
-      "updateStatus" : 1,
-      "distance" : 7528,
-      "memberId" : 6298
-    }, {
-      "id" : 3457,
-      "name" : "与君行：王妃临天下",
-      "updateStatus" : 1,
-      "distance" : 8964,
-      "memberId" : 6809
-    }, {
-      "id" : 2174,
-      "name" : "华夏神域",
-      "updateStatus" : 1,
-      "distance" : 4796,
-      "memberId" : 8941
-    }, {
-      "id" : 2271,
-      "name" : "沙僧西行记略",
-      "updateStatus" : 1,
-      "distance" : 1960,
-      "memberId" : 6712
-    }, {
-      "id" : 3322,
-      "name" : "爱情倒时差",
-      "updateStatus" : 1,
-      "distance" : 5483,
-      "memberId" : 1965
-    }, {
-      "id" : 3394,
-      "name" : "混混少爷的小气公主",
-      "updateStatus" : 1,
-      "distance" : 8671,
-      "memberId" : 4348
-    }, {
-      "id" : 2428,
-      "name" : "包办婚嫁",
-      "updateStatus" : 1,
-      "distance" : 9487,
-      "memberId" : 1988
-    }, {
-      "id" : 2776,
-      "name" : "时空魔法师",
-      "updateStatus" : 1,
-      "distance" : 4751,
-      "memberId" : 6118
-    }, {
-      "id" : 2691,
-      "name" : "网王之绮梦玥恋",
-      "updateStatus" : 1,
-      "distance" : 9081,
-      "memberId" : 8022
-    }, {
-      "id" : 2444,
-      "name" : "花开花败，半夏未眠",
-      "updateStatus" : 1,
-      "distance" : 3338,
-      "memberId" : 4902
-    }, {
-      "id" : 3708,
-      "name" : "浮生境梦",
-      "updateStatus" : 1,
-      "distance" : 5249,
-      "memberId" : 5952
-    }, {
-      "id" : 2484,
-      "name" : "让我杀了你，爱人",
-      "updateStatus" : 1,
-      "distance" : 5758,
-      "memberId" : 2615
-    }, {
-      "id" : 2877,
-      "name" : "总裁，我只是你的棋子",
-      "updateStatus" : 1,
-      "distance" : 3255,
-      "memberId" : 5286
-    }, {
-      "id" : 2152,
-      "name" : "九转轮回诀",
-      "updateStatus" : 1,
-      "distance" : 5089,
-      "memberId" : 4394
-    }, {
-      "id" : 2651,
-      "name" : "黑暗之争：天道征程",
-      "updateStatus" : 1,
-      "distance" : 3847,
-      "memberId" : 4756
-    }, {
-      "id" : 2296,
-      "name" : "梦穿康熙换乾坤",
-      "updateStatus" : 1,
-      "distance" : 6594,
-      "memberId" : 2241
-    }, {
-      "id" : 2373,
-      "name" : "小子们，上课请勿搞基",
+      "id" : 3314,
+      "name" : "倾城薄雾，似水流年",
       "updateStatus" : 2,
-      "distance" : 2709,
-      "memberId" : 5439
+      "distance" : 5886,
+      "memberId" : 6000,
+      "bothType" : true
+    }, {
+      "id" : 3437,
+      "name" : "北方有佳人",
+      "updateStatus" : 1,
+      "distance" : 5736,
+      "memberId" : 4315,
+      "bothType" : false
+    }, {
+      "id" : 2178,
+      "name" : "穿越之朔月传奇",
+      "updateStatus" : 1,
+      "distance" : 7800,
+      "memberId" : 5025,
+      "bothType" : true
+    }, {
+      "id" : 3119,
+      "name" : "还珠之浴火重生",
+      "updateStatus" : 1,
+      "distance" : 3876,
+      "memberId" : 5780,
+      "bothType" : false
+    }, {
+      "id" : 2919,
+      "name" : "柚子",
+      "updateStatus" : 1,
+      "distance" : 9859,
+      "memberId" : 5318,
+      "bothType" : false
+    }, {
+      "id" : 2995,
+      "name" : "《魔武乱世》",
+      "updateStatus" : 1,
+      "distance" : 2891,
+      "memberId" : 6030,
+      "bothType" : false
+    }, {
+      "id" : 2657,
+      "name" : "票定你",
+      "updateStatus" : 1,
+      "distance" : 1092,
+      "memberId" : 5077,
+      "bothType" : false
+    }, {
+      "id" : 2740,
+      "name" : "熟女的清穿经历",
+      "updateStatus" : 1,
+      "distance" : 9330,
+      "memberId" : 4295,
+      "bothType" : true
+    }, {
+      "id" : 2799,
+      "name" : "雪寻雪见",
+      "updateStatus" : 1,
+      "distance" : 8670,
+      "memberId" : 2052,
+      "bothType" : false
+    }, {
+      "id" : 2406,
+      "name" : "福尔马林的爱情",
+      "updateStatus" : 1,
+      "distance" : 5212,
+      "memberId" : 8266,
+      "bothType" : false
+    }, {
+      "id" : 2924,
+      "name" : "幻想彩虹",
+      "updateStatus" : 1,
+      "distance" : 3925,
+      "memberId" : 6571,
+      "bothType" : false
+    }, {
+      "id" : 3332,
+      "name" : "不会失忆的爱",
+      "updateStatus" : 1,
+      "distance" : 8661,
+      "memberId" : 5894,
+      "bothType" : false
+    }, {
+      "id" : 2944,
+      "name" : "嬗变",
+      "updateStatus" : 1,
+      "distance" : 9714,
+      "memberId" : 1140,
+      "bothType" : false
+    }, {
+      "id" : 3524,
+      "name" : "都溢",
+      "updateStatus" : 1,
+      "distance" : 9561,
+      "memberId" : 6411,
+      "bothType" : false
+    }, {
+      "id" : 3634,
+      "name" : "空间叠合：人鬼恋之我的功夫女友",
+      "updateStatus" : 2,
+      "distance" : 6108,
+      "memberId" : 2104,
+      "bothType" : false
+    }, {
+      "id" : 3617,
+      "name" : "分手条约",
+      "updateStatus" : 1,
+      "distance" : 3597,
+      "memberId" : 4692,
+      "bothType" : false
+    }, {
+      "id" : 2303,
+      "name" : "阎末瑶",
+      "updateStatus" : 1,
+      "distance" : 7464,
+      "memberId" : 1154,
+      "bothType" : false
+    }, {
+      "id" : 2252,
+      "name" : "弃妃之笑看人生一世风流",
+      "updateStatus" : 2,
+      "distance" : 870,
+      "memberId" : 4507,
+      "bothType" : false
+    }, {
+      "id" : 2234,
+      "name" : "启界",
+      "updateStatus" : 1,
+      "distance" : 4352,
+      "memberId" : 3075,
+      "bothType" : false
     } ]
   }
 }

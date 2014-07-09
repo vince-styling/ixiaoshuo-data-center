@@ -12,7 +12,8 @@
       "summary" : "“人的一生会遇到两个人。一个惊艳了时光，一个温柔了岁月。”飞星原以为，人生最大之幸莫过于两者是同一人",
       "updateStatus" : 1,
       "capacity" : 1590496,
-      "readerCount" : 8643
+      "readerCount" : 8643,
+      "bothType" : false
     }, {
       "id" : 3008,
       "name" : "网王之王者领域",
@@ -20,7 +21,8 @@
       "summary" : "清晨的阳光再次照入女子的心灵，重生之后的生活比她想象中的青春激情多了。前一世，她是站在巅峰的高校界乃",
       "updateStatus" : 1,
       "capacity" : 5592090,
-      "readerCount" : 8641
+      "readerCount" : 8641,
+      "bothType" : false
     }, {
       "id" : 3679,
       "name" : "青春情书",
@@ -28,7 +30,8 @@
       "summary" : "因为欺骗，连第三者都不算的单恋者肖雪毅然休学，决定流浪。却不想，在列车上碰到“体验生活”的富家子王凯",
       "updateStatus" : 1,
       "capacity" : 1656214,
-      "readerCount" : 8631
+      "readerCount" : 8631,
+      "bothType" : false
     }, {
       "id" : 2988,
       "name" : "梦想之星",
@@ -36,7 +39,8 @@
       "summary" : "颜紫晨的梦想是成为一名歌手，在一次偶然的机会下变成dreamstar，她的使命是找到其它6名drea",
       "updateStatus" : 1,
       "capacity" : 9149500,
-      "readerCount" : 8614
+      "readerCount" : 8614,
+      "bothType" : false
     }, {
       "id" : 2887,
       "name" : "文飞絮飏",
@@ -44,7 +48,8 @@
       "summary" : "穿越前，她是医药界的新星，却因为家庭问题、情感纠葛魂穿异域；穿越后，相同的医学世家，不同的是，没有了",
       "updateStatus" : 1,
       "capacity" : 8972729,
-      "readerCount" : 8591
+      "readerCount" : 8591,
+      "bothType" : false
     }, {
       "id" : 2648,
       "name" : "浮生琉璃路",
@@ -52,7 +57,8 @@
       "summary" : "时尚编辑不是真实身份，顶尖人物为何消失又惊现，缘分相遇，缘来缘去，一切似乎又回到了原点，但少了些什么",
       "updateStatus" : 1,
       "capacity" : 5542171,
-      "readerCount" : 8589
+      "readerCount" : 8589,
+      "bothType" : false
     }, {
       "id" : 2696,
       "name" : "OBA，这个星球属于我！",
@@ -60,7 +66,8 @@
       "summary" : "她不是西方的神，也不是中土的神仙，她是龙？是凤？是凰？她是借尸还魂的多情女，她是爱上千年寒冰般邪魅大",
       "updateStatus" : 2,
       "capacity" : 4518185,
-      "readerCount" : 8585
+      "readerCount" : 8585,
+      "bothType" : true
     }, {
       "id" : 3025,
       "name" : "EXO之爱上未来的你们",
@@ -68,7 +75,8 @@
       "summary" : "「EXO」十二位花样美男组成的组合；「Future」十二位花样美少女组成的组合，看十二位少年怎样邂逅",
       "updateStatus" : 1,
       "capacity" : 2463043,
-      "readerCount" : 8585
+      "readerCount" : 8585,
+      "bothType" : false
     }, {
       "id" : 2858,
       "name" : "十年一暮夏如尘",
@@ -76,7 +84,8 @@
       "summary" : "简介：安尘不止一次的想过，为什么自己名字里要用这个“尘”，而不是那个“晨”，或者那个“沉”？后来，直",
       "updateStatus" : 1,
       "capacity" : 5578869,
-      "readerCount" : 8544
+      "readerCount" : 8544,
+      "bothType" : true
     }, {
       "id" : 2339,
       "name" : "盗成大神",
@@ -84,7 +93,8 @@
       "summary" : "患有先天性心脏病的夕颜在给自己的弟弟，成功的铺好了所有的路以后，终于还是斗不过命运的残酷，最终死去。",
       "updateStatus" : 1,
       "capacity" : 9735537,
-      "readerCount" : 8542
+      "readerCount" : 8542,
+      "bothType" : false
     }, {
       "id" : 2475,
       "name" : "鬼掌灯",
@@ -92,7 +102,8 @@
       "summary" : "这是一本盗墓、灵异、探险的小说。（这本小说有一半的情节是真实的，根据事实稍微改动而成的，为了避免没必",
       "updateStatus" : 1,
       "capacity" : 4515163,
-      "readerCount" : 8526
+      "readerCount" : 8526,
+      "bothType" : false
     }, {
       "id" : 2222,
       "name" : "仙蝶穿越奇缘",
@@ -100,7 +111,8 @@
       "summary" : "老天待她不薄，给她了一次穿越千年的旅游。“死严狐，竟敢吃老娘的豆腐，看招。”秋蝶伸出拳头朝着严狐打去",
       "updateStatus" : 1,
       "capacity" : 1246388,
-      "readerCount" : 8524
+      "readerCount" : 8524,
+      "bothType" : false
     }, {
       "id" : 2304,
       "name" : "青楼十三妃",
@@ -108,7 +120,8 @@
       "summary" : "她是现代社会的一缕幽魂是一个冷酷无情的现代杀手却因阴差阳错来到了一个生命如芥草的地方在这里，有从小无",
       "updateStatus" : 1,
       "capacity" : 9683958,
-      "readerCount" : 8520
+      "readerCount" : 8520,
+      "bothType" : true
     }, {
       "id" : 2664,
       "name" : "缘来是如此",
@@ -116,7 +129,8 @@
       "summary" : "缘分是什么？茫茫人海中的相遇，却并没有深深的相知。原以为无妨的结合，却从此后引出了无数的牵绊。面对他",
       "updateStatus" : 1,
       "capacity" : 2568200,
-      "readerCount" : 8489
+      "readerCount" : 8489,
+      "bothType" : false
     }, {
       "id" : 3447,
       "name" : "魔幻情缘",
@@ -124,7 +138,8 @@
       "summary" : "神奇的玛法大陆，魔族势力曾经纵横无忌。直到出现了三位旷世奇才，人族与魔族的格局起了翻天覆地的变化。很",
       "updateStatus" : 1,
       "capacity" : 851634,
-      "readerCount" : 8475
+      "readerCount" : 8475,
+      "bothType" : false
     }, {
       "id" : 2438,
       "name" : "此去经年",
@@ -132,7 +147,8 @@
       "summary" : "世上所有的相遇都是久别重逢！林浩成说：小可，遇见你，我觉得你就是我的天使。但是始终我不是你的王子。穆",
       "updateStatus" : 1,
       "capacity" : 5713712,
-      "readerCount" : 8463
+      "readerCount" : 8463,
+      "bothType" : true
     }, {
       "id" : 2249,
       "name" : "古代求生记",
@@ -140,7 +156,8 @@
       "summary" : "药物专业的大三女生，机缘巧合穿越时空入住东晟，经历了拔刀相助、上当受骗、经营酒楼、医治患者、策划宴会",
       "updateStatus" : 2,
       "capacity" : 9409345,
-      "readerCount" : 8454
+      "readerCount" : 8454,
+      "bothType" : false
     }, {
       "id" : 2744,
       "name" : "江城子",
@@ -148,7 +165,8 @@
       "summary" : "一只以为自己活了一千年的鲛人，到后来发现自己其实活了一千五百年，那么那丢了的五百年到哪里去了。为什么",
       "updateStatus" : 1,
       "capacity" : 7048053,
-      "readerCount" : 8443
+      "readerCount" : 8443,
+      "bothType" : false
     }, {
       "id" : 2508,
       "name" : "剑神？不是吧",
@@ -156,7 +174,8 @@
       "summary" : "我个人认为我是一个很淡定的人，即使遭朋友背叛，即使穿越到一个阴阳颠倒的女尊世界，即使从今以后我只能看",
       "updateStatus" : 1,
       "capacity" : 2880188,
-      "readerCount" : 8410
+      "readerCount" : 8410,
+      "bothType" : true
     }, {
       "id" : 3151,
       "name" : "神秘特务之炸弹小姐",
@@ -164,7 +183,8 @@
       "summary" : "特务去上学？谁信？她们一个比一个狠，一个比一个二。一次任务，把她们的生活弄得天翻地覆的，情敌？未婚妻",
       "updateStatus" : 1,
       "capacity" : 252675,
-      "readerCount" : 8366
+      "readerCount" : 8366,
+      "bothType" : false
     } ]
   }
 }

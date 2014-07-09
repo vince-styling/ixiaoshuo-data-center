@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2814,
-      "name" : "小市民",
+      "id" : 2215,
+      "name" : "诛仙凡尘",
       "updateStatus" : 1,
-      "distance" : 2826,
-      "memberId" : 8109
+      "distance" : 9409,
+      "memberId" : 7338,
+      "bothType" : false
     }, {
-      "id" : 2837,
-      "name" : "临清一梦",
+      "id" : 2568,
+      "name" : "爱情转变剂",
       "updateStatus" : 1,
-      "distance" : 8066,
-      "memberId" : 1664
+      "distance" : 1667,
+      "memberId" : 7124,
+      "bothType" : false
     }, {
-      "id" : 2725,
-      "name" : "高富帅，统统趴下",
+      "id" : 2669,
+      "name" : "遗爱绝情娇妻",
       "updateStatus" : 1,
-      "distance" : 5612,
-      "memberId" : 6727
+      "distance" : 7104,
+      "memberId" : 4122,
+      "bothType" : false
     }, {
-      "id" : 3412,
-      "name" : "请在原地等等我",
-      "updateStatus" : 1,
-      "distance" : 4127,
-      "memberId" : 1367
-    }, {
-      "id" : 2380,
-      "name" : "执手深爱",
-      "updateStatus" : 1,
-      "distance" : 8788,
-      "memberId" : 6929
-    }, {
-      "id" : 3490,
-      "name" : "舍友是公主大人",
-      "updateStatus" : 1,
-      "distance" : 5949,
-      "memberId" : 7009
-    }, {
-      "id" : 2959,
-      "name" : "是现实太现实之面具",
-      "updateStatus" : 1,
-      "distance" : 7334,
-      "memberId" : 6281
-    }, {
-      "id" : 2414,
-      "name" : "寻爱之旅",
+      "id" : 2939,
+      "name" : "半城月色",
       "updateStatus" : 2,
-      "distance" : 7456,
-      "memberId" : 2852
+      "distance" : 6640,
+      "memberId" : 6105,
+      "bothType" : true
     }, {
-      "id" : 3540,
-      "name" : "银魂王妃",
+      "id" : 3253,
+      "name" : "替身之后",
       "updateStatus" : 1,
-      "distance" : 7802,
-      "memberId" : 2922
+      "distance" : 7969,
+      "memberId" : 6930,
+      "bothType" : false
     }, {
-      "id" : 2211,
-      "name" : "神魂锁炼",
+      "id" : 2980,
+      "name" : "穿越做将军",
       "updateStatus" : 1,
-      "distance" : 6187,
-      "memberId" : 7899
+      "distance" : 5461,
+      "memberId" : 4759,
+      "bothType" : false
     }, {
-      "id" : 3504,
-      "name" : "《心惜之落雪之殇》",
+      "id" : 2569,
+      "name" : "倾世绝傲：女神修仙传",
       "updateStatus" : 1,
-      "distance" : 1174,
-      "memberId" : 5754
+      "distance" : 7467,
+      "memberId" : 6355,
+      "bothType" : false
     }, {
-      "id" : 2249,
-      "name" : "古代求生记",
-      "updateStatus" : 2,
-      "distance" : 5268,
-      "memberId" : 4430
-    }, {
-      "id" : 3507,
-      "name" : "血雨腥风恩仇录",
+      "id" : 2950,
+      "name" : "云生风雨过",
       "updateStatus" : 1,
-      "distance" : 3503,
-      "memberId" : 3809
+      "distance" : 8979,
+      "memberId" : 1885,
+      "bothType" : false
     }, {
-      "id" : 2068,
-      "name" : "红妆无忧",
+      "id" : 3361,
+      "name" : "逍遥人生：痞子王爷很妖娆",
       "updateStatus" : 1,
-      "distance" : 5448,
-      "memberId" : 8491
+      "distance" : 7707,
+      "memberId" : 6312,
+      "bothType" : false
     }, {
-      "id" : 3529,
-      "name" : "黑道少女",
+      "id" : 3519,
+      "name" : "火影.平静的海面上泛起恋爱的浪花",
       "updateStatus" : 1,
-      "distance" : 4392,
-      "memberId" : 2876
+      "distance" : 5297,
+      "memberId" : 7920,
+      "bothType" : false
     }, {
-      "id" : 2335,
-      "name" : "穿越之我的精彩人生",
+      "id" : 2583,
+      "name" : "梦中红叶知多少",
       "updateStatus" : 1,
-      "distance" : 6813,
-      "memberId" : 3540
+      "distance" : 8190,
+      "memberId" : 1729,
+      "bothType" : true
+    }, {
+      "id" : 2079,
+      "name" : "祸乱天下之南泽有宝",
+      "updateStatus" : 1,
+      "distance" : 615,
+      "memberId" : 4622,
+      "bothType" : false
+    }, {
+      "id" : 3718,
+      "name" : "弱水三千，只饮一瓢",
+      "updateStatus" : 1,
+      "distance" : 9772,
+      "memberId" : 6065,
+      "bothType" : false
+    }, {
+      "id" : 2582,
+      "name" : "特工归来：王妃策倾天下",
+      "updateStatus" : 1,
+      "distance" : 3780,
+      "memberId" : 8756,
+      "bothType" : true
+    }, {
+      "id" : 2329,
+      "name" : "绝色兽妃戏天下",
+      "updateStatus" : 1,
+      "distance" : 8084,
+      "memberId" : 1746,
+      "bothType" : false
+    }, {
+      "id" : 3292,
+      "name" : "菊之恋",
+      "updateStatus" : 1,
+      "distance" : 9959,
+      "memberId" : 2160,
+      "bothType" : false
     }, {
       "id" : 3590,
       "name" : "劳什子学院",
       "updateStatus" : 1,
-      "distance" : 5934,
-      "memberId" : 8270
+      "distance" : 8375,
+      "memberId" : 5302,
+      "bothType" : false
     }, {
-      "id" : 2353,
-      "name" : "攻前辈的作战",
+      "id" : 2850,
+      "name" : "妃常有鲤",
       "updateStatus" : 1,
-      "distance" : 8419,
-      "memberId" : 7330
+      "distance" : 4455,
+      "memberId" : 2438,
+      "bothType" : false
     }, {
-      "id" : 3593,
-      "name" : "锦春",
+      "id" : 2749,
+      "name" : "轻安易宁",
       "updateStatus" : 1,
-      "distance" : 7792,
-      "memberId" : 1605
+      "distance" : 9544,
+      "memberId" : 1924,
+      "bothType" : false
     }, {
-      "id" : 3446,
-      "name" : "本草纲目",
+      "id" : 3680,
+      "name" : "潇洒小姐执着先生",
       "updateStatus" : 1,
-      "distance" : 976,
-      "memberId" : 5249
+      "distance" : 9128,
+      "memberId" : 4554,
+      "bothType" : true
     } ]
   }
 }

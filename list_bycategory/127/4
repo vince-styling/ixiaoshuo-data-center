@@ -12,7 +12,8 @@
       "summary" : "谁也不会想到，在这样战乱的一个年代，会有这么一个神秘组织的存在。潜伏，卧底，情报，间谍……他和她的相",
       "updateStatus" : 1,
       "capacity" : 288263,
-      "readerCount" : 5986
+      "readerCount" : 5986,
+      "bothType" : false
     }, {
       "id" : 2983,
       "name" : "白衣赋之殇灵卷",
@@ -20,7 +21,8 @@
       "summary" : "一个淡如梨花的琴师，一名放荡不驹的剑客。一段淡淡的交情，一份纯粹的相守。一把绝世的扶仙，一枝倾城的凤",
       "updateStatus" : 1,
       "capacity" : 3809644,
-      "readerCount" : 5967
+      "readerCount" : 5967,
+      "bothType" : true
     }, {
       "id" : 3434,
       "name" : "天境风华祭",
@@ -28,7 +30,8 @@
       "summary" : "那年，花开的正好，花落得也凄美。湖畔居的那张棋盘上，黑白纵横，相拥相错，千百年来的平局似乎从未打破。",
       "updateStatus" : 1,
       "capacity" : 27662,
-      "readerCount" : 5865
+      "readerCount" : 5865,
+      "bothType" : false
     }, {
       "id" : 2598,
       "name" : "穿越之瑶禛馨",
@@ -36,7 +39,8 @@
       "summary" : "某月黑风高夜。两人的夜间活动只差最后一步了，可希瑶总是推三阻四的不让胤禛继续，咱们四爷顿时怒了。他喘",
       "updateStatus" : 1,
       "capacity" : 1734847,
-      "readerCount" : 5702
+      "readerCount" : 5702,
+      "bothType" : false
     }, {
       "id" : 2255,
       "name" : "穿越之我的儿子是弘昼",
@@ -44,7 +48,8 @@
       "summary" : "一个是从三百多年后穿越而来的现代女子，成为雍正的小妾，拥有了自己渴望多年的儿子，她为什么会被康熙和雍",
       "updateStatus" : 2,
       "capacity" : 3903302,
-      "readerCount" : 5628
+      "readerCount" : 5628,
+      "bothType" : true
     }, {
       "id" : 3691,
       "name" : "巧夺帝心：奸妃娘娘升职记",
@@ -52,7 +57,8 @@
       "summary" : "一朝醒转苏染烟已然从二十一世纪的新型女性脱离，摇身一变成为手握生杀大权的帝王之妾，苏贵人？NO,NO",
       "updateStatus" : 1,
       "capacity" : 661600,
-      "readerCount" : 5474
+      "readerCount" : 5474,
+      "bothType" : true
     }, {
       "id" : 3247,
       "name" : "清帏花色浓",
@@ -60,7 +66,8 @@
       "summary" : "她是西藏守护天珠的天女？还是江湖赏善罚恶的女捕快“玉燕子”？还是短发潇洒执着干练的现代女医生？横跨三",
       "updateStatus" : 1,
       "capacity" : 376003,
-      "readerCount" : 5316
+      "readerCount" : 5316,
+      "bothType" : false
     }, {
       "id" : 2266,
       "name" : "倾酌天下",
@@ -68,7 +75,8 @@
       "summary" : "【慕容泱】慕容泱：“第一杯，罚我从来没有问过你想要什么，就私自替你做了决定；第二杯，罚我亲手杀死了你",
       "updateStatus" : 1,
       "capacity" : 1614834,
-      "readerCount" : 5109
+      "readerCount" : 5109,
+      "bothType" : true
     }, {
       "id" : 2549,
       "name" : "色如花，命如叶",
@@ -76,7 +84,8 @@
       "summary" : "明明是初夏的夜晚，雪瑶却觉得寒冷异常。被最信赖的他抛弃，她成了最可悲的笑话。什么全世界最疼爱她一个人",
       "updateStatus" : 1,
       "capacity" : 3419251,
-      "readerCount" : 5090
+      "readerCount" : 5090,
+      "bothType" : false
     }, {
       "id" : 2715,
       "name" : "瞎女闯后宫",
@@ -84,7 +93,8 @@
       "summary" : "她，是某大学大一考古学生，闲散小说家她们两即是结拜金兰，又是形影不离的好朋友，在放暑假时，原本打算一",
       "updateStatus" : 1,
       "capacity" : 2370244,
-      "readerCount" : 4738
+      "readerCount" : 4738,
+      "bothType" : true
     }, {
       "id" : 2287,
       "name" : "王妃富可敌国",
@@ -92,7 +102,8 @@
       "summary" : "“这下好了，在俩真的是无官一身轻了？”这位名动一时的成王爷，竟然也有这么赖皮赖脸的时候。“不还意思王",
       "updateStatus" : 1,
       "capacity" : 7666993,
-      "readerCount" : 4418
+      "readerCount" : 4418,
+      "bothType" : false
     }, {
       "id" : 2279,
       "name" : "凤断谋",
@@ -100,7 +111,8 @@
       "summary" : "静月宫的旧主逝，新主易。桃花下她对他倾城一笑，秋叶下他对她只手指天。明明相爱的两个灵魂却阴差阳错的变",
       "updateStatus" : 1,
       "capacity" : 8423086,
-      "readerCount" : 4306
+      "readerCount" : 4306,
+      "bothType" : false
     }, {
       "id" : 2278,
       "name" : "美人狂：探囊取天下",
@@ -108,7 +120,8 @@
       "summary" : "探囊取物，比喻一个东西极易得到。可——“拿个江山，也——无异于探囊取天下！”这——是何等的狂傲！她们",
       "updateStatus" : 1,
       "capacity" : 1039409,
-      "readerCount" : 4145
+      "readerCount" : 4145,
+      "bothType" : false
     }, {
       "id" : 3245,
       "name" : "双凤夺体：娇蛮宠姬不好惹",
@@ -116,7 +129,8 @@
       "summary" : "一场车祸，穿到了乱世一次逃亡，掉下了悬崖自此，一个身体里的两个灵魂争身夺体，互不相让，其中爆笑连连，",
       "updateStatus" : 1,
       "capacity" : 687160,
-      "readerCount" : 3753
+      "readerCount" : 3753,
+      "bothType" : false
     }, {
       "id" : 2947,
       "name" : "一路安然",
@@ -124,7 +138,8 @@
       "summary" : "衣袂飘飘的南北朝时期，政权更迭不断。鲜衣怒马的背景下野心勃勃的兰陵萧氏萧齐安，无心世事的世外高人戚卓",
       "updateStatus" : 1,
       "capacity" : 6992289,
-      "readerCount" : 3714
+      "readerCount" : 3714,
+      "bothType" : false
     }, {
       "id" : 2257,
       "name" : "曾偷浮生半日闲",
@@ -132,7 +147,8 @@
       "summary" : "一个是曾与她互许终身的惊世战神，一个是伴她多年的儒雅王爷。一个是她心爱之人，一个人是知她甚深之人。她",
       "updateStatus" : 1,
       "capacity" : 7709432,
-      "readerCount" : 3469
+      "readerCount" : 3469,
+      "bothType" : false
     }, {
       "id" : 3181,
       "name" : "凝思阁",
@@ -140,7 +156,8 @@
       "summary" : "妄——亡女。一双异瞳，便造就了她的宿命，这本就是不可争辩的事实。何为错？她本没错，只是世人的眼光迷信",
       "updateStatus" : 1,
       "capacity" : 381256,
-      "readerCount" : 3325
+      "readerCount" : 3325,
+      "bothType" : false
     }, {
       "id" : 2721,
       "name" : "笼中魇",
@@ -148,7 +165,8 @@
       "summary" : "我此一生，弑主夺权者尚有，背信忘义者无数，唯利是图者遍地。忠孝反倒像极了一个笑话。我坚持父亲的大义，",
       "updateStatus" : 1,
       "capacity" : 5159874,
-      "readerCount" : 3241
+      "readerCount" : 3241,
+      "bothType" : false
     }, {
       "id" : 2599,
       "name" : "流年何处飞花去",
@@ -156,7 +174,8 @@
       "summary" : "她说，他们皆是书法。他是她心中的行书，婉转温柔却不乏霸道王气。她为他清歌一曲，只因他名里有歌。他醉她",
       "updateStatus" : 1,
       "capacity" : 3909934,
-      "readerCount" : 3239
+      "readerCount" : 3239,
+      "bothType" : true
     }, {
       "id" : 3561,
       "name" : "穿越之唯爱有你",
@@ -164,7 +183,8 @@
       "summary" : "简介：你相信不相信世上会有缘分？你相信不相信世上会有奇迹？两个相爱的人因为一个误会，从此天各一方，他",
       "updateStatus" : 1,
       "capacity" : 49874,
-      "readerCount" : 3204
+      "readerCount" : 3204,
+      "bothType" : false
     } ]
   }
 }

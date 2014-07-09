@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3189,
-      "name" : "奴家不承欢：宁为王者不为妃",
+      "id" : 2755,
+      "name" : "大话漫游",
       "updateStatus" : 1,
-      "distance" : 7239,
-      "memberId" : 1829
+      "distance" : 9230,
+      "memberId" : 8223,
+      "bothType" : false
     }, {
-      "id" : 2647,
-      "name" : "冷少巧追豪门俏千金",
+      "id" : 3581,
+      "name" : "故人衣",
       "updateStatus" : 1,
-      "distance" : 7362,
-      "memberId" : 2707
+      "distance" : 2953,
+      "memberId" : 8881,
+      "bothType" : true
     }, {
-      "id" : 2440,
-      "name" : "冰山首席：霸宠豪门养女",
+      "id" : 3136,
+      "name" : "紫墟：涅槃",
       "updateStatus" : 1,
-      "distance" : 2876,
-      "memberId" : 3153
+      "distance" : 8180,
+      "memberId" : 5100,
+      "bothType" : true
     }, {
-      "id" : 2787,
-      "name" : "本编等你来扑倒",
+      "id" : 3665,
+      "name" : "杂乱的羁绊",
       "updateStatus" : 1,
-      "distance" : 3617,
-      "memberId" : 1818
+      "distance" : 3697,
+      "memberId" : 8456,
+      "bothType" : true
     }, {
-      "id" : 3007,
-      "name" : "醉逍遥",
+      "id" : 3018,
+      "name" : "乱世佳人之末代皇妃",
       "updateStatus" : 1,
-      "distance" : 6359,
-      "memberId" : 6199
+      "distance" : 2938,
+      "memberId" : 8872,
+      "bothType" : true
     }, {
-      "id" : 3673,
-      "name" : "美男在侧:霸气男女",
+      "id" : 2356,
+      "name" : "霡霂云飒",
       "updateStatus" : 1,
-      "distance" : 9385,
-      "memberId" : 6881
+      "distance" : 3423,
+      "memberId" : 8989,
+      "bothType" : false
     }, {
-      "id" : 3492,
-      "name" : "清月",
+      "id" : 2692,
+      "name" : "网王之阴阳师是学生",
       "updateStatus" : 1,
-      "distance" : 7602,
-      "memberId" : 7448
+      "distance" : 7039,
+      "memberId" : 4080,
+      "bothType" : false
     }, {
-      "id" : 2530,
-      "name" : "半城烟雨",
+      "id" : 2944,
+      "name" : "嬗变",
       "updateStatus" : 1,
-      "distance" : 3498,
-      "memberId" : 8436
+      "distance" : 1886,
+      "memberId" : 5468,
+      "bothType" : true
     }, {
-      "id" : 2039,
-      "name" : "羊入虎口：皇后，朕劫个色",
+      "id" : 2347,
+      "name" : "绝配主仆",
+      "updateStatus" : 1,
+      "distance" : 7782,
+      "memberId" : 2483,
+      "bothType" : false
+    }, {
+      "id" : 3022,
+      "name" : "吸血鬼骑士之紫之吾爱",
+      "updateStatus" : 1,
+      "distance" : 8341,
+      "memberId" : 2536,
+      "bothType" : false
+    }, {
+      "id" : 3400,
+      "name" : "天使的诠释：幸福就是遇见你",
+      "updateStatus" : 1,
+      "distance" : 9396,
+      "memberId" : 5643,
+      "bothType" : true
+    }, {
+      "id" : 3024,
+      "name" : "爱错",
+      "updateStatus" : 1,
+      "distance" : 7937,
+      "memberId" : 5019,
+      "bothType" : false
+    }, {
+      "id" : 2458,
+      "name" : "灰道之非黑非白",
+      "updateStatus" : 1,
+      "distance" : 1427,
+      "memberId" : 8095,
+      "bothType" : false
+    }, {
+      "id" : 3162,
+      "name" : "真龙天下：倾世侠妃",
+      "updateStatus" : 1,
+      "distance" : 9773,
+      "memberId" : 1082,
+      "bothType" : false
+    }, {
+      "id" : 2199,
+      "name" : "选道",
       "updateStatus" : 2,
-      "distance" : 6177,
-      "memberId" : 2645
+      "distance" : 5289,
+      "memberId" : 8230,
+      "bothType" : false
     }, {
-      "id" : 2338,
-      "name" : "那一世,只因缘而穿",
+      "id" : 2382,
+      "name" : "同曾惶虑情难止",
       "updateStatus" : 1,
-      "distance" : 9609,
-      "memberId" : 3702
+      "distance" : 5564,
+      "memberId" : 2968,
+      "bothType" : false
     }, {
-      "id" : 2324,
-      "name" : "一代平妃",
+      "id" : 3349,
+      "name" : "宁负苍天",
+      "updateStatus" : 1,
+      "distance" : 9784,
+      "memberId" : 1694,
+      "bothType" : false
+    }, {
+      "id" : 2488,
+      "name" : "奇灵公主",
       "updateStatus" : 2,
-      "distance" : 3836,
-      "memberId" : 8005
+      "distance" : 5119,
+      "memberId" : 3062,
+      "bothType" : false
     }, {
-      "id" : 2913,
-      "name" : "孤单的世界",
+      "id" : 3167,
+      "name" : "凤武九霄：一品庶女傲天下",
       "updateStatus" : 1,
-      "distance" : 9029,
-      "memberId" : 8136
+      "distance" : 7924,
+      "memberId" : 8066,
+      "bothType" : false
     }, {
-      "id" : 2642,
-      "name" : "黑道特种部队",
+      "id" : 3652,
+      "name" : "总裁恶魔点娇妻",
       "updateStatus" : 1,
-      "distance" : 3274,
-      "memberId" : 7906
-    }, {
-      "id" : 2314,
-      "name" : "白之纯水之澈",
-      "updateStatus" : 1,
-      "distance" : 2497,
-      "memberId" : 7592
-    }, {
-      "id" : 3735,
-      "name" : "穿越之修真吐槽娘",
-      "updateStatus" : 1,
-      "distance" : 1296,
-      "memberId" : 5323
-    }, {
-      "id" : 2170,
-      "name" : "轮回三生劫",
-      "updateStatus" : 1,
-      "distance" : 2628,
-      "memberId" : 3464
-    }, {
-      "id" : 2282,
-      "name" : "凤动九天：一等皇妃倾天下",
-      "updateStatus" : 1,
-      "distance" : 670,
-      "memberId" : 8093
-    }, {
-      "id" : 3459,
-      "name" : "红尘客栈",
-      "updateStatus" : 1,
-      "distance" : 9033,
-      "memberId" : 2099
-    }, {
-      "id" : 3029,
-      "name" : "双女穿越记",
-      "updateStatus" : 1,
-      "distance" : 1679,
-      "memberId" : 7036
-    }, {
-      "id" : 2870,
-      "name" : "爱情有多远",
-      "updateStatus" : 1,
-      "distance" : 3634,
-      "memberId" : 4867
+      "distance" : 4023,
+      "memberId" : 8102,
+      "bothType" : true
     } ]
   }
 }

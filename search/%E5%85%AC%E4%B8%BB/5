@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "幻想耽美",
       "capacity" : 43742,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2752,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 6151702,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3743,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 69286,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 3414,
@@ -40,6 +43,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 244882,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3103,
@@ -49,6 +53,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 13079,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3378,
@@ -58,6 +63,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 94682,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3248,
@@ -67,6 +73,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 36583,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

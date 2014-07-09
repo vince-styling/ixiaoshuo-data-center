@@ -12,7 +12,8 @@
       "summary" : "听说，谁先爱上谁就输了。她不顾一切来到这里，就是为了有一天能在茫茫人海中遇到他。问一句：当初为何就那",
       "updateStatus" : 1,
       "capacity" : 268966,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3675,
       "name" : "绝世之第一公主",
@@ -20,7 +21,8 @@
       "summary" : "现代她是能力出众的隐士家主，一个帝国组织的宫主，可惜仍然逃不过被背叛的命运;一朝穿越她成为一朝公主，",
       "updateStatus" : 1,
       "capacity" : 1168904,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 3152,
       "name" : "晚晴空",
@@ -28,7 +30,8 @@
       "summary" : "【光绪皇帝与珍妃的不朽之恋】天真烂漫、聪颖秀慧、灵巧动人、温柔体贴，他这样形容她。巧言令色、狐媚害人",
       "updateStatus" : 1,
       "capacity" : 249392,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3047,
       "name" : "卿宸红颜相思锦",
@@ -36,7 +39,8 @@
       "summary" : "朱砂泪，相思尽，与君缠绵三世缘。孟婆汤，奈何桥，几许青丝结？她本是她的卿本佳人，安之若素。他本是他的",
       "updateStatus" : 1,
       "capacity" : 60620,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3185,
       "name" : "一笑悬命",
@@ -44,7 +48,8 @@
       "summary" : "世间无仙亦无妖，人谓仙鬼满世道扬善作歹皆人间，孰仙孰鬼自知晓金丝楠可能这辈子也想不到自己就是被老爷子",
       "updateStatus" : 1,
       "capacity" : 204780,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3093,
       "name" : "如果还能再爱",
@@ -52,7 +57,8 @@
       "summary" : "看过很多都市爱情类小说，始终觉得过于梦幻，不够现实，一直在酝酿一部能够让读者看过之后有所感触的作品。",
       "updateStatus" : 1,
       "capacity" : 902472,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2230,
       "name" : "妖殇惑世",
@@ -60,7 +66,8 @@
       "summary" : "简介：她是杀手之王，才艺惊人。性格嗜血腹黑无耻。她是将军养女，才艺平庸。性格懦弱天真蠢笨。❀❀===",
       "updateStatus" : 1,
       "capacity" : 1084895,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3663,
       "name" : "疯狂健身房",
@@ -68,7 +75,8 @@
       "summary" : "是谁说的这个健身房里美女如云的？丫现在看到的都是男纸！话说你们都是P出来的吧，一个个看着长得溜光水滑",
       "updateStatus" : 1,
       "capacity" : 526840,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 3262,
       "name" : "爱，在遥远的彼方",
@@ -76,7 +84,8 @@
       "summary" : "搞笑大纲“娘，我在自家牌楼前摆了个擂台！”一个粉嘟嘟的小男孩得意扬扬的拍着自己的小胸脯道。“小子，你",
       "updateStatus" : 1,
       "capacity" : 168465,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3646,
       "name" : "在最美的季节相遇",
@@ -84,7 +93,8 @@
       "summary" : "十七岁，最懵懂的年纪，想要守护重要的人。莫小言，李西，蓝宫，南景，陆文，伊然。花季的悸动。在这里相遇",
       "updateStatus" : 1,
       "capacity" : 202094,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3495,
       "name" : "倾情一梦",
@@ -92,7 +102,8 @@
       "summary" : "她无依无靠，他事业有成，有缘相遇，她深深爱上了他，本来打算嫁给他，可是麻烦才刚刚开始……先是被逐出了",
       "updateStatus" : 1,
       "capacity" : 362898,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3483,
       "name" : "君子谋：锦绣山河",
@@ -100,7 +111,8 @@
       "summary" : "一朝抄没，千金变宫娥，步步为营，深陷权谋斗争。几番离合，宫阙终变土灰，群雄并起，逐鹿问鼎，忍看红妆胭",
       "updateStatus" : 1,
       "capacity" : 147910,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3397,
       "name" : "红颜祸水：皇后潜潜水",
@@ -108,7 +120,8 @@
       "summary" : "古往今来，人生在世，都逃不过一个情字，无论是亲情亦或是爱情，春：是万物的复苏，夏：是桑拿的浴池；秋：",
       "updateStatus" : 1,
       "capacity" : 133513,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2907,
       "name" : "紫弦俏孤女",
@@ -116,7 +129,8 @@
       "summary" : "现代少女误打误撞穿越时空来到架空历史的天朝，成了天朝的三公主。又有什么阴谋将要开始？有些事冥冥之中就",
       "updateStatus" : 1,
       "capacity" : 7346995,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2600,
       "name" : "就这一次，非正即邪",
@@ -124,7 +138,8 @@
       "summary" : "单池一，宁愿抱以牺牲的危险决定要踏入异界的他有着常人无法理解的目的，双枪是他的武器，而谨慎是天赋于他",
       "updateStatus" : 1,
       "capacity" : 6309650,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2195,
       "name" : "血之恋章",
@@ -132,7 +147,8 @@
       "summary" : "谁忍受心灵的千疮百孔爱她被拒绝后竟予以毁灭谁习惯了微笑转身爱她却无法开口谁孤傲不群爱她摘下了所有华丽",
       "updateStatus" : 1,
       "capacity" : 3829040,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3576,
       "name" : "何故弦断梦",
@@ -140,7 +156,8 @@
       "summary" : "每夜必入的梦境，有着怎样的寓意，千篇一律的场景，有着心灵相撞的熟悉。奇幻的异能，该怎样去解释。与之前",
       "updateStatus" : 1,
       "capacity" : 15620,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 3346,
       "name" : "一叶听风",
@@ -148,7 +165,8 @@
       "summary" : "学会飞翔意味着要经历风霜雪雨的洗礼。不随波逐流就等于选择去走一条只有自己才知道彼岸在哪里的崎岖之路。",
       "updateStatus" : 1,
       "capacity" : 345909,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3028,
       "name" : "时空的错失她成了小三",
@@ -156,7 +174,8 @@
       "summary" : "爱，有时错过时空，便会错失全部。宋爱冰，可是，重遇回她，他已经有家室。所以，即使再爱，他们也无法修成",
       "updateStatus" : 1,
       "capacity" : 5381523,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3515,
       "name" : "相思明叶",
@@ -164,7 +183,8 @@
       "summary" : "从小跟着穿越老妈，受着现代加古代奇怪教育模式长大的邢思叶跟着父母回到了自己权倾天下的家。面对新婚夫君",
       "updateStatus" : 1,
       "capacity" : 583953,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     } ]
   }
 }

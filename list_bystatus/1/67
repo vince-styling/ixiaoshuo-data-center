@@ -12,7 +12,8 @@
       "summary" : "多年前让自己告白失败的校园王子变成相亲对象再次闯入生活，谈了一年多恋爱让自己付出真心却劈腿说分手的渣",
       "updateStatus" : 1,
       "capacity" : 612355,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2593,
       "name" : "凤御圣月洛",
@@ -20,7 +21,8 @@
       "summary" : "【简介】她，凌家三小姐，废柴一个，受尽欺辱。她，凌幕雪，一个二十一世纪的天才神级偷盗高手，一时兴起偷",
       "updateStatus" : 1,
       "capacity" : 9303288,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2426,
       "name" : "请让我回到我的小小城",
@@ -28,7 +30,8 @@
       "summary" : "一个在高中时期发生的小故事，它是具有一定的真实性的。在这里，米一一由于曾经受过的伤，不愿意与他人交流",
       "updateStatus" : 1,
       "capacity" : 5813436,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3724,
       "name" : "白泽之神",
@@ -36,7 +39,8 @@
       "summary" : "传说每逢改朝换代之时，便有白泽之神降临人间。可是自从清王朝过后，白泽一族却踪迹全无，这究竟预示着什么",
       "updateStatus" : 1,
       "capacity" : 93764,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 3711,
       "name" : "谋天",
@@ -44,7 +48,8 @@
       "summary" : "九天中的一位无辜陨落一缕执念侥幸入轮回，其他八天和自己座下魔神争夺自己的天之位，……自己无辜的陨落是",
       "updateStatus" : 1,
       "capacity" : 266767,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3624,
       "name" : "陌寻",
@@ -52,7 +57,8 @@
       "summary" : "第一世,苏子清爱苏陌,苏陌却在苏子清死后才开始心疼第二世,苏子清心死了,苏陌却爱上了苏子清第三世,苏",
       "updateStatus" : 1,
       "capacity" : 173829,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 3380,
       "name" : "彩虹下的承诺",
@@ -60,7 +66,8 @@
       "summary" : "这是一个美丽的故事，它源于七仙女与董永这个古老的传说。七仙女与董永得土地牵线，槐树做媒，结为夫妻。七",
       "updateStatus" : 1,
       "capacity" : 381899,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3056,
       "name" : "惊情六百年",
@@ -68,7 +75,8 @@
       "summary" : "她是一国公主，却意外流落在异国。他是一国王储，却化身为流浪旅人。他一次又一次的搭救，成为她唯一的依靠",
       "updateStatus" : 1,
       "capacity" : 274999,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3179,
       "name" : "情深几许",
@@ -76,7 +84,8 @@
       "summary" : "重生的我已经不是拥有亿万身家的富家小姐也不是那个深爱自己父亲的卑微女孩我是云深一个只有19岁的少年一",
       "updateStatus" : 1,
       "capacity" : 132800,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3418,
       "name" : "虹杀手之赤燕",
@@ -84,7 +93,8 @@
       "summary" : "“真不愧是我的好女儿，为父没有看错人！”她，一直希望自己是一个普通的小女孩，拥有父亲的疼爱，母亲的关",
       "updateStatus" : 1,
       "capacity" : 447651,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 3439,
       "name" : "皇熙妃传",
@@ -92,7 +102,8 @@
       "summary" : "宇文氏，曾经是多么荣耀的一个家族，新皇登基却彻底颠覆了这个家族的地位，诛灭九族。唯一幸存的宇文氏长女",
       "updateStatus" : 1,
       "capacity" : 188053,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : true
     }, {
       "id" : 3298,
       "name" : "我们无法预知的下一秒",
@@ -100,7 +111,8 @@
       "summary" : "很早就想写这个故事了。这个故事与我另外正在连载的故事不同。因为，故事里的主人公，她所经历的事，正是我",
       "updateStatus" : 1,
       "capacity" : 116056,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2306,
       "name" : "穿越之蒙家将军",
@@ -108,7 +120,8 @@
       "summary" : "篱菊不求春芳早，但愿馨香已满楼；穿越时空，从一名打擂高手，成为一名大秦名将，他享尽了爱情里的温馨甜美",
       "updateStatus" : 1,
       "capacity" : 4780024,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 3196,
       "name" : "西地锦",
@@ -116,7 +129,8 @@
       "summary" : "若是这一生太过坎坷，那不如一世不羁。他是东宫太子，他靠阴谋与刀光血影杀出一道通往皇位的血路。他是无人",
       "updateStatus" : 1,
       "capacity" : 318168,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3581,
       "name" : "故人衣",
@@ -124,7 +138,8 @@
       "summary" : "是爱情是友情？是复仇还是不计前嫌？三生有幸，我遇见了你，我最好的朋友，我的爱人，我的亲人。Hello",
       "updateStatus" : 1,
       "capacity" : 110940,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3252,
       "name" : "一辈子，在一起",
@@ -132,7 +147,8 @@
       "summary" : "快到期末了。。不定期发文了T-T“如果可以，能和我再次在一起吗？”“若有如果？。。。可惜这世界上没有",
       "updateStatus" : 1,
       "capacity" : 112980,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 3383,
       "name" : "延续爱",
@@ -140,7 +156,8 @@
       "summary" : "不管你在哪个角落，都希望你是跟相爱的人在一起；不管遇到什么样的挫折，都希望你能扛过去……总有一天你会",
       "updateStatus" : 1,
       "capacity" : 153656,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3178,
       "name" : "穿越之红柚偏甜",
@@ -148,7 +165,8 @@
       "summary" : "刚刚离开大学，还未踏入社会的她突遭横祸，丧生于一场车祸。醒来之后j竟发现自己变成了一个婴儿来到了异时",
       "updateStatus" : 1,
       "capacity" : 730405,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3232,
       "name" : "怨回纥歌",
@@ -156,7 +174,8 @@
       "summary" : "白首南朝女，愁听异域歌。素手清颜之女，恶人雪魔之徒。她仅仅是一个需要关心的孩子，希望那幼年时对自己最",
       "updateStatus" : 1,
       "capacity" : 16752,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 3112,
       "name" : "刹那风华",
@@ -164,7 +183,8 @@
       "summary" : "如莲华初，刹那风华。【虽然名字很挫，不吸引人，不过声明下，只是一些紧凑不得了的文章组合,澄文没有短篇",
       "updateStatus" : 1,
       "capacity" : 65164,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     } ]
   }
 }

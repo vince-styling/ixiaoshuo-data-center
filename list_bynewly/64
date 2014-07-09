@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42821.jpg",
       "updateStatus" : 1,
       "capacity" : 536254,
-      "lastUpdateTime" : "2013-11-30 04:19:13"
+      "lastUpdateTime" : "2013-11-30 04:19:13",
+      "bothType" : false
     }, {
       "id" : 3719,
       "name" : "唯心城的月光",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42722.jpg",
       "updateStatus" : 1,
       "capacity" : 566770,
-      "lastUpdateTime" : "2013-11-30 04:00:25"
+      "lastUpdateTime" : "2013-11-30 04:00:25",
+      "bothType" : true
     }, {
       "id" : 2443,
       "name" : "时光记得我爱你",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46283.jpg",
       "updateStatus" : 1,
       "capacity" : 7376251,
-      "lastUpdateTime" : "2013-11-30 03:37:39"
+      "lastUpdateTime" : "2013-11-30 03:37:39",
+      "bothType" : false
     }, {
       "id" : 3352,
       "name" : "沁语录",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42816.jpg",
       "updateStatus" : 1,
       "capacity" : 210303,
-      "lastUpdateTime" : "2013-11-30 03:30:49"
+      "lastUpdateTime" : "2013-11-30 03:30:49",
+      "bothType" : true
     }, {
       "id" : 2114,
       "name" : "未婚妈妈，首席太霸道",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_2515.jpg",
       "updateStatus" : 2,
       "capacity" : 5202664,
-      "lastUpdateTime" : "2013-11-30 02:25:37"
+      "lastUpdateTime" : "2013-11-30 02:25:37",
+      "bothType" : false
     }, {
       "id" : 3034,
       "name" : "为期不返",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46616.jpg",
       "updateStatus" : 1,
       "capacity" : 6374967,
-      "lastUpdateTime" : "2013-11-30 02:25:32"
+      "lastUpdateTime" : "2013-11-30 02:25:32",
+      "bothType" : false
     }, {
       "id" : 3056,
       "name" : "惊情六百年",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47822.jpg",
       "updateStatus" : 1,
       "capacity" : 274999,
-      "lastUpdateTime" : "2013-11-30 01:13:49"
+      "lastUpdateTime" : "2013-11-30 01:13:49",
+      "bothType" : true
     }, {
       "id" : 3471,
       "name" : "你是我闪耀的星",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43380.jpg",
       "updateStatus" : 1,
       "capacity" : 744488,
-      "lastUpdateTime" : "2013-11-29 23:51:48"
+      "lastUpdateTime" : "2013-11-29 23:51:48",
+      "bothType" : false
     }, {
       "id" : 3230,
       "name" : "霹雳戢武王妹控玉仔酱油记",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45866.jpg",
       "updateStatus" : 1,
       "capacity" : 322045,
-      "lastUpdateTime" : "2013-11-29 19:27:40"
+      "lastUpdateTime" : "2013-11-29 19:27:40",
+      "bothType" : false
     }, {
       "id" : 2837,
       "name" : "临清一梦",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47954.jpg",
       "updateStatus" : 1,
       "capacity" : 9500502,
-      "lastUpdateTime" : "2013-11-29 19:19:45"
+      "lastUpdateTime" : "2013-11-29 19:19:45",
+      "bothType" : true
     }, {
       "id" : 2828,
       "name" : "风声",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16919.jpg",
       "updateStatus" : 2,
       "capacity" : 3160668,
-      "lastUpdateTime" : "2013-11-29 18:38:40"
+      "lastUpdateTime" : "2013-11-29 18:38:40",
+      "bothType" : false
     }, {
       "id" : 2678,
       "name" : "柠檬微酸",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47897.jpg",
       "updateStatus" : 1,
       "capacity" : 1366051,
-      "lastUpdateTime" : "2013-11-29 18:36:08"
+      "lastUpdateTime" : "2013-11-29 18:36:08",
+      "bothType" : false
     }, {
       "id" : 3526,
       "name" : "桃花躲躲",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20944.jpg",
       "updateStatus" : 1,
       "capacity" : 921866,
-      "lastUpdateTime" : "2013-11-29 17:11:26"
+      "lastUpdateTime" : "2013-11-29 17:11:26",
+      "bothType" : true
     }, {
       "id" : 2600,
       "name" : "就这一次，非正即邪",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46961.jpg",
       "updateStatus" : 1,
       "capacity" : 6309650,
-      "lastUpdateTime" : "2013-11-29 16:34:41"
+      "lastUpdateTime" : "2013-11-29 16:34:41",
+      "bothType" : false
     }, {
       "id" : 3372,
       "name" : "未成曲调先有情",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46505.jpg",
       "updateStatus" : 1,
       "capacity" : 294044,
-      "lastUpdateTime" : "2013-11-29 16:05:16"
+      "lastUpdateTime" : "2013-11-29 16:05:16",
+      "bothType" : false
     }, {
       "id" : 3604,
       "name" : "君子如花似玉",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47417.jpg",
       "updateStatus" : 1,
       "capacity" : 230412,
-      "lastUpdateTime" : "2013-11-29 15:25:15"
+      "lastUpdateTime" : "2013-11-29 15:25:15",
+      "bothType" : false
     }, {
       "id" : 2518,
       "name" : "君醉红颜",
@@ -140,7 +156,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 4862062,
-      "lastUpdateTime" : "2013-11-29 15:08:48"
+      "lastUpdateTime" : "2013-11-29 15:08:48",
+      "bothType" : false
     }, {
       "id" : 3409,
       "name" : "素手霸天下",
@@ -148,7 +165,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 237522,
-      "lastUpdateTime" : "2013-11-29 14:54:40"
+      "lastUpdateTime" : "2013-11-29 14:54:40",
+      "bothType" : true
     }, {
       "id" : 3487,
       "name" : "传说，苏忆恩作得一手好死",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47841.jpg",
       "updateStatus" : 1,
       "capacity" : 131513,
-      "lastUpdateTime" : "2013-11-29 10:31:49"
+      "lastUpdateTime" : "2013-11-29 10:31:49",
+      "bothType" : true
     }, {
       "id" : 2939,
       "name" : "半城月色",
@@ -164,7 +183,8 @@
       "coverUrl" : "",
       "updateStatus" : 2,
       "capacity" : 2332571,
-      "lastUpdateTime" : "2013-11-29 08:50:30"
+      "lastUpdateTime" : "2013-11-29 08:50:30",
+      "bothType" : false
     } ]
   }
 }

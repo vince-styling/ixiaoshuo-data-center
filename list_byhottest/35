@@ -12,7 +12,8 @@
       "summary" : "她裴乐乐自问也没做过什么亏心事，好不容易活到这么大，怎么就莫名其妙的穿越了呢？谁来告诉她，为什么会有",
       "updateStatus" : 1,
       "capacity" : 3154949,
-      "readerCount" : 6267
+      "readerCount" : 6267,
+      "bothType" : true
     }, {
       "id" : 2178,
       "name" : "穿越之朔月传奇",
@@ -20,7 +21,8 @@
       "summary" : "一场车祸就那样结束了云枫悲催的人生，在好心的鬼差的帮衬下她穿越来到了金盛帝国开始她新的生活。对于萧朔",
       "updateStatus" : 1,
       "capacity" : 1891698,
-      "readerCount" : 6266
+      "readerCount" : 6266,
+      "bothType" : false
     }, {
       "id" : 2362,
       "name" : "青春小夜曲",
@@ -28,7 +30,8 @@
       "summary" : "高中学生赵小碗，获得神秘人指引，修炼长生，只要获得感人动听的故事，便能长生。她收集的故事有奇幻的梦中",
       "updateStatus" : 2,
       "capacity" : 3275596,
-      "readerCount" : 6262
+      "readerCount" : 6262,
+      "bothType" : false
     }, {
       "id" : 2483,
       "name" : "雨露之瞳",
@@ -36,7 +39,8 @@
       "summary" : "知道什么是魔瞳吗？李雨露是一个长得普通气质文学都一般的初中的学生，刚进入中学。奋发图强，在期中考前，",
       "updateStatus" : 1,
       "capacity" : 1280277,
-      "readerCount" : 6244
+      "readerCount" : 6244,
+      "bothType" : false
     }, {
       "id" : 3158,
       "name" : "敕勒风云",
@@ -44,7 +48,8 @@
       "summary" : "宫斗，战斗，心斗，其实争来斗去，无非是人心与自己内心在情，权，钱三欲中的纠缠和挣扎。若要真说有宿命论",
       "updateStatus" : 1,
       "capacity" : 1186903,
-      "readerCount" : 6238
+      "readerCount" : 6238,
+      "bothType" : false
     }, {
       "id" : 2148,
       "name" : "江湖夜雨十年灯之诗酒篇",
@@ -52,7 +57,8 @@
       "summary" : "坎坷经年，宝剑成篇，风雨自行。曾怒马鲜衣，歌楼舞影；舒琴把剑，小筑遗情。纵酒红尘，两杯三友，买醉癫狂",
       "updateStatus" : 2,
       "capacity" : 1978111,
-      "readerCount" : 6218
+      "readerCount" : 6218,
+      "bothType" : false
     }, {
       "id" : 2252,
       "name" : "弃妃之笑看人生一世风流",
@@ -60,7 +66,8 @@
       "summary" : "穿越成一个可有可无的王妃，所谓的夫君根本就忘了自己的存在，妙！于是每天化妆成丫鬟左逛逛，右逛逛，逛出",
       "updateStatus" : 2,
       "capacity" : 8664951,
-      "readerCount" : 6186
+      "readerCount" : 6186,
+      "bothType" : false
     }, {
       "id" : 2946,
       "name" : "穿得人情",
@@ -68,7 +75,8 @@
       "summary" : "作品简介作品信息“小丫头，你听着，不管你是谁，又有何目的。从现在开始，你是我的，也只能是我的，哪也别",
       "updateStatus" : 1,
       "capacity" : 7653560,
-      "readerCount" : 6169
+      "readerCount" : 6169,
+      "bothType" : false
     }, {
       "id" : 2477,
       "name" : "特刑队之绝密档案",
@@ -76,7 +84,8 @@
       "summary" : "本文原名《凶手非人类》墓穴中的尸体神秘消失，少女尸体脖子上有着奇怪的创口，就在办案能力极强的刑侦大队",
       "updateStatus" : 1,
       "capacity" : 9760578,
-      "readerCount" : 6165
+      "readerCount" : 6165,
+      "bothType" : true
     }, {
       "id" : 2120,
       "name" : "伤情路漫漫",
@@ -84,7 +93,8 @@
       "summary" : "因为倔强的性格，生梅选择了自主的婚姻，从此她的苦痛生活便开始了，可是，也因为她的好强，她苦痛只有深埋",
       "updateStatus" : 1,
       "capacity" : 6425111,
-      "readerCount" : 6159
+      "readerCount" : 6159,
+      "bothType" : false
     }, {
       "id" : 2643,
       "name" : "乱盛夏倾光年",
@@ -92,7 +102,8 @@
       "summary" : "一直都相信着：在这个世界上，有很多和我一样的女孩。她们看《热血高校》、看《艋舺》、看《古惑仔》、看《",
       "updateStatus" : 1,
       "capacity" : 3445264,
-      "readerCount" : 6108
+      "readerCount" : 6108,
+      "bothType" : false
     }, {
       "id" : 2216,
       "name" : "欲之巅",
@@ -100,7 +111,8 @@
       "summary" : "在这个世界上到处充满了欲望的体现，酒色财气。人是欲望的产物，生命是欲望的延续。且看李新如何把握欲望的",
       "updateStatus" : 1,
       "capacity" : 4632877,
-      "readerCount" : 6084
+      "readerCount" : 6084,
+      "bothType" : false
     }, {
       "id" : 2273,
       "name" : "丞相公子，哪里跑",
@@ -108,7 +120,8 @@
       "summary" : "土灵珠什么美男没见过，偏偏看上他国丞相公子。看上了也就算了，他还不领情。说什么女子麻烦，他的兄弟一个",
       "updateStatus" : 1,
       "capacity" : 1273508,
-      "readerCount" : 6076
+      "readerCount" : 6076,
+      "bothType" : false
     }, {
       "id" : 3347,
       "name" : "冷艳傲骨：毒物小姐狠嚣张",
@@ -116,7 +129,8 @@
       "summary" : "人人都说你活该独自凄凉，其实没人懂你情长。她是容川家家主的掌上明珠，执掌容川家半壁江山的二当家大小姐",
       "updateStatus" : 1,
       "capacity" : 743882,
-      "readerCount" : 6072
+      "readerCount" : 6072,
+      "bothType" : true
     }, {
       "id" : 3029,
       "name" : "双女穿越记",
@@ -124,7 +138,8 @@
       "summary" : "话说这年头人人玩穿越，车祸穿、跳楼穿、雷劈穿.....总之是因有尽有，无奇不有。但是咱们可不同，是跟",
       "updateStatus" : 1,
       "capacity" : 4541191,
-      "readerCount" : 6072
+      "readerCount" : 6072,
+      "bothType" : false
     }, {
       "id" : 3442,
       "name" : "这个皇后朕买了",
@@ -132,7 +147,8 @@
       "summary" : "臣流泪情愿：姑娘，溺水三千，你就饮了陛下这一瓢吧————————夜傲风：后宫佳丽三千人，君只专宠你一",
       "updateStatus" : 1,
       "capacity" : 2405607,
-      "readerCount" : 6067
+      "readerCount" : 6067,
+      "bothType" : false
     }, {
       "id" : 2520,
       "name" : "网王天使的微笑",
@@ -140,7 +156,8 @@
       "summary" : "夏冰冰的一个不小心从楼上摔了下去，而且醒来的时候却是在陌生的房间里，正当她迷惑的时候有人开门而进“颜",
       "updateStatus" : 1,
       "capacity" : 3232902,
-      "readerCount" : 6052
+      "readerCount" : 6052,
+      "bothType" : false
     }, {
       "id" : 3354,
       "name" : "复仇公主恋爱记",
@@ -148,7 +165,8 @@
       "summary" : "片段一：“你这个贱女人，就会勾引澈，早点离开澈，否则后果自负。”慕容悦微整理好状态，凶神恶煞的对嫣说",
       "updateStatus" : 1,
       "capacity" : 606641,
-      "readerCount" : 6045
+      "readerCount" : 6045,
+      "bothType" : false
     }, {
       "id" : 3444,
       "name" : "童星穿越记",
@@ -156,7 +174,8 @@
       "summary" : "作品原名是【童星穿越记：在古代也散发光芒】的可是字数太多，只好改成【童星穿越记】了希望大家喜欢“可是",
       "updateStatus" : 1,
       "capacity" : 1105898,
-      "readerCount" : 6036
+      "readerCount" : 6036,
+      "bothType" : true
     }, {
       "id" : 2217,
       "name" : "枪芒",
@@ -164,7 +183,8 @@
       "summary" : "紫月大陆，一个实力为尊的大陆，刘飞宇，一个草根，没有逆天的天赋与运气，没有强大的师承，没有强大的家族",
       "updateStatus" : 1,
       "capacity" : 7312982,
-      "readerCount" : 6011
+      "readerCount" : 6011,
+      "bothType" : true
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "summary" : "一个是倾尽生命去爱恋的男人，而一个则是暗夜里的掠夺者，造化弄人，宋子萱又该如何选择？",
       "updateStatus" : 1,
       "capacity" : 296334,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2666,
       "name" : "我的老公70后",
@@ -20,7 +21,8 @@
       "summary" : "“老婆，你吃馒头、烧饼、花卷、面条、还是米饭？”“老公，我吃馒头。”“--可是，老婆，我去哪给你买馒",
       "updateStatus" : 1,
       "capacity" : 6189160,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2597,
       "name" : "醉月星辰之月倾天下",
@@ -28,7 +30,8 @@
       "summary" : "月若水，夜如冰，倾世天下又怎敌你的美，落箫引，影剑移，袖手江湖又何妨？从此红尘相伴，策马天涯，一笑泯",
       "updateStatus" : 1,
       "capacity" : 4556200,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2049,
       "name" : "红尘之弃妃觅爱",
@@ -36,7 +39,8 @@
       "summary" : "简单就如白纸，复杂不过人心。若白纸其实是宣纸，被墨水一滴，黑色立刻迷漫就好像被利益蒙了心，那便什么都",
       "updateStatus" : 1,
       "capacity" : 5853453,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3565,
       "name" : "缘定三生",
@@ -44,7 +48,8 @@
       "summary" : "一个白色身影打着一把油伞，细雨太过朦胧让人看不清面容，模糊的身影，雨不知何时已停。身影猛然顿住，前面",
       "updateStatus" : 1,
       "capacity" : 676306,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2322,
       "name" : "异世至尊红颜",
@@ -52,7 +57,8 @@
       "summary" : "一个穿越异世的落魄公主，一句临死前的诺言，一本鬼影十三式，一段毒咒引发的复仇，引来无数血雨风波。弱肉",
       "updateStatus" : 1,
       "capacity" : 7099514,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3274,
       "name" : "啼笑皆妃之妃比寻常",
@@ -60,7 +66,8 @@
       "summary" : "金发蓝眸的某外国洋妞也赶上了一次穿越的小尾巴在封建的黑发世界某女那生活过的幸福的跟奥特曼打小怪兽一样",
       "updateStatus" : 1,
       "capacity" : 744290,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 2423,
       "name" : "天价前妻：绝情总裁的契约情人",
@@ -68,7 +75,8 @@
       "summary" : "莫君泽深邃的黑眸在夏忆然绝美的面容上定格，那淡棕色的水晶眸却露出不明所以的神色，莫君泽于是无比好心地",
       "updateStatus" : 1,
       "capacity" : 1657606,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2721,
       "name" : "笼中魇",
@@ -76,7 +84,8 @@
       "summary" : "我此一生，弑主夺权者尚有，背信忘义者无数，唯利是图者遍地。忠孝反倒像极了一个笑话。我坚持父亲的大义，",
       "updateStatus" : 1,
       "capacity" : 5159874,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : true
     }, {
       "id" : 2599,
       "name" : "流年何处飞花去",
@@ -84,7 +93,8 @@
       "summary" : "她说，他们皆是书法。他是她心中的行书，婉转温柔却不乏霸道王气。她为他清歌一曲，只因他名里有歌。他醉她",
       "updateStatus" : 1,
       "capacity" : 3909934,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3561,
       "name" : "穿越之唯爱有你",
@@ -92,7 +102,8 @@
       "summary" : "简介：你相信不相信世上会有缘分？你相信不相信世上会有奇迹？两个相爱的人因为一个误会，从此天各一方，他",
       "updateStatus" : 1,
       "capacity" : 49874,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2621,
       "name" : "一路南北",
@@ -100,7 +111,8 @@
       "summary" : "我们的青春不仅仅只有爱情可谈。死皮赖脸，撒泼打滚，嬉笑怒骂，毒舌腹黑自嘲式冷幽默，讲述一段除了爱情之",
       "updateStatus" : 1,
       "capacity" : 7941342,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3006,
       "name" : "君在水之湄",
@@ -108,7 +120,8 @@
       "summary" : "好不容易以为遇到了真命天子，迫不及待的闪婚，然而，老天还真是不眷顾她。闪婚的代价，就是电闪雷鸣中被带",
       "updateStatus" : 1,
       "capacity" : 8504594,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3276,
       "name" : "宫心计续集",
@@ -116,7 +129,8 @@
       "summary" : "后宫——是女人之间的斗争，更是无休止的斗争，她们，为了争宠，尔虞我诈，明争暗斗，甚至不惜陷害自己的姐",
       "updateStatus" : 1,
       "capacity" : 392326,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2740,
       "name" : "熟女的清穿经历",
@@ -124,7 +138,8 @@
       "summary" : "上一世，她父母双亡婚姻失败事业惨遭滑铁卢。这一世，她放下心结，不断学习，在一次次的斗争中，终于有了一",
       "updateStatus" : 1,
       "capacity" : 9041512,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2129,
       "name" : "美人出逃：别惹弃妃",
@@ -132,7 +147,8 @@
       "summary" : "新婚之夜，纠缠半刻，新郎却兴趣全无的从她身上爬起来。What？本姑娘倾国倾城，身段修长，该凸的凸，该",
       "updateStatus" : 1,
       "capacity" : 7152956,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3282,
       "name" : "樱舞飞剑",
@@ -140,7 +156,8 @@
       "summary" : "剑本凡铁，只因经过了绝殇的淬炼才成为魂器。七剑，武林至宝。传说它可有令亡人轮回再世能力，因为它各代表",
       "updateStatus" : 1,
       "capacity" : 114157,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3114,
       "name" : "十四行的秘密",
@@ -148,7 +165,8 @@
       "summary" : "沈岚因为一个梦，一直喜欢庄曜，可是陪着她一路走来的却是玄晋予，当她学会转身时，玄晋予是不是还会一直站",
       "updateStatus" : 1,
       "capacity" : 184610,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2541,
       "name" : "前世姻来生缘",
@@ -156,7 +174,8 @@
       "summary" : "小狐狸精一枚（女），本过着神仙般的日子，偏偏招惹到了上神。本想过着修仙的日子，偏偏就是不能如愿。史上",
       "updateStatus" : 1,
       "capacity" : 5782312,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3523,
       "name" : "圣界天域",
@@ -164,7 +183,8 @@
       "summary" : "天地之间，无数片空间相连。万千世界，演绎着一个又一个传奇！在这里，宗门林立，地盘分明，五大域执掌天地",
       "updateStatus" : 1,
       "capacity" : 1002784,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     } ]
   }
 }

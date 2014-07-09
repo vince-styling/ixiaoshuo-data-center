@@ -12,7 +12,8 @@
       "summary" : "初恋是什么感觉，什么颜色？甜的、粉色的？白杏雨活了很久，还是很清晰的记得那个感觉。她曾经很恨很恨许凛",
       "updateStatus" : 1,
       "capacity" : 8864378,
-      "readerCount" : 12162
+      "readerCount" : 12162,
+      "bothType" : true
     }, {
       "id" : 2246,
       "name" : "王爷，你给本宫趴下",
@@ -20,7 +21,8 @@
       "summary" : "【表面是欢脱的】据说，人间有种职业叫做穿越天界有种惩处叫做轮回那她九生九死，往来穿梭，算个啥？再说，",
       "updateStatus" : 2,
       "capacity" : 2201147,
-      "readerCount" : 12125
+      "readerCount" : 12125,
+      "bothType" : true
     }, {
       "id" : 2260,
       "name" : "山外青山，楼外楼",
@@ -28,7 +30,8 @@
       "summary" : "又名《江湖向左，江山向右》如果有一天，江湖和江山只有一步之遥，你会迈向那一边？这是一个值得深思的问题",
       "updateStatus" : 1,
       "capacity" : 3437110,
-      "readerCount" : 11853
+      "readerCount" : 11853,
+      "bothType" : false
     }, {
       "id" : 2319,
       "name" : "绝代风华：魅惑帝王心",
@@ -36,7 +39,8 @@
       "summary" : "【千景阁原创出品】她一场车祸，莫名其妙穿到一个架空年代，居然是一个开国大将军的庶女，母亲早死，爹爹不",
       "updateStatus" : 2,
       "capacity" : 9303636,
-      "readerCount" : 11801
+      "readerCount" : 11801,
+      "bothType" : false
     }, {
       "id" : 2248,
       "name" : "倾城引",
@@ -44,7 +48,8 @@
       "summary" : "北方有佳人，一顾倾人城，再顾倾人国。宁不知倾城与倾国，佳人难再得！莫凉湖畔，她醉酒酣睡，却在他怀中低",
       "updateStatus" : 2,
       "capacity" : 5421609,
-      "readerCount" : 11605
+      "readerCount" : 11605,
+      "bothType" : false
     }, {
       "id" : 2285,
       "name" : "天织雪",
@@ -52,7 +57,8 @@
       "summary" : "他说：“跟我回去，可好？”他眼睛看不见，伸手却那样利落。“你叫我去找你，是等着嫁给我吗？”“等我好了",
       "updateStatus" : 1,
       "capacity" : 1681149,
-      "readerCount" : 11197
+      "readerCount" : 11197,
+      "bothType" : false
     }, {
       "id" : 2291,
       "name" : "长脚丫的年轮",
@@ -60,7 +66,8 @@
       "summary" : "老一辈的回忆录，跨度六十余年，涉及时代、情感、事业。不平静的历史背景下的艰难人生，坎坷中的坚韧，贫寒",
       "updateStatus" : 1,
       "capacity" : 1849177,
-      "readerCount" : 10531
+      "readerCount" : 10531,
+      "bothType" : true
     }, {
       "id" : 2716,
       "name" : "风华绝代红颜决",
@@ -68,7 +75,8 @@
       "summary" : "一朝穿越当小姐，回首再顾成皇后。只因微微回眸，却再难割舍。也许这就是现实，不论身在何方，仍是挣扎的生",
       "updateStatus" : 1,
       "capacity" : 2514514,
-      "readerCount" : 10515
+      "readerCount" : 10515,
+      "bothType" : false
     }, {
       "id" : 3426,
       "name" : "浪子安归",
@@ -76,7 +84,8 @@
       "summary" : "民国初期，新旧事物更替，世道乱，百姓苦。黎晋安，一个生活在南方的一个小村庄里的孤儿，一个平凡的护院，",
       "updateStatus" : 1,
       "capacity" : 457504,
-      "readerCount" : 10437
+      "readerCount" : 10437,
+      "bothType" : false
     }, {
       "id" : 2115,
       "name" : "宫心计：弃后霸君宠",
@@ -84,7 +93,8 @@
       "summary" : "“她，是大莹王朝未来的皇后。”太后一句懿旨，让她从一个不受宠的郡主一跃变成母仪天下的国母。权宠之争，",
       "updateStatus" : 2,
       "capacity" : 3994478,
-      "readerCount" : 10256
+      "readerCount" : 10256,
+      "bothType" : false
     }, {
       "id" : 2723,
       "name" : "宝贝我宠你",
@@ -92,7 +102,8 @@
       "summary" : "上一世：她，欧阳墨璃虽出生名门却得不到亲人的一丝疼爱，整日为家族劳累奋斗，她为的是什么，一场意外让她",
       "updateStatus" : 1,
       "capacity" : 1941879,
-      "readerCount" : 10178
+      "readerCount" : 10178,
+      "bothType" : false
     }, {
       "id" : 2271,
       "name" : "沙僧西行记略",
@@ -100,7 +111,8 @@
       "summary" : "迷恋《沙僧日记》，《李逵日记》等书的朋友们，可以收藏本书，因为我私底下认为《沙僧西行记略》已然达到了",
       "updateStatus" : 1,
       "capacity" : 4568322,
-      "readerCount" : 10026
+      "readerCount" : 10026,
+      "bothType" : true
     }, {
       "id" : 2713,
       "name" : "凉茶温酒",
@@ -108,7 +120,8 @@
       "summary" : "贪狼星君？神棍说苏昀是神仙，他就是神仙了吗？我是史官，不是谐星，我这是纪实文学。就算他是北斗七星一员",
       "updateStatus" : 1,
       "capacity" : 1435897,
-      "readerCount" : 10017
+      "readerCount" : 10017,
+      "bothType" : false
     }, {
       "id" : 2264,
       "name" : "龙斗狂沙西辽传奇",
@@ -116,7 +129,8 @@
       "summary" : "公元十二世纪初，契丹皇族后裔耶律大石无意间结识前来盗取兵书的汉人少年李天晟。皇帝耶律延禧逃亡夹山。耶",
       "updateStatus" : 1,
       "capacity" : 2493729,
-      "readerCount" : 9999
+      "readerCount" : 9999,
+      "bothType" : true
     }, {
       "id" : 2289,
       "name" : "暴虐王爷风流妃",
@@ -124,7 +138,8 @@
       "summary" : "嫦娥应悔偷灵药，碧海青天夜夜心。她本月宫嫦娥，只为贪恋与丈夫的一世情缘，情愿轮回百世，嬉戏人间。无耐",
       "updateStatus" : 1,
       "capacity" : 7147205,
-      "readerCount" : 9797
+      "readerCount" : 9797,
+      "bothType" : false
     }, {
       "id" : 2267,
       "name" : "三国恋之不如归去",
@@ -132,7 +147,8 @@
       "summary" : "月读，从夷洲辗转来到战火纷飞的天土，当时正值三国鼎立，魏蜀吴三国战争不断，魏国内部世族大家斗争也是日",
       "updateStatus" : 1,
       "capacity" : 8650974,
-      "readerCount" : 9286
+      "readerCount" : 9286,
+      "bothType" : true
     }, {
       "id" : 2250,
       "name" : "梦碎潋滟雪如尘",
@@ -140,7 +156,8 @@
       "summary" : "【澄文古风馆作品】她说，终此一生，我也要位及至尊！终有一天，这天下供我予取予与！他说，此生遇见你，便",
       "updateStatus" : 2,
       "capacity" : 3336142,
-      "readerCount" : 8850
+      "readerCount" : 8850,
+      "bothType" : false
     }, {
       "id" : 2265,
       "name" : "朗歌行",
@@ -148,7 +165,8 @@
       "summary" : "塞上白草连碧空红巾将军笑弯弓碧玉当年谁家女来往不疑春山中雨花溅石床彩翠作夕岚桃源仙林外世间空云山长恨",
       "updateStatus" : 1,
       "capacity" : 9844980,
-      "readerCount" : 8781
+      "readerCount" : 8781,
+      "bothType" : true
     }, {
       "id" : 2272,
       "name" : "乱世红尘梦",
@@ -156,7 +174,8 @@
       "summary" : "一件神秘出现的玉吊坠，一次突如其来的穿越夜，一场金戈铁马的乱世情，一段刻骨铭心的红尘恋，上官云在情人",
       "updateStatus" : 1,
       "capacity" : 9151577,
-      "readerCount" : 8667
+      "readerCount" : 8667,
+      "bothType" : false
     }, {
       "id" : 2249,
       "name" : "古代求生记",
@@ -164,7 +183,8 @@
       "summary" : "药物专业的大三女生，机缘巧合穿越时空入住东晟，经历了拔刀相助、上当受骗、经营酒楼、医治患者、策划宴会",
       "updateStatus" : 2,
       "capacity" : 9409345,
-      "readerCount" : 8454
+      "readerCount" : 8454,
+      "bothType" : false
     } ]
   }
 }

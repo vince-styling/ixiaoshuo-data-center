@@ -12,7 +12,8 @@
       "summary" : "少时，你许我温暖。赏如桃花绽放的你，品情如我们清冽醇厚的酒，叹如落花的结局。转瞬间，与知己好友的离别",
       "updateStatus" : 1,
       "capacity" : 43429,
-      "readerCount" : 870
+      "readerCount" : 870,
+      "bothType" : false
     }, {
       "id" : 2274,
       "name" : "世家贵女",
@@ -20,7 +21,8 @@
       "summary" : "如果穿越是老天对沈婷的优待的话，那么同时有更优秀的现代女穿过来这算怎么回事儿，额外奖励？难道她只是女",
       "updateStatus" : 1,
       "capacity" : 5729827,
-      "readerCount" : 864
+      "readerCount" : 864,
+      "bothType" : true
     }, {
       "id" : 3004,
       "name" : "陪伴是最长情的告白",
@@ -28,7 +30,8 @@
       "summary" : "你相信有一种陪伴叫做：虽不在身边，却一直存活在对方心里从未分开吗？我想，我是相信的。--------",
       "updateStatus" : 1,
       "capacity" : 4064205,
-      "readerCount" : 862
+      "readerCount" : 862,
+      "bothType" : false
     }, {
       "id" : 3719,
       "name" : "唯心城的月光",
@@ -36,7 +39,8 @@
       "summary" : "如果青春的盛宴是一场救赎，我们都在以爱的名义为自己祷告。青涩的少年在阳光下用那个画笔描绘着执子之手，",
       "updateStatus" : 1,
       "capacity" : 566770,
-      "readerCount" : 856
+      "readerCount" : 856,
+      "bothType" : false
     }, {
       "id" : 2468,
       "name" : "天堂巴士444",
@@ -44,7 +48,8 @@
       "summary" : "百岁之期，她终于能光明正大的离开天堂，却不料进入了三界之中最为黑暗的市场。多年之后，她又一次洞悉他的",
       "updateStatus" : 1,
       "capacity" : 3403844,
-      "readerCount" : 854
+      "readerCount" : 854,
+      "bothType" : false
     }, {
       "id" : 3199,
       "name" : "后宫大学传",
@@ -52,7 +57,8 @@
       "summary" : "卧槽！娘娘你不能这样，做人要厚道。我不穿！我真的不穿！什么？我们寝室其他五个已经去了？靠！都是些没良",
       "updateStatus" : 1,
       "capacity" : 44741,
-      "readerCount" : 852
+      "readerCount" : 852,
+      "bothType" : false
     }, {
       "id" : 3155,
       "name" : "忘川不忘",
@@ -60,7 +66,8 @@
       "summary" : "我忽然得知外婆家乡的那条忘川河是一条让人敬而远之，想要被填埋掉的河流时，我却不能接受如此。也不知从什",
       "updateStatus" : 1,
       "capacity" : 106669,
-      "readerCount" : 849
+      "readerCount" : 849,
+      "bothType" : false
     }, {
       "id" : 3074,
       "name" : "王子，请把我带回家",
@@ -68,7 +75,8 @@
       "summary" : "韩雅唯，名字温柔而本质却恰恰相反的女生，在爷爷威逼利诱下进入蒂斯学院就读。初进学院就遇到了痴情种高崎",
       "updateStatus" : 1,
       "capacity" : 72805,
-      "readerCount" : 848
+      "readerCount" : 848,
+      "bothType" : true
     }, {
       "id" : 3733,
       "name" : "公主白雪",
@@ -76,7 +84,8 @@
       "summary" : "这个故事，发生在一个很遥远很遥远的国度。故事从一个叫豆腐西施的女孩开始。昨天她还在街巷里卖臭豆腐，一",
       "updateStatus" : 1,
       "capacity" : 949929,
-      "readerCount" : 844
+      "readerCount" : 844,
+      "bothType" : false
     }, {
       "id" : 3558,
       "name" : "残疾王爷，暴力妃",
@@ -84,7 +93,8 @@
       "summary" : "冷雪站在草地上对着天空喊道：“神啊！我上辈子没有惹你吧！老天啊！我上辈子也没有惹你吧！你们怎么能忍心",
       "updateStatus" : 1,
       "capacity" : 303056,
-      "readerCount" : 840
+      "readerCount" : 840,
+      "bothType" : false
     }, {
       "id" : 3573,
       "name" : "天使与伪天使的契约",
@@ -92,7 +102,8 @@
       "summary" : "从小生活在两个庞大家族里的两位小姐，却因阴谋而被迫离家。从纯洁无瑕的天使堕落为伪天使。伪天使的复仇！",
       "updateStatus" : 1,
       "capacity" : 181997,
-      "readerCount" : 839
+      "readerCount" : 839,
+      "bothType" : false
     }, {
       "id" : 2510,
       "name" : "守卫爱情",
@@ -100,7 +111,8 @@
       "summary" : "关于爱情，有这样一种境界，我的眼里只有你，或者，你是我的全部？可陈秀和赵学鹏的爱情，总走在出轨的边缘",
       "updateStatus" : 2,
       "capacity" : 1410981,
-      "readerCount" : 837
+      "readerCount" : 837,
+      "bothType" : false
     }, {
       "id" : 3672,
       "name" : "只愿得君心",
@@ -108,7 +120,8 @@
       "summary" : "一次意外，她险些摔下悬崖，稚嫩的呼救声，第一次见到了他。他面无表情的把她从死亡的边缘拉了上来，她已对",
       "updateStatus" : 1,
       "capacity" : 210678,
-      "readerCount" : 831
+      "readerCount" : 831,
+      "bothType" : false
     }, {
       "id" : 3064,
       "name" : "再回首灯火阑珊",
@@ -116,7 +129,8 @@
       "summary" : "五年之后的相逢，林小果身边有他，江宇轩只能默默离开，三个人的世界太拥挤。分别的五年，美丽能干的叶溪一",
       "updateStatus" : 1,
       "capacity" : 769654,
-      "readerCount" : 830
+      "readerCount" : 830,
+      "bothType" : false
     }, {
       "id" : 2912,
       "name" : "媚色重生：情挑尤物庶女",
@@ -124,7 +138,8 @@
       "summary" : "带着前仇旧恨，百世机缘换来重生。苏樱樱回到了十七岁被囚禁在后院的日子，一切又开始轮回。抢了自己夫君的",
       "updateStatus" : 1,
       "capacity" : 5181278,
-      "readerCount" : 819
+      "readerCount" : 819,
+      "bothType" : false
     }, {
       "id" : 3400,
       "name" : "天使的诠释：幸福就是遇见你",
@@ -132,7 +147,8 @@
       "summary" : "季千泽，被我盯上，算你倒霉。这到底是场游戏，还是一场精心策划的骗局？当天使堕落那一刻，就注定了最后的",
       "updateStatus" : 1,
       "capacity" : 149264,
-      "readerCount" : 816
+      "readerCount" : 816,
+      "bothType" : false
     }, {
       "id" : 3489,
       "name" : "夜色如昨",
@@ -140,7 +156,8 @@
       "summary" : "历史轮回，蓦然回首却又见他；江山似旧，却已不再旧时情怀。一次穿越，她回到两千年前，一段痴恋，明知无果",
       "updateStatus" : 1,
       "capacity" : 170304,
-      "readerCount" : 816
+      "readerCount" : 816,
+      "bothType" : false
     }, {
       "id" : 3403,
       "name" : "权倾凤妆",
@@ -148,7 +165,8 @@
       "summary" : "生死不负的誓言他拉着她的手，说道：后宫只有你一人，皇后是你，妃子是你，嫔也是你，都是虚的名头，我只爱",
       "updateStatus" : 1,
       "capacity" : 338866,
-      "readerCount" : 812
+      "readerCount" : 812,
+      "bothType" : false
     }, {
       "id" : 2254,
       "name" : "小哥跟着姐，有肉吃",
@@ -156,7 +174,8 @@
       "summary" : "小哥，跟着姐，有肉吃！新人发文，两天一更，绝对不坑~严络青，一只披着财主皮整天只知道装深沉内里其实是",
       "updateStatus" : 2,
       "capacity" : 7437354,
-      "readerCount" : 812
+      "readerCount" : 812,
+      "bothType" : true
     }, {
       "id" : 3367,
       "name" : "血仙·舞",
@@ -164,7 +183,8 @@
       "summary" : "人皆道她翩然若仙，红衣似血，红纱之下必为绝色之颜，下手狠辣，弹指间便索人性命。却无人知她一介女流隐姓",
       "updateStatus" : 1,
       "capacity" : 151413,
-      "readerCount" : 811
+      "readerCount" : 811,
+      "bothType" : false
     } ]
   }
 }

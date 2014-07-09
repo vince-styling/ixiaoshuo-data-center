@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3118,
-      "name" : "第二频道之穿越模式",
+      "id" : 2041,
+      "name" : "卿本佳人",
       "updateStatus" : 2,
-      "distance" : 3482,
-      "memberId" : 7941
+      "distance" : 6720,
+      "memberId" : 1238,
+      "bothType" : false
     }, {
-      "id" : 3535,
-      "name" : "冥空以月",
+      "id" : 2063,
+      "name" : "花花少主不言爱：吃定小妖精",
       "updateStatus" : 1,
-      "distance" : 6254,
-      "memberId" : 3718
+      "distance" : 6222,
+      "memberId" : 6515,
+      "bothType" : false
     }, {
-      "id" : 3389,
-      "name" : "芙蓉一纸欢",
+      "id" : 3574,
+      "name" : "祁家楼外楼",
       "updateStatus" : 1,
-      "distance" : 4848,
-      "memberId" : 3532
+      "distance" : 6465,
+      "memberId" : 5544,
+      "bothType" : false
     }, {
-      "id" : 2736,
-      "name" : "我是石观音",
+      "id" : 2760,
+      "name" : "纳粹宝藏",
       "updateStatus" : 1,
-      "distance" : 8804,
-      "memberId" : 7268
+      "distance" : 5731,
+      "memberId" : 8237,
+      "bothType" : false
     }, {
-      "id" : 2788,
-      "name" : "五月，安然",
+      "id" : 2958,
+      "name" : "伤痕落尽我依然等你",
       "updateStatus" : 1,
-      "distance" : 6842,
-      "memberId" : 5880
+      "distance" : 3276,
+      "memberId" : 2022,
+      "bothType" : true
     }, {
-      "id" : 3254,
-      "name" : "北京不眠",
+      "id" : 3475,
+      "name" : "冰王的傲娇妃",
       "updateStatus" : 1,
-      "distance" : 2433,
-      "memberId" : 1270
+      "distance" : 2346,
+      "memberId" : 4991,
+      "bothType" : false
     }, {
-      "id" : 3722,
-      "name" : "夏日妍妍正好眠",
-      "updateStatus" : 1,
-      "distance" : 4538,
-      "memberId" : 8137
-    }, {
-      "id" : 3036,
-      "name" : "此生堪华年",
-      "updateStatus" : 1,
-      "distance" : 9354,
-      "memberId" : 7654
-    }, {
-      "id" : 3534,
-      "name" : "风起翼翔雪牵洛楹",
-      "updateStatus" : 1,
-      "distance" : 2105,
-      "memberId" : 6704
-    }, {
-      "id" : 2606,
-      "name" : "自古多情空余恨",
-      "updateStatus" : 1,
-      "distance" : 2084,
-      "memberId" : 5003
-    }, {
-      "id" : 2056,
-      "name" : "夫君夫君不可以",
+      "id" : 2083,
+      "name" : "卿本庶女",
       "updateStatus" : 2,
-      "distance" : 1304,
-      "memberId" : 8990
+      "distance" : 9168,
+      "memberId" : 6606,
+      "bothType" : false
     }, {
-      "id" : 2665,
-      "name" : "暗道，情回路",
+      "id" : 3240,
+      "name" : "打工江湖路",
       "updateStatus" : 1,
-      "distance" : 5452,
-      "memberId" : 4745
+      "distance" : 2503,
+      "memberId" : 4504,
+      "bothType" : false
     }, {
-      "id" : 2109,
-      "name" : "开门迎客",
+      "id" : 2867,
+      "name" : "子兰",
       "updateStatus" : 1,
-      "distance" : 1017,
-      "memberId" : 1902
+      "distance" : 2828,
+      "memberId" : 1195,
+      "bothType" : false
     }, {
-      "id" : 2810,
-      "name" : "深爱不能醒",
+      "id" : 3238,
+      "name" : "红尘珏",
       "updateStatus" : 1,
-      "distance" : 2803,
-      "memberId" : 5763
+      "distance" : 1141,
+      "memberId" : 8595,
+      "bothType" : true
     }, {
-      "id" : 3219,
-      "name" : "梦境梦尽",
+      "id" : 2221,
+      "name" : "七星北斗PLOUGH",
       "updateStatus" : 1,
-      "distance" : 7938,
-      "memberId" : 5215
+      "distance" : 6314,
+      "memberId" : 6831,
+      "bothType" : false
     }, {
-      "id" : 3311,
-      "name" : "韩菲之黑道女帝",
+      "id" : 3652,
+      "name" : "总裁恶魔点娇妻",
       "updateStatus" : 1,
-      "distance" : 2428,
-      "memberId" : 5147
+      "distance" : 7691,
+      "memberId" : 7209,
+      "bothType" : false
     }, {
-      "id" : 2704,
-      "name" : "幻世至秘",
-      "updateStatus" : 1,
-      "distance" : 3277,
-      "memberId" : 1706
-    }, {
-      "id" : 2757,
-      "name" : "总裁溺恋之是祸躲不过",
-      "updateStatus" : 1,
-      "distance" : 1018,
-      "memberId" : 8713
-    }, {
-      "id" : 2254,
-      "name" : "小哥跟着姐，有肉吃",
+      "id" : 2072,
+      "name" : "绝色医仙：迫嫁公主绝情帝",
       "updateStatus" : 2,
-      "distance" : 7080,
-      "memberId" : 1961
+      "distance" : 9727,
+      "memberId" : 3269,
+      "bothType" : false
     }, {
-      "id" : 2679,
-      "name" : "雪莲的桔梗花",
+      "id" : 2648,
+      "name" : "浮生琉璃路",
       "updateStatus" : 1,
-      "distance" : 7077,
-      "memberId" : 1038
+      "distance" : 7837,
+      "memberId" : 1382,
+      "bothType" : false
+    }, {
+      "id" : 3344,
+      "name" : "诀爱（乱世胧伊）",
+      "updateStatus" : 1,
+      "distance" : 7874,
+      "memberId" : 1174,
+      "bothType" : false
+    }, {
+      "id" : 3107,
+      "name" : "世间冷暖",
+      "updateStatus" : 1,
+      "distance" : 5609,
+      "memberId" : 1474,
+      "bothType" : false
+    }, {
+      "id" : 3298,
+      "name" : "我们无法预知的下一秒",
+      "updateStatus" : 1,
+      "distance" : 9587,
+      "memberId" : 5414,
+      "bothType" : false
+    }, {
+      "id" : 2392,
+      "name" : "刁蛮丫头很温柔",
+      "updateStatus" : 2,
+      "distance" : 5939,
+      "memberId" : 4311,
+      "bothType" : false
+    }, {
+      "id" : 2824,
+      "name" : "绿草如茵",
+      "updateStatus" : 1,
+      "distance" : 2306,
+      "memberId" : 4348,
+      "bothType" : false
+    }, {
+      "id" : 2733,
+      "name" : "静水寒：萌女穿越记",
+      "updateStatus" : 1,
+      "distance" : 5364,
+      "memberId" : 2436,
+      "bothType" : false
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "summary" : "跨越千年，于茫茫人海中寻找那个他。前世，我们不能相守；今生，必定执子之手，与之偕老。一段贯穿前世与今",
       "updateStatus" : 1,
       "capacity" : 168949,
-      "readerCount" : 1365
+      "readerCount" : 1365,
+      "bothType" : false
     }, {
       "id" : 3706,
       "name" : "痴情的心",
@@ -20,7 +21,8 @@
       "summary" : "一对情窦初开的少年男女，生活学习在同一个屋檐下，彼此相互爱慕，并携手一同走进大学校门，毕业后，俩人准",
       "updateStatus" : 1,
       "capacity" : 46754,
-      "readerCount" : 1356
+      "readerCount" : 1356,
+      "bothType" : true
     }, {
       "id" : 3125,
       "name" : "竹马太凶残",
@@ -28,7 +30,8 @@
       "summary" : "西隅中学来了三个转校生。恶名昭彰的G城恶霸竟然为了一个小时候的爱人而转校。那个身高异于常人的女生的出",
       "updateStatus" : 1,
       "capacity" : 184407,
-      "readerCount" : 1327
+      "readerCount" : 1327,
+      "bothType" : false
     }, {
       "id" : 3591,
       "name" : "小羊别闹，来吃草",
@@ -36,7 +39,8 @@
       "summary" : "本以为可以嫁大神，穿上新娘装才发现，新郎另有其人本以为人品爆发了，结婚相处后才知道，自己掉进了坑本以",
       "updateStatus" : 2,
       "capacity" : 349256,
-      "readerCount" : 1317
+      "readerCount" : 1317,
+      "bothType" : false
     }, {
       "id" : 3587,
       "name" : "如果时光记得",
@@ -44,7 +48,8 @@
       "summary" : "年轻的时候，懵懵懂懂的，不算懂生活和爱情，但有一份执着，一份勇敢。唐幽记得那时自己说不上是最勇敢的，",
       "updateStatus" : 1,
       "capacity" : 18047,
-      "readerCount" : 1308
+      "readerCount" : 1308,
+      "bothType" : true
     }, {
       "id" : 3124,
       "name" : "一直在一起",
@@ -52,7 +57,8 @@
       "summary" : "莫伤觉得，他的小欣儿就是自己的，他可以把她暂时借给别的男人，教会她爱，但是，最后欣儿爱的人一定要是自",
       "updateStatus" : 1,
       "capacity" : 58757,
-      "readerCount" : 1295
+      "readerCount" : 1295,
+      "bothType" : true
     }, {
       "id" : 3288,
       "name" : "契约情人之滚下我的床",
@@ -60,7 +66,8 @@
       "summary" : "连宇凡一把将安锦拽到怀里，压在床上，眼神霸道而炽烈。“记住！你是我的女人，一辈子都是我的女人！”安锦",
       "updateStatus" : 1,
       "capacity" : 429106,
-      "readerCount" : 1293
+      "readerCount" : 1293,
+      "bothType" : true
     }, {
       "id" : 3359,
       "name" : "遇见等于错过",
@@ -68,7 +75,8 @@
       "summary" : "上官言，请原谅，我爱你不是我可以阻止的，离开你却是我可以选择的。苏芙，你如愿以偿的让我爱上你，现在你",
       "updateStatus" : 1,
       "capacity" : 214039,
-      "readerCount" : 1291
+      "readerCount" : 1291,
+      "bothType" : false
     }, {
       "id" : 3562,
       "name" : "雨城",
@@ -76,7 +84,8 @@
       "summary" : "南方的小岛上有一栋无人居住的白色大宅，那里一直流传着一个吸血鬼的故事。他是传说中的吸血鬼，孩子们都避",
       "updateStatus" : 2,
       "capacity" : 897032,
-      "readerCount" : 1290
+      "readerCount" : 1290,
+      "bothType" : false
     }, {
       "id" : 3062,
       "name" : "两年后的爱情",
@@ -84,7 +93,8 @@
       "summary" : "拒绝表白三步曲（单身适用）第一：打断他的表白‘同学，我认识你吗？不，应该说，你认识我吗？’第二：反问",
       "updateStatus" : 1,
       "capacity" : 189670,
-      "readerCount" : 1228
+      "readerCount" : 1228,
+      "bothType" : false
     }, {
       "id" : 3364,
       "name" : "只要你幸福，愿意不爱你",
@@ -92,7 +102,8 @@
       "summary" : "楔子只要你幸福，我愿意不爱你，即使给你幸福的那个人不是我。——陆思寻。这是陆思寻留给容萱最后的一句话",
       "updateStatus" : 1,
       "capacity" : 787599,
-      "readerCount" : 1227
+      "readerCount" : 1227,
+      "bothType" : false
     }, {
       "id" : 3422,
       "name" : "五十弦",
@@ -100,7 +111,8 @@
       "summary" : "这一生，古夏好最大的心愿就是一生幸福。06年遇到于锡酒，08年以第三者插足结束。汶川的一场地震她遇上",
       "updateStatus" : 1,
       "capacity" : 655975,
-      "readerCount" : 1209
+      "readerCount" : 1209,
+      "bothType" : false
     }, {
       "id" : 3290,
       "name" : "婚然厚爱",
@@ -108,7 +120,8 @@
       "summary" : "本以为没了慕湛西，生活就会安稳了吧！可是还冒出个了顾行止，不过就让假装了一次男朋友，可这厮倒好，直接",
       "updateStatus" : 1,
       "capacity" : 38920,
-      "readerCount" : 1172
+      "readerCount" : 1172,
+      "bothType" : true
     }, {
       "id" : 3075,
       "name" : "仅对你依恋",
@@ -116,7 +129,8 @@
       "summary" : "她说：有一些伤痛真的很沉重，原来以为的一切，是那么不堪一击。当你再一次出现我对你的思念再也无法隐藏，",
       "updateStatus" : 1,
       "capacity" : 98351,
-      "readerCount" : 1170
+      "readerCount" : 1170,
+      "bothType" : false
     }, {
       "id" : 3580,
       "name" : "槐花吟",
@@ -124,7 +138,8 @@
       "summary" : "‘槐花树下，那个明目美丽的海丽笑的很开心，她对着我说，姚悦，我好像怀孕了，她用其一生的温柔抚摸着自己",
       "updateStatus" : 1,
       "capacity" : 25784,
-      "readerCount" : 1164
+      "readerCount" : 1164,
+      "bothType" : false
     }, {
       "id" : 2680,
       "name" : "若要爱，非你不可",
@@ -132,7 +147,8 @@
       "summary" : "一场岁月变换中，没有人可以毫发无损的走到年老。曾小葵也一样，只是她比较幸运的在可能要熬不下的时节遇上",
       "updateStatus" : 1,
       "capacity" : 4269904,
-      "readerCount" : 1163
+      "readerCount" : 1163,
+      "bothType" : false
     }, {
       "id" : 3365,
       "name" : "夜已阑珊",
@@ -140,7 +156,8 @@
       "summary" : "女主小白，男主腹黑。",
       "updateStatus" : 1,
       "capacity" : 52599,
-      "readerCount" : 1151
+      "readerCount" : 1151,
+      "bothType" : true
     }, {
       "id" : 3496,
       "name" : "一纸荒年",
@@ -148,7 +165,8 @@
       "summary" : "她“巧遇”他，只是为了完成上级的任务，本以为能全身而退，却堕入情网。然而，暗门总部被炸，有人为救他而",
       "updateStatus" : 1,
       "capacity" : 617088,
-      "readerCount" : 1103
+      "readerCount" : 1103,
+      "bothType" : false
     }, {
       "id" : 3067,
       "name" : "总裁霸情：调教偷心贼娘子",
@@ -156,7 +174,8 @@
       "summary" : "古代正义侠盗女贼初若，一朝穿越到现代，惹上霸道腹黑总裁，从此生活精彩，笑料频频，且看一向偷盗钱财的她",
       "updateStatus" : 1,
       "capacity" : 34391,
-      "readerCount" : 1098
+      "readerCount" : 1098,
+      "bothType" : true
     }, {
       "id" : 3566,
       "name" : "崎岖山路",
@@ -164,7 +183,8 @@
       "summary" : "这里以两个农村孩子自我奋斗为主线，讲述八十年代至今农村生活的现实情况，描写了处于底层的农民生活的状况",
       "updateStatus" : 1,
       "capacity" : 399836,
-      "readerCount" : 1088
+      "readerCount" : 1088,
+      "bothType" : false
     } ]
   }
 }

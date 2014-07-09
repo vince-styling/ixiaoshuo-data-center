@@ -12,7 +12,8 @@
       "summary" : "流离异国十二年，用十年时间来生存。他已有了足够强大的力量和足够高的地位，可以用来寻找和保护他最想要的",
       "updateStatus" : 1,
       "capacity" : 304848,
-      "readerCount" : 1252
+      "readerCount" : 1252,
+      "bothType" : false
     }, {
       "id" : 3670,
       "name" : "桃花含烟带墨浓",
@@ -20,7 +21,8 @@
       "summary" : "一个是魔族的帝君，一个是天族的神女。一神一魔，他们生来便注定是相隔了天与地的距离。纵然我痴恋了你百年",
       "updateStatus" : 1,
       "capacity" : 338613,
-      "readerCount" : 1250
+      "readerCount" : 1250,
+      "bothType" : false
     }, {
       "id" : 3092,
       "name" : "哈利波特之魔法学院",
@@ -28,7 +30,8 @@
       "summary" : "哈利波特的故事大家都应该知道吧！现在我讲的就是哈利波特神秘的魔法世界的另外一个伟大的秘密，一起来进入",
       "updateStatus" : 2,
       "capacity" : 156201,
-      "readerCount" : 1244
+      "readerCount" : 1244,
+      "bothType" : false
     }, {
       "id" : 3118,
       "name" : "第二频道之穿越模式",
@@ -36,7 +39,8 @@
       "summary" : "【故事纯属假想，不喜者慎入！】她一直的梦想就是像小说里一样穿越一次，能像那些女主一样金银珠宝，幸福冒",
       "updateStatus" : 2,
       "capacity" : 340342,
-      "readerCount" : 1238
+      "readerCount" : 1238,
+      "bothType" : false
     }, {
       "id" : 3062,
       "name" : "两年后的爱情",
@@ -44,7 +48,8 @@
       "summary" : "拒绝表白三步曲（单身适用）第一：打断他的表白‘同学，我认识你吗？不，应该说，你认识我吗？’第二：反问",
       "updateStatus" : 1,
       "capacity" : 189670,
-      "readerCount" : 1228
+      "readerCount" : 1228,
+      "bothType" : false
     }, {
       "id" : 3364,
       "name" : "只要你幸福，愿意不爱你",
@@ -52,7 +57,8 @@
       "summary" : "楔子只要你幸福，我愿意不爱你，即使给你幸福的那个人不是我。——陆思寻。这是陆思寻留给容萱最后的一句话",
       "updateStatus" : 1,
       "capacity" : 787599,
-      "readerCount" : 1227
+      "readerCount" : 1227,
+      "bothType" : false
     }, {
       "id" : 3377,
       "name" : "秦时明月之艾旅",
@@ -60,7 +66,8 @@
       "summary" : "当你穿越到秦时明月里你会怎么做？你会仗着有挂，打败卫庄？你会因为懂剧情而各种帮忙？你会不让月儿被捉走",
       "updateStatus" : 1,
       "capacity" : 1426294,
-      "readerCount" : 1227
+      "readerCount" : 1227,
+      "bothType" : false
     }, {
       "id" : 3226,
       "name" : "奇迹少年",
@@ -68,7 +75,8 @@
       "summary" : "与人界隔离的A市里，生活着异能者这一种族的人类。万年难遇的异能——奇迹降临。青年X用奇迹偷走了十万人",
       "updateStatus" : 1,
       "capacity" : 29968,
-      "readerCount" : 1215
+      "readerCount" : 1215,
+      "bothType" : false
     }, {
       "id" : 3422,
       "name" : "五十弦",
@@ -76,7 +84,8 @@
       "summary" : "这一生，古夏好最大的心愿就是一生幸福。06年遇到于锡酒，08年以第三者插足结束。汶川的一场地震她遇上",
       "updateStatus" : 1,
       "capacity" : 655975,
-      "readerCount" : 1209
+      "readerCount" : 1209,
+      "bothType" : false
     }, {
       "id" : 2087,
       "name" : "婳诡录",
@@ -84,7 +93,8 @@
       "summary" : "那一日，我缓缓独行于风雪漫天的寂寥街上，却不曾想，又遇见了你。——题记通俗版：吴为善本以为自己就是一",
       "updateStatus" : 1,
       "capacity" : 8826618,
-      "readerCount" : 1204
+      "readerCount" : 1204,
+      "bothType" : true
     }, {
       "id" : 3060,
       "name" : "问世间节操为何物",
@@ -92,7 +102,8 @@
       "summary" : "问世间节操为何物，直教音久流随手乱丢--每一个没节操的男人背后都有一堆忙着帮他捡节操然后渐渐把自己的",
       "updateStatus" : 1,
       "capacity" : 183404,
-      "readerCount" : 1200
+      "readerCount" : 1200,
+      "bothType" : true
     }, {
       "id" : 3190,
       "name" : "仙侠之倾世绝恋",
@@ -100,7 +111,8 @@
       "summary" : "原来，自己的所有付出，都换不回他的一颗真心。曾今的朝夕相伴，点点滴滴，却被他一句话否决了。为了天下，",
       "updateStatus" : 1,
       "capacity" : 597588,
-      "readerCount" : 1192
+      "readerCount" : 1192,
+      "bothType" : true
     }, {
       "id" : 2761,
       "name" : "德伯家的苔丝",
@@ -108,7 +120,8 @@
       "summary" : "苔丝是德伯家的一个仆人，每天都努力的干活，十分的勤劳，也十分的能吃苦，他在德伯家里吃尽了苦头，觉得再",
       "updateStatus" : 1,
       "capacity" : 6513666,
-      "readerCount" : 1179
+      "readerCount" : 1179,
+      "bothType" : false
     }, {
       "id" : 3049,
       "name" : "做什么公主，来做皇后吧",
@@ -116,7 +129,8 @@
       "summary" : "谁说女子不如男，低调而已；谁说女子见识短，守拙而已。一个是侄子，从没叫过她姑姑。一个是如儿子般养大的",
       "updateStatus" : 1,
       "capacity" : 148898,
-      "readerCount" : 1179
+      "readerCount" : 1179,
+      "bothType" : false
     }, {
       "id" : 3290,
       "name" : "婚然厚爱",
@@ -124,7 +138,8 @@
       "summary" : "本以为没了慕湛西，生活就会安稳了吧！可是还冒出个了顾行止，不过就让假装了一次男朋友，可这厮倒好，直接",
       "updateStatus" : 1,
       "capacity" : 38920,
-      "readerCount" : 1172
+      "readerCount" : 1172,
+      "bothType" : false
     }, {
       "id" : 3075,
       "name" : "仅对你依恋",
@@ -132,7 +147,8 @@
       "summary" : "她说：有一些伤痛真的很沉重，原来以为的一切，是那么不堪一击。当你再一次出现我对你的思念再也无法隐藏，",
       "updateStatus" : 1,
       "capacity" : 98351,
-      "readerCount" : 1170
+      "readerCount" : 1170,
+      "bothType" : true
     }, {
       "id" : 3580,
       "name" : "槐花吟",
@@ -140,7 +156,8 @@
       "summary" : "‘槐花树下，那个明目美丽的海丽笑的很开心，她对着我说，姚悦，我好像怀孕了，她用其一生的温柔抚摸着自己",
       "updateStatus" : 1,
       "capacity" : 25784,
-      "readerCount" : 1164
+      "readerCount" : 1164,
+      "bothType" : true
     }, {
       "id" : 2680,
       "name" : "若要爱，非你不可",
@@ -148,7 +165,8 @@
       "summary" : "一场岁月变换中，没有人可以毫发无损的走到年老。曾小葵也一样，只是她比较幸运的在可能要熬不下的时节遇上",
       "updateStatus" : 1,
       "capacity" : 4269904,
-      "readerCount" : 1163
+      "readerCount" : 1163,
+      "bothType" : false
     }, {
       "id" : 3365,
       "name" : "夜已阑珊",
@@ -156,7 +174,8 @@
       "summary" : "女主小白，男主腹黑。",
       "updateStatus" : 1,
       "capacity" : 52599,
-      "readerCount" : 1151
+      "readerCount" : 1151,
+      "bothType" : false
     }, {
       "id" : 3119,
       "name" : "还珠之浴火重生",
@@ -164,7 +183,8 @@
       "summary" : "大家好，我是小薇，这是我的新坑，希望大家能够支持，我的第一个坑还没填完，那篇“我们之间的爱情如空气”",
       "updateStatus" : 1,
       "capacity" : 98499,
-      "readerCount" : 1147
+      "readerCount" : 1147,
+      "bothType" : false
     } ]
   }
 }

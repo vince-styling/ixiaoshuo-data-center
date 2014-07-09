@@ -12,7 +12,8 @@
       "summary" : "你将我从无尽的孤独中解救出来，却又亲手将我推入浓稠的黑暗里。你给我设下最幸福最残忍的迷局，你灌给我糖",
       "updateStatus" : 1,
       "capacity" : 8246188,
-      "readerCount" : 11763
+      "readerCount" : 11763,
+      "bothType" : true
     }, {
       "id" : 2133,
       "name" : "封神之祸心",
@@ -20,7 +21,8 @@
       "summary" : "三千年前，妖狐妲己祸害人世，却不知他本是男子，与比干之女曾有一段凄美爱情。时光流转，三千年后，他与比",
       "updateStatus" : 1,
       "capacity" : 6063478,
-      "readerCount" : 11710
+      "readerCount" : 11710,
+      "bothType" : true
     }, {
       "id" : 2186,
       "name" : "落日传说",
@@ -28,7 +30,8 @@
       "summary" : "【无限穿】神秘的宿命之镜，晶莹的镜子城堡。到游乐园游玩的女孩易沐悠，开启了她命运中的第一个转折。被妖",
       "updateStatus" : 2,
       "capacity" : 4841665,
-      "readerCount" : 11649
+      "readerCount" : 11649,
+      "bothType" : true
     }, {
       "id" : 2200,
       "name" : "女权时代",
@@ -36,7 +39,8 @@
       "summary" : "一个现代废材男在无意中穿越了，但是他穿越到的是一个女尊男卑的时代，他如何在那个世界中卷起属于穿越者的",
       "updateStatus" : 1,
       "capacity" : 5507505,
-      "readerCount" : 11537
+      "readerCount" : 11537,
+      "bothType" : false
     }, {
       "id" : 2220,
       "name" : "玄黄道环",
@@ -44,7 +48,8 @@
       "summary" : "修真一途，逆天抗命，凶险莫名，但凡无非是淬筋骨、培元罡、生阴阳、化空冥、度化劫、夺造化、证道体。一名",
       "updateStatus" : 1,
       "capacity" : 9501869,
-      "readerCount" : 11408
+      "readerCount" : 11408,
+      "bothType" : false
     }, {
       "id" : 2235,
       "name" : "空忆落花。",
@@ -52,7 +57,8 @@
       "summary" : "就像是要流尽所有身体里面的血液才算得上洗净罪孽吗。最后她从高台上面一跃而下，身影像极了黑暗里面盛开的",
       "updateStatus" : 1,
       "capacity" : 9341868,
-      "readerCount" : 11381
+      "readerCount" : 11381,
+      "bothType" : false
     }, {
       "id" : 2864,
       "name" : "天幕吟之雪荒初史",
@@ -60,7 +66,8 @@
       "summary" : "水火一片，淹没烧尽大地，重生！波涛怒海，大雨磅礴，泥土纷沓，席卷而来！风呼呼，马鸣萧，战火硝烟弥漫！",
       "updateStatus" : 1,
       "capacity" : 5828225,
-      "readerCount" : 11334
+      "readerCount" : 11334,
+      "bothType" : false
     }, {
       "id" : 2227,
       "name" : "小狐赤烛",
@@ -68,7 +75,8 @@
       "summary" : "如果能够，我想回到我九百岁的时候，在青丘。那时候，天高远，水清浅。我和我的小伙伴们，在四季常青的山坡",
       "updateStatus" : 1,
       "capacity" : 5811082,
-      "readerCount" : 11046
+      "readerCount" : 11046,
+      "bothType" : true
     }, {
       "id" : 2706,
       "name" : "元素·鬼王",
@@ -76,7 +84,8 @@
       "summary" : "“我可将多特维亚的复兴，可以打败鬼族军团，可以带领六王发动七王抗神战。但是...我却不能认识世界。”",
       "updateStatus" : 1,
       "capacity" : 9148527,
-      "readerCount" : 10655
+      "readerCount" : 10655,
+      "bothType" : false
     }, {
       "id" : 2569,
       "name" : "倾世绝傲：女神修仙传",
@@ -84,7 +93,8 @@
       "summary" : "身为雪傲国的公主，她可不是盖的！成功修仙，步步登天！见证女尊的成长，倾世绝傲，唯我独尊！",
       "updateStatus" : 1,
       "capacity" : 8962396,
-      "readerCount" : 10617
+      "readerCount" : 10617,
+      "bothType" : false
     }, {
       "id" : 2995,
       "name" : "《魔武乱世》",
@@ -92,7 +102,8 @@
       "summary" : "神族不明原因的死亡，十大家族各怀鬼胎，不再被本家保护的刘魂星和李风、谢冰等人还有他们妻子走上了自己不",
       "updateStatus" : 1,
       "capacity" : 4750422,
-      "readerCount" : 10529
+      "readerCount" : 10529,
+      "bothType" : true
     }, {
       "id" : 2197,
       "name" : "血色蔓延之守护者",
@@ -100,7 +111,8 @@
       "summary" : "“我用17年的默默守护，是否能换来与你的最终相守？”烈千翊用小心翼翼的目光看着她。“可是，你是我的哥",
       "updateStatus" : 2,
       "capacity" : 2805860,
-      "readerCount" : 10169
+      "readerCount" : 10169,
+      "bothType" : false
     }, {
       "id" : 2700,
       "name" : "狐舞倾城：姐的世界你不懂",
@@ -108,7 +120,8 @@
       "summary" : "首先，这是一个关于少女的故事其次，这是一个可能狗血的故事最后，欢迎观看简介：这是一个发生在女生身上的",
       "updateStatus" : 1,
       "capacity" : 9574542,
-      "readerCount" : 10139
+      "readerCount" : 10139,
+      "bothType" : false
     }, {
       "id" : 2536,
       "name" : "幸福书坊",
@@ -116,7 +129,8 @@
       "summary" : "幸福是什么？走进那神秘的阴阳师的世界，那些我们未知的世界。地狱、天堂，过去、未来，是什么在阻止着幸福",
       "updateStatus" : 1,
       "capacity" : 4196126,
-      "readerCount" : 9759
+      "readerCount" : 9759,
+      "bothType" : false
     }, {
       "id" : 3666,
       "name" : "傲视苍穹：痴傻七小姐",
@@ -124,7 +138,8 @@
       "summary" : "21世纪最出色的女特工出任务时，居然遭到了同伴的背叛！爆炸声响起，焰碟肉身灰飞烟灭，穿越架空时代，成",
       "updateStatus" : 1,
       "capacity" : 1922694,
-      "readerCount" : 9719
+      "readerCount" : 9719,
+      "bothType" : false
     }, {
       "id" : 3020,
       "name" : "五行武侠",
@@ -132,7 +147,8 @@
       "summary" : "千年轮回，修炼成神贪恋红尘，堕落繁花爱已成恨，恋已成殇璀璨光芒，终将消失逝去记忆，流落凡间彼岸花开，",
       "updateStatus" : 1,
       "capacity" : 7861557,
-      "readerCount" : 9541
+      "readerCount" : 9541,
+      "bothType" : false
     }, {
       "id" : 2221,
       "name" : "七星北斗PLOUGH",
@@ -140,7 +156,8 @@
       "summary" : "序言他们说过,会在第一次世界大战的第一百年以后,大水降临于地球,人类将被大水淹没,只有驾驶着\"熊之方",
       "updateStatus" : 1,
       "capacity" : 7225703,
-      "readerCount" : 9471
+      "readerCount" : 9471,
+      "bothType" : false
     }, {
       "id" : 2187,
       "name" : "来自天猫星",
@@ -148,7 +165,8 @@
       "summary" : "宇宙是神秘而奇妙的，在那深远的宇宙之中到底隐藏着什么？我是为何而诞生？一直一直独自一个人，在黑暗中徘",
       "updateStatus" : 2,
       "capacity" : 7594820,
-      "readerCount" : 9113
+      "readerCount" : 9113,
+      "bothType" : false
     }, {
       "id" : 2596,
       "name" : "白狐报恩之遇上风流王爷",
@@ -156,7 +174,8 @@
       "summary" : "他是天宝国的宝亲王，而她，只是深山的一只白狐，她爱慕他三生三世，守护他三生三世。女为悦己者容，可她为",
       "updateStatus" : 1,
       "capacity" : 3293713,
-      "readerCount" : 9074
+      "readerCount" : 9074,
+      "bothType" : false
     }, {
       "id" : 2705,
       "name" : "黑道-恋上如月",
@@ -164,7 +183,8 @@
       "summary" : "在这个世界的空间层里存在着一个名为“术士界”的世界，在这个种族人群并不多的世界里，我们成为了命运的棋",
       "updateStatus" : 1,
       "capacity" : 6942807,
-      "readerCount" : 9016
+      "readerCount" : 9016,
+      "bothType" : true
     } ]
   }
 }

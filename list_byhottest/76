@@ -12,7 +12,8 @@
       "summary" : "第一武将与第一丑人？堂堂大将军三十而立还是孑然一身，听说人缘也好、脾气也好，她是不是能幸运到与他讨价",
       "updateStatus" : 1,
       "capacity" : 363855,
-      "readerCount" : 396
+      "readerCount" : 396,
+      "bothType" : false
     }, {
       "id" : 2236,
       "name" : "冥江漫漫",
@@ -20,7 +21,8 @@
       "summary" : "一只是食过百人心、挨过天雷劫的千年黑狼妖，一个是平凡冷淡、还在上学的女孩子，血族、火种...一切不应",
       "updateStatus" : 1,
       "capacity" : 5372636,
-      "readerCount" : 394
+      "readerCount" : 394,
+      "bothType" : false
     }, {
       "id" : 3468,
       "name" : "轮回•不语",
@@ -28,7 +30,8 @@
       "summary" : "十二生肖的轮回，于世人眼中不过区区十二年，可，他们的故事，又何止区区数个轮回？爱，这么近，那么远，谁",
       "updateStatus" : 1,
       "capacity" : 48068,
-      "readerCount" : 391
+      "readerCount" : 391,
+      "bothType" : false
     }, {
       "id" : 3678,
       "name" : "青春很有邪",
@@ -36,7 +39,8 @@
       "summary" : "为了查案来到贵族学院，不幸惹到小腹黑，一边查案还要一边伺候他这个大少爷，到底什么时候是个头啊？不过也",
       "updateStatus" : 1,
       "capacity" : 228820,
-      "readerCount" : 388
+      "readerCount" : 388,
+      "bothType" : true
     }, {
       "id" : 2099,
       "name" : "女警闯西汉：将军赖定你",
@@ -44,7 +48,8 @@
       "summary" : "谁说当警花不会遇到追杀；谁说女人年华逝去不复还；菜鸟警花狗血穿越，一朝醒来，爸妈不见踪影；却成了西汉",
       "updateStatus" : 1,
       "capacity" : 2955614,
-      "readerCount" : 385
+      "readerCount" : 385,
+      "bothType" : false
     }, {
       "id" : 3512,
       "name" : "朱颜修仙记",
@@ -52,7 +57,8 @@
       "summary" : "现代大学生失足落山穿到了修仙世界成了被抛弃的小婴儿被不负责任的师爹捡回了山门，从此过上了修三代的美好",
       "updateStatus" : 1,
       "capacity" : 275265,
-      "readerCount" : 384
+      "readerCount" : 384,
+      "bothType" : false
     }, {
       "id" : 3148,
       "name" : "听说你也爱我",
@@ -60,7 +66,8 @@
       "summary" : "五年前，大学，我写着狗血的言情小说，看着夏子优牵着我暗恋多年的尹阳的手怡怡然从我面前走过，我一赌气就",
       "updateStatus" : 1,
       "capacity" : 43663,
-      "readerCount" : 383
+      "readerCount" : 383,
+      "bothType" : false
     }, {
       "id" : 3429,
       "name" : "站在你身后为你撑起保护伞",
@@ -68,7 +75,8 @@
       "summary" : "欧阳若晴8岁的那一年，由于家庭发生变故，被神秘抚养人送到美国生活10年，直到18岁那年，连她身边唯一",
       "updateStatus" : 1,
       "capacity" : 561331,
-      "readerCount" : 380
+      "readerCount" : 380,
+      "bothType" : false
     }, {
       "id" : 3740,
       "name" : "邪尊的宝贝",
@@ -76,7 +84,8 @@
       "summary" : "坑爹啊....箫瑶星只不过是第一次去海边旅行很兴奋，看到了很漂亮的石头，把它捡起来，回到家晚上睡觉的",
       "updateStatus" : 1,
       "capacity" : 91882,
-      "readerCount" : 374
+      "readerCount" : 374,
+      "bothType" : true
     }, {
       "id" : 3530,
       "name" : "总裁莫追：小女人带球跑",
@@ -84,7 +93,8 @@
       "summary" : "她迷迷糊糊中失去自己的第一次，却不想这是他爸爸的计划，她的一夜，十万块。当她从好友家回去是，家已不再",
       "updateStatus" : 1,
       "capacity" : 89211,
-      "readerCount" : 372
+      "readerCount" : 372,
+      "bothType" : true
     }, {
       "id" : 3291,
       "name" : "离离原上草",
@@ -92,7 +102,8 @@
       "summary" : "在她黑暗腐朽的生命里，他是耀眼的一束光。她贪婪地汲取他的光和热，直到他的生命之火骤然熄灭。女主是一个",
       "updateStatus" : 1,
       "capacity" : 40745,
-      "readerCount" : 371
+      "readerCount" : 371,
+      "bothType" : false
     }, {
       "id" : 3727,
       "name" : "繁华错",
@@ -100,7 +111,8 @@
       "summary" : "",
       "updateStatus" : 1,
       "capacity" : 54591,
-      "readerCount" : 369
+      "readerCount" : 369,
+      "bothType" : false
     }, {
       "id" : 3466,
       "name" : "流年纪",
@@ -108,7 +120,8 @@
       "summary" : "我姓韶，在童年、青春的时候曾经演绎着一段真实的故事，也许每一个人都有这样一段故事，我们把它称为流年。",
       "updateStatus" : 1,
       "capacity" : 110799,
-      "readerCount" : 355
+      "readerCount" : 355,
+      "bothType" : false
     }, {
       "id" : 3436,
       "name" : "《侦探日记》",
@@ -116,7 +129,8 @@
       "summary" : "我的身份到底是谁？我与多少人换过身份？一片残页打破了原有的生活寂静。我的过去与未来都在这一刻改变。我",
       "updateStatus" : 1,
       "capacity" : 23089,
-      "readerCount" : 354
+      "readerCount" : 354,
+      "bothType" : false
     }, {
       "id" : 3603,
       "name" : "轮回三世：三世约定",
@@ -124,7 +138,8 @@
       "summary" : "千年注定了的情缘、犹如两个缝在一起的布偶，已定，无论天涯海角、仍会相遇，无论经历多少、仍会相随，无论",
       "updateStatus" : 1,
       "capacity" : 607391,
-      "readerCount" : 352
+      "readerCount" : 352,
+      "bothType" : false
     }, {
       "id" : 2855,
       "name" : "皇叔，别抢亲",
@@ -132,7 +147,8 @@
       "summary" : "飘荡清扬如茶香，惜花踏月似佳人。公子踏月世无双，小爷川卿颜如玉。王家小女川卿自幼与四皇子有婚约，奈何",
       "updateStatus" : 1,
       "capacity" : 7369972,
-      "readerCount" : 349
+      "readerCount" : 349,
+      "bothType" : false
     }, {
       "id" : 3626,
       "name" : "错过了，还能爱吗？",
@@ -140,7 +156,8 @@
       "summary" : "希然曾一度为了追求新鲜感依偎在一个又一个男人的身边，她最爱最愧疚的宋岩渐渐淡出了她的生命。繁华过后是",
       "updateStatus" : 1,
       "capacity" : 38036,
-      "readerCount" : 348
+      "readerCount" : 348,
+      "bothType" : false
     }, {
       "id" : 3586,
       "name" : "千年之轮回",
@@ -148,7 +165,8 @@
       "summary" : "千年轮回不变的爱，只为寻找对方，相见不相识，但一定会再次拥有“冰儿，你若心中有我，树敌三千又如何”“",
       "updateStatus" : 1,
       "capacity" : 164974,
-      "readerCount" : 344
+      "readerCount" : 344,
+      "bothType" : false
     }, {
       "id" : 3312,
       "name" : "回祎录",
@@ -156,7 +174,8 @@
       "summary" : "回忆里记载的不是只有过往的记忆，还承载了流向未来的暗涌。每个人的回忆都是如此。萧祎和萧安是双胞胎，一",
       "updateStatus" : 1,
       "capacity" : 133100,
-      "readerCount" : 343
+      "readerCount" : 343,
+      "bothType" : false
     }, {
       "id" : 2328,
       "name" : "江山美男归我管",
@@ -164,7 +183,8 @@
       "summary" : "五百年来，华国流传这样一则传说：“女从异世来，是为圣女，有治世之能，必将一统东西，再创华国盛世！”她",
       "updateStatus" : 1,
       "capacity" : 6772871,
-      "readerCount" : 338
+      "readerCount" : 338,
+      "bothType" : false
     } ]
   }
 }

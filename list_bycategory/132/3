@@ -12,7 +12,8 @@
       "summary" : "日本与欧洲，十万八千里的距离。他，青学帝王，喜怒哀乐不会在脸上展现，只有一个人在深夜中对月思念。他，",
       "updateStatus" : 1,
       "capacity" : 468466,
-      "readerCount" : 2513
+      "readerCount" : 2513,
+      "bothType" : false
     }, {
       "id" : 3230,
       "name" : "霹雳戢武王妹控玉仔酱油记",
@@ -20,7 +21,8 @@
       "summary" : "宅女裹着王姐的外挂在霹雳世界打酱油的故事一个理科生苦逼成长为王的艰苦岁月（？），当她以为自己只是做一",
       "updateStatus" : 1,
       "capacity" : 322045,
-      "readerCount" : 2433
+      "readerCount" : 2433,
+      "bothType" : true
     }, {
       "id" : 2504,
       "name" : "综主霹雳白鹿即吾心",
@@ -28,7 +30,8 @@
       "summary" : "披着仙五唐雨柔壳子的少女穿越时空，谁来告诉她，为毛剧情还没开始，她人又穿了，玄霄？云天青？琼华？她仙",
       "updateStatus" : 1,
       "capacity" : 7569903,
-      "readerCount" : 2431
+      "readerCount" : 2431,
+      "bothType" : false
     }, {
       "id" : 3513,
       "name" : "安伦旅途",
@@ -36,7 +39,8 @@
       "summary" : "从最初写《安伦旅途》到现在有三年的时间，一直断断续续，久而久之写《安伦》成了我记录成长得一种最简易的",
       "updateStatus" : 1,
       "capacity" : 292259,
-      "readerCount" : 2046
+      "readerCount" : 2046,
+      "bothType" : false
     }, {
       "id" : 3425,
       "name" : "网王之温柔缱绻的岁月",
@@ -44,7 +48,8 @@
       "summary" : "“我说过我会一直喜欢你的，就算你最终喜欢的不是我，我也会守护你一辈子！”“子辰，我要向你说再见了，你",
       "updateStatus" : 1,
       "capacity" : 772554,
-      "readerCount" : 1913
+      "readerCount" : 1913,
+      "bothType" : true
     }, {
       "id" : 3369,
       "name" : "重生之墨枫",
@@ -52,7 +57,8 @@
       "summary" : "这是一个世界第一杀手因被嫉妒而和上司同归于尽之后，重生到一个营养不良的高中软弱的男孩身上之后，和我们",
       "updateStatus" : 1,
       "capacity" : 248273,
-      "readerCount" : 1854
+      "readerCount" : 1854,
+      "bothType" : false
     }, {
       "id" : 3482,
       "name" : "迷失并盛",
@@ -60,7 +66,8 @@
       "summary" : "这是描写一段在6,70年代时期，我们宇宙间异次元时间轴的一个名为并盛町的日本城镇的故事。一个日本城镇",
       "updateStatus" : 1,
       "capacity" : 265455,
-      "readerCount" : 1361
+      "readerCount" : 1361,
+      "bothType" : false
     }, {
       "id" : 2503,
       "name" : "真实的选择",
@@ -68,7 +75,8 @@
       "summary" : "被这个世界的规则选中，说什么拯救世界？可是我没这个想法！！！我不想背负什么人类的未来，我没那个自觉性",
       "updateStatus" : 1,
       "capacity" : 7639647,
-      "readerCount" : 1303
+      "readerCount" : 1303,
+      "bothType" : false
     }, {
       "id" : 3377,
       "name" : "秦时明月之艾旅",
@@ -76,7 +84,8 @@
       "summary" : "当你穿越到秦时明月里你会怎么做？你会仗着有挂，打败卫庄？你会因为懂剧情而各种帮忙？你会不让月儿被捉走",
       "updateStatus" : 1,
       "capacity" : 1426294,
-      "readerCount" : 1227
+      "readerCount" : 1227,
+      "bothType" : false
     }, {
       "id" : 3702,
       "name" : "生生羁绊",
@@ -84,7 +93,8 @@
       "summary" : "兜兜转转，明明是逃不过的劫却想要去逃，最后不过是伤人又伤几。所幸的是在经历了一个又一个的劫难之后我们",
       "updateStatus" : 1,
       "capacity" : 478323,
-      "readerCount" : 1075
+      "readerCount" : 1075,
+      "bothType" : false
     }, {
       "id" : 2521,
       "name" : "你才奥利奥，你全家都奥利奥",
@@ -92,7 +102,8 @@
       "summary" : "什么？你说黑白配？男生女生配？眼睛瞎了吧？你看我俩谁更不像男的？谁说白眼睛加起来就是奥利奥了？你才奥",
       "updateStatus" : 1,
       "capacity" : 3467303,
-      "readerCount" : 1027
+      "readerCount" : 1027,
+      "bothType" : true
     }, {
       "id" : 2510,
       "name" : "守卫爱情",
@@ -100,7 +111,8 @@
       "summary" : "关于爱情，有这样一种境界，我的眼里只有你，或者，你是我的全部？可陈秀和赵学鹏的爱情，总走在出轨的边缘",
       "updateStatus" : 2,
       "capacity" : 1410981,
-      "readerCount" : 837
+      "readerCount" : 837,
+      "bothType" : true
     }, {
       "id" : 3550,
       "name" : "少年光辉红了霞",
@@ -108,7 +120,8 @@
       "summary" : "",
       "updateStatus" : 1,
       "capacity" : 588020,
-      "readerCount" : 799
+      "readerCount" : 799,
+      "bothType" : false
     }, {
       "id" : 3188,
       "name" : "网王之锦绣时年",
@@ -116,7 +129,8 @@
       "summary" : "“啊……桦地放我下来啊……啊……”我微笑的看着那个人被一个人形机器人抗在肩上，不由得笑了出来。还是老",
       "updateStatus" : 1,
       "capacity" : 383418,
-      "readerCount" : 739
+      "readerCount" : 739,
+      "bothType" : false
     }, {
       "id" : 3693,
       "name" : "综漫——萝莉女神的养成计划",
@@ -124,7 +138,8 @@
       "summary" : "穿成萝莉？这没什么。穿成女神？我很蛋定。宙斯的孙女？没事没事。崩坏的世界？轻松就好。正太遍地都是？真",
       "updateStatus" : 1,
       "capacity" : 79899,
-      "readerCount" : 573
+      "readerCount" : 573,
+      "bothType" : false
     }, {
       "id" : 3536,
       "name" : "网王同人浅色的夏季",
@@ -132,7 +147,8 @@
       "summary" : "她一直以为，她注定会被所有人讨厌着，但是，自从遇见他们之后，她的人生，她的认知，似乎一点点的改变了。",
       "updateStatus" : 1,
       "capacity" : 175795,
-      "readerCount" : 565
+      "readerCount" : 565,
+      "bothType" : false
     }, {
       "id" : 2513,
       "name" : "溺爱",
@@ -140,7 +156,8 @@
       "summary" : "炼金室里……裴吉（星星眼）：维亚，什么是妻奴啊？维亚：嗯？为什么这么问？裴吉：艾伦说安帝斯是妻奴。维",
       "updateStatus" : 1,
       "capacity" : 1644669,
-      "readerCount" : 547
+      "readerCount" : 547,
+      "bothType" : false
     }, {
       "id" : 3232,
       "name" : "怨回纥歌",
@@ -148,7 +165,8 @@
       "summary" : "白首南朝女，愁听异域歌。素手清颜之女，恶人雪魔之徒。她仅仅是一个需要关心的孩子，希望那幼年时对自己最",
       "updateStatus" : 1,
       "capacity" : 16752,
-      "readerCount" : 466
+      "readerCount" : 466,
+      "bothType" : false
     }, {
       "id" : 3112,
       "name" : "刹那风华",
@@ -156,7 +174,8 @@
       "summary" : "如莲华初，刹那风华。【虽然名字很挫，不吸引人，不过声明下，只是一些紧凑不得了的文章组合,澄文没有短篇",
       "updateStatus" : 1,
       "capacity" : 65164,
-      "readerCount" : 464
+      "readerCount" : 464,
+      "bothType" : false
     }, {
       "id" : 2495,
       "name" : "一个农村女人的蝴蝶梦",
@@ -164,7 +183,8 @@
       "summary" : "我讲的是一个真实的故事；这个故事发生在我的故乡河南---黄河岸边一个古老的村庄：男主人公是我中学时代",
       "updateStatus" : 1,
       "capacity" : 3463330,
-      "readerCount" : 325
+      "readerCount" : 325,
+      "bothType" : false
     } ]
   }
 }

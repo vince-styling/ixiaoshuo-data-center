@@ -12,7 +12,8 @@
       "summary" : "她，一心专研中医，有父母无父母没多大区别。她，三岁，失去母亲，从此，无人问津，庶母抢走原本属于她的一",
       "updateStatus" : 1,
       "capacity" : 2729053,
-      "readerCount" : 16964
+      "readerCount" : 16964,
+      "bothType" : false
     }, {
       "id" : 2130,
       "name" : "文德皇后传",
@@ -20,7 +21,8 @@
       "summary" : "我在皇上还未登基前便入了府，过往的那段岁月，当真是此生难忘。三年前，也是这样一个月朗星稀的夜晚。他还",
       "updateStatus" : 1,
       "capacity" : 4164520,
-      "readerCount" : 16582
+      "readerCount" : 16582,
+      "bothType" : true
     }, {
       "id" : 2844,
       "name" : "漠王殇",
@@ -28,7 +30,8 @@
       "summary" : "“我可以用残酷来坐稳这江山，我可以用暴政来统一天下，可是对你，我连狠下心放开都无法做到！”“你，注定",
       "updateStatus" : 1,
       "capacity" : 1001749,
-      "readerCount" : 16438
+      "readerCount" : 16438,
+      "bothType" : false
     }, {
       "id" : 2888,
       "name" : "分生",
@@ -36,7 +39,8 @@
       "summary" : "不同的时空，不同的故事，不同的悲喜，不同的两段人生，却在冥冥中有了交叉，这短短的交集却足以改变两段人",
       "updateStatus" : 1,
       "capacity" : 1062741,
-      "readerCount" : 16067
+      "readerCount" : 16067,
+      "bothType" : false
     }, {
       "id" : 2086,
       "name" : "落柳归冢",
@@ -44,7 +48,8 @@
       "summary" : "“曾经我以为只要我登上天下的巅峰，就可以保护一切我在乎的人；现在我才发现，走到那步之后，天下早已没有",
       "updateStatus" : 1,
       "capacity" : 9388793,
-      "readerCount" : 15793
+      "readerCount" : 15793,
+      "bothType" : false
     }, {
       "id" : 2080,
       "name" : "宫偷十二钗：步步惊魂",
@@ -52,7 +57,8 @@
       "summary" : "你试过同成百上千个女人争夺一个男人吗？你试过冒着生命危险与一个男人偷情吗？在这里，一切皆有可能。如果",
       "updateStatus" : 1,
       "capacity" : 7578951,
-      "readerCount" : 15763
+      "readerCount" : 15763,
+      "bothType" : false
     }, {
       "id" : 2245,
       "name" : "清宫云梦",
@@ -60,7 +66,8 @@
       "summary" : "学生吕靖由于课业压力过大，在上课途中离奇穿越，成为清朝光绪年间的一位过客，无意间历经晚清种种风云变幻",
       "updateStatus" : 1,
       "capacity" : 4516559,
-      "readerCount" : 15708
+      "readerCount" : 15708,
+      "bothType" : true
     }, {
       "id" : 2842,
       "name" : "逆天独宠：霸上废柴王爷",
@@ -68,7 +75,8 @@
       "summary" : "十五岁，段千雾斗败万千勇士成为昊王府最强探子，却被派做当朝最废物的七王爷小妾，斗服所有妃妾封为王妃。",
       "updateStatus" : 1,
       "capacity" : 4224635,
-      "readerCount" : 15625
+      "readerCount" : 15625,
+      "bothType" : false
     }, {
       "id" : 2095,
       "name" : "逐鹿芳心",
@@ -76,7 +84,8 @@
       "summary" : "将军不爱小姐爱妓女，争风吃醋，小姐不干！惯打阴柔牌，正牌情圣却不料枕边人是吃人内脏的妖怪！情花易采不",
       "updateStatus" : 1,
       "capacity" : 5149453,
-      "readerCount" : 15622
+      "readerCount" : 15622,
+      "bothType" : false
     }, {
       "id" : 2110,
       "name" : "江门夜话",
@@ -84,7 +93,8 @@
       "summary" : "人说，画虎画皮难画骨，知人知面不知心。我画得出你的骨，你认不得我的心。——妙笔生凡是来过长生当铺的人",
       "updateStatus" : 1,
       "capacity" : 4964945,
-      "readerCount" : 15541
+      "readerCount" : 15541,
+      "bothType" : true
     }, {
       "id" : 2768,
       "name" : "军校女王：夺心天才战神",
@@ -92,7 +102,8 @@
       "summary" : "一个武艺超群的军校女王，变成冷艳干练的皇家暗卫——这也不是什么很奇怪的事情吧？谭琰深深觉得自己这辈子",
       "updateStatus" : 1,
       "capacity" : 1266375,
-      "readerCount" : 15327
+      "readerCount" : 15327,
+      "bothType" : false
     }, {
       "id" : 2102,
       "name" : "殿下惑世",
@@ -100,7 +111,8 @@
       "summary" : "她是楚国公主，却过着卑微如宫女的日子。再次受辱，她奋起反击，为了让自己的弟弟登上皇位不惜一切代价，甚",
       "updateStatus" : 1,
       "capacity" : 5741220,
-      "readerCount" : 15180
+      "readerCount" : 15180,
+      "bothType" : false
     }, {
       "id" : 3000,
       "name" : "陪君共此生",
@@ -108,7 +120,8 @@
       "summary" : "她是一朵误落风尘的花，她是一颗沾染尘埃的明珠，浓妆艳抹是她的面具，清冷孤傲是她的本性，她是柳诗，流芳",
       "updateStatus" : 1,
       "capacity" : 9117988,
-      "readerCount" : 14926
+      "readerCount" : 14926,
+      "bothType" : false
     }, {
       "id" : 2451,
       "name" : "穿越前世来爱你",
@@ -116,7 +129,8 @@
       "summary" : "缘定三生三世，谁相信？！但是缘分扑簌迷离，缘起缘灭，命运之神是否在冥冥之中安排了一切还是，真的是三生",
       "updateStatus" : 1,
       "capacity" : 9792741,
-      "readerCount" : 14882
+      "readerCount" : 14882,
+      "bothType" : false
     }, {
       "id" : 2075,
       "name" : "青衣镇",
@@ -124,7 +138,8 @@
       "summary" : "密闭的木箱从天而降，我来自哪里？青衣如何逃脱姐姐红衣的追杀？张泉灵和青衣是青梅竹马，能否走到最后？红",
       "updateStatus" : 1,
       "capacity" : 1642795,
-      "readerCount" : 14788
+      "readerCount" : 14788,
+      "bothType" : false
     }, {
       "id" : 2895,
       "name" : "暗卫哥哥请爱我",
@@ -132,7 +147,8 @@
       "summary" : "一个女穿男爱上面瘫暗卫而努力掰弯面瘫暗卫的故事。国家不止一个我，不会灭。而我只有你一个。如果你希望我",
       "updateStatus" : 1,
       "capacity" : 4525889,
-      "readerCount" : 14628
+      "readerCount" : 14628,
+      "bothType" : false
     }, {
       "id" : 2843,
       "name" : "家有仙妃很腹黑",
@@ -140,7 +156,8 @@
       "summary" : "\"一场爆炸，她葬身火海。一朝梦醒，她魂落异世。重生为大金太子妃的晨萦，左有英俊太子相公护身，右有无敌",
       "updateStatus" : 1,
       "capacity" : 9373470,
-      "readerCount" : 14492
+      "readerCount" : 14492,
+      "bothType" : false
     }, {
       "id" : 2094,
       "name" : "孽情殇",
@@ -148,7 +165,8 @@
       "summary" : "她，如空谷幽兰，唯愿所系之人平安康健，却卷入一系列江湖争斗，身不由己。身负血海深仇，不得不与所爱之人",
       "updateStatus" : 1,
       "capacity" : 1841258,
-      "readerCount" : 14442
+      "readerCount" : 14442,
+      "bothType" : true
     }, {
       "id" : 2237,
       "name" : "桃花嫁",
@@ -156,7 +174,8 @@
       "summary" : "萧紫幽：彩遥，“嫁给我”这句话，你听了这么多年，有没有一次心动？萧白夜：紫幽这样爱你，不知道是他太笨",
       "updateStatus" : 2,
       "capacity" : 5253537,
-      "readerCount" : 14393
+      "readerCount" : 14393,
+      "bothType" : false
     }, {
       "id" : 2093,
       "name" : "废柴王妃：相公欠调教",
@@ -164,7 +183,8 @@
       "summary" : "什么，不会吧，穿越了，穿就穿吧，人家穿越，不是公主，就是皇妃，都是些非富则贵的人，自己不会这么倒霉吧",
       "updateStatus" : 1,
       "capacity" : 2825781,
-      "readerCount" : 14338
+      "readerCount" : 14338,
+      "bothType" : false
     } ]
   }
 }

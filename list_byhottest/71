@@ -12,7 +12,8 @@
       "summary" : "第一次写文，请大家多多指教。高瑞卿，天才女律师，因为一场官司而身陷无法脱身。这究竟是劫，还是缘……未",
       "updateStatus" : 1,
       "capacity" : 3615848,
-      "readerCount" : 679
+      "readerCount" : 679,
+      "bothType" : false
     }, {
       "id" : 3645,
       "name" : "悠悠茶茗",
@@ -20,7 +21,8 @@
       "summary" : "【文案】生命中有那么一个人，用你不知道的方式爱着你，温柔细腻。没有甜蜜的情语，却能伴尔左右，直至生命",
       "updateStatus" : 1,
       "capacity" : 88862,
-      "readerCount" : 677
+      "readerCount" : 677,
+      "bothType" : true
     }, {
       "id" : 3653,
       "name" : "倾城王爷杀手妃",
@@ -28,7 +30,8 @@
       "summary" : "她，上官梓潼现代杀手穿越附身在和她同名的女孩身上，他，永康朝的王爷，永康朝人们心中的神，桀骜不训，还",
       "updateStatus" : 1,
       "capacity" : 34075,
-      "readerCount" : 677
+      "readerCount" : 677,
+      "bothType" : false
     }, {
       "id" : 3585,
       "name" : "桃花醉之天下",
@@ -36,7 +39,8 @@
       "summary" : "她是宰相府人人厌弃，不被人喜欢的三小姐。她是他爱了，念了半生的一缕孤魂。她又是风华绝代，倾城倾国的翩",
       "updateStatus" : 1,
       "capacity" : 533829,
-      "readerCount" : 672
+      "readerCount" : 672,
+      "bothType" : false
     }, {
       "id" : 3669,
       "name" : "错位人生：我的公主",
@@ -44,7 +48,8 @@
       "summary" : "一场交换，让两个漂亮的女孩命运发生了翻天覆地的变化。让她在爱情面前，因为身份只能偷偷远离让她在爱情面",
       "updateStatus" : 1,
       "capacity" : 100961,
-      "readerCount" : 663
+      "readerCount" : 663,
+      "bothType" : false
     }, {
       "id" : 3300,
       "name" : "画城",
@@ -52,7 +57,8 @@
       "summary" : "按图索骥。娘亲说，所有的神仙生来都有一副画儿，那画儿上画的便是未来的娘子或是相公的模样。我瞪着娘亲递",
       "updateStatus" : 1,
       "capacity" : 74835,
-      "readerCount" : 661
+      "readerCount" : 661,
+      "bothType" : false
     }, {
       "id" : 3303,
       "name" : "梧桐一叶而天下知秋",
@@ -60,7 +66,8 @@
       "summary" : "霂翎说我是一个很淡漠的人，即使遭到了他的背叛，我也能无动于衷。这并不是淡漠。只是母亲说过：那些选择离",
       "updateStatus" : 1,
       "capacity" : 40563,
-      "readerCount" : 657
+      "readerCount" : 657,
+      "bothType" : true
     }, {
       "id" : 3314,
       "name" : "倾城薄雾，似水流年",
@@ -68,7 +75,8 @@
       "summary" : "原本正常的生活、在她即将步入大学的时候发生了翻天覆地的变化。夜晚的梦、风中的竹林，优美空灵的笛声…这",
       "updateStatus" : 2,
       "capacity" : 46050,
-      "readerCount" : 652
+      "readerCount" : 652,
+      "bothType" : false
     }, {
       "id" : 3499,
       "name" : "绮人心之刻度",
@@ -76,7 +84,8 @@
       "summary" : "孤独成长的季庭真，莫名被丈夫袁松毅抛弃，原本就抑郁的她因此加重了病情。偶然想起小时候随妈妈去过教堂，",
       "updateStatus" : 1,
       "capacity" : 732713,
-      "readerCount" : 651
+      "readerCount" : 651,
+      "bothType" : true
     }, {
       "id" : 3241,
       "name" : "王妃不优雅：玉面王爷掉线妃",
@@ -84,7 +93,8 @@
       "summary" : "作为21世纪最平凡的打工一族，唐优雅在她28岁生日时来了一场华丽丽的大翻身。升职？NO！加薪？NO！",
       "updateStatus" : 1,
       "capacity" : 104266,
-      "readerCount" : 650
+      "readerCount" : 650,
+      "bothType" : false
     }, {
       "id" : 3330,
       "name" : "璃心love",
@@ -92,7 +102,8 @@
       "summary" : "或许这个世界上真的有一个孩子，他叫做——丘比特。第一次见面，他们水火不容，或许应该说是她根本就不想认",
       "updateStatus" : 1,
       "capacity" : 159014,
-      "readerCount" : 647
+      "readerCount" : 647,
+      "bothType" : true
     }, {
       "id" : 3244,
       "name" : "绝艳皇子倾城妃",
@@ -100,7 +111,8 @@
       "summary" : "三国之争，月煌的覆灭，身为月煌的公主，她应该是为复国步步为营？还是甘心曲于命运？爱人的背叛，家仇雪恨",
       "updateStatus" : 1,
       "capacity" : 878061,
-      "readerCount" : 647
+      "readerCount" : 647,
+      "bothType" : false
     }, {
       "id" : 3399,
       "name" : "太子殿下，不爱请休妻",
@@ -108,7 +120,8 @@
       "summary" : "“你们活着太累了，让我来帮你结束吧。”她，一个在21世纪无情的职业杀手，什么大风大浪没见过，可是，在",
       "updateStatus" : 1,
       "capacity" : 38545,
-      "readerCount" : 634
+      "readerCount" : 634,
+      "bothType" : true
     }, {
       "id" : 3295,
       "name" : "南追",
@@ -116,7 +129,8 @@
       "summary" : "柳鸿鸣穿越成了山寨大王的女儿，这女儿黎阳阳在柳鸿鸣来之前看上了并掳了江湖第一镖局鸿鹄镖局的独苗少爷，",
       "updateStatus" : 1,
       "capacity" : 325650,
-      "readerCount" : 634
+      "readerCount" : 634,
+      "bothType" : true
     }, {
       "id" : 3375,
       "name" : "静待流年",
@@ -124,7 +138,8 @@
       "summary" : "这是一个面瘫女和腹黑男的故事，这是一个学长“吃掉”学妹的故事！面瘫不一定总面无表情，心底冷淡....",
       "updateStatus" : 1,
       "capacity" : 241163,
-      "readerCount" : 632
+      "readerCount" : 632,
+      "bothType" : true
     }, {
       "id" : 3592,
       "name" : "单纯逐笑开",
@@ -132,7 +147,8 @@
       "summary" : "女主重生到了一个架空世界，她成了盟主千金。爹爹是个美丽的盟主，盟主爱夫人，不爱女儿。女儿去无极山习武",
       "updateStatus" : 1,
       "capacity" : 112614,
-      "readerCount" : 630
+      "readerCount" : 630,
+      "bothType" : false
     }, {
       "id" : 3358,
       "name" : "败家小姐炫情",
@@ -140,7 +156,8 @@
       "summary" : "她：游戏中的男与他成为唯一死党一场无故的车祸使其分离大路朝天各走一边她后他疯了的满世界寻找..另一个",
       "updateStatus" : 1,
       "capacity" : 111542,
-      "readerCount" : 628
+      "readerCount" : 628,
+      "bothType" : false
     }, {
       "id" : 3343,
       "name" : "许你水木两相依",
@@ -148,7 +165,8 @@
       "summary" : "她，是那一湾流水中最清澈的一捧。他，晶莹的心灵涤荡在清贫的家境和残酷的社会里。他，天资卓越，运筹帷幄",
       "updateStatus" : 1,
       "capacity" : 754919,
-      "readerCount" : 627
+      "readerCount" : 627,
+      "bothType" : false
     }, {
       "id" : 2331,
       "name" : "情陷异时空之名动天下",
@@ -156,7 +174,8 @@
       "summary" : "一个俏皮可爱的现代知名女医生不知不觉爱上古代的冷酷王爷，却三番两次被伤害，无奈回到现代独自抚养两个天",
       "updateStatus" : 1,
       "capacity" : 6229414,
-      "readerCount" : 627
+      "readerCount" : 627,
+      "bothType" : false
     }, {
       "id" : 3268,
       "name" : "荆棘路之丛生荆棘",
@@ -164,7 +183,8 @@
       "summary" : "从苦逼青年到权倾天下，从乖乖学生到黑帮老大，不是因为他有多大的野心，只是为心中对孟林得感激与尊敬，默",
       "updateStatus" : 1,
       "capacity" : 213537,
-      "readerCount" : 627
+      "readerCount" : 627,
+      "bothType" : true
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "summary" : "普天之下，实力独尊，血之帝国，神秘血族，大漠之外，妖娆蛇族，阴阳轮回，舞天地，转乾坤！第一卷以存稿完",
       "updateStatus" : 1,
       "capacity" : 60216,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3513,
       "name" : "安伦旅途",
@@ -20,7 +21,8 @@
       "summary" : "从最初写《安伦旅途》到现在有三年的时间，一直断断续续，久而久之写《安伦》成了我记录成长得一种最简易的",
       "updateStatus" : 1,
       "capacity" : 292259,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : true
     }, {
       "id" : 3099,
       "name" : "青春悼念曲",
@@ -28,7 +30,8 @@
       "summary" : "孩子在小的时候总是会想要快快长大，那样就可以不用天天听爸爸妈妈的唠叨了。但是真正长大的时候才会发现原",
       "updateStatus" : 1,
       "capacity" : 1799376,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3058,
       "name" : "米虫的王爷梦",
@@ -36,7 +39,8 @@
       "summary" : "当一道光带着我们可爱的女猪开始了她的穿越之旅，当她遭遇了一个有一个的可爱的事情，遇见一个有一个美男之",
       "updateStatus" : 1,
       "capacity" : 647242,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3455,
       "name" : "蜜宠之今生只要你",
@@ -44,7 +48,8 @@
       "summary" : "在这个世界，不管是朝堂还是江湖，他只想把她眷宠在怀，疼宠在心，只因一眼万年。",
       "updateStatus" : 1,
       "capacity" : 301914,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3534,
       "name" : "风起翼翔雪牵洛楹",
@@ -52,7 +57,8 @@
       "summary" : "一位是体坛上的风云王者，是众多粉丝眼中神秘的王子；一位是普普通通的平凡女子，重复着众多人的求学之路。",
       "updateStatus" : 1,
       "capacity" : 229937,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3363,
       "name" : "顾事了",
@@ -60,7 +66,8 @@
       "summary" : "顾云嘉：我曾经好像喜欢过你。穆良朝：天气不错，我那个时候那么纯情。江洲：那时候那么小，我都不记得谁跟",
       "updateStatus" : 1,
       "capacity" : 430000,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3349,
       "name" : "宁负苍天",
@@ -68,7 +75,8 @@
       "summary" : "她是前世的司神，他是前世的天帝之子，选定的御君候选者。她的赌约因他而生，转生，轮回于人间，他依旧为他",
       "updateStatus" : 1,
       "capacity" : 375313,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3011,
       "name" : "守护伊始只为你",
@@ -76,7 +84,8 @@
       "summary" : "祁雪儿不过是搭了一回顺风车，可这莫名其妙闯进自己生活的冰山大叔是怎么回事？管吃饭管睡觉还管上学，你以",
       "updateStatus" : 1,
       "capacity" : 6111029,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3477,
       "name" : "穿越之千年缘",
@@ -84,7 +93,8 @@
       "summary" : "坠入凡尘历经千年，再续千年缘。",
       "updateStatus" : 1,
       "capacity" : 348052,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3571,
       "name" : "小小侍女的灿烂时光",
@@ -92,7 +102,8 @@
       "summary" : "麻雀变凤凰的过程也可以很简单，比如王宫里的两位当家主子争吵着......争吵着......就替她吵出",
       "updateStatus" : 1,
       "capacity" : 146617,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2554,
       "name" : "和宠物相伴的日子",
@@ -100,7 +111,8 @@
       "summary" : "妈妈因和爸爸情感上的打击，患上抑郁症在家不能工作。妈妈开始帮助我救治，在学校捡回家，已经不会吃食物的",
       "updateStatus" : 1,
       "capacity" : 1163322,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3021,
       "name" : "千宠万爱",
@@ -108,7 +120,8 @@
       "summary" : "她，要吃要睡不要美男。前世过着与继母继姐争夺的日子，却不失乐趣所在。一日睡醒，不知身在何处。前世无爱",
       "updateStatus" : 1,
       "capacity" : 5256209,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3652,
       "name" : "总裁恶魔点娇妻",
@@ -116,7 +129,8 @@
       "summary" : "他，就是那个混蛋神经病？什么，他是总裁？神经病，我跑去国外你还是不放过我！“汐鸢，你逃不出我的手掌心",
       "updateStatus" : 1,
       "capacity" : 282854,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3138,
       "name" : "黑色的梦境",
@@ -124,7 +138,8 @@
       "summary" : "现实与梦境究竟谁是现实谁是梦境，这又有谁能说的清楚呢？古人有庄周梦蝶之说.对于项生来说，他是一生就是",
       "updateStatus" : 1,
       "capacity" : 37591,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3224,
       "name" : "快乐公主流浪记",
@@ -132,7 +147,8 @@
       "summary" : "快乐公主学本领，智斗老巫婆",
       "updateStatus" : 1,
       "capacity" : 360493,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2784,
       "name" : "恶魔少爷伪天使",
@@ -140,7 +156,8 @@
       "summary" : "她..本是一个善良、温柔得像天使一般的女孩..可当她失去她生命当中最重要的人时..她变了..而他..",
       "updateStatus" : 1,
       "capacity" : 5806166,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3607,
       "name" : "青葱，蒜不蒜",
@@ -148,7 +165,8 @@
       "summary" : "青春，像青葱一样，虽不成熟却已经有了自己的味道我们笑着呛得眼泪直流，却是否尝到嘴里淡淡的回甘陈家榆是",
       "updateStatus" : 1,
       "capacity" : 578050,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2401,
       "name" : "拾爱：蚀骨之恋",
@@ -156,7 +174,8 @@
       "summary" : "故事简介青梅竹马的两人她总是爱跟在他的背后喊“哥哥，哥哥……”他厌烦这个‘妹妹’总是跟在他的身后，喊",
       "updateStatus" : 1,
       "capacity" : 5841713,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3136,
       "name" : "紫墟：涅槃",
@@ -164,7 +183,8 @@
       "summary" : "他是冷血强势的琅琊轩主人，她是从小被关进黑塔禁地的吟家三小姐，她出生那晚天现不详，家主慌乱中推开产房",
       "updateStatus" : 1,
       "capacity" : 150895,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     } ]
   }
 }

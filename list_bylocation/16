@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3266,
-      "name" : "候鸟归来",
+      "id" : 2717,
+      "name" : "修罗王妃：血战三关",
       "updateStatus" : 1,
-      "distance" : 6396,
-      "memberId" : 2647
+      "distance" : 3563,
+      "memberId" : 6920,
+      "bothType" : false
     }, {
-      "id" : 2576,
-      "name" : "四人行",
+      "id" : 2218,
+      "name" : "谁欲人王",
       "updateStatus" : 1,
-      "distance" : 7318,
-      "memberId" : 5439
+      "distance" : 9055,
+      "memberId" : 6706,
+      "bothType" : true
     }, {
-      "id" : 2425,
-      "name" : "龙女在京",
+      "id" : 2880,
+      "name" : "卿本红颜之妃常杀手",
       "updateStatus" : 1,
-      "distance" : 6456,
-      "memberId" : 7164
+      "distance" : 1932,
+      "memberId" : 8626,
+      "bothType" : false
     }, {
-      "id" : 3352,
-      "name" : "沁语录",
+      "id" : 3531,
+      "name" : "懒妃12岁：请叫我王后",
       "updateStatus" : 1,
-      "distance" : 6131,
-      "memberId" : 3483
+      "distance" : 3886,
+      "memberId" : 8645,
+      "bothType" : false
     }, {
-      "id" : 2215,
-      "name" : "诛仙凡尘",
+      "id" : 2861,
+      "name" : "妖孽殿下：魅惑冷情阁主",
       "updateStatus" : 1,
-      "distance" : 2827,
-      "memberId" : 7041
+      "distance" : 7908,
+      "memberId" : 6395,
+      "bothType" : false
     }, {
-      "id" : 2633,
-      "name" : "三姐妹之抚顺顽皮小野猫",
+      "id" : 3661,
+      "name" : "狐来",
       "updateStatus" : 1,
-      "distance" : 5423,
-      "memberId" : 5859
+      "distance" : 8142,
+      "memberId" : 7994,
+      "bothType" : false
     }, {
-      "id" : 2290,
-      "name" : "菩提",
+      "id" : 2644,
+      "name" : "爱她还是爱自己",
       "updateStatus" : 1,
-      "distance" : 4936,
-      "memberId" : 7269
+      "distance" : 4853,
+      "memberId" : 2762,
+      "bothType" : false
     }, {
-      "id" : 3097,
-      "name" : "穿越之丑凤倾城",
+      "id" : 3096,
+      "name" : "绝不放手",
       "updateStatus" : 1,
-      "distance" : 4082,
-      "memberId" : 6410
+      "distance" : 2503,
+      "memberId" : 1880,
+      "bothType" : false
     }, {
-      "id" : 2700,
-      "name" : "狐舞倾城：姐的世界你不懂",
+      "id" : 3440,
+      "name" : "风月楼",
       "updateStatus" : 1,
-      "distance" : 5203,
-      "memberId" : 4523
+      "distance" : 5187,
+      "memberId" : 2492,
+      "bothType" : false
     }, {
-      "id" : 2856,
-      "name" : "风诉",
+      "id" : 3251,
+      "name" : "博宇睿",
       "updateStatus" : 1,
-      "distance" : 8975,
-      "memberId" : 3501
+      "distance" : 6703,
+      "memberId" : 5563,
+      "bothType" : false
     }, {
-      "id" : 3240,
-      "name" : "打工江湖路",
+      "id" : 2493,
+      "name" : "救个男友回家过关",
       "updateStatus" : 1,
-      "distance" : 7420,
-      "memberId" : 5916
+      "distance" : 6324,
+      "memberId" : 6761,
+      "bothType" : true
     }, {
-      "id" : 2154,
-      "name" : "寻仙问诱：美男不要逃",
+      "id" : 3249,
+      "name" : "恋上花样天才美男",
       "updateStatus" : 1,
-      "distance" : 9018,
-      "memberId" : 6729
+      "distance" : 5323,
+      "memberId" : 2325,
+      "bothType" : false
     }, {
-      "id" : 2475,
-      "name" : "鬼掌灯",
+      "id" : 2990,
+      "name" : "薄情先生：炸弹绝妃哪里逃",
       "updateStatus" : 1,
-      "distance" : 5306,
-      "memberId" : 6762
+      "distance" : 8807,
+      "memberId" : 3568,
+      "bothType" : true
     }, {
-      "id" : 2105,
-      "name" : "是谁弯下小蛮腰",
+      "id" : 3689,
+      "name" : "让我爱你",
       "updateStatus" : 1,
-      "distance" : 4006,
-      "memberId" : 3735
+      "distance" : 5645,
+      "memberId" : 8076,
+      "bothType" : false
     }, {
-      "id" : 3428,
-      "name" : "流年轻度鸳鸯浦",
+      "id" : 2217,
+      "name" : "枪芒",
       "updateStatus" : 1,
-      "distance" : 9181,
-      "memberId" : 3218
+      "distance" : 3304,
+      "memberId" : 6313,
+      "bothType" : false
     }, {
-      "id" : 2892,
-      "name" : "因为，爱情",
+      "id" : 3741,
+      "name" : "纯红之血：吸血鬼盯上了你",
       "updateStatus" : 1,
-      "distance" : 2599,
-      "memberId" : 8354
+      "distance" : 4833,
+      "memberId" : 7298,
+      "bothType" : false
     }, {
-      "id" : 3418,
-      "name" : "虹杀手之赤燕",
+      "id" : 3167,
+      "name" : "凤武九霄：一品庶女傲天下",
       "updateStatus" : 1,
-      "distance" : 1310,
-      "memberId" : 2929
+      "distance" : 1342,
+      "memberId" : 3895,
+      "bothType" : false
     }, {
-      "id" : 2143,
-      "name" : "重生修炼龙祖",
-      "updateStatus" : 2,
-      "distance" : 6074,
-      "memberId" : 8698
-    }, {
-      "id" : 3687,
-      "name" : "至尊天下：霸占绝色鬼颜妃",
+      "id" : 2652,
+      "name" : "墨世情缘对对碰",
       "updateStatus" : 1,
-      "distance" : 1133,
-      "memberId" : 2317
+      "distance" : 2070,
+      "memberId" : 5508,
+      "bothType" : false
     }, {
-      "id" : 2204,
-      "name" : "穿越无门之门",
+      "id" : 3070,
+      "name" : "双面娇娃：爱在罂粟烂漫时",
       "updateStatus" : 1,
-      "distance" : 1944,
-      "memberId" : 5397
+      "distance" : 4013,
+      "memberId" : 5411,
+      "bothType" : true
+    }, {
+      "id" : 3521,
+      "name" : "总裁很霸道：老婆。你非我莫属",
+      "updateStatus" : 1,
+      "distance" : 6031,
+      "memberId" : 4241,
+      "bothType" : false
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "summary" : "一座山脉的传承，一个王朝的覆灭，一个社会和另一个社会的的碰撞，不断轮回。“我可能只是一把钥匙，我只能",
       "updateStatus" : 1,
       "capacity" : 7725039,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 3683,
       "name" : "梧桐花雨：亡颜劫",
@@ -20,7 +21,8 @@
       "summary" : "你说过我们要一直牵着对方的手走下去，可最终我们终究没能抓住彼此的手。不是你不信守承诺，而是我放手了！",
       "updateStatus" : 1,
       "capacity" : 155998,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3492,
       "name" : "清月",
@@ -28,7 +30,8 @@
       "summary" : "一朝无意穿越，她选择撑起这个家庭。她是冷冷清清的个性，身边却总出现一些奇异的人，那些人或江湖少侠，或",
       "updateStatus" : 1,
       "capacity" : 881366,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3259,
       "name" : "静若安好愉怡一生",
@@ -36,7 +39,8 @@
       "summary" : "我们从相识到相知在一起在需找那个Ta，是一对好姐妹，好闺蜜。却又发生了不少事。误解，怀疑，不理到理解",
       "updateStatus" : 1,
       "capacity" : 43317,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3090,
       "name" : "两个人的天意",
@@ -44,7 +48,8 @@
       "summary" : "尼玛？他是在被甩之后才转向追求她的？并且，他的前女友还和自己同一宿舍？好吧，她接受。尼玛，自己的死党",
       "updateStatus" : 1,
       "capacity" : 411972,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3325,
       "name" : "司宠",
@@ -52,7 +57,8 @@
       "summary" : "谁说面带笑容，就是真的快乐，唐木木带着可爱灵狐小狸穿越异世谁说举止优雅，就是真的君子，祈月司带着木头",
       "updateStatus" : 1,
       "capacity" : 175351,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3285,
       "name" : "沉星坠夜",
@@ -60,7 +66,8 @@
       "summary" : "。高中毕业的洛鱼在参加毕业晚会后意外的走进一条她从未听说过的街“夜花式”，她走进街上唯一一家开着的店",
       "updateStatus" : 1,
       "capacity" : 253050,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3668,
       "name" : "鸳鸯何处绾红妆",
@@ -68,7 +75,8 @@
       "summary" : "明熹宗年间，皇帝朱由校专心木艺，无心朝政，朝廷被两大乱党魏忠贤和客氏霸占，忠诚良将无不痛心疾首，其中",
       "updateStatus" : 1,
       "capacity" : 88058,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2774,
       "name" : "穿越之农家女初长成",
@@ -76,7 +84,8 @@
       "summary" : "“啊？”陈楚大喊一声，自己跑的那么快，那小子一下子就碰到自己肩膀了？难道这货是妖精？快跑！",
       "updateStatus" : 1,
       "capacity" : 4065814,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3551,
       "name" : "爱你或许只是兴起",
@@ -84,7 +93,8 @@
       "summary" : "他们是公认的青梅竹马，他们是公认的最不配，其实他们只是最陌生的邻居。他们也许是花了四年时间相恋，也许",
       "updateStatus" : 1,
       "capacity" : 239562,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3264,
       "name" : "一个安静的故事",
@@ -92,7 +102,8 @@
       "summary" : "曾经，我在时光的彼岸，一个人安静的活着。一个人安静地吃着饭，一个人安静地听着歌，一个人安静地看电影，",
       "updateStatus" : 1,
       "capacity" : 666114,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3071,
       "name" : "焚源·苍蓝",
@@ -100,7 +111,8 @@
       "summary" : "星殿骑士，灵术师，巫蛊者，星士，等等——这块名为【焚源】的大陆存在有太多古老的力量形态。历史波澜壮阔",
       "updateStatus" : 1,
       "capacity" : 153997,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3211,
       "name" : "胭脂香味",
@@ -108,7 +120,8 @@
       "summary" : "他本是她的守护神，生就与她血脉相通。谁知一场天雷斩断了她与他的姻缘，却成就了另一个他对她的情缘。他是",
       "updateStatus" : 1,
       "capacity" : 63493,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3333,
       "name" : "清梦未央",
@@ -116,7 +129,8 @@
       "summary" : "穿越百年的灵魂，是报应？还是塔罗牌命运之轮的魔力让我遇到你们？此情可待成追忆，只是当时已惘然和他注定",
       "updateStatus" : 1,
       "capacity" : 34381,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3557,
       "name" : "无知岁月",
@@ -124,7 +138,8 @@
       "summary" : "无",
       "updateStatus" : 1,
       "capacity" : 135770,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3156,
       "name" : "如果爱情是一首歌",
@@ -132,7 +147,8 @@
       "summary" : "如果爱情是一首歌，每个人都会因为自己的经历不同，而谱写出不同的爱情之歌。而我，上官若水，将于谁共谱这",
       "updateStatus" : 1,
       "capacity" : 777844,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 3726,
       "name" : "君倾如月",
@@ -140,7 +156,8 @@
       "summary" : "异世重生，是折磨，还是宿命？为什么？竟然会是你？冷酷凌厉的俊颜此刻布满了吃惊和惊痛，自己厌恶的女人竟",
       "updateStatus" : 1,
       "capacity" : 1061816,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3173,
       "name" : "超级高中生",
@@ -148,7 +165,8 @@
       "summary" : "一个无法阻止的阴谋。它的幕后主使是谁？一个无法实现的约定。究竟是因为什么？一次超自然事件。带来了什么",
       "updateStatus" : 1,
       "capacity" : 276569,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2314,
       "name" : "白之纯水之澈",
@@ -156,7 +174,8 @@
       "summary" : "只因阎王给崔蓝彩名字上的某人画死亡之“&times;”的时候，“&times;”的一笔画得长了点，碰",
       "updateStatus" : 1,
       "capacity" : 9074731,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2589,
       "name" : "弑神之巅",
@@ -164,7 +183,8 @@
       "summary" : "画中有话亦真假，声中有生帘青遐；青终有情诱君嫁，人终有仁寻师葭。弑神之心念念在师，不管寒冰，铁马踏破",
       "updateStatus" : 1,
       "capacity" : 5378487,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "summary" : "你是我梦中的情人，你是我前世的纠缠，你是我无法续写的篇章...你们纠缠在我的梦魇里.....是折磨，",
       "updateStatus" : 2,
       "capacity" : 5468053,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2237,
       "name" : "桃花嫁",
@@ -20,7 +21,8 @@
       "summary" : "萧紫幽：彩遥，“嫁给我”这句话，你听了这么多年，有没有一次心动？萧白夜：紫幽这样爱你，不知道是他太笨",
       "updateStatus" : 2,
       "capacity" : 5253537,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2838,
       "name" : "小恋曲",
@@ -28,7 +30,8 @@
       "summary" : "他们青梅竹马，她依赖着他，他一直守护着她，不管怎么样他都从来不怪她，只会一味的包容着她，哪怕她忽然有",
       "updateStatus" : 2,
       "capacity" : 1694021,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2529,
       "name" : "萝莉女警攻略：攻克冷面大叔",
@@ -36,7 +39,8 @@
       "summary" : "毒舌女主欢脱驾临。想学些骂人不带脏字的话吗？想看看刻薄女主是怎么生存的吗？敬请点击《萝莉女警攻略：攻",
       "updateStatus" : 2,
       "capacity" : 9608753,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2072,
       "name" : "绝色医仙：迫嫁公主绝情帝",
@@ -44,7 +48,8 @@
       "summary" : "本是金枝玉叶的公主，从小却被丢弃于宫外，终见生父颜面，却是要被送往异国和亲。心灰意冷，她已无所求，十",
       "updateStatus" : 2,
       "capacity" : 7792329,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2516,
       "name" : "青春，一场久治不愈的感冒",
@@ -52,7 +57,8 @@
       "summary" : "青春、永远是一场久治不愈的感冒；人生、永远是一场悲喜交加的戏剧。谨以生活的细枝末节纪念我跌跌撞撞却依",
       "updateStatus" : 2,
       "capacity" : 2180419,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2367,
       "name" : "爱的嘉年华",
@@ -60,7 +66,8 @@
       "summary" : "“什么？嘉年绘！你凭什么替我去结婚？还是和男的！还是和一个外国男人！你不知道我也是男人嘛？”嘉年华气",
       "updateStatus" : 2,
       "capacity" : 9064000,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2067,
       "name" : "昔人惜人",
@@ -68,7 +75,8 @@
       "summary" : "一对“悬殊”弯刀，注定了他们不变的情缘；她，孤傲独立；他，冷酷固执；初见面，他冷眼道：“我无意于这场",
       "updateStatus" : 2,
       "capacity" : 8307340,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2123,
       "name" : "鬼歾",
@@ -76,7 +84,8 @@
       "summary" : "曾经威震六界的一族，却因为背叛，沉默了千年。千年重生后的一切，是否依旧。“嗯，虽然我想起了事情的部分",
       "updateStatus" : 2,
       "capacity" : 7943182,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2372,
       "name" : "出轨无毒",
@@ -84,7 +93,8 @@
       "summary" : "一位母亲面对女婿出轨，但是女儿却爱着这个男人，她将怎么样的来看待这件事情？她又将如何的来处理，让女儿",
       "updateStatus" : 2,
       "capacity" : 7167482,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2070,
       "name" : "最后一个情人",
@@ -92,7 +102,8 @@
       "summary" : "故事的七段被一首歌《最后一个情人》挑起灵感，借助这个名，写了一段世间的情爱斗争。任何人得一生都会演绎",
       "updateStatus" : 2,
       "capacity" : 8535064,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2361,
       "name" : "豪门溺爱：一追到底",
@@ -100,7 +111,8 @@
       "summary" : "女孩大胆的指着另一个女孩问道：“你敢要我么？娶我如何？”另一女孩胆怯的望着她：“娶你是什么意思？”女",
       "updateStatus" : 2,
       "capacity" : 8654704,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2396,
       "name" : "冷爱",
@@ -108,7 +120,8 @@
       "summary" : "年少的爱情往往都是浪漫而美好，而戴新一长达十年的苦涩暗恋史，却从他和朱樱共享一个不可告人的秘密开始…",
       "updateStatus" : 2,
       "capacity" : 9691984,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2259,
       "name" : "一树梨花散，散，散",
@@ -116,7 +129,8 @@
       "summary" : "所执悠，有着最崇高的身份，过着最低位的生活一场被刻意营造的海难，却由自己的亲人制造一场无望的眷恋，一",
       "updateStatus" : 2,
       "capacity" : 9346772,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2107,
       "name" : "嚣张王妃：霸爱俊王爷",
@@ -124,7 +138,8 @@
       "summary" : "她，警界精英，爱红妆也爱武装，不料意外穿越，睁开眼已变身新婚弃妃。他，尊贵无比的平江王，却在新婚之夜",
       "updateStatus" : 2,
       "capacity" : 2563156,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2192,
       "name" : "灵幻",
@@ -132,7 +147,8 @@
       "summary" : "墨羽，一个名不见经传的高中生，生活在一颗蔚蓝色的星球中！没钱、没车、没房、没背景，总结起来就是个“四",
       "updateStatus" : 2,
       "capacity" : 6869980,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2196,
       "name" : "似梦非梦：我的前世今生",
@@ -140,7 +156,8 @@
       "summary" : "前世因，今世果。一个未饮孟婆汤，在今世的梦里不断忆起前世的女子，她的人生将会有怎样的波折和磨难？",
       "updateStatus" : 2,
       "capacity" : 5797014,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2246,
       "name" : "王爷，你给本宫趴下",
@@ -148,7 +165,8 @@
       "summary" : "【表面是欢脱的】据说，人间有种职业叫做穿越天界有种惩处叫做轮回那她九生九死，往来穿梭，算个啥？再说，",
       "updateStatus" : 2,
       "capacity" : 2201147,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2319,
       "name" : "绝代风华：魅惑帝王心",
@@ -156,7 +174,8 @@
       "summary" : "【千景阁原创出品】她一场车祸，莫名其妙穿到一个架空年代，居然是一个开国大将军的庶女，母亲早死，爹爹不",
       "updateStatus" : 2,
       "capacity" : 9303636,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2186,
       "name" : "落日传说",
@@ -164,7 +183,8 @@
       "summary" : "【无限穿】神秘的宿命之镜，晶莹的镜子城堡。到游乐园游玩的女孩易沐悠，开启了她命运中的第一个转折。被妖",
       "updateStatus" : 2,
       "capacity" : 4841665,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     } ]
   }
 }

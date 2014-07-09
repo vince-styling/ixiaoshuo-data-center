@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
+      "id" : 3051,
+      "name" : "执念恨",
+      "updateStatus" : 2,
+      "distance" : 5814,
+      "memberId" : 7213,
+      "bothType" : false
+    }, {
+      "id" : 3487,
+      "name" : "传说，苏忆恩作得一手好死",
+      "updateStatus" : 1,
+      "distance" : 4116,
+      "memberId" : 5017,
+      "bothType" : false
+    }, {
       "id" : 2533,
       "name" : "泪倾城之梦汐醉",
       "updateStatus" : 1,
-      "distance" : 7957,
-      "memberId" : 3075
+      "distance" : 6843,
+      "memberId" : 5161,
+      "bothType" : false
     }, {
-      "id" : 3368,
-      "name" : "倾世凤妃",
+      "id" : 2823,
+      "name" : "情结若楚",
       "updateStatus" : 1,
-      "distance" : 7094,
-      "memberId" : 5739
+      "distance" : 1473,
+      "memberId" : 4315,
+      "bothType" : false
     }, {
-      "id" : 2081,
-      "name" : "命定一瞬，执念一生",
+      "id" : 3168,
+      "name" : "我在你的记忆中走过",
       "updateStatus" : 1,
-      "distance" : 9395,
-      "memberId" : 5168
+      "distance" : 3856,
+      "memberId" : 7156,
+      "bothType" : false
     }, {
-      "id" : 2383,
-      "name" : "莫绪",
+      "id" : 2281,
+      "name" : "花照",
       "updateStatus" : 1,
-      "distance" : 9504,
-      "memberId" : 2101
+      "distance" : 848,
+      "memberId" : 8084,
+      "bothType" : false
     }, {
-      "id" : 3039,
-      "name" : "一世迷离",
+      "id" : 2494,
+      "name" : "火蓝刀锋之邂逅重生",
       "updateStatus" : 1,
-      "distance" : 5897,
-      "memberId" : 2651
+      "distance" : 2041,
+      "memberId" : 6940,
+      "bothType" : false
     }, {
-      "id" : 3528,
-      "name" : "丑女倾城：待我长发及腰",
+      "id" : 3017,
+      "name" : "南宫世家",
       "updateStatus" : 1,
-      "distance" : 5596,
-      "memberId" : 6693
+      "distance" : 8065,
+      "memberId" : 6180,
+      "bothType" : false
     }, {
-      "id" : 2327,
-      "name" : "尚古谪仙传：谪仙囧囧谈",
+      "id" : 2611,
+      "name" : "长门妾",
       "updateStatus" : 1,
-      "distance" : 5598,
-      "memberId" : 2635
+      "distance" : 1717,
+      "memberId" : 7581,
+      "bothType" : true
     }, {
-      "id" : 2451,
-      "name" : "穿越前世来爱你",
+      "id" : 3382,
+      "name" : "三大明星公主的桃花劫",
       "updateStatus" : 1,
-      "distance" : 2395,
-      "memberId" : 8958
+      "distance" : 9227,
+      "memberId" : 1899,
+      "bothType" : true
     }, {
-      "id" : 3629,
-      "name" : "以歌为名，为爱铭志",
+      "id" : 2321,
+      "name" : "梦呓熙殇",
       "updateStatus" : 1,
-      "distance" : 5939,
-      "memberId" : 3338
+      "distance" : 5968,
+      "memberId" : 1459,
+      "bothType" : false
     }, {
-      "id" : 2724,
-      "name" : "陌路：琴音",
+      "id" : 3347,
+      "name" : "冷艳傲骨：毒物小姐狠嚣张",
       "updateStatus" : 1,
-      "distance" : 8949,
-      "memberId" : 3094
-    }, {
-      "id" : 2122,
-      "name" : "毒药的诱惑",
-      "updateStatus" : 1,
-      "distance" : 3100,
-      "memberId" : 8718
+      "distance" : 4715,
+      "memberId" : 1397,
+      "bothType" : false
     }, {
       "id" : 3571,
       "name" : "小小侍女的灿烂时光",
       "updateStatus" : 1,
-      "distance" : 7369,
-      "memberId" : 3891
+      "distance" : 7432,
+      "memberId" : 7095,
+      "bothType" : false
     }, {
-      "id" : 2425,
-      "name" : "龙女在京",
+      "id" : 2835,
+      "name" : "凉薄如雪",
       "updateStatus" : 1,
-      "distance" : 1788,
-      "memberId" : 1557
+      "distance" : 2336,
+      "memberId" : 7254,
+      "bothType" : false
     }, {
-      "id" : 3254,
-      "name" : "北京不眠",
-      "updateStatus" : 1,
-      "distance" : 7280,
-      "memberId" : 6984
+      "id" : 2415,
+      "name" : "学生起义军",
+      "updateStatus" : 2,
+      "distance" : 627,
+      "memberId" : 5389,
+      "bothType" : false
     }, {
-      "id" : 2446,
-      "name" : "安否，掠掳之来去的幸福",
+      "id" : 3284,
+      "name" : "相公，本姑娘这厢有礼了",
       "updateStatus" : 1,
-      "distance" : 1873,
-      "memberId" : 6597
+      "distance" : 2953,
+      "memberId" : 5434,
+      "bothType" : false
     }, {
-      "id" : 3384,
-      "name" : "若，我们的结局注定是悲剧",
+      "id" : 2055,
+      "name" : "网王王子们的爱之不曾离开",
       "updateStatus" : 1,
-      "distance" : 9891,
-      "memberId" : 2496
+      "distance" : 1581,
+      "memberId" : 1237,
+      "bothType" : false
     }, {
-      "id" : 2817,
-      "name" : "谁爱过我",
+      "id" : 3691,
+      "name" : "巧夺帝心：奸妃娘娘升职记",
       "updateStatus" : 1,
-      "distance" : 6014,
-      "memberId" : 6612
+      "distance" : 4518,
+      "memberId" : 3426,
+      "bothType" : false
     }, {
-      "id" : 2434,
-      "name" : "邪逆乾坤",
-      "updateStatus" : 1,
-      "distance" : 9627,
-      "memberId" : 8412
+      "id" : 2362,
+      "name" : "青春小夜曲",
+      "updateStatus" : 2,
+      "distance" : 4189,
+      "memberId" : 8239,
+      "bothType" : true
     }, {
-      "id" : 2562,
-      "name" : "南无阿米豆腐",
+      "id" : 2558,
+      "name" : "唯吾独尊：废物公主傲天下",
       "updateStatus" : 1,
-      "distance" : 3576,
-      "memberId" : 7798
-    }, {
-      "id" : 2150,
-      "name" : "最",
-      "updateStatus" : 1,
-      "distance" : 7247,
-      "memberId" : 5678
+      "distance" : 2950,
+      "memberId" : 6223,
+      "bothType" : false
     } ]
   }
 }

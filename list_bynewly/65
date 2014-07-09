@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45956.jpg",
       "updateStatus" : 1,
       "capacity" : 1195840,
-      "lastUpdateTime" : "2013-11-29 08:44:06"
+      "lastUpdateTime" : "2013-11-29 08:44:06",
+      "bothType" : false
     }, {
       "id" : 2677,
       "name" : "悠悠珠碧河",
@@ -20,7 +21,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 2443657,
-      "lastUpdateTime" : "2013-11-29 08:24:32"
+      "lastUpdateTime" : "2013-11-29 08:24:32",
+      "bothType" : false
     }, {
       "id" : 2178,
       "name" : "穿越之朔月传奇",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46270.jpg",
       "updateStatus" : 1,
       "capacity" : 1891698,
-      "lastUpdateTime" : "2013-11-29 07:04:12"
+      "lastUpdateTime" : "2013-11-29 07:04:12",
+      "bothType" : false
     }, {
       "id" : 2298,
       "name" : "重生联盟之绝代风华",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44089.jpg",
       "updateStatus" : 1,
       "capacity" : 4686445,
-      "lastUpdateTime" : "2013-11-29 05:48:49"
+      "lastUpdateTime" : "2013-11-29 05:48:49",
+      "bothType" : false
     }, {
       "id" : 3172,
       "name" : "竹马太腹黑",
@@ -44,7 +48,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 80360,
-      "lastUpdateTime" : "2013-11-29 05:46:32"
+      "lastUpdateTime" : "2013-11-29 05:46:32",
+      "bothType" : true
     }, {
       "id" : 2476,
       "name" : "致命红蝶",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15271.jpg",
       "updateStatus" : 2,
       "capacity" : 4499537,
-      "lastUpdateTime" : "2013-11-29 05:26:14"
+      "lastUpdateTime" : "2013-11-29 05:26:14",
+      "bothType" : false
     }, {
       "id" : 2992,
       "name" : "天才萌宝：霸情爹地太腹黑",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46639.jpg",
       "updateStatus" : 1,
       "capacity" : 1099468,
-      "lastUpdateTime" : "2013-11-29 04:50:23"
+      "lastUpdateTime" : "2013-11-29 04:50:23",
+      "bothType" : false
     }, {
       "id" : 3738,
       "name" : "献青春：那些我们叛逆过的叛逆",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43882.jpg",
       "updateStatus" : 1,
       "capacity" : 1474816,
-      "lastUpdateTime" : "2013-11-29 04:41:50"
+      "lastUpdateTime" : "2013-11-29 04:41:50",
+      "bothType" : false
     }, {
       "id" : 2396,
       "name" : "冷爱",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18850.jpg",
       "updateStatus" : 2,
       "capacity" : 9691984,
-      "lastUpdateTime" : "2013-11-29 04:38:53"
+      "lastUpdateTime" : "2013-11-29 04:38:53",
+      "bothType" : true
     }, {
       "id" : 2809,
       "name" : "百食",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47508.jpg",
       "updateStatus" : 1,
       "capacity" : 8550643,
-      "lastUpdateTime" : "2013-11-29 03:33:29"
+      "lastUpdateTime" : "2013-11-29 03:33:29",
+      "bothType" : false
     }, {
       "id" : 3735,
       "name" : "穿越之修真吐槽娘",
@@ -92,7 +102,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 329573,
-      "lastUpdateTime" : "2013-11-29 02:43:21"
+      "lastUpdateTime" : "2013-11-29 02:43:21",
+      "bothType" : true
     }, {
       "id" : 2387,
       "name" : "三世豪门：扛上绝情总裁",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_11849.jpg",
       "updateStatus" : 2,
       "capacity" : 8845554,
-      "lastUpdateTime" : "2013-11-29 02:28:08"
+      "lastUpdateTime" : "2013-11-29 02:28:08",
+      "bothType" : false
     }, {
       "id" : 2871,
       "name" : "吾心似未央",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47402.jpg",
       "updateStatus" : 1,
       "capacity" : 5835348,
-      "lastUpdateTime" : "2013-11-29 02:12:59"
+      "lastUpdateTime" : "2013-11-29 02:12:59",
+      "bothType" : false
     }, {
       "id" : 3346,
       "name" : "一叶听风",
@@ -116,7 +129,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 345909,
-      "lastUpdateTime" : "2013-11-29 01:52:52"
+      "lastUpdateTime" : "2013-11-29 01:52:52",
+      "bothType" : false
     }, {
       "id" : 2991,
       "name" : "穿越之带着闺蜜去穿越",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42649.jpg",
       "updateStatus" : 1,
       "capacity" : 8539192,
-      "lastUpdateTime" : "2013-11-29 01:44:40"
+      "lastUpdateTime" : "2013-11-29 01:44:40",
+      "bothType" : false
     }, {
       "id" : 3728,
       "name" : "含烟思窃之皇上、臣妾做不到",
@@ -132,7 +147,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 44192,
-      "lastUpdateTime" : "2013-11-29 00:41:03"
+      "lastUpdateTime" : "2013-11-29 00:41:03",
+      "bothType" : true
     }, {
       "id" : 2592,
       "name" : "离途",
@@ -140,7 +156,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 5653043,
-      "lastUpdateTime" : "2013-11-28 23:30:59"
+      "lastUpdateTime" : "2013-11-28 23:30:59",
+      "bothType" : false
     }, {
       "id" : 2257,
       "name" : "曾偷浮生半日闲",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19637.jpg",
       "updateStatus" : 1,
       "capacity" : 7709432,
-      "lastUpdateTime" : "2013-11-28 22:26:06"
+      "lastUpdateTime" : "2013-11-28 22:26:06",
+      "bothType" : false
     }, {
       "id" : 2272,
       "name" : "乱世红尘梦",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16841.jpg",
       "updateStatus" : 1,
       "capacity" : 9151577,
-      "lastUpdateTime" : "2013-11-28 22:06:57"
+      "lastUpdateTime" : "2013-11-28 22:06:57",
+      "bothType" : true
     }, {
       "id" : 2165,
       "name" : "擒猪不力：索爱腹黑仙君",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20909.jpg",
       "updateStatus" : 2,
       "capacity" : 5570965,
-      "lastUpdateTime" : "2013-11-28 20:37:00"
+      "lastUpdateTime" : "2013-11-28 20:37:00",
+      "bothType" : false
     } ]
   }
 }

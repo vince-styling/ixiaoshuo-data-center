@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_13443.jpg",
       "updateStatus" : 1,
       "capacity" : 8736306,
-      "lastUpdateTime" : "2013-12-09 01:15:46"
+      "lastUpdateTime" : "2013-12-09 01:15:46",
+      "bothType" : false
     }, {
       "id" : 3618,
       "name" : "蝶恋花：化蝶寻君",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_5027.jpg",
       "updateStatus" : 1,
       "capacity" : 556488,
-      "lastUpdateTime" : "2013-12-09 01:09:55"
+      "lastUpdateTime" : "2013-12-09 01:09:55",
+      "bothType" : true
     }, {
       "id" : 3383,
       "name" : "延续爱",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47763.jpg",
       "updateStatus" : 1,
       "capacity" : 153656,
-      "lastUpdateTime" : "2013-12-09 01:04:13"
+      "lastUpdateTime" : "2013-12-09 01:04:13",
+      "bothType" : false
     }, {
       "id" : 2356,
       "name" : "霡霂云飒",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44067.jpg",
       "updateStatus" : 1,
       "capacity" : 1660828,
-      "lastUpdateTime" : "2013-12-09 00:47:36"
+      "lastUpdateTime" : "2013-12-09 00:47:36",
+      "bothType" : false
     }, {
       "id" : 2763,
       "name" : "医暖天下",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45970.jpg",
       "updateStatus" : 1,
       "capacity" : 2193731,
-      "lastUpdateTime" : "2013-12-09 00:00:24"
+      "lastUpdateTime" : "2013-12-09 00:00:24",
+      "bothType" : false
     }, {
       "id" : 3551,
       "name" : "爱你或许只是兴起",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44661.jpg",
       "updateStatus" : 1,
       "capacity" : 239562,
-      "lastUpdateTime" : "2013-12-08 23:47:32"
+      "lastUpdateTime" : "2013-12-08 23:47:32",
+      "bothType" : false
     }, {
       "id" : 3426,
       "name" : "浪子安归",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22062.jpg",
       "updateStatus" : 1,
       "capacity" : 457504,
-      "lastUpdateTime" : "2013-12-08 23:29:06"
+      "lastUpdateTime" : "2013-12-08 23:29:06",
+      "bothType" : false
     }, {
       "id" : 3096,
       "name" : "绝不放手",
@@ -68,7 +75,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 10507,
-      "lastUpdateTime" : "2013-12-08 23:09:43"
+      "lastUpdateTime" : "2013-12-08 23:09:43",
+      "bothType" : false
     }, {
       "id" : 3649,
       "name" : "九婴传二之魔天记",
@@ -76,7 +84,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 178027,
-      "lastUpdateTime" : "2013-12-08 22:53:12"
+      "lastUpdateTime" : "2013-12-08 22:53:12",
+      "bothType" : false
     }, {
       "id" : 3588,
       "name" : "红尘笑",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45843.jpg",
       "updateStatus" : 1,
       "capacity" : 571267,
-      "lastUpdateTime" : "2013-12-08 22:42:56"
+      "lastUpdateTime" : "2013-12-08 22:42:56",
+      "bothType" : false
     }, {
       "id" : 2066,
       "name" : "祸爱三生：嗜血夺天下",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16467.jpg",
       "updateStatus" : 1,
       "capacity" : 3587104,
-      "lastUpdateTime" : "2013-12-08 22:38:32"
+      "lastUpdateTime" : "2013-12-08 22:38:32",
+      "bothType" : false
     }, {
       "id" : 2874,
       "name" : "逆天之女：冷清太子的专属温柔",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47706.jpg",
       "updateStatus" : 1,
       "capacity" : 2729053,
-      "lastUpdateTime" : "2013-12-08 21:49:17"
+      "lastUpdateTime" : "2013-12-08 21:49:17",
+      "bothType" : false
     }, {
       "id" : 3624,
       "name" : "陌寻",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22036.jpg",
       "updateStatus" : 1,
       "capacity" : 173829,
-      "lastUpdateTime" : "2013-12-08 21:30:16"
+      "lastUpdateTime" : "2013-12-08 21:30:16",
+      "bothType" : true
     }, {
       "id" : 3146,
       "name" : "陌路相思",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43044.jpg",
       "updateStatus" : 1,
       "capacity" : 296334,
-      "lastUpdateTime" : "2013-12-08 21:28:01"
+      "lastUpdateTime" : "2013-12-08 21:28:01",
+      "bothType" : false
     }, {
       "id" : 2463,
       "name" : "兼职的侦探",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47707.jpg",
       "updateStatus" : 1,
       "capacity" : 4297805,
-      "lastUpdateTime" : "2013-12-08 20:57:57"
+      "lastUpdateTime" : "2013-12-08 20:57:57",
+      "bothType" : true
     }, {
       "id" : 2050,
       "name" : "那些纯纯的爱恋",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43091.jpg",
       "updateStatus" : 1,
       "capacity" : 4259501,
-      "lastUpdateTime" : "2013-12-08 20:42:07"
+      "lastUpdateTime" : "2013-12-08 20:42:07",
+      "bothType" : false
     }, {
       "id" : 2595,
       "name" : "素问天下",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47204.jpg",
       "updateStatus" : 1,
       "capacity" : 3038174,
-      "lastUpdateTime" : "2013-12-08 19:57:23"
+      "lastUpdateTime" : "2013-12-08 19:57:23",
+      "bothType" : true
     }, {
       "id" : 2058,
       "name" : "护花三公主：蛊惑美男心",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14018.jpg",
       "updateStatus" : 2,
       "capacity" : 5575195,
-      "lastUpdateTime" : "2013-12-08 18:58:03"
+      "lastUpdateTime" : "2013-12-08 18:58:03",
+      "bothType" : false
     }, {
       "id" : 2593,
       "name" : "凤御圣月洛",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43069.jpg",
       "updateStatus" : 1,
       "capacity" : 9303288,
-      "lastUpdateTime" : "2013-12-08 18:28:51"
+      "lastUpdateTime" : "2013-12-08 18:28:51",
+      "bothType" : false
     }, {
       "id" : 3010,
       "name" : "冤家，咱布梨布吃",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47603.jpg",
       "updateStatus" : 1,
       "capacity" : 9625493,
-      "lastUpdateTime" : "2013-12-08 18:18:58"
+      "lastUpdateTime" : "2013-12-08 18:18:58",
+      "bothType" : false
     } ]
   }
 }

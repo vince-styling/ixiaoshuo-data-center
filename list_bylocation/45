@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2792,
-      "name" : "依然在一起",
+      "id" : 3527,
+      "name" : "审判之众神时代",
       "updateStatus" : 1,
-      "distance" : 2980,
-      "memberId" : 3637
+      "distance" : 1111,
+      "memberId" : 4285,
+      "bothType" : false
     }, {
-      "id" : 3019,
-      "name" : "午后恋歌",
+      "id" : 2522,
+      "name" : "熊霸天下",
       "updateStatus" : 1,
-      "distance" : 1689,
-      "memberId" : 2823
+      "distance" : 4091,
+      "memberId" : 4819,
+      "bothType" : false
     }, {
-      "id" : 2590,
-      "name" : "妖孽男，巫族女",
-      "updateStatus" : 1,
-      "distance" : 9685,
-      "memberId" : 3166
-    }, {
-      "id" : 2675,
-      "name" : "总裁的契约情人！",
-      "updateStatus" : 1,
-      "distance" : 9173,
-      "memberId" : 3751
-    }, {
-      "id" : 3117,
-      "name" : "总裁少女成长记",
+      "id" : 2415,
+      "name" : "学生起义军",
       "updateStatus" : 2,
-      "distance" : 9118,
-      "memberId" : 5845
+      "distance" : 8032,
+      "memberId" : 3279,
+      "bothType" : false
     }, {
-      "id" : 2238,
-      "name" : "白发皇后：本宫不倾城",
+      "id" : 2435,
+      "name" : "绝世青龙王",
       "updateStatus" : 1,
-      "distance" : 5628,
-      "memberId" : 6323
+      "distance" : 9209,
+      "memberId" : 4630,
+      "bothType" : false
     }, {
-      "id" : 3673,
-      "name" : "美男在侧:霸气男女",
-      "updateStatus" : 1,
-      "distance" : 5259,
-      "memberId" : 7359
-    }, {
-      "id" : 2430,
-      "name" : "一场梦如痴如醉",
-      "updateStatus" : 1,
-      "distance" : 3410,
-      "memberId" : 4514
-    }, {
-      "id" : 2043,
-      "name" : "彼岸繁花落",
-      "updateStatus" : 1,
-      "distance" : 6088,
-      "memberId" : 5778
-    }, {
-      "id" : 2649,
-      "name" : "女配",
-      "updateStatus" : 1,
-      "distance" : 6844,
-      "memberId" : 2866
-    }, {
-      "id" : 2801,
-      "name" : "女神物语",
-      "updateStatus" : 1,
-      "distance" : 6817,
-      "memberId" : 6154
-    }, {
-      "id" : 3570,
-      "name" : "挚爱傻夫君",
-      "updateStatus" : 1,
-      "distance" : 5609,
-      "memberId" : 3178
-    }, {
-      "id" : 3323,
-      "name" : "灵场王子",
-      "updateStatus" : 1,
-      "distance" : 892,
-      "memberId" : 4863
-    }, {
-      "id" : 2704,
-      "name" : "幻世至秘",
-      "updateStatus" : 1,
-      "distance" : 2040,
-      "memberId" : 3018
-    }, {
-      "id" : 3261,
-      "name" : "腐化了的灿烂年华",
-      "updateStatus" : 1,
-      "distance" : 5513,
-      "memberId" : 8612
-    }, {
-      "id" : 3208,
-      "name" : "冥铭之国",
-      "updateStatus" : 1,
-      "distance" : 1787,
-      "memberId" : 6525
-    }, {
-      "id" : 2884,
-      "name" : "叶落彼岸，爱到荼蘼",
-      "updateStatus" : 1,
-      "distance" : 4689,
-      "memberId" : 2727
-    }, {
-      "id" : 2145,
-      "name" : "江湖乱：白首不负待君归",
-      "updateStatus" : 1,
-      "distance" : 9515,
-      "memberId" : 5878
-    }, {
-      "id" : 2143,
-      "name" : "重生修炼龙祖",
+      "id" : 2214,
+      "name" : "冥王老大：鬼眼小娇妻",
       "updateStatus" : 2,
-      "distance" : 4545,
-      "memberId" : 1386
+      "distance" : 6638,
+      "memberId" : 3458,
+      "bothType" : false
     }, {
-      "id" : 2845,
-      "name" : "东宁",
+      "id" : 2471,
+      "name" : "梦妖师",
+      "updateStatus" : 2,
+      "distance" : 5121,
+      "memberId" : 2202,
+      "bothType" : false
+    }, {
+      "id" : 2275,
+      "name" : "国殇，风吟江山",
+      "updateStatus" : 2,
+      "distance" : 5761,
+      "memberId" : 1799,
+      "bothType" : false
+    }, {
+      "id" : 3461,
+      "name" : "束缚中的约定",
       "updateStatus" : 1,
-      "distance" : 3466,
-      "memberId" : 3920
+      "distance" : 510,
+      "memberId" : 2161,
+      "bothType" : false
+    }, {
+      "id" : 2571,
+      "name" : "弦断只影",
+      "updateStatus" : 1,
+      "distance" : 7743,
+      "memberId" : 6916,
+      "bothType" : false
+    }, {
+      "id" : 2490,
+      "name" : "彩云国之一杯茶一辈子",
+      "updateStatus" : 1,
+      "distance" : 3706,
+      "memberId" : 1000,
+      "bothType" : false
+    }, {
+      "id" : 2628,
+      "name" : "别再调戏我",
+      "updateStatus" : 1,
+      "distance" : 8182,
+      "memberId" : 2489,
+      "bothType" : false
+    }, {
+      "id" : 2051,
+      "name" : "追忆我们的纯真年代",
+      "updateStatus" : 1,
+      "distance" : 3971,
+      "memberId" : 7965,
+      "bothType" : false
+    }, {
+      "id" : 3558,
+      "name" : "残疾王爷，暴力妃",
+      "updateStatus" : 1,
+      "distance" : 5572,
+      "memberId" : 3578,
+      "bothType" : true
+    }, {
+      "id" : 2605,
+      "name" : "无限之血统",
+      "updateStatus" : 1,
+      "distance" : 8394,
+      "memberId" : 4445,
+      "bothType" : false
+    }, {
+      "id" : 2156,
+      "name" : "千陌旎",
+      "updateStatus" : 1,
+      "distance" : 2355,
+      "memberId" : 7195,
+      "bothType" : false
+    }, {
+      "id" : 3052,
+      "name" : "林间季雨青冢",
+      "updateStatus" : 1,
+      "distance" : 8341,
+      "memberId" : 5316,
+      "bothType" : true
+    }, {
+      "id" : 2540,
+      "name" : "天降魔法师",
+      "updateStatus" : 1,
+      "distance" : 7860,
+      "memberId" : 2732,
+      "bothType" : true
+    }, {
+      "id" : 2940,
+      "name" : "秦汉·流云浮生",
+      "updateStatus" : 1,
+      "distance" : 1749,
+      "memberId" : 7009,
+      "bothType" : false
+    }, {
+      "id" : 2843,
+      "name" : "家有仙妃很腹黑",
+      "updateStatus" : 1,
+      "distance" : 9216,
+      "memberId" : 8252,
+      "bothType" : false
+    }, {
+      "id" : 2418,
+      "name" : "鬼胎",
+      "updateStatus" : 1,
+      "distance" : 1343,
+      "memberId" : 4639,
+      "bothType" : true
     } ]
   }
 }

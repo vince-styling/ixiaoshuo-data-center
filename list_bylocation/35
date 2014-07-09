@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2961,
-      "name" : "喜荣华正好",
+      "id" : 3166,
+      "name" : "一品凰妻：冷情教主猎娇宠",
       "updateStatus" : 1,
-      "distance" : 9010,
-      "memberId" : 8292
+      "distance" : 4902,
+      "memberId" : 8286,
+      "bothType" : false
     }, {
-      "id" : 2644,
-      "name" : "爱她还是爱自己",
+      "id" : 2799,
+      "name" : "雪寻雪见",
       "updateStatus" : 1,
-      "distance" : 7256,
-      "memberId" : 3334
+      "distance" : 9909,
+      "memberId" : 4995,
+      "bothType" : false
     }, {
-      "id" : 2190,
-      "name" : "天山之雪",
+      "id" : 3730,
+      "name" : "美人殇之彼岸花开",
       "updateStatus" : 1,
-      "distance" : 9342,
-      "memberId" : 5868
+      "distance" : 7546,
+      "memberId" : 2965,
+      "bothType" : false
     }, {
-      "id" : 3096,
-      "name" : "绝不放手",
+      "id" : 3580,
+      "name" : "槐花吟",
       "updateStatus" : 1,
-      "distance" : 6220,
-      "memberId" : 4177
+      "distance" : 1288,
+      "memberId" : 4664,
+      "bothType" : true
     }, {
-      "id" : 3415,
-      "name" : "黑道老大的冷酷男友",
+      "id" : 2307,
+      "name" : "掏心掏肺的傻女人",
       "updateStatus" : 1,
-      "distance" : 1213,
-      "memberId" : 5939
+      "distance" : 5597,
+      "memberId" : 3416,
+      "bothType" : false
     }, {
-      "id" : 2777,
-      "name" : "穿越之风沁",
+      "id" : 3548,
+      "name" : "只见青山妩媚",
       "updateStatus" : 1,
-      "distance" : 5094,
-      "memberId" : 7143
+      "distance" : 8129,
+      "memberId" : 8447,
+      "bothType" : true
     }, {
-      "id" : 3281,
-      "name" : "烈火柔情",
+      "id" : 3345,
+      "name" : "黑洞星海",
       "updateStatus" : 1,
-      "distance" : 9363,
-      "memberId" : 2755
+      "distance" : 6415,
+      "memberId" : 4761,
+      "bothType" : false
     }, {
-      "id" : 2295,
-      "name" : "未来帝国之战国春秋",
+      "id" : 2401,
+      "name" : "拾爱：蚀骨之恋",
       "updateStatus" : 1,
-      "distance" : 8200,
-      "memberId" : 1802
+      "distance" : 7380,
+      "memberId" : 1190,
+      "bothType" : false
     }, {
-      "id" : 3729,
-      "name" : "琉璃色.彼岸花",
+      "id" : 3148,
+      "name" : "听说你也爱我",
       "updateStatus" : 1,
-      "distance" : 9143,
-      "memberId" : 1866
+      "distance" : 3592,
+      "memberId" : 5088,
+      "bothType" : true
     }, {
-      "id" : 2934,
-      "name" : "怀海漫成",
+      "id" : 2449,
+      "name" : "青春的坟墓",
       "updateStatus" : 1,
-      "distance" : 3250,
-      "memberId" : 7518
+      "distance" : 7879,
+      "memberId" : 8656,
+      "bothType" : false
     }, {
-      "id" : 2237,
-      "name" : "桃花嫁",
-      "updateStatus" : 2,
-      "distance" : 2341,
-      "memberId" : 2047
-    }, {
-      "id" : 2185,
-      "name" : "丧尸之末日惊魂",
+      "id" : 3408,
+      "name" : "综恐一梦一回",
       "updateStatus" : 1,
-      "distance" : 3217,
-      "memberId" : 2062
+      "distance" : 7828,
+      "memberId" : 7638,
+      "bothType" : false
     }, {
-      "id" : 2347,
-      "name" : "绝配主仆",
+      "id" : 2408,
+      "name" : "皮卡光的求婚大作战",
       "updateStatus" : 1,
-      "distance" : 6606,
-      "memberId" : 8437
+      "distance" : 8494,
+      "memberId" : 7186,
+      "bothType" : false
     }, {
-      "id" : 3496,
-      "name" : "一纸荒年",
+      "id" : 3247,
+      "name" : "清帏花色浓",
       "updateStatus" : 1,
-      "distance" : 8120,
-      "memberId" : 4956
+      "distance" : 6929,
+      "memberId" : 2337,
+      "bothType" : false
     }, {
-      "id" : 2805,
-      "name" : "记得爱过",
+      "id" : 2153,
+      "name" : "醉清风：师父你别跑",
       "updateStatus" : 1,
-      "distance" : 9330,
-      "memberId" : 6503
+      "distance" : 7223,
+      "memberId" : 8987,
+      "bothType" : false
     }, {
-      "id" : 2043,
-      "name" : "彼岸繁花落",
+      "id" : 2678,
+      "name" : "柠檬微酸",
       "updateStatus" : 1,
-      "distance" : 3113,
-      "memberId" : 2289
+      "distance" : 7247,
+      "memberId" : 5997,
+      "bothType" : true
     }, {
-      "id" : 3079,
-      "name" : "唯我独尊：遇上你可能是最好的",
+      "id" : 3569,
+      "name" : "奇山鬼谭",
       "updateStatus" : 1,
-      "distance" : 3886,
-      "memberId" : 5172
+      "distance" : 2982,
+      "memberId" : 7697,
+      "bothType" : true
     }, {
-      "id" : 2982,
-      "name" : "逃之妖妖",
+      "id" : 3262,
+      "name" : "爱，在遥远的彼方",
       "updateStatus" : 1,
-      "distance" : 1899,
-      "memberId" : 4551
+      "distance" : 3541,
+      "memberId" : 7227,
+      "bothType" : false
     }, {
-      "id" : 3086,
-      "name" : "重生艳妖之九尾狐说",
+      "id" : 3726,
+      "name" : "君倾如月",
       "updateStatus" : 1,
-      "distance" : 3668,
-      "memberId" : 2527
+      "distance" : 1858,
+      "memberId" : 4693,
+      "bothType" : false
     }, {
-      "id" : 3161,
-      "name" : "狐如不爱",
+      "id" : 3332,
+      "name" : "不会失忆的爱",
       "updateStatus" : 1,
-      "distance" : 8886,
-      "memberId" : 8237
+      "distance" : 1094,
+      "memberId" : 1030,
+      "bothType" : false
+    }, {
+      "id" : 2741,
+      "name" : "三生回眸间，一念成魔时",
+      "updateStatus" : 1,
+      "distance" : 3147,
+      "memberId" : 8698,
+      "bothType" : false
     } ]
   }
 }

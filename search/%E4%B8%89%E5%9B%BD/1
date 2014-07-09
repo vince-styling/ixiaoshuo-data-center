@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 5696768,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2082,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 8497555,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2267,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 8650974,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3040,
@@ -40,6 +43,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 9853604,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3684,
@@ -49,6 +53,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 136899,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2251,
@@ -58,6 +63,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 1408804,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 3244,
@@ -67,6 +73,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 878061,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

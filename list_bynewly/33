@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47031.jpg",
       "updateStatus" : 1,
       "capacity" : 43317,
-      "lastUpdateTime" : "2013-12-14 01:47:54"
+      "lastUpdateTime" : "2013-12-14 01:47:54",
+      "bothType" : false
     }, {
       "id" : 3678,
       "name" : "青春很有邪",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44378.jpg",
       "updateStatus" : 1,
       "capacity" : 228820,
-      "lastUpdateTime" : "2013-12-14 01:29:52"
+      "lastUpdateTime" : "2013-12-14 01:29:52",
+      "bothType" : false
     }, {
       "id" : 2168,
       "name" : "天神之使命",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_12963.jpg",
       "updateStatus" : 1,
       "capacity" : 3892255,
-      "lastUpdateTime" : "2013-12-14 00:52:20"
+      "lastUpdateTime" : "2013-12-14 00:52:20",
+      "bothType" : false
     }, {
       "id" : 2237,
       "name" : "桃花嫁",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14200.jpg",
       "updateStatus" : 2,
       "capacity" : 5253537,
-      "lastUpdateTime" : "2013-12-14 00:45:44"
+      "lastUpdateTime" : "2013-12-14 00:45:44",
+      "bothType" : false
     }, {
       "id" : 3023,
       "name" : "大没殇",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44893.jpg",
       "updateStatus" : 1,
       "capacity" : 9773785,
-      "lastUpdateTime" : "2013-12-13 22:25:50"
+      "lastUpdateTime" : "2013-12-13 22:25:50",
+      "bothType" : false
     }, {
       "id" : 2808,
       "name" : "女王重生：欺上恶魔总裁",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47165.jpg",
       "updateStatus" : 1,
       "capacity" : 3089270,
-      "lastUpdateTime" : "2013-12-13 21:42:24"
+      "lastUpdateTime" : "2013-12-13 21:42:24",
+      "bothType" : false
     }, {
       "id" : 3615,
       "name" : "耀星",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21670.jpg",
       "updateStatus" : 1,
       "capacity" : 208803,
-      "lastUpdateTime" : "2013-12-13 21:26:26"
+      "lastUpdateTime" : "2013-12-13 21:26:26",
+      "bothType" : false
     }, {
       "id" : 3580,
       "name" : "槐花吟",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44325.jpg",
       "updateStatus" : 1,
       "capacity" : 25784,
-      "lastUpdateTime" : "2013-12-13 20:32:31"
+      "lastUpdateTime" : "2013-12-13 20:32:31",
+      "bothType" : false
     }, {
       "id" : 3077,
       "name" : "青春盛宴之青春貌似童话",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46522.jpg",
       "updateStatus" : 1,
       "capacity" : 377521,
-      "lastUpdateTime" : "2013-12-13 19:49:58"
+      "lastUpdateTime" : "2013-12-13 19:49:58",
+      "bothType" : false
     }, {
       "id" : 3249,
       "name" : "恋上花样天才美男",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17625.jpg",
       "updateStatus" : 1,
       "capacity" : 45959,
-      "lastUpdateTime" : "2013-12-13 19:08:35"
+      "lastUpdateTime" : "2013-12-13 19:08:35",
+      "bothType" : true
     }, {
       "id" : 3653,
       "name" : "倾城王爷杀手妃",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47369.jpg",
       "updateStatus" : 1,
       "capacity" : 34075,
-      "lastUpdateTime" : "2013-12-13 18:53:38"
+      "lastUpdateTime" : "2013-12-13 18:53:38",
+      "bothType" : false
     }, {
       "id" : 2580,
       "name" : "琉璃碎",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46245.jpg",
       "updateStatus" : 1,
       "capacity" : 2677967,
-      "lastUpdateTime" : "2013-12-13 18:19:55"
+      "lastUpdateTime" : "2013-12-13 18:19:55",
+      "bothType" : false
     }, {
       "id" : 3400,
       "name" : "天使的诠释：幸福就是遇见你",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46667.jpg",
       "updateStatus" : 1,
       "capacity" : 149264,
-      "lastUpdateTime" : "2013-12-13 18:19:53"
+      "lastUpdateTime" : "2013-12-13 18:19:53",
+      "bothType" : false
     }, {
       "id" : 2434,
       "name" : "邪逆乾坤",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21088.jpg",
       "updateStatus" : 1,
       "capacity" : 1594408,
-      "lastUpdateTime" : "2013-12-13 17:58:08"
+      "lastUpdateTime" : "2013-12-13 17:58:08",
+      "bothType" : false
     }, {
       "id" : 3143,
       "name" : "去日留痕",
@@ -124,7 +138,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 56130,
-      "lastUpdateTime" : "2013-12-13 17:49:32"
+      "lastUpdateTime" : "2013-12-13 17:49:32",
+      "bothType" : true
     }, {
       "id" : 2664,
       "name" : "缘来是如此",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18299.jpg",
       "updateStatus" : 1,
       "capacity" : 2568200,
-      "lastUpdateTime" : "2013-12-13 17:20:48"
+      "lastUpdateTime" : "2013-12-13 17:20:48",
+      "bothType" : false
     }, {
       "id" : 3468,
       "name" : "轮回•不语",
@@ -140,7 +156,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 48068,
-      "lastUpdateTime" : "2013-12-13 16:22:03"
+      "lastUpdateTime" : "2013-12-13 16:22:03",
+      "bothType" : false
     }, {
       "id" : 2517,
       "name" : "家教之七色光芒",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44222.jpg",
       "updateStatus" : 1,
       "capacity" : 6082533,
-      "lastUpdateTime" : "2013-12-13 15:43:43"
+      "lastUpdateTime" : "2013-12-13 15:43:43",
+      "bothType" : true
     }, {
       "id" : 3608,
       "name" : "小子，别跑",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45678.jpg",
       "updateStatus" : 1,
       "capacity" : 891536,
-      "lastUpdateTime" : "2013-12-13 09:24:07"
+      "lastUpdateTime" : "2013-12-13 09:24:07",
+      "bothType" : true
     }, {
       "id" : 2916,
       "name" : "龙凤斗：皇后在上朕在下",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21787.jpg",
       "updateStatus" : 1,
       "capacity" : 8878650,
-      "lastUpdateTime" : "2013-12-13 09:18:32"
+      "lastUpdateTime" : "2013-12-13 09:18:32",
+      "bothType" : false
     } ]
   }
 }

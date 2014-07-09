@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47405.jpg",
       "updateStatus" : 1,
       "capacity" : 206473,
-      "lastUpdateTime" : "2013-11-25 22:27:22"
+      "lastUpdateTime" : "2013-11-25 22:27:22",
+      "bothType" : false
     }, {
       "id" : 2917,
       "name" : "碧海蓝天最倾城",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45520.jpg",
       "updateStatus" : 1,
       "capacity" : 9123694,
-      "lastUpdateTime" : "2013-11-25 20:52:48"
+      "lastUpdateTime" : "2013-11-25 20:52:48",
+      "bothType" : true
     }, {
       "id" : 2276,
       "name" : "皇上坏坏：爱妃该睡觉了",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14900.jpg",
       "updateStatus" : 1,
       "capacity" : 2992733,
-      "lastUpdateTime" : "2013-11-25 20:30:32"
+      "lastUpdateTime" : "2013-11-25 20:30:32",
+      "bothType" : false
     }, {
       "id" : 2087,
       "name" : "婳诡录",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19012.jpg",
       "updateStatus" : 1,
       "capacity" : 8826618,
-      "lastUpdateTime" : "2013-11-25 20:25:01"
+      "lastUpdateTime" : "2013-11-25 20:25:01",
+      "bothType" : false
     }, {
       "id" : 3642,
       "name" : "椒房月夜泪未央",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44898.jpg",
       "updateStatus" : 1,
       "capacity" : 246152,
-      "lastUpdateTime" : "2013-11-25 20:00:31"
+      "lastUpdateTime" : "2013-11-25 20:00:31",
+      "bothType" : false
     }, {
       "id" : 2596,
       "name" : "白狐报恩之遇上风流王爷",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45521.jpg",
       "updateStatus" : 1,
       "capacity" : 3293713,
-      "lastUpdateTime" : "2013-11-25 19:08:21"
+      "lastUpdateTime" : "2013-11-25 19:08:21",
+      "bothType" : false
     }, {
       "id" : 3176,
       "name" : "留明待玥复",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43558.jpg",
       "updateStatus" : 1,
       "capacity" : 776507,
-      "lastUpdateTime" : "2013-11-25 19:07:11"
+      "lastUpdateTime" : "2013-11-25 19:07:11",
+      "bothType" : false
     }, {
       "id" : 2240,
       "name" : "一亿一剑一情绝",
@@ -68,7 +75,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 3246227,
-      "lastUpdateTime" : "2013-11-25 18:46:03"
+      "lastUpdateTime" : "2013-11-25 18:46:03",
+      "bothType" : false
     }, {
       "id" : 2367,
       "name" : "爱的嘉年华",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20431.jpg",
       "updateStatus" : 2,
       "capacity" : 9064000,
-      "lastUpdateTime" : "2013-11-25 18:20:45"
+      "lastUpdateTime" : "2013-11-25 18:20:45",
+      "bothType" : false
     }, {
       "id" : 2464,
       "name" : "微光角落",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46342.jpg",
       "updateStatus" : 1,
       "capacity" : 1279013,
-      "lastUpdateTime" : "2013-11-25 17:39:26"
+      "lastUpdateTime" : "2013-11-25 17:39:26",
+      "bothType" : true
     }, {
       "id" : 2053,
       "name" : "古堡游戏：吸血恶魔别过来",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16459.jpg",
       "updateStatus" : 1,
       "capacity" : 3154949,
-      "lastUpdateTime" : "2013-11-25 16:31:13"
+      "lastUpdateTime" : "2013-11-25 16:31:13",
+      "bothType" : false
     }, {
       "id" : 3395,
       "name" : "如果不曾知道",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_8155.jpg",
       "updateStatus" : 1,
       "capacity" : 932787,
-      "lastUpdateTime" : "2013-11-25 15:25:39"
+      "lastUpdateTime" : "2013-11-25 15:25:39",
+      "bothType" : true
     }, {
       "id" : 2820,
       "name" : "凤翔九天",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43400.jpg",
       "updateStatus" : 1,
       "capacity" : 9085053,
-      "lastUpdateTime" : "2013-11-25 09:36:06"
+      "lastUpdateTime" : "2013-11-25 09:36:06",
+      "bothType" : false
     }, {
       "id" : 2399,
       "name" : "韶华逢少年",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46138.jpg",
       "updateStatus" : 1,
       "capacity" : 4505979,
-      "lastUpdateTime" : "2013-11-25 08:40:22"
+      "lastUpdateTime" : "2013-11-25 08:40:22",
+      "bothType" : true
     }, {
       "id" : 3156,
       "name" : "如果爱情是一首歌",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43691.jpg",
       "updateStatus" : 1,
       "capacity" : 777844,
-      "lastUpdateTime" : "2013-11-25 08:35:34"
+      "lastUpdateTime" : "2013-11-25 08:35:34",
+      "bothType" : false
     }, {
       "id" : 2362,
       "name" : "青春小夜曲",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17091.jpg",
       "updateStatus" : 2,
       "capacity" : 3275596,
-      "lastUpdateTime" : "2013-11-25 07:37:06"
+      "lastUpdateTime" : "2013-11-25 07:37:06",
+      "bothType" : true
     }, {
       "id" : 3413,
       "name" : "秦影宫箫夜",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42799.jpg",
       "updateStatus" : 1,
       "capacity" : 607149,
-      "lastUpdateTime" : "2013-11-25 07:28:27"
+      "lastUpdateTime" : "2013-11-25 07:28:27",
+      "bothType" : true
     }, {
       "id" : 2718,
       "name" : "卿云意",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46971.jpg",
       "updateStatus" : 1,
       "capacity" : 8236255,
-      "lastUpdateTime" : "2013-11-25 07:26:49"
+      "lastUpdateTime" : "2013-11-25 07:26:49",
+      "bothType" : false
     }, {
       "id" : 2330,
       "name" : "风雪情殇",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45155.jpg",
       "updateStatus" : 1,
       "capacity" : 5696768,
-      "lastUpdateTime" : "2013-11-25 07:19:13"
+      "lastUpdateTime" : "2013-11-25 07:19:13",
+      "bothType" : false
     }, {
       "id" : 3599,
       "name" : "无声梦流水",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47446.jpg",
       "updateStatus" : 1,
       "capacity" : 12877,
-      "lastUpdateTime" : "2013-11-25 06:49:24"
+      "lastUpdateTime" : "2013-11-25 06:49:24",
+      "bothType" : false
     } ]
   }
 }

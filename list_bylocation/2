@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2064,
-      "name" : "百变夫君猎顽妻",
+      "id" : 3592,
+      "name" : "单纯逐笑开",
+      "updateStatus" : 1,
+      "distance" : 4365,
+      "memberId" : 5622,
+      "bothType" : false
+    }, {
+      "id" : 3253,
+      "name" : "替身之后",
+      "updateStatus" : 1,
+      "distance" : 4543,
+      "memberId" : 7544,
+      "bothType" : true
+    }, {
+      "id" : 3361,
+      "name" : "逍遥人生：痞子王爷很妖娆",
+      "updateStatus" : 1,
+      "distance" : 4629,
+      "memberId" : 3007,
+      "bothType" : false
+    }, {
+      "id" : 3277,
+      "name" : "七生七世之情坠轩辕",
+      "updateStatus" : 1,
+      "distance" : 1184,
+      "memberId" : 7741,
+      "bothType" : true
+    }, {
+      "id" : 2428,
+      "name" : "包办婚嫁",
+      "updateStatus" : 1,
+      "distance" : 9204,
+      "memberId" : 5049,
+      "bothType" : false
+    }, {
+      "id" : 2933,
+      "name" : "古尸奇缘",
+      "updateStatus" : 1,
+      "distance" : 4580,
+      "memberId" : 8465,
+      "bothType" : false
+    }, {
+      "id" : 2320,
+      "name" : "夏醉浅梦",
+      "updateStatus" : 1,
+      "distance" : 1818,
+      "memberId" : 1021,
+      "bothType" : false
+    }, {
+      "id" : 2280,
+      "name" : "金玉奇缘：暴戾王爷的冷情妃",
+      "updateStatus" : 1,
+      "distance" : 4915,
+      "memberId" : 1293,
+      "bothType" : true
+    }, {
+      "id" : 3127,
+      "name" : "重生之轻月浮华",
       "updateStatus" : 2,
-      "distance" : 7467,
-      "memberId" : 6252
+      "distance" : 2767,
+      "memberId" : 1189,
+      "bothType" : false
     }, {
-      "id" : 3609,
-      "name" : "等你爱我",
+      "id" : 2182,
+      "name" : "妖纵异世：逆天血煞女",
       "updateStatus" : 1,
-      "distance" : 1442,
-      "memberId" : 7142
+      "distance" : 3549,
+      "memberId" : 1776,
+      "bothType" : false
     }, {
-      "id" : 2377,
-      "name" : "猜火车",
+      "id" : 3724,
+      "name" : "白泽之神",
       "updateStatus" : 1,
-      "distance" : 5577,
-      "memberId" : 7694
+      "distance" : 4482,
+      "memberId" : 1574,
+      "bothType" : false
     }, {
-      "id" : 3597,
-      "name" : "女王，桃花满天下",
+      "id" : 3528,
+      "name" : "丑女倾城：待我长发及腰",
       "updateStatus" : 1,
-      "distance" : 6527,
-      "memberId" : 6364
+      "distance" : 2816,
+      "memberId" : 7975,
+      "bothType" : false
     }, {
-      "id" : 3061,
-      "name" : "久违的初吻",
-      "updateStatus" : 1,
-      "distance" : 1996,
-      "memberId" : 3023
-    }, {
-      "id" : 3397,
-      "name" : "红颜祸水：皇后潜潜水",
-      "updateStatus" : 1,
-      "distance" : 8632,
-      "memberId" : 3692
-    }, {
-      "id" : 3489,
-      "name" : "夜色如昨",
-      "updateStatus" : 1,
-      "distance" : 5323,
-      "memberId" : 3883
-    }, {
-      "id" : 2244,
-      "name" : "揽君心：宠姬有阴谋",
-      "updateStatus" : 1,
-      "distance" : 8590,
-      "memberId" : 7605
-    }, {
-      "id" : 2069,
-      "name" : "庶女二嫁：暴君，来暖床",
+      "id" : 2147,
+      "name" : "不当神仙也爱你",
       "updateStatus" : 2,
-      "distance" : 1632,
-      "memberId" : 6580
+      "distance" : 4170,
+      "memberId" : 7208,
+      "bothType" : false
     }, {
-      "id" : 3070,
-      "name" : "双面娇娃：爱在罂粟烂漫时",
+      "id" : 2704,
+      "name" : "幻世至秘",
       "updateStatus" : 1,
-      "distance" : 4854,
-      "memberId" : 2002
+      "distance" : 5979,
+      "memberId" : 7161,
+      "bothType" : false
     }, {
-      "id" : 3413,
-      "name" : "秦影宫箫夜",
+      "id" : 3220,
+      "name" : "噬心扇",
       "updateStatus" : 1,
-      "distance" : 7019,
-      "memberId" : 6862
+      "distance" : 4397,
+      "memberId" : 1048,
+      "bothType" : true
     }, {
-      "id" : 2820,
-      "name" : "凤翔九天",
+      "id" : 3408,
+      "name" : "综恐一梦一回",
       "updateStatus" : 1,
-      "distance" : 5331,
-      "memberId" : 6016
+      "distance" : 8431,
+      "memberId" : 6264,
+      "bothType" : true
     }, {
-      "id" : 3288,
-      "name" : "契约情人之滚下我的床",
+      "id" : 2780,
+      "name" : "人生的旅途",
       "updateStatus" : 1,
-      "distance" : 945,
-      "memberId" : 7596
+      "distance" : 1106,
+      "memberId" : 8623,
+      "bothType" : false
     }, {
-      "id" : 2983,
-      "name" : "白衣赋之殇灵卷",
+      "id" : 3271,
+      "name" : "折景年",
       "updateStatus" : 1,
-      "distance" : 3174,
-      "memberId" : 8902
+      "distance" : 5435,
+      "memberId" : 1746,
+      "bothType" : false
     }, {
-      "id" : 3087,
-      "name" : "友情遇到爱情",
+      "id" : 2110,
+      "name" : "江门夜话",
       "updateStatus" : 1,
-      "distance" : 8318,
-      "memberId" : 6621
+      "distance" : 6311,
+      "memberId" : 3745,
+      "bothType" : false
     }, {
-      "id" : 3325,
-      "name" : "司宠",
+      "id" : 2439,
+      "name" : "付卿吾韶华",
       "updateStatus" : 1,
-      "distance" : 3884,
-      "memberId" : 3147
-    }, {
-      "id" : 3283,
-      "name" : "掠心总裁：爹地，你弱爆了！",
-      "updateStatus" : 1,
-      "distance" : 6792,
-      "memberId" : 4326
-    }, {
-      "id" : 2214,
-      "name" : "冥王老大：鬼眼小娇妻",
-      "updateStatus" : 2,
-      "distance" : 4743,
-      "memberId" : 1293
-    }, {
-      "id" : 3681,
-      "name" : "泡沫初夏",
-      "updateStatus" : 2,
-      "distance" : 3390,
-      "memberId" : 8971
-    }, {
-      "id" : 2815,
-      "name" : "总裁挽爱：老婆，等你来罚",
-      "updateStatus" : 1,
-      "distance" : 2511,
-      "memberId" : 2618
+      "distance" : 7883,
+      "memberId" : 8877,
+      "bothType" : true
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15480.jpg",
       "updateStatus" : 1,
       "capacity" : 4964945,
-      "lastUpdateTime" : "2013-12-09 13:21:16"
+      "lastUpdateTime" : "2013-12-09 13:21:16",
+      "bothType" : false
     }, {
       "id" : 3425,
       "name" : "网王之温柔缱绻的岁月",
@@ -20,7 +21,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 772554,
-      "lastUpdateTime" : "2013-12-09 09:56:08"
+      "lastUpdateTime" : "2013-12-09 09:56:08",
+      "bothType" : true
     }, {
       "id" : 2641,
       "name" : "倾城归来",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47430.jpg",
       "updateStatus" : 1,
       "capacity" : 6820119,
-      "lastUpdateTime" : "2013-12-09 09:08:56"
+      "lastUpdateTime" : "2013-12-09 09:08:56",
+      "bothType" : true
     }, {
       "id" : 3270,
       "name" : "媚颜笑",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41730.jpg",
       "updateStatus" : 1,
       "capacity" : 452469,
-      "lastUpdateTime" : "2013-12-09 08:37:02"
+      "lastUpdateTime" : "2013-12-09 08:37:02",
+      "bothType" : false
     }, {
       "id" : 3285,
       "name" : "沉星坠夜",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43842.jpg",
       "updateStatus" : 1,
       "capacity" : 253050,
-      "lastUpdateTime" : "2013-12-09 08:20:50"
+      "lastUpdateTime" : "2013-12-09 08:20:50",
+      "bothType" : false
     }, {
       "id" : 3241,
       "name" : "王妃不优雅：玉面王爷掉线妃",
@@ -52,7 +57,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 104266,
-      "lastUpdateTime" : "2013-12-09 06:05:48"
+      "lastUpdateTime" : "2013-12-09 06:05:48",
+      "bothType" : false
     }, {
       "id" : 3059,
       "name" : "倾世鬼王",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47935.jpg",
       "updateStatus" : 1,
       "capacity" : 228916,
-      "lastUpdateTime" : "2013-12-09 05:59:12"
+      "lastUpdateTime" : "2013-12-09 05:59:12",
+      "bothType" : true
     }, {
       "id" : 2120,
       "name" : "伤情路漫漫",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22538.jpg",
       "updateStatus" : 1,
       "capacity" : 6425111,
-      "lastUpdateTime" : "2013-12-09 05:49:07"
+      "lastUpdateTime" : "2013-12-09 05:49:07",
+      "bothType" : true
     }, {
       "id" : 2622,
       "name" : "恋上拽宫主",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21129.jpg",
       "updateStatus" : 1,
       "capacity" : 7950812,
-      "lastUpdateTime" : "2013-12-09 05:34:07"
+      "lastUpdateTime" : "2013-12-09 05:34:07",
+      "bothType" : false
     }, {
       "id" : 2542,
       "name" : "陌上桑之初心",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45674.jpg",
       "updateStatus" : 1,
       "capacity" : 3360894,
-      "lastUpdateTime" : "2013-12-09 05:05:04"
+      "lastUpdateTime" : "2013-12-09 05:05:04",
+      "bothType" : false
     }, {
       "id" : 2092,
       "name" : "迟妆懒起",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47097.jpg",
       "updateStatus" : 1,
       "capacity" : 9424336,
-      "lastUpdateTime" : "2013-12-09 04:56:56"
+      "lastUpdateTime" : "2013-12-09 04:56:56",
+      "bothType" : false
     }, {
       "id" : 3353,
       "name" : "不覆当年",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43522.jpg",
       "updateStatus" : 1,
       "capacity" : 589882,
-      "lastUpdateTime" : "2013-12-09 04:19:00"
+      "lastUpdateTime" : "2013-12-09 04:19:00",
+      "bothType" : true
     }, {
       "id" : 2341,
       "name" : "系统之我的真命天子",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44693.jpg",
       "updateStatus" : 1,
       "capacity" : 2381237,
-      "lastUpdateTime" : "2013-12-09 04:06:45"
+      "lastUpdateTime" : "2013-12-09 04:06:45",
+      "bothType" : false
     }, {
       "id" : 2129,
       "name" : "美人出逃：别惹弃妃",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_9302.jpg",
       "updateStatus" : 1,
       "capacity" : 7152956,
-      "lastUpdateTime" : "2013-12-09 03:57:25"
+      "lastUpdateTime" : "2013-12-09 03:57:25",
+      "bothType" : false
     }, {
       "id" : 2183,
       "name" : "红颜泪：风卷残荷",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45564.jpg",
       "updateStatus" : 1,
       "capacity" : 1777630,
-      "lastUpdateTime" : "2013-12-09 03:47:32"
+      "lastUpdateTime" : "2013-12-09 03:47:32",
+      "bothType" : true
     }, {
       "id" : 2719,
       "name" : "靛·自掘坟墓",
@@ -132,7 +147,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 5137209,
-      "lastUpdateTime" : "2013-12-09 03:00:31"
+      "lastUpdateTime" : "2013-12-09 03:00:31",
+      "bothType" : false
     }, {
       "id" : 2038,
       "name" : "凤狂天下：本宫来自特工处",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16629.jpg",
       "updateStatus" : 1,
       "capacity" : 9643586,
-      "lastUpdateTime" : "2013-12-09 02:59:31"
+      "lastUpdateTime" : "2013-12-09 02:59:31",
+      "bothType" : false
     }, {
       "id" : 3190,
       "name" : "仙侠之倾世绝恋",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22061.jpg",
       "updateStatus" : 1,
       "capacity" : 597588,
-      "lastUpdateTime" : "2013-12-09 02:16:21"
+      "lastUpdateTime" : "2013-12-09 02:16:21",
+      "bothType" : true
     }, {
       "id" : 3387,
       "name" : "帐中歌，离恨天",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44484.jpg",
       "updateStatus" : 1,
       "capacity" : 28927,
-      "lastUpdateTime" : "2013-12-09 02:16:19"
+      "lastUpdateTime" : "2013-12-09 02:16:19",
+      "bothType" : true
     }, {
       "id" : 2478,
       "name" : "命运修补",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45727.jpg",
       "updateStatus" : 2,
       "capacity" : 9270936,
-      "lastUpdateTime" : "2013-12-09 01:37:50"
+      "lastUpdateTime" : "2013-12-09 01:37:50",
+      "bothType" : false
     } ]
   }
 }

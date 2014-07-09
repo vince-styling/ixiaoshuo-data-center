@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16544.jpg",
       "updateStatus" : 1,
       "capacity" : 3888118,
-      "lastUpdateTime" : "2013-12-25 16:58:01"
+      "lastUpdateTime" : "2013-12-25 16:58:01",
+      "bothType" : true
     }, {
       "id" : 2736,
       "name" : "我是石观音",
@@ -20,7 +21,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 8799896,
-      "lastUpdateTime" : "2013-12-25 16:46:45"
+      "lastUpdateTime" : "2013-12-25 16:46:45",
+      "bothType" : false
     }, {
       "id" : 3644,
       "name" : "小姐也粗鲁",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43055.jpg",
       "updateStatus" : 1,
       "capacity" : 383677,
-      "lastUpdateTime" : "2013-12-25 16:30:07"
+      "lastUpdateTime" : "2013-12-25 16:30:07",
+      "bothType" : false
     }, {
       "id" : 3053,
       "name" : "俏皮男女世外生活记",
@@ -36,7 +39,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 52593,
-      "lastUpdateTime" : "2013-12-25 16:14:30"
+      "lastUpdateTime" : "2013-12-25 16:14:30",
+      "bothType" : false
     }, {
       "id" : 2414,
       "name" : "寻爱之旅",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_9905.jpg",
       "updateStatus" : 2,
       "capacity" : 7431486,
-      "lastUpdateTime" : "2013-12-25 16:10:44"
+      "lastUpdateTime" : "2013-12-25 16:10:44",
+      "bothType" : false
     }, {
       "id" : 3565,
       "name" : "缘定三生",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19228.jpg",
       "updateStatus" : 1,
       "capacity" : 676306,
-      "lastUpdateTime" : "2013-12-25 15:50:46"
+      "lastUpdateTime" : "2013-12-25 15:50:46",
+      "bothType" : false
     }, {
       "id" : 2139,
       "name" : "天地无门",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17058.jpg",
       "updateStatus" : 1,
       "capacity" : 8759197,
-      "lastUpdateTime" : "2013-12-25 15:39:25"
+      "lastUpdateTime" : "2013-12-25 15:39:25",
+      "bothType" : true
     }, {
       "id" : 2540,
       "name" : "天降魔法师",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46185.jpg",
       "updateStatus" : 1,
       "capacity" : 8270465,
-      "lastUpdateTime" : "2013-12-25 14:55:59"
+      "lastUpdateTime" : "2013-12-25 14:55:59",
+      "bothType" : true
     }, {
       "id" : 2060,
       "name" : "和亲九公主：霸爱拽夫君",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16215.jpg",
       "updateStatus" : 2,
       "capacity" : 6429154,
-      "lastUpdateTime" : "2013-12-25 14:42:00"
+      "lastUpdateTime" : "2013-12-25 14:42:00",
+      "bothType" : false
     }, {
       "id" : 2296,
       "name" : "梦穿康熙换乾坤",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44362.jpg",
       "updateStatus" : 1,
       "capacity" : 4303360,
-      "lastUpdateTime" : "2013-12-25 13:57:13"
+      "lastUpdateTime" : "2013-12-25 13:57:13",
+      "bothType" : false
     }, {
       "id" : 3362,
       "name" : "异界之重生随心乱",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45877.jpg",
       "updateStatus" : 1,
       "capacity" : 94803,
-      "lastUpdateTime" : "2013-12-25 13:43:55"
+      "lastUpdateTime" : "2013-12-25 13:43:55",
+      "bothType" : false
     }, {
       "id" : 2689,
       "name" : "穿越之歌月徘徊",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47479.jpg",
       "updateStatus" : 1,
       "capacity" : 2681793,
-      "lastUpdateTime" : "2013-12-25 09:31:02"
+      "lastUpdateTime" : "2013-12-25 09:31:02",
+      "bothType" : false
     }, {
       "id" : 2961,
       "name" : "喜荣华正好",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44784.jpg",
       "updateStatus" : 1,
       "capacity" : 9728310,
-      "lastUpdateTime" : "2013-12-25 09:12:24"
+      "lastUpdateTime" : "2013-12-25 09:12:24",
+      "bothType" : true
     }, {
       "id" : 2740,
       "name" : "熟女的清穿经历",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46567.jpg",
       "updateStatus" : 1,
       "capacity" : 9041512,
-      "lastUpdateTime" : "2013-12-25 08:57:11"
+      "lastUpdateTime" : "2013-12-25 08:57:11",
+      "bothType" : false
     }, {
       "id" : 3593,
       "name" : "锦春",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45558.jpg",
       "updateStatus" : 1,
       "capacity" : 857362,
-      "lastUpdateTime" : "2013-12-25 08:44:37"
+      "lastUpdateTime" : "2013-12-25 08:44:37",
+      "bothType" : false
     }, {
       "id" : 3121,
       "name" : "云从山庄",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22509.jpg",
       "updateStatus" : 1,
       "capacity" : 333262,
-      "lastUpdateTime" : "2013-12-25 07:56:27"
+      "lastUpdateTime" : "2013-12-25 07:56:27",
+      "bothType" : false
     }, {
       "id" : 3333,
       "name" : "清梦未央",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47804.jpg",
       "updateStatus" : 1,
       "capacity" : 34381,
-      "lastUpdateTime" : "2013-12-25 06:22:02"
+      "lastUpdateTime" : "2013-12-25 06:22:02",
+      "bothType" : false
     }, {
       "id" : 3388,
       "name" : "栩你一世言如歌",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45048.jpg",
       "updateStatus" : 1,
       "capacity" : 157783,
-      "lastUpdateTime" : "2013-12-25 05:47:08"
+      "lastUpdateTime" : "2013-12-25 05:47:08",
+      "bothType" : true
     }, {
       "id" : 3342,
       "name" : "我视你如毛线",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47754.jpg",
       "updateStatus" : 1,
       "capacity" : 223328,
-      "lastUpdateTime" : "2013-12-25 05:45:55"
+      "lastUpdateTime" : "2013-12-25 05:45:55",
+      "bothType" : false
     }, {
       "id" : 2832,
       "name" : "腹黑总裁：变身擒爱萌宠召唤师",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45470.jpg",
       "updateStatus" : 1,
       "capacity" : 5200007,
-      "lastUpdateTime" : "2013-12-25 05:36:31"
+      "lastUpdateTime" : "2013-12-25 05:36:31",
+      "bothType" : true
     } ]
   }
 }

@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2312,
-      "name" : "栀子梦",
+      "id" : 3337,
+      "name" : "旋转的漩涡",
       "updateStatus" : 1,
-      "distance" : 3891,
-      "memberId" : 5935
+      "distance" : 8592,
+      "memberId" : 7806,
+      "bothType" : true
     }, {
-      "id" : 2538,
-      "name" : "幸福百里",
+      "id" : 3625,
+      "name" : "另类契约：爱上你，我的星座王子！",
       "updateStatus" : 1,
-      "distance" : 5415,
-      "memberId" : 6158
+      "distance" : 7742,
+      "memberId" : 1163,
+      "bothType" : false
     }, {
-      "id" : 3080,
-      "name" : "死生契阔：墨遇小小",
+      "id" : 2403,
+      "name" : "愤怒的萤火虫",
       "updateStatus" : 1,
-      "distance" : 1707,
-      "memberId" : 3926
+      "distance" : 1469,
+      "memberId" : 3349,
+      "bothType" : true
     }, {
-      "id" : 2498,
-      "name" : "飘落的信笺",
+      "id" : 3305,
+      "name" : "混世钉子",
       "updateStatus" : 1,
-      "distance" : 8686,
-      "memberId" : 5386
+      "distance" : 9727,
+      "memberId" : 4412,
+      "bothType" : false
     }, {
-      "id" : 3234,
-      "name" : "死神通法三部曲",
+      "id" : 2423,
+      "name" : "天价前妻：绝情总裁的契约情人",
       "updateStatus" : 1,
-      "distance" : 7386,
-      "memberId" : 6117
+      "distance" : 9937,
+      "memberId" : 5183,
+      "bothType" : false
     }, {
-      "id" : 2155,
-      "name" : "古剑情韵之花神泪",
+      "id" : 3742,
+      "name" : "汝心计",
       "updateStatus" : 1,
-      "distance" : 2645,
-      "memberId" : 7430
+      "distance" : 7808,
+      "memberId" : 7236,
+      "bothType" : false
     }, {
-      "id" : 3354,
-      "name" : "复仇公主恋爱记",
+      "id" : 3444,
+      "name" : "童星穿越记",
       "updateStatus" : 1,
-      "distance" : 6249,
-      "memberId" : 8104
+      "distance" : 9230,
+      "memberId" : 4740,
+      "bothType" : false
     }, {
-      "id" : 2393,
-      "name" : "剩女重生女警花：缉拿花花大少",
+      "id" : 3452,
+      "name" : "屌丝掌门",
       "updateStatus" : 1,
-      "distance" : 945,
-      "memberId" : 1091
+      "distance" : 4248,
+      "memberId" : 2518,
+      "bothType" : false
     }, {
-      "id" : 2116,
-      "name" : "妖孽皇太子：独宠下堂妃",
+      "id" : 3277,
+      "name" : "七生七世之情坠轩辕",
+      "updateStatus" : 1,
+      "distance" : 5301,
+      "memberId" : 3008,
+      "bothType" : false
+    }, {
+      "id" : 2729,
+      "name" : "妃霸天下",
+      "updateStatus" : 1,
+      "distance" : 9854,
+      "memberId" : 5088,
+      "bothType" : false
+    }, {
+      "id" : 3366,
+      "name" : "绝色江湖",
+      "updateStatus" : 1,
+      "distance" : 6769,
+      "memberId" : 3091,
+      "bothType" : true
+    }, {
+      "id" : 3315,
+      "name" : "心底在谈爱",
+      "updateStatus" : 1,
+      "distance" : 1342,
+      "memberId" : 1645,
+      "bothType" : true
+    }, {
+      "id" : 2210,
+      "name" : "神魔罗曼史",
+      "updateStatus" : 1,
+      "distance" : 3922,
+      "memberId" : 6660,
+      "bothType" : false
+    }, {
+      "id" : 2514,
+      "name" : "新选组大河剧之星辰之名",
       "updateStatus" : 2,
-      "distance" : 3778,
-      "memberId" : 1616
-    }, {
-      "id" : 2826,
-      "name" : "沐晴只到梨花薄",
-      "updateStatus" : 1,
-      "distance" : 5493,
-      "memberId" : 8085
-    }, {
-      "id" : 3451,
-      "name" : "屠花影",
-      "updateStatus" : 1,
-      "distance" : 3246,
-      "memberId" : 1280
-    }, {
-      "id" : 2568,
-      "name" : "爱情转变剂",
-      "updateStatus" : 1,
-      "distance" : 8319,
-      "memberId" : 5585
-    }, {
-      "id" : 2503,
-      "name" : "真实的选择",
-      "updateStatus" : 1,
-      "distance" : 8970,
-      "memberId" : 5718
-    }, {
-      "id" : 3273,
-      "name" : "神医皇后",
-      "updateStatus" : 1,
-      "distance" : 2012,
-      "memberId" : 1079
+      "distance" : 2028,
+      "memberId" : 3848,
+      "bothType" : false
     }, {
       "id" : 3276,
       "name" : "宫心计续集",
       "updateStatus" : 1,
-      "distance" : 3838,
-      "memberId" : 6713
+      "distance" : 9116,
+      "memberId" : 5498,
+      "bothType" : true
     }, {
-      "id" : 3266,
-      "name" : "候鸟归来",
+      "id" : 3232,
+      "name" : "怨回纥歌",
       "updateStatus" : 1,
-      "distance" : 1636,
-      "memberId" : 4892
+      "distance" : 1030,
+      "memberId" : 2838,
+      "bothType" : true
     }, {
-      "id" : 3102,
-      "name" : "暗光",
+      "id" : 3393,
+      "name" : "医",
       "updateStatus" : 1,
-      "distance" : 8189,
-      "memberId" : 7984
+      "distance" : 6728,
+      "memberId" : 5521,
+      "bothType" : false
     }, {
-      "id" : 2496,
-      "name" : "赛罗之双生子的羁绊",
+      "id" : 2364,
+      "name" : "双城——消隐的传奇",
       "updateStatus" : 1,
-      "distance" : 8050,
-      "memberId" : 7612
+      "distance" : 3916,
+      "memberId" : 6777,
+      "bothType" : false
     }, {
-      "id" : 3293,
-      "name" : "穿越之未知数",
+      "id" : 2269,
+      "name" : "女皇倾国萌天下",
       "updateStatus" : 1,
-      "distance" : 6134,
-      "memberId" : 5085
+      "distance" : 8308,
+      "memberId" : 3109,
+      "bothType" : true
     }, {
-      "id" : 2078,
-      "name" : "绾君心",
+      "id" : 3237,
+      "name" : "千面狂妃",
       "updateStatus" : 1,
-      "distance" : 7401,
-      "memberId" : 1810
+      "distance" : 9839,
+      "memberId" : 6551,
+      "bothType" : true
     } ]
   }
 }

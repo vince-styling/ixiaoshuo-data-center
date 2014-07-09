@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2094,
-      "name" : "孽情殇",
+      "id" : 2572,
+      "name" : "魔妃逆九天",
       "updateStatus" : 1,
-      "distance" : 8849,
-      "memberId" : 5743
+      "distance" : 2862,
+      "memberId" : 5075,
+      "bothType" : false
     }, {
-      "id" : 3297,
-      "name" : "左手的秘密",
+      "id" : 3300,
+      "name" : "画城",
       "updateStatus" : 1,
-      "distance" : 7835,
-      "memberId" : 2052
+      "distance" : 8504,
+      "memberId" : 1810,
+      "bothType" : true
     }, {
-      "id" : 3679,
-      "name" : "青春情书",
+      "id" : 3518,
+      "name" : "寻花",
       "updateStatus" : 1,
-      "distance" : 2627,
-      "memberId" : 1979
+      "distance" : 2783,
+      "memberId" : 6086,
+      "bothType" : false
     }, {
-      "id" : 2464,
-      "name" : "微光角落",
+      "id" : 2546,
+      "name" : "风流公子：赖上重生佳人",
       "updateStatus" : 1,
-      "distance" : 5793,
-      "memberId" : 4006
+      "distance" : 2842,
+      "memberId" : 8540,
+      "bothType" : false
     }, {
-      "id" : 2670,
-      "name" : "何以诉离殇",
+      "id" : 2946,
+      "name" : "穿得人情",
       "updateStatus" : 1,
-      "distance" : 3772,
-      "memberId" : 1064
+      "distance" : 5243,
+      "memberId" : 5802,
+      "bothType" : false
     }, {
-      "id" : 3046,
-      "name" : "锁魂镜",
+      "id" : 2330,
+      "name" : "风雪情殇",
       "updateStatus" : 1,
-      "distance" : 7193,
-      "memberId" : 2915
+      "distance" : 9365,
+      "memberId" : 7318,
+      "bothType" : false
     }, {
-      "id" : 3531,
-      "name" : "懒妃12岁：请叫我王后",
+      "id" : 2336,
+      "name" : "妃似毒：皇子快逃命",
       "updateStatus" : 1,
-      "distance" : 7602,
-      "memberId" : 8816
+      "distance" : 1060,
+      "memberId" : 8970,
+      "bothType" : false
     }, {
-      "id" : 3141,
-      "name" : "天上掉下个林妹妹",
-      "updateStatus" : 1,
-      "distance" : 1852,
-      "memberId" : 7106
+      "id" : 2064,
+      "name" : "百变夫君猎顽妻",
+      "updateStatus" : 2,
+      "distance" : 4023,
+      "memberId" : 7779,
+      "bothType" : true
     }, {
-      "id" : 3396,
-      "name" : "花开花落几倾城",
+      "id" : 2757,
+      "name" : "总裁溺恋之是祸躲不过",
       "updateStatus" : 1,
-      "distance" : 3156,
-      "memberId" : 8906
+      "distance" : 4738,
+      "memberId" : 4088,
+      "bothType" : true
     }, {
-      "id" : 2287,
-      "name" : "王妃富可敌国",
+      "id" : 3700,
+      "name" : "江湖囧事录",
       "updateStatus" : 1,
-      "distance" : 2124,
-      "memberId" : 8178
+      "distance" : 6599,
+      "memberId" : 1582,
+      "bothType" : false
     }, {
-      "id" : 2420,
-      "name" : "双生之恋",
+      "id" : 2102,
+      "name" : "殿下惑世",
       "updateStatus" : 1,
-      "distance" : 6653,
-      "memberId" : 8778
+      "distance" : 980,
+      "memberId" : 7757,
+      "bothType" : false
     }, {
-      "id" : 3410,
-      "name" : "窈窕佳人",
+      "id" : 2221,
+      "name" : "七星北斗PLOUGH",
       "updateStatus" : 1,
-      "distance" : 3647,
-      "memberId" : 6243
+      "distance" : 8868,
+      "memberId" : 3563,
+      "bothType" : false
     }, {
-      "id" : 2610,
-      "name" : "调皮千金异空游之拐跑王爷",
-      "updateStatus" : 1,
-      "distance" : 3954,
-      "memberId" : 8907
+      "id" : 2386,
+      "name" : "至臻奢宠：冷情教父的罂粟情人",
+      "updateStatus" : 2,
+      "distance" : 3533,
+      "memberId" : 3625,
+      "bothType" : false
     }, {
-      "id" : 2519,
-      "name" : "网王同人长饮相思白佐",
+      "id" : 3497,
+      "name" : "暗眼窥世",
       "updateStatus" : 1,
-      "distance" : 7672,
-      "memberId" : 7073
+      "distance" : 3270,
+      "memberId" : 1511,
+      "bothType" : false
     }, {
-      "id" : 2492,
-      "name" : "网战尖兵",
+      "id" : 2953,
+      "name" : "异世界的爱恋",
       "updateStatus" : 1,
-      "distance" : 1421,
-      "memberId" : 7818
+      "distance" : 3451,
+      "memberId" : 4879,
+      "bothType" : false
     }, {
-      "id" : 3260,
-      "name" : "看着你思念那个女孩",
+      "id" : 2174,
+      "name" : "华夏神域",
       "updateStatus" : 1,
-      "distance" : 1181,
-      "memberId" : 2209
+      "distance" : 6631,
+      "memberId" : 7116,
+      "bothType" : false
     }, {
-      "id" : 2775,
-      "name" : "实验品女孩的桃花运",
+      "id" : 2888,
+      "name" : "分生",
       "updateStatus" : 1,
-      "distance" : 8674,
-      "memberId" : 1096
+      "distance" : 5880,
+      "memberId" : 4475,
+      "bothType" : true
     }, {
-      "id" : 3489,
-      "name" : "夜色如昨",
+      "id" : 2291,
+      "name" : "长脚丫的年轮",
       "updateStatus" : 1,
-      "distance" : 714,
-      "memberId" : 6944
+      "distance" : 1399,
+      "memberId" : 8936,
+      "bothType" : false
     }, {
-      "id" : 3023,
-      "name" : "大没殇",
+      "id" : 3739,
+      "name" : "狐媚天下：妖娆娘子腹黑爷",
       "updateStatus" : 1,
-      "distance" : 4392,
-      "memberId" : 8585
+      "distance" : 9652,
+      "memberId" : 4714,
+      "bothType" : true
     }, {
-      "id" : 2754,
-      "name" : "蝴蝶与四叶草",
+      "id" : 2822,
+      "name" : "追妻攻略：腹黑BOSS不好惹",
       "updateStatus" : 1,
-      "distance" : 767,
-      "memberId" : 1260
+      "distance" : 8675,
+      "memberId" : 4843,
+      "bothType" : false
     } ]
   }
 }

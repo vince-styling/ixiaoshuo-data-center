@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47944.jpg",
       "updateStatus" : 1,
       "capacity" : 1084895,
-      "lastUpdateTime" : "2013-12-11 00:55:53"
+      "lastUpdateTime" : "2013-12-11 00:55:53",
+      "bothType" : true
     }, {
       "id" : 3020,
       "name" : "五行武侠",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48009.jpg",
       "updateStatus" : 1,
       "capacity" : 7861557,
-      "lastUpdateTime" : "2013-12-11 00:38:34"
+      "lastUpdateTime" : "2013-12-11 00:38:34",
+      "bothType" : false
     }, {
       "id" : 2865,
       "name" : "溺宠妖牌王妃",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44668.jpg",
       "updateStatus" : 1,
       "capacity" : 8099503,
-      "lastUpdateTime" : "2013-12-11 00:15:06"
+      "lastUpdateTime" : "2013-12-11 00:15:06",
+      "bothType" : false
     }, {
       "id" : 3079,
       "name" : "唯我独尊：遇上你可能是最好的",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47561.jpg",
       "updateStatus" : 1,
       "capacity" : 614027,
-      "lastUpdateTime" : "2013-12-11 00:14:50"
+      "lastUpdateTime" : "2013-12-11 00:14:50",
+      "bothType" : false
     }, {
       "id" : 2956,
       "name" : "温柔女友大姐大",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18766.jpg",
       "updateStatus" : 1,
       "capacity" : 8254809,
-      "lastUpdateTime" : "2013-12-11 00:09:07"
+      "lastUpdateTime" : "2013-12-11 00:09:07",
+      "bothType" : false
     }, {
       "id" : 2239,
       "name" : "都市修仙巅峰传说",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20490.jpg",
       "updateStatus" : 1,
       "capacity" : 2493992,
-      "lastUpdateTime" : "2013-12-10 23:44:48"
+      "lastUpdateTime" : "2013-12-10 23:44:48",
+      "bothType" : false
     }, {
       "id" : 2867,
       "name" : "子兰",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47911.jpg",
       "updateStatus" : 1,
       "capacity" : 4709274,
-      "lastUpdateTime" : "2013-12-10 22:10:53"
+      "lastUpdateTime" : "2013-12-10 22:10:53",
+      "bothType" : false
     }, {
       "id" : 3556,
       "name" : "花泱",
@@ -68,7 +75,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 46985,
-      "lastUpdateTime" : "2013-12-10 21:09:09"
+      "lastUpdateTime" : "2013-12-10 21:09:09",
+      "bothType" : false
     }, {
       "id" : 3164,
       "name" : "孤独末世",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_13612.jpg",
       "updateStatus" : 1,
       "capacity" : 1767235,
-      "lastUpdateTime" : "2013-12-10 20:33:31"
+      "lastUpdateTime" : "2013-12-10 20:33:31",
+      "bothType" : false
     }, {
       "id" : 3573,
       "name" : "天使与伪天使的契约",
@@ -84,7 +93,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 181997,
-      "lastUpdateTime" : "2013-12-10 20:32:33"
+      "lastUpdateTime" : "2013-12-10 20:32:33",
+      "bothType" : false
     }, {
       "id" : 2249,
       "name" : "古代求生记",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19596.jpg",
       "updateStatus" : 2,
       "capacity" : 9409345,
-      "lastUpdateTime" : "2013-12-10 20:08:12"
+      "lastUpdateTime" : "2013-12-10 20:08:12",
+      "bothType" : true
     }, {
       "id" : 2742,
       "name" : "异界为魔",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47069.jpg",
       "updateStatus" : 1,
       "capacity" : 2662602,
-      "lastUpdateTime" : "2013-12-10 19:12:06"
+      "lastUpdateTime" : "2013-12-10 19:12:06",
+      "bothType" : false
     }, {
       "id" : 2137,
       "name" : "逆墨灵",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16769.jpg",
       "updateStatus" : 2,
       "capacity" : 3360362,
-      "lastUpdateTime" : "2013-12-10 18:56:21"
+      "lastUpdateTime" : "2013-12-10 18:56:21",
+      "bothType" : false
     }, {
       "id" : 2103,
       "name" : "剑缘三生泪断崖",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47914.jpg",
       "updateStatus" : 1,
       "capacity" : 8109578,
-      "lastUpdateTime" : "2013-12-10 17:47:20"
+      "lastUpdateTime" : "2013-12-10 17:47:20",
+      "bothType" : false
     }, {
       "id" : 3044,
       "name" : "异世王妃倾城",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43939.jpg",
       "updateStatus" : 1,
       "capacity" : 3296638,
-      "lastUpdateTime" : "2013-12-10 17:25:37"
+      "lastUpdateTime" : "2013-12-10 17:25:37",
+      "bothType" : false
     }, {
       "id" : 3622,
       "name" : "妃澄勿扰：这个嬷嬷赛倾城",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43887.jpg",
       "updateStatus" : 1,
       "capacity" : 479888,
-      "lastUpdateTime" : "2013-12-10 17:18:41"
+      "lastUpdateTime" : "2013-12-10 17:18:41",
+      "bothType" : false
     }, {
       "id" : 3613,
       "name" : "剑翎之仙侣奇侠",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21429.jpg",
       "updateStatus" : 1,
       "capacity" : 942421,
-      "lastUpdateTime" : "2013-12-10 16:25:16"
+      "lastUpdateTime" : "2013-12-10 16:25:16",
+      "bothType" : false
     }, {
       "id" : 2445,
       "name" : "饰心",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44317.jpg",
       "updateStatus" : 1,
       "capacity" : 2667685,
-      "lastUpdateTime" : "2013-12-10 16:10:55"
+      "lastUpdateTime" : "2013-12-10 16:10:55",
+      "bothType" : false
     }, {
       "id" : 2601,
       "name" : "倾城馨少桃花多",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46636.jpg",
       "updateStatus" : 2,
       "capacity" : 9633766,
-      "lastUpdateTime" : "2013-12-10 15:22:27"
+      "lastUpdateTime" : "2013-12-10 15:22:27",
+      "bothType" : true
     }, {
       "id" : 3213,
       "name" : "光华琉璃只为一笑",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45623.jpg",
       "updateStatus" : 1,
       "capacity" : 60216,
-      "lastUpdateTime" : "2013-12-10 14:48:41"
+      "lastUpdateTime" : "2013-12-10 14:48:41",
+      "bothType" : false
     } ]
   }
 }

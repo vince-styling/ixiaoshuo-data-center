@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43244.jpg",
       "updateStatus" : 1,
       "capacity" : 3807641,
-      "lastUpdateTime" : "2013-12-18 08:49:41"
+      "lastUpdateTime" : "2013-12-18 08:49:41",
+      "bothType" : false
     }, {
       "id" : 3420,
       "name" : "醉梦三生之一诺倾城",
@@ -20,7 +21,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 22480,
-      "lastUpdateTime" : "2013-12-18 08:41:38"
+      "lastUpdateTime" : "2013-12-18 08:41:38",
+      "bothType" : false
     }, {
       "id" : 2893,
       "name" : "曾经你还好么",
@@ -28,7 +30,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 1255410,
-      "lastUpdateTime" : "2013-12-18 08:40:10"
+      "lastUpdateTime" : "2013-12-18 08:40:10",
+      "bothType" : false
     }, {
       "id" : 2314,
       "name" : "白之纯水之澈",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46823.jpg",
       "updateStatus" : 1,
       "capacity" : 9074731,
-      "lastUpdateTime" : "2013-12-18 08:22:11"
+      "lastUpdateTime" : "2013-12-18 08:22:11",
+      "bothType" : true
     }, {
       "id" : 2501,
       "name" : "金属蝴蝶",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15012.jpg",
       "updateStatus" : 1,
       "capacity" : 3956880,
-      "lastUpdateTime" : "2013-12-18 07:58:12"
+      "lastUpdateTime" : "2013-12-18 07:58:12",
+      "bothType" : false
     }, {
       "id" : 2765,
       "name" : "以年少当歌",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45458.jpg",
       "updateStatus" : 2,
       "capacity" : 1408916,
-      "lastUpdateTime" : "2013-12-18 07:32:27"
+      "lastUpdateTime" : "2013-12-18 07:32:27",
+      "bothType" : false
     }, {
       "id" : 3697,
       "name" : "一路有爱陪着亲",
@@ -60,7 +66,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 66658,
-      "lastUpdateTime" : "2013-12-18 06:29:56"
+      "lastUpdateTime" : "2013-12-18 06:29:56",
+      "bothType" : false
     }, {
       "id" : 3518,
       "name" : "寻花",
@@ -68,7 +75,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 31695,
-      "lastUpdateTime" : "2013-12-18 06:07:44"
+      "lastUpdateTime" : "2013-12-18 06:07:44",
+      "bothType" : true
     }, {
       "id" : 3676,
       "name" : "时光少女",
@@ -76,7 +84,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 26009,
-      "lastUpdateTime" : "2013-12-18 06:01:53"
+      "lastUpdateTime" : "2013-12-18 06:01:53",
+      "bothType" : false
     }, {
       "id" : 2980,
       "name" : "穿越做将军",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42931.jpg",
       "updateStatus" : 1,
       "capacity" : 2605748,
-      "lastUpdateTime" : "2013-12-18 05:40:19"
+      "lastUpdateTime" : "2013-12-18 05:40:19",
+      "bothType" : false
     }, {
       "id" : 2209,
       "name" : "高贵的囚徒",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46272.jpg",
       "updateStatus" : 1,
       "capacity" : 7286728,
-      "lastUpdateTime" : "2013-12-18 05:07:05"
+      "lastUpdateTime" : "2013-12-18 05:07:05",
+      "bothType" : true
     }, {
       "id" : 3576,
       "name" : "何故弦断梦",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46389.jpg",
       "updateStatus" : 1,
       "capacity" : 15620,
-      "lastUpdateTime" : "2013-12-18 04:18:45"
+      "lastUpdateTime" : "2013-12-18 04:18:45",
+      "bothType" : false
     }, {
       "id" : 3627,
       "name" : "调皮公主的霸气王子",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46449.jpg",
       "updateStatus" : 1,
       "capacity" : 78969,
-      "lastUpdateTime" : "2013-12-18 03:49:43"
+      "lastUpdateTime" : "2013-12-18 03:49:43",
+      "bothType" : true
     }, {
       "id" : 2653,
       "name" : "恶魔让你遇见我",
@@ -116,7 +129,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 7976735,
-      "lastUpdateTime" : "2013-12-18 03:28:29"
+      "lastUpdateTime" : "2013-12-18 03:28:29",
+      "bothType" : false
     }, {
       "id" : 3385,
       "name" : "修仙之凤舞九天",
@@ -124,7 +138,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 16074,
-      "lastUpdateTime" : "2013-12-18 02:45:18"
+      "lastUpdateTime" : "2013-12-18 02:45:18",
+      "bothType" : false
     }, {
       "id" : 2317,
       "name" : "江湖任我行",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22436.jpg",
       "updateStatus" : 1,
       "capacity" : 1952427,
-      "lastUpdateTime" : "2013-12-18 01:44:33"
+      "lastUpdateTime" : "2013-12-18 01:44:33",
+      "bothType" : true
     }, {
       "id" : 3668,
       "name" : "鸳鸯何处绾红妆",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45001.jpg",
       "updateStatus" : 1,
       "capacity" : 88058,
-      "lastUpdateTime" : "2013-12-18 00:05:09"
+      "lastUpdateTime" : "2013-12-18 00:05:09",
+      "bothType" : false
     }, {
       "id" : 3671,
       "name" : "重生之一品贵妇",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46802.jpg",
       "updateStatus" : 1,
       "capacity" : 30652,
-      "lastUpdateTime" : "2013-12-17 23:52:33"
+      "lastUpdateTime" : "2013-12-17 23:52:33",
+      "bothType" : false
     }, {
       "id" : 3547,
       "name" : "寡仁寡义传",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43547.jpg",
       "updateStatus" : 1,
       "capacity" : 503432,
-      "lastUpdateTime" : "2013-12-17 23:30:46"
+      "lastUpdateTime" : "2013-12-17 23:30:46",
+      "bothType" : false
     }, {
       "id" : 3024,
       "name" : "爱错",
@@ -164,7 +183,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 5316128,
-      "lastUpdateTime" : "2013-12-17 23:02:06"
+      "lastUpdateTime" : "2013-12-17 23:02:06",
+      "bothType" : false
     } ]
   }
 }

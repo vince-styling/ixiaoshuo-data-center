@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3534,
-      "name" : "风起翼翔雪牵洛楹",
+      "id" : 3400,
+      "name" : "天使的诠释：幸福就是遇见你",
       "updateStatus" : 1,
-      "distance" : 9135,
-      "memberId" : 1455
+      "distance" : 3691,
+      "memberId" : 2594,
+      "bothType" : false
     }, {
-      "id" : 2881,
-      "name" : "豪门：公主不愁嫁",
+      "id" : 2843,
+      "name" : "家有仙妃很腹黑",
       "updateStatus" : 1,
-      "distance" : 3922,
-      "memberId" : 7613
+      "distance" : 7701,
+      "memberId" : 8849,
+      "bothType" : true
     }, {
-      "id" : 2221,
-      "name" : "七星北斗PLOUGH",
+      "id" : 2494,
+      "name" : "火蓝刀锋之邂逅重生",
       "updateStatus" : 1,
-      "distance" : 6879,
-      "memberId" : 6291
+      "distance" : 9875,
+      "memberId" : 4118,
+      "bothType" : true
     }, {
-      "id" : 2444,
-      "name" : "花开花败，半夏未眠",
+      "id" : 2616,
+      "name" : "陌路轻狂",
       "updateStatus" : 1,
-      "distance" : 5550,
-      "memberId" : 2150
+      "distance" : 9438,
+      "memberId" : 1931,
+      "bothType" : false
     }, {
-      "id" : 2739,
-      "name" : "紫色涅槃",
+      "id" : 2713,
+      "name" : "凉茶温酒",
       "updateStatus" : 1,
-      "distance" : 5928,
-      "memberId" : 8222
+      "distance" : 1970,
+      "memberId" : 3436,
+      "bothType" : false
     }, {
-      "id" : 2650,
-      "name" : "我要稳稳的幸福",
+      "id" : 2946,
+      "name" : "穿得人情",
       "updateStatus" : 1,
-      "distance" : 6031,
-      "memberId" : 5371
+      "distance" : 5538,
+      "memberId" : 6507,
+      "bothType" : false
     }, {
-      "id" : 2508,
-      "name" : "剑神？不是吧",
+      "id" : 2495,
+      "name" : "一个农村女人的蝴蝶梦",
       "updateStatus" : 1,
-      "distance" : 3774,
-      "memberId" : 7305
+      "distance" : 2009,
+      "memberId" : 8071,
+      "bothType" : true
     }, {
-      "id" : 3281,
-      "name" : "烈火柔情",
+      "id" : 3085,
+      "name" : "姑娘，你没有穿鞋",
       "updateStatus" : 1,
-      "distance" : 730,
-      "memberId" : 1695
+      "distance" : 4943,
+      "memberId" : 2652,
+      "bothType" : false
     }, {
-      "id" : 2276,
-      "name" : "皇上坏坏：爱妃该睡觉了",
+      "id" : 2105,
+      "name" : "是谁弯下小蛮腰",
       "updateStatus" : 1,
-      "distance" : 3277,
-      "memberId" : 4320
+      "distance" : 6057,
+      "memberId" : 2901,
+      "bothType" : false
     }, {
-      "id" : 2210,
-      "name" : "神魔罗曼史",
+      "id" : 3715,
+      "name" : "仙灵问鼎",
       "updateStatus" : 1,
-      "distance" : 4996,
-      "memberId" : 8889
+      "distance" : 3864,
+      "memberId" : 8112,
+      "bothType" : false
     }, {
-      "id" : 2072,
-      "name" : "绝色医仙：迫嫁公主绝情帝",
-      "updateStatus" : 2,
-      "distance" : 1797,
-      "memberId" : 8884
-    }, {
-      "id" : 3330,
-      "name" : "璃心love",
+      "id" : 2096,
+      "name" : "天下第一媒",
       "updateStatus" : 1,
-      "distance" : 8192,
-      "memberId" : 3987
+      "distance" : 6114,
+      "memberId" : 6044,
+      "bothType" : false
     }, {
-      "id" : 3659,
-      "name" : "回头，爱还在原地等你",
+      "id" : 2108,
+      "name" : "妖孽丛生",
       "updateStatus" : 1,
-      "distance" : 4603,
-      "memberId" : 5205
+      "distance" : 2510,
+      "memberId" : 6664,
+      "bothType" : true
     }, {
-      "id" : 2125,
-      "name" : "恨海情天",
+      "id" : 2880,
+      "name" : "卿本红颜之妃常杀手",
       "updateStatus" : 1,
-      "distance" : 583,
-      "memberId" : 8546
+      "distance" : 8073,
+      "memberId" : 7577,
+      "bothType" : false
     }, {
-      "id" : 2070,
-      "name" : "最后一个情人",
-      "updateStatus" : 2,
-      "distance" : 7524,
-      "memberId" : 2035
-    }, {
-      "id" : 3415,
-      "name" : "黑道老大的冷酷男友",
+      "id" : 2343,
+      "name" : "五界九州乱",
       "updateStatus" : 1,
-      "distance" : 9085,
-      "memberId" : 4151
+      "distance" : 614,
+      "memberId" : 7050,
+      "bothType" : false
     }, {
-      "id" : 2347,
-      "name" : "绝配主仆",
+      "id" : 2506,
+      "name" : "再见，青春",
       "updateStatus" : 1,
-      "distance" : 6569,
-      "memberId" : 2632
+      "distance" : 4106,
+      "memberId" : 5788,
+      "bothType" : true
     }, {
-      "id" : 3721,
-      "name" : "这个是妖精大人",
+      "id" : 2401,
+      "name" : "拾爱：蚀骨之恋",
       "updateStatus" : 1,
-      "distance" : 6679,
-      "memberId" : 4445
+      "distance" : 835,
+      "memberId" : 4397,
+      "bothType" : false
     }, {
-      "id" : 2362,
-      "name" : "青春小夜曲",
-      "updateStatus" : 2,
-      "distance" : 1006,
-      "memberId" : 6059
-    }, {
-      "id" : 2043,
-      "name" : "彼岸繁花落",
+      "id" : 2566,
+      "name" : "那些年，我和你",
       "updateStatus" : 1,
-      "distance" : 2480,
-      "memberId" : 3612
+      "distance" : 8214,
+      "memberId" : 8117,
+      "bothType" : false
+    }, {
+      "id" : 2089,
+      "name" : "旷世奇恋",
+      "updateStatus" : 1,
+      "distance" : 9618,
+      "memberId" : 1571,
+      "bothType" : false
+    }, {
+      "id" : 2617,
+      "name" : "戏里婚外",
+      "updateStatus" : 1,
+      "distance" : 8259,
+      "memberId" : 8623,
+      "bothType" : false
+    }, {
+      "id" : 2209,
+      "name" : "高贵的囚徒",
+      "updateStatus" : 1,
+      "distance" : 2561,
+      "memberId" : 1765,
+      "bothType" : false
     } ]
   }
 }

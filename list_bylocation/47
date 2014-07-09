@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2569,
-      "name" : "倾世绝傲：女神修仙传",
+      "id" : 3297,
+      "name" : "左手的秘密",
       "updateStatus" : 1,
-      "distance" : 8090,
-      "memberId" : 3166
+      "distance" : 5729,
+      "memberId" : 3886,
+      "bothType" : false
     }, {
-      "id" : 3270,
-      "name" : "媚颜笑",
+      "id" : 2471,
+      "name" : "梦妖师",
+      "updateStatus" : 2,
+      "distance" : 6255,
+      "memberId" : 6501,
+      "bothType" : false
+    }, {
+      "id" : 2334,
+      "name" : "异时空情恋之殿下不要忽悠我",
       "updateStatus" : 1,
-      "distance" : 3135,
-      "memberId" : 4952
+      "distance" : 3897,
+      "memberId" : 3671,
+      "bothType" : true
     }, {
-      "id" : 2227,
-      "name" : "小狐赤烛",
+      "id" : 2576,
+      "name" : "四人行",
       "updateStatus" : 1,
-      "distance" : 3389,
-      "memberId" : 8311
+      "distance" : 1795,
+      "memberId" : 3599,
+      "bothType" : false
     }, {
-      "id" : 2767,
-      "name" : "美人目",
+      "id" : 2081,
+      "name" : "命定一瞬，执念一生",
       "updateStatus" : 1,
-      "distance" : 7415,
-      "memberId" : 3336
+      "distance" : 5797,
+      "memberId" : 3979,
+      "bothType" : true
     }, {
-      "id" : 3468,
-      "name" : "轮回•不语",
+      "id" : 3672,
+      "name" : "只愿得君心",
       "updateStatus" : 1,
-      "distance" : 4724,
-      "memberId" : 1261
+      "distance" : 8032,
+      "memberId" : 4334,
+      "bothType" : false
     }, {
-      "id" : 2289,
-      "name" : "暴虐王爷风流妃",
+      "id" : 3091,
+      "name" : "丛林法则，末世女王风",
       "updateStatus" : 1,
-      "distance" : 2827,
-      "memberId" : 1277
+      "distance" : 6906,
+      "memberId" : 5068,
+      "bothType" : false
     }, {
-      "id" : 2628,
-      "name" : "别再调戏我",
+      "id" : 2468,
+      "name" : "天堂巴士444",
       "updateStatus" : 1,
-      "distance" : 4142,
-      "memberId" : 8217
+      "distance" : 3183,
+      "memberId" : 5348,
+      "bothType" : false
     }, {
-      "id" : 3546,
-      "name" : "红颜若雪：情倾后宫",
+      "id" : 3296,
+      "name" : "斜阳晚照",
       "updateStatus" : 1,
-      "distance" : 9876,
-      "memberId" : 3501
+      "distance" : 1917,
+      "memberId" : 4287,
+      "bothType" : false
     }, {
-      "id" : 2521,
-      "name" : "你才奥利奥，你全家都奥利奥",
+      "id" : 2749,
+      "name" : "轻安易宁",
       "updateStatus" : 1,
-      "distance" : 9328,
-      "memberId" : 4038
+      "distance" : 3091,
+      "memberId" : 1406,
+      "bothType" : false
     }, {
-      "id" : 3696,
-      "name" : "负心王爷，囚宠失身王妃",
+      "id" : 2294,
+      "name" : "颠沛流离",
       "updateStatus" : 1,
-      "distance" : 2798,
-      "memberId" : 4301
+      "distance" : 2302,
+      "memberId" : 3856,
+      "bothType" : false
     }, {
-      "id" : 3708,
-      "name" : "浮生境梦",
+      "id" : 3142,
+      "name" : "重生女帝之桃花袭来",
       "updateStatus" : 1,
-      "distance" : 5206,
-      "memberId" : 1399
+      "distance" : 7917,
+      "memberId" : 1631,
+      "bothType" : false
     }, {
-      "id" : 2131,
-      "name" : "重生之嫡女云笙",
+      "id" : 3700,
+      "name" : "江湖囧事录",
       "updateStatus" : 1,
-      "distance" : 9443,
-      "memberId" : 5875
+      "distance" : 9844,
+      "memberId" : 8993,
+      "bothType" : false
     }, {
-      "id" : 3377,
-      "name" : "秦时明月之艾旅",
+      "id" : 3000,
+      "name" : "陪君共此生",
       "updateStatus" : 1,
-      "distance" : 1238,
-      "memberId" : 8399
+      "distance" : 3566,
+      "memberId" : 1068,
+      "bothType" : false
     }, {
-      "id" : 2711,
-      "name" : "卿本佳人：第一女状元",
-      "updateStatus" : 1,
-      "distance" : 8036,
-      "memberId" : 4862
+      "id" : 2189,
+      "name" : "天使心",
+      "updateStatus" : 2,
+      "distance" : 1575,
+      "memberId" : 8357,
+      "bothType" : true
     }, {
-      "id" : 2954,
-      "name" : "大神卖身不卖艺",
-      "updateStatus" : 1,
-      "distance" : 4451,
-      "memberId" : 4152
-    }, {
-      "id" : 2101,
-      "name" : "天边见流云",
-      "updateStatus" : 1,
-      "distance" : 9691,
-      "memberId" : 4721
-    }, {
-      "id" : 3261,
-      "name" : "腐化了的灿烂年华",
-      "updateStatus" : 1,
-      "distance" : 3328,
-      "memberId" : 2674
-    }, {
-      "id" : 2713,
-      "name" : "凉茶温酒",
-      "updateStatus" : 1,
-      "distance" : 7259,
-      "memberId" : 2474
-    }, {
-      "id" : 3596,
-      "name" : "不要在一起",
+      "id" : 3029,
+      "name" : "双女穿越记",
       "updateStatus" : 1,
       "distance" : 3431,
-      "memberId" : 2357
+      "memberId" : 3374,
+      "bothType" : true
     }, {
-      "id" : 3152,
-      "name" : "晚晴空",
+      "id" : 2781,
+      "name" : "延伸",
       "updateStatus" : 1,
-      "distance" : 7653,
-      "memberId" : 7460
+      "distance" : 5138,
+      "memberId" : 4519,
+      "bothType" : true
+    }, {
+      "id" : 2291,
+      "name" : "长脚丫的年轮",
+      "updateStatus" : 1,
+      "distance" : 1984,
+      "memberId" : 3275,
+      "bothType" : true
+    }, {
+      "id" : 2683,
+      "name" : "总有一个人能陪我一起老",
+      "updateStatus" : 1,
+      "distance" : 8901,
+      "memberId" : 2073,
+      "bothType" : false
+    }, {
+      "id" : 2799,
+      "name" : "雪寻雪见",
+      "updateStatus" : 1,
+      "distance" : 4218,
+      "memberId" : 2482,
+      "bothType" : false
     } ]
   }
 }

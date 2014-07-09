@@ -12,7 +12,8 @@
       "summary" : "她洛紫羽，一觉醒来发现自己睡的居然不是自己的床。毫无疑问她穿越了。可素，为什么？没有发生小说里的事情",
       "updateStatus" : 1,
       "capacity" : 30665,
-      "readerCount" : 169
+      "readerCount" : 169,
+      "bothType" : true
     }, {
       "id" : 3214,
       "name" : "穿越之妖精的尾巴",
@@ -20,7 +21,8 @@
       "summary" : "男人想也想不到自己为何会这样结束了所有的动力？他瞪着双眼，看着天空，似乎还是在等待着救赎一样。这样的",
       "updateStatus" : 1,
       "capacity" : 50360,
-      "readerCount" : 153
+      "readerCount" : 153,
+      "bothType" : false
     }, {
       "id" : 3386,
       "name" : "云水竹心",
@@ -28,7 +30,8 @@
       "summary" : "一日心期千劫在，前世今生几度情。寻常风月，等闲笑谈，算而今，一心难觅。拟把东风唤与，尽欢樽前，怎使得",
       "updateStatus" : 1,
       "capacity" : 314570,
-      "readerCount" : 125
+      "readerCount" : 125,
+      "bothType" : false
     }, {
       "id" : 3742,
       "name" : "汝心计",
@@ -36,7 +39,8 @@
       "summary" : "林美月性格软弱，认识她的都知道。但有一天，突然发现自已穿越到了一个不知明的朝代，怎么办？是软弱到底还",
       "updateStatus" : 1,
       "capacity" : 180667,
-      "readerCount" : 105
+      "readerCount" : 105,
+      "bothType" : false
     } ]
   }
 }

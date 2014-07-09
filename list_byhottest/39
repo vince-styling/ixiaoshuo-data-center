@@ -12,7 +12,8 @@
       "summary" : "谁转身再见，让再见太难。说再见太难等再见太难再见时初心不变亦太难。他对我说，你最好清楚，与我无关紧要",
       "updateStatus" : 1,
       "capacity" : 3608429,
-      "readerCount" : 5241
+      "readerCount" : 5241,
+      "bothType" : false
     }, {
       "id" : 2428,
       "name" : "包办婚嫁",
@@ -20,7 +21,8 @@
       "summary" : "一个简单的，灰姑娘好运攀上高枝的故事。一段长辈包办的婚姻中，一对没有爱情的夫妻，在柴米油盐的琐碎小事",
       "updateStatus" : 1,
       "capacity" : 3269355,
-      "readerCount" : 5229
+      "readerCount" : 5229,
+      "bothType" : false
     }, {
       "id" : 2501,
       "name" : "金属蝴蝶",
@@ -28,7 +30,8 @@
       "summary" : "这是一篇海贼王同人。当金属能力的原创女主，碰到十一超新星第一人的尤斯塔斯基德，不知道会碰出什么样的火",
       "updateStatus" : 1,
       "capacity" : 3956880,
-      "readerCount" : 5212
+      "readerCount" : 5212,
+      "bothType" : false
     }, {
       "id" : 3559,
       "name" : "最珍贵的沉默",
@@ -36,7 +39,8 @@
       "summary" : "“沈夜。”顾然软软的声音从电话里传来，带着些许哭腔：“你是不是不喜欢我了？”沈夜几乎握不住手里的电话",
       "updateStatus" : 1,
       "capacity" : 1531212,
-      "readerCount" : 5207
+      "readerCount" : 5207,
+      "bothType" : false
     }, {
       "id" : 2127,
       "name" : "沐沐雪深",
@@ -44,7 +48,8 @@
       "summary" : "对的时间，遇见对的人，是一生幸福。对的时间，遇见错的人，是一生心伤。错的时间，遇见错的人，是一生荒唐",
       "updateStatus" : 1,
       "capacity" : 8042012,
-      "readerCount" : 5200
+      "readerCount" : 5200,
+      "bothType" : true
     }, {
       "id" : 3452,
       "name" : "屌丝掌门",
@@ -52,7 +57,8 @@
       "summary" : "你只看到了我现在的风光无限，可曾看到我当年落魄的样子？你只看到了我现在的妻妾成群，可曾看到了我当年孤",
       "updateStatus" : 1,
       "capacity" : 309311,
-      "readerCount" : 5198
+      "readerCount" : 5198,
+      "bothType" : false
     }, {
       "id" : 2731,
       "name" : "朕爱美人心",
@@ -60,7 +66,8 @@
       "summary" : "他，有权利，有实力自负、负人。没有人能像他这样一辈子的如意甚至是肆意；怀抱美人，手掌江山，睨视世间才",
       "updateStatus" : 1,
       "capacity" : 4107881,
-      "readerCount" : 5165
+      "readerCount" : 5165,
+      "bothType" : false
     }, {
       "id" : 3139,
       "name" : "鸢米娅宿命的扭转",
@@ -68,7 +75,8 @@
       "summary" : "一个姑娘看似轻松平淡的重生生活——咦？这不是我小六时期的模样么？！你说，前世今生，只为我此刻的回眸鸢",
       "updateStatus" : 1,
       "capacity" : 202252,
-      "readerCount" : 5157
+      "readerCount" : 5157,
+      "bothType" : true
     }, {
       "id" : 3169,
       "name" : "石楠少主",
@@ -76,7 +84,8 @@
       "summary" : "他是英俊潇洒，风流倜傥的石楠少主，可是谁能想到他竟是因为在二十一世纪没有见义勇为而遭雷劈，一朝穿越到",
       "updateStatus" : 1,
       "capacity" : 730292,
-      "readerCount" : 5156
+      "readerCount" : 5156,
+      "bothType" : true
     }, {
       "id" : 3650,
       "name" : "养个儿子当祸害",
@@ -84,7 +93,8 @@
       "summary" : "她是现代富二代凌笑蓝，却因先天性心脏病被家族放逐，唯有一老仆待她至诚至真，却不料着最后一点温暖也有人",
       "updateStatus" : 1,
       "capacity" : 396236,
-      "readerCount" : 5143
+      "readerCount" : 5143,
+      "bothType" : true
     }, {
       "id" : 3433,
       "name" : "宿敌",
@@ -92,7 +102,8 @@
       "summary" : "一个百年家族的湮灭，一个少年的血海深仇之旅，爱上了一个绝世倾城的女子，不巧，她却是他仇人的女儿，纵然",
       "updateStatus" : 1,
       "capacity" : 302851,
-      "readerCount" : 5143
+      "readerCount" : 5143,
+      "bothType" : false
     }, {
       "id" : 3738,
       "name" : "献青春：那些我们叛逆过的叛逆",
@@ -100,7 +111,8 @@
       "summary" : "时光荐苒，岁月迷离。当我们一步一步偏离彼此的轨迹…一个一个慢慢离去。一段多人旅途变成了单人旅程。回望",
       "updateStatus" : 1,
       "capacity" : 1474816,
-      "readerCount" : 5132
+      "readerCount" : 5132,
+      "bothType" : false
     }, {
       "id" : 3506,
       "name" : "还珠格格同人之落燕",
@@ -108,7 +120,8 @@
       "summary" : "她是一缕穿越还珠世界的幽魂，他是风姿俊逸、气质高华的皇子，为了不让他弃一切、走天涯，她步步避、步步退",
       "updateStatus" : 1,
       "capacity" : 889160,
-      "readerCount" : 5119
+      "readerCount" : 5119,
+      "bothType" : false
     }, {
       "id" : 2266,
       "name" : "倾酌天下",
@@ -116,7 +129,8 @@
       "summary" : "【慕容泱】慕容泱：“第一杯，罚我从来没有问过你想要什么，就私自替你做了决定；第二杯，罚我亲手杀死了你",
       "updateStatus" : 1,
       "capacity" : 1614834,
-      "readerCount" : 5109
+      "readerCount" : 5109,
+      "bothType" : false
     }, {
       "id" : 2549,
       "name" : "色如花，命如叶",
@@ -124,7 +138,8 @@
       "summary" : "明明是初夏的夜晚，雪瑶却觉得寒冷异常。被最信赖的他抛弃，她成了最可悲的笑话。什么全世界最疼爱她一个人",
       "updateStatus" : 1,
       "capacity" : 3419251,
-      "readerCount" : 5090
+      "readerCount" : 5090,
+      "bothType" : true
     }, {
       "id" : 3737,
       "name" : "忐忑修真路",
@@ -132,7 +147,8 @@
       "summary" : "她本是最平凡不过的女子，却意外来到一个陌生的世界，这里以强者为尊，强者就是王法，霸者就是道理，这里杀",
       "updateStatus" : 1,
       "capacity" : 233911,
-      "readerCount" : 5041
+      "readerCount" : 5041,
+      "bothType" : false
     }, {
       "id" : 3033,
       "name" : "惊尘梦：冷情女子惑情夫",
@@ -140,7 +156,8 @@
       "summary" : "她是纭庄庄主之女，聪灵慧黠，妖娆姽婳，却也淡漠隐忍，通透冷情他是泫溟山庄少庄主，卓尔不凡，温润如风，",
       "updateStatus" : 1,
       "capacity" : 6967848,
-      "readerCount" : 5041
+      "readerCount" : 5041,
+      "bothType" : false
     }, {
       "id" : 2616,
       "name" : "陌路轻狂",
@@ -148,7 +165,8 @@
       "summary" : "轻狂：：默陆，代号轻狂，国家顶级杀手，任务失败，死于同伴，死不瞑目。墨陆，废物少爷，生于墨家，倍受欺",
       "updateStatus" : 1,
       "capacity" : 3999814,
-      "readerCount" : 5032
+      "readerCount" : 5032,
+      "bothType" : true
     }, {
       "id" : 2920,
       "name" : "碧色佳人",
@@ -156,7 +174,8 @@
       "summary" : "本意为守护家族传遗志，却恍惚转生异世再为人愿只愿平安康乐度余年，又怎知眼波流转惹尘埃看佳人踏过千帆求",
       "updateStatus" : 1,
       "capacity" : 6658440,
-      "readerCount" : 5023
+      "readerCount" : 5023,
+      "bothType" : true
     }, {
       "id" : 2491,
       "name" : "网游之睡睡也能成高手",
@@ -164,7 +183,8 @@
       "summary" : "『新武』并不是全球第一个拟真游戏，但却是唯一春天玩得起的游戏但是谁告诉她这是怎么一回事？有人像她一样",
       "updateStatus" : 1,
       "capacity" : 3937533,
-      "readerCount" : 4999
+      "readerCount" : 4999,
+      "bothType" : false
     } ]
   }
 }

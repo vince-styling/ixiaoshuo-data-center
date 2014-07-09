@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15622.jpg",
       "updateStatus" : 1,
       "capacity" : 1211288,
-      "lastUpdateTime" : "2013-12-26 18:39:24"
+      "lastUpdateTime" : "2013-12-26 18:39:24",
+      "bothType" : false
     }, {
       "id" : 3508,
       "name" : "虾片恋情:融化冰山王子的小虾片",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44915.jpg",
       "updateStatus" : 1,
       "capacity" : 41707,
-      "lastUpdateTime" : "2013-12-26 17:50:12"
+      "lastUpdateTime" : "2013-12-26 17:50:12",
+      "bothType" : true
     }, {
       "id" : 2222,
       "name" : "仙蝶穿越奇缘",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44220.jpg",
       "updateStatus" : 1,
       "capacity" : 1246388,
-      "lastUpdateTime" : "2013-12-26 17:46:08"
+      "lastUpdateTime" : "2013-12-26 17:46:08",
+      "bothType" : false
     }, {
       "id" : 2142,
       "name" : "修真界疯子",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18202.jpg",
       "updateStatus" : 1,
       "capacity" : 5660868,
-      "lastUpdateTime" : "2013-12-26 17:33:39"
+      "lastUpdateTime" : "2013-12-26 17:33:39",
+      "bothType" : false
     }, {
       "id" : 2182,
       "name" : "妖纵异世：逆天血煞女",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46920.jpg",
       "updateStatus" : 1,
       "capacity" : 3085563,
-      "lastUpdateTime" : "2013-12-26 17:24:01"
+      "lastUpdateTime" : "2013-12-26 17:24:01",
+      "bothType" : false
     }, {
       "id" : 2704,
       "name" : "幻世至秘",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47872.jpg",
       "updateStatus" : 1,
       "capacity" : 8439803,
-      "lastUpdateTime" : "2013-12-26 16:47:38"
+      "lastUpdateTime" : "2013-12-26 16:47:38",
+      "bothType" : true
     }, {
       "id" : 3222,
       "name" : "恶魔先生的猫小姐",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45755.jpg",
       "updateStatus" : 1,
       "capacity" : 82868,
-      "lastUpdateTime" : "2013-12-26 16:23:39"
+      "lastUpdateTime" : "2013-12-26 16:23:39",
+      "bothType" : true
     }, {
       "id" : 2064,
       "name" : "百变夫君猎顽妻",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16539.jpg",
       "updateStatus" : 2,
       "capacity" : 8318072,
-      "lastUpdateTime" : "2013-12-26 15:21:19"
+      "lastUpdateTime" : "2013-12-26 15:21:19",
+      "bothType" : false
     }, {
       "id" : 3246,
       "name" : "到白首",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20899.jpg",
       "updateStatus" : 1,
       "capacity" : 1506423,
-      "lastUpdateTime" : "2013-12-26 09:41:38"
+      "lastUpdateTime" : "2013-12-26 09:41:38",
+      "bothType" : true
     }, {
       "id" : 2739,
       "name" : "紫色涅槃",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47961.jpg",
       "updateStatus" : 1,
       "capacity" : 3716780,
-      "lastUpdateTime" : "2013-12-26 09:21:49"
+      "lastUpdateTime" : "2013-12-26 09:21:49",
+      "bothType" : true
     }, {
       "id" : 3132,
       "name" : "三界悲诳录",
@@ -92,7 +102,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 23899,
-      "lastUpdateTime" : "2013-12-26 08:59:27"
+      "lastUpdateTime" : "2013-12-26 08:59:27",
+      "bothType" : false
     }, {
       "id" : 2339,
       "name" : "盗成大神",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22818.jpg",
       "updateStatus" : 1,
       "capacity" : 9735537,
-      "lastUpdateTime" : "2013-12-26 08:41:33"
+      "lastUpdateTime" : "2013-12-26 08:41:33",
+      "bothType" : false
     }, {
       "id" : 2520,
       "name" : "网王天使的微笑",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_48032.jpg",
       "updateStatus" : 1,
       "capacity" : 3232902,
-      "lastUpdateTime" : "2013-12-26 08:36:40"
+      "lastUpdateTime" : "2013-12-26 08:36:40",
+      "bothType" : false
     }, {
       "id" : 3335,
       "name" : "埋葬在青春里的爱恋",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21589.jpg",
       "updateStatus" : 1,
       "capacity" : 736343,
-      "lastUpdateTime" : "2013-12-26 08:35:44"
+      "lastUpdateTime" : "2013-12-26 08:35:44",
+      "bothType" : true
     }, {
       "id" : 2990,
       "name" : "薄情先生：炸弹绝妃哪里逃",
@@ -124,7 +138,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 7389453,
-      "lastUpdateTime" : "2013-12-26 08:23:10"
+      "lastUpdateTime" : "2013-12-26 08:23:10",
+      "bothType" : false
     }, {
       "id" : 2657,
       "name" : "票定你",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47278.jpg",
       "updateStatus" : 1,
       "capacity" : 6622020,
-      "lastUpdateTime" : "2013-12-26 07:17:18"
+      "lastUpdateTime" : "2013-12-26 07:17:18",
+      "bothType" : false
     }, {
       "id" : 2112,
       "name" : "温暖如春",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18297.jpg",
       "updateStatus" : 1,
       "capacity" : 5555779,
-      "lastUpdateTime" : "2013-12-26 07:12:32"
+      "lastUpdateTime" : "2013-12-26 07:12:32",
+      "bothType" : false
     }, {
       "id" : 2568,
       "name" : "爱情转变剂",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44012.jpg",
       "updateStatus" : 1,
       "capacity" : 5377988,
-      "lastUpdateTime" : "2013-12-26 06:59:33"
+      "lastUpdateTime" : "2013-12-26 06:59:33",
+      "bothType" : false
     }, {
       "id" : 3453,
       "name" : "菜鸟也不是好骗的",
@@ -156,7 +174,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 28406,
-      "lastUpdateTime" : "2013-12-26 06:48:58"
+      "lastUpdateTime" : "2013-12-26 06:48:58",
+      "bothType" : false
     }, {
       "id" : 2172,
       "name" : "重生之倾城杀手",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43517.jpg",
       "updateStatus" : 1,
       "capacity" : 9596466,
-      "lastUpdateTime" : "2013-12-26 06:11:46"
+      "lastUpdateTime" : "2013-12-26 06:11:46",
+      "bothType" : false
     } ]
   }
 }

@@ -12,7 +12,8 @@
       "summary" : "这是一本盗墓、灵异、探险的小说。（这本小说有一半的情节是真实的，根据事实稍微改动而成的，为了避免没必",
       "updateStatus" : 1,
       "capacity" : 4515163,
-      "readerCount" : 8526
+      "readerCount" : 8526,
+      "bothType" : true
     }, {
       "id" : 2455,
       "name" : "孤子",
@@ -20,7 +21,8 @@
       "summary" : "伦理剧的纠结，言情剧的俗套，整体不狗血处处狗血。这是一个关于青梅竹马的现代小清新，这是一个关于欢喜冤",
       "updateStatus" : 1,
       "capacity" : 4619046,
-      "readerCount" : 8251
+      "readerCount" : 8251,
+      "bothType" : false
     }, {
       "id" : 2471,
       "name" : "梦妖师",
@@ -28,7 +30,8 @@
       "summary" : "一个不会捉鬼却有极其好天赋的女子跟着阴阳师们鬼混的故事！——清明发文，不断更新，不会弃文，故事一个接",
       "updateStatus" : 2,
       "capacity" : 3937151,
-      "readerCount" : 6953
+      "readerCount" : 6953,
+      "bothType" : false
     }, {
       "id" : 2453,
       "name" : "死亡七部曲",
@@ -36,7 +39,8 @@
       "summary" : "七个不同的女孩，每一夜不同的惊魂故事，在追寻友谊，爱情的道路上，有过伤心，失落，有过伤害，血泪，最终",
       "updateStatus" : 1,
       "capacity" : 4811184,
-      "readerCount" : 6882
+      "readerCount" : 6882,
+      "bothType" : true
     }, {
       "id" : 2483,
       "name" : "雨露之瞳",
@@ -44,7 +48,8 @@
       "summary" : "知道什么是魔瞳吗？李雨露是一个长得普通气质文学都一般的初中的学生，刚进入中学。奋发图强，在期中考前，",
       "updateStatus" : 1,
       "capacity" : 1280277,
-      "readerCount" : 6244
+      "readerCount" : 6244,
+      "bothType" : false
     }, {
       "id" : 2477,
       "name" : "特刑队之绝密档案",
@@ -52,7 +57,8 @@
       "summary" : "本文原名《凶手非人类》墓穴中的尸体神秘消失，少女尸体脖子上有着奇怪的创口，就在办案能力极强的刑侦大队",
       "updateStatus" : 1,
       "capacity" : 9760578,
-      "readerCount" : 6165
+      "readerCount" : 6165,
+      "bothType" : false
     }, {
       "id" : 2472,
       "name" : "梦幻钟馗",
@@ -60,7 +66,8 @@
       "summary" : "一个情感失意中年，一个离奇的遭遇，却卷入一场仙魔之争，人间道，妖魔道，神仙道，且看平凡的人如何取舍，",
       "updateStatus" : 1,
       "capacity" : 3389546,
-      "readerCount" : 5349
+      "readerCount" : 5349,
+      "bothType" : false
     }, {
       "id" : 2478,
       "name" : "命运修补",
@@ -68,7 +75,8 @@
       "summary" : "于子庭是一个算命师兼驱魔师，是仁易堂的弟子，他好色爱钱爱占小便宜，在遇到珞禄草堂的弟子，有着一个狐狸",
       "updateStatus" : 2,
       "capacity" : 9270936,
-      "readerCount" : 4631
+      "readerCount" : 4631,
+      "bothType" : false
     }, {
       "id" : 2469,
       "name" : "盗墓诡迹",
@@ -76,7 +84,8 @@
       "summary" : "一个笔记本、一枚古币引来一段盗墓传奇。传说中的木匠机关之祖鲁班、消失的古蜀国、千年前夜郎自大的夜郎国",
       "updateStatus" : 1,
       "capacity" : 4392289,
-      "readerCount" : 4601
+      "readerCount" : 4601,
+      "bothType" : false
     }, {
       "id" : 2487,
       "name" : "冷月星空",
@@ -84,7 +93,8 @@
       "summary" : "夜风来袭，夹杂着一股浓烈的血腥味，空气中弥漫着些许哀怨忧伤，漆黑的夜里无数纠结的心释放着内心仇恨的火",
       "updateStatus" : 1,
       "capacity" : 5572952,
-      "readerCount" : 4341
+      "readerCount" : 4341,
+      "bothType" : false
     }, {
       "id" : 3073,
       "name" : "飞禽走兽除魔记",
@@ -92,7 +102,8 @@
       "summary" : "凤凰遇到了狐狸，在一起除魔，后来就“穿越”了？狐狸成睡美人了，等着他的凤凰公主唤醒他，凤凰在唤醒狐狸",
       "updateStatus" : 1,
       "capacity" : 376525,
-      "readerCount" : 4002
+      "readerCount" : 4002,
+      "bothType" : false
     }, {
       "id" : 2457,
       "name" : "一碗村",
@@ -100,7 +111,8 @@
       "summary" : "在内蒙古乌兰布和大沙漠中，有一个灰土土的村落叫《一碗村》，那是我童年的所在。村里发生了许多奇怪的故事",
       "updateStatus" : 1,
       "capacity" : 1547228,
-      "readerCount" : 3926
+      "readerCount" : 3926,
+      "bothType" : true
     }, {
       "id" : 2463,
       "name" : "兼职的侦探",
@@ -108,7 +120,8 @@
       "summary" : "有一种职业叫part-timejob。有一种侦探叫被迫当侦探。有一种网友叫永远不靠谱。所以，也就有了",
       "updateStatus" : 1,
       "capacity" : 4297805,
-      "readerCount" : 3833
+      "readerCount" : 3833,
+      "bothType" : false
     }, {
       "id" : 2760,
       "name" : "纳粹宝藏",
@@ -116,7 +129,8 @@
       "summary" : "神秘的纳粹宝藏竟在东方留下线索，无意中的发现会带来再怎样的一系列事件呢……",
       "updateStatus" : 1,
       "capacity" : 5435073,
-      "readerCount" : 3591
+      "readerCount" : 3591,
+      "bothType" : false
     }, {
       "id" : 2484,
       "name" : "让我杀了你，爱人",
@@ -124,7 +138,8 @@
       "summary" : "一场突如其来的特大交通事故，改变了两个人的世界！把原本不相识的两个人绑定在一根绳上，女人用他的魔性来",
       "updateStatus" : 1,
       "capacity" : 4809394,
-      "readerCount" : 2705
+      "readerCount" : 2705,
+      "bothType" : true
     }, {
       "id" : 3408,
       "name" : "综恐一梦一回",
@@ -132,7 +147,8 @@
       "summary" : "她，白乔乔原本只是现实世界一个普通的女汉子，因为什么任务而穿梭在各个世界里。第一个世界，她悲催的穿越",
       "updateStatus" : 1,
       "capacity" : 110142,
-      "readerCount" : 1641
+      "readerCount" : 1641,
+      "bothType" : true
     }, {
       "id" : 3484,
       "name" : "我本混蛋",
@@ -140,7 +156,8 @@
       "summary" : "2013年，现代，纸醉金迷灯红酒绿，物质至上情感须臾，无神论者越来越多，很多人撤去家里的观音菩萨换成",
       "updateStatus" : 1,
       "capacity" : 175579,
-      "readerCount" : 1418
+      "readerCount" : 1418,
+      "bothType" : true
     }, {
       "id" : 3323,
       "name" : "灵场王子",
@@ -148,7 +165,8 @@
       "summary" : "乱画之中，自有定数。",
       "updateStatus" : 1,
       "capacity" : 142075,
-      "readerCount" : 1256
+      "readerCount" : 1256,
+      "bothType" : false
     }, {
       "id" : 2470,
       "name" : "祸水",
@@ -156,7 +174,8 @@
       "summary" : "我目睹了她一点点发疯的全过程。从希望，到挚爱，到绝望，到最后陷入疯狂。她是霍水，然而却变成了“祸水”",
       "updateStatus" : 2,
       "capacity" : 2055125,
-      "readerCount" : 903
+      "readerCount" : 903,
+      "bothType" : false
     }, {
       "id" : 2468,
       "name" : "天堂巴士444",
@@ -164,7 +183,8 @@
       "summary" : "百岁之期，她终于能光明正大的离开天堂，却不料进入了三界之中最为黑暗的市场。多年之后，她又一次洞悉他的",
       "updateStatus" : 1,
       "capacity" : 3403844,
-      "readerCount" : 854
+      "readerCount" : 854,
+      "bothType" : false
     } ]
   }
 }

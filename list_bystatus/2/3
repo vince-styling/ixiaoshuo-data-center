@@ -12,7 +12,8 @@
       "summary" : "这个女人，真是该死的欠扁！怎么可以在爬上他的床之后逃跑呢？他又不是鬼！！！真是的！见面了就提醒他，她",
       "updateStatus" : 2,
       "capacity" : 4356399,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2248,
       "name" : "倾城引",
@@ -20,7 +21,8 @@
       "summary" : "北方有佳人，一顾倾人城，再顾倾人国。宁不知倾城与倾国，佳人难再得！莫凉湖畔，她醉酒酣睡，却在他怀中低",
       "updateStatus" : 2,
       "capacity" : 5421609,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2060,
       "name" : "和亲九公主：霸爱拽夫君",
@@ -28,7 +30,8 @@
       "summary" : "她，一个爹不亲娘不要的九公主，无权无势无颜面，活得比谁都长命是她的愿望，向来人不犯我我不犯人，人若犯",
       "updateStatus" : 2,
       "capacity" : 6429154,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2366,
       "name" : "梦中的结局",
@@ -36,7 +39,8 @@
       "summary" : "一场梦，使得一个男孩儿的一生彻底的改变。一场梦，使得四个人的人生彻底的出轨。一场梦，使得三个家庭彻底",
       "updateStatus" : 2,
       "capacity" : 7641347,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : true
     }, {
       "id" : 2069,
       "name" : "庶女二嫁：暴君，来暖床",
@@ -44,7 +48,8 @@
       "summary" : "一场暗杀，她出卖灵魂，苟活于世。五分宠，五分虐；她的主子助她登顶，给她权势，纵她复仇；却……强了她的",
       "updateStatus" : 2,
       "capacity" : 8890187,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2968,
       "name" : "重生之待到记忆镂空时",
@@ -52,7 +57,8 @@
       "summary" : "有些事情是你无从想象后也无从考究的。这是蓝析萌对于自己穿越至佣都国的将军府里后，再次发出的感叹。本不",
       "updateStatus" : 2,
       "capacity" : 4926796,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2909,
       "name" : "十六岁的青春期",
@@ -60,7 +66,8 @@
       "summary" : "我叫萧泊轩，在十八中上学，因为某种原因，从小学就被人欺负，本以为到初中会有些好转，但是老天不放过我，",
       "updateStatus" : 2,
       "capacity" : 5366751,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2115,
       "name" : "宫心计：弃后霸君宠",
@@ -68,7 +75,8 @@
       "summary" : "“她，是大莹王朝未来的皇后。”太后一句懿旨，让她从一个不受宠的郡主一跃变成母仪天下的国母。权宠之争，",
       "updateStatus" : 2,
       "capacity" : 3994478,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2197,
       "name" : "血色蔓延之守护者",
@@ -76,7 +84,8 @@
       "summary" : "“我用17年的默默守护，是否能换来与你的最终相守？”烈千翊用小心翼翼的目光看着她。“可是，你是我的哥",
       "updateStatus" : 2,
       "capacity" : 2805860,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2135,
       "name" : "阵惊天下",
@@ -84,7 +93,8 @@
       "summary" : "本书让你见识修仙界最强大的职业－阵修，他能瞬间成阵，以一敌众；他喜欢创造，玩转小小法术，他喜欢直接，",
       "updateStatus" : 2,
       "capacity" : 7486077,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 2162,
       "name" : "琴之飞絮",
@@ -92,7 +102,8 @@
       "summary" : "穿越成婴儿，从小见不到母亲，更得不到父亲的疼爱。没关系，她有疼爱她照顾她的嬷嬷和婢女姐姐。离开禁锢她",
       "updateStatus" : 2,
       "capacity" : 5529073,
-      "catName" : "仙侠修真"
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2324,
       "name" : "一代平妃",
@@ -100,7 +111,8 @@
       "summary" : "她流落异世却安之若素，她就如玉一般恒温，不漏锋芒，冷眼看尽繁华，行事镇定从容。她爱了便义无反顾，人生",
       "updateStatus" : 2,
       "capacity" : 2030350,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2415,
       "name" : "学生起义军",
@@ -108,7 +120,8 @@
       "summary" : "“众位，我们此刻站在这里是为了什么，不是为了报仇，是为了反抗，反抗一直以来压迫我们的学校，一直以来惨",
       "updateStatus" : 2,
       "capacity" : 5669732,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2071,
       "name" : "月落紫禁",
@@ -116,7 +129,8 @@
       "summary" : "一场泥石流，使她魂归三百年前，于三百年前的紫禁城来说，她只是一个过客，看似拥有一切的她，却始终挣扎在",
       "updateStatus" : 2,
       "capacity" : 2251707,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2318,
       "name" : "特工穿越之时空轮回",
@@ -124,7 +138,8 @@
       "summary" : "她，继承父亲的衣钵，为寻求父亲失踪的原因，掉入了父亲研究的时空里。他，幼年登位，首辅太后辅政，冷眼旁",
       "updateStatus" : 2,
       "capacity" : 5587369,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2301,
       "name" : "卿愿与君长相守",
@@ -132,7 +147,8 @@
       "summary" : "谁会想到游泳竟能穿越，谁会想到她的不争不抢竟被理解成欲拒还迎。她胸无大志，入宫只为三餐温饱。他心狠孤",
       "updateStatus" : 2,
       "capacity" : 7811688,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 2062,
       "name" : "绣女王妃：盗爱酷王爷",
@@ -140,7 +156,8 @@
       "summary" : "一碗堕胎药，他从她眼里看到的是绝然，那抹最后的幽怨，震碎了他的心。眼见一道青色身影，满眸含笑消失在他",
       "updateStatus" : 2,
       "capacity" : 9540878,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2389,
       "name" : "我家有个怪蜀黍",
@@ -148,7 +165,8 @@
       "summary" : "我家有个怪蜀黍，萌萌逆天小人妻简介初次见面他被她吸引，他带她去开了房。关键时，她笑了，“大叔，我对老",
       "updateStatus" : 2,
       "capacity" : 3038789,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2041,
       "name" : "卿本佳人",
@@ -156,7 +174,8 @@
       "summary" : "本文女主沈曼卿，超级女学霸，学生会主席、辩论协会会长、爱心协会会长、教务处学生秘书、文明标兵、全国优",
       "updateStatus" : 2,
       "capacity" : 3794805,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2187,
       "name" : "来自天猫星",
@@ -164,7 +183,8 @@
       "summary" : "宇宙是神秘而奇妙的，在那深远的宇宙之中到底隐藏着什么？我是为何而诞生？一直一直独自一个人，在黑暗中徘",
       "updateStatus" : 2,
       "capacity" : 7594820,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     } ]
   }
 }

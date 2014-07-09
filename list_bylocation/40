@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3443,
-      "name" : "许你长安",
+      "id" : 2535,
+      "name" : "素锦流年祭",
       "updateStatus" : 1,
-      "distance" : 7341,
-      "memberId" : 4809
+      "distance" : 1972,
+      "memberId" : 6077,
+      "bothType" : false
     }, {
-      "id" : 3007,
-      "name" : "醉逍遥",
+      "id" : 2956,
+      "name" : "温柔女友大姐大",
       "updateStatus" : 1,
-      "distance" : 7746,
-      "memberId" : 3796
+      "distance" : 2677,
+      "memberId" : 6243,
+      "bothType" : false
     }, {
-      "id" : 3118,
-      "name" : "第二频道之穿越模式",
-      "updateStatus" : 2,
-      "distance" : 7904,
-      "memberId" : 7136
-    }, {
-      "id" : 2400,
-      "name" : "吸血鬼殿下的温柔阳光",
+      "id" : 2323,
+      "name" : "旖梦泪",
       "updateStatus" : 1,
-      "distance" : 2422,
-      "memberId" : 7319
+      "distance" : 8938,
+      "memberId" : 2589,
+      "bothType" : false
     }, {
-      "id" : 3632,
-      "name" : "幽谷之殇",
+      "id" : 2864,
+      "name" : "天幕吟之雪荒初史",
       "updateStatus" : 1,
-      "distance" : 4597,
-      "memberId" : 4457
+      "distance" : 7804,
+      "memberId" : 2815,
+      "bothType" : false
     }, {
-      "id" : 2067,
-      "name" : "昔人惜人",
-      "updateStatus" : 2,
-      "distance" : 9683,
-      "memberId" : 3550
-    }, {
-      "id" : 3230,
-      "name" : "霹雳戢武王妹控玉仔酱油记",
+      "id" : 3096,
+      "name" : "绝不放手",
       "updateStatus" : 1,
-      "distance" : 4058,
-      "memberId" : 3948
+      "distance" : 1523,
+      "memberId" : 6723,
+      "bothType" : false
     }, {
-      "id" : 2453,
-      "name" : "死亡七部曲",
+      "id" : 3295,
+      "name" : "南追",
       "updateStatus" : 1,
-      "distance" : 2434,
-      "memberId" : 8457
+      "distance" : 8457,
+      "memberId" : 4770,
+      "bothType" : false
     }, {
-      "id" : 3342,
-      "name" : "我视你如毛线",
+      "id" : 3734,
+      "name" : "哈喽，我的间谍机器人王子",
       "updateStatus" : 1,
-      "distance" : 5149,
-      "memberId" : 6881
+      "distance" : 5582,
+      "memberId" : 1263,
+      "bothType" : false
     }, {
-      "id" : 3619,
-      "name" : "结婚规则：一生就要你一人",
+      "id" : 3231,
+      "name" : "全息穿越之武林外史",
       "updateStatus" : 1,
-      "distance" : 2786,
-      "memberId" : 8831
+      "distance" : 3681,
+      "memberId" : 7863,
+      "bothType" : false
     }, {
-      "id" : 2240,
-      "name" : "一亿一剑一情绝",
+      "id" : 2375,
+      "name" : "杀手穿越成煮夫",
       "updateStatus" : 1,
-      "distance" : 1201,
-      "memberId" : 8042
+      "distance" : 3446,
+      "memberId" : 3146,
+      "bothType" : true
     }, {
-      "id" : 3296,
-      "name" : "斜阳晚照",
+      "id" : 2221,
+      "name" : "七星北斗PLOUGH",
       "updateStatus" : 1,
-      "distance" : 8858,
-      "memberId" : 3781
+      "distance" : 7311,
+      "memberId" : 1006,
+      "bothType" : true
     }, {
-      "id" : 3020,
-      "name" : "五行武侠",
+      "id" : 3621,
+      "name" : "竹歪桃花三两枝",
       "updateStatus" : 1,
-      "distance" : 3836,
-      "memberId" : 8867
+      "distance" : 8020,
+      "memberId" : 5471,
+      "bothType" : false
     }, {
-      "id" : 2259,
-      "name" : "一树梨花散，散，散",
-      "updateStatus" : 2,
-      "distance" : 3721,
-      "memberId" : 1485
-    }, {
-      "id" : 3635,
-      "name" : "恍然入仙",
+      "id" : 2112,
+      "name" : "温暖如春",
       "updateStatus" : 1,
-      "distance" : 2085,
-      "memberId" : 8050
+      "distance" : 8414,
+      "memberId" : 7719,
+      "bothType" : true
     }, {
-      "id" : 3218,
-      "name" : "爱之梦",
+      "id" : 3596,
+      "name" : "不要在一起",
       "updateStatus" : 1,
-      "distance" : 2295,
-      "memberId" : 2304
+      "distance" : 2901,
+      "memberId" : 1799,
+      "bothType" : false
     }, {
-      "id" : 3536,
-      "name" : "网王同人浅色的夏季",
+      "id" : 3431,
+      "name" : "修真女配混末世",
       "updateStatus" : 1,
-      "distance" : 4398,
-      "memberId" : 8625
+      "distance" : 3162,
+      "memberId" : 2779,
+      "bothType" : false
     }, {
-      "id" : 2658,
-      "name" : "天佑嘉璟",
+      "id" : 3208,
+      "name" : "冥铭之国",
       "updateStatus" : 1,
-      "distance" : 8973,
-      "memberId" : 4732
+      "distance" : 5255,
+      "memberId" : 3988,
+      "bothType" : false
     }, {
-      "id" : 3062,
-      "name" : "两年后的爱情",
+      "id" : 3472,
+      "name" : "遇君劫，弃别离",
       "updateStatus" : 1,
-      "distance" : 8554,
-      "memberId" : 2021
+      "distance" : 3438,
+      "memberId" : 4968,
+      "bothType" : false
     }, {
-      "id" : 2127,
-      "name" : "沐沐雪深",
+      "id" : 2258,
+      "name" : "爆笑冤家：你的地盘我做主",
       "updateStatus" : 1,
-      "distance" : 8486,
-      "memberId" : 6281
+      "distance" : 4309,
+      "memberId" : 2237,
+      "bothType" : false
+    }, {
+      "id" : 2588,
+      "name" : "美人有毒",
+      "updateStatus" : 1,
+      "distance" : 3207,
+      "memberId" : 1436,
+      "bothType" : false
+    }, {
+      "id" : 2048,
+      "name" : "嗜血毒妃虐红尘",
+      "updateStatus" : 1,
+      "distance" : 5509,
+      "memberId" : 1712,
+      "bothType" : true
+    }, {
+      "id" : 2228,
+      "name" : "暗夜咒：千年之爱",
+      "updateStatus" : 1,
+      "distance" : 4791,
+      "memberId" : 1983,
+      "bothType" : false
     } ]
   }
 }

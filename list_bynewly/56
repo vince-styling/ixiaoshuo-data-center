@@ -12,7 +12,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 7449276,
-      "lastUpdateTime" : "2013-12-03 15:20:07"
+      "lastUpdateTime" : "2013-12-03 15:20:07",
+      "bothType" : false
     }, {
       "id" : 2957,
       "name" : "让时间说真话",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47578.jpg",
       "updateStatus" : 1,
       "capacity" : 9674066,
-      "lastUpdateTime" : "2013-12-03 14:58:26"
+      "lastUpdateTime" : "2013-12-03 14:58:26",
+      "bothType" : true
     }, {
       "id" : 3317,
       "name" : "花季里那个靠窗的女孩",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16503.jpg",
       "updateStatus" : 1,
       "capacity" : 244518,
-      "lastUpdateTime" : "2013-12-03 10:23:07"
+      "lastUpdateTime" : "2013-12-03 10:23:07",
+      "bothType" : false
     }, {
       "id" : 2465,
       "name" : "双魂神探",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47780.jpg",
       "updateStatus" : 1,
       "capacity" : 9044119,
-      "lastUpdateTime" : "2013-12-03 10:17:34"
+      "lastUpdateTime" : "2013-12-03 10:17:34",
+      "bothType" : false
     }, {
       "id" : 2506,
       "name" : "再见，青春",
@@ -44,7 +48,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22502.jpg",
       "updateStatus" : 1,
       "capacity" : 7335838,
-      "lastUpdateTime" : "2013-12-03 08:38:13"
+      "lastUpdateTime" : "2013-12-03 08:38:13",
+      "bothType" : true
     }, {
       "id" : 2750,
       "name" : "仇爱",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46134.jpg",
       "updateStatus" : 1,
       "capacity" : 7836390,
-      "lastUpdateTime" : "2013-12-03 07:56:06"
+      "lastUpdateTime" : "2013-12-03 07:56:06",
+      "bothType" : false
     }, {
       "id" : 2271,
       "name" : "沙僧西行记略",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22299.jpg",
       "updateStatus" : 1,
       "capacity" : 4568322,
-      "lastUpdateTime" : "2013-12-03 07:55:13"
+      "lastUpdateTime" : "2013-12-03 07:55:13",
+      "bothType" : false
     }, {
       "id" : 2068,
       "name" : "红妆无忧",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19281.jpg",
       "updateStatus" : 1,
       "capacity" : 7282003,
-      "lastUpdateTime" : "2013-12-03 07:24:19"
+      "lastUpdateTime" : "2013-12-03 07:24:19",
+      "bothType" : true
     }, {
       "id" : 2466,
       "name" : "寻魂记之称霸地狱",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46115.jpg",
       "updateStatus" : 1,
       "capacity" : 2668491,
-      "lastUpdateTime" : "2013-12-03 07:08:18"
+      "lastUpdateTime" : "2013-12-03 07:08:18",
+      "bothType" : false
     }, {
       "id" : 2080,
       "name" : "宫偷十二钗：步步惊魂",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47184.jpg",
       "updateStatus" : 1,
       "capacity" : 7578951,
-      "lastUpdateTime" : "2013-12-03 06:57:10"
+      "lastUpdateTime" : "2013-12-03 06:57:10",
+      "bothType" : false
     }, {
       "id" : 3128,
       "name" : "遇上你遇上爱：丫头，哪里逃",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44779.jpg",
       "updateStatus" : 1,
       "capacity" : 875037,
-      "lastUpdateTime" : "2013-12-03 06:44:24"
+      "lastUpdateTime" : "2013-12-03 06:44:24",
+      "bothType" : true
     }, {
       "id" : 2922,
       "name" : "用我一生：许你欢颜",
@@ -100,7 +111,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46665.jpg",
       "updateStatus" : 1,
       "capacity" : 7139955,
-      "lastUpdateTime" : "2013-12-03 06:33:01"
+      "lastUpdateTime" : "2013-12-03 06:33:01",
+      "bothType" : false
     }, {
       "id" : 2584,
       "name" : "再见，暴君总裁",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41775.jpg",
       "updateStatus" : 1,
       "capacity" : 8244913,
-      "lastUpdateTime" : "2013-12-03 06:25:52"
+      "lastUpdateTime" : "2013-12-03 06:25:52",
+      "bothType" : true
     }, {
       "id" : 3122,
       "name" : "跟踪狂",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47608.jpg",
       "updateStatus" : 1,
       "capacity" : 214829,
-      "lastUpdateTime" : "2013-12-03 06:08:59"
+      "lastUpdateTime" : "2013-12-03 06:08:59",
+      "bothType" : false
     }, {
       "id" : 2762,
       "name" : "笛吟，离殇 ",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47438.jpg",
       "updateStatus" : 1,
       "capacity" : 9528924,
-      "lastUpdateTime" : "2013-12-03 05:31:54"
+      "lastUpdateTime" : "2013-12-03 05:31:54",
+      "bothType" : false
     }, {
       "id" : 3069,
       "name" : "假想敌",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43442.jpg",
       "updateStatus" : 1,
       "capacity" : 398351,
-      "lastUpdateTime" : "2013-12-03 04:58:28"
+      "lastUpdateTime" : "2013-12-03 04:58:28",
+      "bothType" : false
     }, {
       "id" : 3570,
       "name" : "挚爱傻夫君",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43982.jpg",
       "updateStatus" : 1,
       "capacity" : 983137,
-      "lastUpdateTime" : "2013-12-03 04:16:46"
+      "lastUpdateTime" : "2013-12-03 04:16:46",
+      "bothType" : false
     }, {
       "id" : 2310,
       "name" : "小石劫",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45517.jpg",
       "updateStatus" : 1,
       "capacity" : 3902011,
-      "lastUpdateTime" : "2013-12-03 04:05:45"
+      "lastUpdateTime" : "2013-12-03 04:05:45",
+      "bothType" : true
     }, {
       "id" : 2442,
       "name" : "峰回路转只见君",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47867.jpg",
       "updateStatus" : 1,
       "capacity" : 5107958,
-      "lastUpdateTime" : "2013-12-03 04:01:59"
+      "lastUpdateTime" : "2013-12-03 04:01:59",
+      "bothType" : false
     }, {
       "id" : 2040,
       "name" : "误闯总裁领地，哪里逃！",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17825.jpg",
       "updateStatus" : 1,
       "capacity" : 2926783,
-      "lastUpdateTime" : "2013-12-03 03:40:01"
+      "lastUpdateTime" : "2013-12-03 03:40:01",
+      "bothType" : false
     } ]
   }
 }

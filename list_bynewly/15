@@ -12,7 +12,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41342.jpg",
       "updateStatus" : 1,
       "capacity" : 376525,
-      "lastUpdateTime" : "2013-12-23 04:52:28"
+      "lastUpdateTime" : "2013-12-23 04:52:28",
+      "bothType" : false
     }, {
       "id" : 3483,
       "name" : "君子谋：锦绣山河",
@@ -20,7 +21,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47233.jpg",
       "updateStatus" : 1,
       "capacity" : 147910,
-      "lastUpdateTime" : "2013-12-23 04:11:08"
+      "lastUpdateTime" : "2013-12-23 04:11:08",
+      "bothType" : false
     }, {
       "id" : 3616,
       "name" : "重生商女之总裁请自重",
@@ -28,7 +30,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21944.jpg",
       "updateStatus" : 1,
       "capacity" : 13094,
-      "lastUpdateTime" : "2013-12-23 03:47:22"
+      "lastUpdateTime" : "2013-12-23 03:47:22",
+      "bothType" : false
     }, {
       "id" : 2714,
       "name" : "奈何情深深几许",
@@ -36,7 +39,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47026.jpg",
       "updateStatus" : 1,
       "capacity" : 5949142,
-      "lastUpdateTime" : "2013-12-23 03:47:20"
+      "lastUpdateTime" : "2013-12-23 03:47:20",
+      "bothType" : true
     }, {
       "id" : 3173,
       "name" : "超级高中生",
@@ -44,7 +48,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 276569,
-      "lastUpdateTime" : "2013-12-23 02:34:07"
+      "lastUpdateTime" : "2013-12-23 02:34:07",
+      "bothType" : false
     }, {
       "id" : 3078,
       "name" : "苍梧之涅槃凤后",
@@ -52,7 +57,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45826.jpg",
       "updateStatus" : 1,
       "capacity" : 966406,
-      "lastUpdateTime" : "2013-12-23 01:51:20"
+      "lastUpdateTime" : "2013-12-23 01:51:20",
+      "bothType" : false
     }, {
       "id" : 2807,
       "name" : "忍住不说我爱你",
@@ -60,7 +66,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44458.jpg",
       "updateStatus" : 1,
       "capacity" : 7000462,
-      "lastUpdateTime" : "2013-12-23 01:41:59"
+      "lastUpdateTime" : "2013-12-23 01:41:59",
+      "bothType" : false
     }, {
       "id" : 2145,
       "name" : "江湖乱：白首不负待君归",
@@ -68,7 +75,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14215.jpg",
       "updateStatus" : 1,
       "capacity" : 3482719,
-      "lastUpdateTime" : "2013-12-23 01:15:47"
+      "lastUpdateTime" : "2013-12-23 01:15:47",
+      "bothType" : true
     }, {
       "id" : 2242,
       "name" : "断刃天涯",
@@ -76,7 +84,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47494.jpg",
       "updateStatus" : 1,
       "capacity" : 7099460,
-      "lastUpdateTime" : "2013-12-23 00:22:59"
+      "lastUpdateTime" : "2013-12-23 00:22:59",
+      "bothType" : true
     }, {
       "id" : 3094,
       "name" : "云端",
@@ -84,7 +93,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41879.jpg",
       "updateStatus" : 1,
       "capacity" : 548174,
-      "lastUpdateTime" : "2013-12-23 00:13:42"
+      "lastUpdateTime" : "2013-12-23 00:13:42",
+      "bothType" : false
     }, {
       "id" : 2989,
       "name" : "恶魔与天使之吻",
@@ -92,7 +102,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47756.jpg",
       "updateStatus" : 1,
       "capacity" : 6801950,
-      "lastUpdateTime" : "2013-12-22 23:53:08"
+      "lastUpdateTime" : "2013-12-22 23:53:08",
+      "bothType" : true
     }, {
       "id" : 3042,
       "name" : "翼之痛，枫之殇",
@@ -100,7 +111,8 @@
       "coverUrl" : "",
       "updateStatus" : 1,
       "capacity" : 1242426,
-      "lastUpdateTime" : "2013-12-22 23:49:48"
+      "lastUpdateTime" : "2013-12-22 23:49:48",
+      "bothType" : false
     }, {
       "id" : 3171,
       "name" : "豪门冷少：撞上复仇女王",
@@ -108,7 +120,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16755.jpg",
       "updateStatus" : 1,
       "capacity" : 301830,
-      "lastUpdateTime" : "2013-12-22 23:37:35"
+      "lastUpdateTime" : "2013-12-22 23:37:35",
+      "bothType" : false
     }, {
       "id" : 3716,
       "name" : "芊妃驾到：得罪不得",
@@ -116,7 +129,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42426.jpg",
       "updateStatus" : 1,
       "capacity" : 1932715,
-      "lastUpdateTime" : "2013-12-22 23:24:57"
+      "lastUpdateTime" : "2013-12-22 23:24:57",
+      "bothType" : true
     }, {
       "id" : 2670,
       "name" : "何以诉离殇",
@@ -124,7 +138,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47654.jpg",
       "updateStatus" : 1,
       "capacity" : 8493982,
-      "lastUpdateTime" : "2013-12-22 23:21:49"
+      "lastUpdateTime" : "2013-12-22 23:21:49",
+      "bothType" : false
     }, {
       "id" : 3245,
       "name" : "双凤夺体：娇蛮宠姬不好惹",
@@ -132,7 +147,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20882.jpg",
       "updateStatus" : 1,
       "capacity" : 687160,
-      "lastUpdateTime" : "2013-12-22 22:08:47"
+      "lastUpdateTime" : "2013-12-22 22:08:47",
+      "bothType" : true
     }, {
       "id" : 2235,
       "name" : "空忆落花。",
@@ -140,7 +156,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45322.jpg",
       "updateStatus" : 1,
       "capacity" : 9341868,
-      "lastUpdateTime" : "2013-12-22 21:07:35"
+      "lastUpdateTime" : "2013-12-22 21:07:35",
+      "bothType" : false
     }, {
       "id" : 3591,
       "name" : "小羊别闹，来吃草",
@@ -148,7 +165,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45569.jpg",
       "updateStatus" : 2,
       "capacity" : 349256,
-      "lastUpdateTime" : "2013-12-22 21:03:08"
+      "lastUpdateTime" : "2013-12-22 21:03:08",
+      "bothType" : false
     }, {
       "id" : 2354,
       "name" : "我能买下你",
@@ -156,7 +174,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42498.jpg",
       "updateStatus" : 1,
       "capacity" : 7858408,
-      "lastUpdateTime" : "2013-12-22 20:38:49"
+      "lastUpdateTime" : "2013-12-22 20:38:49",
+      "bothType" : false
     }, {
       "id" : 3408,
       "name" : "综恐一梦一回",
@@ -164,7 +183,8 @@
       "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45129.jpg",
       "updateStatus" : 1,
       "capacity" : 110142,
-      "lastUpdateTime" : "2013-12-22 20:33:47"
+      "lastUpdateTime" : "2013-12-22 20:33:47",
+      "bothType" : false
     } ]
   }
 }

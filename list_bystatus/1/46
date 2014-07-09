@@ -12,7 +12,8 @@
       "summary" : "她是拉斯维加斯永不衰败的王者，她是“医学界”令人闻之丧胆的修罗，她是普通学校的一名普通学生，她是大街",
       "updateStatus" : 1,
       "capacity" : 334920,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3366,
       "name" : "绝色江湖",
@@ -20,7 +21,8 @@
       "summary" : "“诶，你听说了吗？”“怎么？”“出大事啦！”“大事？”若有一日，最乖巧的希嫆九公主离宫逃婚去了。若有",
       "updateStatus" : 1,
       "capacity" : 376401,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3355,
       "name" : "野蛮小宫女",
@@ -28,7 +30,8 @@
       "summary" : "贝紫放孔明灯的胡乱愿望竟然会实现，神啊，我的妈呀，我以后可不敢在乱写了，写个穿越古代吧，还真穿越了&",
       "updateStatus" : 1,
       "capacity" : 569665,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2584,
       "name" : "再见，暴君总裁",
@@ -36,7 +39,8 @@
       "summary" : "记住！你可以腹黑，可以霸道，可以暴君，但是姐可以转身，爱谁谁！这是正常女子的反应。可有的女子温柔得如",
       "updateStatus" : 1,
       "capacity" : 8244913,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2209,
       "name" : "高贵的囚徒",
@@ -44,7 +48,8 @@
       "summary" : "王城的二皇子风羽一直不被人看好，被看好的是他骁勇善战的哥哥风轨，他对王位也没什么感觉，过着夜夜笙歌的",
       "updateStatus" : 1,
       "capacity" : 7286728,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3405,
       "name" : "明月何处",
@@ -52,7 +57,8 @@
       "summary" : "从大宋到北汉再到辽国，尽管经历的很多事情，明月贪玩的心仍没有改变。不如德芳他们，经历一生，都不为情所",
       "updateStatus" : 1,
       "capacity" : 843632,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2238,
       "name" : "白发皇后：本宫不倾城",
@@ -60,7 +66,8 @@
       "summary" : "【女强文】他是人人鄙夷的草包王爷，长相不出众更是个弱不禁风的药篓子还生性风流，流连烟花之地她是人人鄙",
       "updateStatus" : 1,
       "capacity" : 6364382,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3204,
       "name" : "侍郎娘子",
@@ -68,7 +75,8 @@
       "summary" : "她不过是颍川严氏的平民之女，为了探寻哥哥被贬的原因，男扮女装，参加科举，在朝堂上做了侍郎。天生对人面",
       "updateStatus" : 1,
       "capacity" : 601868,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3416,
       "name" : "此生吾爱",
@@ -76,7 +84,8 @@
       "summary" : "为什么我就不能有一个爱我的人，我从此以后决不信命，我命由我不由天。现代人穿越到一个不知名的地方，遇到",
       "updateStatus" : 1,
       "capacity" : 560722,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : true
     }, {
       "id" : 3258,
       "name" : "光阴错，流年破",
@@ -84,7 +93,8 @@
       "summary" : "“我以为我只是喜欢你，可是后来我才发现，其实我是一直爱着你。”“谢谢你曾经爱过我，可是我们都回不去了",
       "updateStatus" : 1,
       "capacity" : 875580,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2484,
       "name" : "让我杀了你，爱人",
@@ -92,7 +102,8 @@
       "summary" : "一场突如其来的特大交通事故，改变了两个人的世界！把原本不相识的两个人绑定在一根绳上，女人用他的魔性来",
       "updateStatus" : 1,
       "capacity" : 4809394,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2553,
       "name" : "想顾无言",
@@ -100,7 +111,8 @@
       "summary" : "以前雷阡以为，何以琛赵默笙的故事就只能出现在小说里，那种七年不忘的爱情，是每个食人间烟火的人都很难做",
       "updateStatus" : 1,
       "capacity" : 4594764,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2904,
       "name" : "致青春，伊人有毒",
@@ -108,7 +120,8 @@
       "summary" : "“我们，我们分手吧”。安向葵说，眉头拧成了一团，这是她想了一宿的答案。“安安，你在说什么，小妞，别开",
       "updateStatus" : 1,
       "capacity" : 1220490,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3638,
       "name" : "青梅与竹马",
@@ -116,7 +129,8 @@
       "summary" : "郎骑竹马来，绕床弄青梅。她说：南沐席，只要你一句话，我便不理会亡国之仇，与你生死与共。他说：熙儿，此",
       "updateStatus" : 1,
       "capacity" : 317394,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3736,
       "name" : "狂",
@@ -124,7 +138,8 @@
       "summary" : "她只有5岁，但她灵兽众多，身边也是美男如云。",
       "updateStatus" : 1,
       "capacity" : 698671,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 2446,
       "name" : "安否，掠掳之来去的幸福",
@@ -132,7 +147,8 @@
       "summary" : "一个美貌双全的名牌大学生，正在满怀醋意地拿着杯子，手中的白色粉末在她手中停顿-----。她想起了，另",
       "updateStatus" : 1,
       "capacity" : 7648786,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3149,
       "name" : "风仪万千",
@@ -140,7 +156,8 @@
       "summary" : "风仪霜，穿越到梵天大陆的异世之魂。四岁惨遭灭门，以颠覆苍茫为己任。清冷孤绝，冷睨世情。极端压抑，犀利",
       "updateStatus" : 1,
       "capacity" : 573504,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 3372,
       "name" : "未成曲调先有情",
@@ -148,7 +165,8 @@
       "summary" : "小时候还说要当哥哥保护我的，长大了就更加学会虐人了，居然让我当仆人？？？哼，凭什么啊，为什么我要听你",
       "updateStatus" : 1,
       "capacity" : 294044,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3699,
       "name" : "莫问我是谁",
@@ -156,7 +174,8 @@
       "summary" : "从2001年穿越剧的鼻祖《寻秦记》，到现在TVB又推出《情逆三世缘》，看来穿越在很多心中是一个梦。那",
       "updateStatus" : 1,
       "capacity" : 208965,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 2654,
       "name" : "异能女王改写天书",
@@ -164,7 +183,8 @@
       "summary" : "她，上一世被未婚夫和后母害死，命运却和她开了一个大玩笑，玩重生？回到十五岁时，还多了一种能力？绝世美",
       "updateStatus" : 1,
       "capacity" : 4870733,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     } ]
   }
 }

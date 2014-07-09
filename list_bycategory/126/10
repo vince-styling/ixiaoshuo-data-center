@@ -12,7 +12,8 @@
       "summary" : "文艺版简介：一只梦貘和一个男人的爱情故事，情不知所起一往而深，佳期如梦，梦中百转千回。实话版简介：吃",
       "updateStatus" : 1,
       "capacity" : 11444,
-      "readerCount" : 183
+      "readerCount" : 183,
+      "bothType" : false
     }, {
       "id" : 3717,
       "name" : "异界纵横",
@@ -20,7 +21,8 @@
       "summary" : "二十一世纪的一个屌丝青年雷振宇，在一次山洞冒险中，穿越到了异世。本是胆小的他却穿越到一个弱肉强食异世",
       "updateStatus" : 1,
       "capacity" : 111352,
-      "readerCount" : 181
+      "readerCount" : 181,
+      "bothType" : false
     }, {
       "id" : 3451,
       "name" : "屠花影",
@@ -28,7 +30,8 @@
       "summary" : "这是一个神奇的国度。举国上下无处不盛放着奇花异草。这里流传着各种花术。而每个人也都有着属于自己的本命",
       "updateStatus" : 1,
       "capacity" : 96682,
-      "readerCount" : 148
+      "readerCount" : 148,
+      "bothType" : true
     } ]
   }
 }

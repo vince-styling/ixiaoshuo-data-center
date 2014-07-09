@@ -12,7 +12,8 @@
       "summary" : "一个灵魂支撑着两个身体。白天与夜间的她来回互换。现实与梦中的爱人他总是分不清楚彼此。当命运终于让她做",
       "updateStatus" : 1,
       "capacity" : 2103349,
-      "readerCount" : 8359
+      "readerCount" : 8359,
+      "bothType" : false
     }, {
       "id" : 2714,
       "name" : "奈何情深深几许",
@@ -20,7 +21,8 @@
       "summary" : "奈何情深深几许不如恍然梦一场",
       "updateStatus" : 1,
       "capacity" : 5949142,
-      "readerCount" : 8347
+      "readerCount" : 8347,
+      "bothType" : false
     }, {
       "id" : 2978,
       "name" : "妃宠不可",
@@ -28,7 +30,8 @@
       "summary" : "这世间，她最心疼的两个男子，一个有着这世间最温暖的眉眼，造就了她肆无忌惮的童年；一个有着这世间最令人",
       "updateStatus" : 1,
       "capacity" : 2994821,
-      "readerCount" : 8252
+      "readerCount" : 8252,
+      "bothType" : false
     }, {
       "id" : 2778,
       "name" : "东山剑",
@@ -36,7 +39,8 @@
       "summary" : "嗣圣元年二月，即公元六百八十四年，武则天废中宗李显为庐陵王，立睿宗李旦为帝，改元光宅。凡大小一切政事",
       "updateStatus" : 1,
       "capacity" : 4929793,
-      "readerCount" : 8102
+      "readerCount" : 8102,
+      "bothType" : false
     }, {
       "id" : 3278,
       "name" : "珠帷怨",
@@ -44,7 +48,8 @@
       "summary" : "她出身名门，美貌绝伦。他深藏不露，觊觎帝位。天下不曾大乱，她的心已乱。皇天终不负，但他已变。相爱，妒",
       "updateStatus" : 1,
       "capacity" : 1683828,
-      "readerCount" : 8087
+      "readerCount" : 8087,
+      "bothType" : false
     }, {
       "id" : 2253,
       "name" : "凤凰斗：刁蛮皇后不从夫",
@@ -52,7 +57,8 @@
       "summary" : "他，是天穆睿智多情的帝王，少年登位，筹谋良久，终觅得心中所属，以为自此后便是良辰美景，鸳鸯织颈。哪知",
       "updateStatus" : 2,
       "capacity" : 7002640,
-      "readerCount" : 7967
+      "readerCount" : 7967,
+      "bothType" : false
     }, {
       "id" : 3417,
       "name" : "暮城雪",
@@ -60,7 +66,8 @@
       "summary" : "十年光影，短短不经挥霍，只觉得尚年轻，恍然间，思量却似半生已过。这一世，她换了名字，换了身份，只愿过",
       "updateStatus" : 1,
       "capacity" : 1547560,
-      "readerCount" : 7878
+      "readerCount" : 7878,
+      "bothType" : true
     }, {
       "id" : 3040,
       "name" : "颜郡主",
@@ -68,7 +75,8 @@
       "summary" : "沉淀的历史真相，大山中与狼群共生的民族，国破家亡却为何？三国鼎立，权利的背后是怎样的幕后黑手？一段不",
       "updateStatus" : 1,
       "capacity" : 9853604,
-      "readerCount" : 7703
+      "readerCount" : 7703,
+      "bothType" : true
     }, {
       "id" : 2286,
       "name" : "庄华尽",
@@ -76,7 +84,8 @@
       "summary" : "古之嵇康在动乱中尚且不能自保，留下一曲广陵散终成绝响，我乔昭然一届女子，只因家族得罪当今权贵，无奈入",
       "updateStatus" : 2,
       "capacity" : 2479589,
-      "readerCount" : 7457
+      "readerCount" : 7457,
+      "bothType" : true
     }, {
       "id" : 2283,
       "name" : "三部曲之相遇在大唐",
@@ -84,7 +93,8 @@
       "summary" : "此书献给清心宅女们。17岁花季的少女，在父母的相继离世下，得了严重的抑郁症，在她的生命里，本来还有着",
       "updateStatus" : 1,
       "capacity" : 1508496,
-      "readerCount" : 7321
+      "readerCount" : 7321,
+      "bothType" : false
     }, {
       "id" : 3032,
       "name" : "青颜蛊",
@@ -92,7 +102,8 @@
       "summary" : "十二位逸莞楼的头牌美人，各自人生曲折，诉不尽的世态炎凉。青楼女子又有何好归宿。不过镜中花，水中月……",
       "updateStatus" : 1,
       "capacity" : 9607989,
-      "readerCount" : 7310
+      "readerCount" : 7310,
+      "bothType" : true
     }, {
       "id" : 2268,
       "name" : "大卫王",
@@ -100,7 +111,8 @@
       "summary" : "他是以色列历史上最伟大的君王——从一个平凡的牧羊少年，逐步成长，建立了一代丰功霸业！作者用中国传统通",
       "updateStatus" : 1,
       "capacity" : 6828601,
-      "readerCount" : 7138
+      "readerCount" : 7138,
+      "bothType" : true
     }, {
       "id" : 2247,
       "name" : "帝女倾城：痴缠冷面琴王",
@@ -108,7 +120,8 @@
       "summary" : "起弦风雅曾为谁，琴风一度乱人心。——南国公主楚芩恋上了宫中的琴师，心心痴缠，最终成殇……这是个素淡的",
       "updateStatus" : 2,
       "capacity" : 2650376,
-      "readerCount" : 7037
+      "readerCount" : 7037,
+      "bothType" : false
     }, {
       "id" : 2296,
       "name" : "梦穿康熙换乾坤",
@@ -116,7 +129,8 @@
       "summary" : "梦穿康熙朝，勉力换乾坤！一个普通的当代公务员，混迹职场，感悟爱情，却横遭变数——一场大梦，醒来被穿越",
       "updateStatus" : 1,
       "capacity" : 4303360,
-      "readerCount" : 6860
+      "readerCount" : 6860,
+      "bothType" : false
     }, {
       "id" : 2280,
       "name" : "金玉奇缘：暴戾王爷的冷情妃",
@@ -124,7 +138,8 @@
       "summary" : "欧阳雪琪因屡次相亲失败，被父亲逼迫嫁给了自己讨厌的对象，在结婚当天遭炸雷袭击，穿越到了古代，原以为可",
       "updateStatus" : 1,
       "capacity" : 9370555,
-      "readerCount" : 6565
+      "readerCount" : 6565,
+      "bothType" : false
     }, {
       "id" : 2711,
       "name" : "卿本佳人：第一女状元",
@@ -132,7 +147,8 @@
       "summary" : "木婉清和父母在旅游的途中出了车祸，醒来之时发现自己已经成了将军的二小姐，而现在自己正要去见太子，因为",
       "updateStatus" : 1,
       "capacity" : 5966922,
-      "readerCount" : 6458
+      "readerCount" : 6458,
+      "bothType" : true
     }, {
       "id" : 2164,
       "name" : "碎玉满江湖",
@@ -140,7 +156,8 @@
       "summary" : "我望这苍穹，湛蓝如梦一如当时，和那人观赏时的样子天若有情天亦老，可我却等不到了我俯瞰这风景，孤坟飘雪",
       "updateStatus" : 1,
       "capacity" : 6184755,
-      "readerCount" : 6317
+      "readerCount" : 6317,
+      "bothType" : false
     }, {
       "id" : 2252,
       "name" : "弃妃之笑看人生一世风流",
@@ -148,7 +165,8 @@
       "summary" : "穿越成一个可有可无的王妃，所谓的夫君根本就忘了自己的存在，妙！于是每天化妆成丫鬟左逛逛，右逛逛，逛出",
       "updateStatus" : 2,
       "capacity" : 8664951,
-      "readerCount" : 6186
+      "readerCount" : 6186,
+      "bothType" : false
     }, {
       "id" : 2273,
       "name" : "丞相公子，哪里跑",
@@ -156,7 +174,8 @@
       "summary" : "土灵珠什么美男没见过，偏偏看上他国丞相公子。看上了也就算了，他还不领情。说什么女子麻烦，他的兄弟一个",
       "updateStatus" : 1,
       "capacity" : 1273508,
-      "readerCount" : 6076
+      "readerCount" : 6076,
+      "bothType" : false
     }, {
       "id" : 3444,
       "name" : "童星穿越记",
@@ -164,7 +183,8 @@
       "summary" : "作品原名是【童星穿越记：在古代也散发光芒】的可是字数太多，只好改成【童星穿越记】了希望大家喜欢“可是",
       "updateStatus" : 1,
       "capacity" : 1105898,
-      "readerCount" : 6036
+      "readerCount" : 6036,
+      "bothType" : false
     } ]
   }
 }

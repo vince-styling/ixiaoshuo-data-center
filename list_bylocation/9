@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3392,
-      "name" : "重生，投胎投错家",
+      "id" : 2436,
+      "name" : "爱不过匆匆一片点缀",
       "updateStatus" : 1,
-      "distance" : 5660,
-      "memberId" : 4887
+      "distance" : 6424,
+      "memberId" : 5452,
+      "bothType" : false
     }, {
-      "id" : 3125,
-      "name" : "竹马太凶残",
+      "id" : 2151,
+      "name" : "缘来是我们",
       "updateStatus" : 1,
-      "distance" : 3741,
-      "memberId" : 3608
+      "distance" : 9144,
+      "memberId" : 5429,
+      "bothType" : false
     }, {
-      "id" : 2979,
-      "name" : "未殇",
+      "id" : 2876,
+      "name" : "颠邪",
       "updateStatus" : 1,
-      "distance" : 4111,
-      "memberId" : 1719
+      "distance" : 5381,
+      "memberId" : 8241,
+      "bothType" : false
     }, {
-      "id" : 2258,
-      "name" : "爆笑冤家：你的地盘我做主",
+      "id" : 3654,
+      "name" : "红颜香粉",
       "updateStatus" : 1,
-      "distance" : 5325,
-      "memberId" : 6627
+      "distance" : 9361,
+      "memberId" : 6384,
+      "bothType" : true
     }, {
-      "id" : 3408,
-      "name" : "综恐一梦一回",
+      "id" : 3428,
+      "name" : "流年轻度鸳鸯浦",
       "updateStatus" : 1,
-      "distance" : 7228,
-      "memberId" : 8800
+      "distance" : 7802,
+      "memberId" : 8773,
+      "bothType" : false
     }, {
-      "id" : 3696,
-      "name" : "负心王爷，囚宠失身王妃",
+      "id" : 2970,
+      "name" : "《存在的烙印》",
       "updateStatus" : 1,
-      "distance" : 4081,
-      "memberId" : 5843
+      "distance" : 3885,
+      "memberId" : 2307,
+      "bothType" : false
     }, {
-      "id" : 2224,
-      "name" : "拯救吸血鬼",
+      "id" : 2560,
+      "name" : "穿越女尊之桃花朵朵开",
       "updateStatus" : 1,
-      "distance" : 3363,
-      "memberId" : 6002
+      "distance" : 9360,
+      "memberId" : 1130,
+      "bothType" : false
     }, {
-      "id" : 2675,
-      "name" : "总裁的契约情人！",
+      "id" : 3271,
+      "name" : "折景年",
       "updateStatus" : 1,
-      "distance" : 533,
-      "memberId" : 4628
+      "distance" : 3855,
+      "memberId" : 4698,
+      "bothType" : false
     }, {
-      "id" : 3685,
-      "name" : "若痕",
+      "id" : 3677,
+      "name" : "不要丢下我，好不好",
       "updateStatus" : 1,
-      "distance" : 9332,
-      "memberId" : 8376
+      "distance" : 6886,
+      "memberId" : 6953,
+      "bothType" : false
     }, {
-      "id" : 2723,
-      "name" : "宝贝我宠你",
+      "id" : 2593,
+      "name" : "凤御圣月洛",
       "updateStatus" : 1,
-      "distance" : 6313,
-      "memberId" : 8875
+      "distance" : 4379,
+      "memberId" : 3918,
+      "bothType" : false
     }, {
-      "id" : 3204,
-      "name" : "侍郎娘子",
+      "id" : 2518,
+      "name" : "君醉红颜",
       "updateStatus" : 1,
-      "distance" : 5127,
-      "memberId" : 1283
+      "distance" : 1347,
+      "memberId" : 2078,
+      "bothType" : true
     }, {
-      "id" : 2474,
-      "name" : "十早集",
+      "id" : 3666,
+      "name" : "傲视苍穹：痴傻七小姐",
       "updateStatus" : 1,
-      "distance" : 7724,
-      "memberId" : 2614
+      "distance" : 8260,
+      "memberId" : 2822,
+      "bothType" : false
     }, {
-      "id" : 2237,
-      "name" : "桃花嫁",
+      "id" : 3336,
+      "name" : "旷世绝恋：洛水弹琴不谈情",
+      "updateStatus" : 1,
+      "distance" : 4899,
+      "memberId" : 7508,
+      "bothType" : false
+    }, {
+      "id" : 2508,
+      "name" : "剑神？不是吧",
+      "updateStatus" : 1,
+      "distance" : 6002,
+      "memberId" : 1227,
+      "bothType" : false
+    }, {
+      "id" : 3313,
+      "name" : "我的同桌顾亦辰",
+      "updateStatus" : 1,
+      "distance" : 8326,
+      "memberId" : 6134,
+      "bothType" : false
+    }, {
+      "id" : 2901,
+      "name" : "水浒系列短篇集",
+      "updateStatus" : 1,
+      "distance" : 3699,
+      "memberId" : 3209,
+      "bothType" : true
+    }, {
+      "id" : 2372,
+      "name" : "出轨无毒",
       "updateStatus" : 2,
-      "distance" : 2007,
-      "memberId" : 1342
+      "distance" : 9328,
+      "memberId" : 7794,
+      "bothType" : false
     }, {
-      "id" : 3686,
-      "name" : "美人谋：宠妃不贤良",
+      "id" : 2577,
+      "name" : "恶少总裁：薄宠小娇妻",
       "updateStatus" : 1,
-      "distance" : 9009,
-      "memberId" : 4838
+      "distance" : 6933,
+      "memberId" : 5522,
+      "bothType" : true
     }, {
-      "id" : 2150,
-      "name" : "最",
+      "id" : 3332,
+      "name" : "不会失忆的爱",
       "updateStatus" : 1,
-      "distance" : 8306,
-      "memberId" : 6264
+      "distance" : 6946,
+      "memberId" : 2762,
+      "bothType" : false
     }, {
-      "id" : 3106,
-      "name" : "被流放的女将军",
+      "id" : 3598,
+      "name" : "缘起烟尘",
       "updateStatus" : 1,
-      "distance" : 8343,
-      "memberId" : 7206
-    }, {
-      "id" : 2125,
-      "name" : "恨海情天",
-      "updateStatus" : 1,
-      "distance" : 8141,
-      "memberId" : 6403
-    }, {
-      "id" : 3367,
-      "name" : "血仙·舞",
-      "updateStatus" : 1,
-      "distance" : 2534,
-      "memberId" : 4184
-    }, {
-      "id" : 3259,
-      "name" : "静若安好愉怡一生",
-      "updateStatus" : 1,
-      "distance" : 6078,
-      "memberId" : 6871
-    }, {
-      "id" : 3073,
-      "name" : "飞禽走兽除魔记",
-      "updateStatus" : 1,
-      "distance" : 8088,
-      "memberId" : 5300
+      "distance" : 6259,
+      "memberId" : 4001,
+      "bothType" : false
     } ]
   }
 }

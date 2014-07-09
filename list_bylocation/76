@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2709,
-      "name" : "至尊特工：狂凤逆九天",
+      "id" : 3149,
+      "name" : "风仪万千",
       "updateStatus" : 1,
-      "distance" : 3792,
-      "memberId" : 4816
+      "distance" : 9390,
+      "memberId" : 6145,
+      "bothType" : true
     }, {
-      "id" : 3401,
-      "name" : "狂2",
+      "id" : 2586,
+      "name" : "半面仙",
       "updateStatus" : 1,
-      "distance" : 9892,
-      "memberId" : 8591
+      "distance" : 940,
+      "memberId" : 8404,
+      "bothType" : true
     }, {
-      "id" : 2346,
-      "name" : "魔鬼佳肴",
+      "id" : 2126,
+      "name" : "纯钧剑",
       "updateStatus" : 1,
-      "distance" : 9097,
-      "memberId" : 4058
+      "distance" : 6239,
+      "memberId" : 7492,
+      "bothType" : true
     }, {
-      "id" : 2767,
-      "name" : "美人目",
+      "id" : 2588,
+      "name" : "美人有毒",
       "updateStatus" : 1,
-      "distance" : 2567,
-      "memberId" : 6980
+      "distance" : 4005,
+      "memberId" : 2458,
+      "bothType" : true
     }, {
-      "id" : 2191,
-      "name" : "西界纪年",
+      "id" : 3339,
+      "name" : "臆乱情迷",
       "updateStatus" : 1,
-      "distance" : 1282,
-      "memberId" : 4737
+      "distance" : 3617,
+      "memberId" : 3938,
+      "bothType" : false
     }, {
-      "id" : 2176,
-      "name" : "重生之堕仙",
+      "id" : 3454,
+      "name" : "初心",
       "updateStatus" : 1,
-      "distance" : 7687,
-      "memberId" : 7558
+      "distance" : 7288,
+      "memberId" : 5800,
+      "bothType" : false
     }, {
-      "id" : 3419,
-      "name" : "狐色本媚",
+      "id" : 3261,
+      "name" : "腐化了的灿烂年华",
       "updateStatus" : 1,
-      "distance" : 5207,
-      "memberId" : 3547
+      "distance" : 3129,
+      "memberId" : 7104,
+      "bothType" : false
     }, {
-      "id" : 2199,
-      "name" : "选道",
+      "id" : 3729,
+      "name" : "琉璃色.彼岸花",
+      "updateStatus" : 1,
+      "distance" : 2793,
+      "memberId" : 5719,
+      "bothType" : false
+    }, {
+      "id" : 2414,
+      "name" : "寻爱之旅",
       "updateStatus" : 2,
-      "distance" : 2043,
-      "memberId" : 2565
+      "distance" : 2746,
+      "memberId" : 2696,
+      "bothType" : false
     }, {
-      "id" : 2659,
-      "name" : "菜鸟，不怕不怕",
+      "id" : 2317,
+      "name" : "江湖任我行",
       "updateStatus" : 1,
-      "distance" : 2525,
-      "memberId" : 1953
+      "distance" : 789,
+      "memberId" : 2632,
+      "bothType" : true
     }, {
-      "id" : 2059,
-      "name" : "娘子，贫僧等你",
+      "id" : 3061,
+      "name" : "久违的初吻",
+      "updateStatus" : 1,
+      "distance" : 819,
+      "memberId" : 7527,
+      "bothType" : false
+    }, {
+      "id" : 3659,
+      "name" : "回头，爱还在原地等你",
+      "updateStatus" : 1,
+      "distance" : 3859,
+      "memberId" : 6882,
+      "bothType" : false
+    }, {
+      "id" : 3218,
+      "name" : "爱之梦",
+      "updateStatus" : 1,
+      "distance" : 8152,
+      "memberId" : 6851,
+      "bothType" : false
+    }, {
+      "id" : 2485,
+      "name" : "眸魂记",
+      "updateStatus" : 1,
+      "distance" : 7069,
+      "memberId" : 7350,
+      "bothType" : false
+    }, {
+      "id" : 2192,
+      "name" : "灵幻",
       "updateStatus" : 2,
-      "distance" : 7077,
-      "memberId" : 4511
+      "distance" : 6917,
+      "memberId" : 6226,
+      "bothType" : false
     }, {
-      "id" : 2308,
-      "name" : "月牙",
+      "id" : 2404,
+      "name" : "一场游戏一场梦",
       "updateStatus" : 1,
-      "distance" : 1146,
-      "memberId" : 6399
+      "distance" : 5259,
+      "memberId" : 7279,
+      "bothType" : true
     }, {
-      "id" : 2327,
-      "name" : "尚古谪仙传：谪仙囧囧谈",
+      "id" : 2398,
+      "name" : "千里共月光",
       "updateStatus" : 1,
-      "distance" : 3559,
-      "memberId" : 4517
+      "distance" : 2556,
+      "memberId" : 4540,
+      "bothType" : false
     }, {
-      "id" : 3126,
-      "name" : "妖王妃",
+      "id" : 2917,
+      "name" : "碧海蓝天最倾城",
       "updateStatus" : 1,
-      "distance" : 2705,
-      "memberId" : 4071
+      "distance" : 5932,
+      "memberId" : 8281,
+      "bothType" : false
     }, {
-      "id" : 3084,
-      "name" : "倾世妖男",
-      "updateStatus" : 1,
-      "distance" : 4798,
-      "memberId" : 2407
+      "id" : 2186,
+      "name" : "落日传说",
+      "updateStatus" : 2,
+      "distance" : 2373,
+      "memberId" : 7556,
+      "bothType" : false
     }, {
-      "id" : 3381,
-      "name" : "秋中悲歌欲",
+      "id" : 2777,
+      "name" : "穿越之风沁",
       "updateStatus" : 1,
-      "distance" : 8923,
-      "memberId" : 5757
-    }, {
-      "id" : 2747,
-      "name" : "天才魔宝：踢走风流爹地",
-      "updateStatus" : 1,
-      "distance" : 2342,
-      "memberId" : 8449
-    }, {
-      "id" : 3275,
-      "name" : "暗昙",
-      "updateStatus" : 1,
-      "distance" : 7024,
-      "memberId" : 4631
-    }, {
-      "id" : 3077,
-      "name" : "青春盛宴之青春貌似童话",
-      "updateStatus" : 1,
-      "distance" : 6410,
-      "memberId" : 4034
-    }, {
-      "id" : 3372,
-      "name" : "未成曲调先有情",
-      "updateStatus" : 1,
-      "distance" : 1649,
-      "memberId" : 7268
-    }, {
-      "id" : 2117,
-      "name" : "天道魔情",
-      "updateStatus" : 1,
-      "distance" : 9457,
-      "memberId" : 2206
+      "distance" : 4712,
+      "memberId" : 1295,
+      "bothType" : false
     } ]
   }
 }

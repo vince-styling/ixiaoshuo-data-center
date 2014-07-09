@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2378,
-      "name" : "千里背叛",
+      "id" : 2733,
+      "name" : "静水寒：萌女穿越记",
       "updateStatus" : 1,
-      "distance" : 7752,
-      "memberId" : 6820
+      "distance" : 8643,
+      "memberId" : 7836,
+      "bothType" : false
     }, {
-      "id" : 3084,
-      "name" : "倾世妖男",
+      "id" : 2722,
+      "name" : "戏江山",
       "updateStatus" : 1,
-      "distance" : 1596,
-      "memberId" : 7544
+      "distance" : 6118,
+      "memberId" : 8407,
+      "bothType" : false
     }, {
-      "id" : 2578,
-      "name" : "毕业不分手",
+      "id" : 3263,
+      "name" : "君臣一心",
       "updateStatus" : 1,
-      "distance" : 6488,
-      "memberId" : 6281
+      "distance" : 2902,
+      "memberId" : 5436,
+      "bothType" : true
     }, {
-      "id" : 3480,
-      "name" : "妖传——岁与千陌",
+      "id" : 2698,
+      "name" : "混世神魔",
       "updateStatus" : 1,
-      "distance" : 3785,
-      "memberId" : 1597
+      "distance" : 4228,
+      "memberId" : 4006,
+      "bothType" : false
     }, {
-      "id" : 2620,
-      "name" : "CF之黑马突起",
+      "id" : 2949,
+      "name" : "流云蝶",
       "updateStatus" : 1,
-      "distance" : 2702,
-      "memberId" : 1862
+      "distance" : 4473,
+      "memberId" : 6354,
+      "bothType" : false
     }, {
-      "id" : 3322,
-      "name" : "爱情倒时差",
+      "id" : 2825,
+      "name" : "相守时光中",
       "updateStatus" : 1,
-      "distance" : 982,
-      "memberId" : 5866
+      "distance" : 7438,
+      "memberId" : 4127,
+      "bothType" : false
     }, {
-      "id" : 3518,
-      "name" : "寻花",
+      "id" : 2761,
+      "name" : "德伯家的苔丝",
       "updateStatus" : 1,
-      "distance" : 4474,
-      "memberId" : 1024
+      "distance" : 7058,
+      "memberId" : 4309,
+      "bothType" : true
     }, {
-      "id" : 3538,
-      "name" : "满城烟雨繁花尽",
+      "id" : 2162,
+      "name" : "琴之飞絮",
       "updateStatus" : 2,
-      "distance" : 6427,
-      "memberId" : 3532
+      "distance" : 8421,
+      "memberId" : 5094,
+      "bothType" : false
     }, {
-      "id" : 2122,
-      "name" : "毒药的诱惑",
+      "id" : 3146,
+      "name" : "陌路相思",
       "updateStatus" : 1,
-      "distance" : 9920,
-      "memberId" : 2413
+      "distance" : 7593,
+      "memberId" : 7825,
+      "bothType" : false
     }, {
-      "id" : 2071,
-      "name" : "月落紫禁",
-      "updateStatus" : 2,
-      "distance" : 1398,
-      "memberId" : 2014
-    }, {
-      "id" : 3507,
-      "name" : "血雨腥风恩仇录",
+      "id" : 3270,
+      "name" : "媚颜笑",
       "updateStatus" : 1,
-      "distance" : 9550,
-      "memberId" : 5381
+      "distance" : 2337,
+      "memberId" : 8660,
+      "bothType" : false
     }, {
-      "id" : 2412,
-      "name" : "爱已转角",
+      "id" : 2103,
+      "name" : "剑缘三生泪断崖",
       "updateStatus" : 1,
-      "distance" : 5677,
-      "memberId" : 1997
+      "distance" : 8000,
+      "memberId" : 7674,
+      "bothType" : false
     }, {
-      "id" : 3033,
-      "name" : "惊尘梦：冷情女子惑情夫",
+      "id" : 2822,
+      "name" : "追妻攻略：腹黑BOSS不好惹",
       "updateStatus" : 1,
-      "distance" : 916,
-      "memberId" : 3990
+      "distance" : 2103,
+      "memberId" : 5877,
+      "bothType" : false
     }, {
-      "id" : 2114,
-      "name" : "未婚妈妈，首席太霸道",
-      "updateStatus" : 2,
-      "distance" : 2989,
-      "memberId" : 7464
-    }, {
-      "id" : 3252,
-      "name" : "一辈子，在一起",
+      "id" : 3011,
+      "name" : "守护伊始只为你",
       "updateStatus" : 1,
-      "distance" : 9346,
-      "memberId" : 8560
+      "distance" : 8784,
+      "memberId" : 5160,
+      "bothType" : false
     }, {
-      "id" : 3129,
-      "name" : "（秦时+火影）滚来滚去滚成圆",
+      "id" : 2596,
+      "name" : "白狐报恩之遇上风流王爷",
       "updateStatus" : 1,
-      "distance" : 7569,
-      "memberId" : 3855
+      "distance" : 3119,
+      "memberId" : 8924,
+      "bothType" : false
     }, {
-      "id" : 3708,
-      "name" : "浮生境梦",
+      "id" : 2648,
+      "name" : "浮生琉璃路",
       "updateStatus" : 1,
-      "distance" : 2180,
-      "memberId" : 2549
+      "distance" : 7428,
+      "memberId" : 3499,
+      "bothType" : true
     }, {
-      "id" : 2430,
-      "name" : "一场梦如痴如醉",
+      "id" : 3482,
+      "name" : "迷失并盛",
       "updateStatus" : 1,
-      "distance" : 1723,
-      "memberId" : 2397
+      "distance" : 6777,
+      "memberId" : 4941,
+      "bothType" : false
     }, {
-      "id" : 2248,
-      "name" : "倾城引",
-      "updateStatus" : 2,
-      "distance" : 5167,
-      "memberId" : 5576
-    }, {
-      "id" : 3598,
-      "name" : "缘起烟尘",
+      "id" : 2801,
+      "name" : "女神物语",
       "updateStatus" : 1,
-      "distance" : 1300,
-      "memberId" : 5738
+      "distance" : 9674,
+      "memberId" : 4208,
+      "bothType" : true
+    }, {
+      "id" : 2702,
+      "name" : "光与暗之命运狂想曲",
+      "updateStatus" : 1,
+      "distance" : 3118,
+      "memberId" : 6768,
+      "bothType" : false
+    }, {
+      "id" : 2317,
+      "name" : "江湖任我行",
+      "updateStatus" : 1,
+      "distance" : 2542,
+      "memberId" : 2419,
+      "bothType" : false
+    }, {
+      "id" : 2579,
+      "name" : "萧瑟兰阁倚花愁",
+      "updateStatus" : 1,
+      "distance" : 920,
+      "memberId" : 4522,
+      "bothType" : false
     } ]
   }
 }

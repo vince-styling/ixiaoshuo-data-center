@@ -12,7 +12,8 @@
       "summary" : "颠覆你观念的西游前传横空来袭，一个贯穿500年的跌宕起伏！谁说沙僧注定屌丝命？一个成天捧着锅碗瓢盆讲",
       "updateStatus" : 1,
       "capacity" : 1279690,
-      "readerCount" : 12672
+      "readerCount" : 12672,
+      "bothType" : true
     }, {
       "id" : 2396,
       "name" : "冷爱",
@@ -20,7 +21,8 @@
       "summary" : "年少的爱情往往都是浪漫而美好，而戴新一长达十年的苦涩暗恋史，却从他和朱樱共享一个不可告人的秘密开始…",
       "updateStatus" : 2,
       "capacity" : 9691984,
-      "readerCount" : 12664
+      "readerCount" : 12664,
+      "bothType" : false
     }, {
       "id" : 2803,
       "name" : "幸好还有爱情",
@@ -28,7 +30,8 @@
       "summary" : "她以为她最终会和他在一起即便只是为了赎罪可是不知不觉间她却有点贪心她想给另一个男人爱情也想得到另一段",
       "updateStatus" : 1,
       "capacity" : 3717470,
-      "readerCount" : 12662
+      "readerCount" : 12662,
+      "bothType" : true
     }, {
       "id" : 2293,
       "name" : "袖舞帝都",
@@ -36,7 +39,8 @@
       "summary" : "你爱我吗？爱是什么？我一生只宠女人。偌大的宫殿冷冷清清，君，你知否？这皇宫里至高至深的千年孤独？",
       "updateStatus" : 1,
       "capacity" : 1771662,
-      "readerCount" : 12655
+      "readerCount" : 12655,
+      "bothType" : false
     }, {
       "id" : 2881,
       "name" : "豪门：公主不愁嫁",
@@ -44,7 +48,8 @@
       "summary" : "豪门深深，一切，远不是想象中的轻松自在。明明不相爱，但却该死的相配。能有什么办法？父母的要求，政商联",
       "updateStatus" : 1,
       "capacity" : 8302065,
-      "readerCount" : 12556
+      "readerCount" : 12556,
+      "bothType" : true
     }, {
       "id" : 2766,
       "name" : "远梦轻无力",
@@ -52,7 +57,8 @@
       "summary" : "她的身份因多舛的命运而不断变换。.............术江国的郡主也好，大珣国的贵族千金也好，地",
       "updateStatus" : 1,
       "capacity" : 6637965,
-      "readerCount" : 12527
+      "readerCount" : 12527,
+      "bothType" : false
     }, {
       "id" : 2949,
       "name" : "流云蝶",
@@ -60,7 +66,8 @@
       "summary" : "为了阻止天君与邪君的战争……为了维护人间的安静和谐气氛……她果断翘家……只有这样，战争才会停止……她",
       "updateStatus" : 1,
       "capacity" : 5547496,
-      "readerCount" : 12525
+      "readerCount" : 12525,
+      "bothType" : false
     }, {
       "id" : 2633,
       "name" : "三姐妹之抚顺顽皮小野猫",
@@ -68,7 +75,8 @@
       "summary" : "无聊黑少乘公交？巧遇炸毛小野猫！偶买噶的…为抚顺炸毛小野猫，黑少，看你的了…----------（P",
       "updateStatus" : 1,
       "capacity" : 4797182,
-      "readerCount" : 12502
+      "readerCount" : 12502,
+      "bothType" : false
     }, {
       "id" : 2977,
       "name" : "致我们的青春",
@@ -76,7 +84,8 @@
       "summary" : "A市又下雨了，这次的雨仿佛怎么也下不完般淅淅沥沥的拍打着水泥地。耳边好像传来一阵阵忧伤的歌曲般令人静",
       "updateStatus" : 1,
       "capacity" : 1175522,
-      "readerCount" : 12492
+      "readerCount" : 12492,
+      "bothType" : false
     }, {
       "id" : 2645,
       "name" : "我知道你本善良",
@@ -84,7 +93,8 @@
       "summary" : "幸福的人都一样，不幸的人各有各的不幸。蒋岚是名职业码字手，意外被疯狂流动作案的杀人犯给劫持了，虽然生",
       "updateStatus" : 1,
       "capacity" : 8257011,
-      "readerCount" : 12480
+      "readerCount" : 12480,
+      "bothType" : false
     }, {
       "id" : 2259,
       "name" : "一树梨花散，散，散",
@@ -92,7 +102,8 @@
       "summary" : "所执悠，有着最崇高的身份，过着最低位的生活一场被刻意营造的海难，却由自己的亲人制造一场无望的眷恋，一",
       "updateStatus" : 2,
       "capacity" : 9346772,
-      "readerCount" : 12470
+      "readerCount" : 12470,
+      "bothType" : true
     }, {
       "id" : 2531,
       "name" : "烟雨紫蓬山",
@@ -100,7 +111,8 @@
       "summary" : "青春懵懂、混沌不堪、美好憧憬...那些年，不想混却混着的日子，祭奠独有的酸涩记忆......云容含骤",
       "updateStatus" : 1,
       "capacity" : 8235873,
-      "readerCount" : 12455
+      "readerCount" : 12455,
+      "bothType" : false
     }, {
       "id" : 2146,
       "name" : "灭魔玄殇",
@@ -108,7 +120,8 @@
       "summary" : "混世少年，穿越大唐，继承姜子牙道法，从而开始了一段惊心动魄的奇幻之旅！斩妖除恶，降魔救世！调笑阎王，",
       "updateStatus" : 1,
       "capacity" : 7547952,
-      "readerCount" : 12419
+      "readerCount" : 12419,
+      "bothType" : false
     }, {
       "id" : 2047,
       "name" : "越长大越现实",
@@ -116,7 +129,8 @@
       "summary" : "这个世界原本是有童话的，可无奈的是人总是要长大的。廖美靖、嘉善新、李雪芸，简毅等人的一天天的长大，一",
       "updateStatus" : 1,
       "capacity" : 1937108,
-      "readerCount" : 12412
+      "readerCount" : 12412,
+      "bothType" : false
     }, {
       "id" : 2847,
       "name" : "沫誓沫望",
@@ -124,7 +138,8 @@
       "summary" : "在你的生命中是不是有这样一个人，给过你很多很美好的回忆。所有凝结在一起的美好并不是为了证明失去的难过",
       "updateStatus" : 1,
       "capacity" : 9992799,
-      "readerCount" : 12408
+      "readerCount" : 12408,
+      "bothType" : false
     }, {
       "id" : 2107,
       "name" : "嚣张王妃：霸爱俊王爷",
@@ -132,7 +147,8 @@
       "summary" : "她，警界精英，爱红妆也爱武装，不料意外穿越，睁开眼已变身新婚弃妃。他，尊贵无比的平江王，却在新婚之夜",
       "updateStatus" : 2,
       "capacity" : 2563156,
-      "readerCount" : 12358
+      "readerCount" : 12358,
+      "bothType" : true
     }, {
       "id" : 2119,
       "name" : "花舞七国",
@@ -140,7 +156,8 @@
       "summary" : "——我从来没有想过，就是我们这样几个人，将来会改变整个天下的格局。到那个时候，七雄争霸，天下纷乱；而",
       "updateStatus" : 1,
       "capacity" : 5548893,
-      "readerCount" : 12345
+      "readerCount" : 12345,
+      "bothType" : false
     }, {
       "id" : 2647,
       "name" : "冷少巧追豪门俏千金",
@@ -148,7 +165,8 @@
       "summary" : "一场娃娃亲，让两个人的命运从此系下一条交界线，她的笑，在发现他的爱后展现出来，原本幸福的摸样在一次绑",
       "updateStatus" : 1,
       "capacity" : 7027753,
-      "readerCount" : 12345
+      "readerCount" : 12345,
+      "bothType" : false
     }, {
       "id" : 2542,
       "name" : "陌上桑之初心",
@@ -156,7 +174,8 @@
       "summary" : "她，误入围城，受尽歧视而欲罢不能；他，执著信仰，看尽冷眼，柳暗花明之际，却危机四伏；她，是命中注定的",
       "updateStatus" : 1,
       "capacity" : 3360894,
-      "readerCount" : 12341
+      "readerCount" : 12341,
+      "bothType" : false
     }, {
       "id" : 2767,
       "name" : "美人目",
@@ -164,7 +183,8 @@
       "summary" : "他纤长的手指触到映着一抹红影的池面，想要紧紧抓住，那抹红影却随着水波散去。他抬起头，隐约间似乎看到一",
       "updateStatus" : 1,
       "capacity" : 1425392,
-      "readerCount" : 12338
+      "readerCount" : 12338,
+      "bothType" : false
     } ]
   }
 }

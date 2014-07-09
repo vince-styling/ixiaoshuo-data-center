@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2244,
-      "name" : "揽君心：宠姬有阴谋",
+      "id" : 3091,
+      "name" : "丛林法则，末世女王风",
       "updateStatus" : 1,
-      "distance" : 9121,
-      "memberId" : 4009
+      "distance" : 1647,
+      "memberId" : 4387,
+      "bothType" : false
     }, {
-      "id" : 3251,
-      "name" : "博宇睿",
+      "id" : 2747,
+      "name" : "天才魔宝：踢走风流爹地",
       "updateStatus" : 1,
-      "distance" : 1538,
-      "memberId" : 7373
+      "distance" : 5811,
+      "memberId" : 3452,
+      "bothType" : false
     }, {
-      "id" : 3312,
-      "name" : "回祎录",
+      "id" : 2455,
+      "name" : "孤子",
       "updateStatus" : 1,
-      "distance" : 2959,
-      "memberId" : 7200
+      "distance" : 5732,
+      "memberId" : 3745,
+      "bothType" : false
     }, {
-      "id" : 2526,
-      "name" : "[网王]花菱の樱",
+      "id" : 3210,
+      "name" : "自卑女孩的vip恋遇",
       "updateStatus" : 1,
-      "distance" : 3752,
-      "memberId" : 7702
+      "distance" : 5857,
+      "memberId" : 7658,
+      "bothType" : false
     }, {
-      "id" : 2264,
-      "name" : "龙斗狂沙西辽传奇",
+      "id" : 3394,
+      "name" : "混混少爷的小气公主",
       "updateStatus" : 1,
-      "distance" : 3009,
-      "memberId" : 6672
+      "distance" : 5244,
+      "memberId" : 1756,
+      "bothType" : false
     }, {
-      "id" : 2320,
-      "name" : "夏醉浅梦",
+      "id" : 3111,
+      "name" : "真假王妃：非常之谋",
       "updateStatus" : 1,
-      "distance" : 4010,
-      "memberId" : 5839
+      "distance" : 5207,
+      "memberId" : 3920,
+      "bothType" : true
     }, {
-      "id" : 3320,
-      "name" : "梦迷牡丹",
-      "updateStatus" : 1,
-      "distance" : 9344,
-      "memberId" : 1437
+      "id" : 2694,
+      "name" : "安有斯君待何年",
+      "updateStatus" : 2,
+      "distance" : 7952,
+      "memberId" : 7147,
+      "bothType" : false
     }, {
-      "id" : 3421,
-      "name" : "心动必碎",
+      "id" : 3071,
+      "name" : "焚源·苍蓝",
       "updateStatus" : 1,
-      "distance" : 3412,
-      "memberId" : 2908
+      "distance" : 8470,
+      "memberId" : 2339,
+      "bothType" : false
     }, {
-      "id" : 2982,
-      "name" : "逃之妖妖",
+      "id" : 3498,
+      "name" : "浅夏未了",
       "updateStatus" : 1,
-      "distance" : 9366,
-      "memberId" : 8152
+      "distance" : 7806,
+      "memberId" : 8856,
+      "bothType" : false
     }, {
-      "id" : 3339,
-      "name" : "臆乱情迷",
+      "id" : 2555,
+      "name" : "嫁个如意郎君",
       "updateStatus" : 1,
-      "distance" : 9671,
-      "memberId" : 3072
+      "distance" : 5291,
+      "memberId" : 5378,
+      "bothType" : true
     }, {
-      "id" : 3332,
-      "name" : "不会失忆的爱",
+      "id" : 2826,
+      "name" : "沐晴只到梨花薄",
       "updateStatus" : 1,
-      "distance" : 1447,
-      "memberId" : 2865
+      "distance" : 7720,
+      "memberId" : 6927,
+      "bothType" : true
     }, {
-      "id" : 2652,
-      "name" : "墨世情缘对对碰",
-      "updateStatus" : 1,
-      "distance" : 9950,
-      "memberId" : 6225
+      "id" : 2372,
+      "name" : "出轨无毒",
+      "updateStatus" : 2,
+      "distance" : 7302,
+      "memberId" : 2037,
+      "bothType" : false
     }, {
-      "id" : 3352,
-      "name" : "沁语录",
+      "id" : 2948,
+      "name" : "庶女狂妃：傲凤逆九天",
       "updateStatus" : 1,
-      "distance" : 1582,
-      "memberId" : 1039
+      "distance" : 947,
+      "memberId" : 7508,
+      "bothType" : true
     }, {
-      "id" : 2661,
-      "name" : "复仇天使：你是我的蛊",
+      "id" : 3730,
+      "name" : "美人殇之彼岸花开",
       "updateStatus" : 1,
-      "distance" : 8838,
-      "memberId" : 1266
+      "distance" : 8059,
+      "memberId" : 2485,
+      "bothType" : true
     }, {
-      "id" : 2094,
-      "name" : "孽情殇",
+      "id" : 2976,
+      "name" : "少女养成之就是赖上你",
       "updateStatus" : 1,
-      "distance" : 6777,
-      "memberId" : 1393
+      "distance" : 2058,
+      "memberId" : 5471,
+      "bothType" : false
     }, {
-      "id" : 2355,
-      "name" : "五欢散之烈焰天下",
+      "id" : 3440,
+      "name" : "风月楼",
       "updateStatus" : 1,
-      "distance" : 5342,
-      "memberId" : 5352
+      "distance" : 7770,
+      "memberId" : 7105,
+      "bothType" : false
     }, {
-      "id" : 3540,
-      "name" : "银魂王妃",
+      "id" : 2987,
+      "name" : "适珂而止",
       "updateStatus" : 1,
-      "distance" : 9963,
-      "memberId" : 3339
+      "distance" : 1385,
+      "memberId" : 5143,
+      "bothType" : true
     }, {
-      "id" : 3581,
-      "name" : "故人衣",
+      "id" : 3110,
+      "name" : "三生情缘",
       "updateStatus" : 1,
-      "distance" : 4974,
-      "memberId" : 8869
+      "distance" : 8642,
+      "memberId" : 4004,
+      "bothType" : false
     }, {
-      "id" : 2692,
-      "name" : "网王之阴阳师是学生",
-      "updateStatus" : 1,
-      "distance" : 2332,
-      "memberId" : 6309
+      "id" : 2138,
+      "name" : "妖孽，快到仙姑碗里来",
+      "updateStatus" : 2,
+      "distance" : 5819,
+      "memberId" : 8813,
+      "bothType" : true
     }, {
-      "id" : 3662,
-      "name" : "窈窕君子",
+      "id" : 2098,
+      "name" : "东风吹尽龙沙雪",
       "updateStatus" : 1,
-      "distance" : 5417,
-      "memberId" : 6524
+      "distance" : 9582,
+      "memberId" : 1355,
+      "bothType" : false
     } ]
   }
 }

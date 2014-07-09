@@ -12,7 +12,8 @@
       "summary" : "第一个她，行尸走肉般地活在宫廷中。她是一个活人，却早已经死了。第二个她，隐身匿迹般地死在宫廷中。她是",
       "updateStatus" : 1,
       "capacity" : 7615771,
-      "readerCount" : 18810
+      "readerCount" : 18810,
+      "bothType" : false
     }, {
       "id" : 2064,
       "name" : "百变夫君猎顽妻",
@@ -20,7 +21,8 @@
       "summary" : "\"什么？要我嫁给那个混蛋太子，他哪根筋搭错了啊？\"“不就是和他睡了一晚么？我都不介意？他介意个啥？想",
       "updateStatus" : 2,
       "capacity" : 8318072,
-      "readerCount" : 18740
+      "readerCount" : 18740,
+      "bothType" : false
     }, {
       "id" : 2077,
       "name" : "还珠之我们之间的爱情如空气",
@@ -28,7 +30,8 @@
       "summary" : "其实在还珠格格第三部没有开播之前我就设想了无数次第三部的情节和内容，可是看了第三部以后，不禁心生失望",
       "updateStatus" : 1,
       "capacity" : 2413286,
-      "readerCount" : 18625
+      "readerCount" : 18625,
+      "bothType" : true
     }, {
       "id" : 2081,
       "name" : "命定一瞬，执念一生",
@@ -36,7 +39,8 @@
       "summary" : "人生若只如初见，何事秋风悲画扇。等闲变却故人心，却道故心人易变。骊山语罢清宵半，泪雨霖铃终不怨。何如",
       "updateStatus" : 1,
       "capacity" : 5195672,
-      "readerCount" : 18529
+      "readerCount" : 18529,
+      "bothType" : true
     }, {
       "id" : 2618,
       "name" : "半夏如风",
@@ -44,7 +48,8 @@
       "summary" : "她，从小就喜欢他，以为默默追随就是永恒，所以，一直站在他的身后。他，以为她会一直站在他的身后，所以，",
       "updateStatus" : 1,
       "capacity" : 7417857,
-      "readerCount" : 18387
+      "readerCount" : 18387,
+      "bothType" : false
     }, {
       "id" : 2613,
       "name" : "红楼梦呓",
@@ -52,7 +57,8 @@
       "summary" : "天上掉下个林姐姐，她熟读《红楼梦》，她的师父是惊才绝艳的容若公子，她的夫婿是位高权重的北静王。翻云覆",
       "updateStatus" : 1,
       "capacity" : 2018928,
-      "readerCount" : 18141
+      "readerCount" : 18141,
+      "bothType" : false
     }, {
       "id" : 2926,
       "name" : "清宫情史",
@@ -60,7 +66,8 @@
       "summary" : "这是关于乾隆的故事。人生如梦，从清朝而来。巴林氏，名婉君，本可以安闲逍遥地过自己与习连翊的举案齐眉。",
       "updateStatus" : 1,
       "capacity" : 3728842,
-      "readerCount" : 18139
+      "readerCount" : 18139,
+      "bothType" : false
     }, {
       "id" : 2868,
       "name" : "仙侠传说：繁华落尽君辞去",
@@ -68,7 +75,8 @@
       "summary" : "一个关于人神魔妖的狗血伦乱恋情，可能牵扯到伦理纲常，一个架空的世界，一个混乱的体质，一个出现了无限次",
       "updateStatus" : 1,
       "capacity" : 4165900,
-      "readerCount" : 18012
+      "readerCount" : 18012,
+      "bothType" : false
     }, {
       "id" : 2833,
       "name" : "蓬莱",
@@ -76,7 +84,8 @@
       "summary" : " 五代后唐时期，江湖三大势力之一的司马庄庄主突然迎来一位客人，这位客人便是当朝宰相张硕。不知什么原因",
       "updateStatus" : 1,
       "capacity" : 1063626,
-      "readerCount" : 17963
+      "readerCount" : 17963,
+      "bothType" : false
     }, {
       "id" : 2876,
       "name" : "颠邪",
@@ -84,7 +93,8 @@
       "summary" : "景诺从不曾想过飞黄腾达，只要可以与相爱的执手相对，便足矣。可是，这却成了生前最是奢侈的愿望。不过还好",
       "updateStatus" : 1,
       "capacity" : 3865293,
-      "readerCount" : 17925
+      "readerCount" : 17925,
+      "bothType" : true
     }, {
       "id" : 2862,
       "name" : "侵他城占他国上他床",
@@ -92,7 +102,8 @@
       "summary" : "他的诡媚，像沐浴着鲜血盛开的曼陀罗花，带着致命的吸引力，尽管知道靠近就会死亡，可是没人抵挡的住这么致",
       "updateStatus" : 1,
       "capacity" : 9121416,
-      "readerCount" : 17901
+      "readerCount" : 17901,
+      "bothType" : false
     }, {
       "id" : 2059,
       "name" : "娘子，贫僧等你",
@@ -100,7 +111,8 @@
       "summary" : "她是白狐村里千年难遇的美人，却不料遇到了化缘的戒色，该死的臭和尚，竟敢骂她是嫁不出、没人要的狐狸！哼",
       "updateStatus" : 2,
       "capacity" : 4516512,
-      "readerCount" : 17428
+      "readerCount" : 17428,
+      "bothType" : false
     }, {
       "id" : 2765,
       "name" : "以年少当歌",
@@ -108,7 +120,8 @@
       "summary" : "我想以年少来纪念我们的青春季节。这段故事发生在古代，在那里的男孩女孩也和我们一样，一样的在成长。他们",
       "updateStatus" : 2,
       "capacity" : 1408916,
-      "readerCount" : 17390
+      "readerCount" : 17390,
+      "bothType" : false
     }, {
       "id" : 2854,
       "name" : "清音冷",
@@ -116,7 +129,8 @@
       "summary" : "神秘的古域，一个守护者，一个秘密。他和她的初次相遇是这个古域中最美的城中。她和他的第二次相遇仍是这里",
       "updateStatus" : 1,
       "capacity" : 9894707,
-      "readerCount" : 17333
+      "readerCount" : 17333,
+      "bothType" : false
     }, {
       "id" : 2079,
       "name" : "祸乱天下之南泽有宝",
@@ -124,7 +138,8 @@
       "summary" : "\"她哪是女人！女人都是水做的，她就是一捧沙子！\"“她不是沙子，她是火，玉石俱焚的火，思念成灾的火。”",
       "updateStatus" : 1,
       "capacity" : 5802809,
-      "readerCount" : 17329
+      "readerCount" : 17329,
+      "bothType" : true
     }, {
       "id" : 2595,
       "name" : "素问天下",
@@ -132,7 +147,8 @@
       "summary" : "她是名冠天下的右相嫡女，美人如斯，妙手仁心。他却是庶出的文弱皇子，于深宫之中受尽轻辱依然傲骨天成。嫁",
       "updateStatus" : 1,
       "capacity" : 3038174,
-      "readerCount" : 17312
+      "readerCount" : 17312,
+      "bothType" : false
     }, {
       "id" : 2078,
       "name" : "绾君心",
@@ -140,7 +156,8 @@
       "summary" : "小时候奶娘总爱摸着我的头发告诉我长发绾君心那时年幼，不知情为何物，到后来，我也不敢去知道情为何物，因",
       "updateStatus" : 1,
       "capacity" : 3300512,
-      "readerCount" : 17308
+      "readerCount" : 17308,
+      "bothType" : false
     }, {
       "id" : 3041,
       "name" : "宠色无边：青楼妖妃太难逑",
@@ -148,7 +165,8 @@
       "summary" : "一朝穿越委身青楼，只为享尽天下美男！但这漂亮脸蛋也太会拉仇恨了吧？她忍，她忍！可是那些该死的女人还真",
       "updateStatus" : 1,
       "capacity" : 5955783,
-      "readerCount" : 17297
+      "readerCount" : 17297,
+      "bothType" : true
     }, {
       "id" : 2890,
       "name" : "月沉沦",
@@ -156,7 +174,8 @@
       "summary" : "一句话总结：女主与男主一起谋权篡位。顺便谈个情说个爱。与各色女配们斗智斗勇斗姨娘。还要斗鬼魂。她是备",
       "updateStatus" : 1,
       "capacity" : 1902636,
-      "readerCount" : 17120
+      "readerCount" : 17120,
+      "bothType" : false
     }, {
       "id" : 2689,
       "name" : "穿越之歌月徘徊",
@@ -164,7 +183,8 @@
       "summary" : "因碧玉手镯穿越到天陆王朝，她结识命中注定的人，亲情，爱情，友情，她步步惊心，然而命运之所以神奇，在于",
       "updateStatus" : 1,
       "capacity" : 2681793,
-      "readerCount" : 17013
+      "readerCount" : 17013,
+      "bothType" : false
     } ]
   }
 }

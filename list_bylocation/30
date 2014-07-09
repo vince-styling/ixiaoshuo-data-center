@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3364,
-      "name" : "只要你幸福，愿意不爱你",
+      "id" : 3426,
+      "name" : "浪子安归",
       "updateStatus" : 1,
-      "distance" : 1283,
-      "memberId" : 3806
+      "distance" : 1034,
+      "memberId" : 6225,
+      "bothType" : false
     }, {
-      "id" : 3332,
-      "name" : "不会失忆的爱",
+      "id" : 3116,
+      "name" : "乱剑源德之九狱之书",
       "updateStatus" : 1,
-      "distance" : 4819,
-      "memberId" : 6463
+      "distance" : 7445,
+      "memberId" : 2253,
+      "bothType" : false
     }, {
-      "id" : 2522,
-      "name" : "熊霸天下",
+      "id" : 2498,
+      "name" : "飘落的信笺",
       "updateStatus" : 1,
-      "distance" : 513,
-      "memberId" : 5672
+      "distance" : 7621,
+      "memberId" : 2399,
+      "bothType" : false
     }, {
-      "id" : 3224,
-      "name" : "快乐公主流浪记",
-      "updateStatus" : 1,
-      "distance" : 4198,
-      "memberId" : 3128
+      "id" : 2838,
+      "name" : "小恋曲",
+      "updateStatus" : 2,
+      "distance" : 5493,
+      "memberId" : 3307,
+      "bothType" : false
     }, {
-      "id" : 2917,
-      "name" : "碧海蓝天最倾城",
+      "id" : 2841,
+      "name" : "听说时光回来过",
       "updateStatus" : 1,
-      "distance" : 5554,
-      "memberId" : 1905
+      "distance" : 8099,
+      "memberId" : 8338,
+      "bothType" : false
     }, {
-      "id" : 2798,
-      "name" : "随心而动",
+      "id" : 3294,
+      "name" : "朕爱生命，远离皇后",
       "updateStatus" : 1,
-      "distance" : 4871,
-      "memberId" : 3993
+      "distance" : 4586,
+      "memberId" : 6178,
+      "bothType" : false
     }, {
-      "id" : 3014,
-      "name" : "【武侠穿越】大梦",
+      "id" : 2759,
+      "name" : "若无君，何来月",
       "updateStatus" : 1,
-      "distance" : 9694,
-      "memberId" : 7725
+      "distance" : 7943,
+      "memberId" : 1124,
+      "bothType" : false
     }, {
-      "id" : 2938,
-      "name" : "你的眸底映着我的温柔",
-      "updateStatus" : 1,
-      "distance" : 594,
-      "memberId" : 4383
+      "id" : 2470,
+      "name" : "祸水",
+      "updateStatus" : 2,
+      "distance" : 5622,
+      "memberId" : 1252,
+      "bothType" : false
     }, {
-      "id" : 2890,
-      "name" : "月沉沦",
+      "id" : 2877,
+      "name" : "总裁，我只是你的棋子",
       "updateStatus" : 1,
-      "distance" : 7559,
-      "memberId" : 2664
+      "distance" : 9715,
+      "memberId" : 1942,
+      "bothType" : false
     }, {
-      "id" : 3436,
-      "name" : "《侦探日记》",
+      "id" : 3253,
+      "name" : "替身之后",
       "updateStatus" : 1,
-      "distance" : 9543,
-      "memberId" : 6882
+      "distance" : 9295,
+      "memberId" : 7713,
+      "bothType" : false
     }, {
-      "id" : 2368,
-      "name" : "相思都门",
-      "updateStatus" : 1,
-      "distance" : 704,
-      "memberId" : 5119
+      "id" : 2184,
+      "name" : "西月长歌",
+      "updateStatus" : 2,
+      "distance" : 4820,
+      "memberId" : 8093,
+      "bothType" : false
     }, {
-      "id" : 2628,
-      "name" : "别再调戏我",
+      "id" : 2934,
+      "name" : "怀海漫成",
       "updateStatus" : 1,
-      "distance" : 4346,
-      "memberId" : 6812
+      "distance" : 4831,
+      "memberId" : 5701,
+      "bothType" : true
     }, {
-      "id" : 3275,
-      "name" : "暗昙",
+      "id" : 2336,
+      "name" : "妃似毒：皇子快逃命",
       "updateStatus" : 1,
-      "distance" : 8654,
-      "memberId" : 1144
+      "distance" : 9241,
+      "memberId" : 4266,
+      "bothType" : false
     }, {
-      "id" : 3138,
-      "name" : "黑色的梦境",
+      "id" : 3680,
+      "name" : "潇洒小姐执着先生",
       "updateStatus" : 1,
-      "distance" : 4461,
-      "memberId" : 1971
+      "distance" : 1931,
+      "memberId" : 7556,
+      "bothType" : true
     }, {
-      "id" : 2685,
-      "name" : "含蕾",
+      "id" : 2748,
+      "name" : "如果邂逅",
       "updateStatus" : 1,
-      "distance" : 8600,
-      "memberId" : 7937
+      "distance" : 1411,
+      "memberId" : 6769,
+      "bothType" : false
     }, {
-      "id" : 2433,
-      "name" : "诱婚",
+      "id" : 2732,
+      "name" : "至死不渝之搞怪王妃",
       "updateStatus" : 1,
-      "distance" : 1073,
-      "memberId" : 1961
+      "distance" : 3586,
+      "memberId" : 6754,
+      "bothType" : false
     }, {
-      "id" : 3107,
-      "name" : "世间冷暖",
+      "id" : 2233,
+      "name" : "末世之非末之世",
       "updateStatus" : 1,
-      "distance" : 7100,
-      "memberId" : 2757
+      "distance" : 7666,
+      "memberId" : 6345,
+      "bothType" : false
     }, {
-      "id" : 2129,
-      "name" : "美人出逃：别惹弃妃",
+      "id" : 2977,
+      "name" : "致我们的青春",
       "updateStatus" : 1,
-      "distance" : 3471,
-      "memberId" : 8773
+      "distance" : 5378,
+      "memberId" : 4242,
+      "bothType" : true
     }, {
-      "id" : 3331,
-      "name" : "武警婚约之山东佳人",
+      "id" : 2175,
+      "name" : "史上最强避雷法宝",
       "updateStatus" : 1,
-      "distance" : 898,
-      "memberId" : 8486
+      "distance" : 1665,
+      "memberId" : 7405,
+      "bothType" : false
     }, {
-      "id" : 3004,
-      "name" : "陪伴是最长情的告白",
+      "id" : 2297,
+      "name" : "一梦三生卿心照",
       "updateStatus" : 1,
-      "distance" : 3415,
-      "memberId" : 2975
+      "distance" : 7754,
+      "memberId" : 5196,
+      "bothType" : false
     } ]
   }
 }

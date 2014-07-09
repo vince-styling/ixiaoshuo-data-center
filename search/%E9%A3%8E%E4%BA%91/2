@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 229937,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3409,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 237522,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3205,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 313488,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3662,
@@ -40,6 +43,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 241009,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3115,
@@ -49,6 +53,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 313492,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3072,
@@ -58,6 +63,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 439058,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2808,
@@ -67,6 +73,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 3089270,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3133,
@@ -76,6 +83,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 272144,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3507,
@@ -85,6 +93,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 65522,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3386,
@@ -94,6 +103,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 314570,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3407,
@@ -103,6 +113,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 150633,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3132,
@@ -112,6 +123,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 23899,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

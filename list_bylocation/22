@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2936,
-      "name" : "谁言依雪泪墨池",
+      "id" : 2688,
+      "name" : "疼痛青春：那夏离殇",
       "updateStatus" : 1,
-      "distance" : 4776,
-      "memberId" : 3705
+      "distance" : 8109,
+      "memberId" : 3300,
+      "bothType" : false
     }, {
-      "id" : 2804,
-      "name" : "媚妻无限宠",
+      "id" : 2748,
+      "name" : "如果邂逅",
       "updateStatus" : 1,
-      "distance" : 6180,
-      "memberId" : 7038
+      "distance" : 2217,
+      "memberId" : 2843,
+      "bothType" : false
     }, {
-      "id" : 2516,
-      "name" : "青春，一场久治不愈的感冒",
+      "id" : 2821,
+      "name" : "一念起，一世倾",
+      "updateStatus" : 1,
+      "distance" : 2957,
+      "memberId" : 7177,
+      "bothType" : false
+    }, {
+      "id" : 3134,
+      "name" : "山河暮色凉",
+      "updateStatus" : 1,
+      "distance" : 2650,
+      "memberId" : 4677,
+      "bothType" : true
+    }, {
+      "id" : 2653,
+      "name" : "恶魔让你遇见我",
+      "updateStatus" : 1,
+      "distance" : 3493,
+      "memberId" : 8579,
+      "bothType" : true
+    }, {
+      "id" : 3471,
+      "name" : "你是我闪耀的星",
+      "updateStatus" : 1,
+      "distance" : 7162,
+      "memberId" : 8912,
+      "bothType" : false
+    }, {
+      "id" : 2489,
+      "name" : "雪落的声音",
+      "updateStatus" : 1,
+      "distance" : 5660,
+      "memberId" : 4190,
+      "bothType" : true
+    }, {
+      "id" : 2227,
+      "name" : "小狐赤烛",
+      "updateStatus" : 1,
+      "distance" : 4309,
+      "memberId" : 3310,
+      "bothType" : false
+    }, {
+      "id" : 3252,
+      "name" : "一辈子，在一起",
+      "updateStatus" : 1,
+      "distance" : 3837,
+      "memberId" : 6992,
+      "bothType" : false
+    }, {
+      "id" : 2828,
+      "name" : "风声",
       "updateStatus" : 2,
-      "distance" : 8222,
-      "memberId" : 3489
+      "distance" : 4657,
+      "memberId" : 3346,
+      "bothType" : false
     }, {
-      "id" : 2055,
-      "name" : "网王王子们的爱之不曾离开",
+      "id" : 3667,
+      "name" : "且行且见",
       "updateStatus" : 1,
-      "distance" : 6347,
-      "memberId" : 6245
+      "distance" : 6505,
+      "memberId" : 2796,
+      "bothType" : false
     }, {
-      "id" : 3464,
-      "name" : "落姮醉时君不醉",
+      "id" : 2985,
+      "name" : "重生之红梅烙",
       "updateStatus" : 1,
-      "distance" : 9537,
-      "memberId" : 1530
+      "distance" : 6737,
+      "memberId" : 2044,
+      "bothType" : false
     }, {
-      "id" : 3366,
-      "name" : "绝色江湖",
-      "updateStatus" : 1,
-      "distance" : 3192,
-      "memberId" : 7828
-    }, {
-      "id" : 3136,
-      "name" : "紫墟：涅槃",
-      "updateStatus" : 1,
-      "distance" : 4728,
-      "memberId" : 2602
-    }, {
-      "id" : 2050,
-      "name" : "那些纯纯的爱恋",
-      "updateStatus" : 1,
-      "distance" : 7599,
-      "memberId" : 8094
-    }, {
-      "id" : 2212,
-      "name" : "禁天乱纪元",
-      "updateStatus" : 1,
-      "distance" : 8241,
-      "memberId" : 5532
-    }, {
-      "id" : 3376,
-      "name" : "你是古人哎",
-      "updateStatus" : 1,
-      "distance" : 8718,
-      "memberId" : 1243
-    }, {
-      "id" : 3159,
-      "name" : "红尘陌路",
-      "updateStatus" : 1,
-      "distance" : 8148,
-      "memberId" : 4374
-    }, {
-      "id" : 2362,
-      "name" : "青春小夜曲",
+      "id" : 3051,
+      "name" : "执念恨",
       "updateStatus" : 2,
-      "distance" : 8986,
-      "memberId" : 5684
+      "distance" : 730,
+      "memberId" : 8475,
+      "bothType" : false
     }, {
-      "id" : 3176,
-      "name" : "留明待玥复",
+      "id" : 2864,
+      "name" : "天幕吟之雪荒初史",
       "updateStatus" : 1,
-      "distance" : 4925,
-      "memberId" : 6095
+      "distance" : 7548,
+      "memberId" : 7849,
+      "bothType" : true
     }, {
-      "id" : 3279,
-      "name" : "爱情决裂",
+      "id" : 3386,
+      "name" : "云水竹心",
       "updateStatus" : 1,
-      "distance" : 7115,
-      "memberId" : 6065
+      "distance" : 7506,
+      "memberId" : 7151,
+      "bothType" : false
     }, {
-      "id" : 2778,
-      "name" : "东山剑",
+      "id" : 2494,
+      "name" : "火蓝刀锋之邂逅重生",
       "updateStatus" : 1,
-      "distance" : 7572,
-      "memberId" : 6590
+      "distance" : 2874,
+      "memberId" : 3741,
+      "bothType" : false
     }, {
-      "id" : 2085,
-      "name" : "琉璃坊",
+      "id" : 2760,
+      "name" : "纳粹宝藏",
       "updateStatus" : 1,
-      "distance" : 3446,
-      "memberId" : 5706
+      "distance" : 9162,
+      "memberId" : 1538,
+      "bothType" : false
     }, {
-      "id" : 2173,
-      "name" : "西游前传：天上掉下个沙和尚",
+      "id" : 2405,
+      "name" : "恨与爱的边缘",
       "updateStatus" : 1,
-      "distance" : 3267,
-      "memberId" : 1133
+      "distance" : 8469,
+      "memberId" : 3837,
+      "bothType" : false
     }, {
-      "id" : 3293,
-      "name" : "穿越之未知数",
+      "id" : 2948,
+      "name" : "庶女狂妃：傲凤逆九天",
       "updateStatus" : 1,
-      "distance" : 3539,
-      "memberId" : 8495
+      "distance" : 7855,
+      "memberId" : 8822,
+      "bothType" : false
     }, {
-      "id" : 2838,
-      "name" : "小恋曲",
-      "updateStatus" : 2,
-      "distance" : 7226,
-      "memberId" : 5867
-    }, {
-      "id" : 2506,
-      "name" : "再见，青春",
+      "id" : 3129,
+      "name" : "（秦时+火影）滚来滚去滚成圆",
       "updateStatus" : 1,
-      "distance" : 2230,
-      "memberId" : 7964
+      "distance" : 7906,
+      "memberId" : 7067,
+      "bothType" : false
     } ]
   }
 }

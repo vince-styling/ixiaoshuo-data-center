@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "幻想耽美",
       "capacity" : 8345275,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2968,
@@ -22,6 +23,7 @@
       "updateStatus" : 2,
       "catName" : "古代言情",
       "capacity" : 4926796,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2716,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 2514514,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2724,
@@ -40,6 +43,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 3435302,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2443,
@@ -49,6 +53,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 7376251,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 3716,
@@ -58,6 +63,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 1932715,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2106,
@@ -67,6 +73,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 3014769,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 3666,
@@ -76,6 +83,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 1922694,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2734,
@@ -85,6 +93,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 8952904,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2742,
@@ -94,6 +103,7 @@
       "updateStatus" : 1,
       "catName" : "仙侠修真",
       "capacity" : 2662602,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2162,
@@ -103,6 +113,7 @@
       "updateStatus" : 2,
       "catName" : "仙侠修真",
       "capacity" : 5529073,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2560,
@@ -112,6 +123,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 8025952,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2948,
@@ -121,6 +133,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 9975765,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2318,
@@ -130,6 +143,7 @@
       "updateStatus" : 2,
       "catName" : "穿越异界",
       "capacity" : 5587369,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2885,
@@ -139,6 +153,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 8600425,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2301,
@@ -148,6 +163,7 @@
       "updateStatus" : 2,
       "catName" : "穿越异界",
       "capacity" : 7811688,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2583,
@@ -157,6 +173,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 4748951,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2358,
@@ -166,6 +183,7 @@
       "updateStatus" : 1,
       "catName" : "幻想耽美",
       "capacity" : 2771373,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3012,
@@ -175,6 +193,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 2196411,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2096,
@@ -184,6 +203,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 9916575,
+      "bothType" : true,
       "coverUrl" : null
     } ]
   }

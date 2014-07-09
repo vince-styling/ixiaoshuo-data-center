@@ -6,125 +6,145 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2662,
-      "name" : "最初的美好",
+      "id" : 3081,
+      "name" : "爱，谨行时光",
       "updateStatus" : 1,
-      "distance" : 3153,
-      "memberId" : 4524
+      "distance" : 1962,
+      "memberId" : 6868,
+      "bothType" : false
     }, {
-      "id" : 3741,
-      "name" : "纯红之血：吸血鬼盯上了你",
-      "updateStatus" : 1,
-      "distance" : 6710,
-      "memberId" : 2464
-    }, {
-      "id" : 3548,
-      "name" : "只见青山妩媚",
-      "updateStatus" : 1,
-      "distance" : 8795,
-      "memberId" : 5607
-    }, {
-      "id" : 3153,
-      "name" : "恋上你，眷着你",
-      "updateStatus" : 1,
-      "distance" : 5238,
-      "memberId" : 5643
-    }, {
-      "id" : 2249,
-      "name" : "古代求生记",
+      "id" : 2067,
+      "name" : "昔人惜人",
       "updateStatus" : 2,
-      "distance" : 9040,
-      "memberId" : 8344
+      "distance" : 8572,
+      "memberId" : 6425,
+      "bothType" : false
     }, {
-      "id" : 2382,
-      "name" : "同曾惶虑情难止",
+      "id" : 2659,
+      "name" : "菜鸟，不怕不怕",
       "updateStatus" : 1,
-      "distance" : 1542,
-      "memberId" : 1333
+      "distance" : 6889,
+      "memberId" : 3941,
+      "bothType" : false
     }, {
-      "id" : 2905,
-      "name" : "再一次爱上你",
+      "id" : 2867,
+      "name" : "子兰",
       "updateStatus" : 1,
-      "distance" : 4066,
-      "memberId" : 6973
+      "distance" : 8320,
+      "memberId" : 5874,
+      "bothType" : false
     }, {
-      "id" : 2330,
-      "name" : "风雪情殇",
+      "id" : 3178,
+      "name" : "穿越之红柚偏甜",
       "updateStatus" : 1,
-      "distance" : 6709,
-      "memberId" : 1554
+      "distance" : 1950,
+      "memberId" : 7101,
+      "bothType" : false
     }, {
-      "id" : 3254,
-      "name" : "北京不眠",
+      "id" : 3296,
+      "name" : "斜阳晚照",
       "updateStatus" : 1,
-      "distance" : 777,
-      "memberId" : 1938
+      "distance" : 4477,
+      "memberId" : 6630,
+      "bothType" : false
     }, {
-      "id" : 3084,
-      "name" : "倾世妖男",
+      "id" : 3701,
+      "name" : "游走的灵魂",
       "updateStatus" : 1,
-      "distance" : 8544,
-      "memberId" : 4701
+      "distance" : 3423,
+      "memberId" : 7113,
+      "bothType" : false
     }, {
-      "id" : 2129,
-      "name" : "美人出逃：别惹弃妃",
+      "id" : 3379,
+      "name" : "情簪",
       "updateStatus" : 1,
-      "distance" : 6085,
-      "memberId" : 8235
+      "distance" : 7821,
+      "memberId" : 2064,
+      "bothType" : false
     }, {
-      "id" : 3124,
-      "name" : "一直在一起",
+      "id" : 2442,
+      "name" : "峰回路转只见君",
       "updateStatus" : 1,
-      "distance" : 4192,
-      "memberId" : 6771
+      "distance" : 3155,
+      "memberId" : 1810,
+      "bothType" : true
     }, {
-      "id" : 3216,
-      "name" : "渡魂斋",
+      "id" : 2284,
+      "name" : "梦游仙归",
       "updateStatus" : 1,
-      "distance" : 3141,
-      "memberId" : 8689
+      "distance" : 6366,
+      "memberId" : 5858,
+      "bothType" : true
     }, {
-      "id" : 3282,
-      "name" : "樱舞飞剑",
+      "id" : 3264,
+      "name" : "一个安静的故事",
       "updateStatus" : 1,
-      "distance" : 1069,
-      "memberId" : 1616
+      "distance" : 2089,
+      "memberId" : 6741,
+      "bothType" : true
     }, {
-      "id" : 3664,
-      "name" : "眉心结，掌中线",
+      "id" : 3589,
+      "name" : "今生等你爱我",
       "updateStatus" : 1,
-      "distance" : 4829,
-      "memberId" : 1750
+      "distance" : 3455,
+      "memberId" : 8821,
+      "bothType" : false
     }, {
-      "id" : 2614,
-      "name" : "赤瞳的海盗",
-      "updateStatus" : 2,
-      "distance" : 795,
-      "memberId" : 8643
-    }, {
-      "id" : 2085,
-      "name" : "琉璃坊",
+      "id" : 3196,
+      "name" : "西地锦",
       "updateStatus" : 1,
-      "distance" : 3310,
-      "memberId" : 3652
+      "distance" : 2499,
+      "memberId" : 4395,
+      "bothType" : false
     }, {
-      "id" : 2988,
-      "name" : "梦想之星",
+      "id" : 3353,
+      "name" : "不覆当年",
       "updateStatus" : 1,
-      "distance" : 5868,
-      "memberId" : 6796
+      "distance" : 6172,
+      "memberId" : 5424,
+      "bothType" : false
     }, {
-      "id" : 2617,
-      "name" : "戏里婚外",
+      "id" : 2954,
+      "name" : "大神卖身不卖艺",
       "updateStatus" : 1,
-      "distance" : 9844,
-      "memberId" : 5285
+      "distance" : 3164,
+      "memberId" : 5867,
+      "bothType" : true
     }, {
-      "id" : 3453,
-      "name" : "菜鸟也不是好骗的",
+      "id" : 3716,
+      "name" : "芊妃驾到：得罪不得",
       "updateStatus" : 1,
-      "distance" : 9598,
-      "memberId" : 8257
+      "distance" : 3891,
+      "memberId" : 3863,
+      "bothType" : false
+    }, {
+      "id" : 3252,
+      "name" : "一辈子，在一起",
+      "updateStatus" : 1,
+      "distance" : 8596,
+      "memberId" : 4789,
+      "bothType" : false
+    }, {
+      "id" : 2190,
+      "name" : "天山之雪",
+      "updateStatus" : 1,
+      "distance" : 809,
+      "memberId" : 8541,
+      "bothType" : true
+    }, {
+      "id" : 3680,
+      "name" : "潇洒小姐执着先生",
+      "updateStatus" : 1,
+      "distance" : 4555,
+      "memberId" : 5542,
+      "bothType" : false
+    }, {
+      "id" : 2173,
+      "name" : "西游前传：天上掉下个沙和尚",
+      "updateStatus" : 1,
+      "distance" : 7829,
+      "memberId" : 7184,
+      "bothType" : false
     } ]
   }
 }

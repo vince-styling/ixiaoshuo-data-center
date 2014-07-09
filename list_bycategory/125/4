@@ -12,7 +12,8 @@
       "summary" : "家族守护神的美女继承人，拥有魔瞳的银发美少女，江湖第一捕的娇蛮妹妹，柔情似水的穷苦红颜，六扇门一代冷",
       "updateStatus" : 1,
       "capacity" : 1533338,
-      "readerCount" : 2892
+      "readerCount" : 2892,
+      "bothType" : false
     }, {
       "id" : 3692,
       "name" : "恶魔承传者",
@@ -20,7 +21,8 @@
       "summary" : "自古成者王、败者寇，让我恶魔的拳头来告诉你。披着白衣服的光明信徒们！你们穿白衣并不代表光明，是因为你",
       "updateStatus" : 1,
       "capacity" : 181690,
-      "readerCount" : 2814
+      "readerCount" : 2814,
+      "bothType" : false
     }, {
       "id" : 2561,
       "name" : "墨上清歌",
@@ -28,7 +30,8 @@
       "summary" : "她，素手芊芊，银发飘飘，在这一世她是过客，还是路人，是什么让她一度的坚强坚强，直到最后一刻都没有放弃",
       "updateStatus" : 1,
       "capacity" : 2116960,
-      "readerCount" : 2792
+      "readerCount" : 2792,
+      "bothType" : false
     }, {
       "id" : 3007,
       "name" : "醉逍遥",
@@ -36,7 +39,8 @@
       "summary" : "他，本是竹林溪居王祖师收下的一名弟子，十七岁，他决心闯荡江湖，行侠仗义。她，本是落月湖畔无名的乡村女",
       "updateStatus" : 1,
       "capacity" : 5619045,
-      "readerCount" : 2276
+      "readerCount" : 2276,
+      "bothType" : false
     }, {
       "id" : 3600,
       "name" : "陌瞳非邪",
@@ -44,7 +48,8 @@
       "summary" : "简单地说，男主和女主都是反派，女主喜欢暗地里暗算别人，男主呢——比女主更坏更残忍。本文保持慢热状态，",
       "updateStatus" : 1,
       "capacity" : 197248,
-      "readerCount" : 2109
+      "readerCount" : 2109,
+      "bothType" : false
     }, {
       "id" : 3170,
       "name" : "哥哥，我愿为你染红这个世界",
@@ -52,7 +57,8 @@
       "summary" : "“是呀，哥哥这些人都是我杀的，谁让他们敢染指我最爱的哥哥呢？”少女微笑着看着少年，如天真孩童一般，他",
       "updateStatus" : 1,
       "capacity" : 163163,
-      "readerCount" : 1812
+      "readerCount" : 1812,
+      "bothType" : false
     }, {
       "id" : 2138,
       "name" : "妖孽，快到仙姑碗里来",
@@ -60,7 +66,8 @@
       "summary" : "一朝逃婚，她从天而降，将一袒胸露怀妖孽男子砸在身下。他笑得明媚：“这位姑娘，请问还要同在下身上趴多久",
       "updateStatus" : 2,
       "capacity" : 9277532,
-      "readerCount" : 1794
+      "readerCount" : 1794,
+      "bothType" : false
     }, {
       "id" : 2174,
       "name" : "华夏神域",
@@ -68,7 +75,8 @@
       "summary" : "华夏神域，修行界最高的一方净土，仙域、神域、鬼域、妖域、魔域五域似卫星般拱卫着华夏神域，在神域之内各",
       "updateStatus" : 1,
       "capacity" : 6734514,
-      "readerCount" : 1759
+      "readerCount" : 1759,
+      "bothType" : false
     }, {
       "id" : 3242,
       "name" : "王爷的重生小冷妃",
@@ -76,7 +84,8 @@
       "summary" : "我曾经爱上一个人，爱他的点点滴滴。我们在一起生活了六年，他从来没说娶我，但我们这样一直生活在一起我就",
       "updateStatus" : 2,
       "capacity" : 1001443,
-      "readerCount" : 1621
+      "readerCount" : 1621,
+      "bothType" : true
     }, {
       "id" : 2139,
       "name" : "天地无门",
@@ -84,7 +93,8 @@
       "summary" : "“踏上通天路，决战天陨台，胜登升仙门，败坠狱九幽！”就是这么简简单单的二十个字，却宛如炸雷一般沸腾了",
       "updateStatus" : 1,
       "capacity" : 8759197,
-      "readerCount" : 1610
+      "readerCount" : 1610,
+      "bothType" : true
     }, {
       "id" : 2741,
       "name" : "三生回眸间，一念成魔时",
@@ -92,7 +102,8 @@
       "summary" : "成妖，成仙，成魔，我追他三生。交易，宣誓，契约，他随我三世。我对他一见钟情，殊不知有着他对我再见倾心",
       "updateStatus" : 1,
       "capacity" : 7498899,
-      "readerCount" : 1545
+      "readerCount" : 1545,
+      "bothType" : false
     }, {
       "id" : 2166,
       "name" : "仙岚异世情",
@@ -100,7 +111,8 @@
       "summary" : "在醉仙楼里，一个传奇的人物，一曲摄人心魂得琵琶曲，从而引发了在仙岚大陆上一个即将流传千年的传说。在这",
       "updateStatus" : 1,
       "capacity" : 6031830,
-      "readerCount" : 1516
+      "readerCount" : 1516,
+      "bothType" : false
     }, {
       "id" : 3185,
       "name" : "一笑悬命",
@@ -108,7 +120,8 @@
       "summary" : "世间无仙亦无妖，人谓仙鬼满世道扬善作歹皆人间，孰仙孰鬼自知晓金丝楠可能这辈子也想不到自己就是被老爷子",
       "updateStatus" : 1,
       "capacity" : 204780,
-      "readerCount" : 1489
+      "readerCount" : 1489,
+      "bothType" : false
     }, {
       "id" : 3735,
       "name" : "穿越之修真吐槽娘",
@@ -116,7 +129,8 @@
       "summary" : "当一位傲娇女到了修仙的世界里，当这位傲娇女极为女王，当她发现自己有着超人的气运，她会如何？秦晓认为，",
       "updateStatus" : 1,
       "capacity" : 329573,
-      "readerCount" : 1031
+      "readerCount" : 1031,
+      "bothType" : true
     }, {
       "id" : 2158,
       "name" : "网游之独狂天下",
@@ -124,7 +138,8 @@
       "summary" : "我本来只是一个普通大学毕业的学生，一次的意外让我进入了游戏，在游戏里，我一次次的被背叛，经过了无数的",
       "updateStatus" : 1,
       "capacity" : 5584691,
-      "readerCount" : 1026
+      "readerCount" : 1026,
+      "bothType" : false
     }, {
       "id" : 3715,
       "name" : "仙灵问鼎",
@@ -132,7 +147,8 @@
       "summary" : "天地不仁以万物为刍狗，圣人不仁以百姓为刍狗。修练之人，人人都想成仙，成神，却不知圣人亦有无为之时。大",
       "updateStatus" : 1,
       "capacity" : 174097,
-      "readerCount" : 710
+      "readerCount" : 710,
+      "bothType" : true
     }, {
       "id" : 3381,
       "name" : "秋中悲歌欲",
@@ -140,7 +156,8 @@
       "summary" : "秋风萧瑟，正值秋日，血洗萧府，皎洁的月，血红的地。一代枭雄秋中魂，一代杀手之王悲歌，一代风流士子求欲",
       "updateStatus" : 1,
       "capacity" : 402704,
-      "readerCount" : 697
+      "readerCount" : 697,
+      "bothType" : true
     }, {
       "id" : 3488,
       "name" : "仙魔劫，因缘错",
@@ -148,7 +165,8 @@
       "summary" : "无数人的自私，将两个本无交集的孩子捆绑在一起，彻底改变了她们的命运。世间最为牢固的母女亲情，轻易便被",
       "updateStatus" : 1,
       "capacity" : 40733,
-      "readerCount" : 576
+      "readerCount" : 576,
+      "bothType" : false
     }, {
       "id" : 3711,
       "name" : "谋天",
@@ -156,7 +174,8 @@
       "summary" : "九天中的一位无辜陨落一缕执念侥幸入轮回，其他八天和自己座下魔神争夺自己的天之位，……自己无辜的陨落是",
       "updateStatus" : 1,
       "capacity" : 266767,
-      "readerCount" : 524
+      "readerCount" : 524,
+      "bothType" : false
     }, {
       "id" : 3380,
       "name" : "彩虹下的承诺",
@@ -164,7 +183,8 @@
       "summary" : "这是一个美丽的故事，它源于七仙女与董永这个古老的传说。七仙女与董永得土地牵线，槐树做媒，结为夫妻。七",
       "updateStatus" : 1,
       "capacity" : 381899,
-      "readerCount" : 518
+      "readerCount" : 518,
+      "bothType" : false
     } ]
   }
 }

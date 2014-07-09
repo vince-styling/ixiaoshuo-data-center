@@ -12,7 +12,8 @@
       "summary" : "某天，我们亲爱的凌大明星感冒了！身为助理的苏小黎苏同志义不容辞应该照顾好大明星！所以就有了这段对话：",
       "updateStatus" : 1,
       "capacity" : 9625493,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2518,
       "name" : "君醉红颜",
@@ -20,7 +21,8 @@
       "summary" : "三年相思，却以一桩政治婚姻了断，她的爱情抵不过江山社稷，只能嫁给素未谋面的冷酷君王。他只当她是一枚政",
       "updateStatus" : 1,
       "capacity" : 4862062,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2903,
       "name" : "诱饵王妃",
@@ -28,7 +30,8 @@
       "summary" : "她身为当朝太尉的女儿，爱上她的是当今皇帝同父异母的亲弟弟，不过这段原本是最为幸福的婚姻却是经历了一次",
       "updateStatus" : 1,
       "capacity" : 4526459,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2684,
       "name" : "闯驻你的心",
@@ -36,7 +39,8 @@
       "summary" : "这里有各式各款的总裁，总有一款适合你。这里的总裁有的专情，有的滥情，有的悲情，有的拒情。亲们进来随意",
       "updateStatus" : 1,
       "capacity" : 4491219,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2381,
       "name" : "傲雪苍穹",
@@ -44,7 +48,8 @@
       "summary" : "文案：下雨天的晚上没事最好不要到坟地去，弄不好就穿越了，比如我们酆（feng)篁.“就算是他做的又如",
       "updateStatus" : 1,
       "capacity" : 6611969,
-      "catName" : "幻想耽美"
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2260,
       "name" : "山外青山，楼外楼",
@@ -52,7 +57,8 @@
       "summary" : "又名《江湖向左，江山向右》如果有一天，江湖和江山只有一步之遥，你会迈向那一边？这是一个值得深思的问题",
       "updateStatus" : 1,
       "capacity" : 3437110,
-      "catName" : "历史架空"
+      "catName" : "历史架空",
+      "bothType" : true
     }, {
       "id" : 2575,
       "name" : "有生之年",
@@ -60,7 +66,8 @@
       "summary" : "有人说，爱情就像智齿。它的到来让你措手不及，但又无法拒绝。你会因为它而疼痛，但你又束手无策。有一天，",
       "updateStatus" : 1,
       "capacity" : 7349739,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2830,
       "name" : "待我长发及腰",
@@ -68,7 +75,8 @@
       "summary" : "她站在人前，无能，好色，骄奢放荡，刁蛮任性她转过身背过人群，美丽，聪明，善良，绝世倾城她来自于未来，",
       "updateStatus" : 1,
       "capacity" : 7379718,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2338,
       "name" : "那一世,只因缘而穿",
@@ -76,7 +84,8 @@
       "summary" : "我以为世上没有比掉进粪坑还倒霉的事了，我，舒婉婷，居然会如此倒霉，为了去看个周杰伦的演唱会，惨遭粉丝",
       "updateStatus" : 1,
       "capacity" : 5324137,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2311,
       "name" : "凤血",
@@ -84,7 +93,8 @@
       "summary" : "“二哥，你来这里做什么？”左寻好似没有看到刚才的事情，扬起一抹笑，说：“自然是来看妹妹的。”左晓慧知",
       "updateStatus" : 1,
       "capacity" : 4492507,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2546,
       "name" : "风流公子：赖上重生佳人",
@@ -92,7 +102,8 @@
       "summary" : "明明已经死去的人，为什么两年之后又重新回到了他的生命之中。究竟是不是同一个人。为什么回来的时候身旁还",
       "updateStatus" : 1,
       "capacity" : 1613835,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2964,
       "name" : "以我一生护你一世",
@@ -100,7 +111,8 @@
       "summary" : "你将我从无尽的孤独中解救出来，却又亲手将我推入浓稠的黑暗里。你给我设下最幸福最残忍的迷局，你灌给我糖",
       "updateStatus" : 1,
       "capacity" : 8246188,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 2894,
       "name" : "废材大小姐之凤傲天下",
@@ -108,7 +120,8 @@
       "summary" : "她，凤云兮，现代嗜血联盟的顶级杀手，她凤云兮要人三更死，阎王绝不留五更！一朝穿越，她重生在乱世大陆凤",
       "updateStatus" : 1,
       "capacity" : 7364623,
-      "catName" : "穿越异界"
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2133,
       "name" : "封神之祸心",
@@ -116,7 +129,8 @@
       "summary" : "三千年前，妖狐妲己祸害人世，却不知他本是男子，与比干之女曾有一段凄美爱情。时光流转，三千年后，他与比",
       "updateStatus" : 1,
       "capacity" : 6063478,
-      "catName" : "玄幻奇幻"
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2452,
       "name" : "死亡照相机：末日风暴——血舞",
@@ -124,7 +138,8 @@
       "summary" : "在这个照相机里，储存着大量的鬼魂，埋没在鬼屋里……同时还有一叠跟相机有关的【领者相册】。现在，这个相",
       "updateStatus" : 1,
       "capacity" : 8736306,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 2676,
       "name" : "君悦我心",
@@ -132,7 +147,8 @@
       "summary" : "白之仪第一天上班，就被泼了一桶冷水，透心凉啊，差点被搞成一级伤残。一群花样年华的写作者，全部窝在一栋",
       "updateStatus" : 1,
       "capacity" : 5832847,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2492,
       "name" : "网战尖兵",
@@ -140,7 +156,8 @@
       "summary" : "一特种兵激战海外做特保，后转作网络高手并进入国安的故事。",
       "updateStatus" : 1,
       "capacity" : 2095335,
-      "catName" : "同人其他"
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2782,
       "name" : "天梦迷情",
@@ -148,7 +165,8 @@
       "summary" : "她一下子被拉进一个陌生的怀抱，刚一抬头就被一张嘴唇封住自己的小嘴，陌生的男人气息一下子冲进她的嘴里，",
       "updateStatus" : 1,
       "capacity" : 5012210,
-      "catName" : "都市校园"
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2108,
       "name" : "妖孽丛生",
@@ -156,7 +174,8 @@
       "summary" : "这算什么啊？阴阳眼？可是阴阳眼有透视功能吗？喂！白魅，你遮什么遮啊！我说的透视是能看很远，并不是指能",
       "updateStatus" : 1,
       "capacity" : 9266416,
-      "catName" : "灵异悬疑"
+      "catName" : "灵异悬疑",
+      "bothType" : true
     }, {
       "id" : 2770,
       "name" : "绝世桃花扇",
@@ -164,7 +183,8 @@
       "summary" : "一场误会，拉开了两人的距离，种种的原因，让他们再也无法相爱。她，贵为邻国公主，领兵攻入了他的皇城，那",
       "updateStatus" : 1,
       "capacity" : 9164052,
-      "catName" : "古代言情"
+      "catName" : "古代言情",
+      "bothType" : false
     } ]
   }
 }

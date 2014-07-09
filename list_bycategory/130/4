@@ -12,7 +12,8 @@
       "summary" : "李依依刚上大二时爸妈去美国出差，归期不定时，哥哥从美国回来照顾自己，还带了个人回来。“爷，给姐笑一个",
       "updateStatus" : 1,
       "capacity" : 4011354,
-      "readerCount" : 14910
+      "readerCount" : 14910,
+      "bothType" : true
     }, {
       "id" : 2836,
       "name" : "霸爱总裁：爱妻是无尾熊",
@@ -20,7 +21,8 @@
       "summary" : "骑得了美男，睡得了大树！穿的了小可爱，卖的了无赖功夫。男人男人，我要吃内个绿色植物，狐狸狐狸，我要扯",
       "updateStatus" : 1,
       "capacity" : 2240351,
-      "readerCount" : 14718
+      "readerCount" : 14718,
+      "bothType" : false
     }, {
       "id" : 2989,
       "name" : "恶魔与天使之吻",
@@ -28,7 +30,8 @@
       "summary" : "李冰是一个一直在孤单的流浪的人，直到她再次回到大学所在的城市，在一副作品面前遇见了慕容白，然后再遇见",
       "updateStatus" : 1,
       "capacity" : 6801950,
-      "readerCount" : 14709
+      "readerCount" : 14709,
+      "bothType" : false
     }, {
       "id" : 2435,
       "name" : "绝世青龙王",
@@ -36,7 +39,8 @@
       "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容",
       "updateStatus" : 1,
       "capacity" : 1648093,
-      "readerCount" : 14670
+      "readerCount" : 14670,
+      "bothType" : false
     }, {
       "id" : 2644,
       "name" : "爱她还是爱自己",
@@ -44,7 +48,8 @@
       "summary" : "主人公王蕾是一个很纠结很纠结的纠结体，一个彻头彻尾的烂好人，由于家庭的原因，造就了他接近病态的自卑心",
       "updateStatus" : 1,
       "capacity" : 6130396,
-      "readerCount" : 14584
+      "readerCount" : 14584,
+      "bothType" : false
     }, {
       "id" : 2937,
       "name" : "致命蔷薇FatalRose",
@@ -52,7 +57,8 @@
       "summary" : "--我相信我的眼光，你一定会成为我身边最优秀的孩子，只要你伸出手，我会给你一个新的世界，一个只适合强",
       "updateStatus" : 1,
       "capacity" : 1316151,
-      "readerCount" : 14327
+      "readerCount" : 14327,
+      "bothType" : true
     }, {
       "id" : 2661,
       "name" : "复仇天使：你是我的蛊",
@@ -60,7 +66,8 @@
       "summary" : "他强势闯入她的生活，为了留住她不惜自残。她一步步沦陷，却发现他是害死自己青梅竹马男友的人。于是，为了",
       "updateStatus" : 1,
       "capacity" : 2646295,
-      "readerCount" : 14224
+      "readerCount" : 14224,
+      "bothType" : false
     }, {
       "id" : 2860,
       "name" : "形影总相离",
@@ -68,7 +75,8 @@
       "summary" : "若没有期待，也就不会等待。最初的懵懂，到后来的疑猜。相知的承诺，到别离的人海。回首人独倚，只愿形影莫",
       "updateStatus" : 1,
       "capacity" : 9635482,
-      "readerCount" : 14074
+      "readerCount" : 14074,
+      "bothType" : false
     }, {
       "id" : 3027,
       "name" : "等你到黎明",
@@ -76,7 +84,8 @@
       "summary" : "他说她是山茶花般淡而清的女子，笑起来的时候像是一朵温柔绽放的山茶花，让人忍不住想要捧在掌心，想要采摘",
       "updateStatus" : 1,
       "capacity" : 9452691,
-      "readerCount" : 14070
+      "readerCount" : 14070,
+      "bothType" : true
     }, {
       "id" : 2979,
       "name" : "未殇",
@@ -84,7 +93,8 @@
       "summary" : "有些路我们得自己走，有些事我们需要自己学会去面对。成长总是伴随着风雨，坎坷过后有的是什么我们谁也不知",
       "updateStatus" : 1,
       "capacity" : 1036710,
-      "readerCount" : 14039
+      "readerCount" : 14039,
+      "bothType" : false
     }, {
       "id" : 2675,
       "name" : "总裁的契约情人！",
@@ -92,7 +102,8 @@
       "summary" : "她是他的契约情人，他是她的交易金主。心总是在不知不觉的时候悄悄泛起涟漪，是要隔了多久我才能忘记那场最",
       "updateStatus" : 1,
       "capacity" : 2770944,
-      "readerCount" : 13957
+      "readerCount" : 13957,
+      "bothType" : false
     }, {
       "id" : 3209,
       "name" : "风语爱情：命中注定会翻篇",
@@ -100,7 +111,8 @@
       "summary" : "如果：单纯、快乐、悲伤、痛苦、过去、面对、未来、幸福。。。是今生注定的课题！那么何必停止不前？路途再",
       "updateStatus" : 1,
       "capacity" : 2386353,
-      "readerCount" : 13957
+      "readerCount" : 13957,
+      "bothType" : false
     }, {
       "id" : 2687,
       "name" : "朝歌叶璇",
@@ -108,7 +120,8 @@
       "summary" : "五年相忘，十年相望",
       "updateStatus" : 1,
       "capacity" : 8644110,
-      "readerCount" : 13947
+      "readerCount" : 13947,
+      "bothType" : false
     }, {
       "id" : 2576,
       "name" : "四人行",
@@ -116,7 +129,8 @@
       "summary" : "讲一个宿舍的四个女生碰到鬼的故事。",
       "updateStatus" : 1,
       "capacity" : 8969487,
-      "readerCount" : 13930
+      "readerCount" : 13930,
+      "bothType" : false
     }, {
       "id" : 2838,
       "name" : "小恋曲",
@@ -124,7 +138,8 @@
       "summary" : "他们青梅竹马，她依赖着他，他一直守护着她，不管怎么样他都从来不怪她，只会一味的包容着她，哪怕她忽然有",
       "updateStatus" : 2,
       "capacity" : 1694021,
-      "readerCount" : 13930
+      "readerCount" : 13930,
+      "bothType" : false
     }, {
       "id" : 2832,
       "name" : "腹黑总裁：变身擒爱萌宠召唤师",
@@ -132,7 +147,8 @@
       "summary" : "“你叫顾总？好吧，你给我听好了！”第一次见面她泼了他一脸咖啡奶茶混合物，指他鼻子大骂一顿。“你丫还拍",
       "updateStatus" : 1,
       "capacity" : 5200007,
-      "readerCount" : 13868
+      "readerCount" : 13868,
+      "bothType" : true
     }, {
       "id" : 3316,
       "name" : "迷恋情人：调教花花总裁",
@@ -140,7 +156,8 @@
       "summary" : "那是一支支离破碎的时光，用发丝缠绕，承载我们无处安放的青春；那是一串用回忆串联成的记忆符号，用泪水填",
       "updateStatus" : 1,
       "capacity" : 1781258,
-      "readerCount" : 13829
+      "readerCount" : 13829,
+      "bothType" : true
     }, {
       "id" : 2628,
       "name" : "别再调戏我",
@@ -148,7 +165,8 @@
       "summary" : "昨天晚上，她趁着酒意被自己带回家，想念了4年的人，本以为这一辈子都不会再见到，没想到昨晚她主动吻了自",
       "updateStatus" : 1,
       "capacity" : 1974348,
-      "readerCount" : 13716
+      "readerCount" : 13716,
+      "bothType" : true
     }, {
       "id" : 2987,
       "name" : "适珂而止",
@@ -156,7 +174,8 @@
       "summary" : "没有谁永远属于谁，没有谁注定是谁的谁。如果知道有一天我会如此的爱你，那么在遇见你的那一天我一定会加倍",
       "updateStatus" : 1,
       "capacity" : 6667458,
-      "readerCount" : 13512
+      "readerCount" : 13512,
+      "bothType" : false
     }, {
       "id" : 2863,
       "name" : "何以青茫却诉离殇",
@@ -164,7 +183,8 @@
       "summary" : "关于青春，成长和爱情，原来不过是一段惆怅的离歌。四年的点点滴滴，就这样被我们记在了脑海里，值得一生回",
       "updateStatus" : 1,
       "capacity" : 4982445,
-      "readerCount" : 13504
+      "readerCount" : 13504,
+      "bothType" : false
     } ]
   }
 }

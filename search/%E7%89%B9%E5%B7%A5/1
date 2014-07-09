@@ -13,6 +13,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 1266375,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2294,
@@ -22,6 +23,7 @@
       "updateStatus" : 1,
       "catName" : "历史架空",
       "capacity" : 9907360,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2709,
@@ -31,6 +33,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 1477680,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3666,
@@ -40,6 +43,7 @@
       "updateStatus" : 1,
       "catName" : "玄幻奇幻",
       "capacity" : 1922694,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2948,
@@ -49,6 +53,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 9975765,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2318,
@@ -58,6 +63,7 @@
       "updateStatus" : 2,
       "catName" : "穿越异界",
       "capacity" : 5587369,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2853,
@@ -67,6 +73,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 7855308,
+      "bothType" : true,
       "coverUrl" : null
     }, {
       "id" : 2579,
@@ -76,6 +83,7 @@
       "updateStatus" : 1,
       "catName" : "古代言情",
       "capacity" : 9588836,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2038,
@@ -85,6 +93,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 9643586,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2582,
@@ -94,6 +103,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 1795814,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 2726,
@@ -103,6 +113,7 @@
       "updateStatus" : 1,
       "catName" : "穿越异界",
       "capacity" : 1568231,
+      "bothType" : false,
       "coverUrl" : null
     }, {
       "id" : 3486,
@@ -112,6 +123,7 @@
       "updateStatus" : 1,
       "catName" : "都市校园",
       "capacity" : 606847,
+      "bothType" : false,
       "coverUrl" : null
     } ]
   }

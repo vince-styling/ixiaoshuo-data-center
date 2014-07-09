@@ -12,7 +12,8 @@
       "summary" : "仇恨，让她从一个原本快乐无忧的孩子成为了笑容灿烂的“郡主”；阴谋，让她从一个原本享尽荣华的公主成为了",
       "updateStatus" : 1,
       "capacity" : 2093905,
-      "readerCount" : 18697
+      "readerCount" : 18697,
+      "bothType" : false
     }, {
       "id" : 2720,
       "name" : "你怎么还不死回来",
@@ -20,7 +21,8 @@
       "summary" : "这是一个内心炸毛的女人和N个闷骚无情商男人们如何攻下寂寞空虚高手大BOSS的故事。为了生存她要巴结从",
       "updateStatus" : 1,
       "capacity" : 2920784,
-      "readerCount" : 18564
+      "readerCount" : 18564,
+      "bothType" : true
     }, {
       "id" : 2269,
       "name" : "女皇倾国萌天下",
@@ -28,7 +30,8 @@
       "summary" : "当腹黑霸气伪萝莉遇到傲娇正直小正太。是正太养成还是御姐变形记？她遇到他那年八岁。两人吵闹不停。她仗着",
       "updateStatus" : 1,
       "capacity" : 9308235,
-      "readerCount" : 18046
+      "readerCount" : 18046,
+      "bothType" : true
     }, {
       "id" : 2258,
       "name" : "爆笑冤家：你的地盘我做主",
@@ -36,7 +39,8 @@
       "summary" : "一对情侣在牛头马面的失误下被带到地府，遇到一个紧跟时尚潮流的阎王爷，被告知两人需要永生永世经历相遇相",
       "updateStatus" : 1,
       "capacity" : 1692621,
-      "readerCount" : 17593
+      "readerCount" : 17593,
+      "bothType" : false
     }, {
       "id" : 2184,
       "name" : "西月长歌",
@@ -44,7 +48,8 @@
       "summary" : "一场大火让八岁的她的族氏败落,家破人亡。十年后她成为了一家酒馆的老板娘，风华绝代，在酒馆中收集情报。",
       "updateStatus" : 2,
       "capacity" : 6174557,
-      "readerCount" : 17314
+      "readerCount" : 17314,
+      "bothType" : true
     }, {
       "id" : 2275,
       "name" : "国殇，风吟江山",
@@ -52,7 +57,8 @@
       "summary" : "江湖与邦国之间的豪赌，究竟谁能笑傲下去？神秘的冥音宫里，身怀各技的商、角、徵、羽四使者，权利的背后又",
       "updateStatus" : 2,
       "capacity" : 5426869,
-      "readerCount" : 17306
+      "readerCount" : 17306,
+      "bothType" : true
     }, {
       "id" : 2261,
       "name" : "血魇如影",
@@ -60,7 +66,8 @@
       "summary" : "这是一曲人性善恶的交响曲，这是一部战争罪恶的控诉书。主人公张家齐生于富商之家，父亲是民国第一杀手王亚",
       "updateStatus" : 1,
       "capacity" : 4250841,
-      "readerCount" : 17220
+      "readerCount" : 17220,
+      "bothType" : false
     }, {
       "id" : 2277,
       "name" : "水控苍穹",
@@ -68,7 +75,8 @@
       "summary" : "爽文阅读，经历海上掠食者的恩怨情仇！热血搏浪，奔赴气势恢宏的海战！快乐品鉴，反思历史转折点的大明海权",
       "updateStatus" : 1,
       "capacity" : 9574730,
-      "readerCount" : 16892
+      "readerCount" : 16892,
+      "bothType" : true
     }, {
       "id" : 2295,
       "name" : "未来帝国之战国春秋",
@@ -76,7 +84,8 @@
       "summary" : "2012，世界翻天覆地，一对孪生兄弟被埋在雪地里。百年后醒来，一切都已面目俱非，人类的文明在过了百多",
       "updateStatus" : 1,
       "capacity" : 3902500,
-      "readerCount" : 16573
+      "readerCount" : 16573,
+      "bothType" : true
     }, {
       "id" : 2276,
       "name" : "皇上坏坏：爱妃该睡觉了",
@@ -84,7 +93,8 @@
       "summary" : "她一直想要个美男，上帝伯伯对她还真好，趁她睡一觉就扔她到不知名的朝代，然后。。。架空穿越的狗血剧情上",
       "updateStatus" : 1,
       "capacity" : 2992733,
-      "readerCount" : 15639
+      "readerCount" : 15639,
+      "bothType" : false
     }, {
       "id" : 2294,
       "name" : "颠沛流离",
@@ -92,7 +102,8 @@
       "summary" : "二十一世纪的女特工，执行任务时不幸坠落万丈深渊，在之前有过一段刻骨铭心的爱情却没有结果，她很幸运投胎",
       "updateStatus" : 1,
       "capacity" : 9907360,
-      "readerCount" : 14848
+      "readerCount" : 14848,
+      "bothType" : false
     }, {
       "id" : 2981,
       "name" : "夏家九爷",
@@ -100,7 +111,8 @@
       "summary" : "夏涵，夏家“独子”排行第九，自幼学医，精通雌黄。她的世界本来很小，小道眼中除了游戏人生再无其他。可是",
       "updateStatus" : 1,
       "capacity" : 4708385,
-      "readerCount" : 13943
+      "readerCount" : 13943,
+      "bothType" : false
     }, {
       "id" : 2712,
       "name" : "人比花娇",
@@ -108,7 +120,8 @@
       "summary" : "她艳绝天下，笑容如花，才不过十六岁就成为了天下最美的女人。她才华惊艳，作的一手好诗，写的一手好字，被",
       "updateStatus" : 1,
       "capacity" : 5675427,
-      "readerCount" : 13797
+      "readerCount" : 13797,
+      "bothType" : true
     }, {
       "id" : 2288,
       "name" : "乱世枭妃",
@@ -116,7 +129,8 @@
       "summary" : "烽火狼烟乱了城刹刀光剑影，谁为谁戎马天下？谁又为谁倾情天下，握长戟金戈铁马看大漠风沙。只红颜一笑，流",
       "updateStatus" : 1,
       "capacity" : 4750448,
-      "readerCount" : 13607
+      "readerCount" : 13607,
+      "bothType" : false
     }, {
       "id" : 2270,
       "name" : "惊回千里梦相思",
@@ -124,7 +138,8 @@
       "summary" : "她是顽皮少女，一朝入梦，遇到久候的他，他是五好少年，学霸，一直守候在她身边的青梅竹马，一场意外，她作",
       "updateStatus" : 1,
       "capacity" : 7691798,
-      "readerCount" : 13588
+      "readerCount" : 13588,
+      "bothType" : true
     }, {
       "id" : 2719,
       "name" : "靛·自掘坟墓",
@@ -132,7 +147,8 @@
       "summary" : "如果我没有猜错，这是个男孩。其貌之俊美，堪比千年前的拓海海皇。不忠不孝不仁不悌，却是个好人。而在预言",
       "updateStatus" : 1,
       "capacity" : 5137209,
-      "readerCount" : 12837
+      "readerCount" : 12837,
+      "bothType" : false
     }, {
       "id" : 2281,
       "name" : "花照",
@@ -140,7 +156,8 @@
       "summary" : "天才世家花妩语是个吃货，却意外成为古宁国首相长女谢思齐，吃货在新空间里，认识了一个又一个美男，闹了一",
       "updateStatus" : 1,
       "capacity" : 8160406,
-      "readerCount" : 12813
+      "readerCount" : 12813,
+      "bothType" : false
     }, {
       "id" : 2292,
       "name" : "从此君王不翻牌",
@@ -148,7 +165,8 @@
       "summary" : "这世上的很多人与生俱来就有着某种特殊的才华跟天赋，这小叫化子也有，她似乎是天生的乞丐换上华服也成不了",
       "updateStatus" : 1,
       "capacity" : 4733080,
-      "readerCount" : 12771
+      "readerCount" : 12771,
+      "bothType" : false
     }, {
       "id" : 2293,
       "name" : "袖舞帝都",
@@ -156,7 +174,8 @@
       "summary" : "你爱我吗？爱是什么？我一生只宠女人。偌大的宫殿冷冷清清，君，你知否？这皇宫里至高至深的千年孤独？",
       "updateStatus" : 1,
       "capacity" : 1771662,
-      "readerCount" : 12655
+      "readerCount" : 12655,
+      "bothType" : false
     }, {
       "id" : 2259,
       "name" : "一树梨花散，散，散",
@@ -164,7 +183,8 @@
       "summary" : "所执悠，有着最崇高的身份，过着最低位的生活一场被刻意营造的海难，却由自己的亲人制造一场无望的眷恋，一",
       "updateStatus" : 2,
       "capacity" : 9346772,
-      "readerCount" : 12470
+      "readerCount" : 12470,
+      "bothType" : true
     } ]
   }
 }
