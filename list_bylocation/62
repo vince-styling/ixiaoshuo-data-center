@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2243,
-      "name" : "独宠之命中注定",
+      "id" : 2772,
+      "name" : "盛逝芳华",
       "updateStatus" : 1,
-      "distance" : 4471,
-      "memberId" : 1891,
-      "bothType" : true
+      "distance" : 4499,
+      "memberId" : 1941,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3300,
-      "name" : "画城",
+      "id" : 2899,
+      "name" : "暗恋恋晨色",
       "updateStatus" : 1,
-      "distance" : 5961,
-      "memberId" : 1325,
-      "bothType" : false
+      "distance" : 5320,
+      "memberId" : 4353,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2246,
-      "name" : "王爷，你给本宫趴下",
+      "id" : 2491,
+      "name" : "网游之睡睡也能成高手",
+      "updateStatus" : 1,
+      "distance" : 1820,
+      "memberId" : 6074,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2350,
+      "name" : "蝶缘痴恋",
+      "updateStatus" : 1,
+      "distance" : 3693,
+      "memberId" : 8800,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2212,
+      "name" : "禁天乱纪元",
+      "updateStatus" : 1,
+      "distance" : 9594,
+      "memberId" : 6778,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3616,
+      "name" : "重生商女之总裁请自重",
+      "updateStatus" : 1,
+      "distance" : 1327,
+      "memberId" : 8836,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2367,
+      "name" : "爱的嘉年华",
       "updateStatus" : 2,
-      "distance" : 910,
-      "memberId" : 4609,
-      "bothType" : false
-    }, {
-      "id" : 2877,
-      "name" : "总裁，我只是你的棋子",
-      "updateStatus" : 1,
-      "distance" : 4346,
-      "memberId" : 7345,
-      "bothType" : false
+      "distance" : 5589,
+      "memberId" : 7215,
+      "bothType" : false,
+      "textBook" : false
     }, {
       "id" : 2946,
       "name" : "穿得人情",
       "updateStatus" : 1,
-      "distance" : 4607,
-      "memberId" : 2918,
-      "bothType" : false
+      "distance" : 2549,
+      "memberId" : 4075,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2737,
-      "name" : "醉清狂",
+      "id" : 2807,
+      "name" : "忍住不说我爱你",
       "updateStatus" : 1,
-      "distance" : 2850,
-      "memberId" : 5370,
-      "bothType" : false
+      "distance" : 3161,
+      "memberId" : 2392,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2926,
-      "name" : "清宫情史",
+      "id" : 2353,
+      "name" : "攻前辈的作战",
       "updateStatus" : 1,
-      "distance" : 6900,
-      "memberId" : 5322,
-      "bothType" : false
+      "distance" : 9577,
+      "memberId" : 2177,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3656,
-      "name" : "爱终究短暂",
+      "id" : 2371,
+      "name" : "冰世纪的开胃陈",
       "updateStatus" : 1,
-      "distance" : 4783,
-      "memberId" : 3435,
-      "bothType" : false
+      "distance" : 7744,
+      "memberId" : 1928,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2851,
-      "name" : "妃藏匈奴",
+      "id" : 2078,
+      "name" : "绾君心",
       "updateStatus" : 1,
-      "distance" : 6007,
-      "memberId" : 2692,
-      "bothType" : false
+      "distance" : 2353,
+      "memberId" : 1605,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2580,
-      "name" : "琉璃碎",
+      "id" : 2935,
+      "name" : "双生迷爱",
       "updateStatus" : 1,
-      "distance" : 516,
-      "memberId" : 3184,
-      "bothType" : false
+      "distance" : 2717,
+      "memberId" : 2069,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3667,
-      "name" : "且行且见",
+      "id" : 2038,
+      "name" : "凤狂天下：本宫来自特工处",
       "updateStatus" : 1,
-      "distance" : 7521,
-      "memberId" : 8352,
-      "bothType" : false
+      "distance" : 2855,
+      "memberId" : 3545,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3574,
-      "name" : "祁家楼外楼",
+      "id" : 2110,
+      "name" : "江门夜话",
       "updateStatus" : 1,
-      "distance" : 7489,
-      "memberId" : 6027,
-      "bothType" : false
+      "distance" : 7549,
+      "memberId" : 1443,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3150,
-      "name" : "我是小丫",
+      "id" : 2970,
+      "name" : "《存在的烙印》",
       "updateStatus" : 1,
-      "distance" : 8980,
-      "memberId" : 4687,
-      "bothType" : false
+      "distance" : 9577,
+      "memberId" : 2838,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3468,
-      "name" : "轮回•不语",
+      "id" : 3462,
+      "name" : "冷婢有毒",
       "updateStatus" : 1,
-      "distance" : 1916,
-      "memberId" : 7478,
-      "bothType" : false
+      "distance" : 9924,
+      "memberId" : 6307,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2549,
-      "name" : "色如花，命如叶",
+      "id" : 2285,
+      "name" : "天织雪",
       "updateStatus" : 1,
-      "distance" : 2126,
-      "memberId" : 7687,
-      "bothType" : false
+      "distance" : 8344,
+      "memberId" : 1139,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2172,
-      "name" : "重生之倾城杀手",
+      "id" : 3278,
+      "name" : "珠帷怨",
       "updateStatus" : 1,
-      "distance" : 587,
-      "memberId" : 4064,
-      "bothType" : false
+      "distance" : 2518,
+      "memberId" : 4550,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3351,
-      "name" : "如果爱情只是错过",
+      "id" : 3423,
+      "name" : "其叶沃若",
       "updateStatus" : 1,
-      "distance" : 5241,
-      "memberId" : 4826,
-      "bothType" : false
-    }, {
-      "id" : 2625,
-      "name" : "囚爱天使：逃婚猫咪不服输",
-      "updateStatus" : 1,
-      "distance" : 7577,
-      "memberId" : 2253,
-      "bothType" : true
-    }, {
-      "id" : 2921,
-      "name" : "豪门恩怨之吾爱未央",
-      "updateStatus" : 1,
-      "distance" : 5412,
-      "memberId" : 5843,
-      "bothType" : false
-    }, {
-      "id" : 3265,
-      "name" : "如果，没有你",
-      "updateStatus" : 1,
-      "distance" : 2032,
-      "memberId" : 8156,
-      "bothType" : false
+      "distance" : 2365,
+      "memberId" : 5168,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

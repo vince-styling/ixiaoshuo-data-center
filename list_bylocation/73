@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2683,
-      "name" : "总有一个人能陪我一起老",
+      "id" : 3263,
+      "name" : "君臣一心",
       "updateStatus" : 1,
-      "distance" : 7048,
-      "memberId" : 3388,
-      "bothType" : false
+      "distance" : 6700,
+      "memberId" : 4406,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3314,
-      "name" : "倾城薄雾，似水流年",
-      "updateStatus" : 2,
-      "distance" : 5886,
-      "memberId" : 6000,
-      "bothType" : true
-    }, {
-      "id" : 3437,
-      "name" : "北方有佳人",
+      "id" : 2348,
+      "name" : "朱砂海棠",
       "updateStatus" : 1,
-      "distance" : 5736,
-      "memberId" : 4315,
-      "bothType" : false
+      "distance" : 8771,
+      "memberId" : 1356,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2178,
-      "name" : "穿越之朔月传奇",
+      "id" : 2622,
+      "name" : "恋上拽宫主",
       "updateStatus" : 1,
-      "distance" : 7800,
-      "memberId" : 5025,
-      "bothType" : true
+      "distance" : 2419,
+      "memberId" : 5462,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3119,
-      "name" : "还珠之浴火重生",
+      "id" : 2228,
+      "name" : "暗夜咒：千年之爱",
       "updateStatus" : 1,
-      "distance" : 3876,
-      "memberId" : 5780,
-      "bothType" : false
+      "distance" : 4590,
+      "memberId" : 8299,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2919,
-      "name" : "柚子",
+      "id" : 3176,
+      "name" : "留明待玥复",
       "updateStatus" : 1,
-      "distance" : 9859,
-      "memberId" : 5318,
-      "bothType" : false
+      "distance" : 9138,
+      "memberId" : 7138,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2995,
-      "name" : "《魔武乱世》",
+      "id" : 3442,
+      "name" : "这个皇后朕买了",
       "updateStatus" : 1,
-      "distance" : 2891,
-      "memberId" : 6030,
-      "bothType" : false
+      "distance" : 7436,
+      "memberId" : 1060,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2657,
-      "name" : "票定你",
+      "id" : 3380,
+      "name" : "彩虹下的承诺",
       "updateStatus" : 1,
-      "distance" : 1092,
-      "memberId" : 5077,
-      "bothType" : false
+      "distance" : 3300,
+      "memberId" : 7945,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2740,
-      "name" : "熟女的清穿经历",
+      "id" : 2346,
+      "name" : "魔鬼佳肴",
       "updateStatus" : 1,
-      "distance" : 9330,
-      "memberId" : 4295,
-      "bothType" : true
+      "distance" : 6044,
+      "memberId" : 7992,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2799,
-      "name" : "雪寻雪见",
+      "id" : 2558,
+      "name" : "唯吾独尊：废物公主傲天下",
       "updateStatus" : 1,
-      "distance" : 8670,
-      "memberId" : 2052,
-      "bothType" : false
+      "distance" : 2759,
+      "memberId" : 4242,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2406,
-      "name" : "福尔马林的爱情",
+      "id" : 2713,
+      "name" : "凉茶温酒",
       "updateStatus" : 1,
-      "distance" : 5212,
-      "memberId" : 8266,
-      "bothType" : false
+      "distance" : 6400,
+      "memberId" : 5633,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2924,
-      "name" : "幻想彩虹",
+      "id" : 2447,
+      "name" : "生活在深圳",
       "updateStatus" : 1,
-      "distance" : 3925,
-      "memberId" : 6571,
-      "bothType" : false
+      "distance" : 9733,
+      "memberId" : 8912,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3332,
-      "name" : "不会失忆的爱",
+      "id" : 3328,
+      "name" : "琉璃舞",
       "updateStatus" : 1,
-      "distance" : 8661,
-      "memberId" : 5894,
-      "bothType" : false
+      "distance" : 3999,
+      "memberId" : 1883,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2944,
-      "name" : "嬗变",
+      "id" : 3732,
+      "name" : "兰倾天下",
       "updateStatus" : 1,
-      "distance" : 9714,
-      "memberId" : 1140,
-      "bothType" : false
+      "distance" : 7215,
+      "memberId" : 3741,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3524,
-      "name" : "都溢",
+      "id" : 3230,
+      "name" : "霹雳戢武王妹控玉仔酱油记",
       "updateStatus" : 1,
-      "distance" : 9561,
-      "memberId" : 6411,
-      "bothType" : false
+      "distance" : 923,
+      "memberId" : 4554,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3634,
-      "name" : "空间叠合：人鬼恋之我的功夫女友",
-      "updateStatus" : 2,
-      "distance" : 6108,
-      "memberId" : 2104,
-      "bothType" : false
-    }, {
-      "id" : 3617,
-      "name" : "分手条约",
+      "id" : 2790,
+      "name" : "三世豪门：极品娇妻来袭",
       "updateStatus" : 1,
-      "distance" : 3597,
-      "memberId" : 4692,
-      "bothType" : false
+      "distance" : 2369,
+      "memberId" : 7238,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2303,
-      "name" : "阎末瑶",
+      "id" : 3637,
+      "name" : "万里月明",
       "updateStatus" : 1,
-      "distance" : 7464,
-      "memberId" : 1154,
-      "bothType" : false
+      "distance" : 3054,
+      "memberId" : 3844,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2252,
-      "name" : "弃妃之笑看人生一世风流",
-      "updateStatus" : 2,
-      "distance" : 870,
-      "memberId" : 4507,
-      "bothType" : false
-    }, {
-      "id" : 2234,
-      "name" : "启界",
+      "id" : 2599,
+      "name" : "流年何处飞花去",
       "updateStatus" : 1,
-      "distance" : 4352,
-      "memberId" : 3075,
-      "bothType" : false
+      "distance" : 1160,
+      "memberId" : 1837,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2419,
+      "name" : "那么爱你为什么",
+      "updateStatus" : 1,
+      "distance" : 9946,
+      "memberId" : 5678,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3057,
+      "name" : "穿越网王之千夜",
+      "updateStatus" : 1,
+      "distance" : 7658,
+      "memberId" : 8996,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2492,
+      "name" : "网战尖兵",
+      "updateStatus" : 1,
+      "distance" : 2010,
+      "memberId" : 7506,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

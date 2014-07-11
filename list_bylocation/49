@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3436,
-      "name" : "《侦探日记》",
+      "id" : 3445,
+      "name" : "落叶清欢",
       "updateStatus" : 1,
-      "distance" : 3534,
-      "memberId" : 5831,
-      "bothType" : true
+      "distance" : 552,
+      "memberId" : 3382,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2992,
-      "name" : "天才萌宝：霸情爹地太腹黑",
+      "id" : 3683,
+      "name" : "梧桐花雨：亡颜劫",
       "updateStatus" : 1,
-      "distance" : 9512,
-      "memberId" : 1953,
-      "bothType" : false
+      "distance" : 3857,
+      "memberId" : 4184,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3035,
-      "name" : "黑色殿下：丫头，认输吧",
+      "id" : 2861,
+      "name" : "妖孽殿下：魅惑冷情阁主",
       "updateStatus" : 1,
-      "distance" : 988,
-      "memberId" : 6497,
-      "bothType" : false
+      "distance" : 3441,
+      "memberId" : 7732,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3126,
-      "name" : "妖王妃",
+      "id" : 2894,
+      "name" : "废材大小姐之凤傲天下",
       "updateStatus" : 1,
-      "distance" : 6398,
-      "memberId" : 4372,
-      "bothType" : false
+      "distance" : 4041,
+      "memberId" : 3324,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3178,
-      "name" : "穿越之红柚偏甜",
+      "id" : 3594,
+      "name" : "浮生梦",
       "updateStatus" : 1,
-      "distance" : 6649,
-      "memberId" : 6877,
-      "bothType" : false
+      "distance" : 1587,
+      "memberId" : 2789,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2641,
-      "name" : "倾城归来",
+      "id" : 3737,
+      "name" : "忐忑修真路",
       "updateStatus" : 1,
-      "distance" : 5312,
-      "memberId" : 6608,
-      "bothType" : false
+      "distance" : 7025,
+      "memberId" : 3058,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2220,
-      "name" : "玄黄道环",
-      "updateStatus" : 1,
-      "distance" : 8987,
-      "memberId" : 3878,
-      "bothType" : false
+      "id" : 2194,
+      "name" : "创世迷途",
+      "updateStatus" : 2,
+      "distance" : 4130,
+      "memberId" : 7049,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3498,
-      "name" : "浅夏未了",
+      "id" : 2999,
+      "name" : "我们、熟悉到陌生",
       "updateStatus" : 1,
-      "distance" : 3143,
-      "memberId" : 2692,
-      "bothType" : false
+      "distance" : 8819,
+      "memberId" : 7932,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2521,
-      "name" : "你才奥利奥，你全家都奥利奥",
+      "id" : 3146,
+      "name" : "陌路相思",
       "updateStatus" : 1,
-      "distance" : 2351,
-      "memberId" : 7106,
-      "bothType" : false
+      "distance" : 9256,
+      "memberId" : 8399,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3475,
-      "name" : "冰王的傲娇妃",
+      "id" : 2946,
+      "name" : "穿得人情",
       "updateStatus" : 1,
-      "distance" : 7508,
-      "memberId" : 4742,
-      "bothType" : true
+      "distance" : 7137,
+      "memberId" : 7951,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3423,
-      "name" : "其叶沃若",
+      "id" : 3573,
+      "name" : "天使与伪天使的契约",
       "updateStatus" : 1,
-      "distance" : 3182,
-      "memberId" : 3673,
-      "bothType" : false
+      "distance" : 4194,
+      "memberId" : 4740,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3245,
-      "name" : "双凤夺体：娇蛮宠姬不好惹",
+      "id" : 2725,
+      "name" : "高富帅，统统趴下",
       "updateStatus" : 1,
-      "distance" : 5239,
-      "memberId" : 1468,
-      "bothType" : false
+      "distance" : 7062,
+      "memberId" : 3968,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2224,
-      "name" : "拯救吸血鬼",
+      "id" : 3381,
+      "name" : "秋中悲歌欲",
       "updateStatus" : 1,
-      "distance" : 3353,
-      "memberId" : 7559,
-      "bothType" : false
+      "distance" : 580,
+      "memberId" : 5903,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2682,
-      "name" : "心口不一",
+      "id" : 3294,
+      "name" : "朕爱生命，远离皇后",
       "updateStatus" : 1,
-      "distance" : 1448,
-      "memberId" : 2113,
-      "bothType" : true
+      "distance" : 8473,
+      "memberId" : 1136,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3343,
-      "name" : "许你水木两相依",
+      "id" : 2446,
+      "name" : "安否，掠掳之来去的幸福",
       "updateStatus" : 1,
-      "distance" : 660,
-      "memberId" : 1159,
-      "bothType" : false
+      "distance" : 1619,
+      "memberId" : 2806,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2435,
-      "name" : "绝世青龙王",
+      "id" : 3229,
+      "name" : "咫尺黑夜",
       "updateStatus" : 1,
-      "distance" : 8975,
-      "memberId" : 2978,
-      "bothType" : false
+      "distance" : 8179,
+      "memberId" : 7235,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2101,
-      "name" : "天边见流云",
+      "id" : 3189,
+      "name" : "奴家不承欢：宁为王者不为妃",
       "updateStatus" : 1,
-      "distance" : 8223,
-      "memberId" : 3787,
-      "bothType" : false
+      "distance" : 1735,
+      "memberId" : 8086,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3383,
-      "name" : "延续爱",
+      "id" : 2485,
+      "name" : "眸魂记",
       "updateStatus" : 1,
-      "distance" : 5243,
-      "memberId" : 6033,
-      "bothType" : false
+      "distance" : 3501,
+      "memberId" : 5064,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3109,
-      "name" : "茹果",
+      "id" : 3626,
+      "name" : "错过了，还能爱吗？",
       "updateStatus" : 1,
-      "distance" : 3537,
-      "memberId" : 5399,
-      "bothType" : false
+      "distance" : 5551,
+      "memberId" : 8927,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2274,
-      "name" : "世家贵女",
+      "id" : 2309,
+      "name" : "穿越民国之我是女汉子",
       "updateStatus" : 1,
-      "distance" : 8625,
-      "memberId" : 7668,
-      "bothType" : false
+      "distance" : 4592,
+      "memberId" : 2729,
+      "bothType" : true,
+      "textBook" : false
     } ]
   }
 }

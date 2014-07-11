@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3632,
-      "name" : "幽谷之殇",
+      "id" : 3614,
+      "name" : "二八不婚",
       "updateStatus" : 1,
-      "distance" : 7876,
-      "memberId" : 3803,
-      "bothType" : false
+      "distance" : 6827,
+      "memberId" : 8035,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3428,
-      "name" : "流年轻度鸳鸯浦",
+      "id" : 2317,
+      "name" : "江湖任我行",
       "updateStatus" : 1,
-      "distance" : 7965,
-      "memberId" : 8952,
-      "bothType" : true
+      "distance" : 7995,
+      "memberId" : 6646,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3623,
-      "name" : "惊醒一袭清梦",
+      "id" : 2586,
+      "name" : "半面仙",
       "updateStatus" : 1,
-      "distance" : 4647,
-      "memberId" : 2028,
-      "bothType" : false
+      "distance" : 2605,
+      "memberId" : 3956,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2583,
-      "name" : "梦中红叶知多少",
+      "id" : 2619,
+      "name" : "天价蓝颜",
       "updateStatus" : 1,
-      "distance" : 3995,
-      "memberId" : 5095,
-      "bothType" : true
+      "distance" : 8814,
+      "memberId" : 3889,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3140,
-      "name" : "今夜，天黑",
+      "id" : 2363,
+      "name" : "慕尘雪",
       "updateStatus" : 1,
-      "distance" : 2934,
-      "memberId" : 7022,
-      "bothType" : false
+      "distance" : 1347,
+      "memberId" : 5151,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3269,
-      "name" : "时空之泪鸢尾花",
+      "id" : 3529,
+      "name" : "黑道少女",
       "updateStatus" : 1,
-      "distance" : 1107,
-      "memberId" : 2436,
-      "bothType" : true
+      "distance" : 9341,
+      "memberId" : 2237,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2508,
-      "name" : "剑神？不是吧",
+      "id" : 2104,
+      "name" : "那一世红莲雨",
       "updateStatus" : 1,
-      "distance" : 4713,
-      "memberId" : 1691,
-      "bothType" : false
+      "distance" : 2029,
+      "memberId" : 3562,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3684,
-      "name" : "云之月痕",
+      "id" : 2539,
+      "name" : "沙漏时光",
       "updateStatus" : 1,
-      "distance" : 7013,
-      "memberId" : 4342,
-      "bothType" : false
+      "distance" : 9141,
+      "memberId" : 8193,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2959,
-      "name" : "是现实太现实之面具",
+      "id" : 2495,
+      "name" : "一个农村女人的蝴蝶梦",
       "updateStatus" : 1,
-      "distance" : 7688,
-      "memberId" : 7510,
-      "bothType" : false
+      "distance" : 9035,
+      "memberId" : 1538,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2903,
-      "name" : "诱饵王妃",
+      "id" : 3375,
+      "name" : "静待流年",
       "updateStatus" : 1,
-      "distance" : 2907,
-      "memberId" : 8346,
-      "bothType" : false
+      "distance" : 5223,
+      "memberId" : 6234,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2220,
-      "name" : "玄黄道环",
+      "id" : 2290,
+      "name" : "菩提",
       "updateStatus" : 1,
-      "distance" : 1746,
-      "memberId" : 5179,
-      "bothType" : false
+      "distance" : 9890,
+      "memberId" : 1739,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2064,
-      "name" : "百变夫君猎顽妻",
+      "id" : 2253,
+      "name" : "凤凰斗：刁蛮皇后不从夫",
       "updateStatus" : 2,
-      "distance" : 9606,
-      "memberId" : 2654,
-      "bothType" : true
+      "distance" : 3782,
+      "memberId" : 7432,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2453,
-      "name" : "死亡七部曲",
+      "id" : 2834,
+      "name" : "时间逐雨",
       "updateStatus" : 1,
-      "distance" : 1557,
-      "memberId" : 7248,
-      "bothType" : false
+      "distance" : 1708,
+      "memberId" : 8203,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2924,
-      "name" : "幻想彩虹",
+      "id" : 3652,
+      "name" : "总裁恶魔点娇妻",
       "updateStatus" : 1,
-      "distance" : 6595,
-      "memberId" : 7005,
-      "bothType" : true
+      "distance" : 9751,
+      "memberId" : 1317,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2877,
-      "name" : "总裁，我只是你的棋子",
+      "id" : 3422,
+      "name" : "五十弦",
       "updateStatus" : 1,
-      "distance" : 7427,
-      "memberId" : 8406,
-      "bothType" : false
+      "distance" : 7482,
+      "memberId" : 7881,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3662,
-      "name" : "窈窕君子",
+      "id" : 3372,
+      "name" : "未成曲调先有情",
       "updateStatus" : 1,
-      "distance" : 3467,
-      "memberId" : 8218,
-      "bothType" : true
+      "distance" : 7054,
+      "memberId" : 8633,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2849,
-      "name" : "缘来还是你",
+      "id" : 2981,
+      "name" : "夏家九爷",
       "updateStatus" : 1,
-      "distance" : 2237,
-      "memberId" : 6529,
-      "bothType" : true
+      "distance" : 3057,
+      "memberId" : 3208,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2115,
-      "name" : "宫心计：弃后霸君宠",
-      "updateStatus" : 2,
-      "distance" : 9573,
-      "memberId" : 1385,
-      "bothType" : true
-    }, {
-      "id" : 3346,
-      "name" : "一叶听风",
+      "id" : 3328,
+      "name" : "琉璃舞",
       "updateStatus" : 1,
-      "distance" : 6642,
-      "memberId" : 7326,
-      "bothType" : false
+      "distance" : 4272,
+      "memberId" : 8019,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3373,
-      "name" : "青歌宫词",
+      "id" : 2763,
+      "name" : "医暖天下",
       "updateStatus" : 1,
-      "distance" : 3968,
-      "memberId" : 4453,
-      "bothType" : true
+      "distance" : 2433,
+      "memberId" : 1781,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2212,
+      "name" : "禁天乱纪元",
+      "updateStatus" : 1,
+      "distance" : 7071,
+      "memberId" : 7292,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2688,
-      "name" : "疼痛青春：那夏离殇",
+      "id" : 3408,
+      "name" : "综恐一梦一回",
       "updateStatus" : 1,
-      "distance" : 8109,
-      "memberId" : 3300,
-      "bothType" : false
+      "distance" : 5214,
+      "memberId" : 5637,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2748,
-      "name" : "如果邂逅",
+      "id" : 2447,
+      "name" : "生活在深圳",
       "updateStatus" : 1,
-      "distance" : 2217,
-      "memberId" : 2843,
-      "bothType" : false
+      "distance" : 8477,
+      "memberId" : 7900,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2821,
-      "name" : "一念起，一世倾",
+      "id" : 3391,
+      "name" : "天上掉下个大侍郎",
       "updateStatus" : 1,
-      "distance" : 2957,
-      "memberId" : 7177,
-      "bothType" : false
+      "distance" : 8384,
+      "memberId" : 1373,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3134,
-      "name" : "山河暮色凉",
+      "id" : 3738,
+      "name" : "献青春：那些我们叛逆过的叛逆",
       "updateStatus" : 1,
-      "distance" : 2650,
-      "memberId" : 4677,
-      "bothType" : true
+      "distance" : 1449,
+      "memberId" : 8829,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2653,
-      "name" : "恶魔让你遇见我",
+      "id" : 2846,
+      "name" : "疯子的大学生活",
       "updateStatus" : 1,
-      "distance" : 3493,
-      "memberId" : 8579,
-      "bothType" : true
+      "distance" : 2020,
+      "memberId" : 4311,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3471,
-      "name" : "你是我闪耀的星",
+      "id" : 2913,
+      "name" : "孤单的世界",
       "updateStatus" : 1,
-      "distance" : 7162,
-      "memberId" : 8912,
-      "bothType" : false
+      "distance" : 6625,
+      "memberId" : 2798,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2489,
-      "name" : "雪落的声音",
-      "updateStatus" : 1,
-      "distance" : 5660,
-      "memberId" : 4190,
-      "bothType" : true
-    }, {
-      "id" : 2227,
-      "name" : "小狐赤烛",
-      "updateStatus" : 1,
-      "distance" : 4309,
-      "memberId" : 3310,
-      "bothType" : false
-    }, {
-      "id" : 3252,
-      "name" : "一辈子，在一起",
-      "updateStatus" : 1,
-      "distance" : 3837,
-      "memberId" : 6992,
-      "bothType" : false
-    }, {
-      "id" : 2828,
-      "name" : "风声",
+      "id" : 2510,
+      "name" : "守卫爱情",
       "updateStatus" : 2,
-      "distance" : 4657,
-      "memberId" : 3346,
-      "bothType" : false
+      "distance" : 7074,
+      "memberId" : 8964,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3667,
-      "name" : "且行且见",
+      "id" : 3595,
+      "name" : "冷漠千金邪魅少爷",
       "updateStatus" : 1,
-      "distance" : 6505,
-      "memberId" : 2796,
-      "bothType" : false
+      "distance" : 2836,
+      "memberId" : 3271,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2985,
-      "name" : "重生之红梅烙",
+      "id" : 3482,
+      "name" : "迷失并盛",
       "updateStatus" : 1,
-      "distance" : 6737,
-      "memberId" : 2044,
-      "bothType" : false
+      "distance" : 2647,
+      "memberId" : 2515,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3051,
-      "name" : "执念恨",
+      "id" : 2044,
+      "name" : "七厘米的蔚蓝",
+      "updateStatus" : 1,
+      "distance" : 674,
+      "memberId" : 4585,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3440,
+      "name" : "风月楼",
+      "updateStatus" : 1,
+      "distance" : 4324,
+      "memberId" : 8148,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2415,
+      "name" : "学生起义军",
       "updateStatus" : 2,
-      "distance" : 730,
-      "memberId" : 8475,
-      "bothType" : false
+      "distance" : 7624,
+      "memberId" : 3859,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2864,
-      "name" : "天幕吟之雪荒初史",
+      "id" : 2866,
+      "name" : "寂寞恋爱",
       "updateStatus" : 1,
-      "distance" : 7548,
-      "memberId" : 7849,
-      "bothType" : true
+      "distance" : 4398,
+      "memberId" : 5244,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3386,
-      "name" : "云水竹心",
+      "id" : 2155,
+      "name" : "古剑情韵之花神泪",
       "updateStatus" : 1,
-      "distance" : 7506,
-      "memberId" : 7151,
-      "bothType" : false
+      "distance" : 6184,
+      "memberId" : 7565,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2494,
-      "name" : "火蓝刀锋之邂逅重生",
+      "id" : 2719,
+      "name" : "靛·自掘坟墓",
       "updateStatus" : 1,
-      "distance" : 2874,
-      "memberId" : 3741,
-      "bothType" : false
+      "distance" : 6531,
+      "memberId" : 2681,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2760,
-      "name" : "纳粹宝藏",
+      "id" : 2656,
+      "name" : "沉浮爱中殇",
       "updateStatus" : 1,
-      "distance" : 9162,
-      "memberId" : 1538,
-      "bothType" : false
+      "distance" : 1130,
+      "memberId" : 6340,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2405,
-      "name" : "恨与爱的边缘",
+      "id" : 2128,
+      "name" : "幻莫一世，情殇",
       "updateStatus" : 1,
-      "distance" : 8469,
-      "memberId" : 3837,
-      "bothType" : false
+      "distance" : 3787,
+      "memberId" : 8753,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2948,
-      "name" : "庶女狂妃：傲凤逆九天",
+      "id" : 2462,
+      "name" : "道听途说",
       "updateStatus" : 1,
-      "distance" : 7855,
-      "memberId" : 8822,
-      "bothType" : false
+      "distance" : 4543,
+      "memberId" : 3033,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3129,
-      "name" : "（秦时+火影）滚来滚去滚成圆",
+      "id" : 2654,
+      "name" : "异能女王改写天书",
       "updateStatus" : 1,
-      "distance" : 7906,
-      "memberId" : 7067,
-      "bothType" : false
+      "distance" : 6908,
+      "memberId" : 2703,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2501,
+      "name" : "金属蝴蝶",
+      "updateStatus" : 1,
+      "distance" : 947,
+      "memberId" : 2575,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

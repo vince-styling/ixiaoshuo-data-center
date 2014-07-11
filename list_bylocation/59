@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2501,
-      "name" : "金属蝴蝶",
+      "id" : 3267,
+      "name" : "穿越之花本纯粹",
       "updateStatus" : 1,
-      "distance" : 6305,
-      "memberId" : 4676,
-      "bothType" : true
+      "distance" : 5848,
+      "memberId" : 6532,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2370,
-      "name" : "假面的告白",
+      "id" : 2485,
+      "name" : "眸魂记",
       "updateStatus" : 1,
-      "distance" : 6004,
-      "memberId" : 8896,
-      "bothType" : false
+      "distance" : 1208,
+      "memberId" : 7608,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3274,
-      "name" : "啼笑皆妃之妃比寻常",
+      "id" : 2643,
+      "name" : "乱盛夏倾光年",
       "updateStatus" : 1,
-      "distance" : 9625,
-      "memberId" : 8763,
-      "bothType" : true
+      "distance" : 7671,
+      "memberId" : 7532,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2779,
-      "name" : "匪总与他丢失的肋骨",
+      "id" : 3621,
+      "name" : "竹歪桃花三两枝",
       "updateStatus" : 1,
-      "distance" : 707,
-      "memberId" : 4056,
-      "bothType" : false
+      "distance" : 3271,
+      "memberId" : 7449,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2166,
-      "name" : "仙岚异世情",
+      "id" : 2807,
+      "name" : "忍住不说我爱你",
       "updateStatus" : 1,
-      "distance" : 9045,
-      "memberId" : 3696,
-      "bothType" : false
+      "distance" : 1805,
+      "memberId" : 5796,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3719,
-      "name" : "唯心城的月光",
+      "id" : 2677,
+      "name" : "悠悠珠碧河",
       "updateStatus" : 1,
-      "distance" : 7781,
-      "memberId" : 3757,
-      "bothType" : false
+      "distance" : 6769,
+      "memberId" : 5586,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3605,
-      "name" : "十年换一世情深",
+      "id" : 2962,
+      "name" : "爱与时光终年不遇",
       "updateStatus" : 1,
-      "distance" : 2277,
-      "memberId" : 8762,
-      "bothType" : false
+      "distance" : 8454,
+      "memberId" : 4317,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2421,
-      "name" : "爱我你不敢",
+      "id" : 2777,
+      "name" : "穿越之风沁",
       "updateStatus" : 1,
-      "distance" : 9385,
-      "memberId" : 2229,
-      "bothType" : true
+      "distance" : 1368,
+      "memberId" : 2422,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2870,
-      "name" : "爱情有多远",
+      "id" : 3401,
+      "name" : "狂2",
       "updateStatus" : 1,
-      "distance" : 8687,
-      "memberId" : 8469,
-      "bothType" : false
+      "distance" : 7468,
+      "memberId" : 5106,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2392,
-      "name" : "刁蛮丫头很温柔",
-      "updateStatus" : 2,
-      "distance" : 9601,
-      "memberId" : 4599,
-      "bothType" : false
-    }, {
-      "id" : 2290,
-      "name" : "菩提",
+      "id" : 2760,
+      "name" : "纳粹宝藏",
       "updateStatus" : 1,
-      "distance" : 6146,
-      "memberId" : 1583,
-      "bothType" : false
+      "distance" : 3420,
+      "memberId" : 4054,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2390,
-      "name" : "最初的仪式，最后的爱情",
-      "updateStatus" : 2,
-      "distance" : 910,
-      "memberId" : 2928,
-      "bothType" : false
-    }, {
-      "id" : 2228,
-      "name" : "暗夜咒：千年之爱",
+      "id" : 2776,
+      "name" : "时空魔法师",
       "updateStatus" : 1,
-      "distance" : 1676,
-      "memberId" : 7629,
-      "bothType" : false
+      "distance" : 7884,
+      "memberId" : 1647,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3056,
-      "name" : "惊情六百年",
+      "id" : 3473,
+      "name" : "素女劫",
       "updateStatus" : 1,
-      "distance" : 9553,
-      "memberId" : 5390,
-      "bothType" : false
+      "distance" : 850,
+      "memberId" : 6346,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3270,
-      "name" : "媚颜笑",
+      "id" : 2942,
+      "name" : "手可摘星辰",
       "updateStatus" : 1,
-      "distance" : 9171,
-      "memberId" : 3495,
-      "bothType" : true
+      "distance" : 1147,
+      "memberId" : 5734,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2517,
-      "name" : "家教之七色光芒",
+      "id" : 3667,
+      "name" : "且行且见",
       "updateStatus" : 1,
-      "distance" : 6892,
-      "memberId" : 5572,
-      "bothType" : true
+      "distance" : 3355,
+      "memberId" : 5188,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2515,
-      "name" : "青春兵路",
-      "updateStatus" : 2,
-      "distance" : 3010,
-      "memberId" : 3486,
-      "bothType" : false
-    }, {
-      "id" : 2491,
-      "name" : "网游之睡睡也能成高手",
+      "id" : 2603,
+      "name" : "墨瞳物语",
       "updateStatus" : 1,
-      "distance" : 2341,
-      "memberId" : 4666,
-      "bothType" : false
+      "distance" : 3288,
+      "memberId" : 5208,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2884,
-      "name" : "叶落彼岸，爱到荼蘼",
+      "id" : 3147,
+      "name" : "嫡女心机",
       "updateStatus" : 1,
-      "distance" : 5621,
-      "memberId" : 5122,
-      "bothType" : false
+      "distance" : 8886,
+      "memberId" : 1320,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2098,
-      "name" : "东风吹尽龙沙雪",
+      "id" : 2570,
+      "name" : "情挑深情夫君",
       "updateStatus" : 1,
-      "distance" : 827,
-      "memberId" : 1426,
-      "bothType" : false
+      "distance" : 8900,
+      "memberId" : 1394,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3710,
+      "name" : "最后一瓶冰红茶",
+      "updateStatus" : 1,
+      "distance" : 5032,
+      "memberId" : 6470,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2715,
+      "name" : "瞎女闯后宫",
+      "updateStatus" : 1,
+      "distance" : 5399,
+      "memberId" : 5512,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2484,
+      "name" : "让我杀了你，爱人",
+      "updateStatus" : 1,
+      "distance" : 4353,
+      "memberId" : 2206,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

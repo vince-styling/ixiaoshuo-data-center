@@ -6,12 +6,13 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3722,
-      "name" : "夏日妍妍正好眠",
+      "id" : 3571,
+      "name" : "小小侍女的灿烂时光",
       "updateStatus" : 1,
-      "distance" : 7414,
-      "memberId" : 6559,
-      "bothType" : false
+      "distance" : 1227,
+      "memberId" : 3321,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

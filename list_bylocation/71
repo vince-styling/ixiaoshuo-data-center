@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2301,
-      "name" : "卿愿与君长相守",
+      "id" : 3639,
+      "name" : "疯狂的机械师",
       "updateStatus" : 2,
-      "distance" : 3135,
-      "memberId" : 5463,
-      "bothType" : false
+      "distance" : 8923,
+      "memberId" : 4498,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2794,
-      "name" : "邪恶之灵",
+      "id" : 2753,
+      "name" : "妖孽上校找上门",
       "updateStatus" : 1,
-      "distance" : 5742,
-      "memberId" : 7470,
-      "bothType" : false
+      "distance" : 3538,
+      "memberId" : 1458,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2827,
-      "name" : "时光里的秘密",
+      "id" : 3126,
+      "name" : "妖王妃",
       "updateStatus" : 1,
-      "distance" : 1985,
-      "memberId" : 7161,
-      "bothType" : false
+      "distance" : 2135,
+      "memberId" : 4573,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2748,
-      "name" : "如果邂逅",
+      "id" : 2473,
+      "name" : "解惑",
       "updateStatus" : 1,
-      "distance" : 2068,
-      "memberId" : 2523,
-      "bothType" : false
+      "distance" : 6334,
+      "memberId" : 6993,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2470,
-      "name" : "祸水",
+      "id" : 3555,
+      "name" : "锦书谁寄相思语",
+      "updateStatus" : 1,
+      "distance" : 8211,
+      "memberId" : 6543,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3099,
+      "name" : "青春悼念曲",
+      "updateStatus" : 1,
+      "distance" : 8639,
+      "memberId" : 6741,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2604,
+      "name" : "大世纪",
+      "updateStatus" : 1,
+      "distance" : 9336,
+      "memberId" : 7550,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2159,
+      "name" : "雁翎刀",
+      "updateStatus" : 1,
+      "distance" : 3433,
+      "memberId" : 3621,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3276,
+      "name" : "宫心计续集",
+      "updateStatus" : 1,
+      "distance" : 992,
+      "memberId" : 1725,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3438,
+      "name" : "叶之于归",
+      "updateStatus" : 1,
+      "distance" : 3583,
+      "memberId" : 5695,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2176,
+      "name" : "重生之堕仙",
+      "updateStatus" : 1,
+      "distance" : 7669,
+      "memberId" : 7850,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3230,
+      "name" : "霹雳戢武王妹控玉仔酱油记",
+      "updateStatus" : 1,
+      "distance" : 5272,
+      "memberId" : 8321,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2225,
+      "name" : "梵卓的白色蔷薇",
+      "updateStatus" : 1,
+      "distance" : 7924,
+      "memberId" : 7623,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2569,
+      "name" : "倾世绝傲：女神修仙传",
+      "updateStatus" : 1,
+      "distance" : 9911,
+      "memberId" : 3145,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2796,
+      "name" : "风流老板俏秘书",
+      "updateStatus" : 1,
+      "distance" : 8364,
+      "memberId" : 2907,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2065,
+      "name" : "昭华散",
       "updateStatus" : 2,
-      "distance" : 3828,
-      "memberId" : 8374,
-      "bothType" : false
+      "distance" : 4405,
+      "memberId" : 4190,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3742,
-      "name" : "汝心计",
+      "id" : 3011,
+      "name" : "守护伊始只为你",
       "updateStatus" : 1,
-      "distance" : 6251,
-      "memberId" : 1231,
-      "bothType" : true
+      "distance" : 4940,
+      "memberId" : 8645,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2083,
-      "name" : "卿本庶女",
-      "updateStatus" : 2,
-      "distance" : 2179,
-      "memberId" : 2005,
-      "bothType" : false
-    }, {
-      "id" : 2334,
-      "name" : "异时空情恋之殿下不要忽悠我",
+      "id" : 3341,
+      "name" : "生于暮晨死于暮歌",
       "updateStatus" : 1,
-      "distance" : 3628,
-      "memberId" : 7374,
-      "bothType" : true
+      "distance" : 7568,
+      "memberId" : 3656,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3057,
-      "name" : "穿越网王之千夜",
+      "id" : 3055,
+      "name" : "双龙戏凤",
       "updateStatus" : 1,
-      "distance" : 7815,
-      "memberId" : 8891,
-      "bothType" : false
+      "distance" : 4798,
+      "memberId" : 4589,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3537,
-      "name" : "倾尽天下，乱世红颜",
+      "id" : 2980,
+      "name" : "穿越做将军",
       "updateStatus" : 1,
-      "distance" : 7890,
-      "memberId" : 5802,
-      "bothType" : true
-    }, {
-      "id" : 2371,
-      "name" : "冰世纪的开胃陈",
-      "updateStatus" : 1,
-      "distance" : 1998,
-      "memberId" : 2261,
-      "bothType" : true
-    }, {
-      "id" : 3432,
-      "name" : "我在这里，你在哪",
-      "updateStatus" : 1,
-      "distance" : 5577,
-      "memberId" : 5992,
-      "bothType" : false
-    }, {
-      "id" : 2328,
-      "name" : "江山美男归我管",
-      "updateStatus" : 1,
-      "distance" : 779,
-      "memberId" : 8893,
-      "bothType" : true
-    }, {
-      "id" : 2991,
-      "name" : "穿越之带着闺蜜去穿越",
-      "updateStatus" : 1,
-      "distance" : 4913,
-      "memberId" : 2701,
-      "bothType" : false
-    }, {
-      "id" : 2142,
-      "name" : "修真界疯子",
-      "updateStatus" : 1,
-      "distance" : 1755,
-      "memberId" : 8287,
-      "bothType" : false
-    }, {
-      "id" : 2344,
-      "name" : "枫林残恋",
-      "updateStatus" : 1,
-      "distance" : 929,
-      "memberId" : 7833,
-      "bothType" : false
-    }, {
-      "id" : 3268,
-      "name" : "荆棘路之丛生荆棘",
-      "updateStatus" : 1,
-      "distance" : 9651,
-      "memberId" : 8842,
-      "bothType" : false
-    }, {
-      "id" : 2555,
-      "name" : "嫁个如意郎君",
-      "updateStatus" : 1,
-      "distance" : 3723,
-      "memberId" : 2480,
-      "bothType" : false
-    }, {
-      "id" : 2123,
-      "name" : "鬼歾",
-      "updateStatus" : 2,
-      "distance" : 4760,
-      "memberId" : 1998,
-      "bothType" : false
-    }, {
-      "id" : 2439,
-      "name" : "付卿吾韶华",
-      "updateStatus" : 1,
-      "distance" : 1482,
-      "memberId" : 1128,
-      "bothType" : false
+      "distance" : 4641,
+      "memberId" : 6711,
+      "bothType" : true,
+      "textBook" : false
     } ]
   }
 }

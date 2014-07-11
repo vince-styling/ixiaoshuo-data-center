@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2196,
-      "name" : "似梦非梦：我的前世今生",
+      "id" : 2649,
+      "name" : "女配",
+      "updateStatus" : 1,
+      "distance" : 5602,
+      "memberId" : 3685,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2107,
+      "name" : "嚣张王妃：霸爱俊王爷",
       "updateStatus" : 2,
-      "distance" : 7307,
-      "memberId" : 2157,
-      "bothType" : false
+      "distance" : 7781,
+      "memberId" : 5728,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2368,
-      "name" : "相思都门",
+      "id" : 2295,
+      "name" : "未来帝国之战国春秋",
       "updateStatus" : 1,
-      "distance" : 9029,
-      "memberId" : 5643,
-      "bothType" : true
+      "distance" : 7312,
+      "memberId" : 6877,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2373,
-      "name" : "小子们，上课请勿搞基",
+      "id" : 2401,
+      "name" : "拾爱：蚀骨之恋",
+      "updateStatus" : 1,
+      "distance" : 8565,
+      "memberId" : 6246,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3272,
+      "name" : "来，卖身契给我",
+      "updateStatus" : 1,
+      "distance" : 571,
+      "memberId" : 8964,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2450,
+      "name" : "黑客与总裁情缘",
+      "updateStatus" : 1,
+      "distance" : 3546,
+      "memberId" : 8954,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2359,
+      "name" : "羽落殇心醉红尘",
       "updateStatus" : 2,
-      "distance" : 7196,
-      "memberId" : 7212,
-      "bothType" : false
+      "distance" : 8159,
+      "memberId" : 6867,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3352,
-      "name" : "沁语录",
+      "id" : 2239,
+      "name" : "都市修仙巅峰传说",
       "updateStatus" : 1,
-      "distance" : 6306,
-      "memberId" : 4977,
-      "bothType" : false
+      "distance" : 5406,
+      "memberId" : 4352,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3127,
-      "name" : "重生之轻月浮华",
-      "updateStatus" : 2,
-      "distance" : 9249,
-      "memberId" : 7109,
-      "bothType" : false
-    }, {
-      "id" : 2521,
-      "name" : "你才奥利奥，你全家都奥利奥",
+      "id" : 3490,
+      "name" : "舍友是公主大人",
       "updateStatus" : 1,
-      "distance" : 3702,
-      "memberId" : 7473,
-      "bothType" : true
+      "distance" : 7998,
+      "memberId" : 7799,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2685,
-      "name" : "含蕾",
+      "id" : 2881,
+      "name" : "豪门：公主不愁嫁",
       "updateStatus" : 1,
-      "distance" : 1968,
+      "distance" : 2858,
       "memberId" : 6234,
-      "bothType" : false
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2970,
-      "name" : "《存在的烙印》",
+      "id" : 2561,
+      "name" : "墨上清歌",
       "updateStatus" : 1,
-      "distance" : 6538,
-      "memberId" : 8197,
-      "bothType" : false
+      "distance" : 8890,
+      "memberId" : 5574,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2621,
-      "name" : "一路南北",
+      "id" : 2570,
+      "name" : "情挑深情夫君",
       "updateStatus" : 1,
-      "distance" : 6067,
-      "memberId" : 3845,
-      "bothType" : true
+      "distance" : 2976,
+      "memberId" : 1698,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2934,
-      "name" : "怀海漫成",
+      "id" : 3695,
+      "name" : "大叔你要还我钱",
       "updateStatus" : 1,
-      "distance" : 8161,
-      "memberId" : 4389,
-      "bothType" : false
+      "distance" : 4900,
+      "memberId" : 2489,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3247,
-      "name" : "清帏花色浓",
+      "id" : 3539,
+      "name" : "恶魔少爷的失宠玩偶",
       "updateStatus" : 1,
-      "distance" : 5165,
-      "memberId" : 6707,
-      "bothType" : true
+      "distance" : 2268,
+      "memberId" : 2956,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3547,
-      "name" : "寡仁寡义传",
-      "updateStatus" : 1,
-      "distance" : 8476,
-      "memberId" : 4283,
-      "bothType" : false
+      "id" : 2184,
+      "name" : "西月长歌",
+      "updateStatus" : 2,
+      "distance" : 8742,
+      "memberId" : 8911,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3507,
-      "name" : "血雨腥风恩仇录",
+      "id" : 2095,
+      "name" : "逐鹿芳心",
       "updateStatus" : 1,
-      "distance" : 9824,
-      "memberId" : 8458,
-      "bothType" : false
+      "distance" : 3071,
+      "memberId" : 6439,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2852,
-      "name" : "花千世界",
+      "id" : 2718,
+      "name" : "卿云意",
       "updateStatus" : 1,
-      "distance" : 6345,
-      "memberId" : 6183,
-      "bothType" : false
+      "distance" : 4634,
+      "memberId" : 7928,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2530,
-      "name" : "半城烟雨",
+      "id" : 3065,
+      "name" : "反女巫联盟",
       "updateStatus" : 1,
-      "distance" : 6778,
-      "memberId" : 8611,
-      "bothType" : true
+      "distance" : 9037,
+      "memberId" : 2007,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2654,
-      "name" : "异能女王改写天书",
+      "id" : 3090,
+      "name" : "两个人的天意",
       "updateStatus" : 1,
-      "distance" : 3613,
-      "memberId" : 1163,
-      "bothType" : true
+      "distance" : 9278,
+      "memberId" : 5978,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2834,
-      "name" : "时间逐雨",
+      "id" : 2268,
+      "name" : "大卫王",
       "updateStatus" : 1,
-      "distance" : 7275,
-      "memberId" : 7055,
-      "bothType" : true
-    }, {
-      "id" : 2486,
-      "name" : "天才少女侦探",
-      "updateStatus" : 1,
-      "distance" : 7790,
-      "memberId" : 8810,
-      "bothType" : true
-    }, {
-      "id" : 2349,
-      "name" : "不相信国",
-      "updateStatus" : 1,
-      "distance" : 8750,
-      "memberId" : 1092,
-      "bothType" : false
-    }, {
-      "id" : 3322,
-      "name" : "爱情倒时差",
-      "updateStatus" : 1,
-      "distance" : 5560,
-      "memberId" : 7741,
-      "bothType" : false
+      "distance" : 7479,
+      "memberId" : 2790,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2740,
-      "name" : "熟女的清穿经历",
-      "updateStatus" : 1,
-      "distance" : 5800,
-      "memberId" : 3501,
-      "bothType" : false
-    }, {
-      "id" : 2914,
-      "name" : "寻找自己",
-      "updateStatus" : 1,
-      "distance" : 1776,
-      "memberId" : 7032,
-      "bothType" : true
-    }, {
-      "id" : 3393,
-      "name" : "医",
-      "updateStatus" : 1,
-      "distance" : 3181,
-      "memberId" : 6634,
-      "bothType" : true
-    }, {
-      "id" : 3305,
-      "name" : "混世钉子",
-      "updateStatus" : 1,
-      "distance" : 6478,
-      "memberId" : 4338,
-      "bothType" : true
-    }, {
-      "id" : 2226,
-      "name" : "浴火之凰",
-      "updateStatus" : 1,
-      "distance" : 3002,
-      "memberId" : 7832,
-      "bothType" : false
-    }, {
-      "id" : 3190,
-      "name" : "仙侠之倾世绝恋",
-      "updateStatus" : 1,
-      "distance" : 1420,
-      "memberId" : 1624,
-      "bothType" : true
-    }, {
-      "id" : 2940,
-      "name" : "秦汉·流云浮生",
-      "updateStatus" : 1,
-      "distance" : 4116,
-      "memberId" : 7557,
-      "bothType" : false
-    }, {
-      "id" : 2825,
-      "name" : "相守时光中",
-      "updateStatus" : 1,
-      "distance" : 1780,
-      "memberId" : 5494,
-      "bothType" : false
-    }, {
-      "id" : 2565,
-      "name" : "冯子莫",
-      "updateStatus" : 1,
-      "distance" : 4741,
-      "memberId" : 4301,
-      "bothType" : false
-    }, {
-      "id" : 2591,
-      "name" : "泪水飘落的日子",
-      "updateStatus" : 1,
-      "distance" : 7930,
-      "memberId" : 5455,
-      "bothType" : false
-    }, {
-      "id" : 3390,
-      "name" : "贺兰山下阵如云",
-      "updateStatus" : 1,
-      "distance" : 8775,
-      "memberId" : 1920,
-      "bothType" : false
-    }, {
-      "id" : 3385,
-      "name" : "修仙之凤舞九天",
-      "updateStatus" : 1,
-      "distance" : 5925,
-      "memberId" : 4168,
-      "bothType" : false
-    }, {
-      "id" : 3326,
-      "name" : "暖暖的",
-      "updateStatus" : 1,
-      "distance" : 9039,
-      "memberId" : 2846,
-      "bothType" : false
-    }, {
-      "id" : 3705,
-      "name" : "管家系类：管家大人是女生！",
-      "updateStatus" : 1,
-      "distance" : 1506,
-      "memberId" : 8608,
-      "bothType" : false
-    }, {
       "id" : 3253,
       "name" : "替身之后",
       "updateStatus" : 1,
-      "distance" : 1158,
-      "memberId" : 5878,
-      "bothType" : false
+      "distance" : 2095,
+      "memberId" : 2988,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3102,
-      "name" : "暗光",
+      "id" : 3419,
+      "name" : "狐色本媚",
       "updateStatus" : 1,
-      "distance" : 1691,
-      "memberId" : 7885,
-      "bothType" : true
+      "distance" : 6798,
+      "memberId" : 1243,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3455,
-      "name" : "蜜宠之今生只要你",
+      "id" : 3728,
+      "name" : "含烟思窃之皇上、臣妾做不到",
       "updateStatus" : 1,
-      "distance" : 8659,
-      "memberId" : 1432,
-      "bothType" : false
+      "distance" : 1106,
+      "memberId" : 5508,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3514,
-      "name" : "修罗决旨",
+      "id" : 3660,
+      "name" : "男佣",
       "updateStatus" : 1,
-      "distance" : 8300,
-      "memberId" : 2819,
-      "bothType" : false
+      "distance" : 8369,
+      "memberId" : 7319,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2398,
-      "name" : "千里共月光",
+      "id" : 2816,
+      "name" : "穿越之浅梦吟",
       "updateStatus" : 1,
-      "distance" : 834,
-      "memberId" : 7591,
-      "bothType" : false
+      "distance" : 5641,
+      "memberId" : 2015,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3739,
-      "name" : "狐媚天下：妖娆娘子腹黑爷",
+      "id" : 2576,
+      "name" : "四人行",
       "updateStatus" : 1,
-      "distance" : 7864,
-      "memberId" : 7909,
-      "bothType" : false
+      "distance" : 4227,
+      "memberId" : 4318,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2446,
+      "name" : "安否，掠掳之来去的幸福",
+      "updateStatus" : 1,
+      "distance" : 5539,
+      "memberId" : 5825,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2184,
+      "name" : "西月长歌",
+      "updateStatus" : 2,
+      "distance" : 9887,
+      "memberId" : 7384,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3147,
+      "name" : "嫡女心机",
+      "updateStatus" : 1,
+      "distance" : 7581,
+      "memberId" : 4433,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2328,
+      "name" : "江山美男归我管",
+      "updateStatus" : 1,
+      "distance" : 9512,
+      "memberId" : 7509,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3238,
+      "name" : "红尘珏",
+      "updateStatus" : 1,
+      "distance" : 5089,
+      "memberId" : 4685,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2067,
+      "name" : "昔人惜人",
+      "updateStatus" : 2,
+      "distance" : 3313,
+      "memberId" : 1427,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3720,
+      "name" : "唯不忘相思",
+      "updateStatus" : 1,
+      "distance" : 7845,
+      "memberId" : 1930,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2867,
+      "name" : "子兰",
+      "updateStatus" : 1,
+      "distance" : 4166,
+      "memberId" : 2318,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2823,
+      "name" : "情结若楚",
+      "updateStatus" : 1,
+      "distance" : 9967,
+      "memberId" : 4229,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2430,
+      "name" : "一场梦如痴如醉",
+      "updateStatus" : 1,
+      "distance" : 9427,
+      "memberId" : 3266,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2923,
+      "name" : "帝王业：誓不为妃",
+      "updateStatus" : 1,
+      "distance" : 1271,
+      "memberId" : 8988,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3262,
+      "name" : "爱，在遥远的彼方",
+      "updateStatus" : 1,
+      "distance" : 8449,
+      "memberId" : 1798,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3690,
+      "name" : "帝王劫：重生之丑女皇后",
+      "updateStatus" : 1,
+      "distance" : 9160,
+      "memberId" : 1839,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2043,
+      "name" : "彼岸繁花落",
+      "updateStatus" : 1,
+      "distance" : 7111,
+      "memberId" : 4425,
+      "bothType" : true,
+      "textBook" : true
     } ]
   }
 }

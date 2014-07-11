@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2412,
-      "name" : "爱已转角",
+      "id" : 2517,
+      "name" : "家教之七色光芒",
       "updateStatus" : 1,
-      "distance" : 7972,
-      "memberId" : 8854,
-      "bothType" : false
+      "distance" : 2255,
+      "memberId" : 3951,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2147,
-      "name" : "不当神仙也爱你",
-      "updateStatus" : 2,
-      "distance" : 9305,
-      "memberId" : 8998,
-      "bothType" : false
-    }, {
-      "id" : 2327,
-      "name" : "尚古谪仙传：谪仙囧囧谈",
+      "id" : 2686,
+      "name" : "罂粟：血蔷薇",
       "updateStatus" : 1,
-      "distance" : 5048,
-      "memberId" : 2629,
-      "bothType" : false
+      "distance" : 8594,
+      "memberId" : 8568,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2197,
-      "name" : "血色蔓延之守护者",
-      "updateStatus" : 2,
-      "distance" : 7046,
-      "memberId" : 2270,
-      "bothType" : false
-    }, {
-      "id" : 3225,
-      "name" : "夜长貘多",
+      "id" : 2726,
+      "name" : "琉璃玉",
       "updateStatus" : 1,
-      "distance" : 1666,
-      "memberId" : 2744,
-      "bothType" : true
+      "distance" : 1146,
+      "memberId" : 2940,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3327,
-      "name" : "天堂来的候鸟",
+      "id" : 2364,
+      "name" : "双城——消隐的传奇",
       "updateStatus" : 1,
-      "distance" : 1816,
-      "memberId" : 2827,
-      "bothType" : false
+      "distance" : 5634,
+      "memberId" : 8073,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2964,
-      "name" : "以我一生护你一世",
+      "id" : 3630,
+      "name" : "我叫林若妃",
       "updateStatus" : 1,
-      "distance" : 6000,
-      "memberId" : 4624,
-      "bothType" : false
+      "distance" : 3120,
+      "memberId" : 6587,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2872,
-      "name" : "口是心非：那个女人的谎言",
+      "id" : 2105,
+      "name" : "是谁弯下小蛮腰",
       "updateStatus" : 1,
-      "distance" : 4422,
-      "memberId" : 1711,
-      "bothType" : true
+      "distance" : 6462,
+      "memberId" : 4234,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3146,
-      "name" : "陌路相思",
+      "id" : 2653,
+      "name" : "恶魔让你遇见我",
       "updateStatus" : 1,
-      "distance" : 1589,
-      "memberId" : 4350,
-      "bothType" : false
+      "distance" : 5825,
+      "memberId" : 6065,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2928,
-      "name" : "双面总裁：我的老公是哪位？",
+      "id" : 3494,
+      "name" : "意识流",
       "updateStatus" : 1,
-      "distance" : 7934,
-      "memberId" : 1976,
-      "bothType" : true
+      "distance" : 8250,
+      "memberId" : 3756,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2162,
-      "name" : "琴之飞絮",
-      "updateStatus" : 2,
-      "distance" : 2670,
-      "memberId" : 2068,
-      "bothType" : false
-    }, {
-      "id" : 3619,
-      "name" : "结婚规则：一生就要你一人",
+      "id" : 2721,
+      "name" : "笼中魇",
       "updateStatus" : 1,
-      "distance" : 3835,
-      "memberId" : 8086,
-      "bothType" : false
+      "distance" : 4045,
+      "memberId" : 2858,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3017,
-      "name" : "南宫世家",
+      "id" : 2958,
+      "name" : "伤痕落尽我依然等你",
       "updateStatus" : 1,
-      "distance" : 1880,
-      "memberId" : 7955,
-      "bothType" : true
+      "distance" : 8754,
+      "memberId" : 3662,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2202,
-      "name" : "妖精张华的回忆录",
+      "id" : 3274,
+      "name" : "啼笑皆妃之妃比寻常",
       "updateStatus" : 1,
-      "distance" : 3633,
-      "memberId" : 4605,
-      "bothType" : false
+      "distance" : 1312,
+      "memberId" : 4615,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3527,
-      "name" : "审判之众神时代",
+      "id" : 3265,
+      "name" : "如果，没有你",
       "updateStatus" : 1,
-      "distance" : 2288,
-      "memberId" : 4099,
-      "bothType" : true
+      "distance" : 1274,
+      "memberId" : 6234,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3194,
-      "name" : "北漂女的情和欲",
+      "id" : 3175,
+      "name" : "被岁月流放的青春",
       "updateStatus" : 1,
-      "distance" : 2466,
-      "memberId" : 7086,
-      "bothType" : true
+      "distance" : 1848,
+      "memberId" : 4192,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3618,
-      "name" : "蝶恋花：化蝶寻君",
+      "id" : 3592,
+      "name" : "单纯逐笑开",
       "updateStatus" : 1,
-      "distance" : 2001,
-      "memberId" : 2848,
-      "bothType" : true
+      "distance" : 3804,
+      "memberId" : 6427,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2741,
-      "name" : "三生回眸间，一念成魔时",
+      "id" : 2750,
+      "name" : "仇爱",
       "updateStatus" : 1,
-      "distance" : 5927,
-      "memberId" : 8426,
-      "bothType" : false
+      "distance" : 8711,
+      "memberId" : 8846,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2138,
-      "name" : "妖孽，快到仙姑碗里来",
-      "updateStatus" : 2,
-      "distance" : 989,
-      "memberId" : 5599,
-      "bothType" : false
-    }, {
-      "id" : 3645,
-      "name" : "悠悠茶茗",
+      "id" : 3571,
+      "name" : "小小侍女的灿烂时光",
       "updateStatus" : 1,
-      "distance" : 5902,
-      "memberId" : 8464,
-      "bothType" : false
+      "distance" : 9268,
+      "memberId" : 1555,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2460,
+      "name" : "夜影鬼魅",
+      "updateStatus" : 1,
+      "distance" : 1763,
+      "memberId" : 4810,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2948,
+      "name" : "庶女狂妃：傲凤逆九天",
+      "updateStatus" : 1,
+      "distance" : 1510,
+      "memberId" : 5457,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3048,
+      "name" : "白马枯叶总相依",
+      "updateStatus" : 1,
+      "distance" : 2266,
+      "memberId" : 6966,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2986,
+      "name" : "错过的爱情：总裁放过我",
+      "updateStatus" : 1,
+      "distance" : 2771,
+      "memberId" : 7959,
+      "bothType" : true,
+      "textBook" : true
     } ]
   }
 }

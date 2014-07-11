@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3407,
-      "name" : "尽芳华",
-      "updateStatus" : 1,
-      "distance" : 920,
-      "memberId" : 6161,
-      "bothType" : false
-    }, {
-      "id" : 3391,
-      "name" : "天上掉下个大侍郎",
-      "updateStatus" : 1,
-      "distance" : 4472,
-      "memberId" : 8005,
-      "bothType" : true
-    }, {
-      "id" : 2318,
-      "name" : "特工穿越之时空轮回",
+      "id" : 2359,
+      "name" : "羽落殇心醉红尘",
       "updateStatus" : 2,
-      "distance" : 4138,
-      "memberId" : 7330,
-      "bothType" : false
+      "distance" : 5066,
+      "memberId" : 1864,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2917,
-      "name" : "碧海蓝天最倾城",
+      "id" : 2648,
+      "name" : "浮生琉璃路",
       "updateStatus" : 1,
-      "distance" : 2464,
-      "memberId" : 3970,
-      "bothType" : false
+      "distance" : 3278,
+      "memberId" : 7574,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2897,
-      "name" : "瞎子王爷独宠调皮妃",
+      "id" : 3203,
+      "name" : "魔法之镜花水月",
       "updateStatus" : 1,
-      "distance" : 9587,
-      "memberId" : 4592,
-      "bothType" : true
+      "distance" : 9993,
+      "memberId" : 3395,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2814,
-      "name" : "小市民",
+      "id" : 2127,
+      "name" : "沐沐雪深",
       "updateStatus" : 1,
-      "distance" : 8763,
-      "memberId" : 7491,
-      "bothType" : true
+      "distance" : 8128,
+      "memberId" : 3833,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3347,
-      "name" : "冷艳傲骨：毒物小姐狠嚣张",
+      "id" : 3491,
+      "name" : "倾世逃妃",
       "updateStatus" : 1,
-      "distance" : 921,
-      "memberId" : 5257,
-      "bothType" : false
+      "distance" : 3264,
+      "memberId" : 6470,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2182,
-      "name" : "妖纵异世：逆天血煞女",
+      "id" : 2044,
+      "name" : "七厘米的蔚蓝",
       "updateStatus" : 1,
-      "distance" : 5946,
-      "memberId" : 4840,
-      "bothType" : false
+      "distance" : 8801,
+      "memberId" : 6702,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3340,
-      "name" : "枫叶荻花秋瑟瑟",
-      "updateStatus" : 1,
-      "distance" : 8920,
-      "memberId" : 8684,
-      "bothType" : false
-    }, {
-      "id" : 2114,
-      "name" : "未婚妈妈，首席太霸道",
+      "id" : 2184,
+      "name" : "西月长歌",
       "updateStatus" : 2,
-      "distance" : 6453,
-      "memberId" : 1511,
-      "bothType" : false
+      "distance" : 6632,
+      "memberId" : 1345,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3691,
-      "name" : "巧夺帝心：奸妃娘娘升职记",
+      "id" : 3599,
+      "name" : "无声梦流水",
       "updateStatus" : 1,
-      "distance" : 4145,
-      "memberId" : 8750,
-      "bothType" : false
+      "distance" : 2681,
+      "memberId" : 5626,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3455,
-      "name" : "蜜宠之今生只要你",
+      "id" : 2618,
+      "name" : "半夏如风",
       "updateStatus" : 1,
-      "distance" : 718,
-      "memberId" : 7366,
-      "bothType" : false
+      "distance" : 6886,
+      "memberId" : 4689,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2936,
-      "name" : "谁言依雪泪墨池",
+      "id" : 2853,
+      "name" : "特工老总红粉员工",
       "updateStatus" : 1,
-      "distance" : 9566,
-      "memberId" : 5841,
-      "bothType" : false
+      "distance" : 2753,
+      "memberId" : 1587,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2842,
-      "name" : "逆天独宠：霸上废柴王爷",
+      "id" : 2583,
+      "name" : "梦中红叶知多少",
       "updateStatus" : 1,
-      "distance" : 3030,
-      "memberId" : 4372,
-      "bothType" : false
+      "distance" : 5853,
+      "memberId" : 1150,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2863,
-      "name" : "何以青茫却诉离殇",
-      "updateStatus" : 1,
-      "distance" : 2858,
-      "memberId" : 3246,
-      "bothType" : false
+      "id" : 2545,
+      "name" : "宠妻无敌：扑倒豪门总裁",
+      "updateStatus" : 2,
+      "distance" : 7498,
+      "memberId" : 5941,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3112,
-      "name" : "刹那风华",
+      "id" : 2447,
+      "name" : "生活在深圳",
       "updateStatus" : 1,
-      "distance" : 596,
-      "memberId" : 8035,
-      "bothType" : false
+      "distance" : 4777,
+      "memberId" : 3334,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3014,
-      "name" : "【武侠穿越】大梦",
-      "updateStatus" : 1,
-      "distance" : 557,
-      "memberId" : 5279,
-      "bothType" : false
+      "id" : 2246,
+      "name" : "王爷，你给本宫趴下",
+      "updateStatus" : 2,
+      "distance" : 3254,
+      "memberId" : 8535,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3147,
-      "name" : "嫡女心机",
+      "id" : 2887,
+      "name" : "文飞絮飏",
       "updateStatus" : 1,
-      "distance" : 6394,
-      "memberId" : 5166,
-      "bothType" : true
+      "distance" : 8621,
+      "memberId" : 2108,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2193,
-      "name" : "笑傲仙狂",
+      "id" : 2964,
+      "name" : "以我一生护你一世",
       "updateStatus" : 1,
-      "distance" : 2430,
-      "memberId" : 1181,
-      "bothType" : false
+      "distance" : 6721,
+      "memberId" : 5401,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2567,
-      "name" : "可可不悲伤",
+      "id" : 3607,
+      "name" : "青葱，蒜不蒜",
       "updateStatus" : 1,
-      "distance" : 1970,
-      "memberId" : 6460,
-      "bothType" : true
+      "distance" : 6300,
+      "memberId" : 4429,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2608,
+      "name" : "一睹莲华",
+      "updateStatus" : 1,
+      "distance" : 3400,
+      "memberId" : 3674,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3509,
+      "name" : "秋以为期",
+      "updateStatus" : 1,
+      "distance" : 5456,
+      "memberId" : 3395,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2462,
+      "name" : "道听途说",
+      "updateStatus" : 1,
+      "distance" : 8592,
+      "memberId" : 7039,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

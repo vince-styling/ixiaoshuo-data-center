@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3527,
-      "name" : "审判之众神时代",
+      "id" : 3376,
+      "name" : "你是古人哎",
       "updateStatus" : 1,
-      "distance" : 1111,
-      "memberId" : 4285,
-      "bothType" : false
+      "distance" : 7777,
+      "memberId" : 7321,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2522,
-      "name" : "熊霸天下",
+      "id" : 2444,
+      "name" : "花开花败，半夏未眠",
       "updateStatus" : 1,
-      "distance" : 4091,
-      "memberId" : 4819,
-      "bothType" : false
+      "distance" : 4439,
+      "memberId" : 1433,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2415,
-      "name" : "学生起义军",
+      "id" : 2779,
+      "name" : "匪总与他丢失的肋骨",
+      "updateStatus" : 1,
+      "distance" : 7503,
+      "memberId" : 6661,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2601,
+      "name" : "倾城馨少桃花多",
       "updateStatus" : 2,
-      "distance" : 8032,
-      "memberId" : 3279,
-      "bothType" : false
+      "distance" : 3025,
+      "memberId" : 5510,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2435,
-      "name" : "绝世青龙王",
+      "id" : 2381,
+      "name" : "傲雪苍穹",
       "updateStatus" : 1,
-      "distance" : 9209,
-      "memberId" : 4630,
-      "bothType" : false
+      "distance" : 3026,
+      "memberId" : 5215,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2214,
-      "name" : "冥王老大：鬼眼小娇妻",
-      "updateStatus" : 2,
-      "distance" : 6638,
-      "memberId" : 3458,
-      "bothType" : false
-    }, {
-      "id" : 2471,
-      "name" : "梦妖师",
-      "updateStatus" : 2,
-      "distance" : 5121,
-      "memberId" : 2202,
-      "bothType" : false
-    }, {
-      "id" : 2275,
-      "name" : "国殇，风吟江山",
-      "updateStatus" : 2,
-      "distance" : 5761,
-      "memberId" : 1799,
-      "bothType" : false
-    }, {
-      "id" : 3461,
-      "name" : "束缚中的约定",
+      "id" : 2750,
+      "name" : "仇爱",
       "updateStatus" : 1,
-      "distance" : 510,
-      "memberId" : 2161,
-      "bothType" : false
+      "distance" : 2127,
+      "memberId" : 1434,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2571,
-      "name" : "弦断只影",
+      "id" : 3530,
+      "name" : "总裁莫追：小女人带球跑",
       "updateStatus" : 1,
-      "distance" : 7743,
-      "memberId" : 6916,
-      "bothType" : false
+      "distance" : 1144,
+      "memberId" : 9000,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2490,
-      "name" : "彩云国之一杯茶一辈子",
+      "id" : 2914,
+      "name" : "寻找自己",
       "updateStatus" : 1,
-      "distance" : 3706,
-      "memberId" : 1000,
-      "bothType" : false
+      "distance" : 6522,
+      "memberId" : 7075,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2628,
-      "name" : "别再调戏我",
+      "id" : 3105,
+      "name" : "花心总裁拜金娇妻",
       "updateStatus" : 1,
-      "distance" : 8182,
-      "memberId" : 2489,
-      "bothType" : false
-    }, {
-      "id" : 2051,
-      "name" : "追忆我们的纯真年代",
-      "updateStatus" : 1,
-      "distance" : 3971,
-      "memberId" : 7965,
-      "bothType" : false
-    }, {
-      "id" : 3558,
-      "name" : "残疾王爷，暴力妃",
-      "updateStatus" : 1,
-      "distance" : 5572,
-      "memberId" : 3578,
-      "bothType" : true
-    }, {
-      "id" : 2605,
-      "name" : "无限之血统",
-      "updateStatus" : 1,
-      "distance" : 8394,
-      "memberId" : 4445,
-      "bothType" : false
-    }, {
-      "id" : 2156,
-      "name" : "千陌旎",
-      "updateStatus" : 1,
-      "distance" : 2355,
-      "memberId" : 7195,
-      "bothType" : false
-    }, {
-      "id" : 3052,
-      "name" : "林间季雨青冢",
-      "updateStatus" : 1,
-      "distance" : 8341,
-      "memberId" : 5316,
-      "bothType" : true
-    }, {
-      "id" : 2540,
-      "name" : "天降魔法师",
-      "updateStatus" : 1,
-      "distance" : 7860,
-      "memberId" : 2732,
-      "bothType" : true
-    }, {
-      "id" : 2940,
-      "name" : "秦汉·流云浮生",
-      "updateStatus" : 1,
-      "distance" : 1749,
-      "memberId" : 7009,
-      "bothType" : false
+      "distance" : 1744,
+      "memberId" : 8981,
+      "bothType" : false,
+      "textBook" : true
     }, {
       "id" : 2843,
       "name" : "家有仙妃很腹黑",
       "updateStatus" : 1,
-      "distance" : 9216,
-      "memberId" : 8252,
-      "bothType" : false
+      "distance" : 8756,
+      "memberId" : 5344,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2418,
-      "name" : "鬼胎",
+      "id" : 2834,
+      "name" : "时间逐雨",
       "updateStatus" : 1,
-      "distance" : 1343,
-      "memberId" : 4639,
-      "bothType" : true
+      "distance" : 2328,
+      "memberId" : 4573,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3481,
+      "name" : "感谢那年没有错过你",
+      "updateStatus" : 1,
+      "distance" : 7474,
+      "memberId" : 6665,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3129,
+      "name" : "（秦时+火影）滚来滚去滚成圆",
+      "updateStatus" : 1,
+      "distance" : 2022,
+      "memberId" : 6696,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2083,
+      "name" : "卿本庶女",
+      "updateStatus" : 2,
+      "distance" : 2124,
+      "memberId" : 2972,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3069,
+      "name" : "假想敌",
+      "updateStatus" : 1,
+      "distance" : 4100,
+      "memberId" : 7711,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3609,
+      "name" : "等你爱我",
+      "updateStatus" : 1,
+      "distance" : 2222,
+      "memberId" : 5387,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2460,
+      "name" : "夜影鬼魅",
+      "updateStatus" : 1,
+      "distance" : 6494,
+      "memberId" : 7837,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3010,
+      "name" : "冤家，咱布梨布吃",
+      "updateStatus" : 1,
+      "distance" : 9819,
+      "memberId" : 6180,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2391,
+      "name" : "清清子毅",
+      "updateStatus" : 2,
+      "distance" : 3243,
+      "memberId" : 8157,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3259,
+      "name" : "静若安好愉怡一生",
+      "updateStatus" : 1,
+      "distance" : 6684,
+      "memberId" : 4183,
+      "bothType" : true,
+      "textBook" : true
     } ]
   }
 }

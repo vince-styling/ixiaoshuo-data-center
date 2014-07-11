@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2755,
-      "name" : "大话漫游",
+      "id" : 2768,
+      "name" : "军校女王：夺心天才战神",
       "updateStatus" : 1,
-      "distance" : 9230,
-      "memberId" : 8223,
-      "bothType" : false
+      "distance" : 8625,
+      "memberId" : 6646,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3581,
-      "name" : "故人衣",
+      "id" : 3649,
+      "name" : "九婴传二之魔天记",
       "updateStatus" : 1,
-      "distance" : 2953,
-      "memberId" : 8881,
-      "bothType" : true
+      "distance" : 5383,
+      "memberId" : 6430,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3136,
-      "name" : "紫墟：涅槃",
+      "id" : 2532,
+      "name" : "芫花",
       "updateStatus" : 1,
-      "distance" : 8180,
-      "memberId" : 5100,
-      "bothType" : true
+      "distance" : 7760,
+      "memberId" : 4708,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3665,
-      "name" : "杂乱的羁绊",
+      "id" : 2413,
+      "name" : "冤冤相抱",
       "updateStatus" : 1,
-      "distance" : 3697,
-      "memberId" : 8456,
-      "bothType" : true
+      "distance" : 7907,
+      "memberId" : 6239,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3018,
-      "name" : "乱世佳人之末代皇妃",
+      "id" : 2853,
+      "name" : "特工老总红粉员工",
       "updateStatus" : 1,
-      "distance" : 2938,
-      "memberId" : 8872,
-      "bothType" : true
+      "distance" : 3555,
+      "memberId" : 3763,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2356,
-      "name" : "霡霂云飒",
+      "id" : 3290,
+      "name" : "婚然厚爱",
       "updateStatus" : 1,
-      "distance" : 3423,
-      "memberId" : 8989,
-      "bothType" : false
+      "distance" : 3748,
+      "memberId" : 8972,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2692,
-      "name" : "网王之阴阳师是学生",
+      "id" : 2046,
+      "name" : "疼在左手指间",
       "updateStatus" : 1,
-      "distance" : 7039,
-      "memberId" : 4080,
-      "bothType" : false
+      "distance" : 7618,
+      "memberId" : 7662,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2944,
-      "name" : "嬗变",
-      "updateStatus" : 1,
-      "distance" : 1886,
-      "memberId" : 5468,
-      "bothType" : true
-    }, {
-      "id" : 2347,
-      "name" : "绝配主仆",
-      "updateStatus" : 1,
-      "distance" : 7782,
-      "memberId" : 2483,
-      "bothType" : false
-    }, {
-      "id" : 3022,
-      "name" : "吸血鬼骑士之紫之吾爱",
-      "updateStatus" : 1,
-      "distance" : 8341,
-      "memberId" : 2536,
-      "bothType" : false
-    }, {
-      "id" : 3400,
-      "name" : "天使的诠释：幸福就是遇见你",
-      "updateStatus" : 1,
-      "distance" : 9396,
-      "memberId" : 5643,
-      "bothType" : true
-    }, {
-      "id" : 3024,
-      "name" : "爱错",
-      "updateStatus" : 1,
-      "distance" : 7937,
-      "memberId" : 5019,
-      "bothType" : false
-    }, {
-      "id" : 2458,
-      "name" : "灰道之非黑非白",
-      "updateStatus" : 1,
-      "distance" : 1427,
-      "memberId" : 8095,
-      "bothType" : false
-    }, {
-      "id" : 3162,
-      "name" : "真龙天下：倾世侠妃",
-      "updateStatus" : 1,
-      "distance" : 9773,
-      "memberId" : 1082,
-      "bothType" : false
-    }, {
-      "id" : 2199,
-      "name" : "选道",
+      "id" : 2318,
+      "name" : "特工穿越之时空轮回",
       "updateStatus" : 2,
-      "distance" : 5289,
-      "memberId" : 8230,
-      "bothType" : false
-    }, {
-      "id" : 2382,
-      "name" : "同曾惶虑情难止",
-      "updateStatus" : 1,
-      "distance" : 5564,
+      "distance" : 1210,
       "memberId" : 2968,
-      "bothType" : false
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3349,
-      "name" : "宁负苍天",
+      "id" : 2656,
+      "name" : "沉浮爱中殇",
       "updateStatus" : 1,
-      "distance" : 9784,
-      "memberId" : 1694,
-      "bothType" : false
+      "distance" : 5430,
+      "memberId" : 3517,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2488,
-      "name" : "奇灵公主",
+      "id" : 2986,
+      "name" : "错过的爱情：总裁放过我",
+      "updateStatus" : 1,
+      "distance" : 9592,
+      "memberId" : 8406,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2383,
+      "name" : "莫绪",
+      "updateStatus" : 1,
+      "distance" : 3479,
+      "memberId" : 5526,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3329,
+      "name" : "引玉石的花儿",
+      "updateStatus" : 1,
+      "distance" : 8503,
+      "memberId" : 7707,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3535,
+      "name" : "冥空以月",
+      "updateStatus" : 1,
+      "distance" : 2295,
+      "memberId" : 4003,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2060,
+      "name" : "和亲九公主：霸爱拽夫君",
       "updateStatus" : 2,
-      "distance" : 5119,
-      "memberId" : 3062,
-      "bothType" : false
+      "distance" : 2747,
+      "memberId" : 5264,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3167,
-      "name" : "凤武九霄：一品庶女傲天下",
+      "id" : 2889,
+      "name" : "帅哥，麻烦给我一张果照",
       "updateStatus" : 1,
-      "distance" : 7924,
-      "memberId" : 8066,
-      "bothType" : false
+      "distance" : 1636,
+      "memberId" : 1779,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3652,
-      "name" : "总裁恶魔点娇妻",
+      "id" : 2590,
+      "name" : "妖孽男，巫族女",
       "updateStatus" : 1,
-      "distance" : 4023,
-      "memberId" : 8102,
-      "bothType" : true
+      "distance" : 595,
+      "memberId" : 8509,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2582,
+      "name" : "特工归来：王妃策倾天下",
+      "updateStatus" : 1,
+      "distance" : 3952,
+      "memberId" : 8370,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2400,
+      "name" : "吸血鬼殿下的温柔阳光",
+      "updateStatus" : 1,
+      "distance" : 8686,
+      "memberId" : 4697,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2898,
+      "name" : "天戒",
+      "updateStatus" : 1,
+      "distance" : 8539,
+      "memberId" : 4835,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2467,
+      "name" : "诛魔录",
+      "updateStatus" : 1,
+      "distance" : 2987,
+      "memberId" : 4405,
+      "bothType" : true,
+      "textBook" : false
     } ]
   }
 }

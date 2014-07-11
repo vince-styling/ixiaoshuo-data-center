@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2611,
-      "name" : "长门妾",
+      "id" : 2204,
+      "name" : "穿越无门之门",
       "updateStatus" : 1,
-      "distance" : 5362,
-      "memberId" : 2743,
-      "bothType" : true
+      "distance" : 5550,
+      "memberId" : 2580,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2717,
-      "name" : "修罗王妃：血战三关",
+      "id" : 3695,
+      "name" : "大叔你要还我钱",
       "updateStatus" : 1,
-      "distance" : 1375,
-      "memberId" : 3138,
-      "bothType" : false
+      "distance" : 1298,
+      "memberId" : 8597,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3027,
-      "name" : "等你到黎明",
+      "id" : 3033,
+      "name" : "惊尘梦：冷情女子惑情夫",
       "updateStatus" : 1,
-      "distance" : 3079,
-      "memberId" : 6853,
-      "bothType" : false
+      "distance" : 2307,
+      "memberId" : 3942,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2455,
-      "name" : "孤子",
+      "id" : 2722,
+      "name" : "戏江山",
       "updateStatus" : 1,
-      "distance" : 8839,
-      "memberId" : 8583,
-      "bothType" : true
+      "distance" : 7993,
+      "memberId" : 8782,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2619,
-      "name" : "天价蓝颜",
+      "id" : 3609,
+      "name" : "等你爱我",
       "updateStatus" : 1,
-      "distance" : 5366,
-      "memberId" : 4571,
-      "bothType" : false
+      "distance" : 2495,
+      "memberId" : 5083,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2527,
-      "name" : "火影同人暗夜帝国",
+      "id" : 3638,
+      "name" : "青梅与竹马",
       "updateStatus" : 1,
-      "distance" : 3785,
-      "memberId" : 3368,
-      "bothType" : false
+      "distance" : 674,
+      "memberId" : 8487,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3565,
-      "name" : "缘定三生",
-      "updateStatus" : 1,
-      "distance" : 7283,
-      "memberId" : 4770,
-      "bothType" : false
-    }, {
-      "id" : 3180,
-      "name" : "苦涩如茶",
-      "updateStatus" : 1,
-      "distance" : 1724,
-      "memberId" : 3995,
-      "bothType" : false
-    }, {
-      "id" : 3732,
-      "name" : "兰倾天下",
-      "updateStatus" : 1,
-      "distance" : 1058,
-      "memberId" : 7863,
-      "bothType" : true
-    }, {
-      "id" : 3097,
-      "name" : "穿越之丑凤倾城",
-      "updateStatus" : 1,
-      "distance" : 894,
-      "memberId" : 5413,
-      "bothType" : false
-    }, {
-      "id" : 3125,
-      "name" : "竹马太凶残",
-      "updateStatus" : 1,
-      "distance" : 8521,
-      "memberId" : 8304,
-      "bothType" : false
-    }, {
-      "id" : 2410,
-      "name" : "霸情总裁：女人，别太冷",
+      "id" : 2359,
+      "name" : "羽落殇心醉红尘",
       "updateStatus" : 2,
-      "distance" : 4051,
-      "memberId" : 2783,
-      "bothType" : false
+      "distance" : 9323,
+      "memberId" : 4592,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2691,
-      "name" : "网王之绮梦玥恋",
-      "updateStatus" : 1,
-      "distance" : 6272,
-      "memberId" : 2428,
-      "bothType" : false
+      "id" : 2247,
+      "name" : "帝女倾城：痴缠冷面琴王",
+      "updateStatus" : 2,
+      "distance" : 4630,
+      "memberId" : 2118,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2226,
-      "name" : "浴火之凰",
+      "id" : 3090,
+      "name" : "两个人的天意",
       "updateStatus" : 1,
-      "distance" : 6692,
-      "memberId" : 7848,
-      "bothType" : false
+      "distance" : 7255,
+      "memberId" : 1138,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2234,
-      "name" : "启界",
+      "id" : 3381,
+      "name" : "秋中悲歌欲",
       "updateStatus" : 1,
-      "distance" : 1863,
-      "memberId" : 5734,
-      "bothType" : false
+      "distance" : 3278,
+      "memberId" : 2983,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2591,
-      "name" : "泪水飘落的日子",
+      "id" : 2849,
+      "name" : "缘来还是你",
       "updateStatus" : 1,
-      "distance" : 1320,
-      "memberId" : 7957,
-      "bothType" : true
+      "distance" : 7349,
+      "memberId" : 2224,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2761,
-      "name" : "德伯家的苔丝",
+      "id" : 3583,
+      "name" : "温情驻英年",
       "updateStatus" : 1,
-      "distance" : 1662,
-      "memberId" : 1689,
-      "bothType" : false
+      "distance" : 7560,
+      "memberId" : 4800,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2749,
-      "name" : "轻安易宁",
+      "id" : 3204,
+      "name" : "侍郎娘子",
       "updateStatus" : 1,
-      "distance" : 4912,
-      "memberId" : 2909,
-      "bothType" : false
+      "distance" : 567,
+      "memberId" : 2763,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2857,
-      "name" : "你不可能会爱我",
+      "id" : 2851,
+      "name" : "妃藏匈奴",
       "updateStatus" : 1,
-      "distance" : 8169,
-      "memberId" : 2333,
-      "bothType" : false
+      "distance" : 5422,
+      "memberId" : 8047,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2336,
-      "name" : "妃似毒：皇子快逃命",
+      "id" : 2541,
+      "name" : "前世姻来生缘",
       "updateStatus" : 1,
-      "distance" : 5738,
-      "memberId" : 2039,
-      "bothType" : false
+      "distance" : 2368,
+      "memberId" : 4204,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3513,
+      "name" : "安伦旅途",
+      "updateStatus" : 1,
+      "distance" : 7250,
+      "memberId" : 1281,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2976,
+      "name" : "少女养成之就是赖上你",
+      "updateStatus" : 1,
+      "distance" : 7208,
+      "memberId" : 4241,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2163,
+      "name" : "唤醒之星之痕",
+      "updateStatus" : 1,
+      "distance" : 6598,
+      "memberId" : 8874,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2122,
+      "name" : "毒药的诱惑",
+      "updateStatus" : 1,
+      "distance" : 5556,
+      "memberId" : 8576,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3203,
+      "name" : "魔法之镜花水月",
+      "updateStatus" : 1,
+      "distance" : 1277,
+      "memberId" : 4287,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3092,
-      "name" : "哈利波特之魔法学院",
+      "id" : 2687,
+      "name" : "朝歌叶璇",
+      "updateStatus" : 1,
+      "distance" : 6269,
+      "memberId" : 8395,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3294,
+      "name" : "朕爱生命，远离皇后",
+      "updateStatus" : 1,
+      "distance" : 5586,
+      "memberId" : 3509,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3690,
+      "name" : "帝王劫：重生之丑女皇后",
+      "updateStatus" : 1,
+      "distance" : 5866,
+      "memberId" : 7011,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2298,
+      "name" : "重生联盟之绝代风华",
+      "updateStatus" : 1,
+      "distance" : 703,
+      "memberId" : 4484,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3136,
+      "name" : "紫墟：涅槃",
+      "updateStatus" : 1,
+      "distance" : 8859,
+      "memberId" : 6490,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3170,
+      "name" : "哥哥，我愿为你染红这个世界",
+      "updateStatus" : 1,
+      "distance" : 661,
+      "memberId" : 4427,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2316,
+      "name" : "美男就是奴才",
+      "updateStatus" : 1,
+      "distance" : 5689,
+      "memberId" : 8611,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2654,
+      "name" : "异能女王改写天书",
+      "updateStatus" : 1,
+      "distance" : 7248,
+      "memberId" : 7308,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2512,
+      "name" : "SOUL神之作",
       "updateStatus" : 2,
-      "distance" : 2657,
-      "memberId" : 1209,
-      "bothType" : false
+      "distance" : 5461,
+      "memberId" : 5919,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2566,
-      "name" : "那些年，我和你",
+      "id" : 2888,
+      "name" : "分生",
       "updateStatus" : 1,
-      "distance" : 5949,
-      "memberId" : 7476,
-      "bothType" : false
+      "distance" : 7127,
+      "memberId" : 5819,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3527,
-      "name" : "审判之众神时代",
+      "id" : 3172,
+      "name" : "竹马太腹黑",
       "updateStatus" : 1,
-      "distance" : 7222,
-      "memberId" : 6215,
-      "bothType" : true
+      "distance" : 1945,
+      "memberId" : 4911,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2477,
-      "name" : "特刑队之绝密档案",
+      "id" : 3088,
+      "name" : "神殊：幽冥",
       "updateStatus" : 1,
-      "distance" : 8001,
-      "memberId" : 3671,
-      "bothType" : true
+      "distance" : 4187,
+      "memberId" : 3461,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2871,
-      "name" : "吾心似未央",
+      "id" : 3452,
+      "name" : "屌丝掌门",
       "updateStatus" : 1,
-      "distance" : 5460,
-      "memberId" : 6177,
-      "bothType" : false
+      "distance" : 7682,
+      "memberId" : 7983,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3296,
-      "name" : "斜阳晚照",
+      "id" : 2412,
+      "name" : "爱已转角",
       "updateStatus" : 1,
-      "distance" : 7829,
-      "memberId" : 7175,
-      "bothType" : false
+      "distance" : 8066,
+      "memberId" : 5691,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3070,
-      "name" : "双面娇娃：爱在罂粟烂漫时",
+      "id" : 3664,
+      "name" : "眉心结，掌中线",
       "updateStatus" : 1,
-      "distance" : 5556,
-      "memberId" : 1091,
-      "bothType" : true
-    }, {
-      "id" : 3383,
-      "name" : "延续爱",
-      "updateStatus" : 1,
-      "distance" : 3226,
-      "memberId" : 4287,
-      "bothType" : false
-    }, {
-      "id" : 2040,
-      "name" : "误闯总裁领地，哪里逃！",
-      "updateStatus" : 1,
-      "distance" : 2469,
-      "memberId" : 3745,
-      "bothType" : false
-    }, {
-      "id" : 3574,
-      "name" : "祁家楼外楼",
-      "updateStatus" : 1,
-      "distance" : 7687,
-      "memberId" : 8284,
-      "bothType" : false
-    }, {
-      "id" : 2561,
-      "name" : "墨上清歌",
-      "updateStatus" : 1,
-      "distance" : 9987,
-      "memberId" : 4269,
-      "bothType" : false
-    }, {
-      "id" : 2909,
-      "name" : "十六岁的青春期",
-      "updateStatus" : 2,
-      "distance" : 7573,
-      "memberId" : 6186,
-      "bothType" : false
+      "distance" : 5182,
+      "memberId" : 3393,
+      "bothType" : false,
+      "textBook" : true
     }, {
       "id" : 2540,
       "name" : "天降魔法师",
       "updateStatus" : 1,
-      "distance" : 7814,
-      "memberId" : 5628,
-      "bothType" : false
+      "distance" : 2952,
+      "memberId" : 8735,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2900,
-      "name" : "辞君天下",
+      "id" : 2455,
+      "name" : "孤子",
       "updateStatus" : 1,
-      "distance" : 9475,
-      "memberId" : 8667,
-      "bothType" : false
+      "distance" : 2591,
+      "memberId" : 7749,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2308,
-      "name" : "月牙",
-      "updateStatus" : 1,
-      "distance" : 7189,
-      "memberId" : 3072,
-      "bothType" : false
+      "id" : 2488,
+      "name" : "奇灵公主",
+      "updateStatus" : 2,
+      "distance" : 8693,
+      "memberId" : 4020,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3338,
-      "name" : "豬彡頭❤娶我呗",
+      "id" : 2532,
+      "name" : "芫花",
       "updateStatus" : 1,
-      "distance" : 8718,
-      "memberId" : 2079,
-      "bothType" : true
+      "distance" : 2618,
+      "memberId" : 7012,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3157,
-      "name" : "人生如若不太贱",
+      "id" : 3173,
+      "name" : "超级高中生",
       "updateStatus" : 1,
-      "distance" : 1702,
-      "memberId" : 6470,
-      "bothType" : true
-    }, {
-      "id" : 3490,
-      "name" : "舍友是公主大人",
-      "updateStatus" : 1,
-      "distance" : 4785,
-      "memberId" : 8574,
-      "bothType" : true
-    }, {
-      "id" : 2987,
-      "name" : "适珂而止",
-      "updateStatus" : 1,
-      "distance" : 9774,
-      "memberId" : 2686,
-      "bothType" : false
-    }, {
-      "id" : 2814,
-      "name" : "小市民",
-      "updateStatus" : 1,
-      "distance" : 7140,
-      "memberId" : 3680,
-      "bothType" : false
+      "distance" : 7022,
+      "memberId" : 7851,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

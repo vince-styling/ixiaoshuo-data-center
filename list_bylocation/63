@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3154,
-      "name" : "体弱多病的魔法师",
+      "id" : 2636,
+      "name" : "结婚这件事",
       "updateStatus" : 1,
-      "distance" : 812,
-      "memberId" : 3370,
-      "bothType" : true
+      "distance" : 8863,
+      "memberId" : 3277,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2966,
-      "name" : "乱世桃花",
+      "id" : 2804,
+      "name" : "媚妻无限宠",
       "updateStatus" : 1,
-      "distance" : 4696,
-      "memberId" : 6488,
-      "bothType" : true
+      "distance" : 2256,
+      "memberId" : 1397,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2647,
-      "name" : "冷少巧追豪门俏千金",
+      "id" : 2868,
+      "name" : "仙侠传说：繁华落尽君辞去",
       "updateStatus" : 1,
-      "distance" : 6106,
-      "memberId" : 7009,
-      "bothType" : false
+      "distance" : 2081,
+      "memberId" : 5994,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3401,
-      "name" : "狂2",
+      "id" : 2240,
+      "name" : "一亿一剑一情绝",
       "updateStatus" : 1,
-      "distance" : 4042,
-      "memberId" : 1466,
-      "bothType" : false
+      "distance" : 1497,
+      "memberId" : 1565,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3215,
-      "name" : "成长的影子",
+      "id" : 3329,
+      "name" : "引玉石的花儿",
       "updateStatus" : 1,
-      "distance" : 579,
-      "memberId" : 2896,
-      "bothType" : false
+      "distance" : 4966,
+      "memberId" : 4593,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2238,
-      "name" : "白发皇后：本宫不倾城",
+      "id" : 2469,
+      "name" : "盗墓诡迹",
       "updateStatus" : 1,
-      "distance" : 8390,
-      "memberId" : 6032,
-      "bothType" : false
+      "distance" : 2664,
+      "memberId" : 6471,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2578,
-      "name" : "毕业不分手",
-      "updateStatus" : 1,
-      "distance" : 904,
-      "memberId" : 5622,
-      "bothType" : true
-    }, {
-      "id" : 2943,
-      "name" : "落凰",
-      "updateStatus" : 1,
-      "distance" : 3350,
-      "memberId" : 6696,
-      "bothType" : false
-    }, {
-      "id" : 2825,
-      "name" : "相守时光中",
-      "updateStatus" : 1,
-      "distance" : 7167,
-      "memberId" : 1194,
-      "bothType" : false
-    }, {
-      "id" : 3162,
-      "name" : "真龙天下：倾世侠妃",
-      "updateStatus" : 1,
-      "distance" : 3220,
-      "memberId" : 7790,
-      "bothType" : false
-    }, {
-      "id" : 3213,
-      "name" : "光华琉璃只为一笑",
-      "updateStatus" : 1,
-      "distance" : 3791,
-      "memberId" : 2084,
-      "bothType" : true
-    }, {
-      "id" : 2780,
-      "name" : "人生的旅途",
-      "updateStatus" : 1,
-      "distance" : 7131,
-      "memberId" : 4481,
-      "bothType" : true
-    }, {
-      "id" : 3234,
-      "name" : "死神通法三部曲",
-      "updateStatus" : 1,
-      "distance" : 6584,
-      "memberId" : 4357,
-      "bothType" : false
-    }, {
-      "id" : 2373,
-      "name" : "小子们，上课请勿搞基",
+      "id" : 3591,
+      "name" : "小羊别闹，来吃草",
       "updateStatus" : 2,
-      "distance" : 4399,
-      "memberId" : 3800,
-      "bothType" : false
+      "distance" : 3676,
+      "memberId" : 2790,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3129,
-      "name" : "（秦时+火影）滚来滚去滚成圆",
+      "id" : 2575,
+      "name" : "有生之年",
       "updateStatus" : 1,
-      "distance" : 9278,
-      "memberId" : 7755,
-      "bothType" : false
+      "distance" : 9572,
+      "memberId" : 6391,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2202,
-      "name" : "妖精张华的回忆录",
+      "id" : 2307,
+      "name" : "掏心掏肺的傻女人",
       "updateStatus" : 1,
-      "distance" : 9755,
-      "memberId" : 4349,
-      "bothType" : false
+      "distance" : 3062,
+      "memberId" : 8102,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2869,
-      "name" : "穿越之美人太冷",
+      "id" : 3101,
+      "name" : "外来的爱情",
       "updateStatus" : 1,
-      "distance" : 5859,
-      "memberId" : 3289,
-      "bothType" : false
+      "distance" : 6680,
+      "memberId" : 3795,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3142,
-      "name" : "重生女帝之桃花袭来",
+      "id" : 3702,
+      "name" : "生生羁绊",
       "updateStatus" : 1,
-      "distance" : 9345,
-      "memberId" : 6215,
-      "bothType" : false
+      "distance" : 9119,
+      "memberId" : 4648,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3290,
-      "name" : "婚然厚爱",
+      "id" : 3430,
+      "name" : "于红尘中遇见你",
       "updateStatus" : 1,
-      "distance" : 1431,
-      "memberId" : 4854,
-      "bothType" : true
+      "distance" : 7653,
+      "memberId" : 7046,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3043,
-      "name" : "遇见安好",
+      "id" : 2730,
+      "name" : "风谨如歌",
       "updateStatus" : 1,
-      "distance" : 5106,
-      "memberId" : 3645,
-      "bothType" : false
+      "distance" : 5799,
+      "memberId" : 5057,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2519,
+      "name" : "网王同人长饮相思白佐",
+      "updateStatus" : 1,
+      "distance" : 4425,
+      "memberId" : 5843,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3655,
+      "name" : "平妻",
+      "updateStatus" : 1,
+      "distance" : 9890,
+      "memberId" : 8657,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3722,
+      "name" : "夏日妍妍正好眠",
+      "updateStatus" : 1,
+      "distance" : 2520,
+      "memberId" : 5402,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3630,
+      "name" : "我叫林若妃",
+      "updateStatus" : 1,
+      "distance" : 5000,
+      "memberId" : 5335,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2099,
+      "name" : "女警闯西汉：将军赖定你",
+      "updateStatus" : 1,
+      "distance" : 4324,
+      "memberId" : 6756,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2779,
+      "name" : "匪总与他丢失的肋骨",
+      "updateStatus" : 1,
+      "distance" : 9525,
+      "memberId" : 2991,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3667,
+      "name" : "且行且见",
+      "updateStatus" : 1,
+      "distance" : 644,
+      "memberId" : 1186,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

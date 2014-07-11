@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2505,
-      "name" : "养儿难养，儿成狼",
+      "id" : 3316,
+      "name" : "迷恋情人：调教花花总裁",
       "updateStatus" : 1,
-      "distance" : 2459,
-      "memberId" : 1647,
-      "bothType" : false
+      "distance" : 3125,
+      "memberId" : 4160,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3439,
-      "name" : "皇熙妃传",
+      "id" : 3691,
+      "name" : "巧夺帝心：奸妃娘娘升职记",
       "updateStatus" : 1,
-      "distance" : 7334,
-      "memberId" : 3400,
-      "bothType" : false
-    }, {
-      "id" : 2076,
-      "name" : "灵魂调",
-      "updateStatus" : 1,
-      "distance" : 7895,
-      "memberId" : 6415,
-      "bothType" : false
-    }, {
-      "id" : 2181,
-      "name" : "荆棘路之异界荆棘",
-      "updateStatus" : 1,
-      "distance" : 3286,
-      "memberId" : 5306,
-      "bothType" : true
-    }, {
-      "id" : 3206,
-      "name" : "霸情邪少：专宠小娇妻",
-      "updateStatus" : 1,
-      "distance" : 3599,
-      "memberId" : 3581,
-      "bothType" : false
-    }, {
-      "id" : 3313,
-      "name" : "我的同桌顾亦辰",
-      "updateStatus" : 1,
-      "distance" : 5234,
-      "memberId" : 7452,
-      "bothType" : false
-    }, {
-      "id" : 2988,
-      "name" : "梦想之星",
-      "updateStatus" : 1,
-      "distance" : 7646,
-      "memberId" : 1273,
-      "bothType" : false
-    }, {
-      "id" : 2719,
-      "name" : "靛·自掘坟墓",
-      "updateStatus" : 1,
-      "distance" : 5897,
-      "memberId" : 1428,
-      "bothType" : false
-    }, {
-      "id" : 2265,
-      "name" : "朗歌行",
-      "updateStatus" : 1,
-      "distance" : 3046,
-      "memberId" : 2189,
-      "bothType" : false
-    }, {
-      "id" : 3243,
-      "name" : "仙灭混沌",
-      "updateStatus" : 1,
-      "distance" : 1343,
-      "memberId" : 4996,
-      "bothType" : true
-    }, {
-      "id" : 3005,
-      "name" : "夜微凉我们在一起到老",
-      "updateStatus" : 1,
-      "distance" : 7447,
-      "memberId" : 5574,
-      "bothType" : true
-    }, {
-      "id" : 2356,
-      "name" : "霡霂云飒",
-      "updateStatus" : 1,
-      "distance" : 1496,
-      "memberId" : 6073,
-      "bothType" : true
-    }, {
-      "id" : 3694,
-      "name" : "笑傲倾情",
-      "updateStatus" : 1,
-      "distance" : 7688,
-      "memberId" : 5954,
-      "bothType" : true
+      "distance" : 2834,
+      "memberId" : 6147,
+      "bothType" : false,
+      "textBook" : false
     }, {
       "id" : 3074,
       "name" : "王子，请把我带回家",
       "updateStatus" : 1,
-      "distance" : 7850,
-      "memberId" : 6694,
-      "bothType" : true
+      "distance" : 6054,
+      "memberId" : 4252,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3573,
-      "name" : "天使与伪天使的契约",
+      "id" : 2957,
+      "name" : "让时间说真话",
       "updateStatus" : 1,
-      "distance" : 8433,
-      "memberId" : 1792,
-      "bothType" : false
+      "distance" : 2692,
+      "memberId" : 2654,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2868,
-      "name" : "仙侠传说：繁华落尽君辞去",
+      "id" : 3493,
+      "name" : "此时四季",
       "updateStatus" : 1,
-      "distance" : 1627,
-      "memberId" : 8303,
-      "bothType" : false
+      "distance" : 5903,
+      "memberId" : 8753,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3527,
-      "name" : "审判之众神时代",
+      "id" : 2483,
+      "name" : "雨露之瞳",
       "updateStatus" : 1,
-      "distance" : 3138,
-      "memberId" : 5631,
-      "bothType" : false
+      "distance" : 2331,
+      "memberId" : 6156,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2349,
-      "name" : "不相信国",
-      "updateStatus" : 1,
-      "distance" : 781,
-      "memberId" : 3261,
-      "bothType" : true
+      "id" : 2360,
+      "name" : "梦中情人：前世今生都是孽",
+      "updateStatus" : 2,
+      "distance" : 1964,
+      "memberId" : 2529,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3360,
-      "name" : "泡沫太寒冷",
+      "id" : 3214,
+      "name" : "穿越之妖精的尾巴",
       "updateStatus" : 1,
-      "distance" : 6734,
-      "memberId" : 6016,
-      "bothType" : false
+      "distance" : 8378,
+      "memberId" : 6345,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2487,
-      "name" : "冷月星空",
+      "id" : 3125,
+      "name" : "竹马太凶残",
       "updateStatus" : 1,
-      "distance" : 804,
-      "memberId" : 5299,
-      "bothType" : false
+      "distance" : 4933,
+      "memberId" : 5576,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2720,
+      "name" : "你怎么还不死回来",
+      "updateStatus" : 1,
+      "distance" : 4603,
+      "memberId" : 6543,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2769,
+      "name" : "穿越清朝之蓦然回首",
+      "updateStatus" : 1,
+      "distance" : 7173,
+      "memberId" : 2992,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2683,
+      "name" : "总有一个人能陪我一起老",
+      "updateStatus" : 1,
+      "distance" : 9272,
+      "memberId" : 2615,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3419,
+      "name" : "狐色本媚",
+      "updateStatus" : 1,
+      "distance" : 4130,
+      "memberId" : 7449,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2411,
+      "name" : "护理实验室的故事",
+      "updateStatus" : 1,
+      "distance" : 3268,
+      "memberId" : 2757,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2409,
+      "name" : "异世界的盛宴",
+      "updateStatus" : 1,
+      "distance" : 4011,
+      "memberId" : 5087,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2787,
+      "name" : "本编等你来扑倒",
+      "updateStatus" : 1,
+      "distance" : 6245,
+      "memberId" : 5447,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3216,
+      "name" : "渡魂斋",
+      "updateStatus" : 1,
+      "distance" : 4322,
+      "memberId" : 1024,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2644,
+      "name" : "爱她还是爱自己",
+      "updateStatus" : 1,
+      "distance" : 8143,
+      "memberId" : 8217,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3286,
+      "name" : "倾心已久，狼崽吼吼",
+      "updateStatus" : 1,
+      "distance" : 7900,
+      "memberId" : 4183,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3039,
+      "name" : "一世迷离",
+      "updateStatus" : 1,
+      "distance" : 5274,
+      "memberId" : 5550,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

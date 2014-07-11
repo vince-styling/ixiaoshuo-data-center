@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2392,
-      "name" : "刁蛮丫头很温柔",
+      "id" : 2532,
+      "name" : "芫花",
+      "updateStatus" : 1,
+      "distance" : 2484,
+      "memberId" : 2697,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2518,
+      "name" : "君醉红颜",
+      "updateStatus" : 1,
+      "distance" : 3298,
+      "memberId" : 2692,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3308,
+      "name" : "我的腹黑王子",
+      "updateStatus" : 1,
+      "distance" : 8063,
+      "memberId" : 8804,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2325,
+      "name" : "彼岸花仙",
+      "updateStatus" : 1,
+      "distance" : 9658,
+      "memberId" : 3045,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3082,
+      "name" : "当代校园情圣",
+      "updateStatus" : 1,
+      "distance" : 4179,
+      "memberId" : 1869,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2868,
+      "name" : "仙侠传说：繁华落尽君辞去",
+      "updateStatus" : 1,
+      "distance" : 1925,
+      "memberId" : 4862,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2832,
+      "name" : "腹黑总裁：变身擒爱萌宠召唤师",
+      "updateStatus" : 1,
+      "distance" : 3309,
+      "memberId" : 1774,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3728,
+      "name" : "含烟思窃之皇上、臣妾做不到",
+      "updateStatus" : 1,
+      "distance" : 6311,
+      "memberId" : 4690,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3732,
+      "name" : "兰倾天下",
+      "updateStatus" : 1,
+      "distance" : 8155,
+      "memberId" : 6870,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3163,
+      "name" : "最初与最后",
+      "updateStatus" : 1,
+      "distance" : 6376,
+      "memberId" : 3076,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3230,
+      "name" : "霹雳戢武王妹控玉仔酱油记",
+      "updateStatus" : 1,
+      "distance" : 7106,
+      "memberId" : 5697,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3740,
+      "name" : "邪尊的宝贝",
+      "updateStatus" : 1,
+      "distance" : 6844,
+      "memberId" : 6117,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3156,
+      "name" : "如果爱情是一首歌",
+      "updateStatus" : 1,
+      "distance" : 8107,
+      "memberId" : 7478,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2684,
+      "name" : "闯驻你的心",
+      "updateStatus" : 1,
+      "distance" : 3531,
+      "memberId" : 5039,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3335,
+      "name" : "埋葬在青春里的爱恋",
+      "updateStatus" : 1,
+      "distance" : 6145,
+      "memberId" : 1803,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2852,
+      "name" : "花千世界",
+      "updateStatus" : 1,
+      "distance" : 3883,
+      "memberId" : 2048,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2796,
+      "name" : "风流老板俏秘书",
+      "updateStatus" : 1,
+      "distance" : 9859,
+      "memberId" : 6159,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2942,
+      "name" : "手可摘星辰",
+      "updateStatus" : 1,
+      "distance" : 4035,
+      "memberId" : 1103,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3135,
+      "name" : "芊芊",
       "updateStatus" : 2,
-      "distance" : 8965,
-      "memberId" : 1377,
-      "bothType" : false
+      "distance" : 3657,
+      "memberId" : 6458,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3499,
-      "name" : "绮人心之刻度",
+      "id" : 2506,
+      "name" : "再见，青春",
       "updateStatus" : 1,
-      "distance" : 2590,
-      "memberId" : 8746,
-      "bothType" : true
-    }, {
-      "id" : 3075,
-      "name" : "仅对你依恋",
-      "updateStatus" : 1,
-      "distance" : 3319,
-      "memberId" : 1906,
-      "bothType" : false
-    }, {
-      "id" : 2886,
-      "name" : "今生不做你的妾",
-      "updateStatus" : 1,
-      "distance" : 8189,
-      "memberId" : 4429,
-      "bothType" : false
-    }, {
-      "id" : 3031,
-      "name" : "莲姬",
-      "updateStatus" : 1,
-      "distance" : 7233,
-      "memberId" : 3323,
-      "bothType" : false
-    }, {
-      "id" : 2305,
-      "name" : "梦穿封神记：我欲齐天只为卿",
-      "updateStatus" : 2,
-      "distance" : 1143,
-      "memberId" : 8480,
-      "bothType" : true
-    }, {
-      "id" : 2702,
-      "name" : "光与暗之命运狂想曲",
-      "updateStatus" : 1,
-      "distance" : 2840,
-      "memberId" : 5361,
-      "bothType" : true
-    }, {
-      "id" : 3626,
-      "name" : "错过了，还能爱吗？",
-      "updateStatus" : 1,
-      "distance" : 4062,
-      "memberId" : 7003,
-      "bothType" : true
-    }, {
-      "id" : 2157,
-      "name" : "青惑",
-      "updateStatus" : 1,
-      "distance" : 9423,
-      "memberId" : 6711,
-      "bothType" : false
-    }, {
-      "id" : 3170,
-      "name" : "哥哥，我愿为你染红这个世界",
-      "updateStatus" : 1,
-      "distance" : 1101,
-      "memberId" : 7827,
-      "bothType" : false
-    }, {
-      "id" : 2893,
-      "name" : "曾经你还好么",
-      "updateStatus" : 1,
-      "distance" : 6086,
-      "memberId" : 4662,
-      "bothType" : false
-    }, {
-      "id" : 3394,
-      "name" : "混混少爷的小气公主",
-      "updateStatus" : 1,
-      "distance" : 8808,
-      "memberId" : 5183,
-      "bothType" : false
-    }, {
-      "id" : 3738,
-      "name" : "献青春：那些我们叛逆过的叛逆",
-      "updateStatus" : 1,
-      "distance" : 3963,
-      "memberId" : 4475,
-      "bothType" : true
-    }, {
-      "id" : 2736,
-      "name" : "我是石观音",
-      "updateStatus" : 1,
-      "distance" : 7437,
-      "memberId" : 2770,
-      "bothType" : false
-    }, {
-      "id" : 3118,
-      "name" : "第二频道之穿越模式",
-      "updateStatus" : 2,
-      "distance" : 1931,
-      "memberId" : 8272,
-      "bothType" : false
-    }, {
-      "id" : 3459,
-      "name" : "红尘客栈",
-      "updateStatus" : 1,
-      "distance" : 1298,
-      "memberId" : 5789,
-      "bothType" : false
-    }, {
-      "id" : 3151,
-      "name" : "神秘特务之炸弹小姐",
-      "updateStatus" : 1,
-      "distance" : 3810,
-      "memberId" : 6959,
-      "bothType" : false
-    }, {
-      "id" : 3341,
-      "name" : "生于暮晨死于暮歌",
-      "updateStatus" : 1,
-      "distance" : 4039,
-      "memberId" : 3415,
-      "bothType" : false
-    }, {
-      "id" : 2647,
-      "name" : "冷少巧追豪门俏千金",
-      "updateStatus" : 1,
-      "distance" : 9165,
-      "memberId" : 8615,
-      "bothType" : false
-    }, {
-      "id" : 2132,
-      "name" : "绝色王妃醉红颜",
-      "updateStatus" : 1,
-      "distance" : 1633,
-      "memberId" : 2203,
-      "bothType" : false
+      "distance" : 7994,
+      "memberId" : 6842,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

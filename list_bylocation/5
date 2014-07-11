@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3337,
-      "name" : "旋转的漩涡",
+      "id" : 3106,
+      "name" : "被流放的女将军",
       "updateStatus" : 1,
-      "distance" : 8592,
-      "memberId" : 7806,
-      "bothType" : true
+      "distance" : 7453,
+      "memberId" : 4810,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3625,
-      "name" : "另类契约：爱上你，我的星座王子！",
+      "id" : 2156,
+      "name" : "千陌旎",
       "updateStatus" : 1,
-      "distance" : 7742,
-      "memberId" : 1163,
-      "bothType" : false
+      "distance" : 8801,
+      "memberId" : 6918,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2403,
-      "name" : "愤怒的萤火虫",
+      "id" : 2155,
+      "name" : "古剑情韵之花神泪",
       "updateStatus" : 1,
-      "distance" : 1469,
-      "memberId" : 3349,
-      "bothType" : true
+      "distance" : 1690,
+      "memberId" : 2313,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3305,
-      "name" : "混世钉子",
+      "id" : 2897,
+      "name" : "瞎子王爷独宠调皮妃",
       "updateStatus" : 1,
-      "distance" : 9727,
-      "memberId" : 4412,
-      "bothType" : false
+      "distance" : 7646,
+      "memberId" : 4904,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2423,
-      "name" : "天价前妻：绝情总裁的契约情人",
-      "updateStatus" : 1,
-      "distance" : 9937,
-      "memberId" : 5183,
-      "bothType" : false
-    }, {
-      "id" : 3742,
-      "name" : "汝心计",
-      "updateStatus" : 1,
-      "distance" : 7808,
-      "memberId" : 7236,
-      "bothType" : false
-    }, {
-      "id" : 3444,
-      "name" : "童星穿越记",
-      "updateStatus" : 1,
-      "distance" : 9230,
-      "memberId" : 4740,
-      "bothType" : false
-    }, {
-      "id" : 3452,
-      "name" : "屌丝掌门",
-      "updateStatus" : 1,
-      "distance" : 4248,
-      "memberId" : 2518,
-      "bothType" : false
-    }, {
-      "id" : 3277,
-      "name" : "七生七世之情坠轩辕",
-      "updateStatus" : 1,
-      "distance" : 5301,
-      "memberId" : 3008,
-      "bothType" : false
-    }, {
-      "id" : 2729,
-      "name" : "妃霸天下",
-      "updateStatus" : 1,
-      "distance" : 9854,
-      "memberId" : 5088,
-      "bothType" : false
-    }, {
-      "id" : 3366,
-      "name" : "绝色江湖",
-      "updateStatus" : 1,
-      "distance" : 6769,
-      "memberId" : 3091,
-      "bothType" : true
-    }, {
-      "id" : 3315,
-      "name" : "心底在谈爱",
-      "updateStatus" : 1,
-      "distance" : 1342,
-      "memberId" : 1645,
-      "bothType" : true
-    }, {
-      "id" : 2210,
-      "name" : "神魔罗曼史",
-      "updateStatus" : 1,
-      "distance" : 3922,
-      "memberId" : 6660,
-      "bothType" : false
-    }, {
-      "id" : 2514,
-      "name" : "新选组大河剧之星辰之名",
+      "id" : 2199,
+      "name" : "选道",
       "updateStatus" : 2,
-      "distance" : 2028,
-      "memberId" : 3848,
-      "bothType" : false
+      "distance" : 8692,
+      "memberId" : 8494,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3276,
-      "name" : "宫心计续集",
+      "id" : 2202,
+      "name" : "妖精张华的回忆录",
       "updateStatus" : 1,
-      "distance" : 9116,
-      "memberId" : 5498,
-      "bothType" : true
+      "distance" : 656,
+      "memberId" : 8921,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3232,
-      "name" : "怨回纥歌",
+      "id" : 2746,
+      "name" : "遗忘之约",
       "updateStatus" : 1,
-      "distance" : 1030,
-      "memberId" : 2838,
-      "bothType" : true
+      "distance" : 8330,
+      "memberId" : 6966,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3393,
-      "name" : "医",
-      "updateStatus" : 1,
-      "distance" : 6728,
-      "memberId" : 5521,
-      "bothType" : false
+      "id" : 2909,
+      "name" : "十六岁的青春期",
+      "updateStatus" : 2,
+      "distance" : 1602,
+      "memberId" : 6056,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2364,
-      "name" : "双城——消隐的传奇",
+      "id" : 3204,
+      "name" : "侍郎娘子",
       "updateStatus" : 1,
-      "distance" : 3916,
-      "memberId" : 6777,
-      "bothType" : false
+      "distance" : 9993,
+      "memberId" : 8642,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2269,
-      "name" : "女皇倾国萌天下",
+      "id" : 3547,
+      "name" : "寡仁寡义传",
       "updateStatus" : 1,
-      "distance" : 8308,
-      "memberId" : 3109,
-      "bothType" : true
+      "distance" : 9048,
+      "memberId" : 3990,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3237,
-      "name" : "千面狂妃",
+      "id" : 2552,
+      "name" : "顽妃双刃斩天下",
       "updateStatus" : 1,
-      "distance" : 9839,
-      "memberId" : 6551,
-      "bothType" : true
+      "distance" : 7274,
+      "memberId" : 1458,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2314,
+      "name" : "白之纯水之澈",
+      "updateStatus" : 1,
+      "distance" : 7492,
+      "memberId" : 8789,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2170,
+      "name" : "轮回三生劫",
+      "updateStatus" : 1,
+      "distance" : 8046,
+      "memberId" : 4267,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2359,
+      "name" : "羽落殇心醉红尘",
+      "updateStatus" : 2,
+      "distance" : 2837,
+      "memberId" : 6695,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3175,
+      "name" : "被岁月流放的青春",
+      "updateStatus" : 1,
+      "distance" : 5684,
+      "memberId" : 1977,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2973,
+      "name" : "独占温宠",
+      "updateStatus" : 1,
+      "distance" : 1825,
+      "memberId" : 7859,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3108,
+      "name" : "金豆豆是宝贝疙瘩",
+      "updateStatus" : 1,
+      "distance" : 4092,
+      "memberId" : 1293,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3505,
+      "name" : "月老我很懂爱",
+      "updateStatus" : 1,
+      "distance" : 3042,
+      "memberId" : 2324,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3252,
+      "name" : "一辈子，在一起",
+      "updateStatus" : 1,
+      "distance" : 5190,
+      "memberId" : 2907,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2882,
+      "name" : "那些年错过的爱情",
+      "updateStatus" : 1,
+      "distance" : 6949,
+      "memberId" : 1232,
+      "bothType" : true,
+      "textBook" : false
     } ]
   }
 }

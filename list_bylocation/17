@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3525,
-      "name" : "枯时花笑",
+      "id" : 2994,
+      "name" : "低入尘埃终将花开",
       "updateStatus" : 1,
-      "distance" : 9957,
-      "memberId" : 8933,
-      "bothType" : true
+      "distance" : 8991,
+      "memberId" : 3876,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3205,
-      "name" : "当冷公主遇上甜心少",
+      "id" : 3240,
+      "name" : "打工江湖路",
       "updateStatus" : 1,
-      "distance" : 9322,
-      "memberId" : 5864,
-      "bothType" : false
+      "distance" : 6715,
+      "memberId" : 3724,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2691,
-      "name" : "网王之绮梦玥恋",
-      "updateStatus" : 1,
-      "distance" : 3241,
-      "memberId" : 1571,
-      "bothType" : false
-    }, {
-      "id" : 2195,
-      "name" : "血之恋章",
-      "updateStatus" : 1,
-      "distance" : 2506,
-      "memberId" : 7974,
-      "bothType" : false
-    }, {
-      "id" : 2874,
-      "name" : "逆天之女：冷清太子的专属温柔",
-      "updateStatus" : 1,
-      "distance" : 668,
-      "memberId" : 8971,
-      "bothType" : true
-    }, {
-      "id" : 3166,
-      "name" : "一品凰妻：冷情教主猎娇宠",
-      "updateStatus" : 1,
-      "distance" : 6758,
-      "memberId" : 3554,
-      "bothType" : false
-    }, {
-      "id" : 2831,
-      "name" : "待你温暖如光",
-      "updateStatus" : 1,
-      "distance" : 952,
-      "memberId" : 3343,
-      "bothType" : false
-    }, {
-      "id" : 3192,
-      "name" : "流年清欢",
-      "updateStatus" : 1,
-      "distance" : 7658,
-      "memberId" : 3581,
-      "bothType" : true
-    }, {
-      "id" : 3649,
-      "name" : "九婴传二之魔天记",
-      "updateStatus" : 1,
-      "distance" : 1805,
-      "memberId" : 6964,
-      "bothType" : false
-    }, {
-      "id" : 3070,
-      "name" : "双面娇娃：爱在罂粟烂漫时",
-      "updateStatus" : 1,
-      "distance" : 9347,
-      "memberId" : 7631,
-      "bothType" : false
-    }, {
-      "id" : 3143,
-      "name" : "去日留痕",
-      "updateStatus" : 1,
-      "distance" : 3448,
-      "memberId" : 2627,
-      "bothType" : false
-    }, {
-      "id" : 2325,
-      "name" : "彼岸花仙",
-      "updateStatus" : 1,
-      "distance" : 5539,
-      "memberId" : 7757,
-      "bothType" : false
-    }, {
-      "id" : 3024,
-      "name" : "爱错",
-      "updateStatus" : 1,
-      "distance" : 3519,
-      "memberId" : 2653,
-      "bothType" : false
-    }, {
-      "id" : 2743,
-      "name" : "青羽记",
-      "updateStatus" : 1,
-      "distance" : 700,
-      "memberId" : 5920,
-      "bothType" : false
-    }, {
-      "id" : 2058,
-      "name" : "护花三公主：蛊惑美男心",
+      "id" : 2192,
+      "name" : "灵幻",
       "updateStatus" : 2,
-      "distance" : 4929,
-      "memberId" : 2345,
-      "bothType" : false
+      "distance" : 4613,
+      "memberId" : 3475,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2656,
-      "name" : "沉浮爱中殇",
+      "id" : 3101,
+      "name" : "外来的爱情",
       "updateStatus" : 1,
-      "distance" : 9010,
-      "memberId" : 4402,
-      "bothType" : false
+      "distance" : 6090,
+      "memberId" : 8258,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2600,
-      "name" : "就这一次，非正即邪",
+      "id" : 3436,
+      "name" : "《侦探日记》",
       "updateStatus" : 1,
-      "distance" : 500,
-      "memberId" : 2911,
-      "bothType" : true
+      "distance" : 2130,
+      "memberId" : 4228,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2595,
-      "name" : "素问天下",
+      "id" : 3249,
+      "name" : "恋上花样天才美男",
       "updateStatus" : 1,
-      "distance" : 934,
-      "memberId" : 4928,
-      "bothType" : false
+      "distance" : 2002,
+      "memberId" : 5301,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3111,
-      "name" : "真假王妃：非常之谋",
+      "id" : 2045,
+      "name" : "你是我的女人",
       "updateStatus" : 1,
-      "distance" : 4646,
-      "memberId" : 8363,
-      "bothType" : false
+      "distance" : 8267,
+      "memberId" : 7896,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2889,
-      "name" : "帅哥，麻烦给我一张果照",
+      "id" : 3195,
+      "name" : "绝妃善类：倾城妖狐魅天下",
       "updateStatus" : 1,
-      "distance" : 6770,
-      "memberId" : 8813,
-      "bothType" : true
+      "distance" : 8119,
+      "memberId" : 7246,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2367,
+      "name" : "爱的嘉年华",
+      "updateStatus" : 2,
+      "distance" : 1344,
+      "memberId" : 5833,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2306,
+      "name" : "穿越之蒙家将军",
+      "updateStatus" : 1,
+      "distance" : 5455,
+      "memberId" : 6207,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3064,
+      "name" : "再回首灯火阑珊",
+      "updateStatus" : 1,
+      "distance" : 9927,
+      "memberId" : 4385,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2230,
+      "name" : "妖殇惑世",
+      "updateStatus" : 1,
+      "distance" : 1494,
+      "memberId" : 5860,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2479,
+      "name" : "诡音：楼上的高跟鞋",
+      "updateStatus" : 1,
+      "distance" : 6347,
+      "memberId" : 5673,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3626,
+      "name" : "错过了，还能爱吗？",
+      "updateStatus" : 1,
+      "distance" : 9136,
+      "memberId" : 8939,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3653,
+      "name" : "倾城王爷杀手妃",
+      "updateStatus" : 1,
+      "distance" : 9141,
+      "memberId" : 8720,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3206,
+      "name" : "霸情邪少：专宠小娇妻",
+      "updateStatus" : 1,
+      "distance" : 989,
+      "memberId" : 8192,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3151,
+      "name" : "神秘特务之炸弹小姐",
+      "updateStatus" : 1,
+      "distance" : 4622,
+      "memberId" : 2133,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2304,
+      "name" : "青楼十三妃",
+      "updateStatus" : 1,
+      "distance" : 9790,
+      "memberId" : 1009,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2043,
+      "name" : "彼岸繁花落",
+      "updateStatus" : 1,
+      "distance" : 1007,
+      "memberId" : 8088,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3462,
+      "name" : "冷婢有毒",
+      "updateStatus" : 1,
+      "distance" : 5813,
+      "memberId" : 6526,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2658,
-      "name" : "天佑嘉璟",
+      "id" : 2536,
+      "name" : "幸福书坊",
       "updateStatus" : 1,
-      "distance" : 3327,
-      "memberId" : 7391,
-      "bothType" : false
+      "distance" : 7176,
+      "memberId" : 3098,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3714,
-      "name" : "王爷的仙妃",
+      "id" : 2586,
+      "name" : "半面仙",
       "updateStatus" : 1,
-      "distance" : 699,
-      "memberId" : 5625,
-      "bothType" : false
+      "distance" : 3419,
+      "memberId" : 2618,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2236,
-      "name" : "冥江漫漫",
+      "id" : 2814,
+      "name" : "小市民",
       "updateStatus" : 1,
-      "distance" : 1802,
-      "memberId" : 4023,
-      "bothType" : false
+      "distance" : 4324,
+      "memberId" : 4403,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3485,
-      "name" : "无良大盗：看好你丫的节操",
+      "id" : 2687,
+      "name" : "朝歌叶璇",
       "updateStatus" : 1,
-      "distance" : 8907,
-      "memberId" : 1123,
-      "bothType" : false
+      "distance" : 6810,
+      "memberId" : 1333,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3609,
-      "name" : "等你爱我",
+      "id" : 2467,
+      "name" : "诛魔录",
       "updateStatus" : 1,
-      "distance" : 7309,
-      "memberId" : 4074,
-      "bothType" : true
+      "distance" : 9925,
+      "memberId" : 5540,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3024,
-      "name" : "爱错",
+      "id" : 2883,
+      "name" : "错殇",
       "updateStatus" : 1,
-      "distance" : 7040,
-      "memberId" : 8948,
-      "bothType" : false
+      "distance" : 2679,
+      "memberId" : 3742,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3205,
-      "name" : "当冷公主遇上甜心少",
+      "id" : 2518,
+      "name" : "君醉红颜",
       "updateStatus" : 1,
-      "distance" : 6572,
-      "memberId" : 1587,
-      "bothType" : false
+      "distance" : 4831,
+      "memberId" : 3350,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2417,
-      "name" : "不飞的天使",
+      "id" : 2649,
+      "name" : "女配",
+      "updateStatus" : 1,
+      "distance" : 9914,
+      "memberId" : 6952,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3582,
+      "name" : "骗来的爱情",
       "updateStatus" : 2,
-      "distance" : 4165,
-      "memberId" : 1807,
-      "bothType" : false
+      "distance" : 6503,
+      "memberId" : 4903,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2092,
-      "name" : "迟妆懒起",
-      "updateStatus" : 1,
-      "distance" : 2358,
-      "memberId" : 8500,
-      "bothType" : false
+      "id" : 2361,
+      "name" : "豪门溺爱：一追到底",
+      "updateStatus" : 2,
+      "distance" : 1211,
+      "memberId" : 2293,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3687,
-      "name" : "至尊天下：霸占绝色鬼颜妃",
+      "id" : 3107,
+      "name" : "世间冷暖",
       "updateStatus" : 1,
-      "distance" : 3406,
-      "memberId" : 3412,
-      "bothType" : false
+      "distance" : 933,
+      "memberId" : 3136,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2672,
-      "name" : "迷雾豪门：诱妻上瘾",
+      "id" : 2638,
+      "name" : "谊心依旧",
       "updateStatus" : 1,
-      "distance" : 7010,
-      "memberId" : 2379,
-      "bothType" : false
+      "distance" : 7206,
+      "memberId" : 8777,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2998,
-      "name" : "卫红衣",
+      "id" : 2995,
+      "name" : "《魔武乱世》",
       "updateStatus" : 1,
-      "distance" : 945,
-      "memberId" : 7279,
-      "bothType" : false
+      "distance" : 1317,
+      "memberId" : 1096,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2326,
-      "name" : "六爷府的懒丫头",
+      "id" : 2940,
+      "name" : "秦汉·流云浮生",
       "updateStatus" : 1,
-      "distance" : 1145,
-      "memberId" : 7542,
-      "bothType" : false
+      "distance" : 9277,
+      "memberId" : 7850,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2639,
-      "name" : "来不及说出口的爱",
+      "id" : 2691,
+      "name" : "网王之绮梦玥恋",
       "updateStatus" : 1,
-      "distance" : 1337,
-      "memberId" : 1604,
-      "bothType" : false
+      "distance" : 6289,
+      "memberId" : 5604,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2890,
-      "name" : "月沉沦",
+      "id" : 2468,
+      "name" : "天堂巴士444",
       "updateStatus" : 1,
-      "distance" : 3093,
-      "memberId" : 6073,
-      "bothType" : true
+      "distance" : 2957,
+      "memberId" : 1151,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3336,
-      "name" : "旷世绝恋：洛水弹琴不谈情",
-      "updateStatus" : 1,
-      "distance" : 3994,
-      "memberId" : 8785,
-      "bothType" : false
+      "id" : 3567,
+      "name" : "你必须知道的事",
+      "updateStatus" : 2,
+      "distance" : 975,
+      "memberId" : 5456,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2557,
-      "name" : "美人颜如玉",
+      "id" : 2073,
+      "name" : "清娆蓝梦",
       "updateStatus" : 1,
-      "distance" : 793,
-      "memberId" : 7437,
-      "bothType" : false
+      "distance" : 2403,
+      "memberId" : 5330,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3513,
-      "name" : "安伦旅途",
+      "id" : 3271,
+      "name" : "折景年",
       "updateStatus" : 1,
-      "distance" : 1755,
-      "memberId" : 1473,
-      "bothType" : false
+      "distance" : 6591,
+      "memberId" : 1748,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2752,
-      "name" : "总裁的致命情人：抵死不承欢",
+      "id" : 2365,
+      "name" : "网游之嗜血武圣",
       "updateStatus" : 1,
-      "distance" : 9281,
-      "memberId" : 1845,
-      "bothType" : false
-    }, {
-      "id" : 3300,
-      "name" : "画城",
-      "updateStatus" : 1,
-      "distance" : 2537,
-      "memberId" : 6642,
-      "bothType" : false
+      "distance" : 9702,
+      "memberId" : 8626,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

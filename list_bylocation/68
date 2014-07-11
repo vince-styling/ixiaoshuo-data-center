@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3719,
-      "name" : "唯心城的月光",
+      "id" : 3561,
+      "name" : "穿越之唯爱有你",
       "updateStatus" : 1,
-      "distance" : 6078,
-      "memberId" : 5412,
-      "bothType" : false
+      "distance" : 1517,
+      "memberId" : 5717,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2232,
-      "name" : "唯愿汝永世安",
+      "id" : 2646,
+      "name" : "满园紫苏",
       "updateStatus" : 1,
-      "distance" : 7465,
-      "memberId" : 3588,
-      "bothType" : true
+      "distance" : 4962,
+      "memberId" : 6856,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3166,
-      "name" : "一品凰妻：冷情教主猎娇宠",
+      "id" : 2285,
+      "name" : "天织雪",
       "updateStatus" : 1,
-      "distance" : 9845,
-      "memberId" : 7732,
-      "bothType" : false
-    }, {
-      "id" : 3077,
-      "name" : "青春盛宴之青春貌似童话",
-      "updateStatus" : 1,
-      "distance" : 7835,
-      "memberId" : 6062,
-      "bothType" : false
-    }, {
-      "id" : 2065,
-      "name" : "昭华散",
-      "updateStatus" : 2,
-      "distance" : 9416,
-      "memberId" : 6220,
-      "bothType" : false
-    }, {
-      "id" : 3626,
-      "name" : "错过了，还能爱吗？",
-      "updateStatus" : 1,
-      "distance" : 8301,
-      "memberId" : 5863,
-      "bothType" : false
-    }, {
-      "id" : 3708,
-      "name" : "浮生境梦",
-      "updateStatus" : 1,
-      "distance" : 8469,
-      "memberId" : 5699,
-      "bothType" : false
-    }, {
-      "id" : 3199,
-      "name" : "后宫大学传",
-      "updateStatus" : 1,
-      "distance" : 3384,
-      "memberId" : 2553,
-      "bothType" : false
-    }, {
-      "id" : 2540,
-      "name" : "天降魔法师",
-      "updateStatus" : 1,
-      "distance" : 4092,
-      "memberId" : 5986,
-      "bothType" : false
-    }, {
-      "id" : 2473,
-      "name" : "解惑",
-      "updateStatus" : 1,
-      "distance" : 4552,
-      "memberId" : 8330,
-      "bothType" : false
-    }, {
-      "id" : 2973,
-      "name" : "独占温宠",
-      "updateStatus" : 1,
-      "distance" : 5073,
-      "memberId" : 8715,
-      "bothType" : true
-    }, {
-      "id" : 3536,
-      "name" : "网王同人浅色的夏季",
-      "updateStatus" : 1,
-      "distance" : 6843,
+      "distance" : 6166,
       "memberId" : 7343,
-      "bothType" : true
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2353,
-      "name" : "攻前辈的作战",
+      "id" : 3008,
+      "name" : "网王之王者领域",
       "updateStatus" : 1,
-      "distance" : 4786,
-      "memberId" : 7043,
-      "bothType" : false
+      "distance" : 9928,
+      "memberId" : 7900,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3496,
-      "name" : "一纸荒年",
+      "id" : 3686,
+      "name" : "美人谋：宠妃不贤良",
       "updateStatus" : 1,
-      "distance" : 8060,
-      "memberId" : 5914,
-      "bothType" : false
+      "distance" : 4426,
+      "memberId" : 5472,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3290,
-      "name" : "婚然厚爱",
+      "id" : 2235,
+      "name" : "空忆落花。",
       "updateStatus" : 1,
-      "distance" : 3102,
-      "memberId" : 2006,
-      "bothType" : false
+      "distance" : 3953,
+      "memberId" : 5503,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3706,
-      "name" : "痴情的心",
+      "id" : 3675,
+      "name" : "绝世之第一公主",
       "updateStatus" : 1,
-      "distance" : 9348,
-      "memberId" : 7637,
-      "bothType" : false
+      "distance" : 6031,
+      "memberId" : 2848,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2139,
-      "name" : "天地无门",
-      "updateStatus" : 1,
-      "distance" : 1485,
-      "memberId" : 7729,
-      "bothType" : false
+      "id" : 3242,
+      "name" : "王爷的重生小冷妃",
+      "updateStatus" : 2,
+      "distance" : 8007,
+      "memberId" : 5051,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3552,
-      "name" : "千里相思",
+      "id" : 2954,
+      "name" : "大神卖身不卖艺",
       "updateStatus" : 1,
-      "distance" : 2842,
-      "memberId" : 6861,
-      "bothType" : false
+      "distance" : 2991,
+      "memberId" : 3188,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3288,
-      "name" : "契约情人之滚下我的床",
+      "id" : 2486,
+      "name" : "天才少女侦探",
       "updateStatus" : 1,
-      "distance" : 3359,
-      "memberId" : 2407,
-      "bothType" : true
+      "distance" : 9963,
+      "memberId" : 8093,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3003,
+      "name" : "蝶樱澜",
+      "updateStatus" : 1,
+      "distance" : 9008,
+      "memberId" : 4050,
+      "bothType" : true,
+      "textBook" : false
     }, {
       "id" : 3558,
       "name" : "残疾王爷，暴力妃",
       "updateStatus" : 1,
-      "distance" : 7917,
-      "memberId" : 1937,
-      "bothType" : false
+      "distance" : 1794,
+      "memberId" : 2636,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2752,
+      "name" : "总裁的致命情人：抵死不承欢",
+      "updateStatus" : 1,
+      "distance" : 8111,
+      "memberId" : 5062,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2888,
+      "name" : "分生",
+      "updateStatus" : 1,
+      "distance" : 6581,
+      "memberId" : 6933,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2852,
+      "name" : "花千世界",
+      "updateStatus" : 1,
+      "distance" : 794,
+      "memberId" : 5933,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2875,
+      "name" : "宝贝，我真的爱你",
+      "updateStatus" : 1,
+      "distance" : 6233,
+      "memberId" : 3545,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2727,
+      "name" : "无奸不商",
+      "updateStatus" : 1,
+      "distance" : 6895,
+      "memberId" : 1940,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2514,
+      "name" : "新选组大河剧之星辰之名",
+      "updateStatus" : 2,
+      "distance" : 3906,
+      "memberId" : 3832,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2796,
+      "name" : "风流老板俏秘书",
+      "updateStatus" : 1,
+      "distance" : 7008,
+      "memberId" : 8090,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2396,
+      "name" : "冷爱",
+      "updateStatus" : 2,
+      "distance" : 9003,
+      "memberId" : 8674,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

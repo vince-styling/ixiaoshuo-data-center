@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3591,
-      "name" : "小羊别闹，来吃草",
+      "id" : 2808,
+      "name" : "女王重生：欺上恶魔总裁",
+      "updateStatus" : 1,
+      "distance" : 3154,
+      "memberId" : 3200,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2494,
+      "name" : "火蓝刀锋之邂逅重生",
+      "updateStatus" : 1,
+      "distance" : 5828,
+      "memberId" : 3358,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2259,
+      "name" : "一树梨花散，散，散",
       "updateStatus" : 2,
-      "distance" : 8758,
-      "memberId" : 7454,
-      "bothType" : false
+      "distance" : 8784,
+      "memberId" : 5702,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2688,
-      "name" : "疼痛青春：那夏离殇",
+      "id" : 2972,
+      "name" : "MoMo大陆传奇",
       "updateStatus" : 1,
-      "distance" : 8996,
-      "memberId" : 3158,
-      "bothType" : true
+      "distance" : 9851,
+      "memberId" : 2918,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3606,
-      "name" : "王的异界游历史",
+      "id" : 2322,
+      "name" : "异世至尊红颜",
       "updateStatus" : 1,
-      "distance" : 6598,
-      "memberId" : 6061,
-      "bothType" : false
+      "distance" : 1443,
+      "memberId" : 3707,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2130,
-      "name" : "文德皇后传",
+      "id" : 2683,
+      "name" : "总有一个人能陪我一起老",
       "updateStatus" : 1,
-      "distance" : 4981,
-      "memberId" : 4755,
-      "bothType" : false
+      "distance" : 8037,
+      "memberId" : 3714,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2791,
-      "name" : "倩海情深",
+      "id" : 2502,
+      "name" : "古剑奇谭之浮生执念",
       "updateStatus" : 1,
-      "distance" : 6202,
-      "memberId" : 6707,
-      "bothType" : false
+      "distance" : 2996,
+      "memberId" : 5534,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3412,
-      "name" : "请在原地等等我",
+      "id" : 3570,
+      "name" : "挚爱傻夫君",
       "updateStatus" : 1,
-      "distance" : 5086,
-      "memberId" : 1628,
-      "bothType" : true
+      "distance" : 1570,
+      "memberId" : 1939,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2053,
-      "name" : "古堡游戏：吸血恶魔别过来",
+      "id" : 2761,
+      "name" : "德伯家的苔丝",
       "updateStatus" : 1,
-      "distance" : 4169,
-      "memberId" : 6361,
-      "bothType" : false
+      "distance" : 2163,
+      "memberId" : 3711,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2138,
-      "name" : "妖孽，快到仙姑碗里来",
-      "updateStatus" : 2,
-      "distance" : 6273,
-      "memberId" : 6866,
-      "bothType" : false
-    }, {
-      "id" : 3060,
-      "name" : "问世间节操为何物",
+      "id" : 2988,
+      "name" : "梦想之星",
       "updateStatus" : 1,
-      "distance" : 8250,
-      "memberId" : 6606,
-      "bothType" : false
+      "distance" : 1135,
+      "memberId" : 8895,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2393,
-      "name" : "剩女重生女警花：缉拿花花大少",
+      "id" : 3299,
+      "name" : "爱妃你真笨",
       "updateStatus" : 1,
-      "distance" : 6685,
-      "memberId" : 3545,
-      "bothType" : false
+      "distance" : 1051,
+      "memberId" : 7421,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2131,
-      "name" : "重生之嫡女云笙",
+      "id" : 2678,
+      "name" : "柠檬微酸",
       "updateStatus" : 1,
-      "distance" : 1299,
-      "memberId" : 4566,
-      "bothType" : false
+      "distance" : 1571,
+      "memberId" : 1618,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2295,
-      "name" : "未来帝国之战国春秋",
+      "id" : 2093,
+      "name" : "废柴王妃：相公欠调教",
       "updateStatus" : 1,
-      "distance" : 2432,
-      "memberId" : 5927,
-      "bothType" : true
+      "distance" : 8667,
+      "memberId" : 2756,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3334,
-      "name" : "我非007",
+      "id" : 2725,
+      "name" : "高富帅，统统趴下",
       "updateStatus" : 1,
-      "distance" : 4658,
-      "memberId" : 8170,
-      "bothType" : false
+      "distance" : 5911,
+      "memberId" : 2463,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2576,
-      "name" : "四人行",
+      "id" : 2092,
+      "name" : "迟妆懒起",
       "updateStatus" : 1,
-      "distance" : 6187,
-      "memberId" : 5375,
-      "bothType" : false
+      "distance" : 7026,
+      "memberId" : 1494,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3034,
-      "name" : "为期不返",
+      "id" : 2468,
+      "name" : "天堂巴士444",
       "updateStatus" : 1,
-      "distance" : 2237,
-      "memberId" : 2895,
-      "bothType" : true
+      "distance" : 9181,
+      "memberId" : 3218,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2750,
-      "name" : "仇爱",
+      "id" : 2440,
+      "name" : "冰山首席：霸宠豪门养女",
       "updateStatus" : 1,
-      "distance" : 7895,
-      "memberId" : 6698,
-      "bothType" : true
+      "distance" : 5641,
+      "memberId" : 5368,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3137,
-      "name" : "只要你还在这里",
+      "id" : 3716,
+      "name" : "芊妃驾到：得罪不得",
       "updateStatus" : 1,
-      "distance" : 1228,
-      "memberId" : 2354,
-      "bothType" : false
+      "distance" : 5554,
+      "memberId" : 5677,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2975,
-      "name" : "残荷听雨",
+      "id" : 3293,
+      "name" : "穿越之未知数",
       "updateStatus" : 1,
-      "distance" : 3914,
-      "memberId" : 7000,
-      "bothType" : false
+      "distance" : 5910,
+      "memberId" : 1307,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3564,
-      "name" : "十二生肖女神的恋爱",
+      "id" : 3437,
+      "name" : "北方有佳人",
       "updateStatus" : 1,
-      "distance" : 6152,
-      "memberId" : 4538,
-      "bothType" : false
-    }, {
-      "id" : 2254,
-      "name" : "小哥跟着姐，有肉吃",
-      "updateStatus" : 2,
-      "distance" : 6896,
-      "memberId" : 7620,
-      "bothType" : false
+      "distance" : 8061,
+      "memberId" : 1259,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3081,
-      "name" : "爱，谨行时光",
+      "id" : 3326,
+      "name" : "暖暖的",
       "updateStatus" : 1,
-      "distance" : 1962,
-      "memberId" : 6868,
-      "bothType" : false
+      "distance" : 3828,
+      "memberId" : 5044,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2067,
-      "name" : "昔人惜人",
-      "updateStatus" : 2,
-      "distance" : 8572,
-      "memberId" : 6425,
-      "bothType" : false
-    }, {
-      "id" : 2659,
-      "name" : "菜鸟，不怕不怕",
+      "id" : 3458,
+      "name" : "极品女宠王妃",
       "updateStatus" : 1,
-      "distance" : 6889,
-      "memberId" : 3941,
-      "bothType" : false
+      "distance" : 7221,
+      "memberId" : 7634,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2867,
-      "name" : "子兰",
+      "id" : 3082,
+      "name" : "当代校园情圣",
       "updateStatus" : 1,
-      "distance" : 8320,
-      "memberId" : 5874,
-      "bothType" : false
+      "distance" : 6478,
+      "memberId" : 1939,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3178,
-      "name" : "穿越之红柚偏甜",
+      "id" : 2307,
+      "name" : "掏心掏肺的傻女人",
       "updateStatus" : 1,
-      "distance" : 1950,
-      "memberId" : 7101,
-      "bothType" : false
+      "distance" : 8257,
+      "memberId" : 4239,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3296,
-      "name" : "斜阳晚照",
+      "id" : 2565,
+      "name" : "冯子莫",
       "updateStatus" : 1,
-      "distance" : 4477,
-      "memberId" : 6630,
-      "bothType" : false
+      "distance" : 1635,
+      "memberId" : 7606,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3701,
-      "name" : "游走的灵魂",
+      "id" : 3215,
+      "name" : "成长的影子",
       "updateStatus" : 1,
-      "distance" : 3423,
-      "memberId" : 7113,
-      "bothType" : false
+      "distance" : 653,
+      "memberId" : 3538,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3379,
-      "name" : "情簪",
+      "id" : 3012,
+      "name" : "会有惊鸿替倦鸟",
       "updateStatus" : 1,
-      "distance" : 7821,
-      "memberId" : 2064,
-      "bothType" : false
+      "distance" : 2835,
+      "memberId" : 4120,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2442,
-      "name" : "峰回路转只见君",
+      "id" : 3513,
+      "name" : "安伦旅途",
       "updateStatus" : 1,
-      "distance" : 3155,
-      "memberId" : 1810,
-      "bothType" : true
+      "distance" : 9110,
+      "memberId" : 1696,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2284,
-      "name" : "梦游仙归",
+      "id" : 2420,
+      "name" : "双生之恋",
       "updateStatus" : 1,
-      "distance" : 6366,
-      "memberId" : 5858,
-      "bothType" : true
+      "distance" : 8464,
+      "memberId" : 2296,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3264,
-      "name" : "一个安静的故事",
+      "id" : 2877,
+      "name" : "总裁，我只是你的棋子",
       "updateStatus" : 1,
-      "distance" : 2089,
-      "memberId" : 6741,
-      "bothType" : true
+      "distance" : 8834,
+      "memberId" : 5191,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3589,
-      "name" : "今生等你爱我",
+      "id" : 3179,
+      "name" : "情深几许",
       "updateStatus" : 1,
-      "distance" : 3455,
-      "memberId" : 8821,
-      "bothType" : false
+      "distance" : 3628,
+      "memberId" : 8296,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3196,
-      "name" : "西地锦",
+      "id" : 3052,
+      "name" : "林间季雨青冢",
       "updateStatus" : 1,
-      "distance" : 2499,
-      "memberId" : 4395,
-      "bothType" : false
+      "distance" : 7525,
+      "memberId" : 2497,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3353,
-      "name" : "不覆当年",
+      "id" : 3672,
+      "name" : "只愿得君心",
       "updateStatus" : 1,
-      "distance" : 6172,
-      "memberId" : 5424,
-      "bothType" : false
+      "distance" : 9727,
+      "memberId" : 1954,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2954,
-      "name" : "大神卖身不卖艺",
+      "id" : 3616,
+      "name" : "重生商女之总裁请自重",
       "updateStatus" : 1,
-      "distance" : 3164,
-      "memberId" : 5867,
-      "bothType" : true
+      "distance" : 7637,
+      "memberId" : 1020,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3716,
-      "name" : "芊妃驾到：得罪不得",
+      "id" : 3141,
+      "name" : "天上掉下个林妹妹",
       "updateStatus" : 1,
-      "distance" : 3891,
-      "memberId" : 3863,
-      "bothType" : false
+      "distance" : 9956,
+      "memberId" : 2573,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3252,
-      "name" : "一辈子，在一起",
+      "id" : 3611,
+      "name" : "Closetoflame",
       "updateStatus" : 1,
-      "distance" : 8596,
-      "memberId" : 4789,
-      "bothType" : false
+      "distance" : 4221,
+      "memberId" : 8406,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2190,
-      "name" : "天山之雪",
+      "id" : 2906,
+      "name" : "拐个俏郎君",
       "updateStatus" : 1,
-      "distance" : 809,
-      "memberId" : 8541,
-      "bothType" : true
+      "distance" : 2815,
+      "memberId" : 5191,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3680,
-      "name" : "潇洒小姐执着先生",
+      "id" : 3437,
+      "name" : "北方有佳人",
       "updateStatus" : 1,
-      "distance" : 4555,
-      "memberId" : 5542,
-      "bothType" : false
+      "distance" : 5112,
+      "memberId" : 2670,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2173,
-      "name" : "西游前传：天上掉下个沙和尚",
+      "id" : 2447,
+      "name" : "生活在深圳",
       "updateStatus" : 1,
-      "distance" : 7829,
-      "memberId" : 7184,
-      "bothType" : false
+      "distance" : 9651,
+      "memberId" : 3824,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2748,
+      "name" : "如果邂逅",
+      "updateStatus" : 1,
+      "distance" : 5984,
+      "memberId" : 7273,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2915,
-      "name" : "女汉子养成记",
+      "id" : 3198,
+      "name" : "灵异轮回",
       "updateStatus" : 1,
-      "distance" : 2264,
-      "memberId" : 2585,
-      "bothType" : false
+      "distance" : 8516,
+      "memberId" : 3492,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2409,
-      "name" : "异世界的盛宴",
+      "id" : 3727,
+      "name" : "繁华错",
       "updateStatus" : 1,
-      "distance" : 6483,
-      "memberId" : 8798,
-      "bothType" : false
+      "distance" : 5986,
+      "memberId" : 3605,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2735,
-      "name" : "是前世还是今生",
-      "updateStatus" : 1,
-      "distance" : 9831,
-      "memberId" : 2499,
-      "bothType" : true
-    }, {
-      "id" : 2361,
-      "name" : "豪门溺爱：一追到底",
-      "updateStatus" : 2,
-      "distance" : 7079,
-      "memberId" : 6460,
-      "bothType" : false
-    }, {
-      "id" : 2069,
-      "name" : "庶女二嫁：暴君，来暖床",
-      "updateStatus" : 2,
-      "distance" : 6030,
-      "memberId" : 3442,
-      "bothType" : false
-    }, {
-      "id" : 2393,
-      "name" : "剩女重生女警花：缉拿花花大少",
-      "updateStatus" : 1,
-      "distance" : 1747,
-      "memberId" : 1045,
-      "bothType" : false
-    }, {
-      "id" : 2407,
-      "name" : "岁月静好，时光依旧",
-      "updateStatus" : 1,
-      "distance" : 4234,
-      "memberId" : 7000,
-      "bothType" : false
-    }, {
-      "id" : 2639,
-      "name" : "来不及说出口的爱",
+      "id" : 3387,
+      "name" : "帐中歌，离恨天",
       "updateStatus" : 1,
       "distance" : 5269,
-      "memberId" : 4650,
-      "bothType" : true
+      "memberId" : 7681,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2147,
-      "name" : "不当神仙也爱你",
+      "id" : 2681,
+      "name" : "巅峰之我为帝王",
+      "updateStatus" : 1,
+      "distance" : 4377,
+      "memberId" : 8417,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3305,
+      "name" : "混世钉子",
+      "updateStatus" : 1,
+      "distance" : 2425,
+      "memberId" : 4002,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2292,
+      "name" : "从此君王不翻牌",
+      "updateStatus" : 1,
+      "distance" : 8017,
+      "memberId" : 8856,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2855,
+      "name" : "皇叔，别抢亲",
+      "updateStatus" : 1,
+      "distance" : 1842,
+      "memberId" : 4472,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3683,
+      "name" : "梧桐花雨：亡颜劫",
+      "updateStatus" : 1,
+      "distance" : 3125,
+      "memberId" : 2525,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3318,
+      "name" : "灯火阑珊爱未尽",
       "updateStatus" : 2,
-      "distance" : 8494,
-      "memberId" : 7011,
-      "bothType" : false
+      "distance" : 7201,
+      "memberId" : 7802,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2325,
-      "name" : "彼岸花仙",
+      "id" : 2133,
+      "name" : "封神之祸心",
       "updateStatus" : 1,
-      "distance" : 7139,
-      "memberId" : 2702,
-      "bothType" : false
+      "distance" : 6142,
+      "memberId" : 7303,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3697,
-      "name" : "一路有爱陪着亲",
+      "id" : 2559,
+      "name" : "锁爱",
       "updateStatus" : 1,
-      "distance" : 8451,
-      "memberId" : 5625,
-      "bothType" : false
+      "distance" : 6484,
+      "memberId" : 4393,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2777,
-      "name" : "穿越之风沁",
+      "id" : 3651,
+      "name" : "《听见了吗？我来了》",
       "updateStatus" : 1,
-      "distance" : 5739,
-      "memberId" : 8729,
-      "bothType" : false
+      "distance" : 9234,
+      "memberId" : 7833,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2635,
-      "name" : "剩女大作战",
+      "id" : 3645,
+      "name" : "悠悠茶茗",
       "updateStatus" : 1,
-      "distance" : 8998,
-      "memberId" : 6009,
-      "bothType" : false
+      "distance" : 7030,
+      "memberId" : 3719,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3671,
-      "name" : "重生之一品贵妇",
+      "id" : 3643,
+      "name" : "可能你还爱我",
       "updateStatus" : 1,
-      "distance" : 3520,
-      "memberId" : 8640,
-      "bothType" : true
+      "distance" : 9992,
+      "memberId" : 2567,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3585,
-      "name" : "桃花醉之天下",
+      "id" : 2679,
+      "name" : "雪莲的桔梗花",
       "updateStatus" : 1,
-      "distance" : 7626,
-      "memberId" : 2516,
-      "bothType" : false
+      "distance" : 9860,
+      "memberId" : 3085,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2911,
-      "name" : "冷酷的无上之皇",
+      "id" : 2684,
+      "name" : "闯驻你的心",
       "updateStatus" : 1,
-      "distance" : 3507,
-      "memberId" : 2272,
-      "bothType" : false
+      "distance" : 1874,
+      "memberId" : 5718,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3567,
-      "name" : "你必须知道的事",
-      "updateStatus" : 2,
-      "distance" : 5896,
-      "memberId" : 1060,
-      "bothType" : false
-    }, {
-      "id" : 3734,
-      "name" : "哈喽，我的间谍机器人王子",
+      "id" : 3196,
+      "name" : "西地锦",
       "updateStatus" : 1,
-      "distance" : 2664,
-      "memberId" : 7021,
-      "bothType" : true
+      "distance" : 5867,
+      "memberId" : 4030,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2044,
-      "name" : "七厘米的蔚蓝",
+      "id" : 3349,
+      "name" : "宁负苍天",
       "updateStatus" : 1,
-      "distance" : 4227,
-      "memberId" : 6667,
-      "bothType" : false
+      "distance" : 3883,
+      "memberId" : 7823,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2326,
-      "name" : "六爷府的懒丫头",
+      "id" : 3361,
+      "name" : "逍遥人生：痞子王爷很妖娆",
       "updateStatus" : 1,
-      "distance" : 6712,
-      "memberId" : 1720,
-      "bothType" : false
+      "distance" : 1851,
+      "memberId" : 8116,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2700,
+      "name" : "狐舞倾城：姐的世界你不懂",
+      "updateStatus" : 1,
+      "distance" : 1739,
+      "memberId" : 2289,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

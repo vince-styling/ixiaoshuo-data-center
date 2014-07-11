@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2896,
-      "name" : "三界风云之魅影",
+      "id" : 2776,
+      "name" : "时空魔法师",
       "updateStatus" : 1,
-      "distance" : 8359,
-      "memberId" : 3716,
-      "bothType" : true
+      "distance" : 3547,
+      "memberId" : 1733,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3668,
-      "name" : "鸳鸯何处绾红妆",
+      "id" : 3512,
+      "name" : "朱颜修仙记",
       "updateStatus" : 1,
-      "distance" : 4427,
-      "memberId" : 2016,
-      "bothType" : true
+      "distance" : 9208,
+      "memberId" : 2058,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2112,
-      "name" : "温暖如春",
+      "id" : 3537,
+      "name" : "倾尽天下，乱世红颜",
       "updateStatus" : 1,
-      "distance" : 7308,
-      "memberId" : 8590,
-      "bothType" : false
+      "distance" : 3612,
+      "memberId" : 5728,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3070,
-      "name" : "双面娇娃：爱在罂粟烂漫时",
-      "updateStatus" : 1,
-      "distance" : 2196,
-      "memberId" : 6665,
-      "bothType" : false
-    }, {
-      "id" : 3130,
-      "name" : "冷情总裁，我不爱",
-      "updateStatus" : 1,
-      "distance" : 8692,
-      "memberId" : 1679,
-      "bothType" : true
-    }, {
-      "id" : 3328,
-      "name" : "琉璃舞",
-      "updateStatus" : 1,
-      "distance" : 7473,
-      "memberId" : 3560,
-      "bothType" : false
-    }, {
-      "id" : 3282,
-      "name" : "樱舞飞剑",
-      "updateStatus" : 1,
-      "distance" : 4132,
-      "memberId" : 2282,
-      "bothType" : false
-    }, {
-      "id" : 2390,
-      "name" : "最初的仪式，最后的爱情",
+      "id" : 2387,
+      "name" : "三世豪门：扛上绝情总裁",
       "updateStatus" : 2,
-      "distance" : 3585,
-      "memberId" : 3583,
-      "bothType" : false
+      "distance" : 3057,
+      "memberId" : 8366,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2434,
-      "name" : "邪逆乾坤",
+      "id" : 2966,
+      "name" : "乱世桃花",
       "updateStatus" : 1,
-      "distance" : 7916,
-      "memberId" : 6175,
-      "bothType" : false
+      "distance" : 5108,
+      "memberId" : 8985,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3648,
-      "name" : "完美自杀",
+      "id" : 2990,
+      "name" : "薄情先生：炸弹绝妃哪里逃",
       "updateStatus" : 1,
-      "distance" : 1569,
-      "memberId" : 8504,
-      "bothType" : false
+      "distance" : 1242,
+      "memberId" : 8973,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2223,
-      "name" : "浩瀚风云录",
+      "id" : 3306,
+      "name" : "“灰姑娘”的复仇绝密",
       "updateStatus" : 1,
-      "distance" : 6408,
-      "memberId" : 8991,
-      "bothType" : true
+      "distance" : 6835,
+      "memberId" : 5973,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3630,
-      "name" : "我叫林若妃",
+      "id" : 2612,
+      "name" : "女汉子成长史",
       "updateStatus" : 1,
-      "distance" : 2328,
-      "memberId" : 2373,
-      "bothType" : false
+      "distance" : 3648,
+      "memberId" : 2579,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2118,
-      "name" : "替身美妃休想逃",
-      "updateStatus" : 2,
-      "distance" : 3024,
-      "memberId" : 1313,
-      "bothType" : true
-    }, {
-      "id" : 2093,
-      "name" : "废柴王妃：相公欠调教",
+      "id" : 3096,
+      "name" : "绝不放手",
       "updateStatus" : 1,
-      "distance" : 7546,
-      "memberId" : 4863,
-      "bothType" : false
+      "distance" : 7135,
+      "memberId" : 6335,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3176,
-      "name" : "留明待玥复",
+      "id" : 2297,
+      "name" : "一梦三生卿心照",
       "updateStatus" : 1,
-      "distance" : 7871,
-      "memberId" : 6918,
-      "bothType" : false
+      "distance" : 7895,
+      "memberId" : 4994,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2269,
-      "name" : "女皇倾国萌天下",
+      "id" : 2912,
+      "name" : "媚色重生：情挑尤物庶女",
       "updateStatus" : 1,
-      "distance" : 8052,
-      "memberId" : 2686,
-      "bothType" : true
+      "distance" : 3777,
+      "memberId" : 7886,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2751,
-      "name" : "甘涩流年",
+      "id" : 2433,
+      "name" : "诱婚",
       "updateStatus" : 1,
-      "distance" : 8302,
-      "memberId" : 7035,
-      "bothType" : false
+      "distance" : 9032,
+      "memberId" : 1190,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2283,
-      "name" : "三部曲之相遇在大唐",
+      "id" : 2274,
+      "name" : "世家贵女",
       "updateStatus" : 1,
-      "distance" : 8655,
-      "memberId" : 7761,
-      "bothType" : false
+      "distance" : 1773,
+      "memberId" : 6685,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2969,
-      "name" : "我的青春是一座迷宫",
+      "id" : 2995,
+      "name" : "《魔武乱世》",
       "updateStatus" : 1,
-      "distance" : 4046,
-      "memberId" : 1170,
-      "bothType" : false
+      "distance" : 5727,
+      "memberId" : 8992,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2287,
-      "name" : "王妃富可敌国",
+      "id" : 2566,
+      "name" : "那些年，我和你",
       "updateStatus" : 1,
-      "distance" : 1243,
-      "memberId" : 3643,
-      "bothType" : false
+      "distance" : 4686,
+      "memberId" : 2487,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3702,
+      "name" : "生生羁绊",
+      "updateStatus" : 1,
+      "distance" : 3285,
+      "memberId" : 1079,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3220,
+      "name" : "噬心扇",
+      "updateStatus" : 1,
+      "distance" : 1721,
+      "memberId" : 3123,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2705,
+      "name" : "黑道-恋上如月",
+      "updateStatus" : 1,
+      "distance" : 8641,
+      "memberId" : 7304,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2635,
+      "name" : "剩女大作战",
+      "updateStatus" : 1,
+      "distance" : 4672,
+      "memberId" : 2907,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3065,
+      "name" : "反女巫联盟",
+      "updateStatus" : 1,
+      "distance" : 8104,
+      "memberId" : 1033,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3399,
-      "name" : "太子殿下，不爱请休妻",
+      "id" : 3690,
+      "name" : "帝王劫：重生之丑女皇后",
       "updateStatus" : 1,
-      "distance" : 1815,
-      "memberId" : 7711,
-      "bothType" : false
+      "distance" : 3283,
+      "memberId" : 8810,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2768,
-      "name" : "军校女王：夺心天才战神",
+      "id" : 3243,
+      "name" : "仙灭混沌",
       "updateStatus" : 1,
-      "distance" : 7846,
-      "memberId" : 6758,
-      "bothType" : false
+      "distance" : 5961,
+      "memberId" : 3993,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2551,
-      "name" : "巧笑嫣然",
+      "id" : 3648,
+      "name" : "完美自杀",
       "updateStatus" : 1,
-      "distance" : 2951,
-      "memberId" : 6008,
-      "bothType" : false
+      "distance" : 8913,
+      "memberId" : 4774,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2242,
-      "name" : "断刃天涯",
+      "id" : 2709,
+      "name" : "至尊特工：狂凤逆九天",
       "updateStatus" : 1,
-      "distance" : 1945,
-      "memberId" : 2926,
-      "bothType" : true
+      "distance" : 6917,
+      "memberId" : 1235,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2395,
-      "name" : "夜色豪门：缠上时尚小娇妻",
+      "id" : 3044,
+      "name" : "异世王妃倾城",
+      "updateStatus" : 1,
+      "distance" : 7111,
+      "memberId" : 4195,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3267,
+      "name" : "穿越之花本纯粹",
+      "updateStatus" : 1,
+      "distance" : 7975,
+      "memberId" : 1756,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3140,
+      "name" : "今夜，天黑",
+      "updateStatus" : 1,
+      "distance" : 9736,
+      "memberId" : 2733,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2898,
+      "name" : "天戒",
+      "updateStatus" : 1,
+      "distance" : 7955,
+      "memberId" : 6183,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2352,
+      "name" : "血缘诅咒之墨儒篇",
+      "updateStatus" : 1,
+      "distance" : 8306,
+      "memberId" : 2589,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3411,
+      "name" : "孽障情缘",
+      "updateStatus" : 1,
+      "distance" : 5914,
+      "memberId" : 8509,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3525,
+      "name" : "枯时花笑",
+      "updateStatus" : 1,
+      "distance" : 6955,
+      "memberId" : 8309,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2262,
+      "name" : "三生河畔等着你",
+      "updateStatus" : 1,
+      "distance" : 4324,
+      "memberId" : 3454,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2435,
+      "name" : "绝世青龙王",
+      "updateStatus" : 1,
+      "distance" : 5491,
+      "memberId" : 7625,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2411,
+      "name" : "护理实验室的故事",
+      "updateStatus" : 1,
+      "distance" : 1751,
+      "memberId" : 8447,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3569,
+      "name" : "奇山鬼谭",
+      "updateStatus" : 1,
+      "distance" : 1951,
+      "memberId" : 1895,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2080,
+      "name" : "宫偷十二钗：步步惊魂",
+      "updateStatus" : 1,
+      "distance" : 2790,
+      "memberId" : 5651,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3242,
+      "name" : "王爷的重生小冷妃",
       "updateStatus" : 2,
-      "distance" : 9012,
-      "memberId" : 1061,
-      "bothType" : false
+      "distance" : 7970,
+      "memberId" : 5011,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3190,
-      "name" : "仙侠之倾世绝恋",
+      "id" : 2888,
+      "name" : "分生",
       "updateStatus" : 1,
-      "distance" : 5894,
-      "memberId" : 6180,
-      "bothType" : false
+      "distance" : 3046,
+      "memberId" : 5858,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3727,
-      "name" : "繁华错",
+      "id" : 3571,
+      "name" : "小小侍女的灿烂时光",
       "updateStatus" : 1,
-      "distance" : 6590,
-      "memberId" : 8967,
-      "bothType" : false
+      "distance" : 8790,
+      "memberId" : 6111,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2131,
-      "name" : "重生之嫡女云笙",
+      "id" : 3249,
+      "name" : "恋上花样天才美男",
       "updateStatus" : 1,
-      "distance" : 4297,
-      "memberId" : 3724,
-      "bothType" : false
-    }, {
-      "id" : 3214,
-      "name" : "穿越之妖精的尾巴",
-      "updateStatus" : 1,
-      "distance" : 2760,
-      "memberId" : 5611,
-      "bothType" : false
-    }, {
-      "id" : 3355,
-      "name" : "野蛮小宫女",
-      "updateStatus" : 1,
-      "distance" : 4715,
-      "memberId" : 3132,
-      "bothType" : false
-    }, {
-      "id" : 3234,
-      "name" : "死神通法三部曲",
-      "updateStatus" : 1,
-      "distance" : 9340,
-      "memberId" : 5217,
-      "bothType" : false
-    }, {
-      "id" : 2130,
-      "name" : "文德皇后传",
-      "updateStatus" : 1,
-      "distance" : 5003,
-      "memberId" : 5927,
-      "bothType" : true
-    }, {
-      "id" : 3325,
-      "name" : "司宠",
-      "updateStatus" : 1,
-      "distance" : 3281,
-      "memberId" : 2275,
-      "bothType" : false
-    }, {
-      "id" : 2074,
-      "name" : "我们本无缘",
-      "updateStatus" : 1,
-      "distance" : 8290,
-      "memberId" : 2625,
-      "bothType" : false
-    }, {
-      "id" : 2807,
-      "name" : "忍住不说我爱你",
-      "updateStatus" : 1,
-      "distance" : 4963,
-      "memberId" : 2678,
-      "bothType" : false
-    }, {
-      "id" : 3339,
-      "name" : "臆乱情迷",
-      "updateStatus" : 1,
-      "distance" : 4604,
-      "memberId" : 8144,
-      "bothType" : false
-    }, {
-      "id" : 3681,
-      "name" : "泡沫初夏",
-      "updateStatus" : 2,
-      "distance" : 5720,
-      "memberId" : 4068,
-      "bothType" : false
-    }, {
-      "id" : 2738,
-      "name" : "苦忘·浮生如梦",
-      "updateStatus" : 1,
-      "distance" : 2603,
-      "memberId" : 7771,
-      "bothType" : true
-    }, {
-      "id" : 2598,
-      "name" : "穿越之瑶禛馨",
-      "updateStatus" : 1,
-      "distance" : 8682,
-      "memberId" : 7867,
-      "bothType" : false
-    }, {
-      "id" : 2989,
-      "name" : "恶魔与天使之吻",
-      "updateStatus" : 1,
-      "distance" : 5798,
-      "memberId" : 7472,
-      "bothType" : false
+      "distance" : 8264,
+      "memberId" : 6708,
+      "bothType" : true,
+      "textBook" : false
     } ]
   }
 }

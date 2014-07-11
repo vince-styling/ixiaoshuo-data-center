@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3166,
-      "name" : "一品凰妻：冷情教主猎娇宠",
+      "id" : 2201,
+      "name" : "凌荒传",
       "updateStatus" : 1,
-      "distance" : 4902,
-      "memberId" : 8286,
-      "bothType" : false
+      "distance" : 1952,
+      "memberId" : 7143,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2799,
-      "name" : "雪寻雪见",
+      "id" : 3582,
+      "name" : "骗来的爱情",
+      "updateStatus" : 2,
+      "distance" : 9400,
+      "memberId" : 1657,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3051,
+      "name" : "执念恨",
+      "updateStatus" : 2,
+      "distance" : 7108,
+      "memberId" : 8676,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3711,
+      "name" : "谋天",
       "updateStatus" : 1,
-      "distance" : 9909,
-      "memberId" : 4995,
-      "bothType" : false
+      "distance" : 9955,
+      "memberId" : 3680,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3730,
-      "name" : "美人殇之彼岸花开",
-      "updateStatus" : 1,
-      "distance" : 7546,
-      "memberId" : 2965,
-      "bothType" : false
-    }, {
-      "id" : 3580,
-      "name" : "槐花吟",
-      "updateStatus" : 1,
-      "distance" : 1288,
-      "memberId" : 4664,
-      "bothType" : true
-    }, {
-      "id" : 2307,
-      "name" : "掏心掏肺的傻女人",
-      "updateStatus" : 1,
-      "distance" : 5597,
-      "memberId" : 3416,
-      "bothType" : false
-    }, {
-      "id" : 3548,
-      "name" : "只见青山妩媚",
-      "updateStatus" : 1,
-      "distance" : 8129,
-      "memberId" : 8447,
-      "bothType" : true
-    }, {
-      "id" : 3345,
-      "name" : "黑洞星海",
-      "updateStatus" : 1,
-      "distance" : 6415,
-      "memberId" : 4761,
-      "bothType" : false
-    }, {
-      "id" : 2401,
-      "name" : "拾爱：蚀骨之恋",
-      "updateStatus" : 1,
-      "distance" : 7380,
-      "memberId" : 1190,
-      "bothType" : false
-    }, {
-      "id" : 3148,
-      "name" : "听说你也爱我",
-      "updateStatus" : 1,
-      "distance" : 3592,
-      "memberId" : 5088,
-      "bothType" : true
-    }, {
-      "id" : 2449,
-      "name" : "青春的坟墓",
-      "updateStatus" : 1,
-      "distance" : 7879,
-      "memberId" : 8656,
-      "bothType" : false
-    }, {
-      "id" : 3408,
-      "name" : "综恐一梦一回",
-      "updateStatus" : 1,
-      "distance" : 7828,
-      "memberId" : 7638,
-      "bothType" : false
-    }, {
-      "id" : 2408,
-      "name" : "皮卡光的求婚大作战",
-      "updateStatus" : 1,
-      "distance" : 8494,
-      "memberId" : 7186,
-      "bothType" : false
-    }, {
-      "id" : 3247,
-      "name" : "清帏花色浓",
+      "id" : 2697,
+      "name" : "堕世之瞳",
       "updateStatus" : 1,
       "distance" : 6929,
-      "memberId" : 2337,
-      "bothType" : false
+      "memberId" : 1621,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2153,
-      "name" : "醉清风：师父你别跑",
+      "id" : 3097,
+      "name" : "穿越之丑凤倾城",
       "updateStatus" : 1,
-      "distance" : 7223,
-      "memberId" : 8987,
-      "bothType" : false
+      "distance" : 8601,
+      "memberId" : 3252,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2678,
-      "name" : "柠檬微酸",
-      "updateStatus" : 1,
-      "distance" : 7247,
-      "memberId" : 5997,
-      "bothType" : true
+      "id" : 2069,
+      "name" : "庶女二嫁：暴君，来暖床",
+      "updateStatus" : 2,
+      "distance" : 9351,
+      "memberId" : 4418,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3569,
-      "name" : "奇山鬼谭",
-      "updateStatus" : 1,
-      "distance" : 2982,
-      "memberId" : 7697,
-      "bothType" : true
+      "id" : 2165,
+      "name" : "擒猪不力：索爱腹黑仙君",
+      "updateStatus" : 2,
+      "distance" : 9167,
+      "memberId" : 6164,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3262,
-      "name" : "爱，在遥远的彼方",
-      "updateStatus" : 1,
-      "distance" : 3541,
-      "memberId" : 7227,
-      "bothType" : false
+      "id" : 2259,
+      "name" : "一树梨花散，散，散",
+      "updateStatus" : 2,
+      "distance" : 4151,
+      "memberId" : 8116,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3726,
-      "name" : "君倾如月",
+      "id" : 2042,
+      "name" : "一分钟追悔",
       "updateStatus" : 1,
-      "distance" : 1858,
-      "memberId" : 4693,
-      "bothType" : false
+      "distance" : 8748,
+      "memberId" : 1641,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3332,
-      "name" : "不会失忆的爱",
+      "id" : 2265,
+      "name" : "朗歌行",
       "updateStatus" : 1,
-      "distance" : 1094,
-      "memberId" : 1030,
-      "bothType" : false
+      "distance" : 2628,
+      "memberId" : 2104,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2741,
-      "name" : "三生回眸间，一念成魔时",
+      "id" : 3509,
+      "name" : "秋以为期",
       "updateStatus" : 1,
-      "distance" : 3147,
-      "memberId" : 8698,
-      "bothType" : false
+      "distance" : 9024,
+      "memberId" : 8934,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3596,
+      "name" : "不要在一起",
+      "updateStatus" : 1,
+      "distance" : 2242,
+      "memberId" : 7780,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3393,
+      "name" : "医",
+      "updateStatus" : 1,
+      "distance" : 5709,
+      "memberId" : 2796,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2657,
+      "name" : "票定你",
+      "updateStatus" : 1,
+      "distance" : 3390,
+      "memberId" : 8958,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2836,
+      "name" : "霸爱总裁：爱妻是无尾熊",
+      "updateStatus" : 1,
+      "distance" : 7235,
+      "memberId" : 2475,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3675,
+      "name" : "绝世之第一公主",
+      "updateStatus" : 1,
+      "distance" : 3632,
+      "memberId" : 8031,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3235,
+      "name" : "不作死就不会死",
+      "updateStatus" : 1,
+      "distance" : 4494,
+      "memberId" : 7207,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3724,
+      "name" : "白泽之神",
+      "updateStatus" : 1,
+      "distance" : 1697,
+      "memberId" : 7428,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2915,
+      "name" : "女汉子养成记",
+      "updateStatus" : 1,
+      "distance" : 7339,
+      "memberId" : 5876,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

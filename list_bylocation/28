@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3084,
-      "name" : "倾世妖男",
+      "id" : 3247,
+      "name" : "清帏花色浓",
       "updateStatus" : 1,
-      "distance" : 6492,
-      "memberId" : 8399,
-      "bothType" : false
+      "distance" : 2342,
+      "memberId" : 4970,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2430,
-      "name" : "一场梦如痴如醉",
+      "id" : 2225,
+      "name" : "梵卓的白色蔷薇",
       "updateStatus" : 1,
-      "distance" : 3112,
-      "memberId" : 1990,
-      "bothType" : true
+      "distance" : 3518,
+      "memberId" : 2163,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2256,
-      "name" : "穿越东宫之碟中谍",
+      "id" : 3672,
+      "name" : "只愿得君心",
+      "updateStatus" : 1,
+      "distance" : 8236,
+      "memberId" : 3203,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2624,
+      "name" : "夏天，冰淇淋，還有……",
+      "updateStatus" : 1,
+      "distance" : 1597,
+      "memberId" : 5977,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3509,
+      "name" : "秋以为期",
+      "updateStatus" : 1,
+      "distance" : 7784,
+      "memberId" : 2003,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2915,
+      "name" : "女汉子养成记",
+      "updateStatus" : 1,
+      "distance" : 1005,
+      "memberId" : 4689,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3241,
+      "name" : "王妃不优雅：玉面王爷掉线妃",
+      "updateStatus" : 1,
+      "distance" : 8292,
+      "memberId" : 7262,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3295,
+      "name" : "南追",
+      "updateStatus" : 1,
+      "distance" : 8654,
+      "memberId" : 8038,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2797,
+      "name" : "那年夏天残留的支离破碎",
+      "updateStatus" : 1,
+      "distance" : 5582,
+      "memberId" : 7089,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3292,
+      "name" : "菊之恋",
+      "updateStatus" : 1,
+      "distance" : 759,
+      "memberId" : 1454,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3066,
+      "name" : "紫色蒲公英",
+      "updateStatus" : 1,
+      "distance" : 1060,
+      "memberId" : 2312,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2241,
+      "name" : "猎魔人范海辛",
+      "updateStatus" : 1,
+      "distance" : 1816,
+      "memberId" : 1571,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2702,
+      "name" : "光与暗之命运狂想曲",
+      "updateStatus" : 1,
+      "distance" : 9860,
+      "memberId" : 5949,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3301,
+      "name" : "乱世五代，彼岸花开",
+      "updateStatus" : 1,
+      "distance" : 8280,
+      "memberId" : 2728,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3209,
+      "name" : "风语爱情：命中注定会翻篇",
+      "updateStatus" : 1,
+      "distance" : 1051,
+      "memberId" : 7825,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3543,
+      "name" : "逆天七小姐：第一魔妃",
+      "updateStatus" : 1,
+      "distance" : 4793,
+      "memberId" : 4979,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2138,
+      "name" : "妖孽，快到仙姑碗里来",
       "updateStatus" : 2,
-      "distance" : 9527,
-      "memberId" : 3938,
-      "bothType" : false
+      "distance" : 8836,
+      "memberId" : 5793,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3457,
-      "name" : "与君行：王妃临天下",
+      "id" : 3149,
+      "name" : "风仪万千",
       "updateStatus" : 1,
-      "distance" : 7207,
-      "memberId" : 4635,
-      "bothType" : false
+      "distance" : 7427,
+      "memberId" : 5526,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2585,
-      "name" : "孟璇传奇",
+      "id" : 3462,
+      "name" : "冷婢有毒",
       "updateStatus" : 1,
-      "distance" : 9333,
-      "memberId" : 3425,
-      "bothType" : true
+      "distance" : 6763,
+      "memberId" : 4490,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2778,
-      "name" : "东山剑",
+      "id" : 3733,
+      "name" : "公主白雪",
       "updateStatus" : 1,
-      "distance" : 6046,
-      "memberId" : 3280,
-      "bothType" : true
-    }, {
-      "id" : 2226,
-      "name" : "浴火之凰",
-      "updateStatus" : 1,
-      "distance" : 6355,
-      "memberId" : 2530,
-      "bothType" : false
-    }, {
-      "id" : 2297,
-      "name" : "一梦三生卿心照",
-      "updateStatus" : 1,
-      "distance" : 7629,
-      "memberId" : 5518,
-      "bothType" : false
-    }, {
-      "id" : 2669,
-      "name" : "遗爱绝情娇妻",
-      "updateStatus" : 1,
-      "distance" : 5699,
-      "memberId" : 6495,
-      "bothType" : true
-    }, {
-      "id" : 2750,
-      "name" : "仇爱",
-      "updateStatus" : 1,
-      "distance" : 4633,
-      "memberId" : 6842,
-      "bothType" : true
-    }, {
-      "id" : 3269,
-      "name" : "时空之泪鸢尾花",
-      "updateStatus" : 1,
-      "distance" : 5654,
-      "memberId" : 6212,
-      "bothType" : false
-    }, {
-      "id" : 3042,
-      "name" : "翼之痛，枫之殇",
-      "updateStatus" : 1,
-      "distance" : 4412,
-      "memberId" : 6516,
-      "bothType" : false
-    }, {
-      "id" : 2657,
-      "name" : "票定你",
-      "updateStatus" : 1,
-      "distance" : 5459,
-      "memberId" : 5501,
-      "bothType" : false
-    }, {
-      "id" : 2217,
-      "name" : "枪芒",
-      "updateStatus" : 1,
-      "distance" : 5678,
-      "memberId" : 1345,
-      "bothType" : false
-    }, {
-      "id" : 2451,
-      "name" : "穿越前世来爱你",
-      "updateStatus" : 1,
-      "distance" : 2411,
-      "memberId" : 7170,
-      "bothType" : true
-    }, {
-      "id" : 3561,
-      "name" : "穿越之唯爱有你",
-      "updateStatus" : 1,
-      "distance" : 7812,
-      "memberId" : 4093,
-      "bothType" : false
-    }, {
-      "id" : 2759,
-      "name" : "若无君，何来月",
-      "updateStatus" : 1,
-      "distance" : 8537,
-      "memberId" : 1886,
-      "bothType" : false
-    }, {
-      "id" : 3741,
-      "name" : "纯红之血：吸血鬼盯上了你",
-      "updateStatus" : 1,
-      "distance" : 8977,
-      "memberId" : 2908,
-      "bothType" : false
-    }, {
-      "id" : 3425,
-      "name" : "网王之温柔缱绻的岁月",
-      "updateStatus" : 1,
-      "distance" : 8851,
-      "memberId" : 8567,
-      "bothType" : false
-    }, {
-      "id" : 2243,
-      "name" : "独宠之命中注定",
-      "updateStatus" : 1,
-      "distance" : 7450,
-      "memberId" : 7914,
-      "bothType" : false
+      "distance" : 2240,
+      "memberId" : 1130,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

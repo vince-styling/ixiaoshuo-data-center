@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3091,
-      "name" : "丛林法则，末世女王风",
+      "id" : 2311,
+      "name" : "凤血",
       "updateStatus" : 1,
-      "distance" : 1647,
-      "memberId" : 4387,
-      "bothType" : false
+      "distance" : 8906,
+      "memberId" : 5941,
+      "bothType" : false,
+      "textBook" : true
     }, {
       "id" : 2747,
       "name" : "天才魔宝：踢走风流爹地",
       "updateStatus" : 1,
-      "distance" : 5811,
-      "memberId" : 3452,
-      "bothType" : false
+      "distance" : 8854,
+      "memberId" : 6795,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2455,
-      "name" : "孤子",
+      "id" : 2298,
+      "name" : "重生联盟之绝代风华",
       "updateStatus" : 1,
-      "distance" : 5732,
-      "memberId" : 3745,
-      "bothType" : false
+      "distance" : 7884,
+      "memberId" : 5803,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3210,
-      "name" : "自卑女孩的vip恋遇",
-      "updateStatus" : 1,
-      "distance" : 5857,
-      "memberId" : 7658,
-      "bothType" : false
-    }, {
-      "id" : 3394,
-      "name" : "混混少爷的小气公主",
-      "updateStatus" : 1,
-      "distance" : 5244,
-      "memberId" : 1756,
-      "bothType" : false
-    }, {
-      "id" : 3111,
-      "name" : "真假王妃：非常之谋",
-      "updateStatus" : 1,
-      "distance" : 5207,
-      "memberId" : 3920,
-      "bothType" : true
-    }, {
-      "id" : 2694,
-      "name" : "安有斯君待何年",
+      "id" : 3591,
+      "name" : "小羊别闹，来吃草",
       "updateStatus" : 2,
-      "distance" : 7952,
-      "memberId" : 7147,
-      "bothType" : false
+      "distance" : 9224,
+      "memberId" : 3106,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3071,
-      "name" : "焚源·苍蓝",
+      "id" : 3321,
+      "name" : "名利圈",
       "updateStatus" : 1,
-      "distance" : 8470,
-      "memberId" : 2339,
-      "bothType" : false
+      "distance" : 7789,
+      "memberId" : 2204,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3498,
-      "name" : "浅夏未了",
+      "id" : 3139,
+      "name" : "鸢米娅宿命的扭转",
       "updateStatus" : 1,
-      "distance" : 7806,
-      "memberId" : 8856,
-      "bothType" : false
+      "distance" : 4101,
+      "memberId" : 3708,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2555,
-      "name" : "嫁个如意郎君",
+      "id" : 3595,
+      "name" : "冷漠千金邪魅少爷",
       "updateStatus" : 1,
-      "distance" : 5291,
-      "memberId" : 5378,
-      "bothType" : true
+      "distance" : 7514,
+      "memberId" : 5812,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2826,
-      "name" : "沐晴只到梨花薄",
+      "id" : 2962,
+      "name" : "爱与时光终年不遇",
       "updateStatus" : 1,
-      "distance" : 7720,
-      "memberId" : 6927,
-      "bothType" : true
+      "distance" : 5881,
+      "memberId" : 1397,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2372,
-      "name" : "出轨无毒",
+      "id" : 3647,
+      "name" : "魔天大传",
+      "updateStatus" : 1,
+      "distance" : 3317,
+      "memberId" : 2042,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2767,
+      "name" : "美人目",
+      "updateStatus" : 1,
+      "distance" : 2721,
+      "memberId" : 6216,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3025,
+      "name" : "EXO之爱上未来的你们",
+      "updateStatus" : 1,
+      "distance" : 7386,
+      "memberId" : 4887,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2812,
+      "name" : "可能",
+      "updateStatus" : 1,
+      "distance" : 8762,
+      "memberId" : 7474,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3387,
+      "name" : "帐中歌，离恨天",
+      "updateStatus" : 1,
+      "distance" : 7377,
+      "memberId" : 3183,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3732,
+      "name" : "兰倾天下",
+      "updateStatus" : 1,
+      "distance" : 5404,
+      "memberId" : 6192,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2137,
+      "name" : "逆墨灵",
       "updateStatus" : 2,
-      "distance" : 7302,
-      "memberId" : 2037,
-      "bothType" : false
+      "distance" : 4929,
+      "memberId" : 2935,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2948,
-      "name" : "庶女狂妃：傲凤逆九天",
+      "id" : 3471,
+      "name" : "你是我闪耀的星",
       "updateStatus" : 1,
-      "distance" : 947,
-      "memberId" : 7508,
-      "bothType" : true
+      "distance" : 8312,
+      "memberId" : 2932,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3730,
-      "name" : "美人殇之彼岸花开",
+      "id" : 3543,
+      "name" : "逆天七小姐：第一魔妃",
       "updateStatus" : 1,
-      "distance" : 8059,
-      "memberId" : 2485,
-      "bothType" : true
+      "distance" : 6299,
+      "memberId" : 8579,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2976,
-      "name" : "少女养成之就是赖上你",
+      "id" : 2182,
+      "name" : "妖纵异世：逆天血煞女",
       "updateStatus" : 1,
-      "distance" : 2058,
-      "memberId" : 5471,
-      "bothType" : false
+      "distance" : 8115,
+      "memberId" : 3358,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3440,
-      "name" : "风月楼",
-      "updateStatus" : 1,
-      "distance" : 7770,
-      "memberId" : 7105,
-      "bothType" : false
-    }, {
-      "id" : 2987,
-      "name" : "适珂而止",
-      "updateStatus" : 1,
-      "distance" : 1385,
-      "memberId" : 5143,
-      "bothType" : true
-    }, {
-      "id" : 3110,
-      "name" : "三生情缘",
-      "updateStatus" : 1,
-      "distance" : 8642,
-      "memberId" : 4004,
-      "bothType" : false
-    }, {
-      "id" : 2138,
-      "name" : "妖孽，快到仙姑碗里来",
+      "id" : 2478,
+      "name" : "命运修补",
       "updateStatus" : 2,
-      "distance" : 5819,
-      "memberId" : 8813,
-      "bothType" : true
+      "distance" : 5900,
+      "memberId" : 7555,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2098,
-      "name" : "东风吹尽龙沙雪",
+      "id" : 2312,
+      "name" : "栀子梦",
       "updateStatus" : 1,
-      "distance" : 9582,
-      "memberId" : 1355,
-      "bothType" : false
+      "distance" : 5718,
+      "memberId" : 3521,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

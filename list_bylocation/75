@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3236,
-      "name" : "九尾女皇",
-      "updateStatus" : 1,
-      "distance" : 6834,
-      "memberId" : 6863,
-      "bothType" : true
+      "id" : 2300,
+      "name" : "蛇眸繁花",
+      "updateStatus" : 2,
+      "distance" : 4652,
+      "memberId" : 8068,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2789,
-      "name" : "男人心事",
+      "id" : 2466,
+      "name" : "寻魂记之称霸地狱",
       "updateStatus" : 1,
-      "distance" : 1789,
-      "memberId" : 7063,
-      "bothType" : false
+      "distance" : 9458,
+      "memberId" : 3314,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3006,
-      "name" : "君在水之湄",
+      "id" : 2973,
+      "name" : "独占温宠",
       "updateStatus" : 1,
-      "distance" : 6715,
-      "memberId" : 7733,
-      "bothType" : false
+      "distance" : 9047,
+      "memberId" : 3053,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2788,
-      "name" : "五月，安然",
+      "id" : 2612,
+      "name" : "女汉子成长史",
       "updateStatus" : 1,
-      "distance" : 7394,
-      "memberId" : 6098,
-      "bothType" : true
+      "distance" : 8436,
+      "memberId" : 7780,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2378,
-      "name" : "千里背叛",
+      "id" : 3489,
+      "name" : "夜色如昨",
       "updateStatus" : 1,
-      "distance" : 4554,
-      "memberId" : 6232,
-      "bothType" : false
+      "distance" : 3900,
+      "memberId" : 7277,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3514,
-      "name" : "修罗决旨",
+      "id" : 2170,
+      "name" : "轮回三生劫",
       "updateStatus" : 1,
-      "distance" : 6927,
-      "memberId" : 5900,
-      "bothType" : true
+      "distance" : 8129,
+      "memberId" : 2098,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3159,
-      "name" : "红尘陌路",
+      "id" : 3508,
+      "name" : "虾片恋情:融化冰山王子的小虾片",
       "updateStatus" : 1,
-      "distance" : 8341,
-      "memberId" : 3571,
-      "bothType" : false
+      "distance" : 5406,
+      "memberId" : 6396,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2602,
-      "name" : "妖孽皇子：颤抖吧！爱妃",
+      "id" : 2459,
+      "name" : "鸮侠传",
       "updateStatus" : 1,
-      "distance" : 3841,
-      "memberId" : 3649,
-      "bothType" : false
+      "distance" : 5401,
+      "memberId" : 4766,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3529,
-      "name" : "黑道少女",
+      "id" : 3698,
+      "name" : "情乱",
       "updateStatus" : 1,
-      "distance" : 7608,
-      "memberId" : 3193,
-      "bothType" : false
+      "distance" : 9486,
+      "memberId" : 5460,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2685,
-      "name" : "含蕾",
+      "id" : 2937,
+      "name" : "致命蔷薇FatalRose",
       "updateStatus" : 1,
-      "distance" : 4693,
-      "memberId" : 1394,
-      "bothType" : true
+      "distance" : 9667,
+      "memberId" : 3878,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2128,
-      "name" : "幻莫一世，情殇",
+      "id" : 2860,
+      "name" : "形影总相离",
       "updateStatus" : 1,
-      "distance" : 3700,
-      "memberId" : 5620,
-      "bothType" : true
+      "distance" : 4347,
+      "memberId" : 3096,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3276,
-      "name" : "宫心计续集",
-      "updateStatus" : 1,
-      "distance" : 8645,
-      "memberId" : 2162,
-      "bothType" : false
+      "id" : 3681,
+      "name" : "泡沫初夏",
+      "updateStatus" : 2,
+      "distance" : 7508,
+      "memberId" : 6101,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3264,
-      "name" : "一个安静的故事",
-      "updateStatus" : 1,
-      "distance" : 9253,
-      "memberId" : 6012,
-      "bothType" : false
+      "id" : 2065,
+      "name" : "昭华散",
+      "updateStatus" : 2,
+      "distance" : 704,
+      "memberId" : 7041,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2068,
-      "name" : "红妆无忧",
-      "updateStatus" : 1,
-      "distance" : 5583,
-      "memberId" : 5401,
-      "bothType" : false
+      "id" : 2275,
+      "name" : "国殇，风吟江山",
+      "updateStatus" : 2,
+      "distance" : 6575,
+      "memberId" : 2033,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2580,
-      "name" : "琉璃碎",
+      "id" : 2941,
+      "name" : "饿狼女扑羊记",
       "updateStatus" : 1,
-      "distance" : 6136,
-      "memberId" : 7951,
-      "bothType" : false
+      "distance" : 7658,
+      "memberId" : 6024,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2129,
-      "name" : "美人出逃：别惹弃妃",
+      "id" : 3152,
+      "name" : "晚晴空",
       "updateStatus" : 1,
-      "distance" : 2601,
-      "memberId" : 7590,
-      "bothType" : false
+      "distance" : 5951,
+      "memberId" : 2837,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3526,
-      "name" : "桃花躲躲",
+      "id" : 2557,
+      "name" : "美人颜如玉",
       "updateStatus" : 1,
-      "distance" : 8916,
-      "memberId" : 7666,
-      "bothType" : false
+      "distance" : 3300,
+      "memberId" : 1294,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3343,
-      "name" : "许你水木两相依",
+      "id" : 2449,
+      "name" : "青春的坟墓",
       "updateStatus" : 1,
-      "distance" : 4743,
-      "memberId" : 3690,
-      "bothType" : false
+      "distance" : 9825,
+      "memberId" : 5390,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2289,
-      "name" : "暴虐王爷风流妃",
+      "id" : 2995,
+      "name" : "《魔武乱世》",
       "updateStatus" : 1,
-      "distance" : 9355,
-      "memberId" : 7882,
-      "bothType" : false
+      "distance" : 8726,
+      "memberId" : 3584,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2729,
-      "name" : "妃霸天下",
+      "id" : 2924,
+      "name" : "幻想彩虹",
       "updateStatus" : 1,
-      "distance" : 8084,
-      "memberId" : 7152,
-      "bothType" : false
+      "distance" : 5745,
+      "memberId" : 7847,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

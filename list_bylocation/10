@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3727,
-      "name" : "繁华错",
+      "id" : 2780,
+      "name" : "人生的旅途",
       "updateStatus" : 1,
-      "distance" : 745,
-      "memberId" : 2766,
-      "bothType" : false
+      "distance" : 8582,
+      "memberId" : 1196,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2319,
-      "name" : "绝代风华：魅惑帝王心",
+      "id" : 3560,
+      "name" : "豪门虐恋：多情二少独宠疯丫头",
+      "updateStatus" : 1,
+      "distance" : 7050,
+      "memberId" : 1498,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3585,
+      "name" : "桃花醉之天下",
+      "updateStatus" : 1,
+      "distance" : 548,
+      "memberId" : 8614,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3681,
+      "name" : "泡沫初夏",
       "updateStatus" : 2,
-      "distance" : 9748,
-      "memberId" : 5184,
-      "bothType" : false
+      "distance" : 7171,
+      "memberId" : 6289,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3175,
-      "name" : "被岁月流放的青春",
+      "id" : 2817,
+      "name" : "谁爱过我",
       "updateStatus" : 1,
-      "distance" : 4136,
-      "memberId" : 3455,
-      "bothType" : false
+      "distance" : 9441,
+      "memberId" : 4153,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3270,
-      "name" : "媚颜笑",
+      "id" : 3545,
+      "name" : "泪痕",
       "updateStatus" : 1,
-      "distance" : 8783,
-      "memberId" : 1291,
-      "bothType" : false
+      "distance" : 4125,
+      "memberId" : 6527,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3392,
-      "name" : "重生，投胎投错家",
+      "id" : 2370,
+      "name" : "假面的告白",
       "updateStatus" : 1,
-      "distance" : 1200,
-      "memberId" : 4995,
-      "bothType" : false
+      "distance" : 7761,
+      "memberId" : 3791,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3561,
-      "name" : "穿越之唯爱有你",
+      "id" : 2375,
+      "name" : "杀手穿越成煮夫",
       "updateStatus" : 1,
-      "distance" : 9170,
-      "memberId" : 1297,
-      "bothType" : false
+      "distance" : 1955,
+      "memberId" : 2116,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3735,
-      "name" : "穿越之修真吐槽娘",
+      "id" : 2553,
+      "name" : "想顾无言",
       "updateStatus" : 1,
-      "distance" : 9511,
-      "memberId" : 1534,
-      "bothType" : true
+      "distance" : 7257,
+      "memberId" : 5153,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3283,
-      "name" : "掠心总裁：爹地，你弱爆了！",
+      "id" : 2166,
+      "name" : "仙岚异世情",
       "updateStatus" : 1,
-      "distance" : 1328,
-      "memberId" : 4308,
-      "bothType" : false
+      "distance" : 8534,
+      "memberId" : 3038,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2812,
-      "name" : "可能",
+      "id" : 2548,
+      "name" : "绝色白衣帝师",
       "updateStatus" : 1,
-      "distance" : 2086,
-      "memberId" : 6891,
-      "bothType" : false
+      "distance" : 2194,
+      "memberId" : 4419,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2109,
-      "name" : "开门迎客",
+      "id" : 3388,
+      "name" : "栩你一世言如歌",
       "updateStatus" : 1,
-      "distance" : 5294,
-      "memberId" : 4248,
-      "bothType" : false
+      "distance" : 5510,
+      "memberId" : 6731,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2521,
-      "name" : "你才奥利奥，你全家都奥利奥",
+      "id" : 3111,
+      "name" : "真假王妃：非常之谋",
       "updateStatus" : 1,
-      "distance" : 7289,
-      "memberId" : 3771,
-      "bothType" : false
+      "distance" : 7112,
+      "memberId" : 3403,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2577,
-      "name" : "恶少总裁：薄宠小娇妻",
+      "id" : 3437,
+      "name" : "北方有佳人",
       "updateStatus" : 1,
-      "distance" : 8369,
-      "memberId" : 5071,
-      "bothType" : true
+      "distance" : 8359,
+      "memberId" : 4966,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2583,
-      "name" : "梦中红叶知多少",
+      "id" : 3445,
+      "name" : "落叶清欢",
       "updateStatus" : 1,
-      "distance" : 5231,
-      "memberId" : 1770,
-      "bothType" : false
+      "distance" : 7333,
+      "memberId" : 3129,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2046,
-      "name" : "疼在左手指间",
+      "id" : 3140,
+      "name" : "今夜，天黑",
       "updateStatus" : 1,
-      "distance" : 5099,
-      "memberId" : 3899,
-      "bothType" : false
+      "distance" : 3287,
+      "memberId" : 5953,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2223,
-      "name" : "浩瀚风云录",
+      "id" : 2763,
+      "name" : "医暖天下",
       "updateStatus" : 1,
-      "distance" : 5664,
-      "memberId" : 5784,
-      "bothType" : false
+      "distance" : 2630,
+      "memberId" : 3573,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2094,
-      "name" : "孽情殇",
+      "id" : 2800,
+      "name" : "唐明媚",
       "updateStatus" : 1,
-      "distance" : 6565,
-      "memberId" : 7143,
-      "bothType" : false
+      "distance" : 1430,
+      "memberId" : 2763,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3163,
-      "name" : "最初与最后",
-      "updateStatus" : 1,
-      "distance" : 2589,
-      "memberId" : 5358,
-      "bothType" : false
+      "id" : 3092,
+      "name" : "哈利波特之魔法学院",
+      "updateStatus" : 2,
+      "distance" : 7616,
+      "memberId" : 2673,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2759,
-      "name" : "若无君，何来月",
+      "id" : 3438,
+      "name" : "叶之于归",
       "updateStatus" : 1,
-      "distance" : 3858,
-      "memberId" : 2689,
-      "bothType" : true
-    }, {
-      "id" : 2047,
-      "name" : "越长大越现实",
-      "updateStatus" : 1,
-      "distance" : 1187,
-      "memberId" : 8689,
-      "bothType" : false
-    }, {
-      "id" : 3237,
-      "name" : "千面狂妃",
-      "updateStatus" : 1,
-      "distance" : 5393,
-      "memberId" : 5591,
-      "bothType" : false
+      "distance" : 2294,
+      "memberId" : 6805,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

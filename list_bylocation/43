@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3366,
-      "name" : "绝色江湖",
+      "id" : 2413,
+      "name" : "冤冤相抱",
       "updateStatus" : 1,
-      "distance" : 9690,
-      "memberId" : 7703,
-      "bothType" : false
+      "distance" : 6486,
+      "memberId" : 7058,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2573,
-      "name" : "熟女难拒钻石男",
+      "id" : 3295,
+      "name" : "南追",
       "updateStatus" : 1,
-      "distance" : 9431,
-      "memberId" : 2686,
-      "bothType" : false
+      "distance" : 3111,
+      "memberId" : 1451,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2589,
-      "name" : "弑神之巅",
+      "id" : 2593,
+      "name" : "凤御圣月洛",
       "updateStatus" : 1,
-      "distance" : 4518,
-      "memberId" : 4630,
-      "bothType" : false
+      "distance" : 1128,
+      "memberId" : 4670,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2679,
-      "name" : "雪莲的桔梗花",
+      "id" : 2737,
+      "name" : "醉清狂",
       "updateStatus" : 1,
-      "distance" : 1454,
-      "memberId" : 8543,
-      "bothType" : false
+      "distance" : 3441,
+      "memberId" : 7174,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3121,
-      "name" : "云从山庄",
+      "id" : 3323,
+      "name" : "灵场王子",
       "updateStatus" : 1,
-      "distance" : 5382,
-      "memberId" : 1205,
-      "bothType" : false
+      "distance" : 832,
+      "memberId" : 7615,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2430,
-      "name" : "一场梦如痴如醉",
+      "id" : 2985,
+      "name" : "重生之红梅烙",
       "updateStatus" : 1,
-      "distance" : 2507,
-      "memberId" : 4462,
-      "bothType" : false
+      "distance" : 9665,
+      "memberId" : 7702,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2096,
-      "name" : "天下第一媒",
+      "id" : 3724,
+      "name" : "白泽之神",
       "updateStatus" : 1,
-      "distance" : 2430,
-      "memberId" : 6193,
-      "bothType" : false
+      "distance" : 508,
+      "memberId" : 3459,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3554,
-      "name" : "萧索感心俱是梦",
+      "id" : 2683,
+      "name" : "总有一个人能陪我一起老",
       "updateStatus" : 1,
-      "distance" : 5776,
-      "memberId" : 1349,
-      "bothType" : false
+      "distance" : 6876,
+      "memberId" : 8092,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3160,
-      "name" : "小护士大明星",
+      "id" : 2761,
+      "name" : "德伯家的苔丝",
       "updateStatus" : 1,
-      "distance" : 3047,
-      "memberId" : 8280,
-      "bothType" : false
+      "distance" : 1163,
+      "memberId" : 1693,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2164,
-      "name" : "碎玉满江湖",
+      "id" : 3087,
+      "name" : "友情遇到爱情",
       "updateStatus" : 1,
-      "distance" : 9599,
-      "memberId" : 5522,
-      "bothType" : false
+      "distance" : 2620,
+      "memberId" : 6977,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2910,
-      "name" : "听闻公司有妖孽",
+      "id" : 2661,
+      "name" : "复仇天使：你是我的蛊",
       "updateStatus" : 1,
-      "distance" : 7767,
-      "memberId" : 1353,
-      "bothType" : false
+      "distance" : 4622,
+      "memberId" : 5454,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2264,
-      "name" : "龙斗狂沙西辽传奇",
+      "id" : 2089,
+      "name" : "旷世奇恋",
       "updateStatus" : 1,
-      "distance" : 9096,
-      "memberId" : 1734,
-      "bothType" : false
+      "distance" : 742,
+      "memberId" : 4735,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2373,
-      "name" : "小子们，上课请勿搞基",
+      "id" : 3109,
+      "name" : "茹果",
+      "updateStatus" : 1,
+      "distance" : 4928,
+      "memberId" : 2669,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3117,
+      "name" : "总裁少女成长记",
       "updateStatus" : 2,
-      "distance" : 1943,
-      "memberId" : 4010,
-      "bothType" : false
+      "distance" : 2068,
+      "memberId" : 3640,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3177,
-      "name" : "夜愿nightwish",
+      "id" : 2244,
+      "name" : "揽君心：宠姬有阴谋",
       "updateStatus" : 1,
-      "distance" : 6303,
-      "memberId" : 5159,
-      "bothType" : false
+      "distance" : 3006,
+      "memberId" : 6654,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3493,
-      "name" : "此时四季",
+      "id" : 2769,
+      "name" : "穿越清朝之蓦然回首",
       "updateStatus" : 1,
-      "distance" : 4973,
-      "memberId" : 5045,
-      "bothType" : false
+      "distance" : 6193,
+      "memberId" : 5884,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3552,
-      "name" : "千里相思",
+      "id" : 3080,
+      "name" : "死生契阔：墨遇小小",
       "updateStatus" : 1,
-      "distance" : 1835,
-      "memberId" : 6436,
-      "bothType" : true
+      "distance" : 2211,
+      "memberId" : 4452,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2626,
-      "name" : "花开画中花",
+      "id" : 2851,
+      "name" : "妃藏匈奴",
       "updateStatus" : 1,
-      "distance" : 6174,
-      "memberId" : 3396,
-      "bothType" : true
+      "distance" : 1758,
+      "memberId" : 5705,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3512,
-      "name" : "朱颜修仙记",
+      "id" : 2313,
+      "name" : "囧冠天下",
       "updateStatus" : 1,
-      "distance" : 8298,
-      "memberId" : 7671,
-      "bothType" : false
+      "distance" : 2002,
+      "memberId" : 1693,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3502,
-      "name" : "其实我很低调",
-      "updateStatus" : 1,
-      "distance" : 4888,
-      "memberId" : 7951,
-      "bothType" : true
-    }, {
-      "id" : 3652,
-      "name" : "总裁恶魔点娇妻",
-      "updateStatus" : 1,
-      "distance" : 1292,
-      "memberId" : 1400,
-      "bothType" : true
+      "id" : 2115,
+      "name" : "宫心计：弃后霸君宠",
+      "updateStatus" : 2,
+      "distance" : 3064,
+      "memberId" : 4520,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3400,
-      "name" : "天使的诠释：幸福就是遇见你",
+      "id" : 3213,
+      "name" : "光华琉璃只为一笑",
       "updateStatus" : 1,
-      "distance" : 3691,
-      "memberId" : 2594,
-      "bothType" : false
+      "distance" : 9219,
+      "memberId" : 5080,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2843,
-      "name" : "家有仙妃很腹黑",
+      "id" : 2606,
+      "name" : "自古多情空余恨",
       "updateStatus" : 1,
-      "distance" : 7701,
-      "memberId" : 8849,
-      "bothType" : true
+      "distance" : 4937,
+      "memberId" : 8596,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2494,
-      "name" : "火蓝刀锋之邂逅重生",
+      "id" : 2636,
+      "name" : "结婚这件事",
       "updateStatus" : 1,
-      "distance" : 9875,
-      "memberId" : 4118,
-      "bothType" : true
+      "distance" : 6182,
+      "memberId" : 5988,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2616,
-      "name" : "陌路轻狂",
+      "id" : 3732,
+      "name" : "兰倾天下",
       "updateStatus" : 1,
-      "distance" : 9438,
-      "memberId" : 1931,
-      "bothType" : false
+      "distance" : 7518,
+      "memberId" : 1382,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2713,
-      "name" : "凉茶温酒",
+      "id" : 2286,
+      "name" : "庄华尽",
+      "updateStatus" : 2,
+      "distance" : 4818,
+      "memberId" : 1250,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3471,
+      "name" : "你是我闪耀的星",
       "updateStatus" : 1,
-      "distance" : 1970,
-      "memberId" : 3436,
-      "bothType" : false
+      "distance" : 997,
+      "memberId" : 7571,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2946,
-      "name" : "穿得人情",
+      "id" : 2701,
+      "name" : "漩涡长门在异界",
+      "updateStatus" : 2,
+      "distance" : 9749,
+      "memberId" : 4171,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2819,
+      "name" : "医狂天下：驯服邪恶暗帝",
       "updateStatus" : 1,
-      "distance" : 5538,
-      "memberId" : 6507,
-      "bothType" : false
+      "distance" : 1759,
+      "memberId" : 4650,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2495,
-      "name" : "一个农村女人的蝴蝶梦",
+      "id" : 2136,
+      "name" : "替身王爷：妖妃有点萌",
       "updateStatus" : 1,
-      "distance" : 2009,
-      "memberId" : 8071,
-      "bothType" : true
+      "distance" : 8836,
+      "memberId" : 5917,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3085,
-      "name" : "姑娘，你没有穿鞋",
+      "id" : 3423,
+      "name" : "其叶沃若",
       "updateStatus" : 1,
-      "distance" : 4943,
-      "memberId" : 2652,
-      "bothType" : false
+      "distance" : 5399,
+      "memberId" : 2624,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2105,
-      "name" : "是谁弯下小蛮腰",
+      "id" : 2132,
+      "name" : "绝色王妃醉红颜",
       "updateStatus" : 1,
-      "distance" : 6057,
-      "memberId" : 2901,
-      "bothType" : false
+      "distance" : 8557,
+      "memberId" : 5213,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3715,
-      "name" : "仙灵问鼎",
+      "id" : 2456,
+      "name" : "亡灵归来",
       "updateStatus" : 1,
-      "distance" : 3864,
-      "memberId" : 8112,
-      "bothType" : false
+      "distance" : 6108,
+      "memberId" : 6573,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2096,
-      "name" : "天下第一媒",
-      "updateStatus" : 1,
-      "distance" : 6114,
-      "memberId" : 6044,
-      "bothType" : false
-    }, {
-      "id" : 2108,
-      "name" : "妖孽丛生",
-      "updateStatus" : 1,
-      "distance" : 2510,
-      "memberId" : 6664,
-      "bothType" : true
-    }, {
-      "id" : 2880,
-      "name" : "卿本红颜之妃常杀手",
-      "updateStatus" : 1,
-      "distance" : 8073,
-      "memberId" : 7577,
-      "bothType" : false
-    }, {
-      "id" : 2343,
-      "name" : "五界九州乱",
-      "updateStatus" : 1,
-      "distance" : 614,
-      "memberId" : 7050,
-      "bothType" : false
-    }, {
-      "id" : 2506,
-      "name" : "再见，青春",
-      "updateStatus" : 1,
-      "distance" : 4106,
-      "memberId" : 5788,
-      "bothType" : true
-    }, {
-      "id" : 2401,
-      "name" : "拾爱：蚀骨之恋",
-      "updateStatus" : 1,
-      "distance" : 835,
-      "memberId" : 4397,
-      "bothType" : false
-    }, {
-      "id" : 2566,
-      "name" : "那些年，我和你",
-      "updateStatus" : 1,
-      "distance" : 8214,
-      "memberId" : 8117,
-      "bothType" : false
-    }, {
-      "id" : 2089,
-      "name" : "旷世奇恋",
+      "id" : 3611,
+      "name" : "Closetoflame",
       "updateStatus" : 1,
       "distance" : 9618,
-      "memberId" : 1571,
-      "bothType" : false
+      "memberId" : 6064,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2617,
-      "name" : "戏里婚外",
+      "id" : 2934,
+      "name" : "怀海漫成",
       "updateStatus" : 1,
-      "distance" : 8259,
-      "memberId" : 8623,
-      "bothType" : false
+      "distance" : 7919,
+      "memberId" : 1980,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2209,
-      "name" : "高贵的囚徒",
+      "id" : 3177,
+      "name" : "夜愿nightwish",
       "updateStatus" : 1,
-      "distance" : 2561,
-      "memberId" : 1765,
-      "bothType" : false
+      "distance" : 8028,
+      "memberId" : 1167,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3507,
+      "name" : "血雨腥风恩仇录",
+      "updateStatus" : 1,
+      "distance" : 1955,
+      "memberId" : 6871,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2375,
+      "name" : "杀手穿越成煮夫",
+      "updateStatus" : 1,
+      "distance" : 5892,
+      "memberId" : 7973,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2986,
+      "name" : "错过的爱情：总裁放过我",
+      "updateStatus" : 1,
+      "distance" : 7388,
+      "memberId" : 6181,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2758,
+      "name" : "前世、今生“他和它”",
+      "updateStatus" : 1,
+      "distance" : 5686,
+      "memberId" : 7827,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2896,
+      "name" : "三界风云之魅影",
+      "updateStatus" : 1,
+      "distance" : 8234,
+      "memberId" : 5381,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

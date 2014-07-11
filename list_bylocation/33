@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2972,
-      "name" : "MoMo大陆传奇",
+      "id" : 2976,
+      "name" : "少女养成之就是赖上你",
       "updateStatus" : 1,
-      "distance" : 6312,
-      "memberId" : 6931,
-      "bothType" : false
+      "distance" : 8223,
+      "memberId" : 5285,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2809,
-      "name" : "百食",
+      "id" : 2191,
+      "name" : "西界纪年",
       "updateStatus" : 1,
-      "distance" : 4040,
-      "memberId" : 8516,
-      "bothType" : false
+      "distance" : 4285,
+      "memberId" : 4708,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2079,
-      "name" : "祸乱天下之南泽有宝",
-      "updateStatus" : 1,
-      "distance" : 4778,
-      "memberId" : 6592,
-      "bothType" : false
-    }, {
-      "id" : 3367,
-      "name" : "血仙·舞",
-      "updateStatus" : 1,
-      "distance" : 2711,
-      "memberId" : 7902,
-      "bothType" : true
-    }, {
-      "id" : 2920,
-      "name" : "碧色佳人",
-      "updateStatus" : 1,
-      "distance" : 6793,
-      "memberId" : 6650,
-      "bothType" : false
-    }, {
-      "id" : 2144,
-      "name" : "英雄道",
+      "id" : 2186,
+      "name" : "落日传说",
       "updateStatus" : 2,
-      "distance" : 7131,
-      "memberId" : 2650,
-      "bothType" : false
+      "distance" : 654,
+      "memberId" : 1099,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2198,
-      "name" : "花开浮生：花乱莫倾城",
-      "updateStatus" : 2,
-      "distance" : 2781,
-      "memberId" : 8793,
-      "bothType" : true
-    }, {
-      "id" : 3363,
-      "name" : "顾事了",
+      "id" : 2562,
+      "name" : "南无阿米豆腐",
       "updateStatus" : 1,
-      "distance" : 2551,
-      "memberId" : 8130,
-      "bothType" : false
+      "distance" : 6810,
+      "memberId" : 8353,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2578,
-      "name" : "毕业不分手",
+      "id" : 3408,
+      "name" : "综恐一梦一回",
       "updateStatus" : 1,
-      "distance" : 5121,
-      "memberId" : 5429,
-      "bothType" : false
+      "distance" : 8742,
+      "memberId" : 8949,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2378,
-      "name" : "千里背叛",
+      "id" : 2618,
+      "name" : "半夏如风",
       "updateStatus" : 1,
-      "distance" : 7473,
-      "memberId" : 5997,
-      "bothType" : false
+      "distance" : 8957,
+      "memberId" : 1709,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3072,
-      "name" : "倒转乾坤：女帝慑天下",
+      "id" : 2640,
+      "name" : "都市高手之黑道霸主",
       "updateStatus" : 1,
-      "distance" : 8399,
-      "memberId" : 2281,
-      "bothType" : false
+      "distance" : 5345,
+      "memberId" : 6473,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3147,
-      "name" : "嫡女心机",
+      "id" : 2986,
+      "name" : "错过的爱情：总裁放过我",
       "updateStatus" : 1,
-      "distance" : 7447,
-      "memberId" : 5857,
-      "bothType" : true
+      "distance" : 4902,
+      "memberId" : 6995,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3530,
-      "name" : "总裁莫追：小女人带球跑",
+      "id" : 2953,
+      "name" : "异世界的爱恋",
       "updateStatus" : 1,
-      "distance" : 2972,
-      "memberId" : 1543,
-      "bothType" : false
+      "distance" : 624,
+      "memberId" : 5156,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2626,
-      "name" : "花开画中花",
+      "id" : 2489,
+      "name" : "雪落的声音",
       "updateStatus" : 1,
-      "distance" : 5038,
-      "memberId" : 3415,
-      "bothType" : false
+      "distance" : 1526,
+      "memberId" : 1128,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2093,
-      "name" : "废柴王妃：相公欠调教",
+      "id" : 2892,
+      "name" : "因为，爱情",
       "updateStatus" : 1,
-      "distance" : 3908,
-      "memberId" : 8345,
-      "bothType" : false
+      "distance" : 9523,
+      "memberId" : 2850,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2782,
-      "name" : "天梦迷情",
+      "id" : 3154,
+      "name" : "体弱多病的魔法师",
       "updateStatus" : 1,
-      "distance" : 4205,
-      "memberId" : 1418,
-      "bothType" : false
+      "distance" : 2725,
+      "memberId" : 3843,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2124,
-      "name" : "爱情如此多骄",
+      "id" : 2945,
+      "name" : "烟月飞鸟",
       "updateStatus" : 1,
-      "distance" : 4325,
-      "memberId" : 2443,
-      "bothType" : false
+      "distance" : 1363,
+      "memberId" : 6614,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3049,
-      "name" : "做什么公主，来做皇后吧",
+      "id" : 2948,
+      "name" : "庶女狂妃：傲凤逆九天",
       "updateStatus" : 1,
-      "distance" : 3238,
-      "memberId" : 3988,
-      "bothType" : false
+      "distance" : 6246,
+      "memberId" : 7659,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3633,
-      "name" : "小的国",
+      "id" : 2499,
+      "name" : "我在路口等你",
       "updateStatus" : 1,
-      "distance" : 6388,
-      "memberId" : 4494,
-      "bothType" : true
+      "distance" : 5307,
+      "memberId" : 1365,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2521,
-      "name" : "你才奥利奥，你全家都奥利奥",
+      "id" : 2775,
+      "name" : "实验品女孩的桃花运",
       "updateStatus" : 1,
-      "distance" : 1259,
-      "memberId" : 7540,
-      "bothType" : false
+      "distance" : 9808,
+      "memberId" : 8028,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3400,
+      "name" : "天使的诠释：幸福就是遇见你",
+      "updateStatus" : 1,
+      "distance" : 8619,
+      "memberId" : 6029,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2343,
+      "name" : "五界九州乱",
+      "updateStatus" : 1,
+      "distance" : 5510,
+      "memberId" : 4340,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2202,
+      "name" : "妖精张华的回忆录",
+      "updateStatus" : 1,
+      "distance" : 6877,
+      "memberId" : 7448,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2226,
+      "name" : "浴火之凰",
+      "updateStatus" : 1,
+      "distance" : 9602,
+      "memberId" : 1124,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

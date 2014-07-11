@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2430,
-      "name" : "一场梦如痴如醉",
+      "id" : 3053,
+      "name" : "俏皮男女世外生活记",
       "updateStatus" : 1,
-      "distance" : 5226,
-      "memberId" : 8273,
-      "bothType" : false
+      "distance" : 7831,
+      "memberId" : 3840,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3525,
-      "name" : "枯时花笑",
+      "id" : 3050,
+      "name" : "帝君独宠：魅世妖颜倾天下",
       "updateStatus" : 1,
-      "distance" : 6967,
-      "memberId" : 6195,
-      "bothType" : false
+      "distance" : 4050,
+      "memberId" : 8062,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3437,
-      "name" : "北方有佳人",
+      "id" : 2865,
+      "name" : "溺宠妖牌王妃",
       "updateStatus" : 1,
-      "distance" : 9659,
-      "memberId" : 4289,
-      "bothType" : false
+      "distance" : 7411,
+      "memberId" : 5973,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2543,
-      "name" : "异人魔兽情缘游",
+      "id" : 3010,
+      "name" : "冤家，咱布梨布吃",
       "updateStatus" : 1,
-      "distance" : 3938,
-      "memberId" : 6139,
-      "bothType" : false
+      "distance" : 2032,
+      "memberId" : 2420,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3646,
-      "name" : "在最美的季节相遇",
+      "id" : 2402,
+      "name" : "请敲门爱情",
       "updateStatus" : 1,
-      "distance" : 3709,
-      "memberId" : 8817,
-      "bothType" : false
+      "distance" : 5111,
+      "memberId" : 1313,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3614,
-      "name" : "二八不婚",
+      "id" : 3226,
+      "name" : "奇迹少年",
       "updateStatus" : 1,
-      "distance" : 934,
-      "memberId" : 2716,
-      "bothType" : false
+      "distance" : 5347,
+      "memberId" : 3940,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2278,
-      "name" : "美人狂：探囊取天下",
+      "id" : 2405,
+      "name" : "恨与爱的边缘",
       "updateStatus" : 1,
-      "distance" : 5991,
-      "memberId" : 5991,
-      "bothType" : false
+      "distance" : 1209,
+      "memberId" : 2063,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2344,
-      "name" : "枫林残恋",
-      "updateStatus" : 1,
-      "distance" : 787,
-      "memberId" : 5212,
-      "bothType" : false
-    }, {
-      "id" : 2342,
-      "name" : "吸血鬼寻爱",
-      "updateStatus" : 1,
-      "distance" : 1981,
-      "memberId" : 3362,
-      "bothType" : false
-    }, {
-      "id" : 2619,
-      "name" : "天价蓝颜",
-      "updateStatus" : 1,
-      "distance" : 3538,
-      "memberId" : 2372,
-      "bothType" : false
-    }, {
-      "id" : 3267,
-      "name" : "穿越之花本纯粹",
-      "updateStatus" : 1,
-      "distance" : 2464,
-      "memberId" : 4569,
-      "bothType" : false
-    }, {
-      "id" : 3000,
-      "name" : "陪君共此生",
-      "updateStatus" : 1,
-      "distance" : 7098,
-      "memberId" : 5665,
-      "bothType" : false
-    }, {
-      "id" : 3591,
-      "name" : "小羊别闹，来吃草",
+      "id" : 2372,
+      "name" : "出轨无毒",
       "updateStatus" : 2,
-      "distance" : 6046,
-      "memberId" : 2046,
-      "bothType" : false
+      "distance" : 7119,
+      "memberId" : 1071,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2321,
-      "name" : "梦呓熙殇",
+      "id" : 2923,
+      "name" : "帝王业：誓不为妃",
       "updateStatus" : 1,
-      "distance" : 6829,
-      "memberId" : 7361,
-      "bothType" : false
+      "distance" : 9447,
+      "memberId" : 5677,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2567,
-      "name" : "可可不悲伤",
-      "updateStatus" : 1,
-      "distance" : 3462,
-      "memberId" : 6754,
-      "bothType" : true
-    }, {
-      "id" : 2162,
-      "name" : "琴之飞絮",
+      "id" : 2510,
+      "name" : "守卫爱情",
       "updateStatus" : 2,
-      "distance" : 3528,
-      "memberId" : 8084,
-      "bothType" : false
+      "distance" : 2055,
+      "memberId" : 2166,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2388,
-      "name" : "倾世执着",
-      "updateStatus" : 2,
-      "distance" : 8957,
-      "memberId" : 1358,
-      "bothType" : false
-    }, {
-      "id" : 3271,
-      "name" : "折景年",
+      "id" : 3332,
+      "name" : "不会失忆的爱",
       "updateStatus" : 1,
-      "distance" : 565,
-      "memberId" : 7083,
-      "bothType" : true
+      "distance" : 4617,
+      "memberId" : 5709,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3489,
-      "name" : "夜色如昨",
+      "id" : 2544,
+      "name" : "媚色倾城：溺宠蛇蝎毒妃",
       "updateStatus" : 1,
-      "distance" : 1763,
-      "memberId" : 8988,
-      "bothType" : false
+      "distance" : 4139,
+      "memberId" : 7307,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2502,
-      "name" : "古剑奇谭之浮生执念",
+      "id" : 3252,
+      "name" : "一辈子，在一起",
       "updateStatus" : 1,
-      "distance" : 6517,
-      "memberId" : 3304,
-      "bothType" : false
+      "distance" : 9407,
+      "memberId" : 7264,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3208,
+      "name" : "冥铭之国",
+      "updateStatus" : 1,
+      "distance" : 6660,
+      "memberId" : 5667,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2987,
+      "name" : "适珂而止",
+      "updateStatus" : 1,
+      "distance" : 7196,
+      "memberId" : 8086,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3611,
+      "name" : "Closetoflame",
+      "updateStatus" : 1,
+      "distance" : 8779,
+      "memberId" : 7811,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2477,
+      "name" : "特刑队之绝密档案",
+      "updateStatus" : 1,
+      "distance" : 2727,
+      "memberId" : 7620,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3443,
+      "name" : "许你长安",
+      "updateStatus" : 1,
+      "distance" : 9681,
+      "memberId" : 1748,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3072,
+      "name" : "倒转乾坤：女帝慑天下",
+      "updateStatus" : 1,
+      "distance" : 5392,
+      "memberId" : 5860,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3104,
+      "name" : "像仙人掌那样活着",
+      "updateStatus" : 1,
+      "distance" : 9484,
+      "memberId" : 3119,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

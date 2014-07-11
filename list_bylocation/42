@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3519,
-      "name" : "火影.平静的海面上泛起恋爱的浪花",
+      "id" : 2181,
+      "name" : "荆棘路之异界荆棘",
       "updateStatus" : 1,
-      "distance" : 7221,
-      "memberId" : 7779,
-      "bothType" : false
+      "distance" : 5303,
+      "memberId" : 5523,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2646,
-      "name" : "满园紫苏",
+      "id" : 2418,
+      "name" : "鬼胎",
       "updateStatus" : 1,
-      "distance" : 3938,
-      "memberId" : 1051,
-      "bothType" : false
+      "distance" : 3557,
+      "memberId" : 7651,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2859,
-      "name" : "罪与孽交织的孽爱",
+      "id" : 2988,
+      "name" : "梦想之星",
       "updateStatus" : 1,
-      "distance" : 7178,
-      "memberId" : 8674,
-      "bothType" : false
+      "distance" : 2411,
+      "memberId" : 4481,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3263,
-      "name" : "君臣一心",
+      "id" : 3288,
+      "name" : "契约情人之滚下我的床",
       "updateStatus" : 1,
-      "distance" : 1858,
-      "memberId" : 4226,
-      "bothType" : false
+      "distance" : 9437,
+      "memberId" : 5235,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3289,
-      "name" : "总裁养成记",
+      "id" : 2612,
+      "name" : "女汉子成长史",
       "updateStatus" : 1,
-      "distance" : 1493,
-      "memberId" : 7281,
-      "bothType" : false
+      "distance" : 9123,
+      "memberId" : 7008,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2932,
-      "name" : "肥妞翻身之痴心错付",
+      "id" : 2751,
+      "name" : "甘涩流年",
       "updateStatus" : 1,
-      "distance" : 9818,
-      "memberId" : 4640,
-      "bothType" : false
+      "distance" : 1105,
+      "memberId" : 1106,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3510,
-      "name" : "妃辞凤阙",
+      "id" : 2933,
+      "name" : "古尸奇缘",
       "updateStatus" : 1,
-      "distance" : 4588,
-      "memberId" : 4568,
-      "bothType" : false
+      "distance" : 2260,
+      "memberId" : 2307,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2764,
-      "name" : "桃花款酒落朱弦",
+      "id" : 3672,
+      "name" : "只愿得君心",
       "updateStatus" : 1,
-      "distance" : 5364,
-      "memberId" : 3221,
-      "bothType" : false
+      "distance" : 7927,
+      "memberId" : 5362,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2073,
-      "name" : "清娆蓝梦",
+      "id" : 2426,
+      "name" : "请让我回到我的小小城",
       "updateStatus" : 1,
-      "distance" : 2537,
-      "memberId" : 2079,
-      "bothType" : false
+      "distance" : 3722,
+      "memberId" : 4402,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2755,
-      "name" : "大话漫游",
+      "id" : 2374,
+      "name" : "白色花开",
       "updateStatus" : 1,
-      "distance" : 7950,
-      "memberId" : 8725,
-      "bothType" : true
+      "distance" : 3396,
+      "memberId" : 8353,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3660,
-      "name" : "男佣",
+      "id" : 2991,
+      "name" : "穿越之带着闺蜜去穿越",
       "updateStatus" : 1,
-      "distance" : 2442,
-      "memberId" : 3072,
-      "bothType" : true
+      "distance" : 9398,
+      "memberId" : 7403,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3222,
-      "name" : "恶魔先生的猫小姐",
+      "id" : 2832,
+      "name" : "腹黑总裁：变身擒爱萌宠召唤师",
       "updateStatus" : 1,
-      "distance" : 871,
-      "memberId" : 4273,
-      "bothType" : true
+      "distance" : 2258,
+      "memberId" : 4739,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2526,
-      "name" : "[网王]花菱の樱",
+      "id" : 3399,
+      "name" : "太子殿下，不爱请休妻",
       "updateStatus" : 1,
-      "distance" : 2470,
-      "memberId" : 8699,
-      "bothType" : false
+      "distance" : 9770,
+      "memberId" : 4831,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2915,
-      "name" : "女汉子养成记",
+      "id" : 3163,
+      "name" : "最初与最后",
       "updateStatus" : 1,
-      "distance" : 7088,
-      "memberId" : 5941,
-      "bothType" : true
+      "distance" : 940,
+      "memberId" : 7452,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3186,
-      "name" : "贪衾香",
-      "updateStatus" : 1,
-      "distance" : 5993,
-      "memberId" : 4573,
-      "bothType" : true
+      "id" : 2385,
+      "name" : "换魂锁爱：小白掠爱冷总裁",
+      "updateStatus" : 2,
+      "distance" : 2430,
+      "memberId" : 2365,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2555,
-      "name" : "嫁个如意郎君",
+      "id" : 3097,
+      "name" : "穿越之丑凤倾城",
       "updateStatus" : 1,
-      "distance" : 5151,
-      "memberId" : 4195,
-      "bothType" : false
+      "distance" : 9956,
+      "memberId" : 2284,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2517,
-      "name" : "家教之七色光芒",
+      "id" : 3262,
+      "name" : "爱，在遥远的彼方",
       "updateStatus" : 1,
-      "distance" : 7503,
-      "memberId" : 2021,
-      "bothType" : false
+      "distance" : 2342,
+      "memberId" : 8642,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2452,
-      "name" : "死亡照相机：末日风暴——血舞",
+      "id" : 2228,
+      "name" : "暗夜咒：千年之爱",
       "updateStatus" : 1,
-      "distance" : 2281,
-      "memberId" : 5004,
-      "bothType" : false
+      "distance" : 6658,
+      "memberId" : 3212,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2267,
-      "name" : "三国恋之不如归去",
+      "id" : 3367,
+      "name" : "血仙·舞",
       "updateStatus" : 1,
-      "distance" : 7872,
-      "memberId" : 7486,
-      "bothType" : false
+      "distance" : 4868,
+      "memberId" : 2246,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3357,
-      "name" : "总裁的诱人旧欢",
+      "id" : 3456,
+      "name" : "王妃：王爷别乱来，我还是宠物之身",
       "updateStatus" : 1,
-      "distance" : 3968,
-      "memberId" : 5834,
-      "bothType" : false
+      "distance" : 5234,
+      "memberId" : 4176,
+      "bothType" : true,
+      "textBook" : true
     } ]
   }
 }

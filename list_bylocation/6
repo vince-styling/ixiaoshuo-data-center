@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2600,
-      "name" : "就这一次，非正即邪",
+      "id" : 3694,
+      "name" : "笑傲倾情",
       "updateStatus" : 1,
-      "distance" : 4804,
-      "memberId" : 2976,
-      "bothType" : false
+      "distance" : 636,
+      "memberId" : 1732,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2054,
-      "name" : "囧囧穿越：不良丑妃惑君心",
+      "id" : 2328,
+      "name" : "江山美男归我管",
       "updateStatus" : 1,
-      "distance" : 9643,
-      "memberId" : 5356,
-      "bothType" : false
+      "distance" : 6955,
+      "memberId" : 2548,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2138,
-      "name" : "妖孽，快到仙姑碗里来",
+      "id" : 2276,
+      "name" : "皇上坏坏：爱妃该睡觉了",
+      "updateStatus" : 1,
+      "distance" : 4767,
+      "memberId" : 2067,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3663,
+      "name" : "疯狂健身房",
+      "updateStatus" : 1,
+      "distance" : 8355,
+      "memberId" : 8448,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2106,
+      "name" : "呆萌小淘妻：腹黑夫君吃定你",
+      "updateStatus" : 1,
+      "distance" : 9241,
+      "memberId" : 3226,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3124,
+      "name" : "一直在一起",
+      "updateStatus" : 1,
+      "distance" : 9159,
+      "memberId" : 6562,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3369,
+      "name" : "重生之墨枫",
+      "updateStatus" : 1,
+      "distance" : 7867,
+      "memberId" : 8754,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3230,
+      "name" : "霹雳戢武王妹控玉仔酱油记",
+      "updateStatus" : 1,
+      "distance" : 2406,
+      "memberId" : 8039,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2702,
+      "name" : "光与暗之命运狂想曲",
+      "updateStatus" : 1,
+      "distance" : 770,
+      "memberId" : 6740,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3493,
+      "name" : "此时四季",
+      "updateStatus" : 1,
+      "distance" : 6412,
+      "memberId" : 2651,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2250,
+      "name" : "梦碎潋滟雪如尘",
       "updateStatus" : 2,
-      "distance" : 9609,
-      "memberId" : 2038,
-      "bothType" : false
+      "distance" : 2437,
+      "memberId" : 8721,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2331,
-      "name" : "情陷异时空之名动天下",
+      "id" : 3006,
+      "name" : "君在水之湄",
       "updateStatus" : 1,
-      "distance" : 9361,
-      "memberId" : 6869,
-      "bothType" : false
+      "distance" : 2818,
+      "memberId" : 2109,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3336,
-      "name" : "旷世绝恋：洛水弹琴不谈情",
+      "id" : 2330,
+      "name" : "风雪情殇",
       "updateStatus" : 1,
-      "distance" : 4403,
-      "memberId" : 7794,
-      "bothType" : true
+      "distance" : 8024,
+      "memberId" : 8501,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2182,
-      "name" : "妖纵异世：逆天血煞女",
-      "updateStatus" : 1,
-      "distance" : 786,
-      "memberId" : 2373,
-      "bothType" : false
-    }, {
-      "id" : 2588,
-      "name" : "美人有毒",
-      "updateStatus" : 1,
-      "distance" : 9557,
-      "memberId" : 2949,
-      "bothType" : false
-    }, {
-      "id" : 2122,
-      "name" : "毒药的诱惑",
-      "updateStatus" : 1,
-      "distance" : 5981,
-      "memberId" : 3732,
-      "bothType" : true
-    }, {
-      "id" : 3129,
-      "name" : "（秦时+火影）滚来滚去滚成圆",
-      "updateStatus" : 1,
-      "distance" : 8703,
-      "memberId" : 2286,
-      "bothType" : true
-    }, {
-      "id" : 3620,
-      "name" : "傀儡王妃：不上君王榻",
-      "updateStatus" : 1,
-      "distance" : 1240,
-      "memberId" : 6583,
-      "bothType" : true
-    }, {
-      "id" : 2060,
-      "name" : "和亲九公主：霸爱拽夫君",
+      "id" : 2828,
+      "name" : "风声",
       "updateStatus" : 2,
-      "distance" : 6495,
-      "memberId" : 7282,
-      "bothType" : true
+      "distance" : 1545,
+      "memberId" : 3845,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2425,
-      "name" : "龙女在京",
+      "id" : 2711,
+      "name" : "卿本佳人：第一女状元",
       "updateStatus" : 1,
-      "distance" : 1257,
-      "memberId" : 1308,
-      "bothType" : false
+      "distance" : 9776,
+      "memberId" : 6621,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2652,
-      "name" : "墨世情缘对对碰",
+      "id" : 2635,
+      "name" : "剩女大作战",
       "updateStatus" : 1,
-      "distance" : 8135,
-      "memberId" : 8800,
-      "bothType" : false
+      "distance" : 5573,
+      "memberId" : 8330,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2612,
-      "name" : "女汉子成长史",
+      "id" : 3583,
+      "name" : "温情驻英年",
       "updateStatus" : 1,
-      "distance" : 2322,
-      "memberId" : 7479,
-      "bothType" : false
-    }, {
-      "id" : 3404,
-      "name" : "妖魅公主爱上邪魅王子",
-      "updateStatus" : 1,
-      "distance" : 3480,
-      "memberId" : 8244,
-      "bothType" : false
-    }, {
-      "id" : 2467,
-      "name" : "诛魔录",
-      "updateStatus" : 1,
-      "distance" : 5485,
-      "memberId" : 2114,
-      "bothType" : true
-    }, {
-      "id" : 3089,
-      "name" : "遇见青春时，我还是个胖子",
-      "updateStatus" : 1,
-      "distance" : 5473,
+      "distance" : 9283,
       "memberId" : 1495,
-      "bothType" : true
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2637,
-      "name" : "星空下的心愿",
+      "id" : 3479,
+      "name" : "演艺小巨星",
       "updateStatus" : 1,
-      "distance" : 3623,
-      "memberId" : 7105,
-      "bothType" : false
+      "distance" : 2455,
+      "memberId" : 4421,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3405,
-      "name" : "明月何处",
+      "id" : 2085,
+      "name" : "琉璃坊",
       "updateStatus" : 1,
-      "distance" : 668,
-      "memberId" : 8145,
-      "bothType" : true
+      "distance" : 1205,
+      "memberId" : 1703,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2756,
-      "name" : "乖宝宝阵线联盟之一：帅宝贝别使坏",
+      "id" : 3280,
+      "name" : "轻舞离歌",
       "updateStatus" : 1,
-      "distance" : 9370,
-      "memberId" : 4547,
-      "bothType" : false
+      "distance" : 7691,
+      "memberId" : 4833,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

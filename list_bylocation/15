@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2733,
-      "name" : "静水寒：萌女穿越记",
+      "id" : 3172,
+      "name" : "竹马太腹黑",
       "updateStatus" : 1,
-      "distance" : 8643,
-      "memberId" : 7836,
-      "bothType" : false
+      "distance" : 8142,
+      "memberId" : 3922,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2722,
-      "name" : "戏江山",
+      "id" : 2817,
+      "name" : "谁爱过我",
       "updateStatus" : 1,
-      "distance" : 6118,
-      "memberId" : 8407,
-      "bothType" : false
+      "distance" : 2105,
+      "memberId" : 2959,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3263,
-      "name" : "君臣一心",
+      "id" : 2776,
+      "name" : "时空魔法师",
       "updateStatus" : 1,
-      "distance" : 2902,
-      "memberId" : 5436,
-      "bothType" : true
+      "distance" : 2092,
+      "memberId" : 3608,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2698,
-      "name" : "混世神魔",
+      "id" : 3080,
+      "name" : "死生契阔：墨遇小小",
       "updateStatus" : 1,
-      "distance" : 4228,
-      "memberId" : 4006,
-      "bothType" : false
+      "distance" : 1056,
+      "memberId" : 5103,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2949,
-      "name" : "流云蝶",
+      "id" : 2437,
+      "name" : "夜极光",
       "updateStatus" : 1,
-      "distance" : 4473,
-      "memberId" : 6354,
-      "bothType" : false
+      "distance" : 9848,
+      "memberId" : 2495,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2825,
-      "name" : "相守时光中",
+      "id" : 3286,
+      "name" : "倾心已久，狼崽吼吼",
       "updateStatus" : 1,
-      "distance" : 7438,
-      "memberId" : 4127,
-      "bothType" : false
+      "distance" : 7121,
+      "memberId" : 8321,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2761,
-      "name" : "德伯家的苔丝",
+      "id" : 3065,
+      "name" : "反女巫联盟",
       "updateStatus" : 1,
-      "distance" : 7058,
-      "memberId" : 4309,
-      "bothType" : true
+      "distance" : 5550,
+      "memberId" : 8105,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2162,
-      "name" : "琴之飞絮",
+      "id" : 3349,
+      "name" : "宁负苍天",
+      "updateStatus" : 1,
+      "distance" : 9558,
+      "memberId" : 2861,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2143,
+      "name" : "重生修炼龙祖",
       "updateStatus" : 2,
-      "distance" : 8421,
-      "memberId" : 5094,
-      "bothType" : false
+      "distance" : 9856,
+      "memberId" : 1874,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3146,
-      "name" : "陌路相思",
+      "id" : 3408,
+      "name" : "综恐一梦一回",
       "updateStatus" : 1,
-      "distance" : 7593,
-      "memberId" : 7825,
-      "bothType" : false
+      "distance" : 4985,
+      "memberId" : 4306,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3270,
-      "name" : "媚颜笑",
+      "id" : 3423,
+      "name" : "其叶沃若",
       "updateStatus" : 1,
-      "distance" : 2337,
-      "memberId" : 8660,
-      "bothType" : false
+      "distance" : 9702,
+      "memberId" : 3983,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2103,
-      "name" : "剑缘三生泪断崖",
+      "id" : 3073,
+      "name" : "飞禽走兽除魔记",
       "updateStatus" : 1,
-      "distance" : 8000,
-      "memberId" : 7674,
-      "bothType" : false
+      "distance" : 4863,
+      "memberId" : 5825,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2822,
-      "name" : "追妻攻略：腹黑BOSS不好惹",
+      "id" : 2378,
+      "name" : "千里背叛",
       "updateStatus" : 1,
-      "distance" : 2103,
-      "memberId" : 5877,
-      "bothType" : false
+      "distance" : 2471,
+      "memberId" : 4460,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3011,
-      "name" : "守护伊始只为你",
-      "updateStatus" : 1,
-      "distance" : 8784,
-      "memberId" : 5160,
-      "bothType" : false
+      "id" : 2387,
+      "name" : "三世豪门：扛上绝情总裁",
+      "updateStatus" : 2,
+      "distance" : 2569,
+      "memberId" : 1549,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2596,
-      "name" : "白狐报恩之遇上风流王爷",
+      "id" : 2859,
+      "name" : "罪与孽交织的孽爱",
       "updateStatus" : 1,
-      "distance" : 3119,
-      "memberId" : 8924,
-      "bothType" : false
+      "distance" : 6626,
+      "memberId" : 4176,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2648,
-      "name" : "浮生琉璃路",
+      "id" : 2738,
+      "name" : "苦忘·浮生如梦",
       "updateStatus" : 1,
-      "distance" : 7428,
-      "memberId" : 3499,
-      "bothType" : true
+      "distance" : 5675,
+      "memberId" : 6584,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3482,
-      "name" : "迷失并盛",
+      "id" : 3157,
+      "name" : "人生如若不太贱",
       "updateStatus" : 1,
-      "distance" : 6777,
-      "memberId" : 4941,
-      "bothType" : false
+      "distance" : 6682,
+      "memberId" : 1675,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2801,
-      "name" : "女神物语",
+      "id" : 2158,
+      "name" : "网游之独狂天下",
       "updateStatus" : 1,
-      "distance" : 9674,
-      "memberId" : 4208,
-      "bothType" : true
+      "distance" : 9948,
+      "memberId" : 1530,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2702,
-      "name" : "光与暗之命运狂想曲",
+      "id" : 2621,
+      "name" : "一路南北",
       "updateStatus" : 1,
-      "distance" : 3118,
-      "memberId" : 6768,
-      "bothType" : false
+      "distance" : 7248,
+      "memberId" : 8230,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2317,
-      "name" : "江湖任我行",
-      "updateStatus" : 1,
-      "distance" : 2542,
-      "memberId" : 2419,
-      "bothType" : false
-    }, {
-      "id" : 2579,
-      "name" : "萧瑟兰阁倚花愁",
-      "updateStatus" : 1,
-      "distance" : 920,
-      "memberId" : 4522,
-      "bothType" : false
+      "id" : 3591,
+      "name" : "小羊别闹，来吃草",
+      "updateStatus" : 2,
+      "distance" : 9286,
+      "memberId" : 6023,
+      "bothType" : true,
+      "textBook" : true
     } ]
   }
 }

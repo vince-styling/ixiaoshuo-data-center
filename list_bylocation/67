@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2215,
-      "name" : "诛仙凡尘",
+      "id" : 2297,
+      "name" : "一梦三生卿心照",
       "updateStatus" : 1,
-      "distance" : 9409,
-      "memberId" : 7338,
-      "bothType" : false
+      "distance" : 5240,
+      "memberId" : 6311,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2568,
-      "name" : "爱情转变剂",
+      "id" : 2461,
+      "name" : "我和僵尸有个约会",
       "updateStatus" : 1,
-      "distance" : 1667,
-      "memberId" : 7124,
-      "bothType" : false
+      "distance" : 3838,
+      "memberId" : 1604,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2669,
-      "name" : "遗爱绝情娇妻",
+      "id" : 2801,
+      "name" : "女神物语",
       "updateStatus" : 1,
-      "distance" : 7104,
-      "memberId" : 4122,
-      "bothType" : false
+      "distance" : 6244,
+      "memberId" : 7782,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2939,
-      "name" : "半城月色",
+      "id" : 2091,
+      "name" : "江湖夜雨十年灯之琴剑篇",
+      "updateStatus" : 1,
+      "distance" : 1117,
+      "memberId" : 6003,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2538,
+      "name" : "幸福百里",
+      "updateStatus" : 1,
+      "distance" : 5447,
+      "memberId" : 8104,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3034,
+      "name" : "为期不返",
+      "updateStatus" : 1,
+      "distance" : 1467,
+      "memberId" : 3761,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3709,
+      "name" : "莲仙",
+      "updateStatus" : 1,
+      "distance" : 7346,
+      "memberId" : 7073,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2256,
+      "name" : "穿越东宫之碟中谍",
       "updateStatus" : 2,
-      "distance" : 6640,
-      "memberId" : 6105,
-      "bothType" : true
+      "distance" : 1832,
+      "memberId" : 5860,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3253,
-      "name" : "替身之后",
+      "id" : 2195,
+      "name" : "血之恋章",
       "updateStatus" : 1,
-      "distance" : 7969,
-      "memberId" : 6930,
-      "bothType" : false
+      "distance" : 9867,
+      "memberId" : 3279,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2980,
-      "name" : "穿越做将军",
+      "id" : 3156,
+      "name" : "如果爱情是一首歌",
       "updateStatus" : 1,
-      "distance" : 5461,
-      "memberId" : 4759,
-      "bothType" : false
+      "distance" : 884,
+      "memberId" : 6953,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2569,
-      "name" : "倾世绝傲：女神修仙传",
+      "id" : 3060,
+      "name" : "问世间节操为何物",
       "updateStatus" : 1,
-      "distance" : 7467,
-      "memberId" : 6355,
-      "bothType" : false
+      "distance" : 3709,
+      "memberId" : 5303,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2950,
-      "name" : "云生风雨过",
+      "id" : 3694,
+      "name" : "笑傲倾情",
       "updateStatus" : 1,
-      "distance" : 8979,
-      "memberId" : 1885,
-      "bothType" : false
+      "distance" : 9437,
+      "memberId" : 7766,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3361,
-      "name" : "逍遥人生：痞子王爷很妖娆",
-      "updateStatus" : 1,
-      "distance" : 7707,
-      "memberId" : 6312,
-      "bothType" : false
+      "id" : 2064,
+      "name" : "百变夫君猎顽妻",
+      "updateStatus" : 2,
+      "distance" : 3101,
+      "memberId" : 8776,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3519,
-      "name" : "火影.平静的海面上泛起恋爱的浪花",
+      "id" : 3537,
+      "name" : "倾尽天下，乱世红颜",
       "updateStatus" : 1,
-      "distance" : 5297,
-      "memberId" : 7920,
-      "bothType" : false
+      "distance" : 5913,
+      "memberId" : 8784,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2583,
-      "name" : "梦中红叶知多少",
+      "id" : 2365,
+      "name" : "网游之嗜血武圣",
       "updateStatus" : 1,
-      "distance" : 8190,
-      "memberId" : 1729,
-      "bothType" : true
+      "distance" : 3620,
+      "memberId" : 1063,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2079,
-      "name" : "祸乱天下之南泽有宝",
+      "id" : 3196,
+      "name" : "西地锦",
       "updateStatus" : 1,
-      "distance" : 615,
-      "memberId" : 4622,
-      "bothType" : false
+      "distance" : 7926,
+      "memberId" : 8845,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3718,
-      "name" : "弱水三千，只饮一瓢",
+      "id" : 2552,
+      "name" : "顽妃双刃斩天下",
       "updateStatus" : 1,
-      "distance" : 9772,
-      "memberId" : 6065,
-      "bothType" : false
+      "distance" : 7272,
+      "memberId" : 3621,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2582,
-      "name" : "特工归来：王妃策倾天下",
+      "id" : 2279,
+      "name" : "凤断谋",
       "updateStatus" : 1,
-      "distance" : 3780,
-      "memberId" : 8756,
-      "bothType" : true
+      "distance" : 7229,
+      "memberId" : 8673,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2329,
-      "name" : "绝色兽妃戏天下",
+      "id" : 2646,
+      "name" : "满园紫苏",
       "updateStatus" : 1,
-      "distance" : 8084,
-      "memberId" : 1746,
-      "bothType" : false
+      "distance" : 1168,
+      "memberId" : 4560,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3292,
-      "name" : "菊之恋",
+      "id" : 3385,
+      "name" : "修仙之凤舞九天",
       "updateStatus" : 1,
-      "distance" : 9959,
-      "memberId" : 2160,
-      "bothType" : false
-    }, {
-      "id" : 3590,
-      "name" : "劳什子学院",
-      "updateStatus" : 1,
-      "distance" : 8375,
-      "memberId" : 5302,
-      "bothType" : false
-    }, {
-      "id" : 2850,
-      "name" : "妃常有鲤",
-      "updateStatus" : 1,
-      "distance" : 4455,
-      "memberId" : 2438,
-      "bothType" : false
-    }, {
-      "id" : 2749,
-      "name" : "轻安易宁",
-      "updateStatus" : 1,
-      "distance" : 9544,
-      "memberId" : 1924,
-      "bothType" : false
-    }, {
-      "id" : 3680,
-      "name" : "潇洒小姐执着先生",
-      "updateStatus" : 1,
-      "distance" : 9128,
-      "memberId" : 4554,
-      "bothType" : true
+      "distance" : 3670,
+      "memberId" : 3946,
+      "bothType" : true,
+      "textBook" : true
     } ]
   }
 }

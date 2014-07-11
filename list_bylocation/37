@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2137,
-      "name" : "逆墨灵",
+      "id" : 3665,
+      "name" : "杂乱的羁绊",
+      "updateStatus" : 1,
+      "distance" : 1141,
+      "memberId" : 7086,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3208,
+      "name" : "冥铭之国",
+      "updateStatus" : 1,
+      "distance" : 8496,
+      "memberId" : 8827,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2306,
+      "name" : "穿越之蒙家将军",
+      "updateStatus" : 1,
+      "distance" : 7497,
+      "memberId" : 8129,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2392,
+      "name" : "刁蛮丫头很温柔",
       "updateStatus" : 2,
-      "distance" : 8306,
-      "memberId" : 6637,
-      "bothType" : true
+      "distance" : 4668,
+      "memberId" : 1814,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3059,
-      "name" : "倾世鬼王",
+      "id" : 3468,
+      "name" : "轮回•不语",
       "updateStatus" : 1,
-      "distance" : 1239,
-      "memberId" : 7405,
-      "bothType" : false
+      "distance" : 9494,
+      "memberId" : 3774,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2479,
-      "name" : "诡音：楼上的高跟鞋",
+      "id" : 3396,
+      "name" : "花开花落几倾城",
       "updateStatus" : 1,
-      "distance" : 4578,
-      "memberId" : 5788,
-      "bothType" : false
+      "distance" : 9838,
+      "memberId" : 8258,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3670,
-      "name" : "桃花含烟带墨浓",
+      "id" : 2827,
+      "name" : "时光里的秘密",
       "updateStatus" : 1,
-      "distance" : 1582,
-      "memberId" : 3602,
-      "bothType" : false
+      "distance" : 2503,
+      "memberId" : 5515,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3621,
-      "name" : "竹歪桃花三两枝",
+      "id" : 3152,
+      "name" : "晚晴空",
       "updateStatus" : 1,
-      "distance" : 4657,
-      "memberId" : 7038,
-      "bothType" : false
+      "distance" : 4302,
+      "memberId" : 3272,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2473,
-      "name" : "解惑",
+      "id" : 2225,
+      "name" : "梵卓的白色蔷薇",
       "updateStatus" : 1,
-      "distance" : 4551,
-      "memberId" : 4248,
-      "bothType" : true
+      "distance" : 9805,
+      "memberId" : 3024,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3736,
-      "name" : "狂",
+      "id" : 3425,
+      "name" : "网王之温柔缱绻的岁月",
       "updateStatus" : 1,
-      "distance" : 3710,
-      "memberId" : 5999,
-      "bothType" : false
+      "distance" : 815,
+      "memberId" : 4628,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2266,
-      "name" : "倾酌天下",
+      "id" : 2801,
+      "name" : "女神物语",
       "updateStatus" : 1,
-      "distance" : 6523,
-      "memberId" : 1939,
-      "bothType" : true
+      "distance" : 9101,
+      "memberId" : 7595,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2409,
-      "name" : "异世界的盛宴",
+      "id" : 2322,
+      "name" : "异世至尊红颜",
       "updateStatus" : 1,
-      "distance" : 9866,
-      "memberId" : 7917,
-      "bothType" : false
+      "distance" : 4734,
+      "memberId" : 2600,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2970,
-      "name" : "《存在的烙印》",
+      "id" : 2087,
+      "name" : "婳诡录",
       "updateStatus" : 1,
-      "distance" : 4526,
-      "memberId" : 3971,
-      "bothType" : false
+      "distance" : 2890,
+      "memberId" : 5671,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3458,
-      "name" : "极品女宠王妃",
+      "id" : 2849,
+      "name" : "缘来还是你",
       "updateStatus" : 1,
-      "distance" : 1133,
-      "memberId" : 7492,
-      "bothType" : true
+      "distance" : 3943,
+      "memberId" : 2210,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3011,
-      "name" : "守护伊始只为你",
+      "id" : 3436,
+      "name" : "《侦探日记》",
       "updateStatus" : 1,
-      "distance" : 2329,
-      "memberId" : 4306,
-      "bothType" : true
+      "distance" : 9389,
+      "memberId" : 4516,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2802,
-      "name" : "黑暗之争：女王再现",
+      "id" : 2987,
+      "name" : "适珂而止",
       "updateStatus" : 1,
-      "distance" : 2559,
-      "memberId" : 7588,
-      "bothType" : false
+      "distance" : 8598,
+      "memberId" : 8821,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2261,
-      "name" : "血魇如影",
+      "id" : 2773,
+      "name" : "为君花开为卿落",
       "updateStatus" : 1,
-      "distance" : 4700,
-      "memberId" : 7569,
-      "bothType" : true
+      "distance" : 7106,
+      "memberId" : 6402,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2551,
-      "name" : "巧笑嫣然",
+      "id" : 2403,
+      "name" : "愤怒的萤火虫",
       "updateStatus" : 1,
-      "distance" : 9916,
-      "memberId" : 5769,
-      "bothType" : false
+      "distance" : 5261,
+      "memberId" : 4406,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2216,
-      "name" : "欲之巅",
+      "id" : 3369,
+      "name" : "重生之墨枫",
       "updateStatus" : 1,
-      "distance" : 9222,
-      "memberId" : 5097,
-      "bothType" : false
+      "distance" : 4149,
+      "memberId" : 8146,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3428,
-      "name" : "流年轻度鸳鸯浦",
+      "id" : 2443,
+      "name" : "时光记得我爱你",
       "updateStatus" : 1,
-      "distance" : 2006,
-      "memberId" : 3817,
-      "bothType" : false
-    }, {
-      "id" : 2100,
-      "name" : "终归殊途，许可同归",
-      "updateStatus" : 1,
-      "distance" : 3290,
-      "memberId" : 2368,
-      "bothType" : false
-    }, {
-      "id" : 2964,
-      "name" : "以我一生护你一世",
-      "updateStatus" : 1,
-      "distance" : 4216,
-      "memberId" : 1794,
-      "bothType" : false
-    }, {
-      "id" : 3337,
-      "name" : "旋转的漩涡",
-      "updateStatus" : 1,
-      "distance" : 8047,
-      "memberId" : 4715,
-      "bothType" : false
+      "distance" : 9811,
+      "memberId" : 4414,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

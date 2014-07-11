@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3096,
-      "name" : "绝不放手",
+      "id" : 3093,
+      "name" : "如果还能再爱",
       "updateStatus" : 1,
-      "distance" : 9291,
-      "memberId" : 2448,
-      "bothType" : false
+      "distance" : 2091,
+      "memberId" : 7975,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2666,
-      "name" : "我的老公70后",
+      "id" : 2441,
+      "name" : "云泥之间",
       "updateStatus" : 1,
-      "distance" : 1177,
-      "memberId" : 7986,
-      "bothType" : false
+      "distance" : 5103,
+      "memberId" : 5020,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2144,
-      "name" : "英雄道",
+      "id" : 3222,
+      "name" : "恶魔先生的猫小姐",
+      "updateStatus" : 1,
+      "distance" : 7674,
+      "memberId" : 2008,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2694,
+      "name" : "安有斯君待何年",
       "updateStatus" : 2,
-      "distance" : 5377,
-      "memberId" : 5056,
-      "bothType" : true
+      "distance" : 1340,
+      "memberId" : 3755,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2595,
-      "name" : "素问天下",
+      "id" : 2792,
+      "name" : "依然在一起",
       "updateStatus" : 1,
-      "distance" : 3441,
-      "memberId" : 4266,
-      "bothType" : false
+      "distance" : 7896,
+      "memberId" : 2156,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3463,
-      "name" : "巴洛克爱情",
+      "id" : 3219,
+      "name" : "梦境梦尽",
       "updateStatus" : 1,
-      "distance" : 8235,
-      "memberId" : 4254,
-      "bothType" : false
+      "distance" : 2621,
+      "memberId" : 6873,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3164,
-      "name" : "孤独末世",
+      "id" : 2969,
+      "name" : "我的青春是一座迷宫",
       "updateStatus" : 1,
-      "distance" : 6011,
-      "memberId" : 2042,
-      "bothType" : true
+      "distance" : 8154,
+      "memberId" : 1659,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3317,
-      "name" : "花季里那个靠窗的女孩",
+      "id" : 2676,
+      "name" : "君悦我心",
       "updateStatus" : 1,
-      "distance" : 5018,
-      "memberId" : 3482,
-      "bothType" : false
+      "distance" : 9619,
+      "memberId" : 3903,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3570,
-      "name" : "挚爱傻夫君",
+      "id" : 3168,
+      "name" : "我在你的记忆中走过",
       "updateStatus" : 1,
-      "distance" : 4135,
-      "memberId" : 3228,
-      "bothType" : false
+      "distance" : 2971,
+      "memberId" : 1707,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3248,
-      "name" : "玄斧",
+      "id" : 2654,
+      "name" : "异能女王改写天书",
       "updateStatus" : 1,
-      "distance" : 4559,
-      "memberId" : 6037,
-      "bothType" : false
+      "distance" : 7044,
+      "memberId" : 8922,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3485,
-      "name" : "无良大盗：看好你丫的节操",
+      "id" : 2109,
+      "name" : "开门迎客",
       "updateStatus" : 1,
-      "distance" : 6049,
-      "memberId" : 8750,
-      "bothType" : false
+      "distance" : 3163,
+      "memberId" : 6641,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3256,
-      "name" : "总裁大人我会乖",
+      "id" : 3428,
+      "name" : "流年轻度鸳鸯浦",
       "updateStatus" : 1,
-      "distance" : 961,
-      "memberId" : 1844,
-      "bothType" : false
+      "distance" : 2977,
+      "memberId" : 8227,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2853,
-      "name" : "特工老总红粉员工",
+      "id" : 2185,
+      "name" : "丧尸之末日惊魂",
       "updateStatus" : 1,
-      "distance" : 8749,
-      "memberId" : 4694,
-      "bothType" : true
+      "distance" : 2200,
+      "memberId" : 4892,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2223,
-      "name" : "浩瀚风云录",
+      "id" : 3359,
+      "name" : "遇见等于错过",
       "updateStatus" : 1,
-      "distance" : 6226,
-      "memberId" : 6655,
-      "bothType" : false
+      "distance" : 5497,
+      "memberId" : 8954,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2224,
-      "name" : "拯救吸血鬼",
+      "id" : 3308,
+      "name" : "我的腹黑王子",
       "updateStatus" : 1,
-      "distance" : 9013,
-      "memberId" : 2825,
-      "bothType" : false
+      "distance" : 1279,
+      "memberId" : 1209,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3612,
-      "name" : "家殇梦",
+      "id" : 2175,
+      "name" : "史上最强避雷法宝",
       "updateStatus" : 1,
-      "distance" : 7464,
-      "memberId" : 4023,
-      "bothType" : false
+      "distance" : 9165,
+      "memberId" : 6525,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2995,
-      "name" : "《魔武乱世》",
+      "id" : 2863,
+      "name" : "何以青茫却诉离殇",
       "updateStatus" : 1,
-      "distance" : 2638,
-      "memberId" : 1535,
-      "bothType" : true
+      "distance" : 2390,
+      "memberId" : 2992,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3226,
-      "name" : "奇迹少年",
+      "id" : 3432,
+      "name" : "我在这里，你在哪",
       "updateStatus" : 1,
-      "distance" : 3026,
-      "memberId" : 1873,
-      "bothType" : true
+      "distance" : 2256,
+      "memberId" : 8220,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3074,
-      "name" : "王子，请把我带回家",
+      "id" : 3395,
+      "name" : "如果不曾知道",
       "updateStatus" : 1,
-      "distance" : 5291,
-      "memberId" : 3837,
-      "bothType" : false
+      "distance" : 5949,
+      "memberId" : 3049,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2355,
-      "name" : "五欢散之烈焰天下",
+      "id" : 3340,
+      "name" : "枫叶荻花秋瑟瑟",
       "updateStatus" : 1,
-      "distance" : 3414,
-      "memberId" : 5156,
-      "bothType" : false
-    }, {
-      "id" : 3461,
-      "name" : "束缚中的约定",
-      "updateStatus" : 1,
-      "distance" : 7305,
-      "memberId" : 3853,
-      "bothType" : false
+      "distance" : 1242,
+      "memberId" : 3800,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

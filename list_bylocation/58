@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2767,
-      "name" : "美人目",
+      "id" : 3043,
+      "name" : "遇见安好",
       "updateStatus" : 1,
-      "distance" : 4776,
-      "memberId" : 3286,
-      "bothType" : false
+      "distance" : 8109,
+      "memberId" : 4561,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3064,
-      "name" : "再回首灯火阑珊",
+      "id" : 2889,
+      "name" : "帅哥，麻烦给我一张果照",
       "updateStatus" : 1,
-      "distance" : 2811,
-      "memberId" : 8325,
-      "bothType" : true
+      "distance" : 2497,
+      "memberId" : 1956,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2317,
-      "name" : "江湖任我行",
+      "id" : 2685,
+      "name" : "含蕾",
       "updateStatus" : 1,
-      "distance" : 2900,
-      "memberId" : 7230,
-      "bothType" : false
+      "distance" : 6101,
+      "memberId" : 6992,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3270,
-      "name" : "媚颜笑",
+      "id" : 3290,
+      "name" : "婚然厚爱",
       "updateStatus" : 1,
-      "distance" : 6570,
-      "memberId" : 3646,
-      "bothType" : false
+      "distance" : 5882,
+      "memberId" : 5511,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2833,
-      "name" : "蓬莱",
+      "id" : 2912,
+      "name" : "媚色重生：情挑尤物庶女",
       "updateStatus" : 1,
-      "distance" : 4288,
-      "memberId" : 8205,
-      "bothType" : false
+      "distance" : 8074,
+      "memberId" : 4690,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2079,
-      "name" : "祸乱天下之南泽有宝",
+      "id" : 2141,
+      "name" : "一梦入混元",
       "updateStatus" : 1,
-      "distance" : 7216,
-      "memberId" : 1725,
-      "bothType" : false
-    }, {
-      "id" : 3667,
-      "name" : "且行且见",
-      "updateStatus" : 1,
-      "distance" : 8070,
-      "memberId" : 6147,
-      "bothType" : true
-    }, {
-      "id" : 3543,
-      "name" : "逆天七小姐：第一魔妃",
-      "updateStatus" : 1,
-      "distance" : 6009,
-      "memberId" : 4711,
-      "bothType" : false
-    }, {
-      "id" : 2630,
-      "name" : "腹黑女帝倾天下",
-      "updateStatus" : 1,
-      "distance" : 2149,
-      "memberId" : 1169,
-      "bothType" : false
-    }, {
-      "id" : 2764,
-      "name" : "桃花款酒落朱弦",
-      "updateStatus" : 1,
-      "distance" : 5232,
-      "memberId" : 1905,
-      "bothType" : false
-    }, {
-      "id" : 3674,
-      "name" : "爱上闷骚姐",
-      "updateStatus" : 1,
-      "distance" : 9103,
-      "memberId" : 2760,
-      "bothType" : true
-    }, {
-      "id" : 2215,
-      "name" : "诛仙凡尘",
-      "updateStatus" : 1,
-      "distance" : 7575,
-      "memberId" : 7560,
-      "bothType" : false
+      "distance" : 6254,
+      "memberId" : 2810,
+      "bothType" : false,
+      "textBook" : false
     }, {
       "id" : 2944,
       "name" : "嬗变",
       "updateStatus" : 1,
-      "distance" : 9134,
-      "memberId" : 8140,
-      "bothType" : false
+      "distance" : 8498,
+      "memberId" : 4888,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3364,
-      "name" : "只要你幸福，愿意不爱你",
+      "id" : 3459,
+      "name" : "红尘客栈",
       "updateStatus" : 1,
-      "distance" : 8764,
-      "memberId" : 7789,
-      "bothType" : true
+      "distance" : 5721,
+      "memberId" : 8735,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3569,
-      "name" : "奇山鬼谭",
+      "id" : 3683,
+      "name" : "梧桐花雨：亡颜劫",
       "updateStatus" : 1,
-      "distance" : 8236,
-      "memberId" : 6006,
-      "bothType" : false
+      "distance" : 9521,
+      "memberId" : 4146,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2866,
-      "name" : "寂寞恋爱",
+      "id" : 3553,
+      "name" : "堕妃：嗜血妖",
       "updateStatus" : 1,
-      "distance" : 1993,
-      "memberId" : 2247,
-      "bothType" : true
+      "distance" : 4730,
+      "memberId" : 5184,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2746,
-      "name" : "遗忘之约",
+      "id" : 2990,
+      "name" : "薄情先生：炸弹绝妃哪里逃",
       "updateStatus" : 1,
-      "distance" : 5740,
-      "memberId" : 6824,
-      "bothType" : false
+      "distance" : 1476,
+      "memberId" : 6298,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3677,
-      "name" : "不要丢下我，好不好",
+      "id" : 2183,
+      "name" : "红颜泪：风卷残荷",
       "updateStatus" : 1,
-      "distance" : 2301,
-      "memberId" : 4306,
-      "bothType" : false
+      "distance" : 7827,
+      "memberId" : 5959,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2357,
-      "name" : "妖女别想逃",
+      "id" : 3265,
+      "name" : "如果，没有你",
       "updateStatus" : 1,
-      "distance" : 6523,
-      "memberId" : 2033,
-      "bothType" : true
+      "distance" : 5192,
+      "memberId" : 5401,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3255,
-      "name" : "区区爱情",
+      "id" : 3594,
+      "name" : "浮生梦",
       "updateStatus" : 1,
-      "distance" : 1140,
-      "memberId" : 5793,
-      "bothType" : true
+      "distance" : 5802,
+      "memberId" : 7776,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3344,
+      "name" : "诀爱（乱世胧伊）",
+      "updateStatus" : 1,
+      "distance" : 8045,
+      "memberId" : 1563,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3277,
+      "name" : "七生七世之情坠轩辕",
+      "updateStatus" : 1,
+      "distance" : 620,
+      "memberId" : 4596,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2265,
+      "name" : "朗歌行",
+      "updateStatus" : 1,
+      "distance" : 6805,
+      "memberId" : 4778,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2287,
+      "name" : "王妃富可敌国",
+      "updateStatus" : 1,
+      "distance" : 4236,
+      "memberId" : 3898,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3477,
+      "name" : "穿越之千年缘",
+      "updateStatus" : 1,
+      "distance" : 5997,
+      "memberId" : 3398,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3226,
+      "name" : "奇迹少年",
+      "updateStatus" : 1,
+      "distance" : 6905,
+      "memberId" : 3105,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
+      "id" : 3132,
+      "name" : "三界悲诳录",
+      "updateStatus" : 1,
+      "distance" : 5061,
+      "memberId" : 3719,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3448,
+      "name" : "荼蘼花未开",
+      "updateStatus" : 1,
+      "distance" : 6187,
+      "memberId" : 8431,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3333,
+      "name" : "清梦未央",
+      "updateStatus" : 1,
+      "distance" : 6122,
+      "memberId" : 8972,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3390,
+      "name" : "贺兰山下阵如云",
+      "updateStatus" : 1,
+      "distance" : 2432,
+      "memberId" : 1759,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3345,
+      "name" : "黑洞星海",
+      "updateStatus" : 1,
+      "distance" : 5149,
+      "memberId" : 3870,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2882,
+      "name" : "那些年错过的爱情",
+      "updateStatus" : 1,
+      "distance" : 7653,
+      "memberId" : 4089,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3313,
+      "name" : "我的同桌顾亦辰",
+      "updateStatus" : 1,
+      "distance" : 4209,
+      "memberId" : 1218,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2152,
+      "name" : "九转轮回诀",
+      "updateStatus" : 1,
+      "distance" : 3372,
+      "memberId" : 6358,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3424,
+      "name" : "九婴传",
+      "updateStatus" : 1,
+      "distance" : 6967,
+      "memberId" : 4221,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3064,
+      "name" : "再回首灯火阑珊",
+      "updateStatus" : 1,
+      "distance" : 2732,
+      "memberId" : 8396,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3171,
+      "name" : "豪门冷少：撞上复仇女王",
+      "updateStatus" : 1,
+      "distance" : 5473,
+      "memberId" : 5438,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2224,
+      "name" : "拯救吸血鬼",
+      "updateStatus" : 1,
+      "distance" : 4823,
+      "memberId" : 3267,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2255,
+      "name" : "穿越之我的儿子是弘昼",
+      "updateStatus" : 2,
+      "distance" : 9881,
+      "memberId" : 5411,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2472,
+      "name" : "梦幻钟馗",
+      "updateStatus" : 1,
+      "distance" : 1070,
+      "memberId" : 6995,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2988,
+      "name" : "梦想之星",
+      "updateStatus" : 1,
+      "distance" : 2017,
+      "memberId" : 2088,
+      "bothType" : false,
+      "textBook" : true
+    }, {
       "id" : 3592,
       "name" : "单纯逐笑开",
       "updateStatus" : 1,
-      "distance" : 4365,
-      "memberId" : 5622,
-      "bothType" : false
+      "distance" : 1820,
+      "memberId" : 6176,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3253,
-      "name" : "替身之后",
+      "id" : 2154,
+      "name" : "寻仙问诱：美男不要逃",
       "updateStatus" : 1,
-      "distance" : 4543,
-      "memberId" : 7544,
-      "bothType" : true
+      "distance" : 8324,
+      "memberId" : 5415,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3361,
-      "name" : "逍遥人生：痞子王爷很妖娆",
+      "id" : 2079,
+      "name" : "祸乱天下之南泽有宝",
       "updateStatus" : 1,
-      "distance" : 4629,
-      "memberId" : 3007,
-      "bothType" : false
+      "distance" : 1451,
+      "memberId" : 1299,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3277,
-      "name" : "七生七世之情坠轩辕",
+      "id" : 3114,
+      "name" : "十四行的秘密",
       "updateStatus" : 1,
-      "distance" : 1184,
-      "memberId" : 7741,
-      "bothType" : true
+      "distance" : 9400,
+      "memberId" : 8977,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2428,
-      "name" : "包办婚嫁",
+      "id" : 3010,
+      "name" : "冤家，咱布梨布吃",
       "updateStatus" : 1,
-      "distance" : 9204,
-      "memberId" : 5049,
-      "bothType" : false
-    }, {
-      "id" : 2933,
-      "name" : "古尸奇缘",
-      "updateStatus" : 1,
-      "distance" : 4580,
-      "memberId" : 8465,
-      "bothType" : false
-    }, {
-      "id" : 2320,
-      "name" : "夏醉浅梦",
-      "updateStatus" : 1,
-      "distance" : 1818,
-      "memberId" : 1021,
-      "bothType" : false
-    }, {
-      "id" : 2280,
-      "name" : "金玉奇缘：暴戾王爷的冷情妃",
-      "updateStatus" : 1,
-      "distance" : 4915,
-      "memberId" : 1293,
-      "bothType" : true
-    }, {
-      "id" : 3127,
-      "name" : "重生之轻月浮华",
-      "updateStatus" : 2,
-      "distance" : 2767,
-      "memberId" : 1189,
-      "bothType" : false
-    }, {
-      "id" : 2182,
-      "name" : "妖纵异世：逆天血煞女",
-      "updateStatus" : 1,
-      "distance" : 3549,
-      "memberId" : 1776,
-      "bothType" : false
-    }, {
-      "id" : 3724,
-      "name" : "白泽之神",
-      "updateStatus" : 1,
-      "distance" : 4482,
-      "memberId" : 1574,
-      "bothType" : false
-    }, {
-      "id" : 3528,
-      "name" : "丑女倾城：待我长发及腰",
-      "updateStatus" : 1,
-      "distance" : 2816,
-      "memberId" : 7975,
-      "bothType" : false
-    }, {
-      "id" : 2147,
-      "name" : "不当神仙也爱你",
-      "updateStatus" : 2,
-      "distance" : 4170,
-      "memberId" : 7208,
-      "bothType" : false
-    }, {
-      "id" : 2704,
-      "name" : "幻世至秘",
-      "updateStatus" : 1,
-      "distance" : 5979,
-      "memberId" : 7161,
-      "bothType" : false
-    }, {
-      "id" : 3220,
-      "name" : "噬心扇",
-      "updateStatus" : 1,
-      "distance" : 4397,
-      "memberId" : 1048,
-      "bothType" : true
-    }, {
-      "id" : 3408,
-      "name" : "综恐一梦一回",
-      "updateStatus" : 1,
-      "distance" : 8431,
-      "memberId" : 6264,
-      "bothType" : true
-    }, {
-      "id" : 2780,
-      "name" : "人生的旅途",
-      "updateStatus" : 1,
-      "distance" : 1106,
-      "memberId" : 8623,
-      "bothType" : false
-    }, {
-      "id" : 3271,
-      "name" : "折景年",
-      "updateStatus" : 1,
-      "distance" : 5435,
-      "memberId" : 1746,
-      "bothType" : false
-    }, {
-      "id" : 2110,
-      "name" : "江门夜话",
-      "updateStatus" : 1,
-      "distance" : 6311,
-      "memberId" : 3745,
-      "bothType" : false
-    }, {
-      "id" : 2439,
-      "name" : "付卿吾韶华",
-      "updateStatus" : 1,
-      "distance" : 7883,
-      "memberId" : 8877,
-      "bothType" : true
+      "distance" : 7358,
+      "memberId" : 7276,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

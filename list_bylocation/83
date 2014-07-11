@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2933,
-      "name" : "古尸奇缘",
+      "id" : 2479,
+      "name" : "诡音：楼上的高跟鞋",
       "updateStatus" : 1,
-      "distance" : 6074,
-      "memberId" : 8118,
-      "bothType" : false
+      "distance" : 2121,
+      "memberId" : 6619,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3646,
-      "name" : "在最美的季节相遇",
+      "id" : 3320,
+      "name" : "梦迷牡丹",
       "updateStatus" : 1,
-      "distance" : 8757,
-      "memberId" : 5418,
-      "bothType" : true
+      "distance" : 847,
+      "memberId" : 7575,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2978,
-      "name" : "妃宠不可",
+      "id" : 2771,
+      "name" : "鸾情错，妃本无良",
       "updateStatus" : 1,
-      "distance" : 558,
-      "memberId" : 7164,
-      "bothType" : true
+      "distance" : 5604,
+      "memberId" : 6368,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2897,
-      "name" : "瞎子王爷独宠调皮妃",
+      "id" : 2287,
+      "name" : "王妃富可敌国",
       "updateStatus" : 1,
-      "distance" : 3534,
-      "memberId" : 6185,
-      "bothType" : false
+      "distance" : 7754,
+      "memberId" : 6310,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2316,
-      "name" : "美男就是奴才",
+      "id" : 2929,
+      "name" : "若岁浮萍",
       "updateStatus" : 1,
-      "distance" : 2479,
-      "memberId" : 7998,
-      "bothType" : false
+      "distance" : 6941,
+      "memberId" : 6332,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3490,
-      "name" : "舍友是公主大人",
-      "updateStatus" : 1,
-      "distance" : 1913,
-      "memberId" : 8534,
-      "bothType" : true
-    }, {
-      "id" : 3631,
-      "name" : "嗨！军官们！",
-      "updateStatus" : 1,
-      "distance" : 3335,
-      "memberId" : 3483,
-      "bothType" : false
-    }, {
-      "id" : 3306,
-      "name" : "“灰姑娘”的复仇绝密",
-      "updateStatus" : 1,
-      "distance" : 9062,
-      "memberId" : 3983,
-      "bothType" : true
-    }, {
-      "id" : 3542,
-      "name" : "洪流",
-      "updateStatus" : 1,
-      "distance" : 3762,
-      "memberId" : 6294,
-      "bothType" : false
-    }, {
-      "id" : 2692,
-      "name" : "网王之阴阳师是学生",
-      "updateStatus" : 1,
-      "distance" : 9533,
-      "memberId" : 4528,
-      "bothType" : false
-    }, {
-      "id" : 3398,
-      "name" : "泠夜梦初流光烬",
-      "updateStatus" : 1,
-      "distance" : 7188,
-      "memberId" : 1450,
-      "bothType" : false
-    }, {
-      "id" : 2502,
-      "name" : "古剑奇谭之浮生执念",
-      "updateStatus" : 1,
-      "distance" : 2964,
-      "memberId" : 3933,
-      "bothType" : false
-    }, {
-      "id" : 2660,
-      "name" : "败类黑道",
-      "updateStatus" : 1,
-      "distance" : 5805,
-      "memberId" : 2919,
-      "bothType" : false
-    }, {
-      "id" : 2135,
-      "name" : "阵惊天下",
+      "id" : 2060,
+      "name" : "和亲九公主：霸爱拽夫君",
       "updateStatus" : 2,
-      "distance" : 9408,
-      "memberId" : 6201,
-      "bothType" : false
+      "distance" : 1727,
+      "memberId" : 7236,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2386,
-      "name" : "至臻奢宠：冷情教父的罂粟情人",
+      "id" : 2219,
+      "name" : "亡牢天羊",
       "updateStatus" : 2,
-      "distance" : 8581,
-      "memberId" : 8263,
-      "bothType" : false
+      "distance" : 1169,
+      "memberId" : 6339,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2581,
-      "name" : "月上梨花白",
+      "id" : 3548,
+      "name" : "只见青山妩媚",
       "updateStatus" : 1,
-      "distance" : 9343,
-      "memberId" : 2494,
-      "bothType" : false
+      "distance" : 2175,
+      "memberId" : 4553,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3007,
-      "name" : "醉逍遥",
+      "id" : 2596,
+      "name" : "白狐报恩之遇上风流王爷",
       "updateStatus" : 1,
-      "distance" : 3000,
-      "memberId" : 7985,
-      "bothType" : false
+      "distance" : 6352,
+      "memberId" : 3024,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2610,
-      "name" : "调皮千金异空游之拐跑王爷",
+      "id" : 3688,
+      "name" : "丹心海棠",
       "updateStatus" : 1,
-      "distance" : 688,
-      "memberId" : 5606,
-      "bothType" : false
+      "distance" : 2163,
+      "memberId" : 3929,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2530,
-      "name" : "半城烟雨",
+      "id" : 2616,
+      "name" : "陌路轻狂",
       "updateStatus" : 1,
-      "distance" : 4772,
-      "memberId" : 5163,
-      "bothType" : false
+      "distance" : 1793,
+      "memberId" : 7262,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3274,
-      "name" : "啼笑皆妃之妃比寻常",
+      "id" : 3280,
+      "name" : "轻舞离歌",
       "updateStatus" : 1,
-      "distance" : 9931,
-      "memberId" : 7149,
-      "bothType" : false
+      "distance" : 3905,
+      "memberId" : 6299,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3066,
+      "name" : "紫色蒲公英",
+      "updateStatus" : 1,
+      "distance" : 3126,
+      "memberId" : 2417,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2265,
+      "name" : "朗歌行",
+      "updateStatus" : 1,
+      "distance" : 1769,
+      "memberId" : 5152,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3587,
+      "name" : "如果时光记得",
+      "updateStatus" : 1,
+      "distance" : 6686,
+      "memberId" : 3671,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3171,
+      "name" : "豪门冷少：撞上复仇女王",
+      "updateStatus" : 1,
+      "distance" : 6091,
+      "memberId" : 1440,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2140,
+      "name" : "傲剑江湖",
+      "updateStatus" : 1,
+      "distance" : 8056,
+      "memberId" : 6975,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2195,
+      "name" : "血之恋章",
+      "updateStatus" : 1,
+      "distance" : 5257,
+      "memberId" : 6611,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3137,
+      "name" : "只要你还在这里",
+      "updateStatus" : 1,
+      "distance" : 7847,
+      "memberId" : 2665,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2642,
+      "name" : "黑道特种部队",
+      "updateStatus" : 1,
+      "distance" : 4917,
+      "memberId" : 4903,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

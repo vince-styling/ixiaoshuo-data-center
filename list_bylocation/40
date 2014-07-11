@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2535,
-      "name" : "素锦流年祭",
+      "id" : 3453,
+      "name" : "菜鸟也不是好骗的",
       "updateStatus" : 1,
-      "distance" : 1972,
-      "memberId" : 6077,
-      "bothType" : false
+      "distance" : 2566,
+      "memberId" : 2926,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2956,
-      "name" : "温柔女友大姐大",
+      "id" : 2292,
+      "name" : "从此君王不翻牌",
       "updateStatus" : 1,
-      "distance" : 2677,
-      "memberId" : 6243,
-      "bothType" : false
+      "distance" : 8736,
+      "memberId" : 7405,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2323,
-      "name" : "旖梦泪",
+      "id" : 3662,
+      "name" : "窈窕君子",
       "updateStatus" : 1,
-      "distance" : 8938,
-      "memberId" : 2589,
-      "bothType" : false
+      "distance" : 2288,
+      "memberId" : 4193,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2864,
-      "name" : "天幕吟之雪荒初史",
+      "id" : 3374,
+      "name" : "逢酒醉花阴",
       "updateStatus" : 1,
-      "distance" : 7804,
-      "memberId" : 2815,
-      "bothType" : false
+      "distance" : 4374,
+      "memberId" : 8184,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3096,
-      "name" : "绝不放手",
-      "updateStatus" : 1,
-      "distance" : 1523,
-      "memberId" : 6723,
-      "bothType" : false
+      "id" : 2529,
+      "name" : "萝莉女警攻略：攻克冷面大叔",
+      "updateStatus" : 2,
+      "distance" : 3492,
+      "memberId" : 8869,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3295,
-      "name" : "南追",
+      "id" : 3111,
+      "name" : "真假王妃：非常之谋",
       "updateStatus" : 1,
-      "distance" : 8457,
-      "memberId" : 4770,
-      "bothType" : false
+      "distance" : 5851,
+      "memberId" : 8453,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3734,
-      "name" : "哈喽，我的间谍机器人王子",
+      "id" : 2667,
+      "name" : "那些旧时光雕刻的记忆",
       "updateStatus" : 1,
-      "distance" : 5582,
-      "memberId" : 1263,
-      "bothType" : false
+      "distance" : 4195,
+      "memberId" : 1489,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3231,
-      "name" : "全息穿越之武林外史",
+      "id" : 2910,
+      "name" : "听闻公司有妖孽",
       "updateStatus" : 1,
-      "distance" : 3681,
-      "memberId" : 7863,
-      "bothType" : false
+      "distance" : 9340,
+      "memberId" : 4840,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2375,
-      "name" : "杀手穿越成煮夫",
+      "id" : 2860,
+      "name" : "形影总相离",
       "updateStatus" : 1,
-      "distance" : 3446,
-      "memberId" : 3146,
-      "bothType" : true
+      "distance" : 7529,
+      "memberId" : 2355,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2221,
-      "name" : "七星北斗PLOUGH",
+      "id" : 2322,
+      "name" : "异世至尊红颜",
       "updateStatus" : 1,
-      "distance" : 7311,
-      "memberId" : 1006,
-      "bothType" : true
+      "distance" : 8186,
+      "memberId" : 2522,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3621,
-      "name" : "竹歪桃花三两枝",
+      "id" : 3720,
+      "name" : "唯不忘相思",
       "updateStatus" : 1,
-      "distance" : 8020,
-      "memberId" : 5471,
-      "bothType" : false
+      "distance" : 5366,
+      "memberId" : 8291,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2112,
-      "name" : "温暖如春",
+      "id" : 3714,
+      "name" : "王爷的仙妃",
       "updateStatus" : 1,
-      "distance" : 8414,
-      "memberId" : 7719,
-      "bothType" : true
+      "distance" : 4838,
+      "memberId" : 4620,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3596,
-      "name" : "不要在一起",
+      "id" : 3219,
+      "name" : "梦境梦尽",
       "updateStatus" : 1,
-      "distance" : 2901,
-      "memberId" : 1799,
-      "bothType" : false
+      "distance" : 8980,
+      "memberId" : 8080,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3431,
-      "name" : "修真女配混末世",
+      "id" : 3197,
+      "name" : "暮叶年华",
       "updateStatus" : 1,
-      "distance" : 3162,
-      "memberId" : 2779,
-      "bothType" : false
+      "distance" : 2923,
+      "memberId" : 2729,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3208,
-      "name" : "冥铭之国",
+      "id" : 2354,
+      "name" : "我能买下你",
       "updateStatus" : 1,
-      "distance" : 5255,
-      "memberId" : 3988,
-      "bothType" : false
+      "distance" : 7015,
+      "memberId" : 4652,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3472,
-      "name" : "遇君劫，弃别离",
+      "id" : 2336,
+      "name" : "妃似毒：皇子快逃命",
       "updateStatus" : 1,
-      "distance" : 3438,
-      "memberId" : 4968,
-      "bothType" : false
+      "distance" : 2738,
+      "memberId" : 4984,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2258,
-      "name" : "爆笑冤家：你的地盘我做主",
+      "id" : 3545,
+      "name" : "泪痕",
       "updateStatus" : 1,
-      "distance" : 4309,
-      "memberId" : 2237,
-      "bothType" : false
+      "distance" : 5224,
+      "memberId" : 5322,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2588,
-      "name" : "美人有毒",
+      "id" : 3719,
+      "name" : "唯心城的月光",
       "updateStatus" : 1,
-      "distance" : 3207,
-      "memberId" : 1436,
-      "bothType" : false
+      "distance" : 9263,
+      "memberId" : 1460,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2048,
-      "name" : "嗜血毒妃虐红尘",
+      "id" : 3057,
+      "name" : "穿越网王之千夜",
       "updateStatus" : 1,
-      "distance" : 5509,
-      "memberId" : 1712,
-      "bothType" : true
+      "distance" : 2304,
+      "memberId" : 8912,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2228,
-      "name" : "暗夜咒：千年之爱",
+      "id" : 2310,
+      "name" : "小石劫",
       "updateStatus" : 1,
-      "distance" : 4791,
-      "memberId" : 1983,
-      "bothType" : false
+      "distance" : 9940,
+      "memberId" : 8314,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

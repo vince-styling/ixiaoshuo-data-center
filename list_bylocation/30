@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3426,
-      "name" : "浪子安归",
+      "id" : 2736,
+      "name" : "我是石观音",
       "updateStatus" : 1,
-      "distance" : 1034,
+      "distance" : 1573,
+      "memberId" : 6820,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3254,
+      "name" : "北京不眠",
+      "updateStatus" : 1,
+      "distance" : 5024,
+      "memberId" : 4779,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2112,
+      "name" : "温暖如春",
+      "updateStatus" : 1,
+      "distance" : 7347,
+      "memberId" : 4097,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2979,
+      "name" : "未殇",
+      "updateStatus" : 1,
+      "distance" : 6353,
+      "memberId" : 3320,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3719,
+      "name" : "唯心城的月光",
+      "updateStatus" : 1,
+      "distance" : 6487,
+      "memberId" : 6195,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2136,
+      "name" : "替身王爷：妖妃有点萌",
+      "updateStatus" : 1,
+      "distance" : 5212,
+      "memberId" : 3727,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2853,
+      "name" : "特工老总红粉员工",
+      "updateStatus" : 1,
+      "distance" : 8816,
+      "memberId" : 3402,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2840,
+      "name" : "爱情三部曲之爱情重奏曲",
+      "updateStatus" : 1,
+      "distance" : 2458,
+      "memberId" : 3981,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3523,
+      "name" : "圣界天域",
+      "updateStatus" : 1,
+      "distance" : 3950,
+      "memberId" : 4470,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3448,
+      "name" : "荼蘼花未开",
+      "updateStatus" : 1,
+      "distance" : 9851,
+      "memberId" : 6481,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2068,
+      "name" : "红妆无忧",
+      "updateStatus" : 1,
+      "distance" : 9923,
+      "memberId" : 6533,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2722,
+      "name" : "戏江山",
+      "updateStatus" : 1,
+      "distance" : 8970,
+      "memberId" : 7619,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3589,
+      "name" : "今生等你爱我",
+      "updateStatus" : 1,
+      "distance" : 1991,
+      "memberId" : 8367,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2499,
+      "name" : "我在路口等你",
+      "updateStatus" : 1,
+      "distance" : 3936,
+      "memberId" : 8126,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2086,
+      "name" : "落柳归冢",
+      "updateStatus" : 1,
+      "distance" : 5549,
+      "memberId" : 4484,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2408,
+      "name" : "皮卡光的求婚大作战",
+      "updateStatus" : 1,
+      "distance" : 4676,
+      "memberId" : 5004,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2929,
+      "name" : "若岁浮萍",
+      "updateStatus" : 1,
+      "distance" : 6439,
+      "memberId" : 4812,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2380,
+      "name" : "执手深爱",
+      "updateStatus" : 1,
+      "distance" : 7958,
+      "memberId" : 3298,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2574,
+      "name" : "陌上红尘之顾城恋",
+      "updateStatus" : 1,
+      "distance" : 7879,
       "memberId" : 6225,
-      "bothType" : false
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3116,
-      "name" : "乱剑源德之九狱之书",
+      "id" : 3704,
+      "name" : "拐个CEO来改造",
       "updateStatus" : 1,
-      "distance" : 7445,
-      "memberId" : 2253,
-      "bothType" : false
-    }, {
-      "id" : 2498,
-      "name" : "飘落的信笺",
-      "updateStatus" : 1,
-      "distance" : 7621,
-      "memberId" : 2399,
-      "bothType" : false
-    }, {
-      "id" : 2838,
-      "name" : "小恋曲",
-      "updateStatus" : 2,
-      "distance" : 5493,
-      "memberId" : 3307,
-      "bothType" : false
-    }, {
-      "id" : 2841,
-      "name" : "听说时光回来过",
-      "updateStatus" : 1,
-      "distance" : 8099,
-      "memberId" : 8338,
-      "bothType" : false
-    }, {
-      "id" : 3294,
-      "name" : "朕爱生命，远离皇后",
-      "updateStatus" : 1,
-      "distance" : 4586,
-      "memberId" : 6178,
-      "bothType" : false
-    }, {
-      "id" : 2759,
-      "name" : "若无君，何来月",
-      "updateStatus" : 1,
-      "distance" : 7943,
-      "memberId" : 1124,
-      "bothType" : false
-    }, {
-      "id" : 2470,
-      "name" : "祸水",
-      "updateStatus" : 2,
-      "distance" : 5622,
-      "memberId" : 1252,
-      "bothType" : false
-    }, {
-      "id" : 2877,
-      "name" : "总裁，我只是你的棋子",
-      "updateStatus" : 1,
-      "distance" : 9715,
-      "memberId" : 1942,
-      "bothType" : false
-    }, {
-      "id" : 3253,
-      "name" : "替身之后",
-      "updateStatus" : 1,
-      "distance" : 9295,
-      "memberId" : 7713,
-      "bothType" : false
-    }, {
-      "id" : 2184,
-      "name" : "西月长歌",
-      "updateStatus" : 2,
-      "distance" : 4820,
-      "memberId" : 8093,
-      "bothType" : false
-    }, {
-      "id" : 2934,
-      "name" : "怀海漫成",
-      "updateStatus" : 1,
-      "distance" : 4831,
-      "memberId" : 5701,
-      "bothType" : true
-    }, {
-      "id" : 2336,
-      "name" : "妃似毒：皇子快逃命",
-      "updateStatus" : 1,
-      "distance" : 9241,
-      "memberId" : 4266,
-      "bothType" : false
-    }, {
-      "id" : 3680,
-      "name" : "潇洒小姐执着先生",
-      "updateStatus" : 1,
-      "distance" : 1931,
-      "memberId" : 7556,
-      "bothType" : true
-    }, {
-      "id" : 2748,
-      "name" : "如果邂逅",
-      "updateStatus" : 1,
-      "distance" : 1411,
-      "memberId" : 6769,
-      "bothType" : false
-    }, {
-      "id" : 2732,
-      "name" : "至死不渝之搞怪王妃",
-      "updateStatus" : 1,
-      "distance" : 3586,
-      "memberId" : 6754,
-      "bothType" : false
-    }, {
-      "id" : 2233,
-      "name" : "末世之非末之世",
-      "updateStatus" : 1,
-      "distance" : 7666,
-      "memberId" : 6345,
-      "bothType" : false
-    }, {
-      "id" : 2977,
-      "name" : "致我们的青春",
-      "updateStatus" : 1,
-      "distance" : 5378,
-      "memberId" : 4242,
-      "bothType" : true
-    }, {
-      "id" : 2175,
-      "name" : "史上最强避雷法宝",
-      "updateStatus" : 1,
-      "distance" : 1665,
-      "memberId" : 7405,
-      "bothType" : false
-    }, {
-      "id" : 2297,
-      "name" : "一梦三生卿心照",
-      "updateStatus" : 1,
-      "distance" : 7754,
-      "memberId" : 5196,
-      "bothType" : false
+      "distance" : 8174,
+      "memberId" : 5539,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2475,
-      "name" : "鬼掌灯",
+      "id" : 3131,
+      "name" : "天神印记",
       "updateStatus" : 1,
-      "distance" : 3564,
-      "memberId" : 2910,
-      "bothType" : false
+      "distance" : 7305,
+      "memberId" : 4518,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3411,
-      "name" : "孽障情缘",
+      "id" : 2479,
+      "name" : "诡音：楼上的高跟鞋",
       "updateStatus" : 1,
-      "distance" : 2355,
-      "memberId" : 6888,
-      "bothType" : false
+      "distance" : 1989,
+      "memberId" : 2707,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3051,
-      "name" : "执念恨",
-      "updateStatus" : 2,
-      "distance" : 2480,
-      "memberId" : 6969,
-      "bothType" : false
-    }, {
-      "id" : 2178,
-      "name" : "穿越之朔月传奇",
+      "id" : 2752,
+      "name" : "总裁的致命情人：抵死不承欢",
       "updateStatus" : 1,
-      "distance" : 1522,
-      "memberId" : 3664,
-      "bothType" : false
+      "distance" : 626,
+      "memberId" : 4251,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2821,
-      "name" : "一念起，一世倾",
+      "id" : 2230,
+      "name" : "妖殇惑世",
       "updateStatus" : 1,
-      "distance" : 3407,
-      "memberId" : 8595,
-      "bothType" : false
+      "distance" : 7065,
+      "memberId" : 2820,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2388,
-      "name" : "倾世执着",
-      "updateStatus" : 2,
-      "distance" : 604,
-      "memberId" : 6961,
-      "bothType" : false
-    }, {
-      "id" : 3317,
-      "name" : "花季里那个靠窗的女孩",
+      "id" : 3584,
+      "name" : "致臻与谁",
       "updateStatus" : 1,
-      "distance" : 5794,
-      "memberId" : 7809,
-      "bothType" : true
+      "distance" : 4854,
+      "memberId" : 2788,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2526,
-      "name" : "[网王]花菱の樱",
+      "id" : 3687,
+      "name" : "至尊天下：霸占绝色鬼颜妃",
       "updateStatus" : 1,
-      "distance" : 6457,
-      "memberId" : 3839,
-      "bothType" : false
+      "distance" : 8073,
+      "memberId" : 8275,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3441,
-      "name" : "折香",
+      "id" : 3641,
+      "name" : "绝代皇妃",
       "updateStatus" : 1,
-      "distance" : 8328,
-      "memberId" : 1086,
-      "bothType" : true
+      "distance" : 3612,
+      "memberId" : 6440,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3048,
-      "name" : "白马枯叶总相依",
+      "id" : 3695,
+      "name" : "大叔你要还我钱",
       "updateStatus" : 1,
-      "distance" : 9479,
-      "memberId" : 2904,
-      "bothType" : true
+      "distance" : 5833,
+      "memberId" : 7384,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3355,
-      "name" : "野蛮小宫女",
+      "id" : 2465,
+      "name" : "双魂神探",
       "updateStatus" : 1,
-      "distance" : 1614,
-      "memberId" : 4956,
-      "bothType" : false
+      "distance" : 5941,
+      "memberId" : 8922,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2116,
-      "name" : "妖孽皇太子：独宠下堂妃",
-      "updateStatus" : 2,
-      "distance" : 1503,
-      "memberId" : 6208,
-      "bothType" : false
-    }, {
-      "id" : 2267,
-      "name" : "三国恋之不如归去",
+      "id" : 2941,
+      "name" : "饿狼女扑羊记",
       "updateStatus" : 1,
-      "distance" : 7304,
-      "memberId" : 8149,
-      "bothType" : false
+      "distance" : 5954,
+      "memberId" : 8776,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2719,
-      "name" : "靛·自掘坟墓",
+      "id" : 3428,
+      "name" : "流年轻度鸳鸯浦",
       "updateStatus" : 1,
-      "distance" : 4643,
-      "memberId" : 8704,
-      "bothType" : false
+      "distance" : 4206,
+      "memberId" : 2018,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3306,
-      "name" : "“灰姑娘”的复仇绝密",
+      "id" : 2901,
+      "name" : "水浒系列短篇集",
       "updateStatus" : 1,
-      "distance" : 7483,
-      "memberId" : 1788,
-      "bothType" : false
+      "distance" : 1247,
+      "memberId" : 4364,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3083,
-      "name" : "情难自禁",
+      "id" : 3743,
+      "name" : "噬血公主与噬魂王子",
       "updateStatus" : 1,
-      "distance" : 7189,
-      "memberId" : 8452,
-      "bothType" : false
+      "distance" : 840,
+      "memberId" : 3010,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2201,
-      "name" : "凌荒传",
+      "id" : 3523,
+      "name" : "圣界天域",
       "updateStatus" : 1,
-      "distance" : 6681,
-      "memberId" : 2537,
-      "bothType" : false
+      "distance" : 598,
+      "memberId" : 5047,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2959,
-      "name" : "是现实太现实之面具",
+      "id" : 2130,
+      "name" : "文德皇后传",
       "updateStatus" : 1,
-      "distance" : 6377,
-      "memberId" : 5314,
-      "bothType" : false
+      "distance" : 6708,
+      "memberId" : 1952,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2314,
-      "name" : "白之纯水之澈",
+      "id" : 2788,
+      "name" : "五月，安然",
       "updateStatus" : 1,
-      "distance" : 5639,
-      "memberId" : 1352,
-      "bothType" : false
+      "distance" : 7632,
+      "memberId" : 4531,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3016,
-      "name" : "再见，宝贝",
+      "id" : 2929,
+      "name" : "若岁浮萍",
       "updateStatus" : 1,
-      "distance" : 3987,
-      "memberId" : 8706,
-      "bothType" : false
+      "distance" : 7691,
+      "memberId" : 1094,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2596,
+      "name" : "白狐报恩之遇上风流王爷",
+      "updateStatus" : 1,
+      "distance" : 9344,
+      "memberId" : 6087,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3717,
+      "name" : "异界纵横",
+      "updateStatus" : 1,
+      "distance" : 4299,
+      "memberId" : 2281,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3022,
+      "name" : "吸血鬼骑士之紫之吾爱",
+      "updateStatus" : 1,
+      "distance" : 1990,
+      "memberId" : 8641,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2178,
-      "name" : "穿越之朔月传奇",
+      "id" : 2949,
+      "name" : "流云蝶",
       "updateStatus" : 1,
-      "distance" : 3961,
-      "memberId" : 3912,
-      "bothType" : true
+      "distance" : 1228,
+      "memberId" : 2712,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2905,
-      "name" : "再一次爱上你",
+      "id" : 2230,
+      "name" : "妖殇惑世",
       "updateStatus" : 1,
-      "distance" : 3525,
-      "memberId" : 6959,
-      "bothType" : false
+      "distance" : 4589,
+      "memberId" : 3943,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3623,
-      "name" : "惊醒一袭清梦",
+      "id" : 3393,
+      "name" : "医",
       "updateStatus" : 1,
-      "distance" : 8555,
-      "memberId" : 3468,
-      "bothType" : false
+      "distance" : 2845,
+      "memberId" : 2523,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2775,
-      "name" : "实验品女孩的桃花运",
+      "id" : 2776,
+      "name" : "时空魔法师",
       "updateStatus" : 1,
-      "distance" : 5004,
-      "memberId" : 7395,
-      "bothType" : true
+      "distance" : 3781,
+      "memberId" : 5216,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2904,
-      "name" : "致青春，伊人有毒",
+      "id" : 2866,
+      "name" : "寂寞恋爱",
       "updateStatus" : 1,
-      "distance" : 9341,
-      "memberId" : 8076,
-      "bothType" : false
+      "distance" : 5968,
+      "memberId" : 8950,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2534,
-      "name" : "墨劫",
+      "id" : 3376,
+      "name" : "你是古人哎",
       "updateStatus" : 1,
-      "distance" : 1619,
-      "memberId" : 5492,
-      "bothType" : true
+      "distance" : 7074,
+      "memberId" : 1911,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3023,
-      "name" : "大没殇",
+      "id" : 3150,
+      "name" : "我是小丫",
       "updateStatus" : 1,
-      "distance" : 3910,
-      "memberId" : 3987,
-      "bothType" : true
+      "distance" : 4539,
+      "memberId" : 3088,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3149,
-      "name" : "风仪万千",
+      "id" : 2151,
+      "name" : "缘来是我们",
       "updateStatus" : 1,
-      "distance" : 5518,
-      "memberId" : 1982,
-      "bothType" : false
+      "distance" : 6762,
+      "memberId" : 1791,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3466,
-      "name" : "流年纪",
+      "id" : 3240,
+      "name" : "打工江湖路",
       "updateStatus" : 1,
-      "distance" : 1694,
-      "memberId" : 1717,
-      "bothType" : true
+      "distance" : 5062,
+      "memberId" : 8210,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2747,
-      "name" : "天才魔宝：踢走风流爹地",
+      "id" : 2180,
+      "name" : "极品刀神",
       "updateStatus" : 1,
-      "distance" : 1845,
-      "memberId" : 5050,
-      "bothType" : false
+      "distance" : 7548,
+      "memberId" : 7233,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3226,
-      "name" : "奇迹少年",
+      "id" : 2664,
+      "name" : "缘来是如此",
       "updateStatus" : 1,
-      "distance" : 7302,
-      "memberId" : 5808,
-      "bothType" : false
+      "distance" : 1595,
+      "memberId" : 7968,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3592,
-      "name" : "单纯逐笑开",
+      "id" : 2554,
+      "name" : "和宠物相伴的日子",
       "updateStatus" : 1,
-      "distance" : 3619,
-      "memberId" : 8144,
-      "bothType" : false
+      "distance" : 8859,
+      "memberId" : 2430,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3372,
-      "name" : "未成曲调先有情",
-      "updateStatus" : 1,
-      "distance" : 9590,
-      "memberId" : 5043,
-      "bothType" : true
-    }, {
-      "id" : 3691,
-      "name" : "巧夺帝心：奸妃娘娘升职记",
-      "updateStatus" : 1,
-      "distance" : 3113,
-      "memberId" : 1839,
-      "bothType" : true
-    }, {
-      "id" : 2421,
-      "name" : "爱我你不敢",
-      "updateStatus" : 1,
-      "distance" : 2424,
-      "memberId" : 1820,
-      "bothType" : false
-    }, {
-      "id" : 3527,
-      "name" : "审判之众神时代",
-      "updateStatus" : 1,
-      "distance" : 7395,
-      "memberId" : 1238,
-      "bothType" : false
-    }, {
-      "id" : 2621,
-      "name" : "一路南北",
-      "updateStatus" : 1,
-      "distance" : 8312,
-      "memberId" : 5043,
-      "bothType" : false
-    }, {
-      "id" : 2685,
-      "name" : "含蕾",
-      "updateStatus" : 1,
-      "distance" : 1293,
-      "memberId" : 1243,
-      "bothType" : false
-    }, {
-      "id" : 3087,
-      "name" : "友情遇到爱情",
-      "updateStatus" : 1,
-      "distance" : 5014,
-      "memberId" : 4853,
-      "bothType" : false
-    }, {
-      "id" : 2096,
-      "name" : "天下第一媒",
+      "id" : 3685,
+      "name" : "若痕",
       "updateStatus" : 1,
       "distance" : 9137,
-      "memberId" : 7065,
-      "bothType" : false
+      "memberId" : 2334,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2665,
+      "name" : "暗道，情回路",
+      "updateStatus" : 1,
+      "distance" : 9741,
+      "memberId" : 8819,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2889,
+      "name" : "帅哥，麻烦给我一张果照",
+      "updateStatus" : 1,
+      "distance" : 1332,
+      "memberId" : 2178,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2979,
+      "name" : "未殇",
+      "updateStatus" : 1,
+      "distance" : 8045,
+      "memberId" : 7498,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3007,
+      "name" : "醉逍遥",
+      "updateStatus" : 1,
+      "distance" : 9219,
+      "memberId" : 3638,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2718,
+      "name" : "卿云意",
+      "updateStatus" : 1,
+      "distance" : 2547,
+      "memberId" : 1750,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3106,
+      "name" : "被流放的女将军",
+      "updateStatus" : 1,
+      "distance" : 8624,
+      "memberId" : 5950,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3421,
+      "name" : "心动必碎",
+      "updateStatus" : 1,
+      "distance" : 5801,
+      "memberId" : 1438,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3149,
-      "name" : "风仪万千",
+      "id" : 3690,
+      "name" : "帝王劫：重生之丑女皇后",
       "updateStatus" : 1,
-      "distance" : 9390,
-      "memberId" : 6145,
-      "bothType" : true
+      "distance" : 6114,
+      "memberId" : 7717,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2586,
-      "name" : "半面仙",
+      "id" : 2830,
+      "name" : "待我长发及腰",
       "updateStatus" : 1,
-      "distance" : 940,
-      "memberId" : 8404,
-      "bothType" : true
+      "distance" : 4812,
+      "memberId" : 8352,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2126,
-      "name" : "纯钧剑",
-      "updateStatus" : 1,
-      "distance" : 6239,
-      "memberId" : 7492,
-      "bothType" : true
-    }, {
-      "id" : 2588,
-      "name" : "美人有毒",
-      "updateStatus" : 1,
-      "distance" : 4005,
-      "memberId" : 2458,
-      "bothType" : true
-    }, {
-      "id" : 3339,
-      "name" : "臆乱情迷",
-      "updateStatus" : 1,
-      "distance" : 3617,
-      "memberId" : 3938,
-      "bothType" : false
-    }, {
-      "id" : 3454,
-      "name" : "初心",
-      "updateStatus" : 1,
-      "distance" : 7288,
-      "memberId" : 5800,
-      "bothType" : false
-    }, {
-      "id" : 3261,
-      "name" : "腐化了的灿烂年华",
-      "updateStatus" : 1,
-      "distance" : 3129,
-      "memberId" : 7104,
-      "bothType" : false
-    }, {
-      "id" : 3729,
-      "name" : "琉璃色.彼岸花",
-      "updateStatus" : 1,
-      "distance" : 2793,
-      "memberId" : 5719,
-      "bothType" : false
-    }, {
-      "id" : 2414,
-      "name" : "寻爱之旅",
+      "id" : 2114,
+      "name" : "未婚妈妈，首席太霸道",
       "updateStatus" : 2,
-      "distance" : 2746,
-      "memberId" : 2696,
-      "bothType" : false
+      "distance" : 2043,
+      "memberId" : 1720,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2317,
-      "name" : "江湖任我行",
+      "id" : 3629,
+      "name" : "以歌为名，为爱铭志",
       "updateStatus" : 1,
-      "distance" : 789,
-      "memberId" : 2632,
-      "bothType" : true
+      "distance" : 1692,
+      "memberId" : 7463,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3061,
-      "name" : "久违的初吻",
+      "id" : 2228,
+      "name" : "暗夜咒：千年之爱",
       "updateStatus" : 1,
-      "distance" : 819,
-      "memberId" : 7527,
-      "bothType" : false
+      "distance" : 8829,
+      "memberId" : 5568,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3659,
-      "name" : "回头，爱还在原地等你",
+      "id" : 3002,
+      "name" : "微笑的告死者",
       "updateStatus" : 1,
-      "distance" : 3859,
-      "memberId" : 6882,
-      "bothType" : false
+      "distance" : 6778,
+      "memberId" : 8591,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3218,
-      "name" : "爱之梦",
+      "id" : 2356,
+      "name" : "霡霂云飒",
       "updateStatus" : 1,
-      "distance" : 8152,
-      "memberId" : 6851,
-      "bothType" : false
+      "distance" : 8203,
+      "memberId" : 4069,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2485,
-      "name" : "眸魂记",
+      "id" : 3722,
+      "name" : "夏日妍妍正好眠",
       "updateStatus" : 1,
-      "distance" : 7069,
-      "memberId" : 7350,
-      "bothType" : false
+      "distance" : 9271,
+      "memberId" : 8486,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2192,
-      "name" : "灵幻",
+      "id" : 2072,
+      "name" : "绝色医仙：迫嫁公主绝情帝",
       "updateStatus" : 2,
-      "distance" : 6917,
-      "memberId" : 6226,
-      "bothType" : false
+      "distance" : 5463,
+      "memberId" : 5017,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2404,
-      "name" : "一场游戏一场梦",
+      "id" : 3617,
+      "name" : "分手条约",
       "updateStatus" : 1,
-      "distance" : 5259,
-      "memberId" : 7279,
-      "bothType" : true
+      "distance" : 8252,
+      "memberId" : 7787,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2398,
-      "name" : "千里共月光",
+      "id" : 2907,
+      "name" : "紫弦俏孤女",
       "updateStatus" : 1,
-      "distance" : 2556,
-      "memberId" : 4540,
-      "bothType" : false
+      "distance" : 8229,
+      "memberId" : 6083,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2917,
-      "name" : "碧海蓝天最倾城",
+      "id" : 3108,
+      "name" : "金豆豆是宝贝疙瘩",
       "updateStatus" : 1,
-      "distance" : 5932,
-      "memberId" : 8281,
-      "bothType" : false
+      "distance" : 2044,
+      "memberId" : 7430,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2186,
-      "name" : "落日传说",
+      "id" : 2948,
+      "name" : "庶女狂妃：傲凤逆九天",
+      "updateStatus" : 1,
+      "distance" : 6339,
+      "memberId" : 5546,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2208,
+      "name" : "定为君妻",
+      "updateStatus" : 1,
+      "distance" : 7798,
+      "memberId" : 4641,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2219,
+      "name" : "亡牢天羊",
       "updateStatus" : 2,
-      "distance" : 2373,
-      "memberId" : 7556,
-      "bothType" : false
+      "distance" : 2539,
+      "memberId" : 4531,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2777,
-      "name" : "穿越之风沁",
+      "id" : 2300,
+      "name" : "蛇眸繁花",
+      "updateStatus" : 2,
+      "distance" : 2330,
+      "memberId" : 2557,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2654,
+      "name" : "异能女王改写天书",
       "updateStatus" : 1,
-      "distance" : 4712,
-      "memberId" : 1295,
-      "bothType" : false
+      "distance" : 4560,
+      "memberId" : 5699,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2573,
+      "name" : "熟女难拒钻石男",
+      "updateStatus" : 1,
+      "distance" : 7792,
+      "memberId" : 2882,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3209,
+      "name" : "风语爱情：命中注定会翻篇",
+      "updateStatus" : 1,
+      "distance" : 2247,
+      "memberId" : 4843,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3514,
+      "name" : "修罗决旨",
+      "updateStatus" : 1,
+      "distance" : 4668,
+      "memberId" : 4618,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

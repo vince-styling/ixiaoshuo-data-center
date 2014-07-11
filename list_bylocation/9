@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2436,
-      "name" : "爱不过匆匆一片点缀",
+      "id" : 2489,
+      "name" : "雪落的声音",
       "updateStatus" : 1,
-      "distance" : 6424,
-      "memberId" : 5452,
-      "bothType" : false
+      "distance" : 5123,
+      "memberId" : 3902,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2151,
-      "name" : "缘来是我们",
+      "id" : 2578,
+      "name" : "毕业不分手",
       "updateStatus" : 1,
-      "distance" : 9144,
-      "memberId" : 5429,
-      "bothType" : false
+      "distance" : 5935,
+      "memberId" : 8309,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2876,
-      "name" : "颠邪",
-      "updateStatus" : 1,
-      "distance" : 5381,
-      "memberId" : 8241,
-      "bothType" : false
-    }, {
-      "id" : 3654,
-      "name" : "红颜香粉",
-      "updateStatus" : 1,
-      "distance" : 9361,
-      "memberId" : 6384,
-      "bothType" : true
-    }, {
-      "id" : 3428,
-      "name" : "流年轻度鸳鸯浦",
-      "updateStatus" : 1,
-      "distance" : 7802,
-      "memberId" : 8773,
-      "bothType" : false
-    }, {
-      "id" : 2970,
-      "name" : "《存在的烙印》",
-      "updateStatus" : 1,
-      "distance" : 3885,
-      "memberId" : 2307,
-      "bothType" : false
-    }, {
-      "id" : 2560,
-      "name" : "穿越女尊之桃花朵朵开",
-      "updateStatus" : 1,
-      "distance" : 9360,
-      "memberId" : 1130,
-      "bothType" : false
-    }, {
-      "id" : 3271,
-      "name" : "折景年",
-      "updateStatus" : 1,
-      "distance" : 3855,
-      "memberId" : 4698,
-      "bothType" : false
-    }, {
-      "id" : 3677,
-      "name" : "不要丢下我，好不好",
-      "updateStatus" : 1,
-      "distance" : 6886,
-      "memberId" : 6953,
-      "bothType" : false
-    }, {
-      "id" : 2593,
-      "name" : "凤御圣月洛",
-      "updateStatus" : 1,
-      "distance" : 4379,
-      "memberId" : 3918,
-      "bothType" : false
-    }, {
-      "id" : 2518,
-      "name" : "君醉红颜",
-      "updateStatus" : 1,
-      "distance" : 1347,
-      "memberId" : 2078,
-      "bothType" : true
-    }, {
-      "id" : 3666,
-      "name" : "傲视苍穹：痴傻七小姐",
-      "updateStatus" : 1,
-      "distance" : 8260,
-      "memberId" : 2822,
-      "bothType" : false
-    }, {
-      "id" : 3336,
-      "name" : "旷世绝恋：洛水弹琴不谈情",
-      "updateStatus" : 1,
-      "distance" : 4899,
-      "memberId" : 7508,
-      "bothType" : false
-    }, {
-      "id" : 2508,
-      "name" : "剑神？不是吧",
-      "updateStatus" : 1,
-      "distance" : 6002,
-      "memberId" : 1227,
-      "bothType" : false
-    }, {
-      "id" : 3313,
-      "name" : "我的同桌顾亦辰",
-      "updateStatus" : 1,
-      "distance" : 8326,
-      "memberId" : 6134,
-      "bothType" : false
-    }, {
-      "id" : 2901,
-      "name" : "水浒系列短篇集",
-      "updateStatus" : 1,
-      "distance" : 3699,
-      "memberId" : 3209,
-      "bothType" : true
-    }, {
-      "id" : 2372,
-      "name" : "出轨无毒",
+      "id" : 2255,
+      "name" : "穿越之我的儿子是弘昼",
       "updateStatus" : 2,
-      "distance" : 9328,
-      "memberId" : 7794,
-      "bothType" : false
+      "distance" : 9078,
+      "memberId" : 7437,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2577,
-      "name" : "恶少总裁：薄宠小娇妻",
+      "id" : 2453,
+      "name" : "死亡七部曲",
       "updateStatus" : 1,
-      "distance" : 6933,
-      "memberId" : 5522,
-      "bothType" : true
+      "distance" : 5205,
+      "memberId" : 8131,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3332,
-      "name" : "不会失忆的爱",
+      "id" : 2738,
+      "name" : "苦忘·浮生如梦",
       "updateStatus" : 1,
-      "distance" : 6946,
-      "memberId" : 2762,
-      "bothType" : false
+      "distance" : 5253,
+      "memberId" : 5130,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3598,
-      "name" : "缘起烟尘",
+      "id" : 2312,
+      "name" : "栀子梦",
       "updateStatus" : 1,
-      "distance" : 6259,
-      "memberId" : 4001,
-      "bothType" : false
+      "distance" : 2318,
+      "memberId" : 5958,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2779,
+      "name" : "匪总与他丢失的肋骨",
+      "updateStatus" : 1,
+      "distance" : 4273,
+      "memberId" : 7053,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2131,
+      "name" : "重生之嫡女云笙",
+      "updateStatus" : 1,
+      "distance" : 5980,
+      "memberId" : 3831,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3205,
+      "name" : "当冷公主遇上甜心少",
+      "updateStatus" : 1,
+      "distance" : 4211,
+      "memberId" : 6965,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2229,
+      "name" : "异界之神路传说",
+      "updateStatus" : 1,
+      "distance" : 667,
+      "memberId" : 4943,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3533,
+      "name" : "落红颜",
+      "updateStatus" : 1,
+      "distance" : 2946,
+      "memberId" : 8542,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3530,
+      "name" : "总裁莫追：小女人带球跑",
+      "updateStatus" : 1,
+      "distance" : 4425,
+      "memberId" : 3718,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2200,
+      "name" : "女权时代",
+      "updateStatus" : 1,
+      "distance" : 3037,
+      "memberId" : 5496,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2755,
+      "name" : "大话漫游",
+      "updateStatus" : 1,
+      "distance" : 9630,
+      "memberId" : 4434,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2832,
+      "name" : "腹黑总裁：变身擒爱萌宠召唤师",
+      "updateStatus" : 1,
+      "distance" : 9781,
+      "memberId" : 7320,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2100,
+      "name" : "终归殊途，许可同归",
+      "updateStatus" : 1,
+      "distance" : 5614,
+      "memberId" : 2974,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3722,
+      "name" : "夏日妍妍正好眠",
+      "updateStatus" : 1,
+      "distance" : 8819,
+      "memberId" : 4609,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2284,
+      "name" : "梦游仙归",
+      "updateStatus" : 1,
+      "distance" : 7855,
+      "memberId" : 6631,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2914,
+      "name" : "寻找自己",
+      "updateStatus" : 1,
+      "distance" : 4857,
+      "memberId" : 8456,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2172,
+      "name" : "重生之倾城杀手",
+      "updateStatus" : 1,
+      "distance" : 965,
+      "memberId" : 5541,
+      "bothType" : true,
+      "textBook" : false
     } ]
   }
 }

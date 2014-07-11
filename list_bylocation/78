@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2108,
-      "name" : "妖孽丛生",
+      "id" : 3515,
+      "name" : "相思明叶",
       "updateStatus" : 1,
-      "distance" : 2904,
-      "memberId" : 7191,
-      "bothType" : true
+      "distance" : 7287,
+      "memberId" : 5656,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3299,
-      "name" : "爱妃你真笨",
-      "updateStatus" : 1,
-      "distance" : 5927,
-      "memberId" : 8016,
-      "bothType" : false
+      "id" : 2390,
+      "name" : "最初的仪式，最后的爱情",
+      "updateStatus" : 2,
+      "distance" : 6837,
+      "memberId" : 8747,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2142,
-      "name" : "修真界疯子",
+      "id" : 2650,
+      "name" : "我要稳稳的幸福",
       "updateStatus" : 1,
-      "distance" : 4874,
-      "memberId" : 7213,
-      "bothType" : false
+      "distance" : 7048,
+      "memberId" : 2357,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2921,
-      "name" : "豪门恩怨之吾爱未央",
+      "id" : 2891,
+      "name" : "天使也会哭泣",
       "updateStatus" : 1,
-      "distance" : 7422,
-      "memberId" : 8339,
-      "bothType" : false
+      "distance" : 8912,
+      "memberId" : 3983,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2926,
-      "name" : "清宫情史",
+      "id" : 2818,
+      "name" : "时光铭刻之痕",
       "updateStatus" : 1,
-      "distance" : 8978,
-      "memberId" : 4944,
-      "bothType" : false
-    }, {
-      "id" : 2697,
-      "name" : "堕世之瞳",
-      "updateStatus" : 1,
-      "distance" : 9540,
-      "memberId" : 3962,
-      "bothType" : false
-    }, {
-      "id" : 3563,
-      "name" : "苏诺传奇",
-      "updateStatus" : 1,
-      "distance" : 9741,
-      "memberId" : 2256,
-      "bothType" : false
-    }, {
-      "id" : 2351,
-      "name" : "十年之恋",
-      "updateStatus" : 1,
-      "distance" : 2123,
-      "memberId" : 2709,
-      "bothType" : false
+      "distance" : 7691,
+      "memberId" : 3316,
+      "bothType" : false,
+      "textBook" : false
     }, {
       "id" : 3238,
       "name" : "红尘珏",
       "updateStatus" : 1,
-      "distance" : 9576,
-      "memberId" : 3789,
-      "bothType" : false
+      "distance" : 7382,
+      "memberId" : 4918,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2218,
-      "name" : "谁欲人王",
+      "id" : 2350,
+      "name" : "蝶缘痴恋",
       "updateStatus" : 1,
-      "distance" : 7389,
-      "memberId" : 1375,
-      "bothType" : false
+      "distance" : 8712,
+      "memberId" : 2296,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3423,
-      "name" : "其叶沃若",
+      "id" : 3584,
+      "name" : "致臻与谁",
       "updateStatus" : 1,
-      "distance" : 2676,
-      "memberId" : 1183,
-      "bothType" : true
+      "distance" : 9648,
+      "memberId" : 8421,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2115,
-      "name" : "宫心计：弃后霸君宠",
+      "id" : 3361,
+      "name" : "逍遥人生：痞子王爷很妖娆",
+      "updateStatus" : 1,
+      "distance" : 9025,
+      "memberId" : 6519,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2727,
+      "name" : "无奸不商",
+      "updateStatus" : 1,
+      "distance" : 8322,
+      "memberId" : 6892,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2084,
+      "name" : "紫月星尘",
+      "updateStatus" : 1,
+      "distance" : 4661,
+      "memberId" : 3358,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 2726,
+      "name" : "琉璃玉",
+      "updateStatus" : 1,
+      "distance" : 6543,
+      "memberId" : 1113,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3662,
+      "name" : "窈窕君子",
+      "updateStatus" : 1,
+      "distance" : 4953,
+      "memberId" : 1224,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2202,
+      "name" : "妖精张华的回忆录",
+      "updateStatus" : 1,
+      "distance" : 4369,
+      "memberId" : 2452,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2091,
+      "name" : "江湖夜雨十年灯之琴剑篇",
+      "updateStatus" : 1,
+      "distance" : 3823,
+      "memberId" : 1654,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3430,
+      "name" : "于红尘中遇见你",
+      "updateStatus" : 1,
+      "distance" : 5641,
+      "memberId" : 8797,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2400,
+      "name" : "吸血鬼殿下的温柔阳光",
+      "updateStatus" : 1,
+      "distance" : 598,
+      "memberId" : 2846,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2214,
+      "name" : "冥王老大：鬼眼小娇妻",
       "updateStatus" : 2,
-      "distance" : 7630,
-      "memberId" : 4459,
-      "bothType" : false
+      "distance" : 2724,
+      "memberId" : 7905,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3578,
-      "name" : "我在外滩十八号等你",
+      "id" : 2551,
+      "name" : "巧笑嫣然",
       "updateStatus" : 1,
-      "distance" : 6849,
-      "memberId" : 4433,
-      "bothType" : false
+      "distance" : 4741,
+      "memberId" : 8394,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2917,
-      "name" : "碧海蓝天最倾城",
+      "id" : 3416,
+      "name" : "此生吾爱",
       "updateStatus" : 1,
-      "distance" : 5936,
-      "memberId" : 6657,
-      "bothType" : false
-    }, {
-      "id" : 2222,
-      "name" : "仙蝶穿越奇缘",
-      "updateStatus" : 1,
-      "distance" : 8123,
-      "memberId" : 8694,
-      "bothType" : false
-    }, {
-      "id" : 2159,
-      "name" : "雁翎刀",
-      "updateStatus" : 1,
-      "distance" : 3172,
-      "memberId" : 6347,
-      "bothType" : false
-    }, {
-      "id" : 3459,
-      "name" : "红尘客栈",
-      "updateStatus" : 1,
-      "distance" : 8506,
-      "memberId" : 4775,
-      "bothType" : true
-    }, {
-      "id" : 3022,
-      "name" : "吸血鬼骑士之紫之吾爱",
-      "updateStatus" : 1,
-      "distance" : 9649,
-      "memberId" : 6401,
-      "bothType" : false
-    }, {
-      "id" : 2068,
-      "name" : "红妆无忧",
-      "updateStatus" : 1,
-      "distance" : 1946,
-      "memberId" : 5801,
-      "bothType" : true
-    }, {
-      "id" : 3686,
-      "name" : "美人谋：宠妃不贤良",
-      "updateStatus" : 1,
-      "distance" : 1477,
-      "memberId" : 7962,
-      "bothType" : false
+      "distance" : 3725,
+      "memberId" : 5560,
+      "bothType" : false,
+      "textBook" : true
     } ]
   }
 }

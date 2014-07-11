@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2572,
-      "name" : "魔妃逆九天",
+      "id" : 2145,
+      "name" : "江湖乱：白首不负待君归",
       "updateStatus" : 1,
-      "distance" : 2862,
-      "memberId" : 5075,
-      "bothType" : false
+      "distance" : 4588,
+      "memberId" : 5233,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3300,
-      "name" : "画城",
+      "id" : 2894,
+      "name" : "废材大小姐之凤傲天下",
       "updateStatus" : 1,
-      "distance" : 8504,
-      "memberId" : 1810,
-      "bothType" : true
+      "distance" : 1637,
+      "memberId" : 4901,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3518,
-      "name" : "寻花",
+      "id" : 2693,
+      "name" : "怎么会喜欢你",
       "updateStatus" : 1,
-      "distance" : 2783,
-      "memberId" : 6086,
-      "bothType" : false
+      "distance" : 3826,
+      "memberId" : 2790,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2546,
-      "name" : "风流公子：赖上重生佳人",
-      "updateStatus" : 1,
-      "distance" : 2842,
-      "memberId" : 8540,
-      "bothType" : false
-    }, {
-      "id" : 2946,
-      "name" : "穿得人情",
-      "updateStatus" : 1,
-      "distance" : 5243,
-      "memberId" : 5802,
-      "bothType" : false
-    }, {
-      "id" : 2330,
-      "name" : "风雪情殇",
-      "updateStatus" : 1,
-      "distance" : 9365,
-      "memberId" : 7318,
-      "bothType" : false
-    }, {
-      "id" : 2336,
-      "name" : "妃似毒：皇子快逃命",
-      "updateStatus" : 1,
-      "distance" : 1060,
-      "memberId" : 8970,
-      "bothType" : false
-    }, {
-      "id" : 2064,
-      "name" : "百变夫君猎顽妻",
+      "id" : 2067,
+      "name" : "昔人惜人",
       "updateStatus" : 2,
-      "distance" : 4023,
-      "memberId" : 7779,
-      "bothType" : true
+      "distance" : 8057,
+      "memberId" : 8650,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2757,
-      "name" : "总裁溺恋之是祸躲不过",
+      "id" : 2181,
+      "name" : "荆棘路之异界荆棘",
       "updateStatus" : 1,
-      "distance" : 4738,
-      "memberId" : 4088,
-      "bothType" : true
+      "distance" : 2386,
+      "memberId" : 8091,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3700,
-      "name" : "江湖囧事录",
+      "id" : 2796,
+      "name" : "风流老板俏秘书",
       "updateStatus" : 1,
-      "distance" : 6599,
-      "memberId" : 1582,
-      "bothType" : false
+      "distance" : 9430,
+      "memberId" : 2076,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2102,
-      "name" : "殿下惑世",
+      "id" : 3432,
+      "name" : "我在这里，你在哪",
       "updateStatus" : 1,
-      "distance" : 980,
-      "memberId" : 7757,
-      "bothType" : false
+      "distance" : 4128,
+      "memberId" : 6009,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2221,
-      "name" : "七星北斗PLOUGH",
+      "id" : 2377,
+      "name" : "猜火车",
       "updateStatus" : 1,
-      "distance" : 8868,
-      "memberId" : 3563,
-      "bothType" : false
+      "distance" : 875,
+      "memberId" : 6245,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2386,
-      "name" : "至臻奢宠：冷情教父的罂粟情人",
+      "id" : 2275,
+      "name" : "国殇，风吟江山",
       "updateStatus" : 2,
-      "distance" : 3533,
-      "memberId" : 3625,
-      "bothType" : false
+      "distance" : 4344,
+      "memberId" : 2031,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3497,
-      "name" : "暗眼窥世",
+      "id" : 2066,
+      "name" : "祸爱三生：嗜血夺天下",
       "updateStatus" : 1,
-      "distance" : 3270,
-      "memberId" : 1511,
-      "bothType" : false
+      "distance" : 4618,
+      "memberId" : 6752,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2953,
-      "name" : "异世界的爱恋",
+      "id" : 3484,
+      "name" : "我本混蛋",
       "updateStatus" : 1,
-      "distance" : 3451,
-      "memberId" : 4879,
-      "bothType" : false
+      "distance" : 9753,
+      "memberId" : 1547,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2174,
-      "name" : "华夏神域",
+      "id" : 3311,
+      "name" : "韩菲之黑道女帝",
       "updateStatus" : 1,
-      "distance" : 6631,
-      "memberId" : 7116,
-      "bothType" : false
+      "distance" : 5638,
+      "memberId" : 2280,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2888,
-      "name" : "分生",
-      "updateStatus" : 1,
-      "distance" : 5880,
-      "memberId" : 4475,
-      "bothType" : true
+      "id" : 3582,
+      "name" : "骗来的爱情",
+      "updateStatus" : 2,
+      "distance" : 642,
+      "memberId" : 5569,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2291,
-      "name" : "长脚丫的年轮",
+      "id" : 2535,
+      "name" : "素锦流年祭",
       "updateStatus" : 1,
-      "distance" : 1399,
-      "memberId" : 8936,
-      "bothType" : false
+      "distance" : 8900,
+      "memberId" : 2618,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3739,
-      "name" : "狐媚天下：妖娆娘子腹黑爷",
+      "id" : 2158,
+      "name" : "网游之独狂天下",
       "updateStatus" : 1,
-      "distance" : 9652,
-      "memberId" : 4714,
-      "bothType" : true
+      "distance" : 2970,
+      "memberId" : 5334,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2822,
-      "name" : "追妻攻略：腹黑BOSS不好惹",
+      "id" : 3647,
+      "name" : "魔天大传",
       "updateStatus" : 1,
-      "distance" : 8675,
-      "memberId" : 4843,
-      "bothType" : false
+      "distance" : 9503,
+      "memberId" : 5438,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 2813,
+      "name" : "夕雾",
+      "updateStatus" : 1,
+      "distance" : 5930,
+      "memberId" : 8526,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3050,
+      "name" : "帝君独宠：魅世妖颜倾天下",
+      "updateStatus" : 1,
+      "distance" : 803,
+      "memberId" : 1534,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2065,
+      "name" : "昭华散",
+      "updateStatus" : 2,
+      "distance" : 2186,
+      "memberId" : 2322,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2661,
+      "name" : "复仇天使：你是我的蛊",
+      "updateStatus" : 1,
+      "distance" : 4653,
+      "memberId" : 8845,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }

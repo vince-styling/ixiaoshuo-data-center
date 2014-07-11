@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2647,
-      "name" : "冷少巧追豪门俏千金",
+      "id" : 2824,
+      "name" : "绿草如茵",
       "updateStatus" : 1,
-      "distance" : 3283,
-      "memberId" : 8751,
-      "bothType" : false
+      "distance" : 2857,
+      "memberId" : 6236,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2678,
-      "name" : "柠檬微酸",
+      "id" : 2154,
+      "name" : "寻仙问诱：美男不要逃",
       "updateStatus" : 1,
-      "distance" : 6656,
-      "memberId" : 7750,
-      "bothType" : false
+      "distance" : 2630,
+      "memberId" : 3257,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2794,
-      "name" : "邪恶之灵",
+      "id" : 3386,
+      "name" : "云水竹心",
       "updateStatus" : 1,
-      "distance" : 1499,
-      "memberId" : 5410,
-      "bothType" : false
+      "distance" : 3885,
+      "memberId" : 8842,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3430,
-      "name" : "于红尘中遇见你",
+      "id" : 3328,
+      "name" : "琉璃舞",
       "updateStatus" : 1,
-      "distance" : 6020,
-      "memberId" : 8512,
-      "bothType" : false
+      "distance" : 9099,
+      "memberId" : 1510,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3000,
-      "name" : "陪君共此生",
+      "id" : 2931,
+      "name" : "蝶风之交错的缘",
       "updateStatus" : 1,
-      "distance" : 9610,
-      "memberId" : 2422,
-      "bothType" : false
+      "distance" : 8004,
+      "memberId" : 4562,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2311,
-      "name" : "凤血",
+      "id" : 2977,
+      "name" : "致我们的青春",
       "updateStatus" : 1,
-      "distance" : 3030,
-      "memberId" : 3625,
-      "bothType" : false
+      "distance" : 9450,
+      "memberId" : 1909,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2512,
-      "name" : "SOUL神之作",
+      "id" : 2250,
+      "name" : "梦碎潋滟雪如尘",
       "updateStatus" : 2,
-      "distance" : 5923,
-      "memberId" : 7087,
-      "bothType" : false
+      "distance" : 714,
+      "memberId" : 4207,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3166,
-      "name" : "一品凰妻：冷情教主猎娇宠",
+      "id" : 2222,
+      "name" : "仙蝶穿越奇缘",
       "updateStatus" : 1,
-      "distance" : 2513,
-      "memberId" : 8651,
-      "bothType" : false
+      "distance" : 8755,
+      "memberId" : 5053,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3723,
-      "name" : "花落错爱",
+      "id" : 2496,
+      "name" : "赛罗之双生子的羁绊",
       "updateStatus" : 1,
-      "distance" : 3720,
-      "memberId" : 7257,
-      "bothType" : false
+      "distance" : 5712,
+      "memberId" : 3685,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3374,
-      "name" : "逢酒醉花阴",
+      "id" : 2068,
+      "name" : "红妆无忧",
       "updateStatus" : 1,
-      "distance" : 4743,
-      "memberId" : 6045,
-      "bothType" : true
+      "distance" : 1396,
+      "memberId" : 7277,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2833,
-      "name" : "蓬莱",
+      "id" : 3576,
+      "name" : "何故弦断梦",
       "updateStatus" : 1,
-      "distance" : 4077,
-      "memberId" : 2498,
-      "bothType" : false
+      "distance" : 1141,
+      "memberId" : 4088,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2089,
-      "name" : "旷世奇恋",
+      "id" : 2822,
+      "name" : "追妻攻略：腹黑BOSS不好惹",
       "updateStatus" : 1,
-      "distance" : 8212,
-      "memberId" : 2567,
-      "bothType" : false
+      "distance" : 3363,
+      "memberId" : 5969,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2105,
-      "name" : "是谁弯下小蛮腰",
+      "id" : 3649,
+      "name" : "九婴传二之魔天记",
       "updateStatus" : 1,
-      "distance" : 6393,
-      "memberId" : 3640,
-      "bothType" : false
+      "distance" : 2482,
+      "memberId" : 2899,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3441,
-      "name" : "折香",
+      "id" : 2226,
+      "name" : "浴火之凰",
       "updateStatus" : 1,
-      "distance" : 9954,
-      "memberId" : 3295,
-      "bothType" : false
+      "distance" : 2612,
+      "memberId" : 7089,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3077,
-      "name" : "青春盛宴之青春貌似童话",
+      "id" : 2919,
+      "name" : "柚子",
       "updateStatus" : 1,
-      "distance" : 4939,
-      "memberId" : 8785,
-      "bothType" : false
+      "distance" : 5024,
+      "memberId" : 7899,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3499,
-      "name" : "绮人心之刻度",
-      "updateStatus" : 1,
-      "distance" : 8230,
-      "memberId" : 3380,
-      "bothType" : false
+      "id" : 2516,
+      "name" : "青春，一场久治不愈的感冒",
+      "updateStatus" : 2,
+      "distance" : 1305,
+      "memberId" : 7332,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2331,
-      "name" : "情陷异时空之名动天下",
+      "id" : 2347,
+      "name" : "绝配主仆",
       "updateStatus" : 1,
-      "distance" : 2312,
-      "memberId" : 6044,
-      "bothType" : true
+      "distance" : 1321,
+      "memberId" : 3631,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2349,
-      "name" : "不相信国",
+      "id" : 3128,
+      "name" : "遇上你遇上爱：丫头，哪里逃",
       "updateStatus" : 1,
-      "distance" : 5816,
-      "memberId" : 5999,
-      "bothType" : true
+      "distance" : 6790,
+      "memberId" : 3750,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3180,
-      "name" : "苦涩如茶",
+      "id" : 2042,
+      "name" : "一分钟追悔",
       "updateStatus" : 1,
-      "distance" : 4921,
-      "memberId" : 3707,
-      "bothType" : false
+      "distance" : 9000,
+      "memberId" : 4763,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3552,
-      "name" : "千里相思",
+      "id" : 2760,
+      "name" : "纳粹宝藏",
       "updateStatus" : 1,
-      "distance" : 3591,
-      "memberId" : 6531,
-      "bothType" : false
+      "distance" : 5477,
+      "memberId" : 6297,
+      "bothType" : true,
+      "textBook" : true
     } ]
   }
 }

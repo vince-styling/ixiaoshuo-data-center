@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 3216,
-      "name" : "渡魂斋",
-      "updateStatus" : 1,
-      "distance" : 4040,
-      "memberId" : 2758,
-      "bothType" : false
-    }, {
-      "id" : 2849,
-      "name" : "缘来还是你",
-      "updateStatus" : 1,
-      "distance" : 7072,
-      "memberId" : 6577,
-      "bothType" : false
-    }, {
-      "id" : 2446,
-      "name" : "安否，掠掳之来去的幸福",
-      "updateStatus" : 1,
-      "distance" : 6940,
-      "memberId" : 2315,
-      "bothType" : false
-    }, {
-      "id" : 3250,
-      "name" : "极点之境",
-      "updateStatus" : 1,
-      "distance" : 7360,
-      "memberId" : 6071,
-      "bothType" : false
-    }, {
-      "id" : 2859,
-      "name" : "罪与孽交织的孽爱",
-      "updateStatus" : 1,
-      "distance" : 8674,
-      "memberId" : 4311,
-      "bothType" : false
-    }, {
-      "id" : 2199,
-      "name" : "选道",
-      "updateStatus" : 2,
-      "distance" : 5328,
-      "memberId" : 3221,
-      "bothType" : false
-    }, {
-      "id" : 3371,
-      "name" : "无良娇妃：惹上妖孽夫君",
-      "updateStatus" : 1,
-      "distance" : 3234,
-      "memberId" : 7235,
-      "bothType" : true
-    }, {
-      "id" : 3650,
-      "name" : "养个儿子当祸害",
-      "updateStatus" : 1,
-      "distance" : 3729,
-      "memberId" : 7201,
-      "bothType" : true
-    }, {
-      "id" : 2372,
-      "name" : "出轨无毒",
-      "updateStatus" : 2,
-      "distance" : 2799,
-      "memberId" : 2669,
-      "bothType" : true
-    }, {
-      "id" : 2499,
-      "name" : "我在路口等你",
-      "updateStatus" : 1,
-      "distance" : 1348,
-      "memberId" : 4219,
-      "bothType" : false
-    }, {
-      "id" : 3265,
-      "name" : "如果，没有你",
-      "updateStatus" : 1,
-      "distance" : 7137,
-      "memberId" : 8820,
-      "bothType" : false
-    }, {
       "id" : 2892,
       "name" : "因为，爱情",
       "updateStatus" : 1,
-      "distance" : 5793,
-      "memberId" : 2766,
-      "bothType" : false
+      "distance" : 6540,
+      "memberId" : 6535,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3621,
-      "name" : "竹歪桃花三两枝",
+      "id" : 2091,
+      "name" : "江湖夜雨十年灯之琴剑篇",
       "updateStatus" : 1,
-      "distance" : 6170,
-      "memberId" : 3151,
-      "bothType" : false
+      "distance" : 7018,
+      "memberId" : 2609,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 3132,
-      "name" : "三界悲诳录",
+      "id" : 2549,
+      "name" : "色如花，命如叶",
       "updateStatus" : 1,
-      "distance" : 2439,
-      "memberId" : 1295,
-      "bothType" : false
+      "distance" : 4947,
+      "memberId" : 5107,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2379,
-      "name" : "观众也难做",
+      "id" : 2462,
+      "name" : "道听途说",
       "updateStatus" : 1,
-      "distance" : 9005,
-      "memberId" : 8559,
-      "bothType" : false
+      "distance" : 7911,
+      "memberId" : 3480,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2806,
-      "name" : "浮尘之爱",
+      "id" : 3072,
+      "name" : "倒转乾坤：女帝慑天下",
       "updateStatus" : 1,
-      "distance" : 6636,
-      "memberId" : 4128,
-      "bothType" : false
+      "distance" : 8832,
+      "memberId" : 8392,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3254,
-      "name" : "北京不眠",
+      "id" : 3359,
+      "name" : "遇见等于错过",
       "updateStatus" : 1,
-      "distance" : 1220,
-      "memberId" : 6270,
-      "bothType" : false
+      "distance" : 7729,
+      "memberId" : 8293,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2231,
-      "name" : "女巫时节",
+      "id" : 3077,
+      "name" : "青春盛宴之青春貌似童话",
       "updateStatus" : 1,
-      "distance" : 2143,
-      "memberId" : 7169,
-      "bothType" : true
+      "distance" : 5864,
+      "memberId" : 1503,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 3280,
-      "name" : "轻舞离歌",
+      "id" : 3272,
+      "name" : "来，卖身契给我",
       "updateStatus" : 1,
-      "distance" : 4243,
-      "memberId" : 3546,
-      "bothType" : false
+      "distance" : 6403,
+      "memberId" : 4875,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2405,
-      "name" : "恨与爱的边缘",
+      "id" : 3535,
+      "name" : "冥空以月",
       "updateStatus" : 1,
-      "distance" : 2452,
-      "memberId" : 7110,
-      "bothType" : false
+      "distance" : 2558,
+      "memberId" : 1997,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2181,
+      "name" : "荆棘路之异界荆棘",
+      "updateStatus" : 1,
+      "distance" : 8093,
+      "memberId" : 8031,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3052,
+      "name" : "林间季雨青冢",
+      "updateStatus" : 1,
+      "distance" : 5168,
+      "memberId" : 2360,
+      "bothType" : true,
+      "textBook" : true
+    }, {
+      "id" : 3100,
+      "name" : "这不是王者归来",
+      "updateStatus" : 1,
+      "distance" : 1498,
+      "memberId" : 3746,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3039,
+      "name" : "一世迷离",
+      "updateStatus" : 1,
+      "distance" : 537,
+      "memberId" : 1496,
+      "bothType" : true,
+      "textBook" : false
+    }, {
+      "id" : 3696,
+      "name" : "负心王爷，囚宠失身王妃",
+      "updateStatus" : 1,
+      "distance" : 1314,
+      "memberId" : 2051,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2557,
+      "name" : "美人颜如玉",
+      "updateStatus" : 1,
+      "distance" : 8897,
+      "memberId" : 3482,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3316,
+      "name" : "迷恋情人：调教花花总裁",
+      "updateStatus" : 1,
+      "distance" : 4268,
+      "memberId" : 8709,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 3106,
+      "name" : "被流放的女将军",
+      "updateStatus" : 1,
+      "distance" : 2679,
+      "memberId" : 2140,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2351,
+      "name" : "十年之恋",
+      "updateStatus" : 1,
+      "distance" : 1772,
+      "memberId" : 4202,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3528,
+      "name" : "丑女倾城：待我长发及腰",
+      "updateStatus" : 1,
+      "distance" : 990,
+      "memberId" : 4445,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 2996,
+      "name" : "不懂，就别说出口",
+      "updateStatus" : 1,
+      "distance" : 5238,
+      "memberId" : 3172,
+      "bothType" : true,
+      "textBook" : true
     } ]
   }
 }

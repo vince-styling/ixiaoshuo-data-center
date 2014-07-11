@@ -6,145 +6,165 @@
     "totalPageCount" : 85,
     "totalItemCount" : 1681,
     "list" : [ {
-      "id" : 2905,
-      "name" : "再一次爱上你",
+      "id" : 2954,
+      "name" : "大神卖身不卖艺",
       "updateStatus" : 1,
-      "distance" : 9273,
-      "memberId" : 2525,
-      "bothType" : false
+      "distance" : 935,
+      "memberId" : 8094,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3703,
-      "name" : "六脸",
+      "id" : 3520,
+      "name" : "花开花落，唯守那段情",
+      "updateStatus" : 1,
+      "distance" : 2602,
+      "memberId" : 3060,
+      "bothType" : false,
+      "textBook" : false
+    }, {
+      "id" : 2162,
+      "name" : "琴之飞絮",
       "updateStatus" : 2,
-      "distance" : 1649,
-      "memberId" : 8634,
-      "bothType" : false
+      "distance" : 6449,
+      "memberId" : 5974,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2359,
-      "name" : "羽落殇心醉红尘",
-      "updateStatus" : 2,
-      "distance" : 9070,
-      "memberId" : 1687,
-      "bothType" : false
-    }, {
-      "id" : 2877,
-      "name" : "总裁，我只是你的棋子",
+      "id" : 3601,
+      "name" : "黑道之一夕问晴天",
       "updateStatus" : 1,
-      "distance" : 2940,
-      "memberId" : 3651,
-      "bothType" : false
+      "distance" : 3126,
+      "memberId" : 1230,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2959,
-      "name" : "是现实太现实之面具",
+      "id" : 2663,
+      "name" : "如何遇见你",
       "updateStatus" : 1,
-      "distance" : 636,
-      "memberId" : 5496,
-      "bothType" : false
+      "distance" : 8056,
+      "memberId" : 1854,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3043,
-      "name" : "遇见安好",
+      "id" : 3320,
+      "name" : "梦迷牡丹",
       "updateStatus" : 1,
-      "distance" : 3713,
-      "memberId" : 4130,
-      "bothType" : false
+      "distance" : 5543,
+      "memberId" : 5292,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2969,
-      "name" : "我的青春是一座迷宫",
+      "id" : 3540,
+      "name" : "银魂王妃",
       "updateStatus" : 1,
-      "distance" : 9867,
-      "memberId" : 8955,
-      "bothType" : false
+      "distance" : 8742,
+      "memberId" : 5378,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2296,
-      "name" : "梦穿康熙换乾坤",
+      "id" : 3348,
+      "name" : "杀手王妃的花心王爷",
       "updateStatus" : 1,
-      "distance" : 6503,
-      "memberId" : 3051,
-      "bothType" : false
+      "distance" : 5547,
+      "memberId" : 8618,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3069,
-      "name" : "假想敌",
+      "id" : 2655,
+      "name" : "你是我的终点线",
       "updateStatus" : 1,
-      "distance" : 3669,
-      "memberId" : 3999,
-      "bothType" : false
+      "distance" : 5924,
+      "memberId" : 6967,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3198,
-      "name" : "灵异轮回",
+      "id" : 3487,
+      "name" : "传说，苏忆恩作得一手好死",
       "updateStatus" : 1,
-      "distance" : 5712,
-      "memberId" : 6022,
-      "bothType" : false
+      "distance" : 2473,
+      "memberId" : 5953,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3689,
-      "name" : "让我爱你",
+      "id" : 3264,
+      "name" : "一个安静的故事",
       "updateStatus" : 1,
-      "distance" : 2544,
-      "memberId" : 4150,
-      "bothType" : false
+      "distance" : 3952,
+      "memberId" : 4926,
+      "bothType" : true,
+      "textBook" : false
     }, {
-      "id" : 2240,
-      "name" : "一亿一剑一情绝",
+      "id" : 2407,
+      "name" : "岁月静好，时光依旧",
       "updateStatus" : 1,
-      "distance" : 1011,
-      "memberId" : 1374,
-      "bothType" : true
+      "distance" : 1508,
+      "memberId" : 5860,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3509,
-      "name" : "秋以为期",
+      "id" : 3107,
+      "name" : "世间冷暖",
       "updateStatus" : 1,
-      "distance" : 9412,
-      "memberId" : 7096,
-      "bothType" : false
+      "distance" : 5402,
+      "memberId" : 3405,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 3551,
-      "name" : "爱你或许只是兴起",
+      "id" : 3445,
+      "name" : "落叶清欢",
       "updateStatus" : 1,
-      "distance" : 4846,
-      "memberId" : 8761,
-      "bothType" : false
+      "distance" : 3288,
+      "memberId" : 6550,
+      "bothType" : true,
+      "textBook" : true
     }, {
-      "id" : 2372,
-      "name" : "出轨无毒",
-      "updateStatus" : 2,
-      "distance" : 4732,
-      "memberId" : 4563,
-      "bothType" : true
-    }, {
-      "id" : 3345,
-      "name" : "黑洞星海",
+      "id" : 2285,
+      "name" : "天织雪",
       "updateStatus" : 1,
-      "distance" : 6194,
-      "memberId" : 2786,
-      "bothType" : true
+      "distance" : 4086,
+      "memberId" : 6446,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2507,
-      "name" : "尘落（爵迹同人）",
+      "id" : 2350,
+      "name" : "蝶缘痴恋",
       "updateStatus" : 1,
-      "distance" : 4600,
-      "memberId" : 5224,
-      "bothType" : true
+      "distance" : 6681,
+      "memberId" : 2632,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 2625,
-      "name" : "囚爱天使：逃婚猫咪不服输",
+      "id" : 2424,
+      "name" : "青春谢幕碎流年",
       "updateStatus" : 1,
-      "distance" : 7944,
-      "memberId" : 1753,
-      "bothType" : false
+      "distance" : 6144,
+      "memberId" : 2508,
+      "bothType" : false,
+      "textBook" : true
     }, {
-      "id" : 3106,
-      "name" : "被流放的女将军",
+      "id" : 2717,
+      "name" : "修罗王妃：血战三关",
       "updateStatus" : 1,
-      "distance" : 3790,
-      "memberId" : 1129,
-      "bothType" : false
+      "distance" : 3121,
+      "memberId" : 5693,
+      "bothType" : false,
+      "textBook" : false
     }, {
-      "id" : 2201,
-      "name" : "凌荒传",
+      "id" : 2582,
+      "name" : "特工归来：王妃策倾天下",
       "updateStatus" : 1,
-      "distance" : 9512,
-      "memberId" : 1438,
-      "bothType" : false
+      "distance" : 9686,
+      "memberId" : 5450,
+      "bothType" : false,
+      "textBook" : true
+    }, {
+      "id" : 3711,
+      "name" : "谋天",
+      "updateStatus" : 1,
+      "distance" : 7774,
+      "memberId" : 3258,
+      "bothType" : false,
+      "textBook" : false
     } ]
   }
 }
