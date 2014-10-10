@@ -10,451 +10,479 @@
     <div class="container">
         <div class="clearfix">
             <div class="page-title">
-    <h1>Data Center Doc</h1>
-    <h2>ixiaoshuo阅读器的服务端接口文档</h2>
-</div>
-<div class="primary">
-    <div class="post-thumb">
-        <html>
- <head></head>
- <body>
-  <h1>获取文字小说的最新书籍列表</h1> 
-  <p>url：http://server.domain/list_bynewly/[PageNo]</p> 
-  <p>参数：</p> 
-  <table> 
-   <colgroup>
-    <col /> 
-    <col align="center" /> 
-    <col align="right" /> 
-   </colgroup>
-   <thead> 
-   </thead> 
-   <tbody> 
-    <tr> 
-     <td><code>int PageNo</code> 需要获取书籍列表的页号</td> 
-    </tr> 
-   </tbody> 
-  </table> 
-  <p>请求示例：</p> 
-  <h3 id="http:server.domainlist_bynewly1">http://server.domain/list_bynewly/1</h3> 
-  <h3 id="http:server.domainlist_bynewly12">http://server.domain/list_bynewly/12</h3> 
-  <p>返回结果：</p> 
-  <pre><span class="braces">{</span>
-    <span class="string">&quot;status&quot;</span><span class="symbol">:</span> <span class="numeric">200</span>,
-    <span class="string">&quot;message&quot;</span><span class="symbol">:</span> <span class="string">&quot;&quot;</span>,
-    <span class="string">&quot;data&quot;</span><span class="symbol">:</span> <span class="braces">{</span>
-        <span class="string">&quot;curPageNo&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-        <span class="string">&quot;totalPageCount&quot;</span><span class="symbol">:</span> <span class="numeric">10</span>,
-        <span class="string">&quot;totalItemCount&quot;</span><span class="symbol">:</span> <span class="numeric">191</span>,
-        <span class="string">&quot;list&quot;</span><span class="symbol">:</span> <span class="braces">[</span><span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">383001</span>,<span class="comment">// 书籍ID</span>
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;仕途逍遥2：漂亮女领导&quot;</span>,       <span class="comment">// 书籍名称</span>
-            <span class="string">&quot;coverUrl&quot;</span><span class="symbol">:</span> <span class="string">&quot;http://ixiaoshuo.vincestyling.com/detail/cover/cover_45045.jpg&quot;</span>, <span class="comment">// 书籍封面图片URL</span>
-            <span class="string">&quot;summary&quot;</span><span class="symbol">:</span> <span class="string">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span>, <span class="comment">// 书籍详情</span>
-            <span class="string">&quot;lastUpdateTime&quot;</span><span class="symbol">:</span> <span class="string">&quot;2013-10-11 19:42:13&quot;</span>,  <span class="comment">// 最近一次更新时间</span>
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">2</span>,<span class="comment">// 书籍更新状态：1----连载  2----完结</span>
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">84643</span>,<span class="comment">// 书籍容量：字数</span>
-            <span class="string">&quot;bothType&quot;</span> <span class="symbol">:</span> <span class="reserved_word">true</span>,<span class="comment">//是否双版</span>
-        <span class="braces">}</span>, <span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">384001</span>,
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;中南海保镖成长传奇：一号特卫&quot;</span>,
-            <span class="string">&quot;summary&quot;</span><span class="symbol">:</span> <span class="string">&quot;从一个痞性十足的小青年，<span class="esc_character">\n</span>成长为震撼世界的中南海保镖&quot;</span>,
-            <span class="string">&quot;lastUpdateTime&quot;</span><span class="symbol">:</span> <span class="string">&quot;2013-10-11 19:48:36&quot;</span>,
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">257189</span>,
-        <span class="braces">}</span><span class="braces">]</span>
-    <span class="braces">}</span>
-<span class="braces">}</span></pre> 
-  <h1>获取文字小说的热门书籍列表</h1> 
-  <p>url：http://server.domain/list_byhottest/[PageNo]</p> 
-  <p>参数：</p> 
-  <table> 
-   <colgroup>
-    <col /> 
-    <col align="center" /> 
-    <col align="right" /> 
-   </colgroup>
-   <thead> 
-   </thead> 
-   <tbody> 
-    <tr> 
-     <td><code>int PageNo</code> 需要获取书籍列表的页号</td> 
-    </tr> 
-   </tbody> 
-  </table> 
-  <p>请求示例：</p> 
-  <h3 id="http:server.domainlist_byhottest1">http://server.domain/list_byhottest/1</h3> 
-  <h3 id="http:server.domainlist_byhottest12">http://server.domain/list_byhottest/12</h3> 
-  <p>返回结果：</p> 
-  <pre><span class="braces">{</span>
-    <span class="string">&quot;status&quot;</span><span class="symbol">:</span> <span class="numeric">200</span>,
-    <span class="string">&quot;message&quot;</span><span class="symbol">:</span> <span class="string">&quot;&quot;</span>,
-    <span class="string">&quot;data&quot;</span><span class="symbol">:</span> <span class="braces">{</span>
-        <span class="string">&quot;curPageNo&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-        <span class="string">&quot;totalPageCount&quot;</span><span class="symbol">:</span> <span class="numeric">10</span>,
-        <span class="string">&quot;totalItemCount&quot;</span><span class="symbol">:</span> <span class="numeric">191</span>,
-        <span class="string">&quot;list&quot;</span><span class="symbol">:</span> <span class="braces">[</span><span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">383001</span>,<span class="comment">// 书籍ID</span>
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;仕途逍遥2：漂亮女领导&quot;</span>,       <span class="comment">// 书籍名称</span>
-            <span class="string">&quot;coverUrl&quot;</span><span class="symbol">:</span> <span class="string">&quot;http://ixiaoshuo.vincestyling.com/detail/cover/cover_45045.jpg&quot;</span>, <span class="comment">// 书籍封面图片URL</span>
-            <span class="string">&quot;summary&quot;</span><span class="symbol">:</span> <span class="string">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span>, <span class="comment">// 书籍详情</span>
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">2</span>,<span class="comment">// 书籍更新状态：1----连载  2----完结</span>
-            <span class="string">&quot;readerCount&quot;</span><span class="symbol">:</span> <span class="numeric">570</span>,  <span class="comment">// 书籍阅读人数</span>
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">84643</span>,<span class="comment">// 书籍容量：字数</span>
-            <span class="string">&quot;bothType&quot;</span> <span class="symbol">:</span> <span class="reserved_word">true</span>,<span class="comment">//是否双版</span>
-        <span class="braces">}</span>, <span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">384001</span>,
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;中南海保镖成长传奇：一号特卫&quot;</span>,
-            <span class="string">&quot;summary&quot;</span><span class="symbol">:</span> <span class="string">&quot;从一个痞性十足的小青年，<span class="esc_character">\n</span>成长为震撼世界的中南海保镖&quot;</span>,
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-            <span class="string">&quot;readerCount&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">257189</span>,
-        <span class="braces">}</span><span class="braces">]</span>
-    <span class="braces">}</span>
-<span class="braces">}</span></pre> 
-  <h1>根据状态获取文字小说列表数据</h1> 
-  <p>url：http://server.domain/list_bystatus/[UpdateStatus]/[PageNo]</p> 
-  <p>参数：</p> 
-  <table> 
-   <colgroup>
-    <col /> 
-    <col align="center" /> 
-    <col align="right" /> 
-   </colgroup>
-   <thead> 
-   </thead> 
-   <tbody> 
-    <tr> 
-     <td><code>int UpdateStatus</code> 书籍状态（1----连载 2----完结）</td> 
-    </tr> 
-    <tr> 
-     <td><code>int PageNo</code> 需要获取书籍列表的页号</td> 
-    </tr> 
-   </tbody> 
-  </table> 
-  <p>请求示例：</p> 
-  <h3 id="http:server.domainlist_bystatus11">http://server.domain/list_bystatus/1/1：连载书籍列表第一页</h3> 
-  <h3 id="http:server.domainlist_bystatus213">http://server.domain/list_bystatus/2/13：完结书籍列表第十三页</h3> 
-  <p>返回结果：</p> 
-  <pre><span class="braces">{</span>
-    <span class="string">&quot;status&quot;</span><span class="symbol">:</span> <span class="numeric">200</span>,
-    <span class="string">&quot;message&quot;</span><span class="symbol">:</span> <span class="string">&quot;&quot;</span>,
-    <span class="string">&quot;data&quot;</span><span class="symbol">:</span> <span class="braces">{</span>
-        <span class="string">&quot;curPageNo&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-        <span class="string">&quot;totalPageCount&quot;</span><span class="symbol">:</span> <span class="numeric">10</span>,
-        <span class="string">&quot;totalItemCount&quot;</span><span class="symbol">:</span> <span class="numeric">191</span>,
-        <span class="string">&quot;list&quot;</span><span class="symbol">:</span> <span class="braces">[</span><span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">383001</span>,<span class="comment">// 书籍ID</span>
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;仕途逍遥2：漂亮女领导&quot;</span>,       <span class="comment">// 书籍名称</span>
-            <span class="string">&quot;coverUrl&quot;</span><span class="symbol">:</span> <span class="string">&quot;http://ixiaoshuo.vincestyling.com/detail/cover/cover_45045.jpg&quot;</span>, <span class="comment">// 书籍封面图片URL</span>
-            <span class="string">&quot;summary&quot;</span><span class="symbol">:</span> <span class="string">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span>, <span class="comment">// 书籍详情</span>
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">2</span>,<span class="comment">// 书籍更新状态：1----连载  2----完结</span>
-            <span class="string">&quot;catName&quot;</span><span class="symbol">:</span> <span class="string">&quot;历史军事&quot;</span>, <span class="comment">// 书籍类别名称</span>
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">84643</span>,<span class="comment">// 书籍容量：字数</span>
-            <span class="string">&quot;bothType&quot;</span> <span class="symbol">:</span> <span class="reserved_word">true</span>,<span class="comment">//是否双版</span>
-        <span class="braces">}</span>, <span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">384001</span>,
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;中南海保镖成长传奇：一号特卫&quot;</span>,
-            <span class="string">&quot;summary&quot;</span><span class="symbol">:</span> <span class="string">&quot;从一个痞性十足的小青年，<span class="esc_character">\n</span>成长为震撼世界的中南海保镖&quot;</span>,
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-            <span class="string">&quot;catName&quot;</span><span class="symbol">:</span> <span class="string">&quot;玄幻奇幻&quot;</span>,
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">257189</span>,
-        <span class="braces">}</span><span class="braces">]</span>
-    <span class="braces">}</span>
-<span class="braces">}</span></pre> 
-  <h1>获取文字小说分类列表</h1> 
-  <p>url：http://server.domain/categories</p> 
-  <p>返回结果：</p> 
-  <pre><span class="braces">{</span>
-    <span class="string">&quot;status&quot;</span><span class="symbol">:</span> <span class="numeric">200</span>,
-    <span class="string">&quot;message&quot;</span><span class="symbol">:</span> <span class="string">&quot;&quot;</span>,
-    <span class="string">&quot;data&quot;</span><span class="symbol">:</span><span class="braces">[</span><span class="braces">{</span>
-        <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,             <span class="comment">// 书籍种类ID</span>
-        <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;玄幻奇幻&quot;</span>,  <span class="comment">// 书籍种类名称</span>
-        <span class="string">&quot;bookCount&quot;</span><span class="symbol">:</span> <span class="numeric">7914</span>  <span class="comment">// 书籍种类数目</span>
-    <span class="braces">}</span>, <span class="braces">{</span>
-        <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">2</span>,
-        <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;武侠仙侠&quot;</span>,
-        <span class="string">&quot;bookCount&quot;</span><span class="symbol">:</span> <span class="numeric">3456</span>
-    <span class="braces">}</span><span class="braces">]</span>
-<span class="braces">}</span></pre> 
-  <h1>根据文字小说分类获取小说列表</h1> 
-  <p>url：http://server.domain/list_bycategory/[CatId]/[PageNo]</p> 
-  <p>参数：</p> 
-  <table> 
-   <colgroup>
-    <col /> 
-    <col align="center" /> 
-    <col align="right" /> 
-   </colgroup>
-   <thead> 
-   </thead> 
-   <tbody> 
-    <tr> 
-     <td><code>int CatId</code> 文字小说的分类</td> 
-    </tr> 
-    <tr> 
-     <td><code>int PageNo</code> 需要获取书籍列表的页号</td> 
-    </tr> 
-   </tbody> 
-  </table> 
-  <p>请求示例：</p> 
-  <h3 id="http:server.domainlist_bycategory11">http://server.domain/list_bycategory/1/1</h3> 
-  <h3 id="http:server.domainlist_bycategory213">http://server.domain/list_bycategory/2/13</h3> 
-  <p>返回结果：</p> 
-  <pre><span class="braces">{</span>
-    <span class="string">&quot;status&quot;</span><span class="symbol">:</span> <span class="numeric">200</span>,
-    <span class="string">&quot;message&quot;</span><span class="symbol">:</span> <span class="string">&quot;&quot;</span>,
-    <span class="string">&quot;data&quot;</span><span class="symbol">:</span> <span class="braces">{</span>
-        <span class="string">&quot;curPageNo&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-        <span class="string">&quot;totalPageCount&quot;</span><span class="symbol">:</span> <span class="numeric">10</span>,
-        <span class="string">&quot;totalItemCount&quot;</span><span class="symbol">:</span> <span class="numeric">191</span>,
-        <span class="string">&quot;list&quot;</span><span class="symbol">:</span> <span class="braces">[</span><span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">383001</span>,<span class="comment">// 书籍ID</span>
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;仕途逍遥2：漂亮女领导&quot;</span>,       <span class="comment">// 书籍名称</span>
-            <span class="string">&quot;coverUrl&quot;</span><span class="symbol">:</span> <span class="string">&quot;http://ixiaoshuo.vincestyling.com/detail/cover/cover_45045.jpg&quot;</span>, <span class="comment">// 书籍封面图片URL</span>
-            <span class="string">&quot;summary&quot;</span><span class="symbol">:</span> <span class="string">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span>, <span class="comment">// 书籍详情</span>
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">2</span>,<span class="comment">// 书籍更新状态：1----连载  2----完结</span>
-            <span class="string">&quot;readerCount&quot;</span><span class="symbol">:</span> <span class="numeric">570</span>,  <span class="comment">// 书籍阅读人数</span>
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">84643</span>,<span class="comment">// 书籍容量：字数</span>
-            <span class="string">&quot;bothType&quot;</span> <span class="symbol">:</span> <span class="reserved_word">true</span>,<span class="comment">//是否双版</span>
-        <span class="braces">}</span>, <span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">384001</span>,
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;中南海保镖成长传奇：一号特卫&quot;</span>,
-            <span class="string">&quot;summary&quot;</span><span class="symbol">:</span> <span class="string">&quot;从一个痞性十足的小青年，<span class="esc_character">\n</span>成长为震撼世界的中南海保镖&quot;</span>,
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-            <span class="string">&quot;catName&quot;</span><span class="symbol">:</span> <span class="string">&quot;玄幻奇幻&quot;</span>,
-            <span class="string">&quot;readerCount&quot;</span><span class="symbol">:</span> <span class="numeric">11</span>,
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">257189</span>,
-        <span class="braces">}</span><span class="braces">]</span>
-    <span class="braces">}</span>
-<span class="braces">}</span></pre> 
-  <h1>获取文字书籍的书籍详情</h1> 
-  <p>url：http://server.domain/detail/[BookId]</p> 
-  <p>参数：</p> 
-  <table> 
-   <colgroup>
-    <col /> 
-    <col align="center" /> 
-    <col align="right" /> 
-   </colgroup>
-   <thead> 
-   </thead> 
-   <tbody> 
-    <tr> 
-     <td><code>int BookId</code> 书籍ID</td> 
-    </tr> 
-   </tbody> 
-  </table> 
-  <p>请求示例：</p> 
-  <h3 id="http:server.domaindetail19945">http://server.domain/detail/19945</h3> 
-  <h3 id="http:server.domaindetail94211">http://server.domain/detail/94211</h3> 
-  <p>返回结果：</p> 
-  <pre><span class="braces">{</span>
-    <span class="string">&quot;status&quot;</span><span class="symbol">:</span> <span class="numeric">200</span>,
-    <span class="string">&quot;message&quot;</span><span class="symbol">:</span> <span class="string">&quot;&quot;</span>,
-    <span class="string">&quot;data&quot;</span><span class="symbol">:</span><span class="braces">{</span>
-        <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">383001</span>, <span class="comment">// 书籍ID</span>
-        <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;仕途逍遥2：漂亮女领导&quot;</span>,       <span class="comment">// 书籍名称</span>
-        <span class="string">&quot;author&quot;</span><span class="symbol">:</span> <span class="string">&quot;常书欣&quot;</span>, <span class="comment">// 书籍的作者</span>
-        <span class="string">&quot;coverUrl&quot;</span><span class="symbol">:</span> <span class="string">&quot;http://ixiaoshuo.vincestyling.com/detail/cover/cover_45045.jpg&quot;</span>, <span class="comment">// 书籍封面图片URL</span>
-        <span class="string">&quot;summary&quot;</span><span class="symbol">:</span> <span class="string">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span>, <span class="comment">// 书籍详情</span>
-        <span class="string">&quot;lastUpdateTime&quot;</span><span class="symbol">:</span> <span class="string">&quot;2013-10-11 19:42:13&quot;</span>,  <span class="comment">// 最近一次更新时间</span>
-        <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">2</span>, <span class="comment">// 书籍更新状态：1----连载  2----完结</span>
-        <span class="string">&quot;catId&quot;</span><span class="symbol">:</span> <span class="numeric">3</span> <span class="comment">// 书籍的种类ID</span>
-        <span class="string">&quot;catName&quot;</span><span class="symbol">:</span> <span class="string">&quot;历史军事&quot;</span>, <span class="comment">// 书籍类别名称</span>
-        <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">84643</span>, <span class="comment">// 书籍容量：字数</span>
-    <span class="braces">}</span>
-<span class="braces">}</span></pre> 
-  <h1>获取文字书籍章节列表</h1> 
-  <p>url：http://server.domain/chapter/list/[BookId]/[PageNo]</p> 
-  <p>参数：</p> 
-  <table> 
-   <colgroup>
-    <col /> 
-    <col align="center" /> 
-    <col align="right" /> 
-   </colgroup>
-   <thead> 
-   </thead> 
-   <tbody> 
-    <tr> 
-     <td><code>int BookId</code> 书籍ID</td> 
-    </tr> 
-    <tr> 
-     <td><code>int PageNo</code> 列表的页号</td> 
-    </tr> 
-   </tbody> 
-  </table> 
-  <p>请求示例：</p> 
-  <h3 id="http:server.domainchapterlist1955321">http://server.domain/chapter/list/195532/1</h3> 
-  <h3 id="http:server.domainchapterlist8745172">http://server.domain/chapter/list/874517/2</h3> 
-  <p>返回结果：</p> 
-  <pre><span class="braces">{</span>
-    <span class="string">&quot;status&quot;</span><span class="symbol">:</span> <span class="numeric">200</span>,
-    <span class="string">&quot;message&quot;</span><span class="symbol">:</span> <span class="string">&quot;&quot;</span>,
-    <span class="string">&quot;data&quot;</span><span class="symbol">:</span> <span class="braces">{</span>
-        <span class="string">&quot;curPageNo&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-        <span class="string">&quot;totalPageCount&quot;</span><span class="symbol">:</span> <span class="numeric">10</span>,
-        <span class="string">&quot;totalItemCount&quot;</span><span class="symbol">:</span> <span class="numeric">191</span>,
-        <span class="string">&quot;list&quot;</span><span class="symbol">:</span> <span class="braces">[</span><span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">18282105</span>,      <span class="comment">// 章节ID</span>
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">3195</span>,    <span class="comment">// 章节容量(字数)</span>
-            <span class="string">&quot;title&quot;</span><span class="symbol">:</span> <span class="string">&quot;第一章&quot;</span>    <span class="comment">// 章节名称</span>
-        <span class="braces">}</span>, <span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">18282106</span>,
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">4210</span>,
-            <span class="string">&quot;title&quot;</span><span class="symbol">:</span> <span class="string">&quot;第二章&quot;</span>
-        <span class="braces">}</span><span class="braces">]</span>
-    <span class="braces">}</span>
-<span class="braces">}</span></pre> 
-  <h1>获取文字小说的章节内容</h1> 
-  <p>url：http://server.domain/chapter/content/[BookId]/[ChapterId]</p> 
-  <p>参数：</p> 
-  <table> 
-   <colgroup>
-    <col /> 
-    <col align="center" /> 
-    <col align="right" /> 
-   </colgroup>
-   <thead> 
-   </thead> 
-   <tbody> 
-    <tr> 
-     <td><code>int BookId</code> 书籍ID</td> 
-    </tr> 
-    <tr> 
-     <td><code>int ChapterId</code> 章节ID</td> 
-    </tr> 
-   </tbody> 
-  </table> 
-  <p>请求示例：</p> 
-  <h3 id="http:server.domainchaptercontent1947822111">http://server.domain/chapter/content/194782/2111</h3> 
-  <h3 id="http:server.domainchaptercontent1947822142">http://server.domain/chapter/content/194782/2142</h3> 
-  <p>返回结果：</p> 
-  <pre>第十七章 胡惟庸案件
+                <h1>Data Center Doc</h1>
+                <h2>ixiaoshuo阅读器的服务端接口文档</h2>
+            </div>
+            <div class="primary">
+                <div class="post-thumb">
+                    
+<h1>获取文字小说的最新书籍列表</h1>
+
+<p>url：<a href="http://server.domain/list_bynewly/%5BPageNo%5D">http://server.domain/list_bynewly/[PageNo]</a></p>
+
+<p>参数：</p>
+
+<table><thead>
+<tr>
+<th></th>
+</tr>
+</thead><tbody>
+<tr>
+<td><code>int PageNo</code> 需要获取书籍列表的页号</td>
+</tr>
+</tbody></table>
+
+<p>请求示例：</p>
+
+<h3><a href="http://server.domain/list_bynewly/1">http://server.domain/list_bynewly/1</a></h3>
+
+<h3><a href="http://server.domain/list_bynewly/12">http://server.domain/list_bynewly/12</a></h3>
+
+<p>返回结果：</p>
+<div class="highlight json"><pre><span class="p">{</span>
+    <span class="nt">&quot;status&quot;</span><span class="p">:</span> <span class="mi">200</span><span class="p">,</span>
+    <span class="nt">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;data&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nt">&quot;curPageNo&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+        <span class="nt">&quot;totalPageCount&quot;</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span>
+        <span class="nt">&quot;totalItemCount&quot;</span><span class="p">:</span> <span class="mi">191</span><span class="p">,</span>
+        <span class="nt">&quot;list&quot;</span><span class="p">:</span> <span class="p">[{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">383001</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍ID</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;仕途逍遥2：漂亮女领导&quot;</span><span class="p">,</span>       <span class="err">//</span> <span class="err">书籍名称</span>
+            <span class="nt">&quot;coverUrl&quot;</span><span class="p">:</span> <span class="s2">&quot;http://ixiaoshuo.vincestyling.com/detail/cover/cover_45045.jpg&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍封面图片URL</span>
+            <span class="nt">&quot;summary&quot;</span><span class="p">:</span> <span class="s2">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍详情</span>
+            <span class="nt">&quot;lastUpdateTime&quot;</span><span class="p">:</span> <span class="s2">&quot;2013-10-11 19:42:13&quot;</span><span class="p">,</span>  <span class="err">//</span> <span class="err">最近一次更新时间</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍更新状态：1----连载</span>  <span class="err">2----完结</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">84643</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍容量：字数</span>
+            <span class="nt">&quot;bothType&quot;</span> <span class="p">:</span> <span class="kc">true</span><span class="p">,</span><span class="err">//是否双版</span>
+        <span class="p">},</span> <span class="p">{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">384001</span><span class="p">,</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;中南海保镖成长传奇：一号特卫&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;summary&quot;</span><span class="p">:</span> <span class="s2">&quot;从一个痞性十足的小青年，\n成长为震撼世界的中南海保镖&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;lastUpdateTime&quot;</span><span class="p">:</span> <span class="s2">&quot;2013-10-11 19:48:36&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">257189</span><span class="p">,</span>
+        <span class="p">}]</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+<h1>获取文字小说的热门书籍列表</h1>
+
+<p>url：<a href="http://server.domain/list_byhottest/%5BPageNo%5D">http://server.domain/list_byhottest/[PageNo]</a></p>
+
+<p>参数：</p>
+
+<table><thead>
+<tr>
+<th></th>
+</tr>
+</thead><tbody>
+<tr>
+<td><code>int PageNo</code> 需要获取书籍列表的页号</td>
+</tr>
+</tbody></table>
+
+<p>请求示例：</p>
+
+<h3><a href="http://server.domain/list_byhottest/1">http://server.domain/list_byhottest/1</a></h3>
+
+<h3><a href="http://server.domain/list_byhottest/12">http://server.domain/list_byhottest/12</a></h3>
+
+<p>返回结果：</p>
+<div class="highlight json"><pre><span class="p">{</span>
+    <span class="nt">&quot;status&quot;</span><span class="p">:</span> <span class="mi">200</span><span class="p">,</span>
+    <span class="nt">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;data&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nt">&quot;curPageNo&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+        <span class="nt">&quot;totalPageCount&quot;</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span>
+        <span class="nt">&quot;totalItemCount&quot;</span><span class="p">:</span> <span class="mi">191</span><span class="p">,</span>
+        <span class="nt">&quot;list&quot;</span><span class="p">:</span> <span class="p">[{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">383001</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍ID</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;仕途逍遥2：漂亮女领导&quot;</span><span class="p">,</span>       <span class="err">//</span> <span class="err">书籍名称</span>
+            <span class="nt">&quot;coverUrl&quot;</span><span class="p">:</span> <span class="s2">&quot;http://ixiaoshuo.vincestyling.com/detail/cover/cover_45045.jpg&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍封面图片URL</span>
+            <span class="nt">&quot;summary&quot;</span><span class="p">:</span> <span class="s2">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍详情</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍更新状态：1----连载</span>  <span class="err">2----完结</span>
+            <span class="nt">&quot;readerCount&quot;</span><span class="p">:</span> <span class="mi">570</span><span class="p">,</span>  <span class="err">//</span> <span class="err">书籍阅读人数</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">84643</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍容量：字数</span>
+            <span class="nt">&quot;bothType&quot;</span> <span class="p">:</span> <span class="kc">true</span><span class="p">,</span><span class="err">//是否双版</span>
+        <span class="p">},</span> <span class="p">{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">384001</span><span class="p">,</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;中南海保镖成长传奇：一号特卫&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;summary&quot;</span><span class="p">:</span> <span class="s2">&quot;从一个痞性十足的小青年，\n成长为震撼世界的中南海保镖&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+            <span class="nt">&quot;readerCount&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">257189</span><span class="p">,</span>
+        <span class="p">}]</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+<h1>根据状态获取文字小说列表数据</h1>
+
+<p>url：<a href="http://server.domain/list_bystatus/%5BUpdateStatus%5D/%5BPageNo%5D">http://server.domain/list_bystatus/[UpdateStatus]/[PageNo]</a></p>
+
+<p>参数：</p>
+
+<table><thead>
+<tr>
+<th></th>
+</tr>
+</thead><tbody>
+<tr>
+<td><code>int UpdateStatus</code> 书籍状态（1----连载   2----完结）</td>
+</tr>
+<tr>
+<td><code>int PageNo</code> 需要获取书籍列表的页号</td>
+</tr>
+</tbody></table>
+
+<p>请求示例：</p>
+
+<h3><a href="http://server.domain/list_bystatus/1/1%EF%BC%9A%E8%BF%9E%E8%BD%BD%E4%B9%A6%E7%B1%8D%E5%88%97%E8%A1%A8%E7%AC%AC%E4%B8%80%E9%A1%B5">http://server.domain/list_bystatus/1/1：连载书籍列表第一页</a></h3>
+
+<h3><a href="http://server.domain/list_bystatus/2/13%EF%BC%9A%E5%AE%8C%E7%BB%93%E4%B9%A6%E7%B1%8D%E5%88%97%E8%A1%A8%E7%AC%AC%E5%8D%81%E4%B8%89%E9%A1%B5">http://server.domain/list_bystatus/2/13：完结书籍列表第十三页</a></h3>
+
+<p>返回结果：</p>
+<div class="highlight json"><pre><span class="p">{</span>
+    <span class="nt">&quot;status&quot;</span><span class="p">:</span> <span class="mi">200</span><span class="p">,</span>
+    <span class="nt">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;data&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nt">&quot;curPageNo&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+        <span class="nt">&quot;totalPageCount&quot;</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span>
+        <span class="nt">&quot;totalItemCount&quot;</span><span class="p">:</span> <span class="mi">191</span><span class="p">,</span>
+        <span class="nt">&quot;list&quot;</span><span class="p">:</span> <span class="p">[{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">383001</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍ID</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;仕途逍遥2：漂亮女领导&quot;</span><span class="p">,</span>       <span class="err">//</span> <span class="err">书籍名称</span>
+            <span class="nt">&quot;coverUrl&quot;</span><span class="p">:</span> <span class="s2">&quot;http://ixiaoshuo.vincestyling.com/detail/cover/cover_45045.jpg&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍封面图片URL</span>
+            <span class="nt">&quot;summary&quot;</span><span class="p">:</span> <span class="s2">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍详情</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍更新状态：1----连载</span>  <span class="err">2----完结</span>
+            <span class="nt">&quot;catName&quot;</span><span class="p">:</span> <span class="s2">&quot;历史军事&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍类别名称</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">84643</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍容量：字数</span>
+            <span class="nt">&quot;bothType&quot;</span> <span class="p">:</span> <span class="kc">true</span><span class="p">,</span><span class="err">//是否双版</span>
+        <span class="p">},</span> <span class="p">{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">384001</span><span class="p">,</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;中南海保镖成长传奇：一号特卫&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;summary&quot;</span><span class="p">:</span> <span class="s2">&quot;从一个痞性十足的小青年，\n成长为震撼世界的中南海保镖&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+            <span class="nt">&quot;catName&quot;</span><span class="p">:</span> <span class="s2">&quot;玄幻奇幻&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">257189</span><span class="p">,</span>
+        <span class="p">}]</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+<h1>获取文字小说分类列表</h1>
+
+<p>url：<a href="http://server.domain/categories">http://server.domain/categories</a></p>
+
+<p>返回结果：</p>
+<div class="highlight json"><pre><span class="p">{</span>
+    <span class="nt">&quot;status&quot;</span><span class="p">:</span> <span class="mi">200</span><span class="p">,</span>
+    <span class="nt">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;data&quot;</span><span class="p">:[{</span>
+        <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>            <span class="err">//</span> <span class="err">书籍种类ID</span>
+        <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;玄幻奇幻&quot;</span><span class="p">,</span>  <span class="err">//</span> <span class="err">书籍种类名称</span>
+        <span class="nt">&quot;bookCount&quot;</span><span class="p">:</span> <span class="mi">7914</span>  <span class="err">//</span> <span class="err">书籍种类数目</span>
+    <span class="p">},</span> <span class="p">{</span>
+        <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+        <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;武侠仙侠&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;bookCount&quot;</span><span class="p">:</span> <span class="mi">3456</span>
+    <span class="p">}]</span>
+<span class="p">}</span>
+</pre></div>
+<h1>根据文字小说分类获取小说列表</h1>
+
+<p>url：<a href="http://server.domain/list_bycategory/%5BCatId%5D/%5BPageNo%5D">http://server.domain/list_bycategory/[CatId]/[PageNo]</a></p>
+
+<p>参数：</p>
+
+<table><thead>
+<tr>
+<th></th>
+</tr>
+</thead><tbody>
+<tr>
+<td><code>int CatId</code> 文字小说的分类</td>
+</tr>
+<tr>
+<td><code>int PageNo</code> 需要获取书籍列表的页号</td>
+</tr>
+</tbody></table>
+
+<p>请求示例：</p>
+
+<h3><a href="http://server.domain/list_bycategory/1/1">http://server.domain/list_bycategory/1/1</a></h3>
+
+<h3><a href="http://server.domain/list_bycategory/2/13">http://server.domain/list_bycategory/2/13</a></h3>
+
+<p>返回结果：</p>
+<div class="highlight json"><pre><span class="p">{</span>
+    <span class="nt">&quot;status&quot;</span><span class="p">:</span> <span class="mi">200</span><span class="p">,</span>
+    <span class="nt">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;data&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nt">&quot;curPageNo&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+        <span class="nt">&quot;totalPageCount&quot;</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span>
+        <span class="nt">&quot;totalItemCount&quot;</span><span class="p">:</span> <span class="mi">191</span><span class="p">,</span>
+        <span class="nt">&quot;list&quot;</span><span class="p">:</span> <span class="p">[{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">383001</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍ID</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;仕途逍遥2：漂亮女领导&quot;</span><span class="p">,</span>       <span class="err">//</span> <span class="err">书籍名称</span>
+            <span class="nt">&quot;coverUrl&quot;</span><span class="p">:</span> <span class="s2">&quot;http://ixiaoshuo.vincestyling.com/detail/cover/cover_45045.jpg&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍封面图片URL</span>
+            <span class="nt">&quot;summary&quot;</span><span class="p">:</span> <span class="s2">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍详情</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍更新状态：1----连载</span>  <span class="err">2----完结</span>
+            <span class="nt">&quot;readerCount&quot;</span><span class="p">:</span> <span class="mi">570</span><span class="p">,</span>  <span class="err">//</span> <span class="err">书籍阅读人数</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">84643</span><span class="p">,</span><span class="err">//</span> <span class="err">书籍容量：字数</span>
+            <span class="nt">&quot;bothType&quot;</span> <span class="p">:</span> <span class="kc">true</span><span class="p">,</span><span class="err">//是否双版</span>
+        <span class="p">},</span> <span class="p">{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">384001</span><span class="p">,</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;中南海保镖成长传奇：一号特卫&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;summary&quot;</span><span class="p">:</span> <span class="s2">&quot;从一个痞性十足的小青年，\n成长为震撼世界的中南海保镖&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+            <span class="nt">&quot;catName&quot;</span><span class="p">:</span> <span class="s2">&quot;玄幻奇幻&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;readerCount&quot;</span><span class="p">:</span> <span class="mi">11</span><span class="p">,</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">257189</span><span class="p">,</span>
+        <span class="p">}]</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+<h1>获取文字书籍的书籍详情</h1>
+
+<p>url：<a href="http://server.domain/detail/%5BBookId%5D">http://server.domain/detail/[BookId]</a></p>
+
+<p>参数：</p>
+
+<table><thead>
+<tr>
+<th></th>
+</tr>
+</thead><tbody>
+<tr>
+<td><code>int BookId</code> 书籍ID</td>
+</tr>
+</tbody></table>
+
+<p>请求示例：</p>
+
+<h3><a href="http://server.domain/detail/19945">http://server.domain/detail/19945</a></h3>
+
+<h3><a href="http://server.domain/detail/94211">http://server.domain/detail/94211</a></h3>
+
+<p>返回结果：</p>
+<div class="highlight json"><pre><span class="p">{</span>
+    <span class="nt">&quot;status&quot;</span><span class="p">:</span> <span class="mi">200</span><span class="p">,</span>
+    <span class="nt">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;data&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">383001</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍ID</span>
+        <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;仕途逍遥2：漂亮女领导&quot;</span><span class="p">,</span>       <span class="err">//</span> <span class="err">书籍名称</span>
+        <span class="nt">&quot;author&quot;</span><span class="p">:</span> <span class="s2">&quot;常书欣&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍的作者</span>
+        <span class="nt">&quot;coverUrl&quot;</span><span class="p">:</span> <span class="s2">&quot;http://ixiaoshuo.vincestyling.com/detail/cover/cover_45045.jpg&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍封面图片URL</span>
+        <span class="nt">&quot;summary&quot;</span><span class="p">:</span> <span class="s2">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍详情</span>
+        <span class="nt">&quot;lastUpdateTime&quot;</span><span class="p">:</span> <span class="s2">&quot;2013-10-11 19:42:13&quot;</span><span class="p">,</span>  <span class="err">//</span> <span class="err">最近一次更新时间</span>
+        <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍更新状态：1----连载</span>  <span class="err">2----完结</span>
+        <span class="nt">&quot;catId&quot;</span><span class="p">:</span> <span class="mi">3</span> <span class="err">//</span> <span class="err">书籍的种类ID</span>
+        <span class="s2">&quot;catName&quot;</span><span class="p">:</span> <span class="s2">&quot;历史军事&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍类别名称</span>
+        <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">84643</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍容量：字数</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+<h1>获取文字书籍章节列表</h1>
+
+<p>url：<a href="http://server.domain/chapter/list/%5BBookId%5D/%5BPageNo%5D">http://server.domain/chapter/list/[BookId]/[PageNo]</a></p>
+
+<p>参数：</p>
+
+<table><thead>
+<tr>
+<th></th>
+</tr>
+</thead><tbody>
+<tr>
+<td><code>int BookId</code> 书籍ID</td>
+</tr>
+<tr>
+<td><code>int PageNo</code> 列表的页号</td>
+</tr>
+</tbody></table>
+
+<p>请求示例：</p>
+
+<h3><a href="http://server.domain/chapter/list/195532/1">http://server.domain/chapter/list/195532/1</a></h3>
+
+<h3><a href="http://server.domain/chapter/list/874517/2">http://server.domain/chapter/list/874517/2</a></h3>
+
+<p>返回结果：</p>
+<div class="highlight json"><pre><span class="p">{</span>
+    <span class="nt">&quot;status&quot;</span><span class="p">:</span> <span class="mi">200</span><span class="p">,</span>
+    <span class="nt">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;data&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nt">&quot;curPageNo&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+        <span class="nt">&quot;totalPageCount&quot;</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span>
+        <span class="nt">&quot;totalItemCount&quot;</span><span class="p">:</span> <span class="mi">191</span><span class="p">,</span>
+        <span class="nt">&quot;list&quot;</span><span class="p">:</span> <span class="p">[{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">18282105</span><span class="p">,</span>      <span class="err">//</span> <span class="err">章节ID</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">3195</span><span class="p">,</span>    <span class="err">//</span> <span class="err">章节容量(字数)</span>
+            <span class="nt">&quot;title&quot;</span><span class="p">:</span> <span class="s2">&quot;第一章&quot;</span>     <span class="err">//</span> <span class="err">章节名称</span>
+        <span class="p">},</span> <span class="p">{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">18282106</span><span class="p">,</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">4210</span><span class="p">,</span>
+            <span class="nt">&quot;title&quot;</span><span class="p">:</span> <span class="s2">&quot;第二章&quot;</span>
+        <span class="p">}]</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+<h1>获取文字小说的章节内容</h1>
+
+<p>url：<a href="http://server.domain/chapter/content/%5BBookId%5D/%5BChapterId%5D">http://server.domain/chapter/content/[BookId]/[ChapterId]</a></p>
+
+<p>参数：</p>
+
+<table><thead>
+<tr>
+<th></th>
+</tr>
+</thead><tbody>
+<tr>
+<td><code>int BookId</code> 书籍ID</td>
+</tr>
+<tr>
+<td><code>int ChapterId</code> 章节ID</td>
+</tr>
+</tbody></table>
+
+<p>请求示例：</p>
+
+<h3><a href="http://server.domain/chapter/content/194782/2111">http://server.domain/chapter/content/194782/2111</a></h3>
+
+<h3><a href="http://server.domain/chapter/content/194782/2142">http://server.domain/chapter/content/194782/2142</a></h3>
+
+<p>返回结果：</p>
+<div class="highlight text"><pre>第十七章 胡惟庸案件
 
 胡惟庸胜利了，他在朱元璋的帮助下打败了浙东集团，除掉了天下第一谋士刘基，现在他大权在握，李善长也要给他几分面子。
 但他真的是最后的胜利者吗？
 他并不明白自己胜利的真正原因，不是他比刘基更强，而是因为朱元璋站在他的一边。朱元璋对于两大集团的斗争情况是很清楚的，他之所以没有出来调解，是因为无论这场斗争谁胜谁负，最后的胜利者都是他。无论是姓胡的地主胜利还是姓刘的地主胜利，只要保证朱地主的最高地位就行了。
 朱元璋之所以选择胡惟庸，并不是因为他很强，相反，正是因为胡惟庸对朱元璋的威胁小，所以朱元璋才让胡惟庸成为了胜利者。而愚蠢的胡惟庸并不了解这一点。
 于是，在打垮刘基后，胡惟庸越发猖狂，他贪污受贿，排挤任何不服从他的人，甚至敢于挑战朱元璋的权力，私自截留下属的奏章，官员升降，处决犯人，都不经过朱元璋的批准。
-洪武六年（<span class="numeric">1373</span>），胡惟庸挤走了另一个丞相汪广洋，独揽丞相大权，并掌权七年之久。
+洪武六年（1373），胡惟庸挤走了另一个丞相汪广洋，独揽丞相大权，并掌权七年之久。
 但让人费解的是，朱元璋却对胡惟庸的犯上行为无任何表示，这是很不寻常的。
 朱元璋是一个权力欲望极强的人，他自血火之中奋战而出，是那个时代最杰出的人才，李善长仅仅是稍微独断专行了些，就被他勒令退休，胡惟庸何许人也？即无军功，也无政绩，居然敢如此放肆！
 这就实在让人不解了，很多的历史资料上记载了种种胡惟庸不法及朱元璋置之不理的故事，并由此推断出胡惟庸罪有应得，朱元璋正当防卫的结论。
 当我们揭开事实的表象，分析其中的本质时，就会发现大有文章。
 历史上著名的郑庄公，一直不为其母亲所喜爱，他的弟弟也仗着母亲的溺爱，向他提出种种不合理的要求，而郑庄公总是满足他，直到最后，他的弟弟企图谋反，郑庄公才出兵灭掉了他的弟弟。
-后人往往以为郑庄公仁至义尽，传为美谈，可是也有人指出，郑庄公是真正的伪君子，是想要他弟弟的命，才纵容他的不法。</pre> 
-  <h1>获取搜索热词</h1> 
-  <p>url：http://server.domain/hot_keywords</p> 
-  <p>返回结果：</p> 
-  <pre><span class="braces">{</span>
-    <span class="string">&quot;status&quot;</span><span class="symbol">:</span> <span class="numeric">200</span>,
-    <span class="string">&quot;message&quot;</span><span class="symbol">:</span> <span class="string">&quot;&quot;</span>,
-    <span class="string">&quot;data&quot;</span><span class="symbol">:</span><span class="braces">{</span>
-        <span class="string">&quot;keywords&quot;</span><span class="symbol">:</span> <span class="string">&quot;异界,网游,天才,穿越,全能,校园&quot;</span>
-    <span class="braces">}</span>
-<span class="braces">}</span></pre> 
-  <h1>通过关键词搜索书籍</h1> 
-  <p>url：http://server.domain/search/[Keyword]/[PageNo]</p> 
-  <p>参数：</p> 
-  <table> 
-   <colgroup>
-    <col /> 
-    <col align="center" /> 
-    <col align="right" /> 
-   </colgroup>
-   <thead> 
-   </thead> 
-   <tbody> 
-    <tr> 
-     <td><code>String Keyword</code> 关键字，UTF8 url encoded string</td> 
-    </tr> 
-    <tr> 
-     <td><code>int PageNo</code> 列表的页号</td> 
-    </tr> 
-   </tbody> 
-  </table> 
-  <p>请求示例：</p> 
-  <h3 id="http:server.domainsearche6a0a1e59bad1">http://server.domain/search/%E6%A0%A1%E5%9B%AD/1 ： 搜索“校园”关键词</h3> 
-  <h3 id="http:server.domainsearche58e86e58fb22">http://server.domain/search/%E5%8E%86%E5%8F%B2/2 ： 搜索“历史”关键词</h3> 
-  <p>返回结果：</p> 
-  <pre><span class="braces">{</span>
-    <span class="string">&quot;status&quot;</span><span class="symbol">:</span> <span class="numeric">200</span>,
-    <span class="string">&quot;message&quot;</span><span class="symbol">:</span> <span class="string">&quot;&quot;</span>,
-    <span class="string">&quot;data&quot;</span><span class="symbol">:</span>
-        <span class="string">&quot;curPageNo&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-        <span class="string">&quot;totalPageCount&quot;</span><span class="symbol">:</span> <span class="numeric">10</span>,
-        <span class="string">&quot;totalItemCount&quot;</span><span class="symbol">:</span> <span class="numeric">191</span>,
-        <span class="string">&quot;list&quot;</span><span class="symbol">:</span> <span class="braces">[</span><span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">383001</span>, <span class="comment">// 书籍ID</span>
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;仕途逍遥2：漂亮女领导&quot;</span>,       <span class="comment">// 书籍名称</span>
-            <span class="string">&quot;author&quot;</span><span class="symbol">:</span> <span class="string">&quot;常书欣&quot;</span>, <span class="comment">// 书籍的作者</span>
-            <span class="string">&quot;summary&quot;</span><span class="symbol">:</span> <span class="string">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span>, <span class="comment">// 书籍详情</span>
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">2</span>, <span class="comment">// 书籍更新状态：1----连载  2----完结</span>
-            <span class="string">&quot;catName&quot;</span><span class="symbol">:</span> <span class="string">&quot;历史军事&quot;</span>, <span class="comment">// 书籍类别名称</span>
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">84643</span>, <span class="comment">// 书籍容量：字数</span>
-            <span class="string">&quot;bothType&quot;</span> <span class="symbol">:</span> <span class="reserved_word">true</span>,<span class="comment">//是否双版</span>
-        <span class="braces">}</span>, <span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">384001</span>,
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;中南海保镖成长传奇：一号特卫&quot;</span>,
-            <span class="string">&quot;author&quot;</span><span class="symbol">:</span> <span class="string">&quot;曾经一梦&quot;</span>,
-            <span class="string">&quot;summary&quot;</span><span class="symbol">:</span> <span class="string">&quot;从一个痞性十足的小青年，<span class="esc_character">\n</span>成长为震撼世界的中南海保镖&quot;</span>,
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-            <span class="string">&quot;catName&quot;</span><span class="symbol">:</span> <span class="string">&quot;玄幻奇幻&quot;</span>,
-            <span class="string">&quot;capacity&quot;</span><span class="symbol">:</span> <span class="numeric">257189</span>,
-        <span class="braces">}</span><span class="braces">]</span>
-<span class="braces">}</span></pre> 
-  <h1>雷达扫描接口</h1> 
-  <p>url：http://server.domain/list_bylocation/[PageNo]</p> 
-  <table> 
-   <colgroup>
-    <col /> 
-    <col align="center" /> 
-    <col align="right" /> 
-   </colgroup>
-   <thead> 
-   </thead> 
-   <tbody> 
-    <tr> 
-     <td><code>int PageNo</code> 列表的页号</td> 
-    </tr> 
-   </tbody> 
-  </table> 
-  <p>请求示例：</p> 
-  <h3 id="http:server.domainlist_bylocation1">http://server.domain/list_bylocation/1</h3> 
-  <h3 id="http:server.domainlist_bylocation2">http://server.domain/list_bylocation/2</h3> 
-  <p>返回结果：</p> 
-  <pre><span class="braces">{</span>
-    <span class="string">&quot;status&quot;</span><span class="symbol">:</span> <span class="numeric">200</span>,
-    <span class="string">&quot;message&quot;</span><span class="symbol">:</span> <span class="string">&quot;&quot;</span>,
-    <span class="string">&quot;data&quot;</span><span class="symbol">:</span>
-        <span class="string">&quot;curPageNo&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-        <span class="string">&quot;totalPageCount&quot;</span><span class="symbol">:</span> <span class="numeric">10</span>,
-        <span class="string">&quot;totalItemCount&quot;</span><span class="symbol">:</span> <span class="numeric">191</span>,
-        <span class="string">&quot;list&quot;</span><span class="symbol">:</span> <span class="braces">[</span><span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">383001</span>, <span class="comment">// 书籍ID</span>
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;仕途逍遥2：漂亮女领导&quot;</span>,       <span class="comment">// 书籍名称</span>
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">2</span>, <span class="comment">// 书籍更新状态：1----连载  2----完结</span>
-            <span class="string">&quot;distance&quot;</span><span class="symbol">:</span> <span class="numeric">300</span>,      <span class="comment">// 距离(单位：米)</span>
-            <span class="string">&quot;memberId&quot;</span><span class="symbol">:</span> <span class="numeric">2058</span>,    <span class="comment">// 用户成员ID</span>
-        <span class="braces">}</span>, <span class="braces">{</span>
-            <span class="string">&quot;id&quot;</span><span class="symbol">:</span> <span class="numeric">384001</span>,
-            <span class="string">&quot;name&quot;</span><span class="symbol">:</span> <span class="string">&quot;中南海保镖成长传奇：一号特卫&quot;</span>,
-            <span class="string">&quot;updateStatus&quot;</span><span class="symbol">:</span> <span class="numeric">1</span>,
-            <span class="string">&quot;distance&quot;</span><span class="symbol">:</span> <span class="numeric">300</span>,
-            <span class="string">&quot;memberId&quot;</span><span class="symbol">:</span> <span class="numeric">2058</span>,
-        <span class="braces">}</span><span class="braces">]</span>
-<span class="braces">}</span></pre> 
- </body>
-</html>
-    </div>
-</div>
+后人往往以为郑庄公仁至义尽，传为美谈，可是也有人指出，郑庄公是真正的伪君子，是想要他弟弟的命，才纵容他的不法。
+</pre></div>
+<h1>获取搜索热词</h1>
+
+<p>url：<a href="http://server.domain/hot_keywords">http://server.domain/hot_keywords</a></p>
+
+<p>返回结果：</p>
+<div class="highlight json"><pre><span class="p">{</span>
+    <span class="nt">&quot;status&quot;</span><span class="p">:</span> <span class="mi">200</span><span class="p">,</span>
+    <span class="nt">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;data&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;keywords&quot;</span><span class="p">:</span> <span class="s2">&quot;异界,网游,天才,穿越,全能,校园&quot;</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+<h1>通过关键词搜索书籍</h1>
+
+<p>url：<a href="http://server.domain/search/%5BKeyword%5D/%5BPageNo%5D">http://server.domain/search/[Keyword]/[PageNo]</a></p>
+
+<p>参数：</p>
+
+<table><thead>
+<tr>
+<th></th>
+</tr>
+</thead><tbody>
+<tr>
+<td><code>String Keyword</code> 关键字，UTF8 url encoded string</td>
+</tr>
+<tr>
+<td><code>int PageNo</code> 列表的页号</td>
+</tr>
+</tbody></table>
+
+<p>请求示例：</p>
+
+<h3><a href="http://server.domain/search/%E6%A0%A1%E5%9B%AD/1">http://server.domain/search/%E6%A0%A1%E5%9B%AD/1</a> ： 搜索“校园”关键词</h3>
+
+<h3><a href="http://server.domain/search/%E5%8E%86%E5%8F%B2/2">http://server.domain/search/%E5%8E%86%E5%8F%B2/2</a> ： 搜索“历史”关键词</h3>
+
+<p>返回结果：</p>
+<div class="highlight json"><pre><span class="p">{</span>
+    <span class="nt">&quot;status&quot;</span><span class="p">:</span> <span class="mi">200</span><span class="p">,</span>
+    <span class="nt">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;data&quot;</span><span class="p">:</span>
+        <span class="s2">&quot;curPageNo&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+        <span class="nt">&quot;totalPageCount&quot;</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span>
+        <span class="nt">&quot;totalItemCount&quot;</span><span class="p">:</span> <span class="mi">191</span><span class="p">,</span>
+        <span class="nt">&quot;list&quot;</span><span class="p">:</span> <span class="p">[{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">383001</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍ID</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;仕途逍遥2：漂亮女领导&quot;</span><span class="p">,</span>       <span class="err">//</span> <span class="err">书籍名称</span>
+            <span class="nt">&quot;author&quot;</span><span class="p">:</span> <span class="s2">&quot;常书欣&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍的作者</span>
+            <span class="nt">&quot;summary&quot;</span><span class="p">:</span> <span class="s2">&quot;面临绝境的萧混澹，在上级同级下级诸多的围攻之下，他......&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍详情</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍更新状态：1----连载</span>  <span class="err">2----完结</span>
+            <span class="nt">&quot;catName&quot;</span><span class="p">:</span> <span class="s2">&quot;历史军事&quot;</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍类别名称</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">84643</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍容量：字数</span>
+            <span class="nt">&quot;bothType&quot;</span> <span class="p">:</span> <span class="kc">true</span><span class="p">,</span><span class="err">//是否双版</span>
+        <span class="p">},</span> <span class="p">{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">384001</span><span class="p">,</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;中南海保镖成长传奇：一号特卫&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;author&quot;</span><span class="p">:</span> <span class="s2">&quot;曾经一梦&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;summary&quot;</span><span class="p">:</span> <span class="s2">&quot;从一个痞性十足的小青年，\n成长为震撼世界的中南海保镖&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+            <span class="nt">&quot;catName&quot;</span><span class="p">:</span> <span class="s2">&quot;玄幻奇幻&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;capacity&quot;</span><span class="p">:</span> <span class="mi">257189</span><span class="p">,</span>
+        <span class="p">}]</span>
+<span class="p">}</span>
+</pre></div>
+<h1>雷达扫描接口</h1>
+
+<p>url：<a href="http://server.domain/list_bylocation/%5BPageNo%5D">http://server.domain/list_bylocation/[PageNo]</a></p>
+
+<table><thead>
+<tr>
+<th></th>
+</tr>
+</thead><tbody>
+<tr>
+<td><code>int PageNo</code> 列表的页号</td>
+</tr>
+</tbody></table>
+
+<p>请求示例：</p>
+
+<h3><a href="http://server.domain/list_bylocation/1">http://server.domain/list_bylocation/1</a></h3>
+
+<h3><a href="http://server.domain/list_bylocation/2">http://server.domain/list_bylocation/2</a></h3>
+
+<p>返回结果：</p>
+<div class="highlight json"><pre><span class="p">{</span>
+    <span class="nt">&quot;status&quot;</span><span class="p">:</span> <span class="mi">200</span><span class="p">,</span>
+    <span class="nt">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;data&quot;</span><span class="p">:</span>
+        <span class="s2">&quot;curPageNo&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+        <span class="nt">&quot;totalPageCount&quot;</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span>
+        <span class="nt">&quot;totalItemCount&quot;</span><span class="p">:</span> <span class="mi">191</span><span class="p">,</span>
+        <span class="nt">&quot;list&quot;</span><span class="p">:</span> <span class="p">[{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">383001</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍ID</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;仕途逍遥2：漂亮女领导&quot;</span><span class="p">,</span>       <span class="err">//</span> <span class="err">书籍名称</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span> <span class="err">//</span> <span class="err">书籍更新状态：1----连载</span>  <span class="err">2----完结</span>
+            <span class="nt">&quot;distance&quot;</span><span class="p">:</span> <span class="mi">300</span><span class="p">,</span>      <span class="err">//</span> <span class="err">距离(单位：米)</span>
+            <span class="nt">&quot;memberId&quot;</span><span class="p">:</span> <span class="mi">2058</span><span class="p">,</span>    <span class="err">//</span> <span class="err">用户成员ID</span>
+        <span class="p">},</span> <span class="p">{</span>
+            <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">384001</span><span class="p">,</span>
+            <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;中南海保镖成长传奇：一号特卫&quot;</span><span class="p">,</span>
+            <span class="nt">&quot;updateStatus&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+            <span class="nt">&quot;distance&quot;</span><span class="p">:</span> <span class="mi">300</span><span class="p">,</span>
+            <span class="nt">&quot;memberId&quot;</span><span class="p">:</span> <span class="mi">2058</span><span class="p">,</span>
+        <span class="p">}]</span>
+<span class="p">}</span>
+</pre></div>
+                </div>
+            </div>
         </div>
     </div>
     <div class="footer">
-        All pages are generated by <a href="https://github.com/neevek/minerl">Minerl</a>
+        This site was generated by <a href="http://khaleesi.vincestyling.com/">Khaleesi</a>, hosted by <a href="https://pages.github.com/">Github Pages</a>
     </div>
 </body>
 </html>
