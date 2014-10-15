@@ -8,203 +8,183 @@
     "list" : [ {
       "id" : 3286,
       "name" : "倾心已久，狼崽吼吼",
-      "author" : "MOMO无晓",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41636.jpg",
       "summary" : "薇薇安曾在家里养了只狼崽子，狼崽子总有天要长大吧，萌生这个想法后，薇薇安女王一脚把人踹出去。谁晓得狼",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 709556,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3073,
       "name" : "飞禽走兽除魔记",
-      "author" : "笑月颜",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41342.jpg",
       "summary" : "凤凰遇到了狐狸，在一起除魔，后来就“穿越”了？狐狸成睡美人了，等着他的凤凰公主唤醒他，凤凰在唤醒狐狸",
       "updateStatus" : 1,
-      "catName" : "灵异悬疑",
       "capacity" : 376525,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "灵异悬疑",
+      "bothType" : false
     }, {
       "id" : 3382,
       "name" : "三大明星公主的桃花劫",
-      "author" : "21克拉",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45206.jpg",
       "summary" : "从小惨遭她人冒充，有着残忍不堪的回忆，眼睁睁看着自己家族归为他人带领。与三少误会升级！男主背叛与冒牌",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 831599,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3628,
       "name" : "有凤求凰",
-      "author" : "慕玄子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44206.jpg",
       "summary" : "被告白，结果被穿越，作为一名公主，被人甩了，不好好呆在宫里等着被嫁出去，偏要到外面看什么热闹，还好坏",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 860848,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3404,
       "name" : "妖魅公主爱上邪魅王子",
-      "author" : "袁小猫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42181.jpg",
       "summary" : "前世的爱，是今世她们和他们相遇的原因。圣尊学院是她们和他们相遇的起点，在这里，（她）他们是六大家族的",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 374593,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2049,
       "name" : "红尘之弃妃觅爱",
-      "author" : "旧城已空",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46114.jpg",
       "summary" : "简单就如白纸，复杂不过人心。若白纸其实是宣纸，被墨水一滴，黑色立刻迷漫就好像被利益蒙了心，那便什么都",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 5853453,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2322,
       "name" : "异世至尊红颜",
-      "author" : "发如雪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20365.jpg",
       "summary" : "一个穿越异世的落魄公主，一句临死前的诺言，一本鬼影十三式，一段毒咒引发的复仇，引来无数血雨风波。弱肉",
       "updateStatus" : 1,
-      "catName" : "穿越异界",
       "capacity" : 7099514,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2996,
       "name" : "不懂，就别说出口",
-      "author" : "童槿",
+      "coverUrl" : "",
       "summary" : "她，陆梓萱，一个豪门公主，却因父母关系而变成寄人篱下的灰姑娘，从8岁起，她就懂得痛苦无助的滋味。只有",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 2340794,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2488,
       "name" : "奇灵公主",
-      "author" : "査雅馨",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_11479.jpg",
       "summary" : "仙术，仙友，仙情，你想拥有哪一样？抑或是，你不想失去哪一样？答案是能够选择的吗？对于杳一，答案是无法",
       "updateStatus" : 2,
-      "catName" : "玄幻奇幻",
       "capacity" : 2183420,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 3269,
       "name" : "时空之泪鸢尾花",
-      "author" : "空桐砂",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42538.jpg",
       "summary" : "她听到这里觉得好幸福，好难过；胸口明明是满满的幸福，金蓝色眼泪却不停地往下掉，像天空的眼泪在阳光下闪",
       "updateStatus" : 1,
-      "catName" : "穿越异界",
       "capacity" : 162212,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3366,
       "name" : "绝色江湖",
-      "author" : "北晴莞",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41349.jpg",
       "summary" : "“诶，你听说了吗？”“怎么？”“出大事啦！”“大事？”若有一日，最乖巧的希嫆九公主离宫逃婚去了。若有",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 376401,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3329,
       "name" : "引玉石的花儿",
-      "author" : "玉仨儿平",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18867.jpg",
       "summary" : "李大婶：哟，她脖子上戴的是什么石头啊？王大妈：引玉石你没听说过吗？不是石头，是玉，是玉！李大婶：她不",
       "updateStatus" : 1,
-      "catName" : "穿越异界",
       "capacity" : 563757,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3063,
       "name" : "不负相思意",
-      "author" : "吕香藤",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47173.jpg",
       "summary" : "梵意一直以为无论什么都阻挡不了她的爱情。可是，当有一天，她不再是高高在上的公主，不再享受众星捧月般的",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 223368,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3571,
       "name" : "小小侍女的灿烂时光",
-      "author" : "初末",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47437.jpg",
       "summary" : "麻雀变凤凰的过程也可以很简单，比如王宫里的两位当家主子争吵着......争吵着......就替她吵出",
       "updateStatus" : 1,
-      "catName" : "历史架空",
       "capacity" : 146617,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : true
     }, {
       "id" : 3224,
       "name" : "快乐公主流浪记",
-      "author" : "维扬之水",
+      "coverUrl" : "",
       "summary" : "快乐公主学本领，智斗老巫婆",
       "updateStatus" : 1,
-      "catName" : "玄幻奇幻",
       "capacity" : 360493,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3547,
       "name" : "寡仁寡义传",
-      "author" : "南石西醒",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43547.jpg",
       "summary" : "一个助人逃婚，亡命天涯——寡义；一个出师不利，虎落平阳——寡仁。一朝王爷与属国公主相见有几种可能的情",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 503432,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3205,
       "name" : "当冷公主遇上甜心少",
-      "author" : "mxq45058",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44723.jpg",
       "summary" : "自我介绍？哦、我叫风云澈，没了。还是这么冷漠、算了算了，允替你说，风云澈，圣彼特SA排行榜榜首，17",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 313488,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3705,
       "name" : "管家系类：管家大人是女生！",
-      "author" : "夏月希",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_2358.jpg",
       "summary" : "守护者与被守护的拼死争夺，谁才是最后赢家。骑士与王子只是童话故事的幻想角色，还是现实世界中我们的真实",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 102652,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3394,
       "name" : "混混少爷的小气公主",
-      "author" : "vin陌言。",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18240.jpg",
       "summary" : "一个带着仇恨的女生（蛮小弃），爱上了玩世不恭的混混少爷（韩智宇），展开一段有欢笑，有痛楚的恋情与小弃",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 48924,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3627,
       "name" : "调皮公主的霸气王子",
-      "author" : "童话中的梦幻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46449.jpg",
       "summary" : "【见面时】他在她的耳旁说：“猪头女，我季雨泽永远都不会爱上你。”她满脸通红的对着他吼：“就算全世界只",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 78969,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : true
     } ]
   }
 }

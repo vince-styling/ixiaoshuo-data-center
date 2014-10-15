@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 12,
+    "totalItemCount" : 240,
+    "list" : [ {
+      "id" : 2563,
+      "name" : "妖妻毒后",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41989.jpg",
+      "summary" : "死神镰刀在慕容世家悄然而现，年轻的王子弑帝成君，第一件事，便是令天下再无慕容姓。她身处凤仪宫，尊贵无",
+      "updateStatus" : 1,
+      "capacity" : 3056313,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 3236,
+      "name" : "九尾女皇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_8721.jpg",
+      "summary" : "一个小小腐宅画手，不幸从床跌落，一朝穿越女儿国。五年居然都不长个！什么？还是个半妖！生生死死，死死生",
+      "updateStatus" : 1,
+      "capacity" : 1420409,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2850,
+      "name" : "妃常有鲤",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46593.jpg",
+      "summary" : "你看到的不是穿越也不是古言，更与修仙神马的没有关系，这只是一部轻松的都市校园剧而已~~~陆贤妃一直无",
+      "updateStatus" : 1,
+      "capacity" : 8816273,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2827,
+      "name" : "时光里的秘密",
+      "coverUrl" : "",
+      "summary" : "时光与时光的距离，是秘密？还是不可逾越的鸿沟？他与她上演的“年代恋”是穿越抑或只是被时光掩藏的秘密？",
+      "updateStatus" : 1,
+      "capacity" : 8675214,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2622,
+      "name" : "恋上拽宫主",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21129.jpg",
+      "summary" : "一场穿越她来到某个神秘时空，命运却一步步将她推入四国战争中，在权利与宏图霸业中她一次次被无情的伤害着",
+      "updateStatus" : 1,
+      "capacity" : 7950812,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2673,
+      "name" : "默默心动",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47640.jpg",
+      "summary" : "重生世家千金。人品碉堡了，空间戒指哟~~还附赠异能哟~只是怎么觉得这异能果断不靠谱？“夫君，快到碗里",
+      "updateStatus" : 1,
+      "capacity" : 4097034,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2969,
+      "name" : "我的青春是一座迷宫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45703.jpg",
+      "summary" : "那一年最幸运的事，就是遇见你。那一年最遗憾的事，就是失去你。你走出了回忆几千万公里，我却年复一年期待",
+      "updateStatus" : 1,
+      "capacity" : 5098195,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2146,
+      "name" : "灭魔玄殇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_9997.jpg",
+      "summary" : "混世少年，穿越大唐，继承姜子牙道法，从而开始了一段惊心动魄的奇幻之旅！斩妖除恶，降魔救世！调笑阎王，",
+      "updateStatus" : 1,
+      "capacity" : 7547952,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 2107,
+      "name" : "嚣张王妃：霸爱俊王爷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14294.jpg",
+      "summary" : "她，警界精英，爱红妆也爱武装，不料意外穿越，睁开眼已变身新婚弃妃。他，尊贵无比的平江王，却在新婚之夜",
+      "updateStatus" : 2,
+      "capacity" : 2563156,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3401,
+      "name" : "狂2",
+      "coverUrl" : "",
+      "summary" : "她原本是杀手组织中的一员，却不小心穿越到了异世。",
+      "updateStatus" : 1,
+      "capacity" : 2285437,
+      "catName" : "玄幻奇幻",
+      "bothType" : true
+    }, {
+      "id" : 2246,
+      "name" : "王爷，你给本宫趴下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15032.jpg",
+      "summary" : "【表面是欢脱的】据说，人间有种职业叫做穿越天界有种惩处叫做轮回那她九生九死，往来穿梭，算个啥？再说，",
+      "updateStatus" : 2,
+      "capacity" : 2201147,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 2381,
+      "name" : "傲雪苍穹",
+      "coverUrl" : "",
+      "summary" : "文案：下雨天的晚上没事最好不要到坟地去，弄不好就穿越了，比如我们酆（feng)篁.“就算是他做的又如",
+      "updateStatus" : 1,
+      "capacity" : 6611969,
+      "catName" : "幻想耽美",
+      "bothType" : false
+    }, {
+      "id" : 2830,
+      "name" : "待我长发及腰",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47148.jpg",
+      "summary" : "她站在人前，无能，好色，骄奢放荡，刁蛮任性她转过身背过人群，美丽，聪明，善良，绝世倾城她来自于未来，",
+      "updateStatus" : 1,
+      "capacity" : 7379718,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2894,
+      "name" : "废材大小姐之凤傲天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43061.jpg",
+      "summary" : "她，凤云兮，现代嗜血联盟的顶级杀手，她凤云兮要人三更死，阎王绝不留五更！一朝穿越，她重生在乱世大陆凤",
+      "updateStatus" : 1,
+      "capacity" : 7364623,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2200,
+      "name" : "女权时代",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21080.jpg",
+      "summary" : "一个现代废材男在无意中穿越了，但是他穿越到的是一个女尊男卑的时代，他如何在那个世界中卷起属于穿越者的",
+      "updateStatus" : 1,
+      "capacity" : 5507505,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2736,
+      "name" : "我是石观音",
+      "coverUrl" : "",
+      "summary" : "只是很喜欢楚留香与石观音的爱情，偏偏天公不作美，两人与分手收场，一直都希望他们能在一起。然而意外穿越",
+      "updateStatus" : 1,
+      "capacity" : 8799896,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2916,
+      "name" : "龙凤斗：皇后在上朕在下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21787.jpg",
+      "summary" : "她叫帅悠贝，人生又衰又背！作为一名牌医科大学的高材生，她连续五次医科考试考试败北，在第六次参加考试时",
+      "updateStatus" : 1,
+      "capacity" : 8878650,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2489,
+      "name" : "雪落的声音",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47010.jpg",
+      "summary" : "“我听见像是雪落的声音，一回头，是你从天而降。”“雪音，我说过，这可以是现实。”“这也是你的游戏吗？",
+      "updateStatus" : 1,
+      "capacity" : 6383580,
+      "catName" : "同人其他",
+      "bothType" : false
+    }, {
+      "id" : 3039,
+      "name" : "一世迷离",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45428.jpg",
+      "summary" : "她们是一母同胞的亲姐妹，却是两种截然不同的待遇。姐姐备受恩宠，妹妹却不受待见。他是万受瞩目的骄子，妹",
+      "updateStatus" : 1,
+      "capacity" : 7829483,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2869,
+      "name" : "穿越之美人太冷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44590.jpg",
+      "summary" : "身怀异能，穿越异世。在乱世中寻求一份安宁，可事与愿违。一步步深入这异世，身不由己，为我爱的那些人，爱",
+      "updateStatus" : 1,
+      "capacity" : 5288728,
+      "catName" : "穿越异界",
+      "bothType" : false
+    } ]
+  }
+}

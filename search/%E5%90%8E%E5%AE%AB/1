@@ -8,203 +8,183 @@
     "list" : [ {
       "id" : 2595,
       "name" : "素问天下",
-      "author" : "贰默",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47204.jpg",
       "summary" : "她是名冠天下的右相嫡女，美人如斯，妙手仁心。他却是庶出的文弱皇子，于深宫之中受尽轻辱依然傲骨天成。嫁",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 3038174,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2130,
       "name" : "文德皇后传",
-      "author" : "黛眉蹙瘦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46516.jpg",
       "summary" : "我在皇上还未登基前便入了府，过往的那段岁月，当真是此生难忘。三年前，也是这样一个月朗星稀的夜晚。他还",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 4164520,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2712,
       "name" : "人比花娇",
-      "author" : "晓爱一生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45972.jpg",
       "summary" : "她艳绝天下，笑容如花，才不过十六岁就成为了天下最美的女人。她才华惊艳，作的一手好诗，写的一手好字，被",
       "updateStatus" : 1,
-      "catName" : "历史架空",
       "capacity" : 5675427,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : true
     }, {
       "id" : 2060,
       "name" : "和亲九公主：霸爱拽夫君",
-      "author" : "李辰儿",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16215.jpg",
       "summary" : "她，一个爹不亲娘不要的九公主，无权无势无颜面，活得比谁都长命是她的愿望，向来人不犯我我不犯人，人若犯",
       "updateStatus" : 2,
-      "catName" : "古代言情",
       "capacity" : 6429154,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2716,
       "name" : "风华绝代红颜决",
-      "author" : "南珠有泪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19981.jpg",
       "summary" : "一朝穿越当小姐，回首再顾成皇后。只因微微回眸，却再难割舍。也许这就是现实，不论身在何方，仍是挣扎的生",
       "updateStatus" : 1,
-      "catName" : "历史架空",
       "capacity" : 2514514,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : true
     }, {
       "id" : 2115,
       "name" : "宫心计：弃后霸君宠",
-      "author" : "筱然",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_3153.jpg",
       "summary" : "“她，是大莹王朝未来的皇后。”太后一句懿旨，让她从一个不受宠的郡主一跃变成母仪天下的国母。权宠之争，",
       "updateStatus" : 2,
-      "catName" : "历史架空",
       "capacity" : 3994478,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3716,
       "name" : "芊妃驾到：得罪不得",
-      "author" : "妮允儿",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42426.jpg",
       "summary" : "一条来路不明的短信，一场突如其来的车祸，让她魂归娄月一朝穿越，她由人尽皆知集温柔贤淑，温文尔雅于一身",
       "updateStatus" : 1,
-      "catName" : "穿越异界",
       "capacity" : 1932715,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2358,
       "name" : "君不君，臣不臣",
-      "author" : "蓝鸩羽",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47230.jpg",
       "summary" : "穿越？啊哈，我要苏完天下美男。哎，说的我好像穿越成女的一样。战乱？啊哈，我要行侠天下，成为一代大侠。",
       "updateStatus" : 1,
-      "catName" : "幻想耽美",
       "capacity" : 2771373,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 3510,
       "name" : "妃辞凤阙",
-      "author" : "苏瑾娆",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16522.jpg",
       "summary" : "一曲离别伤，铲断了谁的情？他与她的情缘难道就只因那一面而定么？一曲长恨歌，道出深宫多少辛酸往事。无奈",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 975600,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2296,
       "name" : "梦穿康熙换乾坤",
-      "author" : "弘毅·知难",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44362.jpg",
       "summary" : "梦穿康熙朝，勉力换乾坤！一个普通的当代公务员，混迹职场，感悟爱情，却横遭变数——一场大梦，醒来被穿越",
       "updateStatus" : 1,
-      "catName" : "历史架空",
       "capacity" : 4303360,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3442,
       "name" : "这个皇后朕买了",
-      "author" : "语兮兮",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42242.jpg",
       "summary" : "臣流泪情愿：姑娘，溺水三千，你就饮了陛下这一瓢吧————————夜傲风：后宫佳丽三千人，君只专宠你一",
       "updateStatus" : 1,
-      "catName" : "穿越异界",
       "capacity" : 2405607,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3050,
       "name" : "帝君独宠：魅世妖颜倾天下",
-      "author" : "漫漫江天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44224.jpg",
       "summary" : "她是战败国前赵贡给大齐的采女。她在选秀之时为被刺杀的皇上挡剑而失忆。围绕她的来历与目的，围绕她的失忆",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 12533,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2715,
       "name" : "瞎女闯后宫",
-      "author" : "残雪依恋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46791.jpg",
       "summary" : "她，是某大学大一考古学生，闲散小说家她们两即是结拜金兰，又是形影不离的好朋友，在放暑假时，原本打算一",
       "updateStatus" : 1,
-      "catName" : "历史架空",
       "capacity" : 2370244,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3686,
       "name" : "美人谋：宠妃不贤良",
-      "author" : "流恋樱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20092.jpg",
       "summary" : "她一舞倾城，凭借着像极了母亲的眉眼，顺利地从宫女坐上了一宫主位，从此在后宫的阴谋诡计中，步步为营，如",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 830236,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3276,
       "name" : "宫心计续集",
-      "author" : "上官馥儿",
+      "coverUrl" : "",
       "summary" : "后宫——是女人之间的斗争，更是无休止的斗争，她们，为了争宠，尔虞我诈，明争暗斗，甚至不惜陷害自己的姐",
       "updateStatus" : 1,
-      "catName" : "历史架空",
       "capacity" : 392326,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3690,
       "name" : "帝王劫：重生之丑女皇后",
-      "author" : "王小蛋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46019.jpg",
       "summary" : "究竟是爱，还是深入肺腑的恨？她，其貌不扬，却心地纯善，曾被人算计，遭帝王厌弃而被废冷宫，重生到五年之",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 155986,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3501,
       "name" : "交易王妃初尝夜",
-      "author" : "静枫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42821.jpg",
       "summary" : "有没有搞错，一觉醒来居然成了赫赫有名的战王爷之女，这个不是应该很威风吗？为什么会被这个阴险的侧室一害",
       "updateStatus" : 1,
-      "catName" : "历史架空",
       "capacity" : 536254,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3111,
       "name" : "真假王妃：非常之谋",
-      "author" : "月藏",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16810.jpg",
       "summary" : "神马？说我“淑女”变“悍妇”？我好好的理性现代建筑设计师兼才女就莫名其妙地掉到了这个朝代啊啊啊啊！！",
       "updateStatus" : 1,
-      "catName" : "穿越异界",
       "capacity" : 54219,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3138,
       "name" : "黑色的梦境",
-      "author" : "呵呵的梦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47612.jpg",
       "summary" : "现实与梦境究竟谁是现实谁是梦境，这又有谁能说的清楚呢？古人有庄周梦蝶之说.对于项生来说，他是一生就是",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 37591,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 3397,
       "name" : "红颜祸水：皇后潜潜水",
-      "author" : "筱冰兰月",
+      "coverUrl" : "",
       "summary" : "古往今来，人生在世，都逃不过一个情字，无论是亲情亦或是爱情，春：是万物的复苏，夏：是桑拿的浴池；秋：",
       "updateStatus" : 1,
-      "catName" : "历史架空",
       "capacity" : 133513,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : false
     } ]
   }
 }

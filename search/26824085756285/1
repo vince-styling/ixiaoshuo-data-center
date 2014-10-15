@@ -1,0 +1,82 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 8,
+    "list" : [ {
+      "id" : 2282,
+      "name" : "凤动九天：一等皇妃倾天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42227.jpg",
+      "summary" : "仇恨，让她从一个原本快乐无忧的孩子成为了笑容灿烂的“郡主”；阴谋，让她从一个原本享尽荣华的公主成为了",
+      "updateStatus" : 1,
+      "capacity" : 2093905,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 2093,
+      "name" : "废柴王妃：相公欠调教",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_13563.jpg",
+      "summary" : "什么，不会吧，穿越了，穿就穿吧，人家穿越，不是公主，就是皇妃，都是些非富则贵的人，自己不会这么倒霉吧",
+      "updateStatus" : 1,
+      "capacity" : 2825781,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2292,
+      "name" : "从此君王不翻牌",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47948.jpg",
+      "summary" : "这世上的很多人与生俱来就有着某种特殊的才华跟天赋，这小叫化子也有，她似乎是天生的乞丐换上华服也成不了",
+      "updateStatus" : 1,
+      "capacity" : 4733080,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 2615,
+      "name" : "皇妃传",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46398.jpg",
+      "summary" : "皇帝选秀，不得不去。明哲保身，身不由己。害人之心不可有，防人之心不可无，却是防不胜防。明剑易躲，暗箭",
+      "updateStatus" : 1,
+      "capacity" : 1832582,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3003,
+      "name" : "蝶樱澜",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46644.jpg",
+      "summary" : "错乱时空的穿越，令一位手段狠辣的金牌女杀手陷入了穿越结界的迷雾，从而在结界中不断变换各种身份，从皇妃",
+      "updateStatus" : 1,
+      "capacity" : 8647498,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3018,
+      "name" : "乱世佳人之末代皇妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41915.jpg",
+      "summary" : "末代皇妃简介当一个女子赤裸着身子羞涩的站在你面前时，当一个女子湿漉漉的猥琐的被你从水里救起时，当一个",
+      "updateStatus" : 1,
+      "capacity" : 2447591,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2299,
+      "name" : "冷宫太子妃：殿下，别乱来",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16166.jpg",
+      "summary" : "【孙家传奇】第一部穿越？不稀奇。替嫁？不稀奇。皇妃？也不稀奇。但天杀的为啥她遇上稀奇的太子殿下住冷宫",
+      "updateStatus" : 2,
+      "capacity" : 2633957,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3641,
+      "name" : "绝代皇妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_8228.jpg",
+      "summary" : "“等朕死了后，就扶弘之上位，那么你就是太后了。”“你知道的，我要的不是这些。”",
+      "updateStatus" : 1,
+      "capacity" : 410735,
+      "catName" : "穿越异界",
+      "bothType" : false
+    } ]
+  }
+}

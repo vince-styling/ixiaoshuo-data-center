@@ -1,0 +1,181 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 19,
+    "list" : [ {
+      "id" : 2170,
+      "name" : "轮回三生劫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_5346.jpg",
+      "summary" : "缘定三生，缘证三生。三生石在中国是一个神秘古老而美丽的传说。三生石面前见证了无数催人泪下可歌可泣的爱",
+      "updateStatus" : 1,
+      "capacity" : 6036799,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 2607,
+      "name" : "葬忧散",
+      "coverUrl" : "",
+      "summary" : "这是关于万法之源《葬忧散》的系列作品之第一部。乃是以“转身顿悟”为主题的仙侠修真故事。主人公梁无忧，",
+      "updateStatus" : 1,
+      "capacity" : 9158245,
+      "catName" : "仙侠修真",
+      "bothType" : true
+    }, {
+      "id" : 2160,
+      "name" : "修神传",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22451.jpg",
+      "summary" : "一手破苍穹，一怒为红颜。一人一龙，藐视修真者。沫沫，前世的遗憾；今生今世，我，楚凌天一定会珍惜！！！",
+      "updateStatus" : 1,
+      "capacity" : 7864059,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 2142,
+      "name" : "修真界疯子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18202.jpg",
+      "summary" : "他是一个小混混更是一个痞子所以千万别用好人的眼光看他，否则你会吃亏的。可这个痞子有一个做人的原则那就",
+      "updateStatus" : 1,
+      "capacity" : 5660868,
+      "catName" : "仙侠修真",
+      "bothType" : true
+    }, {
+      "id" : 2698,
+      "name" : "混世神魔",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18675.jpg",
+      "summary" : "一位现代青年在自己坚持不懈的努力下，走上了一条修真之道；然而对于修真，他还是一个懵懂无知的青年；于是",
+      "updateStatus" : 1,
+      "capacity" : 3027430,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2791,
+      "name" : "倩海情深",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45957.jpg",
+      "summary" : "时间还残留着升学宴里的酒香，耳畔还回响着父母奶奶的叮咛，提着让人想哭的行李，带着几分憧憬，来到了这里",
+      "updateStatus" : 1,
+      "capacity" : 2183255,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2363,
+      "name" : "慕尘雪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21978.jpg",
+      "summary" : "婚礼之日新郎被抢的现代女子辜辛荷因为煤气泄漏意外魂穿到古代异世，变成一个只有十二岁的小美男，但是奇怪",
+      "updateStatus" : 1,
+      "capacity" : 5977693,
+      "catName" : "幻想耽美",
+      "bothType" : false
+    }, {
+      "id" : 2220,
+      "name" : "玄黄道环",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43894.jpg",
+      "summary" : "修真一途，逆天抗命，凶险莫名，但凡无非是淬筋骨、培元罡、生阴阳、化空冥、度化劫、夺造化、证道体。一名",
+      "updateStatus" : 1,
+      "capacity" : 9501869,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2603,
+      "name" : "墨瞳物语",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46527.jpg",
+      "summary" : "孪生妹妹反目成仇？微微心动的男人爱上妹妹？失去眼角膜？这些悲伤的事情在修真之后似乎再也不能影响她的情",
+      "updateStatus" : 1,
+      "capacity" : 4981050,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 3431,
+      "name" : "修真女配混末世",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46888.jpg",
+      "summary" : "李巧玲从楼梯上摔下来后，再次醒来发现：自己竟然穿越成末世文里第一个被女主炮灰了的女配——曲苑。后来又",
+      "updateStatus" : 1,
+      "capacity" : 409529,
+      "catName" : "玄幻奇幻",
+      "bothType" : true
+    }, {
+      "id" : 2175,
+      "name" : "史上最强避雷法宝",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20752.jpg",
+      "summary" : "这里是一个修仙修魔的好地方。这是有未知的生物、灭迹的物种，它们强大而又蛮横；它们智商高绝，更甚者能口",
+      "updateStatus" : 1,
+      "capacity" : 1909735,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 3650,
+      "name" : "养个儿子当祸害",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17469.jpg",
+      "summary" : "她是现代富二代凌笑蓝，却因先天性心脏病被家族放逐，唯有一老仆待她至诚至真，却不料着最后一点温暖也有人",
+      "updateStatus" : 1,
+      "capacity" : 396236,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3737,
+      "name" : "忐忑修真路",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45371.jpg",
+      "summary" : "她本是最平凡不过的女子，却意外来到一个陌生的世界，这里以强者为尊，强者就是王法，霸者就是道理，这里杀",
+      "updateStatus" : 1,
+      "capacity" : 233911,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 2745,
+      "name" : "再次重生后的创世传奇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46648.jpg",
+      "summary" : "再次醒来，林涵发现又回到了地球，又回到了妈妈的肚子里，连带着上次穿越到修真世界的记忆。终于回来了，可",
+      "updateStatus" : 1,
+      "capacity" : 8770661,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 3227,
+      "name" : "玩心公子",
+      "coverUrl" : "",
+      "summary" : "在杀手界，广为流传着这么一句话；“修罗一怒，伏尸百万。”修罗，杀手界的传奇，没有人见过他真正的实力，",
+      "updateStatus" : 1,
+      "capacity" : 122257,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 3735,
+      "name" : "穿越之修真吐槽娘",
+      "coverUrl" : "",
+      "summary" : "当一位傲娇女到了修仙的世界里，当这位傲娇女极为女王，当她发现自己有着超人的气运，她会如何？秦晓认为，",
+      "updateStatus" : 1,
+      "capacity" : 329573,
+      "catName" : "仙侠修真",
+      "bothType" : true
+    }, {
+      "id" : 2972,
+      "name" : "MoMo大陆传奇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41913.jpg",
+      "summary" : "她，一个21世纪的大腐女、大剩女，在机缘巧合之下来的了一个叫MoMo大陆的地方；她，贪财、贪吃，到处",
+      "updateStatus" : 1,
+      "capacity" : 2479212,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3393,
+      "name" : "医",
+      "coverUrl" : "",
+      "summary" : "强魂入住，无意间开启空间灵器乾坤镯，得医典，修真经，废柴之体迎刃而解，种草药，契魔兽，魔医震天下！灵",
+      "updateStatus" : 1,
+      "capacity" : 108581,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3385,
+      "name" : "修仙之凤舞九天",
+      "coverUrl" : "",
+      "summary" : "呵，什么废物体质，明明是修仙圣体，圣灵体质。敢说我是废物，那我就让你们付出代价，让你们看看到底谁才是",
+      "updateStatus" : 1,
+      "capacity" : 16074,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    } ]
+  }
+}

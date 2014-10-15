@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 27,
+    "list" : [ {
+      "id" : 2796,
+      "name" : "风流老板俏秘书",
+      "coverUrl" : "",
+      "summary" : "古北辰，古氏集团的老总，长相俊美却是风流成性。凌语，古北辰的首席女秘书。拥有较好的容颜和性感的身材，",
+      "updateStatus" : 1,
+      "capacity" : 8184984,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2640,
+      "name" : "都市高手之黑道霸主",
+      "coverUrl" : "",
+      "summary" : "一个普通的司机，究竟经历了怎么样的奇遇，得到了怎样的能力，又如何称霸地下王国，又如何打造庞……",
+      "updateStatus" : 1,
+      "capacity" : 5116138,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2665,
+      "name" : "暗道，情回路",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47956.jpg",
+      "summary" : "刚退役的大学生兵哥严威毅然重返故地展开新的生活。一天他在往返住处途经一条巷道口时碰巧遇上一位正被黑道",
+      "updateStatus" : 1,
+      "capacity" : 8455324,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2630,
+      "name" : "腹黑女帝倾天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41906.jpg",
+      "summary" : "某女分分钟从黑道老大变身萌系小太女，宫廷水深，可对于默默这种老油条来说，正是如鱼得水，相得映彰。养精",
+      "updateStatus" : 1,
+      "capacity" : 8954619,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2565,
+      "name" : "冯子莫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44248.jpg",
+      "summary" : "一个农村的孩子，一个小时候是乖孩子、上大学却混上了黑道、冯子莫他的人生是怎样的、生活和现实面前、混上",
+      "updateStatus" : 1,
+      "capacity" : 5552682,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2429,
+      "name" : "嗜血女：黑道霸称王",
+      "coverUrl" : "",
+      "summary" : "“放开我，你别碰我，求求你”宁夏无助的哀求着。“我为什么要听你的？你本来就是爸爸从孤儿院给我带回来的",
+      "updateStatus" : 1,
+      "capacity" : 3469294,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2853,
+      "name" : "特工老总红粉员工",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43193.jpg",
+      "summary" : "谁也想不到，让人谈之色变，震惊特工界的“暗夜幽灵”竟然只是个普通得不能再普通的年轻人—孟大年。社会安",
+      "updateStatus" : 1,
+      "capacity" : 7855308,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2705,
+      "name" : "黑道-恋上如月",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18171.jpg",
+      "summary" : "在这个世界的空间层里存在着一个名为“术士界”的世界，在这个种族人群并不多的世界里，我们成为了命运的棋",
+      "updateStatus" : 1,
+      "capacity" : 6942807,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2660,
+      "name" : "败类黑道",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17667.jpg",
+      "summary" : "他翻手为云覆手为雨人们谈之色变。他爱扣脚丫子喜好6块钱一包的廉价烟，他从不记仇，有仇当场就报了怕他的",
+      "updateStatus" : 1,
+      "capacity" : 6894653,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2113,
+      "name" : "战神王爷狂妄妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_4838.jpg",
+      "summary" : "【红尘初妆，山河无疆，命格无双】她，黑道枭雄，生杀予夺，惊才绝艳。他，战神王爷，杀伐决断,翻手为云，",
+      "updateStatus" : 2,
+      "capacity" : 8073814,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2214,
+      "name" : "冥王老大：鬼眼小娇妻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16545.jpg",
+      "summary" : "她，美丽与智慧合体的纯情美少女，一双不为人知的阴阳眼注定了她的一生要跟鬼打交道。他，世界黑道唯一的领",
+      "updateStatus" : 2,
+      "capacity" : 7953424,
+      "catName" : "玄幻奇幻",
+      "bothType" : true
+    }, {
+      "id" : 3347,
+      "name" : "冷艳傲骨：毒物小姐狠嚣张",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42063.jpg",
+      "summary" : "人人都说你活该独自凄凉，其实没人懂你情长。她是容川家家主的掌上明珠，执掌容川家半壁江山的二当家大小姐",
+      "updateStatus" : 1,
+      "capacity" : 743882,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3395,
+      "name" : "如果不曾知道",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_8155.jpg",
+      "summary" : "程天芸只是一个如同陶瓷般的女孩，五岁失去了一切，哥哥把她托付给了杀手；一切的安排只是不希望她报仇江帆",
+      "updateStatus" : 1,
+      "capacity" : 932787,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3019,
+      "name" : "午后恋歌",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44276.jpg",
+      "summary" : "她是慕容家的继承人，也是慕容家的顶级杀手，可是宿命的她遇到了他，到底是悲剧还是幸福呢？她是洛家的继承",
+      "updateStatus" : 1,
+      "capacity" : 4832901,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2806,
+      "name" : "浮尘之爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45745.jpg",
+      "summary" : "「除了一纸婚书，你什么都不会缺。你还可以有我的孩子，放心我一定是个尽责的父亲。」他抓住她的手说道。「",
+      "updateStatus" : 1,
+      "capacity" : 7352685,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3608,
+      "name" : "小子，别跑",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45678.jpg",
+      "summary" : "当全荷雅是黑道千金的时候，宿宇是酒吧里的一名调酒师当全荷雅的家庭陷入败落时，宿宇是敌对头领的干儿子当",
+      "updateStatus" : 1,
+      "capacity" : 891536,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3529,
+      "name" : "黑道少女",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18160.jpg",
+      "summary" : "龙莹夜一个15岁的全能少女，由于出生在一个有钱的黑道世家并且她的母亲在她刚出生时就去世了，所以她一出",
+      "updateStatus" : 1,
+      "capacity" : 380854,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3685,
+      "name" : "若痕",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21270.jpg",
+      "summary" : "她是拉斯维加斯永不衰败的王者，她是“医学界”令人闻之丧胆的修罗，她是普通学校的一名普通学生，她是大街",
+      "updateStatus" : 1,
+      "capacity" : 334920,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2642,
+      "name" : "黑道特种部队",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47515.jpg",
+      "summary" : "这里是黑道，一群特种兵来到这里，他们的名字让人敬仰，他们所到之处让敌人闻风丧胆，他们的英勇让人赞扬，",
+      "updateStatus" : 1,
+      "capacity" : 3480178,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3348,
+      "name" : "杀手王妃的花心王爷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45194.jpg",
+      "summary" : "她，黑道上令人闻风丧胆的杀手——鬼未，代号魅，没想在一次任务中被炸魂穿，一朝穿越，成为傲月王朝相府小",
+      "updateStatus" : 1,
+      "capacity" : 174135,
+      "catName" : "历史架空",
+      "bothType" : true
+    } ]
+  }
+}

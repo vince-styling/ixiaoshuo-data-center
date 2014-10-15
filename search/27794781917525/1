@@ -1,0 +1,37 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 3,
+    "list" : [ {
+      "id" : 2926,
+      "name" : "清宫情史",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46122.jpg",
+      "summary" : "这是关于乾隆的故事。人生如梦，从清朝而来。巴林氏，名婉君，本可以安闲逍遥地过自己与习连翊的举案齐眉。",
+      "updateStatus" : 1,
+      "capacity" : 3728842,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2245,
+      "name" : "清宫云梦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47526.jpg",
+      "summary" : "学生吕靖由于课业压力过大，在上课途中离奇穿越，成为清朝光绪年间的一位过客，无意间历经晚清种种风云变幻",
+      "updateStatus" : 1,
+      "capacity" : 4516559,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3699,
+      "name" : "莫问我是谁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44570.jpg",
+      "summary" : "从2001年穿越剧的鼻祖《寻秦记》，到现在TVB又推出《情逆三世缘》，看来穿越在很多心中是一个梦。那",
+      "updateStatus" : 1,
+      "capacity" : 208965,
+      "catName" : "历史架空",
+      "bothType" : true
+    } ]
+  }
+}

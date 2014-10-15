@@ -1,0 +1,154 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 36,
+    "list" : [ {
+      "id" : 3207,
+      "name" : "完美小娇妻之变脸",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20682.jpg",
+      "summary" : "上得了厅堂，下得了厨房；扮得了萝莉，演得了女王；听得了音乐会，吃得了大排档！虐心恋大升级！神秘男人的",
+      "updateStatus" : 1,
+      "capacity" : 1651445,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3306,
+      "name" : "“灰姑娘”的复仇绝密",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20175.jpg",
+      "summary" : "“我的出现只为守护你”——王子“穿上了你的水晶鞋，我就是你的人！”——灰姑娘“我不怕多等一个11年。",
+      "updateStatus" : 1,
+      "capacity" : 182422,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2350,
+      "name" : "蝶缘痴恋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47789.jpg",
+      "summary" : "亡国之女为复仇兴国改变身份深入皇宫，并称为皇室的一份子，运用过人的胆识和计谋一步步搅得仇国朝纲混乱，",
+      "updateStatus" : 1,
+      "capacity" : 2925389,
+      "catName" : "幻想耽美",
+      "bothType" : false
+    }, {
+      "id" : 3055,
+      "name" : "双龙戏凤",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46957.jpg",
+      "summary" : "她，上官月不仅穿越了这次还重生了?宇国靖王为治心仪之人，逼得自己的结发妻身葬绝情崖下。在次穿越重生，",
+      "updateStatus" : 1,
+      "capacity" : 276653,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3136,
+      "name" : "紫墟：涅槃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46863.jpg",
+      "summary" : "他是冷血强势的琅琊轩主人，她是从小被关进黑塔禁地的吟家三小姐，她出生那晚天现不详，家主慌乱中推开产房",
+      "updateStatus" : 1,
+      "capacity" : 150895,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2627,
+      "name" : "妖娆重生：绝宠复仇千金",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47172.jpg",
+      "summary" : "人生真的能重来吗？若是再次重来，你会想改变什么？亲情？爱情？不，温馨对那些不屑一顾！她要的很简单，也",
+      "updateStatus" : 1,
+      "capacity" : 5252003,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3221,
+      "name" : "极品天骄：邪凤逆天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47483.jpg",
+      "summary" : "她，貌美却傲世张狂，清颜却媚眼冷峻，倚剑血洗天下，不畏不惧，不卑不亢。一朝是杀人不眨眼的女魔头，一朝",
+      "updateStatus" : 1,
+      "capacity" : 110598,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 3573,
+      "name" : "天使与伪天使的契约",
+      "coverUrl" : "",
+      "summary" : "从小生活在两个庞大家族里的两位小姐，却因阴谋而被迫离家。从纯洁无瑕的天使堕落为伪天使。伪天使的复仇！",
+      "updateStatus" : 1,
+      "capacity" : 181997,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3295,
+      "name" : "南追",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44116.jpg",
+      "summary" : "柳鸿鸣穿越成了山寨大王的女儿，这女儿黎阳阳在柳鸿鸣来之前看上了并掳了江湖第一镖局鸿鹄镖局的独苗少爷，",
+      "updateStatus" : 1,
+      "capacity" : 325650,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 3268,
+      "name" : "荆棘路之丛生荆棘",
+      "coverUrl" : "",
+      "summary" : "从苦逼青年到权倾天下，从乖乖学生到黑帮老大，不是因为他有多大的野心，只是为心中对孟林得感激与尊敬，默",
+      "updateStatus" : 1,
+      "capacity" : 213537,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3439,
+      "name" : "皇熙妃传",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42502.jpg",
+      "summary" : "宇文氏，曾经是多么荣耀的一个家族，新皇登基却彻底颠覆了这个家族的地位，诛灭九族。唯一幸存的宇文氏长女",
+      "updateStatus" : 1,
+      "capacity" : 188053,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 3581,
+      "name" : "故人衣",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43041.jpg",
+      "summary" : "是爱情是友情？是复仇还是不计前嫌？三生有幸，我遇见了你，我最好的朋友，我的爱人，我的亲人。Hello",
+      "updateStatus" : 1,
+      "capacity" : 110940,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3467,
+      "name" : "驻足",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43480.jpg",
+      "summary" : "是不是每一个人，都可以为你驻足？是不是每一个人，都可以明知道你是在欺骗他，却甘之若饴？是不是每一个人",
+      "updateStatus" : 1,
+      "capacity" : 26576,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2808,
+      "name" : "女王重生：欺上恶魔总裁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47165.jpg",
+      "summary" : "前世她是他手中的一颗棋子，被他护在怀中只为利用，最终却长眠不醒。这一世睁眼醒来，她却仍然在那个掌控她",
+      "updateStatus" : 1,
+      "capacity" : 3089270,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3729,
+      "name" : "琉璃色.彼岸花",
+      "coverUrl" : "",
+      "summary" : "那年的那个新春，在春晚还在准备之际，平静而又闲散的H市（杜撰滴〜）没有迎来新的娱乐消息，却迎来了一封",
+      "updateStatus" : 1,
+      "capacity" : 42799,
+      "catName" : "灵异悬疑",
+      "bothType" : true
+    }, {
+      "id" : 3338,
+      "name" : "豬彡頭❤娶我呗",
+      "coverUrl" : "",
+      "summary" : "这是一个关于重生的故事，但是却不是常见的重生复仇的故事！这是个重生之后为了报恩而不择手段，其过程又笑",
+      "updateStatus" : 1,
+      "capacity" : 19934,
+      "catName" : "穿越异界",
+      "bothType" : false
+    } ]
+  }
+}

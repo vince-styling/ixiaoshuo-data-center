@@ -1,0 +1,73 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 7,
+    "list" : [ {
+      "id" : 2330,
+      "name" : "风雪情殇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45155.jpg",
+      "summary" : "他，像风一样轻飘却无处不在；她，一团冰雪，心内凛寒。他，三国之中的鬼才；她现代的千金。他和她，本不该",
+      "updateStatus" : 1,
+      "capacity" : 5696768,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2082,
+      "name" : "魔妃惑君心",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43839.jpg",
+      "summary" : "一场无法改变的命局，一场注定好的输赢，她是命定的帝女，“踏雪而生，一统天下……”亲人的背叛，朋友的利",
+      "updateStatus" : 1,
+      "capacity" : 8497555,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2267,
+      "name" : "三国恋之不如归去",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43482.jpg",
+      "summary" : "月读，从夷洲辗转来到战火纷飞的天土，当时正值三国鼎立，魏蜀吴三国战争不断，魏国内部世族大家斗争也是日",
+      "updateStatus" : 1,
+      "capacity" : 8650974,
+      "catName" : "历史架空",
+      "bothType" : true
+    }, {
+      "id" : 3040,
+      "name" : "颜郡主",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22615.jpg",
+      "summary" : "沉淀的历史真相，大山中与狼群共生的民族，国破家亡却为何？三国鼎立，权利的背后是怎样的幕后黑手？一段不",
+      "updateStatus" : 1,
+      "capacity" : 9853604,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 3684,
+      "name" : "云之月痕",
+      "coverUrl" : "",
+      "summary" : "三国，对我这个三国迷来说并不陌生，只是，当我有一天突然穿越到三国时代，是否经得起考验？包括生死？三国",
+      "updateStatus" : 1,
+      "capacity" : 136899,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2251,
+      "name" : "工科生三国行",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18305.jpg",
+      "summary" : "一个二十一世纪的工科屌丝，带着一件加八十五点武力值的软甲来到三国，利用工科知识开各种金手指，会有怎么",
+      "updateStatus" : 1,
+      "capacity" : 1408804,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 3244,
+      "name" : "绝艳皇子倾城妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46241.jpg",
+      "summary" : "三国之争，月煌的覆灭，身为月煌的公主，她应该是为复国步步为营？还是甘心曲于命运？爱人的背叛，家仇雪恨",
+      "updateStatus" : 1,
+      "capacity" : 878061,
+      "catName" : "历史架空",
+      "bothType" : false
+    } ]
+  }
+}

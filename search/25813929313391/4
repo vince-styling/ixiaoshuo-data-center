@@ -1,0 +1,28 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 4,
+    "totalPageCount" : 4,
+    "totalItemCount" : 62,
+    "list" : [ {
+      "id" : 3308,
+      "name" : "我的腹黑王子",
+      "coverUrl" : "",
+      "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容",
+      "updateStatus" : 1,
+      "capacity" : 38440,
+      "catName" : "同人其他",
+      "bothType" : true
+    }, {
+      "id" : 3172,
+      "name" : "竹马太腹黑",
+      "coverUrl" : "",
+      "summary" : "这是一对青梅竹马的故事，男主腹黑，女主有些神经大条但是绝对不傻。本文不虐，如有亲不喜，请绕道。",
+      "updateStatus" : 1,
+      "capacity" : 80360,
+      "catName" : "都市校园",
+      "bothType" : true
+    } ]
+  }
+}

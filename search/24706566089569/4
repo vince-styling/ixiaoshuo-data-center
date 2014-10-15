@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 4,
+    "totalPageCount" : 5,
+    "totalItemCount" : 90,
+    "list" : [ {
+      "id" : 3616,
+      "name" : "重生商女之总裁请自重",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21944.jpg",
+      "summary" : "她是来自古代的一缕幽魂，冥冥中却来到了这个所谓人人平等，自由恋爱的现代世界，可是就在她二十四岁生日的",
+      "updateStatus" : 1,
+      "capacity" : 13094,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2654,
+      "name" : "异能女王改写天书",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46848.jpg",
+      "summary" : "她，上一世被未婚夫和后母害死，命运却和她开了一个大玩笑，玩重生？回到十五岁时，还多了一种能力？绝世美",
+      "updateStatus" : 1,
+      "capacity" : 4870733,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3690,
+      "name" : "帝王劫：重生之丑女皇后",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46019.jpg",
+      "summary" : "究竟是爱，还是深入肺腑的恨？她，其貌不扬，却心地纯善，曾被人算计，遭帝王厌弃而被废冷宫，重生到五年之",
+      "updateStatus" : 1,
+      "capacity" : 155986,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3142,
+      "name" : "重生女帝之桃花袭来",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43853.jpg",
+      "summary" : "不甘被家族逼迫的她，跟随男友跳下高楼。重生之后，她发誓这一世她要把命运掌握在自己手中。师兄沐元希：看",
+      "updateStatus" : 1,
+      "capacity" : 171001,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3055,
+      "name" : "双龙戏凤",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46957.jpg",
+      "summary" : "她，上官月不仅穿越了这次还重生了?宇国靖王为治心仪之人，逼得自己的结发妻身葬绝情崖下。在次穿越重生，",
+      "updateStatus" : 1,
+      "capacity" : 276653,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2627,
+      "name" : "妖娆重生：绝宠复仇千金",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47172.jpg",
+      "summary" : "人生真的能重来吗？若是再次重来，你会想改变什么？亲情？爱情？不，温馨对那些不屑一顾！她要的很简单，也",
+      "updateStatus" : 1,
+      "capacity" : 5252003,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3369,
+      "name" : "重生之墨枫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45430.jpg",
+      "summary" : "这是一个世界第一杀手因被嫉妒而和上司同归于尽之后，重生到一个营养不良的高中软弱的男孩身上之后，和我们",
+      "updateStatus" : 1,
+      "capacity" : 248273,
+      "catName" : "同人其他",
+      "bothType" : true
+    }, {
+      "id" : 3227,
+      "name" : "玩心公子",
+      "coverUrl" : "",
+      "summary" : "在杀手界，广为流传着这么一句话；“修罗一怒，伏尸百万。”修罗，杀手界的传奇，没有人见过他真正的实力，",
+      "updateStatus" : 1,
+      "capacity" : 122257,
+      "catName" : "玄幻奇幻",
+      "bothType" : true
+    }, {
+      "id" : 2897,
+      "name" : "瞎子王爷独宠调皮妃",
+      "coverUrl" : "",
+      "summary" : "“啪、啪、啪。”“是哪个该死的居然敢打本小姐的屁股！”甘灵儿愤怒的大吼。只可惜嘴里发出的居然是“咿咿",
+      "updateStatus" : 1,
+      "capacity" : 9205255,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 3242,
+      "name" : "王爷的重生小冷妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44741.jpg",
+      "summary" : "我曾经爱上一个人，爱他的点点滴滴。我们在一起生活了六年，他从来没说娶我，但我们这样一直生活在一起我就",
+      "updateStatus" : 2,
+      "capacity" : 1001443,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 2722,
+      "name" : "戏江山",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45978.jpg",
+      "summary" : "母亲的执念成就了我错乱国度的重生本只是笑看春秋细味寒暑不曾想---终是抵不过命运的摆布历劫最后的逢生",
+      "updateStatus" : 1,
+      "capacity" : 9418527,
+      "catName" : "历史架空",
+      "bothType" : true
+    }, {
+      "id" : 2256,
+      "name" : "穿越东宫之碟中谍",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14385.jpg",
+      "summary" : "倒霉女李楠自杀未遂，走上时下最潮的重生道路——穿越到五国割据的架空大陆，成为陈国太子妃。东宫之内的阴",
+      "updateStatus" : 2,
+      "capacity" : 7817731,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 3086,
+      "name" : "重生艳妖之九尾狐说",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47700.jpg",
+      "summary" : "小九出世见的第一个人是长卿，出口的第一个字却是“鸡”厨房案板前一站，手中拎着一只公鸡，清澈的眸子一眯",
+      "updateStatus" : 1,
+      "capacity" : 368382,
+      "catName" : "玄幻奇幻",
+      "bothType" : true
+    }, {
+      "id" : 3119,
+      "name" : "还珠之浴火重生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47959.jpg",
+      "summary" : "大家好，我是小薇，这是我的新坑，希望大家能够支持，我的第一个坑还没填完，那篇“我们之间的爱情如空气”",
+      "updateStatus" : 1,
+      "capacity" : 98499,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2805,
+      "name" : "记得爱过",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21050.jpg",
+      "summary" : "当她第一次看见枫落就喜欢上了这种色彩，然而她的家庭也如枫落一般渐渐枯黄，凋零，于是她学会了坚强；当她",
+      "updateStatus" : 1,
+      "capacity" : 9861946,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3726,
+      "name" : "君倾如月",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44336.jpg",
+      "summary" : "异世重生，是折磨，还是宿命？为什么？竟然会是你？冷酷凌厉的俊颜此刻布满了吃惊和惊痛，自己厌恶的女人竟",
+      "updateStatus" : 1,
+      "capacity" : 1061816,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2468,
+      "name" : "天堂巴士444",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22454.jpg",
+      "summary" : "百岁之期，她终于能光明正大的离开天堂，却不料进入了三界之中最为黑暗的市场。多年之后，她又一次洞悉他的",
+      "updateStatus" : 1,
+      "capacity" : 3403844,
+      "catName" : "灵异悬疑",
+      "bothType" : false
+    }, {
+      "id" : 3733,
+      "name" : "公主白雪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_6471.jpg",
+      "summary" : "这个故事，发生在一个很遥远很遥远的国度。故事从一个叫豆腐西施的女孩开始。昨天她还在街巷里卖臭豆腐，一",
+      "updateStatus" : 1,
+      "capacity" : 949929,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2912,
+      "name" : "媚色重生：情挑尤物庶女",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46807.jpg",
+      "summary" : "带着前仇旧恨，百世机缘换来重生。苏樱樱回到了十七岁被囚禁在后院的日子，一切又开始轮回。抢了自己夫君的",
+      "updateStatus" : 1,
+      "capacity" : 5181278,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2758,
+      "name" : "前世、今生“他和它”",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44878.jpg",
+      "summary" : "范晓豆，一个天天迷糊，不食人间烟火的人。前世他和她是一对爱的死去活来鸳鸯，一个是漂亮聪慧的王室贵族，",
+      "updateStatus" : 1,
+      "capacity" : 4837716,
+      "catName" : "都市校园",
+      "bothType" : false
+    } ]
+  }
+}

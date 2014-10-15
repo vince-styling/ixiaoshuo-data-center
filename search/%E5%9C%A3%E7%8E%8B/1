@@ -8,23 +8,21 @@
     "list" : [ {
       "id" : 3230,
       "name" : "霹雳戢武王妹控玉仔酱油记",
-      "author" : "九千胜",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45866.jpg",
       "summary" : "宅女裹着王姐的外挂在霹雳世界打酱油的故事一个理科生苦逼成长为王的艰苦岁月（？），当她以为自己只是做一",
       "updateStatus" : 1,
-      "catName" : "同人其他",
       "capacity" : 322045,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 3228,
       "name" : "擎世圣王",
-      "author" : "秋云风",
+      "coverUrl" : "",
       "summary" : "少年偶获最强内丹，从此一步登天，汇聚所有职业，踏平十方，称霸十界，缔造不朽传奇！",
       "updateStatus" : 1,
-      "catName" : "玄幻奇幻",
       "capacity" : 213253,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     } ]
   }
 }

@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 10,
+    "totalPageCount" : 12,
+    "totalItemCount" : 240,
+    "list" : [ {
+      "id" : 3526,
+      "name" : "桃花躲躲",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20944.jpg",
+      "summary" : "当她将最后一个猎物诱杀之后，却因为她的大意被垂死的猎物反咬一口，再次睁开眼睛，却发现自己竟意外的穿越",
+      "updateStatus" : 1,
+      "capacity" : 921866,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 3665,
+      "name" : "杂乱的羁绊",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47401.jpg",
+      "summary" : "迪达拉和蝎意外的穿越，意外的穿越却给迪达拉和蝎带来意外的成长。CP：迪达拉和蝎。世界：猎人，网王，恶",
+      "updateStatus" : 1,
+      "capacity" : 190778,
+      "catName" : "幻想耽美",
+      "bothType" : false
+    }, {
+      "id" : 2303,
+      "name" : "阎末瑶",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15248.jpg",
+      "summary" : "三个人一起的穿越，几个人一同的成长。是怎样的命运，让她们遇见了他们和她们？这光怪陆离的世界，带来的究",
+      "updateStatus" : 1,
+      "capacity" : 6908578,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 3118,
+      "name" : "第二频道之穿越模式",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18790.jpg",
+      "summary" : "【故事纯属假想，不喜者慎入！】她一直的梦想就是像小说里一样穿越一次，能像那些女主一样金银珠宝，幸福冒",
+      "updateStatus" : 2,
+      "capacity" : 340342,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3377,
+      "name" : "秦时明月之艾旅",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42215.jpg",
+      "summary" : "当你穿越到秦时明月里你会怎么做？你会仗着有挂，打败卫庄？你会因为懂剧情而各种帮忙？你会不让月儿被捉走",
+      "updateStatus" : 1,
+      "capacity" : 1426294,
+      "catName" : "同人其他",
+      "bothType" : false
+    }, {
+      "id" : 3097,
+      "name" : "穿越之丑凤倾城",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_4390.jpg",
+      "summary" : "她的样貌奇丑无比，脸上丑陋的图案使她被众人冷眼相看，就连亲身父母也嫌弃她的无奈，她的恨，她的痛，没有",
+      "updateStatus" : 1,
+      "capacity" : 208045,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3067,
+      "name" : "总裁霸情：调教偷心贼娘子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22626.jpg",
+      "summary" : "古代正义侠盗女贼初若，一朝穿越到现代，惹上霸道腹黑总裁，从此生活精彩，笑料频频，且看一向偷盗钱财的她",
+      "updateStatus" : 1,
+      "capacity" : 34391,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3570,
+      "name" : "挚爱傻夫君",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43982.jpg",
+      "summary" : "她是千年的杀手女王，但梦中总有一张俊颜闪过，很是熟悉。。。他是帝晨国的傻王，他的梦里总有一对美眸，他",
+      "updateStatus" : 1,
+      "capacity" : 983137,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 3735,
+      "name" : "穿越之修真吐槽娘",
+      "coverUrl" : "",
+      "summary" : "当一位傲娇女到了修仙的世界里，当这位傲娇女极为女王，当她发现自己有着超人的气运，她会如何？秦晓认为，",
+      "updateStatus" : 1,
+      "capacity" : 329573,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 3492,
+      "name" : "清月",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20418.jpg",
+      "summary" : "一朝无意穿越，她选择撑起这个家庭。她是冷冷清清的个性，身边却总出现一些奇异的人，那些人或江湖少侠，或",
+      "updateStatus" : 1,
+      "capacity" : 881366,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3325,
+      "name" : "司宠",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43987.jpg",
+      "summary" : "谁说面带笑容，就是真的快乐，唐木木带着可爱灵狐小狸穿越异世谁说举止优雅，就是真的君子，祈月司带着木头",
+      "updateStatus" : 1,
+      "capacity" : 175351,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2774,
+      "name" : "穿越之农家女初长成",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47413.jpg",
+      "summary" : "“啊？”陈楚大喊一声，自己跑的那么快，那小子一下子就碰到自己肩膀了？难道这货是妖精？快跑！",
+      "updateStatus" : 1,
+      "capacity" : 4065814,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3333,
+      "name" : "清梦未央",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47804.jpg",
+      "summary" : "穿越百年的灵魂，是报应？还是塔罗牌命运之轮的魔力让我遇到你们？此情可待成追忆，只是当时已惘然和他注定",
+      "updateStatus" : 1,
+      "capacity" : 34381,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 3579,
+      "name" : "吕三东穿越记之终极终班",
+      "coverUrl" : "",
+      "summary" : "山东A市B校女生吕三东失恋跳楼，却意外闯进布特教授为带回参加穿越实验到清朝的学生怀斯制造的时光轨道，",
+      "updateStatus" : 1,
+      "capacity" : 387223,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2586,
+      "name" : "半面仙",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47358.jpg",
+      "summary" : "她是豪门千金，亿万家产的指定继承人，却意外穿越到1000年前的大兴国，成为丞相之女。他出生皇族，长于",
+      "updateStatus" : 1,
+      "capacity" : 3614846,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3546,
+      "name" : "红颜若雪：情倾后宫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_11847.jpg",
+      "summary" : "一朝穿越，谁与争锋。她，剑啸九天浮沉，笙歌漫舞丝竹声声，万人俯首称臣。他，茫茫风雪孤身征程，刀破轻云",
+      "updateStatus" : 1,
+      "capacity" : 702848,
+      "catName" : "历史架空",
+      "bothType" : true
+    }, {
+      "id" : 2274,
+      "name" : "世家贵女",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21879.jpg",
+      "summary" : "如果穿越是老天对沈婷的优待的话，那么同时有更优秀的现代女穿过来这算怎么回事儿，额外奖励？难道她只是女",
+      "updateStatus" : 1,
+      "capacity" : 5729827,
+      "catName" : "历史架空",
+      "bothType" : true
+    }, {
+      "id" : 3199,
+      "name" : "后宫大学传",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46260.jpg",
+      "summary" : "卧槽！娘娘你不能这样，做人要厚道。我不穿！我真的不穿！什么？我们寝室其他五个已经去了？靠！都是些没良",
+      "updateStatus" : 1,
+      "capacity" : 44741,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3489,
+      "name" : "夜色如昨",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46486.jpg",
+      "summary" : "历史轮回，蓦然回首却又见他；江山似旧，却已不再旧时情怀。一次穿越，她回到两千年前，一段痴恋，明知无果",
+      "updateStatus" : 1,
+      "capacity" : 170304,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3301,
+      "name" : "乱世五代，彼岸花开",
+      "coverUrl" : "",
+      "summary" : "周如梦在一次旅游之时，只因一时好奇秦王陵的无字碑，竟穿越回大唐昭宗天复三年，附身到平原公主——李凌薇",
+      "updateStatus" : 1,
+      "capacity" : 28678,
+      "catName" : "历史架空",
+      "bothType" : false
+    } ]
+  }
+}

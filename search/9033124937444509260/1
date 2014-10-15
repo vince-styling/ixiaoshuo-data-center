@@ -1,0 +1,55 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 2566,
+      "name" : "那些年，我和你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44352.jpg",
+      "summary" : "大学毕业之后，田诺诺与李荀怀着自己的梦想开始奔走社会，路途中她们一起欢笑，一起流泪，一起奋斗，一起记",
+      "updateStatus" : 1,
+      "capacity" : 8027784,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2846,
+      "name" : "疯子的大学生活",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42057.jpg",
+      "summary" : "每个人的青春，终逃不过一场情事。不论爱情，亲情，抑或友情。每个人的大学，也都避不开一段二逼的故事，一",
+      "updateStatus" : 1,
+      "capacity" : 8006827,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2531,
+      "name" : "烟雨紫蓬山",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47527.jpg",
+      "summary" : "青春懵懂、混沌不堪、美好憧憬...那些年，不想混却混着的日子，祭奠独有的酸涩记忆......云容含骤",
+      "updateStatus" : 1,
+      "capacity" : 8235873,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2262,
+      "name" : "三生河畔等着你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46563.jpg",
+      "summary" : "初恋是什么感觉，什么颜色？甜的、粉色的？白杏雨活了很久，还是很清晰的记得那个感觉。她曾经很恨很恨许凛",
+      "updateStatus" : 1,
+      "capacity" : 8864378,
+      "catName" : "历史架空",
+      "bothType" : true
+    }, {
+      "id" : 2882,
+      "name" : "那些年错过的爱情",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47212.jpg",
+      "summary" : "那些年我们错过的爱情，当你爱上了的时候，一切都将挽回不了。曾经在你面前的幸福，你亲手毁灭，现在知道珍",
+      "updateStatus" : 1,
+      "capacity" : 2234680,
+      "catName" : "都市校园",
+      "bothType" : false
+    } ]
+  }
+}

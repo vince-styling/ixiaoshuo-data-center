@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 4,
+    "totalItemCount" : 62,
+    "list" : [ {
+      "id" : 3310,
+      "name" : "龙级猎人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20583.jpg",
+      "summary" : "她曾经是哥哥身边的跟屁虫，整天无忧无虑地缠着哥哥买这买那，拥有着天下间最天真的笑容。他曾经是学院的废",
+      "updateStatus" : 1,
+      "capacity" : 756599,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2743,
+      "name" : "青羽记",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15091.jpg",
+      "summary" : "家族守护神的美女继承人，拥有魔瞳的银发美少女，江湖第一捕的娇蛮妹妹，柔情似水的穷苦红颜，六扇门一代冷",
+      "updateStatus" : 1,
+      "capacity" : 1533338,
+      "catName" : "仙侠修真",
+      "bothType" : true
+    }, {
+      "id" : 3117,
+      "name" : "总裁少女成长记",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18791.jpg",
+      "summary" : "因为是独女，便是商业帝国的唯一继承者。但是看着将自己视如珍宝的爷爷鬓游白丝，她只求一年的时间，找到能",
+      "updateStatus" : 2,
+      "capacity" : 1163641,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3167,
+      "name" : "凤武九霄：一品庶女傲天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44250.jpg",
+      "summary" : "她，是二十一世纪狠历沉着的绝色法医。一场意外，冷傲卓绝的她穿越异世，成为了驭龙族以痴傻闻名天下的庶出",
+      "updateStatus" : 1,
+      "capacity" : 523959,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2504,
+      "name" : "综主霹雳白鹿即吾心",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45638.jpg",
+      "summary" : "披着仙五唐雨柔壳子的少女穿越时空，谁来告诉她，为毛剧情还没开始，她人又穿了，玄霄？云天青？琼华？她仙",
+      "updateStatus" : 1,
+      "capacity" : 7569903,
+      "catName" : "同人其他",
+      "bothType" : false
+    }, {
+      "id" : 3389,
+      "name" : "芙蓉一纸欢",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44018.jpg",
+      "summary" : "许多年后，某园主懊恼万分。一失足成千古恨啊！他管妻不严，落得如此下场~夫人又赌气跑回娘家了！他连忙骑",
+      "updateStatus" : 1,
+      "capacity" : 48252,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3136,
+      "name" : "紫墟：涅槃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46863.jpg",
+      "summary" : "他是冷血强势的琅琊轩主人，她是从小被关进黑塔禁地的吟家三小姐，她出生那晚天现不详，家主慌乱中推开产房",
+      "updateStatus" : 1,
+      "capacity" : 150895,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 3205,
+      "name" : "当冷公主遇上甜心少",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44723.jpg",
+      "summary" : "自我介绍？哦、我叫风云澈，没了。还是这么冷漠、算了算了，允替你说，风云澈，圣彼特SA排行榜榜首，17",
+      "updateStatus" : 1,
+      "capacity" : 313488,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2811,
+      "name" : "苍少的禁忌小老婆",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47409.jpg",
+      "summary" : "他是犹如天神一样的男子，他是上到六十岁阿妈下到五岁小宝宝都爱戴喜欢的亲民对象，他是女孩们少女时代的梦",
+      "updateStatus" : 1,
+      "capacity" : 1794318,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2397,
+      "name" : "暧昧是青春的爱情",
+      "coverUrl" : "",
+      "summary" : "新浪认证微博：http://url.cn/HzP8Zl离奇狗血的初遇，让这群疯狂少男少女会聚一堂，一",
+      "updateStatus" : 2,
+      "capacity" : 1808448,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3170,
+      "name" : "哥哥，我愿为你染红这个世界",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46718.jpg",
+      "summary" : "“是呀，哥哥这些人都是我杀的，谁让他们敢染指我最爱的哥哥呢？”少女微笑着看着少年，如天真孩童一般，他",
+      "updateStatus" : 1,
+      "capacity" : 163163,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 2539,
+      "name" : "沙漏时光",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44862.jpg",
+      "summary" : "“喜欢就是看到她开心你也开心，看到她难过你也难过；看到她的笑容会恨不得让时间永远静止，看到她的泪水会",
+      "updateStatus" : 1,
+      "capacity" : 6539472,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2907,
+      "name" : "紫弦俏孤女",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45476.jpg",
+      "summary" : "现代少女误打误撞穿越时空来到架空历史的天朝，成了天朝的三公主。又有什么阴谋将要开始？有些事冥冥之中就",
+      "updateStatus" : 1,
+      "capacity" : 7346995,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3211,
+      "name" : "胭脂香味",
+      "coverUrl" : "",
+      "summary" : "他本是她的守护神，生就与她血脉相通。谁知一场天雷斩断了她与他的姻缘，却成就了另一个他对她的情缘。他是",
+      "updateStatus" : 1,
+      "capacity" : 63493,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3490,
+      "name" : "舍友是公主大人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44202.jpg",
+      "summary" : "刚进学校的第一天，舍友是位冷漠少女。一脸杀气的她，竟会和校草们说笑。真是不解，当打开教室的门时，惊天",
+      "updateStatus" : 1,
+      "capacity" : 112904,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3206,
+      "name" : "霸情邪少：专宠小娇妻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47285.jpg",
+      "summary" : "他如朝阳上迸发火红般炙热而又邪气难以靠近。她似夕阳下那片晕红般娇美而又飘渺无法接近。她孤身回国，带着",
+      "updateStatus" : 1,
+      "capacity" : 219149,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2944,
+      "name" : "嬗变",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47731.jpg",
+      "summary" : "莫子谦深爱着柳艳，表哥孟晓雷深爱着励思嘉，这本是幸福的两对，却因为一个月高风黑的夜晚，柳艳在放学路上",
+      "updateStatus" : 1,
+      "capacity" : 2074899,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3072,
+      "name" : "倒转乾坤：女帝慑天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47147.jpg",
+      "summary" : "她，是灭神阁阁主，一朝大意，灵魂横跨虚空而来，寄居于名为十六君卿的少女之身。一个因母亲的莫名执念，卸",
+      "updateStatus" : 1,
+      "capacity" : 439058,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 3095,
+      "name" : "墨色眼瞳中的温柔",
+      "coverUrl" : "",
+      "summary" : "少女似美酒，浓香醇厚少年似蒲公英的种子，一路相随渐影渐离樱花树下，唯美浪漫，花瓣飘落流连于手指之间豪",
+      "updateStatus" : 1,
+      "capacity" : 24997,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2183,
+      "name" : "红颜泪：风卷残荷",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45564.jpg",
+      "summary" : "她是身份神秘的丑颜少女，遭遇初恋的打击后涅槃蜕变为惊世红颜，行医江湖三年只为了寻那黑衣面具男子报仇。",
+      "updateStatus" : 1,
+      "capacity" : 1777630,
+      "catName" : "古代言情",
+      "bothType" : true
+    } ]
+  }
+}

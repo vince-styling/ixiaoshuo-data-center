@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 4,
+    "totalItemCount" : 62,
+    "list" : [ {
+      "id" : 2517,
+      "name" : "家教之七色光芒",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44222.jpg",
+      "summary" : "这是黑手党的世界，黑暗、残酷、暴力、弱肉强食、适者生存！这也是少年的世界，青春、热血、友爱、激情四射",
+      "updateStatus" : 1,
+      "capacity" : 6082533,
+      "catName" : "同人其他",
+      "bothType" : true
+    }, {
+      "id" : 2282,
+      "name" : "凤动九天：一等皇妃倾天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42227.jpg",
+      "summary" : "仇恨，让她从一个原本快乐无忧的孩子成为了笑容灿烂的“郡主”；阴谋，让她从一个原本享尽荣华的公主成为了",
+      "updateStatus" : 1,
+      "capacity" : 2093905,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 2572,
+      "name" : "魔妃逆九天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47328.jpg",
+      "summary" : "她，21世纪的杀手——嗜。无情，就好像她根本就没有心，更不知情为何物！一朝穿越，她成为沐家四小姐。在",
+      "updateStatus" : 1,
+      "capacity" : 1484289,
+      "catName" : "玄幻奇幻",
+      "bothType" : true
+    }, {
+      "id" : 2206,
+      "name" : "蔷薇公爵",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47021.jpg",
+      "summary" : "公爵家的千金失踪后完全变了一个性格又重新回到了家族的属地，这一次等待她的是全新的生活，深夜里耳畔响起",
+      "updateStatus" : 1,
+      "capacity" : 2467395,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2856,
+      "name" : "风诉",
+      "coverUrl" : "",
+      "summary" : "曾经简单舒适的生活，被一次任务所打破，原本平凡的魔族少女，一步一步走进阴谋与背叛之中，支撑她走到最后",
+      "updateStatus" : 1,
+      "capacity" : 4448443,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2509,
+      "name" : "明月何故照秦时",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19108.jpg",
+      "summary" : "她，一朝穿越，蝴蝶效应扇得历史脱离了轨道。她，古灵精怪，惹得墨家高层对她是又恨又爱。她，极度护短，敢",
+      "updateStatus" : 2,
+      "capacity" : 4198628,
+      "catName" : "同人其他",
+      "bothType" : false
+    }, {
+      "id" : 2044,
+      "name" : "七厘米的蔚蓝",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16305.jpg",
+      "summary" : "一个本是护士的男银，在没有考到资格证的情况下，外出打工。年仅十七八岁的他，初懂社会的黑暗。本以为一无",
+      "updateStatus" : 1,
+      "capacity" : 2265711,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2928,
+      "name" : "双面总裁：我的老公是哪位？",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46170.jpg",
+      "summary" : "安宁打死也不会承认连续三天新闻头版的那个疯女人是自己！安阳安慰她，“好歹是出了一回名不是，要知道多少",
+      "updateStatus" : 1,
+      "capacity" : 5624071,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2270,
+      "name" : "惊回千里梦相思",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22371.jpg",
+      "summary" : "她是顽皮少女，一朝入梦，遇到久候的他，他是五好少年，学霸，一直守候在她身边的青梅竹马，一场意外，她作",
+      "updateStatus" : 1,
+      "capacity" : 7691798,
+      "catName" : "历史架空",
+      "bothType" : true
+    }, {
+      "id" : 2563,
+      "name" : "妖妻毒后",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41989.jpg",
+      "summary" : "死神镰刀在慕容世家悄然而现，年轻的王子弑帝成君，第一件事，便是令天下再无慕容姓。她身处凤仪宫，尊贵无",
+      "updateStatus" : 1,
+      "capacity" : 3056313,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2527,
+      "name" : "火影同人暗夜帝国",
+      "coverUrl" : "",
+      "summary" : "在这个弱肉强食的世界里，我们只有紧紧依靠着彼此才能感受到那微弱的温暖，在这里我们会建立一个属于我们的",
+      "updateStatus" : 1,
+      "capacity" : 8042919,
+      "catName" : "同人其他",
+      "bothType" : false
+    }, {
+      "id" : 2259,
+      "name" : "一树梨花散，散，散",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18513.jpg",
+      "summary" : "所执悠，有着最崇高的身份，过着最低位的生活一场被刻意营造的海难，却由自己的亲人制造一场无望的眷恋，一",
+      "updateStatus" : 2,
+      "capacity" : 9346772,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 2486,
+      "name" : "天才少女侦探",
+      "coverUrl" : "",
+      "summary" : "天才侦探秋雪月，有多少个名字。本文前面推理情节较少，后面会增多。困难，天之骄子的选择是......",
+      "updateStatus" : 1,
+      "capacity" : 8351104,
+      "catName" : "灵异悬疑",
+      "bothType" : true
+    }, {
+      "id" : 3045,
+      "name" : "手中空握染血黑发",
+      "coverUrl" : "",
+      "summary" : "轮回之光再次普照，风花秋月往事萧萧。缘分的牵引，给她的人生带来了一场华丽的转折复仇？爱情?她在其中无",
+      "updateStatus" : 1,
+      "capacity" : 2246413,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2700,
+      "name" : "狐舞倾城：姐的世界你不懂",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44447.jpg",
+      "summary" : "首先，这是一个关于少女的故事其次，这是一个可能狗血的故事最后，欢迎观看简介：这是一个发生在女生身上的",
+      "updateStatus" : 1,
+      "capacity" : 9574542,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2063,
+      "name" : "花花少主不言爱：吃定小妖精",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16537.jpg",
+      "summary" : "有个无赖老哥就是不靠谱！不就是爱吃了一点么，居然害得她被人捉去当宠物。看着手中挣扎不已的青灰色小貂，",
+      "updateStatus" : 1,
+      "capacity" : 8327086,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2885,
+      "name" : "妃行天下不离不弃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44277.jpg",
+      "summary" : "正常人有没有两种不同性格？当然有，代表者非本文主角莫属。他，人前的清冷王爷，名副其实的高富帅一个，万",
+      "updateStatus" : 1,
+      "capacity" : 8600425,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3257,
+      "name" : "相思引，魔王的羁绊",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20152.jpg",
+      "summary" : "他，为了她，打破仙魔平衡，甘愿堕入轮回，生生世世生活在被诅咒的深渊永不得回转。她，为了他，宁愿放弃一",
+      "updateStatus" : 1,
+      "capacity" : 675620,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3025,
+      "name" : "EXO之爱上未来的你们",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46916.jpg",
+      "summary" : "「EXO」十二位花样美男组成的组合；「Future」十二位花样美少女组成的组合，看十二位少年怎样邂逅",
+      "updateStatus" : 1,
+      "capacity" : 2463043,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2283,
+      "name" : "三部曲之相遇在大唐",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46559.jpg",
+      "summary" : "此书献给清心宅女们。17岁花季的少女，在父母的相继离世下，得了严重的抑郁症，在她的生命里，本来还有着",
+      "updateStatus" : 1,
+      "capacity" : 1508496,
+      "catName" : "历史架空",
+      "bothType" : false
+    } ]
+  }
+}

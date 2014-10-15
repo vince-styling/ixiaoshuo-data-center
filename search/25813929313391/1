@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 4,
+    "totalItemCount" : 62,
+    "list" : [ {
+      "id" : 2960,
+      "name" : "时空之旅",
+      "coverUrl" : "",
+      "summary" : "被陨石流甩出银河系额，貌似情况有些严重……路遇神兽额，一顿烤鱼，能化干戈为玉帛，化神兽为萌宠，走出去",
+      "updateStatus" : 1,
+      "capacity" : 3545134,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2822,
+      "name" : "追妻攻略：腹黑BOSS不好惹",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41657.jpg",
+      "summary" : "程遇坐在沙发上气定神闲地喝着茶，看着那个进进出出忙碌的女人。“何疏影，去洗水果！”“何疏影，我饿了，",
+      "updateStatus" : 1,
+      "capacity" : 1971877,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2269,
+      "name" : "女皇倾国萌天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44302.jpg",
+      "summary" : "当腹黑霸气伪萝莉遇到傲娇正直小正太。是正太养成还是御姐变形记？她遇到他那年八岁。两人吵闹不停。她仗着",
+      "updateStatus" : 1,
+      "capacity" : 9308235,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 2465,
+      "name" : "双魂神探",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47780.jpg",
+      "summary" : "三个人，四个灵魂。叠加的双魂神探，左手牵着妖孽法医，右手拎着腹黑天师。诡异的案件，不怕！有她双魂神探",
+      "updateStatus" : 1,
+      "capacity" : 9044119,
+      "catName" : "灵异悬疑",
+      "bothType" : false
+    }, {
+      "id" : 2329,
+      "name" : "绝色兽妃戏天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44764.jpg",
+      "summary" : "她是军火女皇，王牌杀手，一场恶毒背叛，一朝时空交错。被自己的姐姐打死？人人轻贱的萧家小姐却死而复生，",
+      "updateStatus" : 1,
+      "capacity" : 5510233,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2385,
+      "name" : "换魂锁爱：小白掠爱冷总裁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18073.jpg",
+      "summary" : "【相认片段曝光】“你、你要干嘛？不许看！啊！”“为什么叫？你上上下下、里里外外、是人是鬼早都被我看光",
+      "updateStatus" : 2,
+      "capacity" : 1365718,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2300,
+      "name" : "蛇眸繁花",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15198.jpg",
+      "summary" : "这世上，也有人是穿越得根本不知道自己怎么穿的。这世上，也有天然呆偏偏是断案高手的。一朝穿越成名捕之女",
+      "updateStatus" : 2,
+      "capacity" : 2862316,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2777,
+      "name" : "穿越之风沁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46692.jpg",
+      "summary" : "她的前生被未婚夫和亲人背叛，这次她重生而来，不想再活得如此窝囊，不想再受人欺骗。今生，她遇到了视自己",
+      "updateStatus" : 1,
+      "capacity" : 8402359,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2134,
+      "name" : "腹黑吸血鬼",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43816.jpg",
+      "summary" : "那湿湿的唇火烫的滚动在自己的肌肤上，胸口……脖子……耳后……手臂……开始漫及全身……一瞬间，休耶尔忘",
+      "updateStatus" : 1,
+      "capacity" : 3806806,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2865,
+      "name" : "溺宠妖牌王妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44668.jpg",
+      "summary" : "她是穿越而来的腹黑公主，他是冷漠无情的夜国王爷。当腹黑公主遇到冷漠王爷会发生怎样的故事？他对所有人冷",
+      "updateStatus" : 1,
+      "capacity" : 8099503,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2843,
+      "name" : "家有仙妃很腹黑",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14496.jpg",
+      "summary" : "\"一场爆炸，她葬身火海。一朝梦醒，她魂落异世。重生为大金太子妃的晨萦，左有英俊太子相公护身，右有无敌",
+      "updateStatus" : 1,
+      "capacity" : 9373470,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2832,
+      "name" : "腹黑总裁：变身擒爱萌宠召唤师",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45470.jpg",
+      "summary" : "“你叫顾总？好吧，你给我听好了！”第一次见面她泼了他一脸咖啡奶茶混合物，指他鼻子大骂一顿。“你丫还拍",
+      "updateStatus" : 1,
+      "capacity" : 5200007,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2955,
+      "name" : "江山为聘：弃妃倾天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42922.jpg",
+      "summary" : "十六年前。一次处心积虑的谋划，一场千里追杀，她，金枝玉叶，于这夜沦为亡国遗孤，寄养他国，成为位列三公",
+      "updateStatus" : 1,
+      "capacity" : 8308184,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2630,
+      "name" : "腹黑女帝倾天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41906.jpg",
+      "summary" : "某女分分钟从黑道老大变身萌系小太女，宫廷水深，可对于默默这种老油条来说，正是如鱼得水，相得映彰。养精",
+      "updateStatus" : 1,
+      "capacity" : 8954619,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2186,
+      "name" : "落日传说",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17619.jpg",
+      "summary" : "【无限穿】神秘的宿命之镜，晶莹的镜子城堡。到游乐园游玩的女孩易沐悠，开启了她命运中的第一个转折。被妖",
+      "updateStatus" : 2,
+      "capacity" : 4841665,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2771,
+      "name" : "鸾情错，妃本无良",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47407.jpg",
+      "summary" : "她，懦弱、花痴又废才……一纸圣喻，嫁与爱慕的他为妻，却在大婚前期莫名落水身亡。她，腹黑、冷情又聪明…",
+      "updateStatus" : 1,
+      "capacity" : 5190540,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2783,
+      "name" : "半夏",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42025.jpg",
+      "summary" : "作为一个彪悍的女汉子，我的目标是找到一个可以媲美《网球王子》里幸村精市的少年当蓝颜知己。可是神之子没",
+      "updateStatus" : 1,
+      "capacity" : 2480210,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2757,
+      "name" : "总裁溺恋之是祸躲不过",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47439.jpg",
+      "summary" : "她，一名大学毕业一年的幼教老师，长辈眼中的乖乖女，除了上班就是宅家，不太上进，喜欢适当的米虫生活。他",
+      "updateStatus" : 1,
+      "capacity" : 8845121,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2106,
+      "name" : "呆萌小淘妻：腹黑夫君吃定你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18141.jpg",
+      "summary" : "什么？大侠？啥？武林盟主？我说，你该不会是骗人的吧……哇塞！内力烧开水！轻功追小偷……咳咳，你别得意",
+      "updateStatus" : 1,
+      "capacity" : 3014769,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2756,
+      "name" : "乖宝宝阵线联盟之一：帅宝贝别使坏",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44527.jpg",
+      "summary" : "这是五个天才宝宝寻找真爱的故事，不要想歪了，盆友们！真爱不是大人的世界才有的东东哦。小宝贝们只是想要",
+      "updateStatus" : 1,
+      "capacity" : 1963409,
+      "catName" : "都市校园",
+      "bothType" : false
+    } ]
+  }
+}

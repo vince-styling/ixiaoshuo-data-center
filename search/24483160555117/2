@@ -1,0 +1,73 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 27,
+    "list" : [ {
+      "id" : 3394,
+      "name" : "混混少爷的小气公主",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18240.jpg",
+      "summary" : "一个带着仇恨的女生（蛮小弃），爱上了玩世不恭的混混少爷（韩智宇），展开一段有欢笑，有痛楚的恋情与小弃",
+      "updateStatus" : 1,
+      "capacity" : 48924,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3125,
+      "name" : "竹马太凶残",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43569.jpg",
+      "summary" : "西隅中学来了三个转校生。恶名昭彰的G城恶霸竟然为了一个小时候的爱人而转校。那个身高异于常人的女生的出",
+      "updateStatus" : 1,
+      "capacity" : 184407,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3410,
+      "name" : "窈窕佳人",
+      "coverUrl" : "",
+      "summary" : "主要人物：百里君陌、世慕卿、宫瑾轩、顾安浅、楼长歌、苏心瑜内容简介：正可谓“窈窕淑女，君子好逑”，此",
+      "updateStatus" : 1,
+      "capacity" : 150174,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3415,
+      "name" : "黑道老大的冷酷男友",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20402.jpg",
+      "summary" : "冷血寒是一个容易心软的女孩，在她很小的时候遇到了比她大两岁的男孩，这个男孩第一眼看到她就喜欢上了她，",
+      "updateStatus" : 1,
+      "capacity" : 504890,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3311,
+      "name" : "韩菲之黑道女帝",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44991.jpg",
+      "summary" : "黑道，日日夜夜的在刀口上舔血、只能赌命的地方。一局，赢,则生，输,则死，没有后路可以退。这，就是她必",
+      "updateStatus" : 1,
+      "capacity" : 874605,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3095,
+      "name" : "墨色眼瞳中的温柔",
+      "coverUrl" : "",
+      "summary" : "少女似美酒，浓香醇厚少年似蒲公英的种子，一路相随渐影渐离樱花树下，唯美浪漫，花瓣飘落流连于手指之间豪",
+      "updateStatus" : 1,
+      "capacity" : 24997,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3601,
+      "name" : "黑道之一夕问晴天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47668.jpg",
+      "summary" : "纪流天，北美顶级黑帮豪门世家“流煞”的老大，冷然孤傲，因为一个U盘，他意外邂逅了沉静清雅的外科女医生",
+      "updateStatus" : 1,
+      "capacity" : 94058,
+      "catName" : "都市校园",
+      "bothType" : false
+    } ]
+  }
+}

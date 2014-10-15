@@ -8,83 +8,75 @@
     "list" : [ {
       "id" : 3273,
       "name" : "神医皇后",
-      "author" : "lh13",
+      "coverUrl" : "",
       "summary" : "7岁母亲因病逝世，她从此立志为医，踏遍各地，行医为善；却因皇命嫁与他，从此开始了勾心斗角、危险重重的",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 43335,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3397,
       "name" : "红颜祸水：皇后潜潜水",
-      "author" : "筱冰兰月",
+      "coverUrl" : "",
       "summary" : "古往今来，人生在世，都逃不过一个情字，无论是亲情亦或是爱情，春：是万物的复苏，夏：是桑拿的浴池；秋：",
       "updateStatus" : 1,
-      "catName" : "历史架空",
       "capacity" : 133513,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3049,
       "name" : "做什么公主，来做皇后吧",
-      "author" : "漫潮声",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47775.jpg",
       "summary" : "谁说女子不如男，低调而已；谁说女子见识短，守拙而已。一个是侄子，从没叫过她姑姑。一个是如儿子般养大的",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 148898,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3403,
       "name" : "权倾凤妆",
-      "author" : "宸蔚",
+      "coverUrl" : "",
       "summary" : "生死不负的誓言他拉着她的手，说道：后宫只有你一人，皇后是你，妃子是你，嫔也是你，都是虚的名头，我只爱",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 338866,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 3150,
       "name" : "我是小丫",
-      "author" : "袁诗意",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44809.jpg",
       "summary" : "一个现代社会打拼的女子，在中元节的时候不幸被鬼缠身，掐死，在地府即将还阳的时候，却被告知自己要去一个",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 213878,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 3474,
       "name" : "穿越还珠之乾隆是我的",
-      "author" : "蓝色幽魅",
+      "coverUrl" : "",
       "summary" : "上官轩觉得他这辈子都没这么倒霉过，他只不过是自恋了些，爱美了些……可是老天为毛让他一觉醒来就发现自己",
       "updateStatus" : 1,
-      "catName" : "历史架空",
       "capacity" : 31868,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : false
     }, {
       "id" : 3339,
       "name" : "臆乱情迷",
-      "author" : "喵小蜜",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47770.jpg",
       "summary" : "月老如何结连理，总教姻缘戏恋人两只猫仙捣乱月老司，导致姻缘错乱。她（伊一）与她（艾亿）穿越而来到异世",
       "updateStatus" : 1,
-      "catName" : "穿越异界",
       "capacity" : 228033,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 3294,
       "name" : "朕爱生命，远离皇后",
-      "author" : "回忆晏",
+      "coverUrl" : "",
       "summary" : "无情版‘给朕把这个死女人打入冷宫’可怜版‘皇后朕错了，让朕进去吧，外面好冷。’发飙版‘敢调戏我女人，",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 75886,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : true
     } ]
   }
 }

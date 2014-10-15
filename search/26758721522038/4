@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 4,
+    "totalPageCount" : 12,
+    "totalItemCount" : 240,
+    "list" : [ {
+      "id" : 2375,
+      "name" : "杀手穿越成煮夫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21556.jpg",
+      "summary" : "一个杀手穿越成一个书生，还是上京赶考的，他当然不可能替他去考试，于是在一个小镇上开家酒楼，本想安安定",
+      "updateStatus" : 1,
+      "capacity" : 8345275,
+      "catName" : "幻想耽美",
+      "bothType" : false
+    }, {
+      "id" : 2968,
+      "name" : "重生之待到记忆镂空时",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44462.jpg",
+      "summary" : "有些事情是你无从想象后也无从考究的。这是蓝析萌对于自己穿越至佣都国的将军府里后，再次发出的感叹。本不",
+      "updateStatus" : 2,
+      "capacity" : 4926796,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2716,
+      "name" : "风华绝代红颜决",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19981.jpg",
+      "summary" : "一朝穿越当小姐，回首再顾成皇后。只因微微回眸，却再难割舍。也许这就是现实，不论身在何方，仍是挣扎的生",
+      "updateStatus" : 1,
+      "capacity" : 2514514,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 2724,
+      "name" : "陌路：琴音",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46849.jpg",
+      "summary" : "和一群朋友狂欢醉酒后她不慎落水，醒来后却发现自己莫名其妙地穿越，且身世成谜；他是清玄王朝丞相嫡子，因",
+      "updateStatus" : 1,
+      "capacity" : 3435302,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2443,
+      "name" : "时光记得我爱你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46283.jpg",
+      "summary" : "《时光记得我爱你》：又名《被颠覆的时空之英雄冢》属于《被颠覆的时空》第二部：穿越三次元时空，君月再寻",
+      "updateStatus" : 1,
+      "capacity" : 7376251,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3716,
+      "name" : "芊妃驾到：得罪不得",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42426.jpg",
+      "summary" : "一条来路不明的短信，一场突如其来的车祸，让她魂归娄月一朝穿越，她由人尽皆知集温柔贤淑，温文尔雅于一身",
+      "updateStatus" : 1,
+      "capacity" : 1932715,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2106,
+      "name" : "呆萌小淘妻：腹黑夫君吃定你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18141.jpg",
+      "summary" : "什么？大侠？啥？武林盟主？我说，你该不会是骗人的吧……哇塞！内力烧开水！轻功追小偷……咳咳，你别得意",
+      "updateStatus" : 1,
+      "capacity" : 3014769,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3666,
+      "name" : "傲视苍穹：痴傻七小姐",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42648.jpg",
+      "summary" : "21世纪最出色的女特工出任务时，居然遭到了同伴的背叛！爆炸声响起，焰碟肉身灰飞烟灭，穿越架空时代，成",
+      "updateStatus" : 1,
+      "capacity" : 1922694,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2734,
+      "name" : "诱拐冷情公主妻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18719.jpg",
+      "summary" : "血刃，杀戮，从一开始，就是她生命的全部，无论是前世还是今生。其实，并不是天生就这样冷血无情，只是有些",
+      "updateStatus" : 1,
+      "capacity" : 8952904,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2742,
+      "name" : "异界为魔",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47069.jpg",
+      "summary" : "前世被尊为魔君殇的杀手因为一次任务失败被组织追杀，就把主上的老巢爆了当然他也没活。不甘的灵魂受到上天",
+      "updateStatus" : 1,
+      "capacity" : 2662602,
+      "catName" : "仙侠修真",
+      "bothType" : true
+    }, {
+      "id" : 2162,
+      "name" : "琴之飞絮",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14847.jpg",
+      "summary" : "穿越成婴儿，从小见不到母亲，更得不到父亲的疼爱。没关系，她有疼爱她照顾她的嬷嬷和婢女姐姐。离开禁锢她",
+      "updateStatus" : 2,
+      "capacity" : 5529073,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 2560,
+      "name" : "穿越女尊之桃花朵朵开",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45062.jpg",
+      "summary" : "叶小花莫明其妙地逛街逛到了不知名的时空，也逛进了等待着她的重重迷雾。用她的话说就是：有中五百万的运气",
+      "updateStatus" : 1,
+      "capacity" : 8025952,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2948,
+      "name" : "庶女狂妃：傲凤逆九天",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47994.jpg",
+      "summary" : "读者群，交流群，喜欢的亲可以加入：324611606卿本张狂，傲世无双。她凤无双本是二十一世纪神王级",
+      "updateStatus" : 1,
+      "capacity" : 9975765,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2318,
+      "name" : "特工穿越之时空轮回",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18789.jpg",
+      "summary" : "她，继承父亲的衣钵，为寻求父亲失踪的原因，掉入了父亲研究的时空里。他，幼年登位，首辅太后辅政，冷眼旁",
+      "updateStatus" : 2,
+      "capacity" : 5587369,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2885,
+      "name" : "妃行天下不离不弃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44277.jpg",
+      "summary" : "正常人有没有两种不同性格？当然有，代表者非本文主角莫属。他，人前的清冷王爷，名副其实的高富帅一个，万",
+      "updateStatus" : 1,
+      "capacity" : 8600425,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2301,
+      "name" : "卿愿与君长相守",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18088.jpg",
+      "summary" : "谁会想到游泳竟能穿越，谁会想到她的不争不抢竟被理解成欲拒还迎。她胸无大志，入宫只为三餐温饱。他心狠孤",
+      "updateStatus" : 2,
+      "capacity" : 7811688,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2583,
+      "name" : "梦中红叶知多少",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47089.jpg",
+      "summary" : "双星陨落，直阳现世，阴阳共存，乾坤易定，瑶玉生光，赤魔重生，天下大乱。一朝穿越，却成为背负三界命运之",
+      "updateStatus" : 1,
+      "capacity" : 4748951,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2358,
+      "name" : "君不君，臣不臣",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47230.jpg",
+      "summary" : "穿越？啊哈，我要苏完天下美男。哎，说的我好像穿越成女的一样。战乱？啊哈，我要行侠天下，成为一代大侠。",
+      "updateStatus" : 1,
+      "capacity" : 2771373,
+      "catName" : "幻想耽美",
+      "bothType" : false
+    }, {
+      "id" : 3012,
+      "name" : "会有惊鸿替倦鸟",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44322.jpg",
+      "summary" : "只是曾经也在爱里颓然倒地，一生若不狠狠熬过几次爱恨交煎，年华老去拿什么回忆……——【李宗盛&midd",
+      "updateStatus" : 1,
+      "capacity" : 2196411,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2096,
+      "name" : "天下第一媒",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44142.jpg",
+      "summary" : "千百度，度尽痴男怨女的爱恨纠缠，一个叫人又爱恨的地方，它的主人被称为“狐狸”，红颜白发，从将军到媒婆",
+      "updateStatus" : 1,
+      "capacity" : 9916575,
+      "catName" : "古代言情",
+      "bothType" : true
+    } ]
+  }
+}

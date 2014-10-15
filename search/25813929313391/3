@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 3,
+    "totalPageCount" : 4,
+    "totalItemCount" : 62,
+    "list" : [ {
+      "id" : 2584,
+      "name" : "再见，暴君总裁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41775.jpg",
+      "summary" : "记住！你可以腹黑，可以霸道，可以暴君，但是姐可以转身，爱谁谁！这是正常女子的反应。可有的女子温柔得如",
+      "updateStatus" : 1,
+      "capacity" : 8244913,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3149,
+      "name" : "风仪万千",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44304.jpg",
+      "summary" : "风仪霜，穿越到梵天大陆的异世之魂。四岁惨遭灭门，以颠覆苍茫为己任。清冷孤绝，冷睨世情。极端压抑，犀利",
+      "updateStatus" : 1,
+      "capacity" : 573504,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 3501,
+      "name" : "交易王妃初尝夜",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42821.jpg",
+      "summary" : "有没有搞错，一觉醒来居然成了赫赫有名的战王爷之女，这个不是应该很威风吗？为什么会被这个阴险的侧室一害",
+      "updateStatus" : 1,
+      "capacity" : 536254,
+      "catName" : "历史架空",
+      "bothType" : true
+    }, {
+      "id" : 3491,
+      "name" : "倾世逃妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41383.jpg",
+      "summary" : "她一家财万贯世界首富的三女儿,可过着下人般的生活.他为她开启了一扇窗,可又无情地关上.被冷酷的姐姐推",
+      "updateStatus" : 1,
+      "capacity" : 275213,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3502,
+      "name" : "其实我很低调",
+      "coverUrl" : "",
+      "summary" : "温婉可人善解人意大家闺秀小家碧玉纯淑女？一脸懵懂涉世未深软妹子？无节操无下限神经大条女屌丝？暴力到爆",
+      "updateStatus" : 1,
+      "capacity" : 213709,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 3136,
+      "name" : "紫墟：涅槃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46863.jpg",
+      "summary" : "他是冷血强势的琅琊轩主人，她是从小被关进黑塔禁地的吟家三小姐，她出生那晚天现不详，家主慌乱中推开产房",
+      "updateStatus" : 1,
+      "capacity" : 150895,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 3324,
+      "name" : "娘子，不许口是心非",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43423.jpg",
+      "summary" : "据说有位惊为天人的温柔男子带着一名张牙舞爪的彪悍女子行走江湖据说他们是为了寻找炽玉来造福天下的据说他",
+      "updateStatus" : 1,
+      "capacity" : 60103,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3509,
+      "name" : "秋以为期",
+      "coverUrl" : "",
+      "summary" : "泛黄的古医书，神奇的穿越旅，不一样的世界，不一样的女神医。华佗，那是她的师傅；探案，那是她的直觉；验",
+      "updateStatus" : 1,
+      "capacity" : 166333,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3627,
+      "name" : "调皮公主的霸气王子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46449.jpg",
+      "summary" : "【见面时】他在她的耳旁说：“猪头女，我季雨泽永远都不会爱上你。”她满脸通红的对着他吼：“就算全世界只",
+      "updateStatus" : 1,
+      "capacity" : 78969,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2230,
+      "name" : "妖殇惑世",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47944.jpg",
+      "summary" : "简介：她是杀手之王，才艺惊人。性格嗜血腹黑无耻。她是将军养女，才艺平庸。性格懦弱天真蠢笨。❀❀===",
+      "updateStatus" : 1,
+      "capacity" : 1084895,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 3687,
+      "name" : "至尊天下：霸占绝色鬼颜妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47624.jpg",
+      "summary" : "富二代起床气女王躺着也中枪，意外的车祸让鬼差把魂勾错，将她安置古代丞相府之嫡女的体内。什么？把她安置",
+      "updateStatus" : 1,
+      "capacity" : 529746,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 3290,
+      "name" : "婚然厚爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41681.jpg",
+      "summary" : "本以为没了慕湛西，生活就会安稳了吧！可是还冒出个了顾行止，不过就让假装了一次男朋友，可这厮倒好，直接",
+      "updateStatus" : 1,
+      "capacity" : 38920,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3365,
+      "name" : "夜已阑珊",
+      "coverUrl" : "",
+      "summary" : "女主小白，男主腹黑。",
+      "updateStatus" : 1,
+      "capacity" : 52599,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3067,
+      "name" : "总裁霸情：调教偷心贼娘子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22626.jpg",
+      "summary" : "古代正义侠盗女贼初若，一朝穿越到现代，惹上霸道腹黑总裁，从此生活精彩，笑料频频，且看一向偷盗钱财的她",
+      "updateStatus" : 1,
+      "capacity" : 34391,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3314,
+      "name" : "倾城薄雾，似水流年",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44307.jpg",
+      "summary" : "原本正常的生活、在她即将步入大学的时候发生了翻天覆地的变化。夜晚的梦、风中的竹林，优美空灵的笛声…这",
+      "updateStatus" : 2,
+      "capacity" : 46050,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 3375,
+      "name" : "静待流年",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43499.jpg",
+      "summary" : "这是一个面瘫女和腹黑男的故事，这是一个学长“吃掉”学妹的故事！面瘫不一定总面无表情，心底冷淡....",
+      "updateStatus" : 1,
+      "capacity" : 241163,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2513,
+      "name" : "溺爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15528.jpg",
+      "summary" : "炼金室里……裴吉（星星眼）：维亚，什么是妻奴啊？维亚：嗯？为什么这么问？裴吉：艾伦说安帝斯是妻奴。维",
+      "updateStatus" : 1,
+      "capacity" : 1644669,
+      "catName" : "同人其他",
+      "bothType" : false
+    }, {
+      "id" : 3678,
+      "name" : "青春很有邪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44378.jpg",
+      "summary" : "为了查案来到贵族学院，不幸惹到小腹黑，一边查案还要一边伺候他这个大少爷，到底什么时候是个头啊？不过也",
+      "updateStatus" : 1,
+      "capacity" : 228820,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2165,
+      "name" : "擒猪不力：索爱腹黑仙君",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20909.jpg",
+      "summary" : "从前她是呆子，情窦初开时，被人设计而死。后来她是软柿子，前人的精心设计，让她在死之前方才明白，她爱着",
+      "updateStatus" : 2,
+      "capacity" : 5570965,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 3728,
+      "name" : "含烟思窃之皇上、臣妾做不到",
+      "coverUrl" : "",
+      "summary" : "她，一个腹黑，无天良,,力气超大的高中网络小说家、、、、他，，一个人人闻风丧胆的恐怖政坛，，江湖，，",
+      "updateStatus" : 1,
+      "capacity" : 44192,
+      "catName" : "历史架空",
+      "bothType" : false
+    } ]
+  }
+}

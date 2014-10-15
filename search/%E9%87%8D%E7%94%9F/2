@@ -8,203 +8,183 @@
     "list" : [ {
       "id" : 2111,
       "name" : "官家小妾",
-      "author" : "秋雨梨花",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16834.jpg",
       "summary" : "扬州总兵叶家的庶出九小姐的叶轻离，本想平凡度过一生的她，却嫁入公卿之家成了平南侯莫逸晨的第四位小妾，",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 9527583,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2546,
       "name" : "风流公子：赖上重生佳人",
-      "author" : "弥砂",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18974.jpg",
       "summary" : "明明已经死去的人，为什么两年之后又重新回到了他的生命之中。究竟是不是同一个人。为什么回来的时候身旁还",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 1613835,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2894,
       "name" : "废材大小姐之凤傲天下",
-      "author" : "陌雅",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43061.jpg",
       "summary" : "她，凤云兮，现代嗜血联盟的顶级杀手，她凤云兮要人三更死，阎王绝不留五更！一朝穿越，她重生在乱世大陆凤",
       "updateStatus" : 1,
-      "catName" : "穿越异界",
       "capacity" : 7364623,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2864,
       "name" : "天幕吟之雪荒初史",
-      "author" : "陌子庚",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46422.jpg",
       "summary" : "水火一片，淹没烧尽大地，重生！波涛怒海，大雨磅礴，泥土纷沓，席卷而来！风呼呼，马鸣萧，战火硝烟弥漫！",
       "updateStatus" : 1,
-      "catName" : "玄幻奇幻",
       "capacity" : 5828225,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 2066,
       "name" : "祸爱三生：嗜血夺天下",
-      "author" : "江姝渃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16467.jpg",
       "summary" : "他是睥睨天下的冷酷世子，爱情于他而言不过一颗棋子，需之则用，用之则弃，毫不可惜。她是惨遭灭门的相国千",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 3587104,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2057,
       "name" : "异世修罗：废材小姐不好惹",
-      "author" : "梦汐云",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44510.jpg",
       "summary" : "她，是地下佣兵之王，嗜血张狂无人能挡。而她，是四大修魄世家之首的玉家血脉中最难以启齿的污点，元武皆废",
       "updateStatus" : 1,
-      "catName" : "仙侠修真",
       "capacity" : 7439165,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 2771,
       "name" : "鸾情错，妃本无良",
-      "author" : "叮叮铛",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47407.jpg",
       "summary" : "她，懦弱、花痴又废才……一纸圣喻，嫁与爱慕的他为妻，却在大婚前期莫名落水身亡。她，腹黑、冷情又聪明…",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 5190540,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2968,
       "name" : "重生之待到记忆镂空时",
-      "author" : "前世谁埋我",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44462.jpg",
       "summary" : "有些事情是你无从想象后也无从考究的。这是蓝析萌对于自己穿越至佣都国的将军府里后，再次发出的感叹。本不",
       "updateStatus" : 2,
-      "catName" : "古代言情",
       "capacity" : 4926796,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2131,
       "name" : "重生之嫡女云笙",
-      "author" : "院锁丹青",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45509.jpg",
       "summary" : "上一世，她先是被有婚约的太子抛弃，后又因渣男的花言巧语，深陷不属于一个贵门嫡女的爱情。这一世，她既不",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 7859192,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : false
     }, {
       "id" : 2538,
       "name" : "幸福百里",
-      "author" : "纯馨",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45335.jpg",
       "summary" : "善良可爱的她，是洛氏集团的千金二小姐——洛欣婷，论姿色、才艺、才情当属第一，在她的眼中，一切都是美好",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 8382512,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2356,
       "name" : "霡霂云飒",
-      "author" : "沐古月",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44067.jpg",
       "summary" : "玄冥雨神跟妖界之主的恋情好不容易被承认，却因为人间的灾难而不得不分开。最后，雨神承诺自己会重生……三",
       "updateStatus" : 1,
-      "catName" : "幻想耽美",
       "capacity" : 1660828,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "幻想耽美",
+      "bothType" : true
     }, {
       "id" : 2742,
       "name" : "异界为魔",
-      "author" : "打工皇帝",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47069.jpg",
       "summary" : "前世被尊为魔君殇的杀手因为一次任务失败被组织追杀，就把主上的老巢爆了当然他也没活。不甘的灵魂受到上天",
       "updateStatus" : 1,
-      "catName" : "仙侠修真",
       "capacity" : 2662602,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "仙侠修真",
+      "bothType" : true
     }, {
       "id" : 2583,
       "name" : "梦中红叶知多少",
-      "author" : "浅倦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47089.jpg",
       "summary" : "双星陨落，直阳现世，阴阳共存，乾坤易定，瑶玉生光，赤魔重生，天下大乱。一朝穿越，却成为背负三界命运之",
       "updateStatus" : 1,
-      "catName" : "穿越异界",
       "capacity" : 4748951,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2187,
       "name" : "来自天猫星",
-      "author" : "青云雁子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17346.jpg",
       "summary" : "宇宙是神秘而奇妙的，在那深远的宇宙之中到底隐藏着什么？我是为何而诞生？一直一直独自一个人，在黑暗中徘",
       "updateStatus" : 2,
-      "catName" : "玄幻奇幻",
       "capacity" : 7594820,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     }, {
       "id" : 2054,
       "name" : "囧囧穿越：不良丑妃惑君心",
-      "author" : "屁桃君",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45400.jpg",
       "summary" : "系列之三：她本是名不转经传的公司白领却一朝穿越来到了隋末年间，睁开眼帘便看见了满眼的黄沙……一位经过",
       "updateStatus" : 1,
-      "catName" : "古代言情",
       "capacity" : 1375415,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "古代言情",
+      "bothType" : true
     }, {
       "id" : 2204,
       "name" : "穿越无门之门",
-      "author" : "弋痕夕",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19272.jpg",
       "summary" : "开启无门之门的钥匙就是那颗人人争夺的查克拉石，而其契机即是九星连珠。一现代女叛忍左初因男友慕凌雪背叛",
       "updateStatus" : 1,
-      "catName" : "玄幻奇幻",
       "capacity" : 7037240,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2708,
       "name" : "风云破:逆转乾坤",
-      "author" : "一个人哒芭蕾",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44446.jpg",
       "summary" : "【女强】【爽文】她努力一生，还是被算计到阴谋之中。重生之后，她又如何书写一部传奇的奋斗史？如何收获自",
       "updateStatus" : 1,
-      "catName" : "玄幻奇幻",
       "capacity" : 4534185,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 3008,
       "name" : "网王之王者领域",
-      "author" : "墨韵流年",
+      "coverUrl" : "",
       "summary" : "清晨的阳光再次照入女子的心灵，重生之后的生活比她想象中的青春激情多了。前一世，她是站在巅峰的高校界乃",
       "updateStatus" : 1,
-      "catName" : "同人其他",
       "capacity" : 5592090,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2339,
       "name" : "盗成大神",
-      "author" : "问情仙乐",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22818.jpg",
       "summary" : "患有先天性心脏病的夕颜在给自己的弟弟，成功的铺好了所有的路以后，终于还是斗不过命运的残酷，最终死去。",
       "updateStatus" : 1,
-      "catName" : "穿越异界",
       "capacity" : 9735537,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "穿越异界",
+      "bothType" : false
     }, {
       "id" : 2233,
       "name" : "末世之非末之世",
-      "author" : "南宫泠",
+      "coverUrl" : "",
       "summary" : "第一次直面末世，江沐昕无从下手，一路上她坚持着从小接受的教育和理念，但那些所谓正确的观念却不能让她在",
       "updateStatus" : 1,
-      "catName" : "玄幻奇幻",
       "capacity" : 6982244,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "玄幻奇幻",
+      "bothType" : true
     } ]
   }
 }

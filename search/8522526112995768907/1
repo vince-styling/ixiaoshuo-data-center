@@ -1,0 +1,46 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 4,
+    "list" : [ {
+      "id" : 2181,
+      "name" : "荆棘路之异界荆棘",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45546.jpg",
+      "summary" : "浩瀚宇宙，无边无涯，红尘漂泊一世，任你才华横溢，百年后也不过一抔黄土；纵你倾国倾城，到最后也只剩红粉",
+      "updateStatus" : 1,
+      "capacity" : 9443890,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 2492,
+      "name" : "网战尖兵",
+      "coverUrl" : "",
+      "summary" : "一特种兵激战海外做特保，后转作网络高手并进入国安的故事。",
+      "updateStatus" : 1,
+      "capacity" : 2095335,
+      "catName" : "同人其他",
+      "bothType" : false
+    }, {
+      "id" : 2707,
+      "name" : "噬魂特种兵：浴火霸天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47181.jpg",
+      "summary" : "她本是某特种部队的女特种兵，代号哑雀，刚刚才通过特种兵的考核，早就做好了随时为祖国献身的准备，不过因",
+      "updateStatus" : 1,
+      "capacity" : 4038073,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2642,
+      "name" : "黑道特种部队",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47515.jpg",
+      "summary" : "这里是黑道，一群特种兵来到这里，他们的名字让人敬仰，他们所到之处让敌人闻风丧胆，他们的英勇让人赞扬，",
+      "updateStatus" : 1,
+      "capacity" : 3480178,
+      "catName" : "都市校园",
+      "bothType" : true
+    } ]
+  }
+}

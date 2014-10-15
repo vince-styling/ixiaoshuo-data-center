@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 5,
+    "totalItemCount" : 90,
+    "list" : [ {
+      "id" : 2985,
+      "name" : "重生之红梅烙",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45045.jpg",
+      "summary" : "内容介绍：意外重生，竟变成梅家废材，前世繁华不在，如今又该怎样扭转人生。魔界至尊，遭遇何种竟会仇恨至",
+      "updateStatus" : 1,
+      "capacity" : 1800463,
+      "catName" : "玄幻奇幻",
+      "bothType" : true
+    }, {
+      "id" : 2143,
+      "name" : "重生修炼龙祖",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19385.jpg",
+      "summary" : "电生平淡的生活了一生，与别人相比活到92岁高龄是件很幸福的事，但即使如此面临生死离别也是件痛苦的事，",
+      "updateStatus" : 2,
+      "capacity" : 8531324,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 2334,
+      "name" : "异时空情恋之殿下不要忽悠我",
+      "coverUrl" : "",
+      "summary" : "倾心相恋，却换来刻骨铭心的背叛。“林逸之，我以莲华圣女的鲜血诅咒你，诅咒你下一世深深爱上一个人，却求",
+      "updateStatus" : 1,
+      "capacity" : 7488953,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2059,
+      "name" : "娘子，贫僧等你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_7693.jpg",
+      "summary" : "她是白狐村里千年难遇的美人，却不料遇到了化缘的戒色，该死的臭和尚，竟敢骂她是嫁不出、没人要的狐狸！哼",
+      "updateStatus" : 2,
+      "capacity" : 4516512,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2601,
+      "name" : "倾城馨少桃花多",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46636.jpg",
+      "summary" : "前世她是全球第一公司——雨薇公司的董事长——君月馨，更是杀手阁‘炼狱紫碟’的阁主——蝶，却不料，玩游",
+      "updateStatus" : 2,
+      "capacity" : 9633766,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2777,
+      "name" : "穿越之风沁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46692.jpg",
+      "summary" : "她的前生被未婚夫和亲人背叛，这次她重生而来，不想再活得如此窝囊，不想再受人欺骗。今生，她遇到了视自己",
+      "updateStatus" : 1,
+      "capacity" : 8402359,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2509,
+      "name" : "明月何故照秦时",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19108.jpg",
+      "summary" : "她，一朝穿越，蝴蝶效应扇得历史脱离了轨道。她，古灵精怪，惹得墨家高层对她是又恨又爱。她，极度护短，敢",
+      "updateStatus" : 2,
+      "capacity" : 4198628,
+      "catName" : "同人其他",
+      "bothType" : true
+    }, {
+      "id" : 2651,
+      "name" : "黑暗之争：天道征程",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46663.jpg",
+      "summary" : "“老大，什么是灰色制度？”闻言卓玥眨眨眼睛但笑不语。她是谁？她是拥有多重身份的女强。她拥有上亿资产，",
+      "updateStatus" : 1,
+      "capacity" : 1808855,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2218,
+      "name" : "谁欲人王",
+      "coverUrl" : "",
+      "summary" : "懵懂少年,机缘巧合再世为人.异世重生,多经离难,锻其身,练其智,凭借自有超理念与知识闯天下,觅真爱,",
+      "updateStatus" : 1,
+      "capacity" : 3337808,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2843,
+      "name" : "家有仙妃很腹黑",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14496.jpg",
+      "summary" : "\"一场爆炸，她葬身火海。一朝梦醒，她魂落异世。重生为大金太子妃的晨萦，左有英俊太子相公护身，右有无敌",
+      "updateStatus" : 1,
+      "capacity" : 9373470,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2763,
+      "name" : "医暖天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45970.jpg",
+      "summary" : "凤凰涅盘，浴火重生......遗失了五岁之前所有的记忆，她成了养女。为了姐姐，她外出学医多年。性情温",
+      "updateStatus" : 1,
+      "capacity" : 2193731,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2172,
+      "name" : "重生之倾城杀手",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43517.jpg",
+      "summary" : "她是杀手界鼎鼎有名的金牌神枪手，出任务从没有失败过，却不料被姐姐为情错杀！没想到在异世重生，成了皓月",
+      "updateStatus" : 1,
+      "capacity" : 9596466,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 2563,
+      "name" : "妖妻毒后",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41989.jpg",
+      "summary" : "死神镰刀在慕容世家悄然而现，年轻的王子弑帝成君，第一件事，便是令天下再无慕容姓。她身处凤仪宫，尊贵无",
+      "updateStatus" : 1,
+      "capacity" : 3056313,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2298,
+      "name" : "重生联盟之绝代风华",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44089.jpg",
+      "summary" : "厌倦了隐世家族的争斗，她以决绝的方式结束了这一切。却不料……遇上了重生这回事。这一世，她以大联盟宋家",
+      "updateStatus" : 1,
+      "capacity" : 4686445,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2123,
+      "name" : "鬼歾",
+      "coverUrl" : "",
+      "summary" : "曾经威震六界的一族，却因为背叛，沉默了千年。千年重生后的一切，是否依旧。“嗯，虽然我想起了事情的部分",
+      "updateStatus" : 2,
+      "capacity" : 7943182,
+      "catName" : "玄幻奇幻",
+      "bothType" : true
+    }, {
+      "id" : 2082,
+      "name" : "魔妃惑君心",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43839.jpg",
+      "summary" : "一场无法改变的命局，一场注定好的输赢，她是命定的帝女，“踏雪而生，一统天下……”亲人的背叛，朋友的利",
+      "updateStatus" : 1,
+      "capacity" : 8497555,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2242,
+      "name" : "断刃天涯",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47494.jpg",
+      "summary" : "诸神的黄昏，是上天的惩罚，还是重生的预兆。作为英雄诞生之地的阿拉德大陆却成为了人世间最后一方净土，谁",
+      "updateStatus" : 1,
+      "capacity" : 7099460,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2673,
+      "name" : "默默心动",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47640.jpg",
+      "summary" : "重生世家千金。人品碉堡了，空间戒指哟~~还附赠异能哟~只是怎么觉得这异能果断不靠谱？“夫君，快到碗里",
+      "updateStatus" : 1,
+      "capacity" : 4097034,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2767,
+      "name" : "美人目",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45909.jpg",
+      "summary" : "他纤长的手指触到映着一抹红影的池面，想要紧紧抓住，那抹红影却随着水波散去。他抬起头，隐约间似乎看到一",
+      "updateStatus" : 1,
+      "capacity" : 1425392,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2150,
+      "name" : "最",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47523.jpg",
+      "summary" : "世人都道，雪界神君，孤傲清冷，凭借自己一身的能力，为她的子民开天辟地，创造属于自己的国度，其一身能力",
+      "updateStatus" : 1,
+      "capacity" : 6259412,
+      "catName" : "仙侠修真",
+      "bothType" : true
+    } ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 5,
+    "totalItemCount" : 87,
+    "list" : [ {
+      "id" : 2282,
+      "name" : "凤动九天：一等皇妃倾天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42227.jpg",
+      "summary" : "仇恨，让她从一个原本快乐无忧的孩子成为了笑容灿烂的“郡主”；阴谋，让她从一个原本享尽荣华的公主成为了",
+      "updateStatus" : 1,
+      "capacity" : 2093905,
+      "catName" : "历史架空",
+      "bothType" : true
+    }, {
+      "id" : 2190,
+      "name" : "天山之雪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20305.jpg",
+      "summary" : "《雪落》篇——本来匆忙逃婚的天雪登上了飞往异国的飞机，却没有想到遇到空难，本以为会就此丧命的天雪却没",
+      "updateStatus" : 1,
+      "capacity" : 5479737,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2548,
+      "name" : "绝色白衣帝师",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22319.jpg",
+      "summary" : "她是一名混血儿，无意间她穿越到了一个未知的世界，但是在这里她用她的聪明才智成为了状元。并且成为了皇子",
+      "updateStatus" : 1,
+      "capacity" : 1073095,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2117,
+      "name" : "天道魔情",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_8868.jpg",
+      "summary" : "神纪末期，在龙宇刚过十岁时，自己喜爱的青冥神公主殒身，在诛心和贰负神酋长的阴谋诡计下，稀里糊涂地离开",
+      "updateStatus" : 1,
+      "capacity" : 1544772,
+      "catName" : "玄幻奇幻",
+      "bothType" : true
+    }, {
+      "id" : 2102,
+      "name" : "殿下惑世",
+      "coverUrl" : "",
+      "summary" : "她是楚国公主，却过着卑微如宫女的日子。再次受辱，她奋起反击，为了让自己的弟弟登上皇位不惜一切代价，甚",
+      "updateStatus" : 1,
+      "capacity" : 5741220,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2816,
+      "name" : "穿越之浅梦吟",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47611.jpg",
+      "summary" : "一只痴怨千年的鬼魅，依附在绝世古服“浅裳”中。她等待渺茫的机会，终于守得云开见月明。以灵魂为契召唤穿",
+      "updateStatus" : 1,
+      "capacity" : 2542861,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2323,
+      "name" : "旖梦泪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19874.jpg",
+      "summary" : "旖梦泪，旖梦泪……她多么希望这是一场梦，然而真实的发生却不容许她去质疑。转世的轮回里，她因自杀、还情",
+      "updateStatus" : 1,
+      "capacity" : 6908550,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2865,
+      "name" : "溺宠妖牌王妃",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44668.jpg",
+      "summary" : "她是穿越而来的腹黑公主，他是冷漠无情的夜国王爷。当腹黑公主遇到冷漠王爷会发生怎样的故事？他对所有人冷",
+      "updateStatus" : 1,
+      "capacity" : 8099503,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2558,
+      "name" : "唯吾独尊：废物公主傲天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44468.jpg",
+      "summary" : "她欧阳阳现代白领，同样也是现代古武家族的天才。却因为自己的变态弟弟而身死。一朝穿越却成为云国的废物公",
+      "updateStatus" : 1,
+      "capacity" : 1134061,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2093,
+      "name" : "废柴王妃：相公欠调教",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_13563.jpg",
+      "summary" : "什么，不会吧，穿越了，穿就穿吧，人家穿越，不是公主，就是皇妃，都是些非富则贵的人，自己不会这么倒霉吧",
+      "updateStatus" : 1,
+      "capacity" : 2825781,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2312,
+      "name" : "栀子梦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47635.jpg",
+      "summary" : "文案：一直认为人生是一条平平的直线，却莫名其妙穿越到了对那段历史基本白痴的五代——于是命运开始改变：",
+      "updateStatus" : 1,
+      "capacity" : 6098005,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2068,
+      "name" : "红妆无忧",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19281.jpg",
+      "summary" : "君王逐鹿天下，烽火四起，只为问鼎中原！红颜倾国倾力，步步生莲，只愿为君唱一曲盛世凯歌！他，亡国皇子！",
+      "updateStatus" : 1,
+      "capacity" : 7282003,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2098,
+      "name" : "东风吹尽龙沙雪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42692.jpg",
+      "summary" : "大明最后一位到建州的和亲公主，努尔哈赤的爱情“瑾儿，就算我娶了再多的女人，你仍是我唯一的元妻。”江山",
+      "updateStatus" : 1,
+      "capacity" : 9972666,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2900,
+      "name" : "辞君天下",
+      "coverUrl" : "",
+      "summary" : "那一年，她还年幼。不懂何为山河，何为家国。那时节，他偶然流落江都，记住的，便是那个倔强的小乞丐。正统",
+      "updateStatus" : 1,
+      "capacity" : 1844274,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2072,
+      "name" : "绝色医仙：迫嫁公主绝情帝",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17793.jpg",
+      "summary" : "本是金枝玉叶的公主，从小却被丢弃于宫外，终见生父颜面，却是要被送往异国和亲。心灰意冷，她已无所求，十",
+      "updateStatus" : 2,
+      "capacity" : 7792329,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2881,
+      "name" : "豪门：公主不愁嫁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17178.jpg",
+      "summary" : "豪门深深，一切，远不是想象中的轻松自在。明明不相爱，但却该死的相配。能有什么办法？父母的要求，政商联",
+      "updateStatus" : 1,
+      "capacity" : 8302065,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2949,
+      "name" : "流云蝶",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46334.jpg",
+      "summary" : "为了阻止天君与邪君的战争……为了维护人间的安静和谐气氛……她果断翘家……只有这样，战争才会停止……她",
+      "updateStatus" : 1,
+      "capacity" : 5547496,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2770,
+      "name" : "绝世桃花扇",
+      "coverUrl" : "",
+      "summary" : "一场误会，拉开了两人的距离，种种的原因，让他们再也无法相爱。她，贵为邻国公主，领兵攻入了他的皇城，那",
+      "updateStatus" : 1,
+      "capacity" : 9164052,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2060,
+      "name" : "和亲九公主：霸爱拽夫君",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16215.jpg",
+      "summary" : "她，一个爹不亲娘不要的九公主，无权无势无颜面，活得比谁都长命是她的愿望，向来人不犯我我不犯人，人若犯",
+      "updateStatus" : 2,
+      "capacity" : 6429154,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2069,
+      "name" : "庶女二嫁：暴君，来暖床",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17653.jpg",
+      "summary" : "一场暗杀，她出卖灵魂，苟活于世。五分宠，五分虐；她的主子助她登顶，给她权势，纵她复仇；却……强了她的",
+      "updateStatus" : 2,
+      "capacity" : 8890187,
+      "catName" : "古代言情",
+      "bothType" : false
+    } ]
+  }
+}

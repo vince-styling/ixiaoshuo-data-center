@@ -8,73 +8,66 @@
     "list" : [ {
       "id" : 2044,
       "name" : "七厘米的蔚蓝",
-      "author" : "七雪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16305.jpg",
       "summary" : "一个本是护士的男银，在没有考到资格证的情况下，外出打工。年仅十七八岁的他，初懂社会的黑暗。本以为一无",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 2265711,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : false
     }, {
       "id" : 2954,
       "name" : "大神卖身不卖艺",
-      "author" : "良椿",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44558.jpg",
       "summary" : "一座似锦繁城，她和他在冥冥注定中交织起千丝万缕；一款当红网游，她和他们在素不相识中堆积起深厚情义。当",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 6299927,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : true
     }, {
       "id" : 2369,
       "name" : "微雨蒙蒙戏流光",
-      "author" : "薇禾",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19582.jpg",
       "summary" : "一句话版：一个外表散漫内心坚韧的小虾米，被大神虐来虐去却顽强不息，最后终抱美男归的有爱故事~~~——",
       "updateStatus" : 1,
-      "catName" : "幻想耽美",
       "capacity" : 4167043,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2365,
       "name" : "网游之嗜血武圣",
-      "author" : "伯爵归来",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20503.jpg",
       "summary" : "一个玩世不恭的健身教练一次偶然的见义勇为让他成为了一个超大型网络游戏里呼风唤雨的人物。激情与烈火在燃",
       "updateStatus" : 1,
-      "catName" : "幻想耽美",
       "capacity" : 8043315,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "幻想耽美",
+      "bothType" : false
     }, {
       "id" : 2491,
       "name" : "网游之睡睡也能成高手",
-      "author" : "秋映",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45941.jpg",
       "summary" : "『新武』并不是全球第一个拟真游戏，但却是唯一春天玩得起的游戏但是谁告诉她这是怎么一回事？有人像她一样",
       "updateStatus" : 1,
-      "catName" : "同人其他",
       "capacity" : 3937533,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "同人其他",
+      "bothType" : false
     }, {
       "id" : 2158,
       "name" : "网游之独狂天下",
-      "author" : "夜魔独狂",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46066.jpg",
       "summary" : "我本来只是一个普通大学毕业的学生，一次的意外让我进入了游戏，在游戏里，我一次次的被背叛，经过了无数的",
       "updateStatus" : 1,
-      "catName" : "仙侠修真",
       "capacity" : 5584691,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "仙侠修真",
+      "bothType" : false
     }, {
       "id" : 3123,
       "name" : "大神嫁到",
-      "author" : "雪旖旎",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44851.jpg",
       "summary" : "他们相遇在网游神语的世界，他们本是两条平行线。她偶然杀了他的爱犬，从此成了他的小宠物，每天讨好他。可",
       "updateStatus" : 1,
-      "catName" : "都市校园",
       "capacity" : 70809,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "都市校园",
+      "bothType" : false
     } ]
   }
 }

@@ -8,33 +8,30 @@
     "list" : [ {
       "id" : 2896,
       "name" : "三界风云之魅影",
-      "author" : "威尼斯伯爵猫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46684.jpg",
       "summary" : "帝都繁华的市井当中，一位名叫公孙牧的年轻人偶遇了一位风流倜傥的贵公子伊瞬华，不曾想这次偶遇为魅族的存",
       "updateStatus" : 1,
-      "catName" : "玄幻奇幻",
       "capacity" : 9773629,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "玄幻奇幻",
+      "bothType" : false
     }, {
       "id" : 2336,
       "name" : "妃似毒：皇子快逃命",
-      "author" : "紫陌阡芊",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46633.jpg",
       "summary" : "那时的他，是个傲然狂肆、唯我独尊、冷戾果断的九皇子。那时的我，只是个初入异空世界的迷惘过客。现代女子",
       "updateStatus" : 1,
-      "catName" : "穿越异界",
       "capacity" : 6420301,
-      "bothType" : true,
-      "coverUrl" : null
+      "catName" : "穿越异界",
+      "bothType" : true
     }, {
       "id" : 3542,
       "name" : "洪流",
-      "author" : "荒灯",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43538.jpg",
       "summary" : "我们生于安稳现世。但没人知道是否下一秒，我们所熟知的这个世界就会被颠覆。所以我们用力地想要好好抓住我",
       "updateStatus" : 1,
-      "catName" : "历史架空",
       "capacity" : 101191,
-      "bothType" : false,
-      "coverUrl" : null
+      "catName" : "历史架空",
+      "bothType" : true
     } ]
   }
 }

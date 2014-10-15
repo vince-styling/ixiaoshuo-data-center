@@ -1,0 +1,28 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 4,
+    "totalPageCount" : 4,
+    "totalItemCount" : 62,
+    "list" : [ {
+      "id" : 3721,
+      "name" : "这个是妖精大人",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14580.jpg",
+      "summary" : "魔法少女驾到，骑着扫帚，带着黑猫，一袭魔法黑袍，天降而下，读心少年悲从何见？少年呐，带着你读心的本领",
+      "updateStatus" : 1,
+      "capacity" : 27756,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 3676,
+      "name" : "时光少女",
+      "coverUrl" : "",
+      "summary" : "简练、精辟的简介将使您的作品更有吸引力，请认真斟酌撰写，并将字数控制在200字以内，与作品无关的内容",
+      "updateStatus" : 1,
+      "capacity" : 26009,
+      "catName" : "都市校园",
+      "bothType" : true
+    } ]
+  }
+}

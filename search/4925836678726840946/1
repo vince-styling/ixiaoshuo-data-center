@@ -1,0 +1,55 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 1,
+    "totalItemCount" : 5,
+    "list" : [ {
+      "id" : 2228,
+      "name" : "暗夜咒：千年之爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43244.jpg",
+      "summary" : "这是一个关于吸血鬼、吸血鬼猎人世家、精灵、幽灵以及魔异幽灵之间恩怨情仇的故事。吸血鬼男生进入校园，遇",
+      "updateStatus" : 1,
+      "capacity" : 3807641,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2298,
+      "name" : "重生联盟之绝代风华",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44089.jpg",
+      "summary" : "厌倦了隐世家族的争斗，她以决绝的方式结束了这一切。却不料……遇上了重生这回事。这一世，她以大联盟宋家",
+      "updateStatus" : 1,
+      "capacity" : 4686445,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2955,
+      "name" : "江山为聘：弃妃倾天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42922.jpg",
+      "summary" : "十六年前。一次处心积虑的谋划，一场千里追杀，她，金枝玉叶，于这夜沦为亡国遗孤，寄养他国，成为位列三公",
+      "updateStatus" : 1,
+      "capacity" : 8308184,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2319,
+      "name" : "绝代风华：魅惑帝王心",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20981.jpg",
+      "summary" : "【千景阁原创出品】她一场车祸，莫名其妙穿到一个架空年代，居然是一个开国大将军的庶女，母亲早死，爹爹不",
+      "updateStatus" : 2,
+      "capacity" : 9303636,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 3246,
+      "name" : "到白首",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20899.jpg",
+      "summary" : "21世纪的富二代渣男苏锦与女博士月皎穿越到架空女尊国，分别附身在当朝丞相独子和女王爷的身上，由此引发",
+      "updateStatus" : 1,
+      "capacity" : 1506423,
+      "catName" : "历史架空",
+      "bothType" : true
+    } ]
+  }
+}

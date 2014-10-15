@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 36,
+    "list" : [ {
+      "id" : 2896,
+      "name" : "三界风云之魅影",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46684.jpg",
+      "summary" : "帝都繁华的市井当中，一位名叫公孙牧的年轻人偶遇了一位风流倜傥的贵公子伊瞬华，不曾想这次偶遇为魅族的存",
+      "updateStatus" : 1,
+      "capacity" : 9773629,
+      "catName" : "玄幻奇幻",
+      "bothType" : true
+    }, {
+      "id" : 2184,
+      "name" : "西月长歌",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46281.jpg",
+      "summary" : "一场大火让八岁的她的族氏败落,家破人亡。十年后她成为了一家酒馆的老板娘，风华绝代，在酒馆中收集情报。",
+      "updateStatus" : 2,
+      "capacity" : 6174557,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 2170,
+      "name" : "轮回三生劫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_5346.jpg",
+      "summary" : "缘定三生，缘证三生。三生石在中国是一个神秘古老而美丽的传说。三生石面前见证了无数催人泪下可歌可泣的爱",
+      "updateStatus" : 1,
+      "capacity" : 6036799,
+      "catName" : "仙侠修真",
+      "bothType" : false
+    }, {
+      "id" : 2661,
+      "name" : "复仇天使：你是我的蛊",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45510.jpg",
+      "summary" : "他强势闯入她的生活，为了留住她不惜自残。她一步步沦陷，却发现他是害死自己青梅竹马男友的人。于是，为了",
+      "updateStatus" : 1,
+      "capacity" : 2646295,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2563,
+      "name" : "妖妻毒后",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41989.jpg",
+      "summary" : "死神镰刀在慕容世家悄然而现，年轻的王子弑帝成君，第一件事，便是令天下再无慕容姓。她身处凤仪宫，尊贵无",
+      "updateStatus" : 1,
+      "capacity" : 3056313,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2069,
+      "name" : "庶女二嫁：暴君，来暖床",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_17653.jpg",
+      "summary" : "一场暗杀，她出卖灵魂，苟活于世。五分宠，五分虐；她的主子助她登顶，给她权势，纵她复仇；却……强了她的",
+      "updateStatus" : 2,
+      "capacity" : 8890187,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3045,
+      "name" : "手中空握染血黑发",
+      "coverUrl" : "",
+      "summary" : "轮回之光再次普照，风花秋月往事萧萧。缘分的牵引，给她的人生带来了一场华丽的转折复仇？爱情?她在其中无",
+      "updateStatus" : 1,
+      "capacity" : 2246413,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2750,
+      "name" : "仇爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46134.jpg",
+      "summary" : "他，冷血无情的天罗第一杀手，身价不菲却孤寂冷漠从不快乐，只为杀人而杀人，这只因他心中，有一个永远的痛",
+      "updateStatus" : 1,
+      "capacity" : 7836390,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2793,
+      "name" : "帅气少爷求KISS",
+      "coverUrl" : "",
+      "summary" : "明明出生在富豪之家，却要忍受着比佣人还要苦的待遇，有人说童年是人生最快乐的日子，而我却在童年度过了一",
+      "updateStatus" : 1,
+      "capacity" : 4279884,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 2734,
+      "name" : "诱拐冷情公主妻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18719.jpg",
+      "summary" : "血刃，杀戮，从一开始，就是她生命的全部，无论是前世还是今生。其实，并不是天生就这样冷血无情，只是有些",
+      "updateStatus" : 1,
+      "capacity" : 8952904,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2705,
+      "name" : "黑道-恋上如月",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18171.jpg",
+      "summary" : "在这个世界的空间层里存在着一个名为“术士界”的世界，在这个种族人群并不多的世界里，我们成为了命运的棋",
+      "updateStatus" : 1,
+      "capacity" : 6942807,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2711,
+      "name" : "卿本佳人：第一女状元",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47200.jpg",
+      "summary" : "木婉清和父母在旅游的途中出了车祸，醒来之时发现自己已经成了将军的二小姐，而现在自己正要去见太子，因为",
+      "updateStatus" : 1,
+      "capacity" : 5966922,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 3354,
+      "name" : "复仇公主恋爱记",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43233.jpg",
+      "summary" : "片段一：“你这个贱女人，就会勾引澈，早点离开澈，否则后果自负。”慕容悦微整理好状态，凶神恶煞的对嫣说",
+      "updateStatus" : 1,
+      "capacity" : 606641,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3250,
+      "name" : "极点之境",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19998.jpg",
+      "summary" : "神是唯一，却有三个位格，圣父是创生，圣子是守护，圣灵则为调率。而路西法则是那不为人知的另一个秘密。神",
+      "updateStatus" : 1,
+      "capacity" : 1018947,
+      "catName" : "幻想耽美",
+      "bothType" : false
+    }, {
+      "id" : 2879,
+      "name" : "恨别离之乱世情殇",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46218.jpg",
+      "summary" : "幼时她遇见了他，她选择了守候，可最后……一场无情的车祸，夺走了她父母的生命，原本以为只是一个简单的车",
+      "updateStatus" : 1,
+      "capacity" : 7670837,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3078,
+      "name" : "苍梧之涅槃凤后",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45826.jpg",
+      "summary" : "一个现世伤痕累累的女强人在完成自己的复仇之后生无可恋时竟遭遇车祸重生到异世，异世的她附身在一个面容全",
+      "updateStatus" : 1,
+      "capacity" : 966406,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2835,
+      "name" : "凉薄如雪",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47209.jpg",
+      "summary" : "善良如她，美丽如她，热情如她....可是经历弟弟中毒，父母失踪，闺蜜夺爱的变故，幕后的那只黑手却并没",
+      "updateStatus" : 1,
+      "capacity" : 6180073,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 3584,
+      "name" : "致臻与谁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43406.jpg",
+      "summary" : "几近于完美的男人，几近于不可思议的相遇；十五岁的恪臻第一次遇到他；翩翩君子，温柔宠溺；只要你要，我就",
+      "updateStatus" : 1,
+      "capacity" : 857051,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2322,
+      "name" : "异世至尊红颜",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20365.jpg",
+      "summary" : "一个穿越异世的落魄公主，一句临死前的诺言，一本鬼影十三式，一段毒咒引发的复仇，引来无数血雨风波。弱肉",
+      "updateStatus" : 1,
+      "capacity" : 7099514,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3171,
+      "name" : "豪门冷少：撞上复仇女王",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16755.jpg",
+      "summary" : "三年前的一次重逢，接踵而至的却是三年的梦魇……三年后，陈婧文再次踏上熟悉的城市，迎接她的是怎么样的际",
+      "updateStatus" : 1,
+      "capacity" : 301830,
+      "catName" : "都市校园",
+      "bothType" : false
+    } ]
+  }
+}

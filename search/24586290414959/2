@@ -1,0 +1,118 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 2,
+    "totalItemCount" : 32,
+    "list" : [ {
+      "id" : 3534,
+      "name" : "风起翼翔雪牵洛楹",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45985.jpg",
+      "summary" : "一位是体坛上的风云王者，是众多粉丝眼中神秘的王子；一位是普普通通的平凡女子，重复着众多人的求学之路。",
+      "updateStatus" : 1,
+      "capacity" : 229937,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3409,
+      "name" : "素手霸天下",
+      "coverUrl" : "",
+      "summary" : "一世情，万念灰，涅盘变，风云转",
+      "updateStatus" : 1,
+      "capacity" : 237522,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3205,
+      "name" : "当冷公主遇上甜心少",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44723.jpg",
+      "summary" : "自我介绍？哦、我叫风云澈，没了。还是这么冷漠、算了算了，允替你说，风云澈，圣彼特SA排行榜榜首，17",
+      "updateStatus" : 1,
+      "capacity" : 313488,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3662,
+      "name" : "窈窕君子",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47019.jpg",
+      "summary" : "这是一个毫无节操的摄政王吐槽史，和一群人不断的掉节操的故事，女尊，但是是正常向。一朝风云变，南齐朝政",
+      "updateStatus" : 1,
+      "capacity" : 241009,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3115,
+      "name" : "乱世年华之生死绝恋",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46310.jpg",
+      "summary" : "北方有佳人，绝世而独立，一顾倾人城,再顾倾人国。宁不知倾城与倾国?佳人难再得!他，一个民国年间的纨绔",
+      "updateStatus" : 1,
+      "capacity" : 313492,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3072,
+      "name" : "倒转乾坤：女帝慑天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47147.jpg",
+      "summary" : "她，是灭神阁阁主，一朝大意，灵魂横跨虚空而来，寄居于名为十六君卿的少女之身。一个因母亲的莫名执念，卸",
+      "updateStatus" : 1,
+      "capacity" : 439058,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2808,
+      "name" : "女王重生：欺上恶魔总裁",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47165.jpg",
+      "summary" : "前世她是他手中的一颗棋子，被他护在怀中只为利用，最终却长眠不醒。这一世睁眼醒来，她却仍然在那个掌控她",
+      "updateStatus" : 1,
+      "capacity" : 3089270,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3133,
+      "name" : "铁腕揉情：大世传说",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44477.jpg",
+      "summary" : "她是从饥荒中逃出的哑女，温顺善良；他是四处救死扶伤的游侠，恣意乖张。天地悠悠，独彼此为伴，以为能够日",
+      "updateStatus" : 1,
+      "capacity" : 272144,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 3507,
+      "name" : "血雨腥风恩仇录",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47933.jpg",
+      "summary" : "血雨腥风的江湖，野心、谋杀、背叛，多少平凡的、伟大的人一起来演绎一段段的不平凡。上官夜，铭教的教主，",
+      "updateStatus" : 1,
+      "capacity" : 65522,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3386,
+      "name" : "云水竹心",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43005.jpg",
+      "summary" : "一日心期千劫在，前世今生几度情。寻常风月，等闲笑谈，算而今，一心难觅。拟把东风唤与，尽欢樽前，怎使得",
+      "updateStatus" : 1,
+      "capacity" : 314570,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3407,
+      "name" : "尽芳华",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46472.jpg",
+      "summary" : "她是璇玥后人，还是第一公子？她是将门之后，还是天下名妓？一代宫主，惊才绝艳。那是一段风云突变的历史，",
+      "updateStatus" : 1,
+      "capacity" : 150633,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 3132,
+      "name" : "三界悲诳录",
+      "coverUrl" : "",
+      "summary" : "三界风云暗涌，英雄们即将相遇，铁血征途！离别，无奈，友情，三界架空系列第一部，开启",
+      "updateStatus" : 1,
+      "capacity" : 23899,
+      "catName" : "历史架空",
+      "bothType" : false
+    } ]
+  }
+}

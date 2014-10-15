@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 1,
+    "totalPageCount" : 2,
+    "totalItemCount" : 28,
+    "list" : [ {
+      "id" : 2926,
+      "name" : "清宫情史",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46122.jpg",
+      "summary" : "这是关于乾隆的故事。人生如梦，从清朝而来。巴林氏，名婉君，本可以安闲逍遥地过自己与习连翊的举案齐眉。",
+      "updateStatus" : 1,
+      "capacity" : 3728842,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2130,
+      "name" : "文德皇后传",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46516.jpg",
+      "summary" : "我在皇上还未登基前便入了府，过往的那段岁月，当真是此生难忘。三年前，也是这样一个月朗星稀的夜晚。他还",
+      "updateStatus" : 1,
+      "capacity" : 4164520,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2300,
+      "name" : "蛇眸繁花",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_15198.jpg",
+      "summary" : "这世上，也有人是穿越得根本不知道自己怎么穿的。这世上，也有天然呆偏偏是断案高手的。一朝穿越成名捕之女",
+      "updateStatus" : 2,
+      "capacity" : 2862316,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2276,
+      "name" : "皇上坏坏：爱妃该睡觉了",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14900.jpg",
+      "summary" : "她一直想要个美男，上帝伯伯对她还真好，趁她睡一觉就扔她到不知名的朝代，然后。。。架空穿越的狗血剧情上",
+      "updateStatus" : 1,
+      "capacity" : 2992733,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 2842,
+      "name" : "逆天独宠：霸上废柴王爷",
+      "coverUrl" : "",
+      "summary" : "十五岁，段千雾斗败万千勇士成为昊王府最强探子，却被派做当朝最废物的七王爷小妾，斗服所有妃妾封为王妃。",
+      "updateStatus" : 1,
+      "capacity" : 4224635,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2763,
+      "name" : "医暖天下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45970.jpg",
+      "summary" : "凤凰涅盘，浴火重生......遗失了五岁之前所有的记忆，她成了养女。为了姐姐，她外出学医多年。性情温",
+      "updateStatus" : 1,
+      "capacity" : 2193731,
+      "catName" : "古代言情",
+      "bothType" : true
+    }, {
+      "id" : 2916,
+      "name" : "龙凤斗：皇后在上朕在下",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21787.jpg",
+      "summary" : "她叫帅悠贝，人生又衰又背！作为一名牌医科大学的高材生，她连续五次医科考试考试败北，在第六次参加考试时",
+      "updateStatus" : 1,
+      "capacity" : 8878650,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2716,
+      "name" : "风华绝代红颜决",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19981.jpg",
+      "summary" : "一朝穿越当小姐，回首再顾成皇后。只因微微回眸，却再难割舍。也许这就是现实，不论身在何方，仍是挣扎的生",
+      "updateStatus" : 1,
+      "capacity" : 2514514,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 2115,
+      "name" : "宫心计：弃后霸君宠",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_3153.jpg",
+      "summary" : "“她，是大莹王朝未来的皇后。”太后一句懿旨，让她从一个不受宠的郡主一跃变成母仪天下的国母。权宠之争，",
+      "updateStatus" : 2,
+      "capacity" : 3994478,
+      "catName" : "历史架空",
+      "bothType" : true
+    }, {
+      "id" : 2253,
+      "name" : "凤凰斗：刁蛮皇后不从夫",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_6243.jpg",
+      "summary" : "他，是天穆睿智多情的帝王，少年登位，筹谋良久，终觅得心中所属，以为自此后便是良辰美景，鸳鸯织颈。哪知",
+      "updateStatus" : 2,
+      "capacity" : 7002640,
+      "catName" : "历史架空",
+      "bothType" : false
+    }, {
+      "id" : 2971,
+      "name" : "穿越之皇后是富婆",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_41354.jpg",
+      "summary" : "她---林小野，一个二十一世界在商学院号称“股神小美女”的高才生，竟然因为迷恋一个古代的美男陶塑而意",
+      "updateStatus" : 1,
+      "capacity" : 8925571,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2880,
+      "name" : "卿本红颜之妃常杀手",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45927.jpg",
+      "summary" : "这年头穿越成风，完成个特殊任务也会穿越只是穿越到了一个不受待见的皇后身上，她的穿越之旅注定坎坷。温柔",
+      "updateStatus" : 1,
+      "capacity" : 8986045,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3442,
+      "name" : "这个皇后朕买了",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_42242.jpg",
+      "summary" : "臣流泪情愿：姑娘，溺水三千，你就饮了陛下这一瓢吧————————夜傲风：后宫佳丽三千人，君只专宠你一",
+      "updateStatus" : 1,
+      "capacity" : 2405607,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2332,
+      "name" : "皇后哪里跑，儿子要认妈",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_19548.jpg",
+      "summary" : "【恶搞&歪歪】已故皇后遭雷劈，发生了什么？他乡又见变厨娘，这怎么可能？青楼热舞成老鸨，你丫找死！翻脸",
+      "updateStatus" : 1,
+      "capacity" : 8184658,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2302,
+      "name" : "皇后志",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20650.jpg",
+      "summary" : "那是她人生中的一大败笔，史上最悲催的穿越之路开启了。屠杀，追杀，刺杀，拦路抢劫，什么都遇到了，坑爹的",
+      "updateStatus" : 1,
+      "capacity" : 2265498,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2039,
+      "name" : "羊入虎口：皇后，朕劫个色",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16342.jpg",
+      "summary" : "现代女肖飞扬穿越到架空古代首富女萧绯杨身上。少年的萧绯杨被师傅们带到山上苦练，十五岁之前给师傅扔下山",
+      "updateStatus" : 2,
+      "capacity" : 5789494,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 2104,
+      "name" : "那一世红莲雨",
+      "coverUrl" : "",
+      "summary" : "那一世，她是魔尊眉心一点朱砂，他是佛祖脚下踏步而生的白莲，那一世，神魔大战，她同他相遇，他对她说，我",
+      "updateStatus" : 1,
+      "capacity" : 2742052,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2238,
+      "name" : "白发皇后：本宫不倾城",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_11811.jpg",
+      "summary" : "【女强文】他是人人鄙夷的草包王爷，长相不出众更是个弱不禁风的药篓子还生性风流，流连烟花之地她是人人鄙",
+      "updateStatus" : 1,
+      "capacity" : 6364382,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3690,
+      "name" : "帝王劫：重生之丑女皇后",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46019.jpg",
+      "summary" : "究竟是爱，还是深入肺腑的恨？她，其貌不扬，却心地纯善，曾被人算计，遭帝王厌弃而被废冷宫，重生到五年之",
+      "updateStatus" : 1,
+      "capacity" : 155986,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 3021,
+      "name" : "千宠万爱",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45804.jpg",
+      "summary" : "她，要吃要睡不要美男。前世过着与继母继姐争夺的日子，却不失乐趣所在。一日睡醒，不知身在何处。前世无爱",
+      "updateStatus" : 1,
+      "capacity" : 5256209,
+      "catName" : "古代言情",
+      "bothType" : true
+    } ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "status" : 200,
+  "message" : "",
+  "data" : {
+    "curPageNo" : 2,
+    "totalPageCount" : 4,
+    "totalItemCount" : 62,
+    "list" : [ {
+      "id" : 2240,
+      "name" : "一亿一剑一情绝",
+      "coverUrl" : "",
+      "summary" : "一个绝色少女为恨甘愿堕落成嗜血魔鬼一个清冷少年为情甘愿放弃注定的命运一切好像突如其来，却早已被安排。",
+      "updateStatus" : 1,
+      "capacity" : 3246227,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 3545,
+      "name" : "泪痕",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16942.jpg",
+      "summary" : "她是沉浸在悲伤里高中少女，双重性格，是天使？还是恶魔？阴差阳错，他们相遇。学生会一连串的保护下，绑架",
+      "updateStatus" : 1,
+      "capacity" : 917403,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2214,
+      "name" : "冥王老大：鬼眼小娇妻",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16545.jpg",
+      "summary" : "她，美丽与智慧合体的纯情美少女，一双不为人知的阴阳眼注定了她的一生要跟鬼打交道。他，世界黑道唯一的领",
+      "updateStatus" : 2,
+      "capacity" : 7953424,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2477,
+      "name" : "特刑队之绝密档案",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43720.jpg",
+      "summary" : "本文原名《凶手非人类》墓穴中的尸体神秘消失，少女尸体脖子上有着奇怪的创口，就在办案能力极强的刑侦大队",
+      "updateStatus" : 1,
+      "capacity" : 9760578,
+      "catName" : "灵异悬疑",
+      "bothType" : false
+    }, {
+      "id" : 3029,
+      "name" : "双女穿越记",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_14988.jpg",
+      "summary" : "话说这年头人人玩穿越，车祸穿、跳楼穿、雷劈穿.....总之是因有尽有，无奇不有。但是咱们可不同，是跟",
+      "updateStatus" : 1,
+      "capacity" : 4541191,
+      "catName" : "穿越异界",
+      "bothType" : true
+    }, {
+      "id" : 2959,
+      "name" : "是现实太现实之面具",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47550.jpg",
+      "summary" : "如果可以，我们能不能好好珍惜彼此？如果可以，我一定不会倔强任性了如果可以，我会放下我可笑的面子去挽留",
+      "updateStatus" : 1,
+      "capacity" : 5852762,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2526,
+      "name" : "[网王]花菱の樱",
+      "coverUrl" : "",
+      "summary" : "闪耀迷人如同星光般纯粹耀眼的金色及膝长发，蒲扇般的睫毛，琉璃色的瞳孔，如同贵族公主般倾城的耀眼容颜，",
+      "updateStatus" : 1,
+      "capacity" : 2206911,
+      "catName" : "同人其他",
+      "bothType" : true
+    }, {
+      "id" : 2738,
+      "name" : "苦忘·浮生如梦",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47966.jpg",
+      "summary" : "苦忘，有苦难忘……即便你我相爱，却也终究逃不过那玩笑般的命运……她本是21世纪的少女，一次偶然的情况",
+      "updateStatus" : 1,
+      "capacity" : 6221714,
+      "catName" : "穿越异界",
+      "bothType" : false
+    }, {
+      "id" : 3738,
+      "name" : "献青春：那些我们叛逆过的叛逆",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43882.jpg",
+      "summary" : "时光荐苒，岁月迷离。当我们一步一步偏离彼此的轨迹…一个一个慢慢离去。一段多人旅途变成了单人旅程。回望",
+      "updateStatus" : 1,
+      "capacity" : 1474816,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2491,
+      "name" : "网游之睡睡也能成高手",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_45941.jpg",
+      "summary" : "『新武』并不是全球第一个拟真游戏，但却是唯一春天玩得起的游戏但是谁告诉她这是怎么一回事？有人像她一样",
+      "updateStatus" : 1,
+      "capacity" : 3937533,
+      "catName" : "同人其他",
+      "bothType" : false
+    }, {
+      "id" : 3341,
+      "name" : "生于暮晨死于暮歌",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_16577.jpg",
+      "summary" : "她是幕歌，父母离异，孤身一人.....他是苏哲，家境良好，性格开朗.....她是温雅，不良少女，糜烂",
+      "updateStatus" : 1,
+      "capacity" : 179397,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3529,
+      "name" : "黑道少女",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_18160.jpg",
+      "summary" : "龙莹夜一个15岁的全能少女，由于出生在一个有钱的黑道世家并且她的母亲在她刚出生时就去世了，所以她一出",
+      "updateStatus" : 1,
+      "capacity" : 380854,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3406,
+      "name" : "百转成神记忆重现",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44062.jpg",
+      "summary" : "夏天真是一个神奇的季节，它会使一些处于青春期悸动的少男少女们体内的荷尔蒙迅速提升，当他们的体温恒定在",
+      "updateStatus" : 1,
+      "capacity" : 505373,
+      "catName" : "玄幻奇幻",
+      "bothType" : false
+    }, {
+      "id" : 2652,
+      "name" : "墨世情缘对对碰",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_43428.jpg",
+      "summary" : "这里有史上最爱搞怪好整人的金家三姐弟：大姐金雪苒，其弟金昊哲的评价是“外表纯真像个女神，内心腹黑像个",
+      "updateStatus" : 1,
+      "capacity" : 8285459,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2976,
+      "name" : "少女养成之就是赖上你",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_21195.jpg",
+      "summary" : "这是什么世道？连睡个觉都有可能睡死？可怜的她才十八岁，就这样香消玉殒了吗？什么，小鬼勾错魂了，那能让",
+      "updateStatus" : 1,
+      "capacity" : 5412982,
+      "catName" : "古代言情",
+      "bothType" : false
+    }, {
+      "id" : 2631,
+      "name" : "顽皮少女的异样人生",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_46444.jpg",
+      "summary" : "“曾经，我只喜欢你，甚至爱你爱到不可理喻的地步。”她梨花带雨的对他哭诉，但心里知道很多事一旦错过变不",
+      "updateStatus" : 1,
+      "capacity" : 6993650,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 2445,
+      "name" : "饰心",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_44317.jpg",
+      "summary" : "木汐尧和季繁华相识在浮世道场，相知在西歌中学，相惜于千秦城C大。失去彼此消息的五年里，才真正清楚面对",
+      "updateStatus" : 1,
+      "capacity" : 2667685,
+      "catName" : "都市校园",
+      "bothType" : false
+    }, {
+      "id" : 3245,
+      "name" : "双凤夺体：娇蛮宠姬不好惹",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_20882.jpg",
+      "summary" : "一场车祸，穿到了乱世一次逃亡，掉下了悬崖自此，一个身体里的两个灵魂争身夺体，互不相让，其中爆笑连连，",
+      "updateStatus" : 1,
+      "capacity" : 687160,
+      "catName" : "历史架空",
+      "bothType" : true
+    }, {
+      "id" : 3065,
+      "name" : "反女巫联盟",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_47198.jpg",
+      "summary" : "十七岁的平凡少女廖卡卡在被天后巨星艾儿缠上后，日子发生了翻天覆地的变化。只有两个人的反女巫联盟能改革",
+      "updateStatus" : 1,
+      "capacity" : 362829,
+      "catName" : "都市校园",
+      "bothType" : true
+    }, {
+      "id" : 3700,
+      "name" : "江湖囧事录",
+      "coverUrl" : "http://ixiaoshuo.vincestyling.com/covers/cover_22653.jpg",
+      "summary" : "严小花是一个很普通的女人却在完全不想穿越的情况下穿越了。萧小怡是一个很不普通的少女。以前的她会制蛊毒",
+      "updateStatus" : 1,
+      "capacity" : 222505,
+      "catName" : "穿越异界",
+      "bothType" : false
+    } ]
+  }
+}
